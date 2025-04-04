@@ -1,0 +1,24 @@
+{
+  "name": "apr-puppeteer",
+  "version": "1.0.0",
+  "description": "APR project using Puppeteer for web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "apr",
+    "web-scraping"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.8.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "proxy-chain": "^2.3.0"
+  }
+}

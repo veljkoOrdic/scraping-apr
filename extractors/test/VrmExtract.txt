@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vehicle Details</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div class="vehicle-container">
+        <h1>Kia Sportage Details</h1>
+        <div class="vehicle-summary" data-vrm="SM16GKD">
+            <p>Registration: <span id="registration" data-vrm="SM16GKD">SM16GKD</span></p>
+            <script>
+                const vehicleData = {
+                    make: "Kia",
+                    model: "Sportage",
+                    vrm:"SM16GKD",
+                    year: 2016,
+                    fuel: "Diesel",
+                    transmission: "Manual"
+                };
+                console.log(vehicleData);
+            </script>
+        </div>
+        <div class="vehicle-details">
+            <ul>
+                <li>Make: Kia</li>
+                <li>Model: Sportage</li>
+                <li>Year: 2016</li>
+                <li>Fuel Type: Diesel</li>
+                <li>Transmission: Manual</li>
+                <li>Mileage: 45,000</li>
+                <li>Color: Silver</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

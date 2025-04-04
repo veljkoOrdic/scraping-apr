@@ -1,0 +1,281 @@
+{
+    "VehicleResults": [
+        {
+            "FinanceProductResults": [
+                {
+                    "Key": "HP",
+                    "HasError": false,
+                    "Notifications": {
+                        "Public": []
+                    },
+                    "Quote": {
+                        "AllInclusiveRegularPayment": 422.16,
+                        "CashPrice": 20995.00,
+                        "TotalPrice": 20995.00,
+                        "TotalDeposit": 2100.00,
+                        "Deposit": 2100.00,
+                        "Balance": 18895.00,
+                        "Term": 60,
+                        "RegularPayment": 422.16,
+                        "Residual": 0.0,
+                        "ExcessMileageRate": 0.0,
+                        "AnnualMileage": 10000,
+                        "ContractMileage": 0,
+                        "CostBreakdown": {
+                            "Accessories": 0.0,
+                            "BasePrice": 20995.00,
+                            "RoadFundLicence": 0.0,
+                            "RegistrationFee": 0.0,
+                            "Delivery": 0.0,
+                            "ManufacturerDelivery": 0.0,
+                            "OtrPrice": 20995.00,
+                            "BrandDiscount": null,
+                            "RetailerDiscount": null,
+                            "GovernmentGrant": null,
+                            "EquipmentOptionsTotal": 0.0,
+                            "Plates": 0.0
+                        },
+                        "Fees": [
+                            {
+                                "Amount": 1.00,
+                                "DisplayText": "Included in the final payment shown is an option to purchase fee of &#163;1.00",
+                                "FeeType": "Option",
+                                "Profile": "LAST"
+                            }
+                        ],
+                        "Apr": 12.9,
+                        "TotalAmountPayable": 27430.60,
+                        "RateOfInterest": 12.90,
+                        "QuoteActions": {
+                            "Apply": "https://services.codeweavers.net/forms/quote/3c55e73d-98ab-494e-9ff1-7047468adf38/apply",
+                            "Refinance": "https://services.codeweavers.net/forms/quote/3c55e73d-98ab-494e-9ff1-7047468adf38/apply-for-refinance",
+                            "RetailerApply": "https://services.codeweavers.net/forms/quote/3c55e73d-98ab-494e-9ff1-7047468adf38/retailer-apply",
+                            "Print": "https://services.codeweavers.net/forms/quote/3c55e73d-98ab-494e-9ff1-7047468adf38/printquote",
+                            "TermsAndConditions": "https://services.codeweavers.net/Api/Finance/Quote/3c55e73d-98ab-494e-9ff1-7047468adf38/TermsAndConditions",
+                            "Base": "https://services.codeweavers.net/forms/quote/3c55e73d-98ab-494e-9ff1-7047468adf38"
+                        },
+                        "QuoteLink": "https://services.codeweavers.net/forms/quote/3c55e73d-98ab-494e-9ff1-7047468adf38",
+                        "CustomerRate": 12.90,
+                        "DepositContribution": 0.0,
+                        "CashDeposit": 2100.00,
+                        "Settlement": 0.0,
+                        "PartExchange": 0.0,
+                        "Payments": [
+                            {
+                                "Amount": 422.16,
+                                "NumberOfPayments": 59
+                            },
+                            {
+                                "Amount": 423.16,
+                                "NumberOfPayments": 1
+                            }
+                        ],
+                        "PaymentsIncluded": [],
+                        "AdditionalPayments": [],
+                        "QuoteReference": "3c55e73d-98ab-494e-9ff1-7047468adf38",
+                        "ValidTo": "9999-12-31T23:59:59.9999999",
+                        "DepositContributions": [],
+                        "CashPriceDiscounts": [],
+                        "TotalAmountOfCharges": 6435.60,
+                        "AmountOfCredit": 18895.00,
+                        "TotalChargeForCredit": 6435.60,
+                        "CustomerReference": "b3f7439d-8a6e-440d-af95-112a9c4c62cd",
+                        "Breakdown": [
+                            {
+                                "Type": "Road Fund Licence",
+                                "Amount": 0.0
+                            }
+                        ],
+                        "FinalPayment": 423.16,
+                        "CalculatingDealerId": 43851,
+                        "CalculatingDealerKey": null,
+                        "Channel": {
+                            "Key": "RETAILER"
+                        },
+                        "NumberOfRegularPayments": 58,
+                        "TotalAmountPayableExcludingContributions": 27430.60,
+                        "DepositContributionsBreakdown": [],
+                        "ValueAddedProducts": [],
+                        "ContractLength": 60,
+                        "CalculatingOrganisationReferences": {},
+                        "VehicleReference": "51185114-e468-477a-a0f8-ad636ed361e2"
+                    },
+                    "Product": {
+                        "Type": "Hire Purchase",
+                        "Name": "Hire Purchase",
+                        "IsCashSale": false,
+                        "Id": 1265,
+                        "TermsName": "Hire Purchase",
+                        "IsResidualBased": false,
+                        "Key": "HP",
+                        "Lender": "Motion Finance",
+                        "LenderLogo": "https://d3he9si2xmpgay.cloudfront.net/services/plugin/images/lenders/motion_logo.png",
+                        "UniqueProductCode": null,
+                        "ExternalIdentifier": null,
+                        "PromoCode": ""
+                    },
+                    "Vehicle": {
+                        "IdentifierType": "CapShortCode",
+                        "Identifier": "99534",
+                        "Manufacturer": "Kia",
+                        "Model": "SPORTAGE",
+                        "Variant": "ESTATE",
+                        "Derivative": "1.6T GDi ISG GT-Line",
+                        "Description": "SPORTAGE ESTATE 1.6T GDi ISG GT-Line",
+                        "RegistrationDate": "31/03/2022",
+                        "EquipmentOptions": [],
+                        "IsNew": false,
+                        "VehicleStatus": "PreOwned",
+                        "RegistrationNumber": "FY22WFJ",
+                        "CurrentMileage": 40000
+                    },
+                    "Descriptions": null,
+                    "IsOffer": false
+                },
+                {
+                    "Key": "PCP",
+                    "HasError": false,
+                    "Notifications": {
+                        "Public": []
+                    },
+                    "Quote": {
+                        "AllInclusiveRegularPayment": 356.33,
+                        "CashPrice": 20995.00,
+                        "TotalPrice": 20995.00,
+                        "TotalDeposit": 2100.00,
+                        "Deposit": 2100.00,
+                        "Balance": 18895.00,
+                        "Term": 60,
+                        "RegularPayment": 356.33,
+                        "Residual": 6612.96,
+                        "ExcessMileageRate": 5.44,
+                        "AnnualMileage": 10000,
+                        "ContractMileage": 50000,
+                        "CostBreakdown": {
+                            "Accessories": 0.0,
+                            "BasePrice": 20995.00,
+                            "RoadFundLicence": 0.0,
+                            "RegistrationFee": 0.0,
+                            "Delivery": 0.0,
+                            "ManufacturerDelivery": 0.0,
+                            "OtrPrice": 20995.00,
+                            "BrandDiscount": null,
+                            "RetailerDiscount": null,
+                            "GovernmentGrant": null,
+                            "EquipmentOptionsTotal": 0.0,
+                            "Plates": 0.0
+                        },
+                        "Fees": [
+                            {
+                                "Amount": 1.00,
+                                "DisplayText": "Included in the final payment shown is an option to purchase fee of &#163;1.00",
+                                "FeeType": "Option",
+                                "Profile": "LAST"
+                            }
+                        ],
+                        "Apr": 13.9,
+                        "TotalAmountPayable": 29737.43,
+                        "RateOfInterest": 13.90,
+                        "QuoteActions": {
+                            "Apply": "https://services.codeweavers.net/forms/quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7/apply",
+                            "Refinance": "https://services.codeweavers.net/forms/quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7/apply-for-refinance",
+                            "RetailerApply": "https://services.codeweavers.net/forms/quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7/retailer-apply",
+                            "Print": "https://services.codeweavers.net/forms/quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7/printquote",
+                            "TermsAndConditions": "https://services.codeweavers.net/Api/Finance/Quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7/TermsAndConditions",
+                            "Base": "https://services.codeweavers.net/forms/quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7"
+                        },
+                        "QuoteLink": "https://services.codeweavers.net/forms/quote/d965518c-2fe1-4cb4-84a7-449b8f9a83c7",
+                        "CustomerRate": 13.90,
+                        "DepositContribution": 0.0,
+                        "IsRepresentativeExample": true,
+                        "CashDeposit": 2100.00,
+                        "Settlement": 0.0,
+                        "PartExchange": 0.0,
+                        "Payments": [
+                            {
+                                "Amount": 356.33,
+                                "NumberOfPayments": 59
+                            },
+                            {
+                                "Amount": 6613.96,
+                                "NumberOfPayments": 1
+                            }
+                        ],
+                        "PaymentsIncluded": [],
+                        "AdditionalPayments": [],
+                        "QuoteReference": "d965518c-2fe1-4cb4-84a7-449b8f9a83c7",
+                        "ValidTo": "9999-12-31T23:59:59.9999999",
+                        "DepositContributions": [],
+                        "CashPriceDiscounts": [],
+                        "TotalAmountOfCharges": 8742.43,
+                        "AmountOfCredit": 18895.00,
+                        "TotalChargeForCredit": 8742.43,
+                        "CustomerReference": "b3f7439d-8a6e-440d-af95-112a9c4c62cd",
+                        "Breakdown": [
+                            {
+                                "Type": "Road Fund Licence",
+                                "Amount": 0.0
+                            }
+                        ],
+                        "FinalPayment": 6613.96,
+                        "CalculatingDealerId": 43851,
+                        "CalculatingDealerKey": null,
+                        "Channel": {
+                            "Key": "RETAILER"
+                        },
+                        "NumberOfRegularPayments": 58,
+                        "TotalAmountPayableExcludingContributions": 29737.43,
+                        "DepositContributionsBreakdown": [],
+                        "ValueAddedProducts": [],
+                        "ContractLength": 60,
+                        "CalculatingOrganisationReferences": {},
+                        "VehicleReference": "51185114-e468-477a-a0f8-ad636ed361e2"
+                    },
+                    "Product": {
+                        "Type": "PCP",
+                        "Name": "Personal Contract Purchase",
+                        "IsCashSale": false,
+                        "Id": 1266,
+                        "TermsName": "Personal Contract Purchase",
+                        "IsResidualBased": true,
+                        "Key": "PCP",
+                        "Lender": "Motion Finance",
+                        "LenderLogo": "https://d3he9si2xmpgay.cloudfront.net/services/plugin/images/lenders/motion_logo.png",
+                        "UniqueProductCode": null,
+                        "ExternalIdentifier": null,
+                        "PromoCode": ""
+                    },
+                    "Vehicle": {
+                        "IdentifierType": "CapShortCode",
+                        "Identifier": "99534",
+                        "Manufacturer": "Kia",
+                        "Model": "SPORTAGE",
+                        "Variant": "ESTATE",
+                        "Derivative": "1.6T GDi ISG GT-Line",
+                        "Description": "SPORTAGE ESTATE 1.6T GDi ISG GT-Line",
+                        "RegistrationDate": "31/03/2022",
+                        "EquipmentOptions": [],
+                        "IsNew": false,
+                        "VehicleStatus": "PreOwned",
+                        "RegistrationNumber": "FY22WFJ",
+                        "CurrentMileage": 40000
+                    },
+                    "Descriptions": null,
+                    "IsOffer": false
+                }
+            ],
+            "Id": "Finance Plugin"
+        }
+    ],
+    "FinanceOptions": {
+        "DefaultAnnualMileage": 0,
+        "DefaultTerm": 0,
+        "Deposit": 0.0,
+        "Terms": [],
+        "AnnualMileages": [],
+        "MinTerm": 0,
+        "MaxTerm": 0,
+        "MinMileage": 0,
+        "MaxMileage": 0
+    }
+}
