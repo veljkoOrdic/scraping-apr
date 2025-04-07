@@ -1,5 +1,4 @@
 const IPlugin = require('./IPlugin');
-const Writer = require('../lib/Writer');
 
 /**
  * Plugin for monitoring and extracting Codeweavers finance calculator data
@@ -45,7 +44,7 @@ class CodeweaversCalculatorPlugin extends IPlugin {
           try {
             jsonData = JSON.parse(text);
           } catch (error) {
-            Writer.write(this.name, `Failed to parse JSON: ${error.message}`, url, Writer.RED);
+            this.emit('error', `Failed to parse JSON: ${error.message}`, { url });
             return;
           }
 
@@ -55,11 +54,11 @@ class CodeweaversCalculatorPlugin extends IPlugin {
 
           if (results && results.length > 0) {
             // Use the standardized result handler
-            this.handleResultFound(results, url);
+            this.handleResultFound(results, this.mainUrl);
           }
         }
       } catch (error) {
-        Writer.write(this.name, `Error processing response: ${error.message}`, url, Writer.RED);
+        this.emit('error', `Error processing response: ${error.message}`, { url });
       }
     }
   }

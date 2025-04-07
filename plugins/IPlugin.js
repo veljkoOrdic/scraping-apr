@@ -1,3 +1,6 @@
+const Event = require("../lib/Event");
+const eventEmitter = require("../lib/EventEmitter");
+
 /**
  * Interface for plugins to be used with MyPuppeteer
  * This is a base class that all plugins should extend
@@ -121,8 +124,7 @@ class IPlugin {
     this.pluginResult = result;
 
     // Log the result
-    const Writer = require('../lib/Writer');
-    Writer.write(this.name, result, url, Writer.RED);
+    this.saveResult(this.name, result, url);
 
     // Stop loading and abort pending requests first if configured to close
     if (this.options.closeAfterFind && this.puppeteer && this.puppeteer.page) {
@@ -139,24 +141,49 @@ class IPlugin {
       // Use setTimeout to avoid blocking the current execution
       setTimeout(() => {
         try {
-          Writer.write(this.name, `Closing browser due to result found`, url, Writer.YELLOW);
+          this.emit('error', `Closing browser due to result found`, url);
 
           // Signal process to exit gracefully after closing browser
           process.exitCode = 0;
 
           // Force close the browser to ensure it actually terminates
           this.puppeteer.close(true).catch(err => {
-            Writer.write(this.name, `Error closing browser: ${err.message}`, url, Writer.RED);
+            this.emit('error',  `Error closing browser: ${err.message}`, url);
             // Force exit after a brief delay if browser close failed
             setTimeout(() => process.exit(0), 500);
           });
         } catch (error) {
-          Writer.write(this.name, `Error initiating browser close: ${error.message}`, url, Writer.RED);
+          this.emit('error', `Error initiating browser close: ${error.message}`, url, Writer.RED);
           // Force exit after a brief delay if browser close failed
           setTimeout(() => process.exit(0), 500);
         }
       }, 100);
     }
+  }
+
+  /**
+   * Save or publish a result (replacement for Writer.write)
+   * @param {*} data - The data to save/publish
+   * @param {string} url - The URL associated with the data
+   * @param {string} color - Optional color for console output
+   */
+  saveResult( data, url, color = null) {
+    this.emit('data', data, url, color);
+  }
+
+  /**
+   * Emit an event
+   * @param {string} type - Event type
+   * @param {*} payload - Event data
+   * @param {Object} metadata - Event metadata
+   * @param {Object} context - Event context
+   */
+  emit(type, payload, metadata = {}, context = {}) {
+    const Event = require('../lib/Event');
+    const eventEmitter = require('../lib/EventEmitter');
+
+    const event = new Event(type, this.name, payload, metadata, context);
+    eventEmitter.emit(event);
   }
 
   /**
