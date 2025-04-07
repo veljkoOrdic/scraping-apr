@@ -177,14 +177,28 @@ class IPlugin {
   /**
    * Save or publish a result (replacement for Writer.write)
    * @param {*} data - The data to save/publish
-   * @param {string} url - The URL associated with the data
-   * @param {string} color - Optional color for console output
+   * @param {object} metadata - The URL associated with the data
    */
-  saveResult(data, metadata, color = null) {
+  saveResult(data, metadata) {
     app.log(this.name, data, metadata);
   }
 
+  /**
+   * Handle no result found scenarios
+   * @param {any[]} candidates - Potential candidates that were close matches
+   */
+  handleResultNotFound(candidates) {
+    this.saveResultNotFound(candidates, this.metadata);
+  }
 
+  /**
+   * Save or publish a "not found" result with candidates
+   * @param {any[]} candidates - The candidates data to save/publish
+   * @param {object} metadata - The URL associated with the data
+   */
+  saveResultNotFound(candidates, metadata) {
+    app.log(this.name, candidates, metadata/*,'No match found, but found potential candidates', { url, candidates }*/);
+  }
   /**
    * Get an extractor instance
    * @param {string} name - Name of the extractor (without .js extension)
