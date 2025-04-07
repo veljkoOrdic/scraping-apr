@@ -1,5 +1,5 @@
 const IPlugin = require('./IPlugin');
-const Writer = require('../lib/Writer');
+const app = require('../lib/App');
 
 /**
  * Plugin for detecting VRM codes in page responses
@@ -22,7 +22,6 @@ class VrmTestPlugin extends IPlugin {
     this.initialResponseProcessed = false;
   }
 
-
   /**
    * Process a response to look for VRM codes
    * @param {puppeteer.HTTPResponse} response - The response to process
@@ -30,7 +29,7 @@ class VrmTestPlugin extends IPlugin {
    */
   async processResponse(response) {
     // Only process the initial page response if it hasn't been processed yet
-    if (response.url() === this.mainUrl && !this.initialResponseProcessed) {
+    if (response.url() === this.getPageUrl() && !this.initialResponseProcessed) {
       try {
         // Get response content type
         const headers = response.headers();
@@ -52,14 +51,16 @@ class VrmTestPlugin extends IPlugin {
           const extractResult = extractor.process(text);
 
           if (extractResult) {
+            app.info(this.name, `VRM found: ${extractResult.value}`, { url: this.getPageUrl() });
+
             // Call the standardized result handler
-            this.handleResultFound(`VRM found: ${extractResult.value}`, this.mainUrl);
+            this.handleResultFound(extractResult, this.getPageUrl());
           }
 
           this.initialResponseProcessed = true;
         }
       } catch (error) {
-        console.error('Error processing response:', error);
+        app.error(this.name, `Error processing response: ${error.message}`, { url: response.url() });
       }
     }
   }

@@ -1,41 +1,35 @@
-const Event = require("../lib/Event");
-const eventEmitter = require("../lib/EventEmitter");
-
 /**
  * Interface for plugins to be used with MyPuppeteer
  * This is a base class that all plugins should extend
  */
+// plugins/IPlugin.js
+const app = require('../lib/App');
+
 class IPlugin {
   constructor(options = {}) {
-    // Plugin initialization
     this.puppeteer = null;
-    this.mainUrl = null;
     this.resultFound = false;
     this.pluginResult = null;
+    this.metadata = {};
 
-    // Standard behavior options
     this.options = {
-      closeAfterFind: false,    // Close browser after finding result
-      blockAfterFind: false,    // Block requests after finding result
-      stopAfterFind: false,     // Stop page loading after finding result
+      closeAfterFind: false,
+      blockAfterFind: false,
+      stopAfterFind: false,
       ...options
     };
 
-    // Auto-generate name from class name if not provided
     if (options.name) {
       this.name = options.name;
     } else {
-      // Get class name without the "Plugin" suffix and convert to snake_case
       let className = this.constructor.name;
       if (className.endsWith('Plugin')) {
-        className = className.slice(0, -6); // Remove "Plugin" suffix
+        className = className.slice(0, -6);
       }
-
-      // Convert from CamelCase to snake_case
       this.name = className
-          .replace(/([A-Z])/g, '_$1')     // Add underscore before each capital letter
-          .replace(/^_/, '')              // Remove leading underscore if present
-          .toLowerCase();                 // Convert to lowercase
+          .replace(/([A-Z])/g, '_$1')
+          .replace(/^_/, '')
+          .toLowerCase();
     }
   }
 
@@ -47,14 +41,47 @@ class IPlugin {
     this.puppeteer = puppeteer;
   }
 
+
   /**
    * Set the main URL of the page being visited
    * @param {string} url - The main URL being navigated to
    * @returns {boolean} - True if the plugin should run for this URL, false otherwise
    */
-  setMainUrl(url) {
-    this.mainUrl = url;
+  setPageUrl(url) {
+    this.addMetadata('pageUrl', url);
     return true; // Default implementation: run for all URLs
+  }
+
+  /**
+   * Get the main URL of the page being visited
+   * @returns {string} - The main URL
+   */
+  getPageUrl() {
+    return this.metadata.pageUrl;
+  }
+
+  /**
+   * Set metadata
+   * @param {Object} metadata - The metadata object to set
+   */
+  setMetadata(metadata) {
+    this.metadata = metadata;
+  }
+
+  /**
+   * Add a metadata entry
+   * @param {string} key - The key for the metadata entry
+   * @param {*} value - The value for the metadata entry
+   */
+  addMetadata(key, value) {
+    this.metadata[key] = value;
+  }
+
+  /**
+   * Clear all metadata
+   */
+  clearMetadata() {
+    this.metadata = {};
   }
 
   /**
@@ -66,7 +93,7 @@ class IPlugin {
     // Default implementation: block based on resultFound and blockAfterFind
     if (this.resultFound && this.options.blockAfterFind) {
       // Don't block the initial request
-      if (request.url() === this.mainUrl) {
+      if (request.url() === this.getPageUrl()) {
         return false;
       }
 
@@ -105,7 +132,6 @@ class IPlugin {
     // Default implementation: same as processResponse
     await this.processResponse(response);
   }
-
   /**
    * Clean up resources when the browser is closed
    * @returns {Promise<void>}
@@ -113,7 +139,6 @@ class IPlugin {
   async cleanup() {
     // Default implementation: do nothing
   }
-
   /**
    * Handle a successful result find
    * @param {any} result - The result data
@@ -123,68 +148,42 @@ class IPlugin {
     this.resultFound = true;
     this.pluginResult = result;
 
-    // Log the result
-    this.saveResult(this.name, result, url);
+    this.saveResult(result, this.metadata);
 
-    // Stop loading and abort pending requests first if configured to close
     if (this.options.closeAfterFind && this.puppeteer && this.puppeteer.page) {
       try {
-        // Stop any pending navigations
         this.puppeteer.page.evaluate(() => window.stop());
-      } catch (error) {
-        // Ignore errors in stopping page - we're closing anyway
+      } catch (error) {}
+
+      if (this.options.closeAfterFind && this.puppeteer) {
+        setTimeout(() => {
+          try {
+            app.info(this.name, `Closing browser due to result found`, { url });
+
+            process.exitCode = 0;
+
+            this.puppeteer.close(true).catch(err => {
+              app.error(this.name, `Error closing browser: ${err.message}`, { url });
+              setTimeout(() => process.exit(0), 500);
+            });
+          } catch (error) {
+            app.error(this.name, `Error initiating browser close: ${error.message}`, { url });
+            setTimeout(() => process.exit(0), 500);
+          }
+        }, 100);
       }
     }
-
-    // Close the browser if configured to do so
-    if (this.options.closeAfterFind && this.puppeteer) {
-      // Use setTimeout to avoid blocking the current execution
-      setTimeout(() => {
-        try {
-          this.emit('error', `Closing browser due to result found`, url);
-
-          // Signal process to exit gracefully after closing browser
-          process.exitCode = 0;
-
-          // Force close the browser to ensure it actually terminates
-          this.puppeteer.close(true).catch(err => {
-            this.emit('error',  `Error closing browser: ${err.message}`, url);
-            // Force exit after a brief delay if browser close failed
-            setTimeout(() => process.exit(0), 500);
-          });
-        } catch (error) {
-          this.emit('error', `Error initiating browser close: ${error.message}`, url, Writer.RED);
-          // Force exit after a brief delay if browser close failed
-          setTimeout(() => process.exit(0), 500);
-        }
-      }, 100);
-    }
   }
-
   /**
    * Save or publish a result (replacement for Writer.write)
    * @param {*} data - The data to save/publish
    * @param {string} url - The URL associated with the data
    * @param {string} color - Optional color for console output
    */
-  saveResult( data, url, color = null) {
-    this.emit('data', data, url, color);
+  saveResult(data, metadata, color = null) {
+    app.log(this.name, data, metadata);
   }
 
-  /**
-   * Emit an event
-   * @param {string} type - Event type
-   * @param {*} payload - Event data
-   * @param {Object} metadata - Event metadata
-   * @param {Object} context - Event context
-   */
-  emit(type, payload, metadata = {}, context = {}) {
-    const Event = require('../lib/Event');
-    const eventEmitter = require('../lib/EventEmitter');
-
-    const event = new Event(type, this.name, payload, metadata, context);
-    eventEmitter.emit(event);
-  }
 
   /**
    * Get an extractor instance

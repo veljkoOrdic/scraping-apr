@@ -1,4 +1,5 @@
 const IPlugin = require('./IPlugin');
+const app = require('../lib/App');
 
 /**
  * Plugin for monitoring and extracting Codeweavers finance calculator data
@@ -44,7 +45,7 @@ class CodeweaversCalculatorPlugin extends IPlugin {
           try {
             jsonData = JSON.parse(text);
           } catch (error) {
-            this.emit('error', `Failed to parse JSON: ${error.message}`, { url });
+            app.error(this.name, `Failed to parse JSON: ${error.message}`, { url });
             return;
           }
 
@@ -54,11 +55,11 @@ class CodeweaversCalculatorPlugin extends IPlugin {
 
           if (results && results.length > 0) {
             // Use the standardized result handler
-            this.handleResultFound(results, this.mainUrl);
+            this.handleResultFound(results, this.pageUrl);
           }
         }
       } catch (error) {
-        this.emit('error', `Error processing response: ${error.message}`, { url });
+        app.error(this.name, `Error processing response: ${error.message}`, { url });
       }
     }
   }

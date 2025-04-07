@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const eventEmitter = require('../lib/EventEmitter');
 
 /**
@@ -9,17 +10,17 @@ class FileStorage {
   constructor(options = {}) {
     this.options = {
       logDir: 'log',
-      filenameFormat: 'data-{date}-{type}.json',
+      filenameFormat: 'data-{date}-{hash}.json',
       ...options
     };
-    
+
     // Create log directory if it doesn't exist
     if (!fs.existsSync(this.options.logDir)) {
       fs.mkdirSync(this.options.logDir, { recursive: true });
     }
-    
+
     // Register event listener for data events
-    eventEmitter.on('data', this.handleEvent.bind(this));
+    eventEmitter.on('log', this.handleEvent.bind(this));
   }
 
   /**
@@ -28,27 +29,39 @@ class FileStorage {
    */
   handleEvent(event) {
     try {
-      // Extract data type from payload if available
-      const dataType = event.payload?.type || 'general';
-      
-      // Build filename based on date and data type
+      // Extract metadata
+      const { url = event.metadata?.pageUrl, dealer_id = null, car_id = null } = event.metadata || {};
+
+      // Build hash based on metadata
+      let hash;
+      if (dealer_id && car_id) {
+        hash = `${dealer_id}-${car_id}`;
+      } else if (dealer_id) {
+        hash = `${dealer_id}-${crypto.createHash('md5').update(url).digest('hex')}`;
+      } else {
+        hash = crypto.createHash('md5').update(url).digest('hex');
+      }
+
+      // Build filename based on date and hash
       const now = new Date();
       const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD
-      
+
       const filename = this.options.filenameFormat
-        .replace('{date}', dateStr)
-        .replace('{type}', dataType);
-      
+          .replace('{date}', dateStr)
+          .replace('{hash}', hash);
+
       const filePath = path.join(this.options.logDir, filename);
-      
+
       // Prepare data for storage
       const storageData = {
         timestamp: event.timestamp.toISOString(),
         source: event.source,
-        url: event.metadata?.url,
+        url,
+        dealer_id,
+        car_id,
         data: event.payload
       };
-      
+
       // Check if file exists
       let fileData = [];
       if (fs.existsSync(filePath)) {
@@ -64,12 +77,12 @@ class FileStorage {
           fileData = [];
         }
       }
-      
+
       // Add new data and write to file
       fileData.push(storageData);
       fs.writeFileSync(filePath, JSON.stringify(fileData, null, 2), 'utf8');
       console.log(`Saved data to ${filePath}`);
-      
+
     } catch (error) {
       console.error('Error writing to file:', error);
     }
