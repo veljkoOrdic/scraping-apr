@@ -15,10 +15,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-parser": "^3.2.0",
+    "proxy-chain": "^2.3.0",
     "puppeteer": "^22.8.2",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "puppeteer-extra-plugin-adblocker": "^2.13.6",
-    "proxy-chain": "^2.3.0"
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
