@@ -30,7 +30,7 @@ class CarFinancePlugin extends IPlugin {
      * @param {puppeteer.Page} page - Puppeteer page instance
      */
     setPage(page) {
-        super.setPage(page);
+       // super.setPage(page);
 
         // Listen for load event
         page.on('load', () => {
