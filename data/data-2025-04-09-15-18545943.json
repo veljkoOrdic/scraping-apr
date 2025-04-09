@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T11:11:16.448Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/vauxhall/corsa/100kw-sri-nav-premium-50kwh-5dr-auto-74kwch-hatchback/broadstairs/kent/20660155",
+    "dealer_id": "15",
+    "car_id": "18545943",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "100kW SRi Nav Premium 50kWh [7.4kWCh]",
+        "registration_number": "GL71DLE",
+        "registration_date": "30/11/2021",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 226.44,
+        "final_payment": 236.44,
+        "total_amount_payable": 14795.9,
+        "total_charge_for_credit": 2800.9,
+        "amount_of_credit": 10795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 199.06,
+        "final_payment": 4218,
+        "total_amount_payable": 14972.38,
+        "total_charge_for_credit": 2977.38,
+        "amount_of_credit": 10795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 4208,
+        "price_to_buy": 4218
+      }
+    ]
+  }
+]

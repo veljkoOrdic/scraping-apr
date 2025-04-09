@@ -5,8 +5,7 @@ const plugins = {
     'logger': {
         logRequests: true,
         logResponses: true,
-        logBase64Content: false,
-        logDir: 'data'
+        logBase64Content: false
     },
     'source-apr-v1': {
         stopAfterFind: true,

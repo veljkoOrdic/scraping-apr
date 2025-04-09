@@ -15,7 +15,7 @@ class LoggerPlugin extends IPlugin {
       logRequestHeaders: false,
       logResponseHeaders: false,
       logBase64Content: true,
-      logDir: 'data',
+      logDir: 'log',
       ...this.options
     };
 
