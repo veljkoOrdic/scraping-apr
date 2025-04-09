@@ -1,4 +1,4 @@
-aconst Scraper = require('./lib/Scraper');
+const Scraper = require('./lib/Scraper');
 
 // Define plugins configuration
 const plugins = {
