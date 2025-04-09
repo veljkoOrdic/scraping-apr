@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-08T12:07:04.769Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/skoda/enyaq/132kw-60-62kwh-5dr-auto-estate/huddersfield/west-yorkshire/21538027",
+    "dealer_id": "15",
+    "car_id": "27021092",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "ENYAQ",
+        "variant": "ESTATE",
+        "derivative": "132kW 60 62kWh",
+        "registration_number": "EMZ4504",
+        "registration_date": "27/05/2024",
+        "mileage": 8483,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23499,
+        "total_price": 23499,
+        "deposit": 2349.9,
+        "balance": 21149.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 443.78,
+        "final_payment": 453.78,
+        "total_amount_payable": 28986.7,
+        "total_charge_for_credit": 5487.7,
+        "amount_of_credit": 21149.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23499,
+        "total_price": 23499,
+        "deposit": 2349.9,
+        "balance": 21149.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 343.28,
+        "final_payment": 10990,
+        "total_amount_payable": 29817.34,
+        "total_charge_for_credit": 6318.34,
+        "amount_of_credit": 21149.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 10980,
+        "price_to_buy": 10990
+      }
+    ]
+  }
+]

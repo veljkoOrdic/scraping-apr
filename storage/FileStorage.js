@@ -9,7 +9,7 @@ const eventEmitter = require('../lib/EventEmitter');
 class FileStorage {
   constructor(options = {}) {
     this.options = {
-      logDir: 'log',
+      logDir: 'data',
       filenameFormat: 'data-{date}-{hash}.json',
       ...options
     };

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T08:09:46.249Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hyamsautos.co.uk/details/used-car-in-malmesbury/kia/sportage/1.6-t-gdi-gt-line-euro-6-5dr/1335007/",
+    "dealer_id": "78",
+    "car_id": "26498142",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi GT-Line",
+        "registration_number": "LN67BXW",
+        "registration_date": "29/09/2017",
+        "mileage": 72874,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10560,
+        "total_price": 10560,
+        "deposit": 1056,
+        "balance": 9504,
+        "apr": 12.7,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 250.2,
+        "final_payment": 260.2,
+        "total_amount_payable": 13075.6,
+        "total_charge_for_credit": 2515.6,
+        "amount_of_credit": 9504,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10560,
+        "total_price": 10560,
+        "deposit": 1056,
+        "balance": 9504,
+        "apr": 12.7,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 250.46,
+        "final_payment": 250.46,
+        "total_amount_payable": 13078.08,
+        "total_charge_for_credit": 2518.08,
+        "amount_of_credit": 9504,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

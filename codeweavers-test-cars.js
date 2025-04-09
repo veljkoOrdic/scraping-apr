@@ -4,7 +4,8 @@ const { exec } = require('child_process');
 
 function runCommand(carUrl, dealerId, carId) {
     return new Promise((resolve, reject) => {
-        const command = `node codeweavers-example.js ${carUrl} ${dealerId} ${carId}`;
+        // const command = `node codeweavers-example.js ${carUrl} ${dealerId} ${carId}`;
+        const command = `node source-example.js ${carUrl}`;
         exec(command, (error, stdout, stderr) => {
             if (error) {
                 reject(`Error executing command: ${error.message}`);
@@ -54,4 +55,6 @@ async function processCSV(filePath) {
 }
 
 // rows in csv: car_url, dealer_id, car_id
-processCSV('data.csv');
+// processCSV('data.csv');
+// processCSV('/home/velja/Downloads/test_codeweaver_finance.csv');
+processCSV('/home/velja/Downloads/sql (1).csv');

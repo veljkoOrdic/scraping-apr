@@ -9,7 +9,7 @@ const plugins = {
     logRequests: true,
     logResponses: true,
     logBase64Content: false,
-    logDir: 'log'
+    logDir: 'data'
   },
   'vrm-test': {
     regex: /vrm:"([\w\d]{6,7})"/i,

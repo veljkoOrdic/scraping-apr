@@ -6,7 +6,7 @@ const plugins = {
     logRequests: true,
     logResponses: true,
     logBase64Content: false,
-    logDir: 'log'
+    logDir: 'data'
   },
   'codeweavers-calculator': {
     stopAfterFind: true,

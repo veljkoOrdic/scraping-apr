@@ -33,7 +33,13 @@ async function example() {
       logRequests: true,
       logResponses: true,
       logBase64Content: true,
-      logDir: 'log'
+      logDir: 'data'
+    }));
+
+    browser.addPlugin(app.getPlugin('source-apr-v1', {
+      stopAfterFind: true,      // Stop loading page when finance data is found
+      blockAfterFind: true,     // Block additional requests after finance data is found
+      closeAfterFind: true     // Automatically close the browser
     }));
 
     // Open the URL
