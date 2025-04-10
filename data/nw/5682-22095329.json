@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-10T11:41:37.180Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-cars/kia/soul-ev/urban/392kwh-urban-suv-5dr-electric-auto-134-bhp/34967",
+    "dealer_id": "5682",
+    "car_id": "22095329",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP73VTM",
+        "registration_date": "28/09/2023",
+        "mileage": 12999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15998,
+        "total_price": 15998,
+        "deposit": 1000,
+        "balance": 14998,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 383.19,
+        "final_payment": 384.19,
+        "total_amount_payable": 19394.12,
+        "total_charge_for_credit": 3396.12,
+        "amount_of_credit": 14998,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15998,
+        "total_price": 15998,
+        "deposit": 1000,
+        "balance": 14998,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 49,
+        "regular_payment": 258.42,
+        "final_payment": 7451.2,
+        "total_amount_payable": 20855.36,
+        "total_charge_for_credit": 4857.36,
+        "amount_of_credit": 14998,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7450.2,
+        "price_to_buy": 7451.2
+      }
+    ]
+  }
+]

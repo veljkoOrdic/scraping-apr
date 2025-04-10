@@ -10,7 +10,7 @@ class FileStorage {
   constructor(options = {}) {
     this.options = {
       logDir: 'data',
-      filenameFormat: '{hash}.json',
+      filenameFormat: 'data-{date}-{hash}.json',
       ...options
     };
 
@@ -85,4 +85,4 @@ class FileStorage {
 }
 
 // Export a new instance
-module.exports = new FileStorage();
+module.exports = FileStorage;

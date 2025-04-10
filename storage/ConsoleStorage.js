@@ -60,4 +60,4 @@ class ConsoleStorage {
   }
 }
 
-module.exports = new ConsoleStorage();
+module.exports = ConsoleStorage;

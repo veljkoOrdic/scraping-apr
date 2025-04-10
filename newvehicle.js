@@ -9,7 +9,7 @@ const plugins = {
 // Define storage configuration with options
 const storage = {
     ConsoleStorage: { },
-    FileStorage: { filenameFormat: '{hash}.json'}
+    FileStorage: { logDir:'data/nw', filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
