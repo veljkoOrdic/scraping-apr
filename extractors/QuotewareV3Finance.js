@@ -2,14 +2,51 @@
  * Extracts finance information from Quoteware V3 API JSON responses
  */
 class QuotewareV3Finance {
-    /**
-     * Create a new QuotewareV3Finance instance
-     * @param {Object} options - Configuration options
-     */
     constructor(options = {}) {
         this.options = {
+            fundersPath: 'quoteware-funders.json',
             ...options
         };
+        this.funderMap = {};
+
+        // Auto-load funder mapping if path provided in options
+        if (this.options.fundersPath) {
+            this.loadFunderMapping(this.options.fundersPath);
+        }
+    }
+
+    /**
+     * Load funder mapping data from file
+     * @param {string} filePath - Path to the funder mapping JSON file
+     */
+    loadFunderMapping(filePath) {
+        try {
+            const fs = require('fs');
+            const path = require('path');
+
+            // Resolve path relative to current file if not absolute
+            const resolvedPath = path.isAbsolute(filePath) ?
+                filePath : path.resolve(__dirname, filePath);
+
+            const fundersData = JSON.parse(fs.readFileSync(resolvedPath, 'utf8'));
+            this.setFunderMapping(fundersData);
+        } catch (error) {
+            console.error('Error loading funder mapping:', error);
+        }
+    }
+
+    /**
+     * Set funder mapping data
+     * @param {Object} fundersData - JSON object containing funder mapping
+     */
+    setFunderMapping(fundersData) {
+        if (fundersData && fundersData.Funders) {
+            fundersData.Funders.forEach(funder => {
+                if (funder.Code && funder.Name) {
+                    this.funderMap[funder.Code] = funder.Name;
+                }
+            });
+        }
     }
 
     /**
@@ -19,10 +56,11 @@ class QuotewareV3Finance {
      */
     process(data) {
         try {
-            // Parse JSON if it's a string
-            let jsonData = data;
-            if (typeof data === 'string') {
-                jsonData = JSON.parse(data);
+            let jsonData = typeof data === 'string' ? JSON.parse(data) : data;
+
+            // Only process detailed format (scratch_167.json)
+            if (!jsonData.QuoteResults || !jsonData.QuoteResults.length) {
+                return null;
             }
 
             return this.extractData(jsonData);
@@ -40,140 +78,72 @@ class QuotewareV3Finance {
     extractData(jsonData) {
         const results = [];
 
-        // Extract vehicle information - Try detailed format first
-        let vehicleData = this.extractVehicleData(jsonData);
-        if (vehicleData) {
+        if (!jsonData.QuoteResults || !jsonData.QuoteResults.length) {
+            return null;
+        }
+
+        // Get the first QuoteResult
+        const quoteResult = jsonData.QuoteResults[0];
+
+        if (!quoteResult.Results || !quoteResult.Results.length) {
+            return null;
+        }
+
+        // Get the first Result
+        const result = quoteResult.Results[0];
+
+        // Extract vehicle information
+        if (result.Asset) {
+            const vehicleData = {
+                type: 'vehicle',
+                registration_number: result.Asset.RegistrationMark || '',
+                registration_date: result.Asset.RegistrationDate ? this.formatDate(result.Asset.RegistrationDate) : '',
+                mileage: result.Asset.CurrentOdometerReading || 0,
+                status: result.Asset.Condition || ''
+            };
             results.push(vehicleData);
         }
 
-        // Extract finance data - try different formats
-        if (jsonData.QuoteResults && jsonData.QuoteResults.length > 0) {
-            // Format 1: Detailed with multiple quotes
-            this.extractDetailedFinanceData(jsonData, results);
-        } else if (jsonData.ProductQuote) {
-            // Format 2: Single product quote
-            this.extractSingleFinanceData(jsonData, results);
+        // Process ProductGroups
+        if (result.ProductGroups && result.ProductGroups.length > 0) {
+            for (const productGroup of result.ProductGroups) {
+                if (!productGroup.ProductQuotes || !productGroup.ProductQuotes.length) {
+                    continue;
+                }
+
+                // Find the first valid product quote (no errors and has figures)
+                const productQuote = productGroup.ProductQuotes.find(quote =>
+                    !quote.hasErrors && quote.Figures);
+
+                if (!productQuote) {
+                    continue;
+                }
+
+                // Create finance data based on facility type
+                switch (productGroup.FacilityType) {
+                    case 'HP':
+                        results.push(this.createHpData(productQuote, result.Asset?.RequestedAnnualDistance || 0));
+                        break;
+                    case 'PCP':
+                        results.push(this.createPcpData(productQuote, result.Asset?.RequestedAnnualDistance || 0));
+                        break;
+                    case 'LP':
+                        results.push(this.createLpData(productQuote, result.Asset?.RequestedAnnualDistance || 0));
+                        break;
+                }
+            }
         }
 
         return results.length > 0 ? results : null;
     }
 
     /**
-     * Extract vehicle data from JSON
-     * @param {Object} jsonData - The parsed JSON data
-     * @returns {Object|null} - Vehicle data object or null if not found
+     * Get funder name from code
+     * @param {string} funderCode - Funder code
+     * @returns {string} - Funder name or original code if not found
      */
-    extractVehicleData(jsonData) {
-        // Try to get vehicle info from AssetSpecification if available
-        if (jsonData.AssetSpecification) {
-            return {
-                type: 'vehicle',
-                manufacturer: jsonData.AssetSpecification.Manufacturer || '',
-                model: jsonData.AssetSpecification.Model || '',
-                variant: jsonData.AssetSpecification.Range || '',
-                derivative: jsonData.AssetSpecification.Derivative || '',
-                registration_number: jsonData.Asset?.RegistrationMark || '',
-                registration_date: jsonData.Asset?.RegistrationDate ?
-                    this.formatDate(jsonData.Asset.RegistrationDate) : '',
-                mileage: jsonData.Asset?.CurrentOdometerReading || 0,
-                status: jsonData.Asset?.Condition || ''
-            };
-        }
-
-        // Try to get from QuoteResults
-        if (jsonData.QuoteResults && jsonData.QuoteResults.length > 0) {
-            const firstResult = jsonData.QuoteResults[0];
-
-            if (firstResult.Results && firstResult.Results.length > 0) {
-                const result = firstResult.Results[0];
-
-                if (result.Asset) {
-                    return {
-                        type: 'vehicle',
-                        manufacturer: '',  // Not available in this format
-                        model: '',  // Not available in this format
-                        variant: '',  // Not available in this format
-                        derivative: '',  // Not available in this format
-                        registration_number: result.Asset.RegistrationMark || '',
-                        registration_date: result.Asset.RegistrationDate ?
-                            this.formatDate(result.Asset.RegistrationDate) : '',
-                        mileage: result.Asset.CurrentOdometerReading || 0,
-                        status: result.Asset.Condition || ''
-                    };
-                }
-            }
-        }
-
-        return null;
-    }
-
-    /**
-     * Extract finance data from detailed format with multiple quotes
-     * @param {Object} jsonData - The parsed JSON data
-     * @param {Array} results - Array to append results to
-     */
-    extractDetailedFinanceData(jsonData, results) {
-        for (const quoteResult of jsonData.QuoteResults) {
-            if (quoteResult.Results && quoteResult.Results.length > 0) {
-                for (const result of quoteResult.Results) {
-                    // Process each ProductGroup
-                    if (result.ProductGroups && result.ProductGroups.length > 0) {
-                        for (const productGroup of result.ProductGroups) {
-                            // Process each ProductQuote
-                            if (productGroup.ProductQuotes && productGroup.ProductQuotes.length > 0) {
-                                for (const productQuote of productGroup.ProductQuotes) {
-                                    // Skip if there are errors or no figures
-                                    if (productQuote.hasErrors || !productQuote.Figures) continue;
-
-                                    if (productGroup.FacilityType === 'HP') {
-                                        const hpData = this.createHpData(productQuote, result.Asset?.RequestedAnnualDistance || 0);
-
-                                        // Only add if we don't already have HP data
-                                        if (!results.some(item => item.type === 'finance_hp')) {
-                                            results.push(hpData);
-                                        }
-                                    } else if (productGroup.FacilityType === 'PCP') {
-                                        const pcpData = this.createPcpData(productQuote, result.Asset?.RequestedAnnualDistance || 0);
-
-                                        // Only add if we don't already have PCP data
-                                        if (!results.some(item => item.type === 'finance_pcp')) {
-                                            results.push(pcpData);
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-
-    /**
-     * Extract finance data from single product quote format
-     * @param {Object} jsonData - The parsed JSON data
-     * @param {Array} results - Array to append results to
-     */
-    extractSingleFinanceData(jsonData, results) {
-        if (jsonData.ProductQuote && jsonData.ProductQuote.Figures) {
-            const productQuote = jsonData.ProductQuote;
-
-            if (productQuote.FacilityType === 'HP') {
-                const hpData = this.createHpData(productQuote, jsonData.Asset?.RequestedAnnualDistance || 0);
-
-                // Only add if we don't already have HP data
-                if (!results.some(item => item.type === 'finance_hp')) {
-                    results.push(hpData);
-                }
-            } else if (productQuote.FacilityType === 'PCP') {
-                const pcpData = this.createPcpData(productQuote, jsonData.Asset?.RequestedAnnualDistance || 0);
-
-                // Only add if we don't already have PCP data
-                if (!results.some(item => item.type === 'finance_pcp')) {
-                    results.push(pcpData);
-                }
-            }
-        }
+    getFunderName(funderCode) {
+        return this.funderMap[funderCode] || funderCode;
     }
 
     /**
@@ -199,7 +169,7 @@ class QuotewareV3Finance {
             total_amount_payable: productQuote.Figures.TotalPayable || 0,
             total_charge_for_credit: productQuote.Figures.TotalCharges || 0,
             amount_of_credit: productQuote.Figures.Advance || 0,
-            lender: productQuote.FunderCode || '',
+            lender: this.getFunderName(productQuote.FunderCode) || '',
             annual_mileage: annualMileage,
             excess_mileage_rate: 0,
             residual: 0
@@ -231,9 +201,41 @@ class QuotewareV3Finance {
             total_amount_payable: productQuote.Figures.TotalPayable || 0,
             total_charge_for_credit: productQuote.Figures.TotalCharges || 0,
             amount_of_credit: productQuote.Figures.Advance || 0,
-            lender: productQuote.FunderCode || '',
+            lender: this.getFunderName(productQuote.FunderCode) || '',
             annual_mileage: annualDistanceQuoted,
             contract_mileage: this.calculateContractMileage(annualDistanceQuoted, productQuote.Figures.Term || 0),
+            excess_mileage_rate: productQuote.Figures.Asset?.ChargePerOverDistanceUnit || 0,
+            residual: productQuote.Figures.Balloon || 0,
+            price_to_buy: productQuote.Figures.FinalPayment || 0
+        };
+    }
+
+    /**
+     * Create LP (Lease Purchase) finance data object
+     * @param {Object} productQuote - The product quote data
+     * @param {number} annualMileage - Annual mileage
+     * @returns {Object} - LP finance data object
+     */
+    createLpData(productQuote, annualMileage) {
+        return {
+            type: 'finance_lp',
+            name: 'LP',
+            finance_type: 'Lease Purchase',
+            cash_price: productQuote.Figures.TotalCashPrice || 0,
+            total_price: productQuote.Figures.TotalCashPrice || 0,
+            deposit: productQuote.Figures.TotalDeposit || 0,
+            balance: productQuote.Figures.Advance || 0,
+            apr: productQuote.Figures.APR || 0,
+            rate_of_interest: productQuote.Figures.InterestRate || 0,
+            term: productQuote.Figures.Term || 0,
+            regular_payment: productQuote.Figures.RegularPayment || 0,
+            final_payment: productQuote.Figures.FinalPayment || 0,
+            balloon: productQuote.Figures.Balloon || 0,
+            total_amount_payable: productQuote.Figures.TotalPayable || 0,
+            total_charge_for_credit: productQuote.Figures.TotalCharges || 0,
+            amount_of_credit: productQuote.Figures.Advance || 0,
+            lender: this.getFunderName(productQuote.FunderCode) || '',
+            annual_mileage: annualMileage,
             excess_mileage_rate: productQuote.Figures.Asset?.ChargePerOverDistanceUnit || 0,
             residual: productQuote.Figures.Balloon || 0,
             price_to_buy: productQuote.Figures.FinalPayment || 0
@@ -262,7 +264,6 @@ class QuotewareV3Finance {
      * @returns {number} - Contract mileage
      */
     calculateContractMileage(annualMileage, term) {
-        // Convert term from months to years for calculation
         return Math.round(annualMileage * (term / 12));
     }
 }
