@@ -8,7 +8,8 @@ const connection = mysql.createConnection({
     user: 'guilhermeCS',
     password: 'xFdt77&1',
     database: 'db_internal',
-    charset: 'utf8'
+    charset: 'utf8',
+    namedPlaceholders: true // Enable named placeholders
 });
 
 connection.connect(err => {
@@ -29,12 +30,34 @@ function importFile(filePath) {
     }
 }
 
+function sanitizeParams(params) {
+    // Replace undefined values with null (handles nested objects)
+    Object.keys(params).forEach(key => {
+        if (params[key] === undefined) {
+            params[key] = null;
+        } else if (typeof params[key] === 'object' && params[key] !== null) {
+            params[key] = sanitizeParams(params[key]); // Recursively sanitize nested objects
+        }
+    });
+    return params;
+}
+function prepareColumns(params, prefix) {
+    params = sanitizeParams(params)
+    const columns = Object.keys(params).join(', ');
+    const placeholders = Object.keys(params).map(() => '?').join(', ');
+    const values = Object.values(params);
+
+    const query = `${prefix} (${columns}) VALUES (${placeholders})`;
+    return { query, values };
+}
+
+// Example usage in storeVehicle
 function storeVehicle(entry, vehicleData) {
     const date = new Date(entry.timestamp).toISOString().split('T')[0]; // Extract date in YYYY-MM-DD format
-    const params={
-        date:date,
-        dealer_id: entry.dealer_id,
+    let params = {
         car_id: entry.car_id,
+        date: date,
+        dealer_id: entry.dealer_id,
         url: entry.url,
         vehicle_type: vehicleData.type,
         make: vehicleData.manufacturer,
@@ -45,19 +68,16 @@ function storeVehicle(entry, vehicleData) {
         year: vehicleData.registration_date,
         mileage: vehicleData.mileage,
         status: vehicleData.status,
-    }
+    };
 
-    connection.execute(
-        `REPLACE INTO cc_finance_car_data SET ?`,
-        params,
-        (err, result) => {
-            if (err) {
-                console.error(`Insert error for car ${entry.car_id}:`, err.message);
-            } else {
-                console.log(`Saved: car_id=${entry.car_id}`);
-            }
+    const { query, values } = prepareColumns(params, 'REPLACE INTO cc_finance_car_data');
+    connection.execute(query, values, (err, result) => {
+        if (err) {
+            console.error(`Insert error for car ${entry.car_id}:`, err.message);
+        } else {
+            console.log(`Saved: car_id=${entry.car_id}`);
         }
-    );
+    });
 }
 // Function to store data into the database
 function storeFinance(entry,  financeEntry) {
@@ -90,17 +110,16 @@ function storeFinance(entry,  financeEntry) {
         price_to_buy: financeEntry.price_to_buy || null
     };
 
-    connection.execute(
-        `INSERT INTO cc_finance_finance_data SET ?`,
-        params,
-        (err, result) => {
-            if (err) {
-                console.error(`Insert error for car ${entry.car_id}, finance type ${financeEntry.type}:`, err.message);
-            } else {
-                console.log(`Inserted: car_id=${entry.car_id}, finance_type=${financeEntry.type}, ID=${result.insertId}`);
-            }
+    const { query, values } = prepareColumns(params, 'REPLACE INTO  cc_finance_finance_data');
+    connection.execute(query, values, (err, result) => {
+        if (err) {
+            console.error(`Insert error for car ${entry.car_id}:`, err.message);
+            console.log(params)
+        } else {
+            console.log(`Saved: Finance car_id=${entry.car_id}, type=${financeEntry.type}`);
         }
-    );
+    });
+
 }
 
 // Function to process car data and insert into database
@@ -144,10 +163,20 @@ fs.readdir(directoryPath, (err, files) => {
         process.exit(1);
     }
 
-    files.forEach(file => {
-        if (file.endsWith('.json')) {
-            const filePath = path.join(directoryPath, file);
-            importFile(filePath);
+    const jsonFiles = files.filter(file => file.endsWith('.json'));
+    if (jsonFiles.length === 0) {
+        console.log('No JSON files found in the directory.');
+        connection.end(() => process.exit(0)); // Close the connection and exit
+        return;
+    }
+
+    jsonFiles.forEach((file, index) => {
+        const filePath = path.join(directoryPath, file);
+        importFile(filePath);
+
+        // If it's the last file, close the connection and exit
+        if (index === jsonFiles.length - 1) {
+            connection.end(() => process.exit(0));
         }
     });
 });
