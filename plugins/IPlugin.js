@@ -197,7 +197,13 @@ class IPlugin {
    * @param {object} metadata - The URL associated with the data
    */
   saveResultNotFound(candidates, metadata) {
-    app.log(this.name, candidates, metadata/*,'No match found, but found potential candidates', { url, candidates }*/);
+    let message = {type:'unknown'}
+    if(Array.isArray(candidates) && candidates.length > 0){
+       message={ type: 'candidates' , urls:candidates}
+    }else{
+       message={ type: 'not_found'}
+    }
+    app.log(this.name, message, metadata/*,'No match found, but found potential candidates', { url, candidates }*/);
   }
   /**
    * Get an extractor instance
