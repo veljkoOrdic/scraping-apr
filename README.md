@@ -146,3 +146,64 @@ Run the stealth example:
 ```
 node example-stealth.js
 ```
+
+
+### SQL Queries for Plugin and Dealer Analysis
+
+To check which dealers use which plugins, use the following SQL:
+
+```sql
+INSERT INTO cc_car_finance_plugin_dealer
+SELECT c.dealer_id, plugins, COUNT(*) AS cars
+FROM `cc_finance_plugin_check` p
+         INNER JOIN admin_guilherme.cc_scrapped_car c ON c.id=p.car_id
+GROUP BY 1,2;
+```
+
+To get live cars for a specific plugin, use the following SQL:
+
+```sql
+SET @plugins='NewvehicleFinance';
+SELECT t.*, s.price, vehicle.url
+FROM (
+         SELECT dealer_id, rounded_price, MIN(car_id) AS car_id FROM
+             (
+                 SELECT p.dealer_id, s.id AS car_id, price, FLOOR(s.price / 5000) * 5000 AS rounded_price
+                 FROM `cc_car_finance_plugin_dealer` p
+                          INNER JOIN db_live.sale s ON s.dealer_id=p.dealer_id
+                 WHERE p.plugins=@plugins
+             ) AS t
+         GROUP BY 1,2) AS t
+         INNER JOIN db_live.sale s ON s.id=t.car_id
+         INNER JOIN db_live.vehicle ON t.car_id=vehicle.id;
+```
+
+
+
+### Steps to Process Cars:
+
+1. **Save the processed cars to a CSV file**:
+  - Use the SQL query to fetch the required car data and save the output to a CSV file (e.g., `data/cars.csv`).
+
+2. **Process the CSV file**:
+  - Run the `scrape-csv.js` script with the required arguments: the path to the CSV file, the scraper script, and the target directory.
+  - Ensure the target directory exists before running the script.
+
+3. **Import the saved files into the database**:
+  - Use the `import-folder.js` script to import the JSON files from the target directory into the database.
+
+### Example Commands:
+
+1. **Run the SQL query and save the output to `data/cars.csv`**:
+  - Use a database client or script to export the query results to a CSV file.
+
+2. **Run the `scrape-csv.js` script**:
+   ```bash
+   mkdir -p data/nw
+   node scrape-csv.js data/cars.csv newvehicle.js data/nw
+   ```
+
+3. **Import the JSON files into the database**:
+   ```bash
+   node import-folder.js data/nw
+   ```
