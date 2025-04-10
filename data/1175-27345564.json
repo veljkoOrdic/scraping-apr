@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:09:51.072Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesfrench.com/vehicle/land-rover-range-rover-sport-30-d300-mhev-dynamic-se-auto-4wd-euro-6-ss-5dr-in-standlake-oxfordshire-a7c340c1-cc3f-4f0a-a989-b299011439d0",
+    "dealer_id": "1175",
+    "car_id": "27345564",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 Dynamic SE",
+        "registration_number": "KP73FUU",
+        "registration_date": "01/09/2023",
+        "mileage": 9999,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79950,
+        "total_price": 79950,
+        "deposit": 7995,
+        "balance": 71955,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1171.45,
+        "final_payment": 27058.95,
+        "total_amount_payable": 104169.5,
+        "total_charge_for_credit": 24219.5,
+        "amount_of_credit": 71955,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 15.57,
+        "residual": 27058.95,
+        "price_to_buy": 27058.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79950,
+        "total_price": 79950,
+        "deposit": 7995,
+        "balance": 71955,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1510.39,
+        "final_payment": 1510.39,
+        "total_amount_payable": 98618.4,
+        "total_charge_for_credit": 18668.4,
+        "amount_of_credit": 71955,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

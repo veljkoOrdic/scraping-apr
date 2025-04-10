@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:45:51.713Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redhousecarsales.co.uk/used/cars/renault/clio/iconic-tce-60",
+    "dealer_id": "4153",
+    "car_id": "26956447",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "CLIO",
+        "variant": "HATCHBACK",
+        "derivative": "0.9 TCE 75 Iconic",
+        "registration_number": "KGZ5623",
+        "registration_date": "31/07/2018",
+        "mileage": 14000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 27,
+        "regular_payment": 192.54,
+        "final_payment": 4725,
+        "total_amount_payable": 10630.04,
+        "total_charge_for_credit": 1640.04,
+        "amount_of_credit": 8091,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 22500,
+        "excess_mileage_rate": 7,
+        "residual": 4725,
+        "price_to_buy": 4725
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 177.13,
+        "final_payment": 177.13,
+        "total_amount_payable": 11526.8,
+        "total_charge_for_credit": 2536.8,
+        "amount_of_credit": 8091,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

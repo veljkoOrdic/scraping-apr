@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T04:56:50.482Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dcmotorcompany.co.uk/vehicle/bentley-continental-gt-v8-in-keston-kent-c1c05862-5cb1-4617-8a8b-8cb0c3c8968c",
+    "dealer_id": "3660",
+    "car_id": "26042782",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GTC",
+        "variant": "CONVERTIBLE",
+        "derivative": "4.0 V8",
+        "registration_number": "SJ21URB",
+        "registration_date": "30/03/2021",
+        "mileage": 9000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 140000,
+        "total_price": 140000,
+        "deposit": 14000,
+        "balance": 126000,
+        "apr": 10.2,
+        "rate_of_interest": 5.25,
+        "term": 48,
+        "regular_payment": 2165.54,
+        "final_payment": 61633.04,
+        "total_amount_payable": 177413.42,
+        "total_charge_for_credit": 37413.42,
+        "amount_of_credit": 126000,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 59457.5,
+        "price_to_buy": 61633.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 140000,
+        "total_price": 140000,
+        "deposit": 14000,
+        "balance": 126000,
+        "apr": 10.1,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 2658.61,
+        "final_payment": 2658.61,
+        "total_amount_payable": 173516.6,
+        "total_charge_for_credit": 33516.6,
+        "amount_of_credit": 126000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

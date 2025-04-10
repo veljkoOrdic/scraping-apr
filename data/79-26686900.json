@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T12:47:49.902Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.riversideautos.co.uk/product/452312-bmw-x5-3-0-30d-m-sport-auto-xdrive-euro-6-s-s-5dr/",
+    "dealer_id": "79",
+    "car_id": "26686900",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive30d M Sport",
+        "registration_number": "HW20AFJ",
+        "registration_date": "12/04/2024",
+        "mileage": 31686,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42500,
+        "total_price": 42500,
+        "deposit": 1000,
+        "balance": 41500,
+        "apr": 11.8,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 906.4,
+        "final_payment": 906.4,
+        "total_amount_payable": 55384,
+        "total_charge_for_credit": 12884,
+        "amount_of_credit": 41500,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

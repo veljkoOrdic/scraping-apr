@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:46:02.631Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redhousecarsales.co.uk/used/cars/bmw/6-series/630i-m-sport-69",
+    "dealer_id": "4153",
+    "car_id": "27071692",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "6 Series",
+        "variant": "GRAN TURISMO HATCHBACK",
+        "derivative": "630i M Sport",
+        "registration_number": "RO68HPA",
+        "registration_date": "28/09/2018",
+        "mileage": 38000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20750,
+        "total_price": 20750,
+        "deposit": 2075,
+        "balance": 18675,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 29,
+        "regular_payment": 439.67,
+        "final_payment": 10363,
+        "total_amount_payable": 24748.76,
+        "total_charge_for_credit": 3998.76,
+        "amount_of_credit": 18675,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 24166,
+        "excess_mileage_rate": 15,
+        "residual": 10363,
+        "price_to_buy": 10363
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20750,
+        "total_price": 20750,
+        "deposit": 2075,
+        "balance": 18675,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 408.83,
+        "final_payment": 408.83,
+        "total_amount_payable": 26604.8,
+        "total_charge_for_credit": 5854.8,
+        "amount_of_credit": 18675,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

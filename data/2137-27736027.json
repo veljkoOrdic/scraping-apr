@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:03:23.503Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.royhumphreyprestigecars.co.uk/vehicle/porsche-911-40-992-gt3-rs-coupe-2dr-petrol-pdk-euro-6-ss-525-ps-in-eye-suffolk-cf242080-32c8-4652-8a25-3974fb4c140b",
+    "dealer_id": "2137",
+    "car_id": "27736027",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] GT COUPE",
+        "derivative": "GT3 RS PDK",
+        "registration_number": "ST73RMZ",
+        "registration_date": "30/11/2023",
+        "mileage": 1850,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 279950,
+        "total_price": 279950,
+        "deposit": 119950,
+        "balance": 160000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2212.96,
+        "final_payment": 113222,
+        "total_amount_payable": 337181.12,
+        "total_charge_for_credit": 57231.12,
+        "amount_of_credit": 160000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 200,
+        "residual": 113212,
+        "price_to_buy": 113222
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 279950,
+        "total_price": 279950,
+        "deposit": 27995,
+        "balance": 251955,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 5401.85,
+        "final_payment": 5401.85,
+        "total_amount_payable": 352106,
+        "total_charge_for_credit": 72156,
+        "amount_of_credit": 251955,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

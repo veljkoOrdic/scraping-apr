@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T00:01:32.632Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.g5cars.co.uk/details/used-car-in-leeds/ford/focus/2.0-cc-2-2dr/1031083/",
+    "dealer_id": "1130",
+    "car_id": "22472419",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS CC",
+        "variant": "FOCUS COUPE CABRIOLET",
+        "derivative": "2.0 CC-2",
+        "registration_number": "EF58JVN",
+        "registration_date": "30/01/2009",
+        "mileage": 63000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3390,
+        "total_price": 3390,
+        "deposit": 10,
+        "balance": 3380,
+        "apr": 19.8,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 86.26,
+        "final_payment": 86.26,
+        "total_amount_payable": 5185.6,
+        "total_charge_for_credit": 1795.6,
+        "amount_of_credit": 3380,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

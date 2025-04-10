@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:47:38.939Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-volvo-xc60-wigan-lancashire-6601587",
+    "dealer_id": "1094",
+    "car_id": "26707566",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC60",
+        "variant": "ESTATE",
+        "derivative": "2.0 T8 [455] RC PHEV Ultimate Dark Gtron",
+        "registration_number": "CF23YSH",
+        "registration_date": "31/08/2023",
+        "mileage": 5838,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44795,
+        "total_price": 44795,
+        "deposit": 4479,
+        "balance": 40316,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1012.27,
+        "final_payment": 1013.27,
+        "total_amount_payable": 53068.96,
+        "total_charge_for_credit": 8273.96,
+        "amount_of_credit": 40316,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44795,
+        "total_price": 44795,
+        "deposit": 4479,
+        "balance": 40316,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 48,
+        "regular_payment": 679.09,
+        "final_payment": 19507.5,
+        "total_amount_payable": 56583.82,
+        "total_charge_for_credit": 11788.82,
+        "amount_of_credit": 40316,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18.8,
+        "residual": 19507.5,
+        "price_to_buy": 19507.5
+      }
+    ]
+  }
+]

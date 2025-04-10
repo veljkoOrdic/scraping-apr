@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T02:39:47.907Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pyramidqualitycars.co.uk/used/cars/vauxhall/astra/1-6-16v-exclusiv-euro-5-5dr-248",
+    "dealer_id": "2463",
+    "car_id": "26625478",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.6i 16V Exclusiv",
+        "registration_number": "DY62VDG",
+        "registration_date": "30/12/2012",
+        "mileage": 81000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 2295,
+        "total_price": 2295,
+        "deposit": 229.5,
+        "balance": 2065.5,
+        "apr": 20.5,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 53.34,
+        "final_payment": 53.34,
+        "total_amount_payable": 3429.9,
+        "total_charge_for_credit": 1134.9,
+        "amount_of_credit": 2065.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2295,
+        "total_price": 2295,
+        "deposit": 229.5,
+        "balance": 2065.5,
+        "apr": 20.4,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 53.12,
+        "final_payment": 63.12,
+        "total_amount_payable": 3426.7,
+        "total_charge_for_credit": 1131.7,
+        "amount_of_credit": 2065.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

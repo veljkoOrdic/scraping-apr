@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-04-09T23:20:16.882Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-switch.co.uk/used-mercedes-benz-sl-wigan-lancashire-6764999",
+    "dealer_id": "831",
+    "car_id": "27334871",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SL CLASS",
+        "variant": "SL AMG CONVERTIBLE",
+        "derivative": "SL 63 Tip",
+        "registration_number": "GV14GEU",
+        "registration_date": "19/06/2014",
+        "mileage": 58500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 551.37,
+        "final_payment": 561.37,
+        "total_amount_payable": 35891.2,
+        "total_charge_for_credit": 7896.2,
+        "amount_of_credit": 25196,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp_blackhorse",
+        "name": "HP_BLACKHORSE",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 38,
+        "regular_payment": 780.95,
+        "final_payment": 780.95,
+        "total_amount_payable": 32475.1,
+        "total_charge_for_credit": 4480.1,
+        "amount_of_credit": 25196,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_evolution",
+        "name": "HP_EVOLUTION",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 545.87,
+        "final_payment": 545.87,
+        "total_amount_payable": 35551.2,
+        "total_charge_for_credit": 7556.2,
+        "amount_of_credit": 25196,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

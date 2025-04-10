@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T22:44:38.893Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rcscarsales.co.uk/vehicle/audi-tt-20-tfsi-45-black-edition-s-tronic-euro-6-ss-3dr-in-worcester-worcestershire-4fc36b7a-ab65-4f98-b952-b28f00f027b0",
+    "dealer_id": "281",
+    "car_id": "27213260",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "TT",
+        "variant": "COUPE",
+        "derivative": "45 TFSI Black Edition S Tronic",
+        "registration_number": "PX71XHV",
+        "registration_date": "24/12/2021",
+        "mileage": 20341,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26999,
+        "total_price": 26999,
+        "deposit": 2699.9,
+        "balance": 24299.1,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 48,
+        "regular_payment": 407.26,
+        "final_payment": 11880,
+        "total_amount_payable": 34129.38,
+        "total_charge_for_credit": 7130.38,
+        "amount_of_credit": 24299.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.3,
+        "residual": 11880,
+        "price_to_buy": 11880
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26999,
+        "total_price": 26999,
+        "deposit": 2699.9,
+        "balance": 24299.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 510.08,
+        "final_payment": 511.08,
+        "total_amount_payable": 33305.7,
+        "total_charge_for_credit": 6306.7,
+        "amount_of_credit": 24299.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

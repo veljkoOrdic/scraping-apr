@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:06:52.597Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.penybanc-carcentre.co.uk/used/cars/ford/s-max/2-0-ecoblue-zetec-auto-euro-6-s-s-5dr-47",
+    "dealer_id": "3923",
+    "car_id": "20955976",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "S-MAX",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue 150 Zetec [8 Speed]",
+        "registration_date": "19/12/2019",
+        "mileage": 34582,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 56,
+        "regular_payment": 335.23,
+        "final_payment": 3742.13,
+        "total_amount_payable": 23979.28,
+        "total_charge_for_credit": 5984.28,
+        "amount_of_credit": 16195.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 2.73,
+        "residual": 3742.13,
+        "price_to_buy": 3742.13
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 361.83,
+        "final_payment": 361.83,
+        "total_amount_payable": 23509.3,
+        "total_charge_for_credit": 5514.3,
+        "amount_of_credit": 16195.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

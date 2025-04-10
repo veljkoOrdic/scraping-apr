@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:06:55.451Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goscoteservices.co.uk/vehicle/volkswagen-tiguan-15-tsi-r-line-dsg-euro-6-ss-5dr-in-leicester-leicestershire-4201ed28-b193-4ab8-8e5e-b27b00becf45",
+    "dealer_id": "1672",
+    "car_id": "26999965",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI 150 R-Line DSG",
+        "registration_number": "FH72CGF",
+        "registration_date": "31/01/2023",
+        "mileage": 20900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 456.83,
+        "final_payment": 12542,
+        "total_amount_payable": 37369.84,
+        "total_charge_for_credit": 8369.84,
+        "amount_of_credit": 26100,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 12532,
+        "price_to_buy": 12542
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 666.64,
+        "final_payment": 676.64,
+        "total_amount_payable": 34908.72,
+        "total_charge_for_credit": 5908.72,
+        "amount_of_credit": 26100,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T06:55:05.487Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.withamgarage.co.uk/used-hyundai-kona-melton-mowbray-leicestershire-5404863",
+    "dealer_id": "4313",
+    "car_id": "21662695",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "KONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 GDi Hybrid Ultimate DCT",
+        "registration_number": "BJ71MVX",
+        "registration_date": "30/09/2021",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 334.86,
+        "final_payment": 4714.69,
+        "total_amount_payable": 22586.97,
+        "total_charge_for_credit": 4591.97,
+        "amount_of_credit": 16196,
+        "lender": "Santander Consumer",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 4714.69,
+        "price_to_buy": 4714.69
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 406.65,
+        "final_payment": 407.65,
+        "total_amount_payable": 21319.2,
+        "total_charge_for_credit": 3324.2,
+        "amount_of_credit": 16196,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

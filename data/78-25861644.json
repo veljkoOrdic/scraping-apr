@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T12:44:38.458Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hyamsautos.co.uk/details/used-car-in-malmesbury/mercedes-benz/slc/2.0-slc200-amg-line-g-tronic-euro-6-ss-2dr/1280512/",
+    "dealer_id": "78",
+    "car_id": "25861644",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SLC",
+        "variant": "ROADSTER",
+        "derivative": "SLC 200 AMG Line 9G-Tronic",
+        "registration_number": "LP16ABX",
+        "registration_date": "09/06/2016",
+        "mileage": 42803,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14599,
+        "total_price": 14599,
+        "deposit": 1459.9,
+        "balance": 13139.1,
+        "apr": 12.1,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 342.59,
+        "final_payment": 352.59,
+        "total_amount_payable": 17914.22,
+        "total_charge_for_credit": 3315.22,
+        "amount_of_credit": 13139.1,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14599,
+        "total_price": 14599,
+        "deposit": 1459.9,
+        "balance": 13139.1,
+        "apr": 12.1,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 342.85,
+        "final_payment": 342.85,
+        "total_amount_payable": 17916.7,
+        "total_charge_for_credit": 3317.7,
+        "amount_of_credit": 13139.1,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

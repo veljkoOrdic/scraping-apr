@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T12:53:14.458Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.martoncars.co.uk/cars/ford/transitcustom/2.0-300-ecoblue-leader-crew-van-l1-h1-euro-6-ss-5dr/1393204/",
+    "dealer_id": "168",
+    "car_id": "27204489",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 105ps Low Roof D/Cab Leader Van",
+        "registration_number": "YR22NXE",
+        "registration_date": "05/04/2022",
+        "mileage": 60000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13000,
+        "total_price": 13000,
+        "deposit": 1300,
+        "balance": 11700,
+        "apr": 14.3,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 268.61,
+        "final_payment": 268.61,
+        "total_amount_payable": 17416.6,
+        "total_charge_for_credit": 4416.6,
+        "amount_of_credit": 11700,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T22:49:49.254Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.salinemotors.co.uk/details/prestige-car-in-by-dunfermline/audi/a3/s-line-2.0-tdi-quattro-dsg-184-bhp/939314/",
+    "dealer_id": "355",
+    "car_id": "19576487",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 TDI 184 Quattro S Line S Tronic [7 Speed]",
+        "registration_number": "D20DRC",
+        "registration_date": "25/10/2016",
+        "mileage": 43000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 334.72,
+        "final_payment": 344.72,
+        "total_amount_payable": 21792.7,
+        "total_charge_for_credit": 4797.7,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 334.72,
+        "final_payment": 344.72,
+        "total_amount_payable": 21792.7,
+        "total_charge_for_credit": 4797.7,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

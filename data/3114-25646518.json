@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T03:56:19.426Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handmcarsbarnsley.co.uk/details/used-car-in-barnsley/audi/e-tron/35-sport-auto-5dr-55kwh/1378223/",
+    "dealer_id": "3114",
+    "car_id": "25646518",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q4",
+        "variant": "E-TRON ESTATE",
+        "derivative": "125kW 35 55kWh Sport",
+        "registration_number": "YE71OKL",
+        "registration_date": "11/11/2021",
+        "mileage": 35770,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 11.4,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 345.57,
+        "final_payment": 8791.82,
+        "total_amount_payable": 27133.11,
+        "total_charge_for_credit": 6138.11,
+        "amount_of_credit": 18895.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8436.25,
+        "price_to_buy": 8791.82
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 11.3,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 408.75,
+        "final_payment": 418.75,
+        "total_amount_payable": 26634.5,
+        "total_charge_for_credit": 5639.5,
+        "amount_of_credit": 18895.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

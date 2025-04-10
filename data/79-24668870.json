@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T12:46:40.513Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.riversideautos.co.uk/product/833848-fiat-500l-1-4-cross-euro-6-s-s-5dr/",
+    "dealer_id": "79",
+    "car_id": "24668870",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500L",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 Cross",
+        "registration_number": "PF69VAU",
+        "registration_date": "31/12/2019",
+        "mileage": 12292,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9000,
+        "total_price": 9000,
+        "deposit": 1000,
+        "balance": 8000,
+        "apr": 15.4,
+        "rate_of_interest": 6.99,
+        "term": 60,
+        "regular_payment": 187.81,
+        "final_payment": 187.81,
+        "total_amount_payable": 12268.6,
+        "total_charge_for_credit": 3268.6,
+        "amount_of_credit": 8000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

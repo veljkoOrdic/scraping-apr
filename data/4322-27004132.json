@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T07:02:36.311Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fraserburghcarsalesltd.com/cars/ford/fiesta/1.3-finesse/1375027/",
+    "dealer_id": "4322",
+    "car_id": "27004132",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 Finesse",
+        "registration_number": "W858MJH",
+        "registration_date": "22/06/2000",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4000,
+        "total_price": 4000,
+        "deposit": 400,
+        "balance": 3600,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 78.69,
+        "final_payment": 88.69,
+        "total_amount_payable": 5131.4,
+        "total_charge_for_credit": 1131.4,
+        "amount_of_credit": 3600,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

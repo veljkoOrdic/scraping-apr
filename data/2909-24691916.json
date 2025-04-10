@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:33:16.008Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.curtiscars.co.uk/used-cars/volkswagen-tiguan-15-tsi-life-dsg-euro-6-ss-5dr/23873/",
+    "dealer_id": "2909",
+    "car_id": "24691916",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI 150 Life DSG",
+        "registration_number": "TGZ3076",
+        "registration_date": "25/01/2021",
+        "mileage": 29626,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 1899,
+        "balance": 17091,
+        "apr": 9.7,
+        "rate_of_interest": 7.15,
+        "term": 49,
+        "regular_payment": 277.62,
+        "final_payment": 8752.5,
+        "total_amount_payable": 23977.26,
+        "total_charge_for_credit": 4987.26,
+        "amount_of_credit": 17091,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 12,
+        "residual": 8752.5,
+        "price_to_buy": 8752.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 1899,
+        "balance": 17091,
+        "apr": 9.7,
+        "rate_of_interest": 5.08,
+        "term": 60,
+        "regular_payment": 357.22,
+        "final_payment": 357.22,
+        "total_amount_payable": 23332.2,
+        "total_charge_for_credit": 4342.2,
+        "amount_of_credit": 17091,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

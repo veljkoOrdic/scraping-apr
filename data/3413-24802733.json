@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:30:04.554Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jchallidayandsons.com/used-cars/hyundai-ioniq-6-first-edition-auto-awd-4dr-774kwh/31243/",
+    "dealer_id": "3413",
+    "car_id": "24802733",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 6",
+        "variant": "ELECTRIC SALOON SPECIAL EDITIONS",
+        "derivative": "239kW First Edition 77kWh",
+        "registration_number": "CYZ5511",
+        "registration_date": "12/01/2024",
+        "mileage": 7039,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32199,
+        "total_price": 32199,
+        "deposit": 500,
+        "balance": 31699,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 498.16,
+        "final_payment": 17438,
+        "total_amount_payable": 41849.68,
+        "total_charge_for_credit": 9650.68,
+        "amount_of_credit": 31699,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 17438,
+        "price_to_buy": 17438
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32199,
+        "total_price": 32199,
+        "deposit": 500,
+        "balance": 31699,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 665.26,
+        "final_payment": 675.26,
+        "total_amount_payable": 40425.6,
+        "total_charge_for_credit": 8226.6,
+        "amount_of_credit": 31699,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

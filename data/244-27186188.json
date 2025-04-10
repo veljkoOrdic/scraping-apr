@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:32:19.802Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechmotorco.co.uk/details/used-car-in-congleton/mini/electric/cooper-se-32.6kwh-level-2-auto-3dr/1390280/",
+    "dealer_id": "244",
+    "car_id": "27186188",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "Electric Level 2",
+        "registration_number": "EK22YHR",
+        "registration_date": "30/04/2022",
+        "mileage": 7900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 173.38,
+        "final_payment": 7885,
+        "total_amount_payable": 17606.24,
+        "total_charge_for_credit": 3616.24,
+        "amount_of_credit": 12591,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9,
+        "residual": 7875,
+        "price_to_buy": 7885
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 258.54,
+        "final_payment": 268.54,
+        "total_amount_payable": 16921.4,
+        "total_charge_for_credit": 2931.4,
+        "amount_of_credit": 12591,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

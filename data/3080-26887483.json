@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:48:15.465Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.llanfoistcarsales.co.uk/cars/seat/arona/1.0-tsi-fr/1365506/",
+    "dealer_id": "3080",
+    "car_id": "26887483",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "ARONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 FR",
+        "registration_number": "YE22ETA",
+        "registration_date": "18/05/2022",
+        "mileage": 23206,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 11,
+        "rate_of_interest": 5.71,
+        "term": 48,
+        "regular_payment": 345.37,
+        "final_payment": 345.37,
+        "total_amount_payable": 18077.26,
+        "total_charge_for_credit": 3082.26,
+        "amount_of_credit": 13495.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 11,
+        "rate_of_interest": 10.48,
+        "term": 48,
+        "regular_payment": 235,
+        "final_payment": 6603,
+        "total_amount_payable": 19382.5,
+        "total_charge_for_credit": 4387.5,
+        "amount_of_credit": 13495.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.59,
+        "residual": 6603,
+        "price_to_buy": 6603
+      }
+    ]
+  }
+]

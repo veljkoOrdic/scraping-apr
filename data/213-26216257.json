@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T13:19:28.057Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarsitelondon.co.uk/details/used-car-in-bromley/porsche/911/3.6-993-carrera-tiptronic-2dr/1310835/",
+    "dealer_id": "213",
+    "car_id": "26216257",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "CARRERA COUPE",
+        "derivative": "2dr",
+        "registration_number": "M55EGL",
+        "registration_date": "28/05/1995",
+        "mileage": 162000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44495,
+        "total_price": 44495,
+        "deposit": 4449.5,
+        "balance": 40045.5,
+        "apr": 13.7,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 908.9,
+        "final_payment": 908.9,
+        "total_amount_payable": 58983.5,
+        "total_charge_for_credit": 14488.5,
+        "amount_of_credit": 40045.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

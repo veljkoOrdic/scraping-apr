@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:06:34.213Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/audi/a3/1.5-tfsi-cod-35-s-line-s-tronic-euro-6-ss-4dr/1394437/",
+    "dealer_id": "2153",
+    "car_id": "27223876",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "S line",
+        "derivative": "A3 Saloon S line 35 TFSI 150 PS S tronic",
+        "registration_number": "GM19KKJ",
+        "registration_date": "05/06/2019",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17000,
+        "total_price": 17000,
+        "deposit": 1700,
+        "balance": 15300,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 286.68,
+        "final_payment": 6981,
+        "total_amount_payable": 22154.96,
+        "total_charge_for_credit": 5154.96,
+        "amount_of_credit": 15300,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.24,
+        "residual": 6981,
+        "price_to_buy": 6981
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17000,
+        "total_price": 17000,
+        "deposit": 1700,
+        "balance": 15300,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 390.92,
+        "final_payment": 390.92,
+        "total_amount_payable": 20464.16,
+        "total_charge_for_credit": 3464.16,
+        "amount_of_credit": 15300,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

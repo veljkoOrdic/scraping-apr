@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:31:11.266Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.moffmotors.co.uk/vehicle/ford-focus-10t-ecoboost-st-line-euro-6-ss-5dr-in-somerset-a20c6665-9ddb-44af-99ca-b1dc0124f454",
+    "dealer_id": "4050",
+    "car_id": "25457139",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost ST-Line",
+        "registration_number": "MW73OBJ",
+        "registration_date": "29/09/2023",
+        "mileage": 13750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 281.21,
+        "final_payment": 8300,
+        "total_amount_payable": 23647.08,
+        "total_charge_for_credit": 5157.08,
+        "amount_of_credit": 16641,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.83,
+        "residual": 8300,
+        "price_to_buy": 8300
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 353.07,
+        "final_payment": 353.07,
+        "total_amount_payable": 23033.2,
+        "total_charge_for_credit": 4543.2,
+        "amount_of_credit": 16641,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

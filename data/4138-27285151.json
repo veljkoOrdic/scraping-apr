@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:35:47.708Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wycliffe-peugeot.com/used-car-details/used-peugeot-2008-12-puretech-allure-euro-6-s-suv-elixir-manual-petrol/id-202503049725626/",
+    "dealer_id": "4138",
+    "car_id": "27285151",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech 130 Allure",
+        "registration_number": "FD21XUG",
+        "registration_date": "28/05/2021",
+        "mileage": 19374,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 2174,
+        "balance": 12321,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 325.64,
+        "final_payment": 325.64,
+        "total_amount_payable": 17804.72,
+        "total_charge_for_credit": 3309.72,
+        "amount_of_credit": 12321,
+        "lender": "Stellantis Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 2174,
+        "balance": 12321,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 223.49,
+        "final_payment": 6503,
+        "total_amount_payable": 19181.03,
+        "total_charge_for_credit": 4686.03,
+        "amount_of_credit": 12321,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 6503,
+        "price_to_buy": 6503
+      }
+    ]
+  }
+]

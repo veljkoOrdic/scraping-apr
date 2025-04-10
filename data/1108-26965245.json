@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:55:55.747Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/land-rover-defender-110-30-d250-mhev-first-edition-auto/29537",
+    "dealer_id": "1108",
+    "car_id": "26965245",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "3.0 D250 First Edition 110 [7 Seat]",
+        "registration_number": "SRZ2743",
+        "registration_date": "10/02/2021",
+        "mileage": 45087,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48995,
+        "total_price": 48995,
+        "deposit": 4899.5,
+        "balance": 44095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 48,
+        "regular_payment": 744.4,
+        "final_payment": 22837.5,
+        "total_amount_payable": 63469.2,
+        "total_charge_for_credit": 14474.2,
+        "amount_of_credit": 44095.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 20.8,
+        "residual": 22837.5,
+        "price_to_buy": 22837.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48995,
+        "total_price": 48995,
+        "deposit": 4899.5,
+        "balance": 44095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 945.48,
+        "final_payment": 946.48,
+        "total_amount_payable": 61629.3,
+        "total_charge_for_credit": 12634.3,
+        "amount_of_credit": 44095.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

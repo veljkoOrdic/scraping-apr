@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:58:44.270Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/land-rover-defender-xs-edition-d-mhev-a/30570",
+    "dealer_id": "1108",
+    "car_id": "27488602",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "3.0 D250 XS Edition 110",
+        "registration_number": "SL24KYF",
+        "registration_date": "23/03/2024",
+        "mileage": 11500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 71995,
+        "total_price": 71995,
+        "deposit": 7199.5,
+        "balance": 64795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 48,
+        "regular_payment": 1092.92,
+        "final_payment": 33615,
+        "total_amount_payable": 93275.66,
+        "total_charge_for_credit": 21280.66,
+        "amount_of_credit": 64795.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 30.6,
+        "residual": 33615,
+        "price_to_buy": 33615
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71995,
+        "total_price": 71995,
+        "deposit": 7199.5,
+        "balance": 64795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1389.32,
+        "final_payment": 1390.32,
+        "total_amount_payable": 90559.7,
+        "total_charge_for_credit": 18564.7,
+        "amount_of_credit": 64795.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

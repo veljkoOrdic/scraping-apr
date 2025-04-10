@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T01:15:14.255Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hawkescarcentre.co.uk/details/used-car-in-bury-st-edmunds/mercedes-benz/eclass/2.0-e220d-amg-line-premium-g-tronic+-euro-6-ss-2dr/1289023/",
+    "dealer_id": "1756",
+    "car_id": "25954494",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "E Class Coupe",
+        "derivative": "E220d AMG Line Prem Cpe Auto MY20.5 2019",
+        "registration_number": "KM20WVT",
+        "registration_date": "16/03/2020",
+        "mileage": 33000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 528.74,
+        "final_payment": 9994.99,
+        "total_amount_payable": 37545.27,
+        "total_charge_for_credit": 10550.27,
+        "amount_of_credit": 24295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9456.25,
+        "price_to_buy": 9994.99
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 576.01,
+        "final_payment": 586.01,
+        "total_amount_payable": 37270.1,
+        "total_charge_for_credit": 10275.1,
+        "amount_of_credit": 24295.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

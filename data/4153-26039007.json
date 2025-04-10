@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:45:54.716Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redhousecarsales.co.uk/used/cars/nissan/juke/1-0-dig-t-tekna-suv-5dr-petrol-manual-euro-6-s-s-114-ps-one-owner-15",
+    "dealer_id": "4153",
+    "car_id": "26039007",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T 114 Tekna",
+        "registration_number": "KP21OWB",
+        "registration_date": "31/07/2021",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 213.78,
+        "final_payment": 6197,
+        "total_amount_payable": 17807.44,
+        "total_charge_for_credit": 4317.44,
+        "amount_of_credit": 12141,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 7,
+        "residual": 6197,
+        "price_to_buy": 6197
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 265.79,
+        "final_payment": 265.79,
+        "total_amount_payable": 17296.4,
+        "total_charge_for_credit": 3806.4,
+        "amount_of_credit": 12141,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

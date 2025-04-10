@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:56:38.040Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fm3cars.co.uk/used-land-rover-range-rover-velar-stockport-cheshire-6859255",
+    "dealer_id": "2097",
+    "car_id": "27719349",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D240 R-Dynamic S",
+        "registration_number": "YY18NNL",
+        "registration_date": "30/04/2018",
+        "mileage": 69078,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21498,
+        "total_price": 21498,
+        "deposit": 2149,
+        "balance": 19349,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 25,
+        "regular_payment": 484.05,
+        "final_payment": 11368,
+        "total_amount_payable": 25134.2,
+        "total_charge_for_credit": 3636.2,
+        "amount_of_credit": 19349,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 20833,
+        "excess_mileage_rate": 16,
+        "residual": 11368,
+        "price_to_buy": 11368
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21498,
+        "total_price": 21498,
+        "deposit": 2149,
+        "balance": 19349,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 423.56,
+        "final_payment": 423.56,
+        "total_amount_payable": 27562.6,
+        "total_charge_for_credit": 6064.6,
+        "amount_of_credit": 19349,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

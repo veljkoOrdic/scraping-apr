@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T06:01:47.632Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.toothillprestige.co.uk/vehicle/ford-focus-15-ecoblue-zetec-euro-6-ss-5dr-in-mansfield-nottinghamshire-85e1502b-a050-4020-86fa-b22200f94a02",
+    "dealer_id": "4254",
+    "car_id": "26200391",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.5 EcoBlue 120 Zetec",
+        "registration_number": "BJ21PVD",
+        "registration_date": "11/07/2021",
+        "mileage": 61000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 999,
+        "balance": 8991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 157.17,
+        "final_payment": 2567.68,
+        "total_amount_payable": 12839.71,
+        "total_charge_for_credit": 2849.71,
+        "amount_of_credit": 8991,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 2.62,
+        "residual": 2567.68,
+        "price_to_buy": 2567.68
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 999,
+        "balance": 8991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 188.73,
+        "final_payment": 188.73,
+        "total_amount_payable": 12322.8,
+        "total_charge_for_credit": 2332.8,
+        "amount_of_credit": 8991,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

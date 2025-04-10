@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:55:07.545Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kccarsales.co.uk/vehicle/nissan-juke-bose-personal-edition-xtronic-in-dartford-kent-603fe485-6de9-41f0-885d-f2b55b4d5db2",
+    "dealer_id": "1597",
+    "car_id": "15628552",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 [112] Bose Personal Edition CVT",
+        "registration_number": "LY19DMF",
+        "registration_date": "01/03/2019",
+        "mileage": 7076,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 1499,
+        "balance": 13491,
+        "apr": 11.1,
+        "rate_of_interest": 11.1,
+        "term": 46,
+        "regular_payment": 297.01,
+        "final_payment": 3737.1,
+        "total_amount_payable": 18601.55,
+        "total_charge_for_credit": 3611.55,
+        "amount_of_credit": 13491,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 38333,
+        "excess_mileage_rate": 2.89,
+        "residual": 3737.1,
+        "price_to_buy": 3737.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 1499,
+        "balance": 13491,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 286.23,
+        "final_payment": 286.23,
+        "total_amount_payable": 18672.8,
+        "total_charge_for_credit": 3682.8,
+        "amount_of_credit": 13491,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

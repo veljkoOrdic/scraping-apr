@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T00:37:43.912Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.eastfieldmotors.co.uk/details/used-car-in-peterborough/kia/sportage/1.7-crdi-ecodynamics-2-2wd-euro-5-ss-5dr/1187273/",
+    "dealer_id": "1551",
+    "car_id": "24645481",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.7 CRDi ISG 2",
+        "registration_number": "MK11VHP",
+        "registration_date": "28/04/2011",
+        "mileage": 82000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 449,
+        "balance": 4041,
+        "apr": 12.9,
+        "rate_of_interest": 6.78,
+        "term": 60,
+        "regular_payment": 90.18,
+        "final_payment": 100.18,
+        "total_amount_payable": 5869.8,
+        "total_charge_for_credit": 1379.8,
+        "amount_of_credit": 4041,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 449,
+        "balance": 4041,
+        "apr": 12.9,
+        "rate_of_interest": 6.78,
+        "term": 60,
+        "regular_payment": 90.18,
+        "final_payment": 100.18,
+        "total_amount_payable": 5869.8,
+        "total_charge_for_credit": 1379.8,
+        "amount_of_credit": 4041,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

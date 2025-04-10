@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T01:22:28.577Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.worthway-motorcompany.co.uk/details/used-car-in-keighley/honda/jazz/1.5-h-i-mmd-ex-ecvt-euro-6-ss-5dr/1163365/",
+    "dealer_id": "1870",
+    "car_id": "24334986",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "JAZZ",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 i-MMD Hybrid EX eCVT",
+        "registration_number": "PO71XHK",
+        "registration_date": "17/09/2021",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17125,
+        "total_price": 17125,
+        "deposit": 1712.5,
+        "balance": 15412.5,
+        "apr": 11.9,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 400.63,
+        "final_payment": 400.63,
+        "total_amount_payable": 20942.74,
+        "total_charge_for_credit": 3817.74,
+        "amount_of_credit": 15412.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17125,
+        "total_price": 17125,
+        "deposit": 1712.5,
+        "balance": 15412.5,
+        "apr": 11.5,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 251.63,
+        "final_payment": 9016.63,
+        "total_amount_payable": 22555.74,
+        "total_charge_for_credit": 5430.74,
+        "amount_of_credit": 15412.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8755,
+        "price_to_buy": 9016.63
+      }
+    ]
+  }
+]

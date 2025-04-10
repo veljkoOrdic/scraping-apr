@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:07:03.580Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/bmw/m3/3.0-biturbo-competition-steptronic-m-xdrive-euro-6-ss-4dr/1335011/",
+    "dealer_id": "2153",
+    "car_id": "26504283",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3",
+        "variant": "SALOON",
+        "derivative": "M3 xDrive Competition M Step",
+        "registration_number": "DN23RNE",
+        "registration_date": "21/04/2023",
+        "mileage": 5281,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 65000,
+        "total_price": 65000,
+        "deposit": 6500,
+        "balance": 58500,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 905.22,
+        "final_payment": 30899,
+        "total_amount_payable": 80849.56,
+        "total_charge_for_credit": 15849.56,
+        "amount_of_credit": 58500,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 30899,
+        "price_to_buy": 30899
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65000,
+        "total_price": 65000,
+        "deposit": 6500,
+        "balance": 58500,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 1494.71,
+        "final_payment": 1494.71,
+        "total_amount_payable": 78246.08,
+        "total_charge_for_credit": 13246.08,
+        "amount_of_credit": 58500,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

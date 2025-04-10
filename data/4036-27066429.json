@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:27:57.085Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.whitescars.co.uk/used/cars/land-rover/defender/3-0-d250-mhev-x-dynamic-se-auto-4wd-euro-6-s-s-3dr-301",
+    "dealer_id": "4036",
+    "car_id": "27066429",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic SE 90",
+        "registration_number": "LR23BZH",
+        "registration_date": "07/03/2023",
+        "mileage": 4000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59990,
+        "total_price": 59990,
+        "deposit": 5999,
+        "balance": 53991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 939.78,
+        "final_payment": 26971.52,
+        "total_amount_payable": 77140.18,
+        "total_charge_for_credit": 17150.18,
+        "amount_of_credit": 53991,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.54,
+        "residual": 26971.52,
+        "price_to_buy": 26971.52
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59990,
+        "total_price": 59990,
+        "deposit": 5999,
+        "balance": 53991,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1379.47,
+        "final_payment": 1379.47,
+        "total_amount_payable": 72213.56,
+        "total_charge_for_credit": 12223.56,
+        "amount_of_credit": 53991,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

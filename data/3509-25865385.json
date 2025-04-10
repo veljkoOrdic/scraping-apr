@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:36:34.431Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saundersabbott.co.uk/cars/audi/rs6/4.0-tfsi-v8-tiptronic-quattro-euro-5-ss-5dr/1269683/",
+    "dealer_id": "3509",
+    "car_id": "25865385",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "AVANT",
+        "derivative": "4.0T FSI V8 Bi-Turbo RS6 Quattro Tip",
+        "registration_number": "W44ADD",
+        "registration_date": "20/06/2014",
+        "mileage": 45261,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 12.4,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 676.93,
+        "final_payment": 676.93,
+        "total_amount_payable": 44015.3,
+        "total_charge_for_credit": 10020.3,
+        "amount_of_credit": 30595.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 12.4,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 676.71,
+        "final_payment": 686.71,
+        "total_amount_payable": 44012.1,
+        "total_charge_for_credit": 10017.1,
+        "amount_of_credit": 30595.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

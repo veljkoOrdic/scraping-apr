@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:01:26.569Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/audi-r8-performance-edition-v10-s-a/29476",
+    "dealer_id": "1108",
+    "car_id": "26311413",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "R8",
+        "variant": "COUPE",
+        "derivative": "5.2 FSI [570] V10 Performance Ed S Tronic RWD",
+        "registration_number": "EA74UDU",
+        "registration_date": "06/11/2024",
+        "mileage": 694,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 124950,
+        "total_price": 124950,
+        "deposit": 24950.01,
+        "balance": 99999.99,
+        "apr": 10.9,
+        "rate_of_interest": 5.28,
+        "term": 48,
+        "regular_payment": 1494.83,
+        "final_payment": 63292.5,
+        "total_amount_payable": 159995.35,
+        "total_charge_for_credit": 35045.35,
+        "amount_of_credit": 99999.99,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 73.5,
+        "residual": 63292.5,
+        "price_to_buy": 63292.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 124950,
+        "total_price": 124950,
+        "deposit": 24950.01,
+        "balance": 99999.99,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 2144.17,
+        "final_payment": 2145.17,
+        "total_amount_payable": 153601.21,
+        "total_charge_for_credit": 28651.21,
+        "amount_of_credit": 99999.99,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

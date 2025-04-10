@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:02:04.983Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.royhumphreyprestigecars.co.uk/vehicle/land-rover-range-rover-44-p530-v8-sv-suv-5dr-petrol-auto-4wd-euro-6-ss-530-ps-in-eye-suffolk-57f5bbae-eabb-4179-adae-98aa57f29612",
+    "dealer_id": "2137",
+    "car_id": "27414476",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "4.4 P530 V8 SV",
+        "registration_number": "KF23BYB",
+        "registration_date": "31/07/2023",
+        "mileage": 3700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 142500,
+        "total_price": 142500,
+        "deposit": 42500,
+        "balance": 100000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1563.87,
+        "final_payment": 46952.54,
+        "total_amount_payable": 181720.87,
+        "total_charge_for_credit": 39220.87,
+        "amount_of_credit": 100000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 24.89,
+        "residual": 46952.54,
+        "price_to_buy": 46952.54
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 142500,
+        "total_price": 142500,
+        "deposit": 14250,
+        "balance": 128250,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2749.52,
+        "final_payment": 2759.52,
+        "total_amount_payable": 179231.2,
+        "total_charge_for_credit": 36731.2,
+        "amount_of_credit": 128250,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

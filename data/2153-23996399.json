@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:07:20.698Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/porsche/911/4.0-992-gt3-pdk-euro-6-2dr/848472/",
+    "dealer_id": "2153",
+    "car_id": "23996399",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] GT COUPE",
+        "derivative": "GT3 PDK",
+        "registration_number": "GN72WPZ",
+        "registration_date": "07/11/2022",
+        "mileage": 4200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 160000,
+        "total_price": 160000,
+        "deposit": 16000,
+        "balance": 144000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 2600.96,
+        "final_payment": 71469.06,
+        "total_amount_payable": 209714.18,
+        "total_charge_for_credit": 49714.18,
+        "amount_of_credit": 144000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 43.08,
+        "residual": 71469.06,
+        "price_to_buy": 71469.06
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 160000,
+        "total_price": 160000,
+        "deposit": 16000,
+        "balance": 144000,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 3869.3,
+        "final_payment": 3869.3,
+        "total_amount_payable": 201726.4,
+        "total_charge_for_credit": 41726.4,
+        "amount_of_credit": 144000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:33:36.055Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechmotorco.co.uk/details/used-car-in-congleton/audi/q5/2.0-tdi-40-s-line-s-tronic-quattro-euro-6-ss-5dr/1344911/",
+    "dealer_id": "244",
+    "car_id": "26634721",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "40 TDI Quattro S Line S Tronic",
+        "registration_number": "ML70AEE",
+        "registration_date": "29/09/2020",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 2699,
+        "balance": 24291,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 371.91,
+        "final_payment": 13053,
+        "total_amount_payable": 33603.68,
+        "total_charge_for_credit": 6613.68,
+        "amount_of_credit": 24291,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 13043,
+        "price_to_buy": 13053
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 2699,
+        "balance": 24291,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 498.98,
+        "final_payment": 508.98,
+        "total_amount_payable": 32647.8,
+        "total_charge_for_credit": 5657.8,
+        "amount_of_credit": 24291,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

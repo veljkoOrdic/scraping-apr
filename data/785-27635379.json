@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:15:09.090Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1motorcompany.co.uk/cars/mazda/mx-30/35.5kwh-gt-sport-tech-*-mot-march-2026-*-full-service-*-great-electric-car-*-ulez-compliant-*-finan/1428438/",
+    "dealer_id": "785",
+    "car_id": "27635379",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "107kW GT Sport Tech 35.5kWh",
+        "registration_number": "CN21ULW",
+        "registration_date": "04/03/2021",
+        "mileage": 42355,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11250,
+        "total_price": 11250,
+        "deposit": 1125,
+        "balance": 10125,
+        "apr": 11.9,
+        "rate_of_interest": 8.67,
+        "term": 48,
+        "regular_payment": 181.49,
+        "final_payment": 5107.5,
+        "total_amount_payable": 14762.53,
+        "total_charge_for_credit": 3512.53,
+        "amount_of_credit": 10125,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 5107.5,
+        "price_to_buy": 5107.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11250,
+        "total_price": 11250,
+        "deposit": 1125,
+        "balance": 10125,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 221.64,
+        "final_payment": 221.64,
+        "total_amount_payable": 14423.4,
+        "total_charge_for_credit": 3173.4,
+        "amount_of_credit": 10125,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

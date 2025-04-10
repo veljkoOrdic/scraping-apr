@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:29:43.614Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.paragonmotorco.co.uk/used-vauxhall-corsa-wisbech-cambridgeshire-5591880",
+    "dealer_id": "1972",
+    "car_id": "22486057",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "100kW Elite Nav Premium 50kWh [11kWCh]",
+        "registration_number": "RO71OXM",
+        "registration_date": "30/09/2021",
+        "mileage": 27208,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199,
+        "balance": 10796,
+        "apr": 12.9,
+        "rate_of_interest": 12.2,
+        "term": 48,
+        "regular_payment": 212.92,
+        "final_payment": 4500,
+        "total_amount_payable": 15919.16,
+        "total_charge_for_credit": 3924.16,
+        "amount_of_credit": 10796,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.5,
+        "residual": 4500,
+        "price_to_buy": 4500
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199,
+        "balance": 10796,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 241.2,
+        "final_payment": 241.2,
+        "total_amount_payable": 15671,
+        "total_charge_for_credit": 3676,
+        "amount_of_credit": 10796,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:57:49.872Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cheshireperformance.co.uk/cars/ford/fiesta/1.5-t-ecoboost-st-3-3dr-1-owner+performance-pack+bno+reverse-cam+winter-pk/1242872/",
+    "dealer_id": "4241",
+    "car_id": "25385135",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 EcoBoost ST-3",
+        "registration_number": "MJ70YVK",
+        "registration_date": "12/12/2020",
+        "mileage": 17000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 347.03,
+        "final_payment": 357.03,
+        "total_amount_payable": 22630.8,
+        "total_charge_for_credit": 4640.8,
+        "amount_of_credit": 16191,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 317.1,
+        "final_payment": 5768.75,
+        "total_amount_payable": 22788.55,
+        "total_charge_for_credit": 4798.55,
+        "amount_of_credit": 16191,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12,
+        "residual": 5758.75,
+        "price_to_buy": 5768.75
+      }
+    ]
+  }
+]

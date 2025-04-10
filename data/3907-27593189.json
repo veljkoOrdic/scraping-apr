@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:06:39.744Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.millfieldgarage.co.uk/used-car/jaguar/e-pace/2-0d-s-5dr-auto/for-sale-in-lydd-kent/aetv33657980/",
+    "dealer_id": "3907",
+    "car_id": "27593189",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "E-PACE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0d S",
+        "registration_number": "EY70NNZ",
+        "registration_date": "30/09/2020",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 393.47,
+        "final_payment": 7693.47,
+        "total_amount_payable": 28386.06,
+        "total_charge_for_credit": 6391.06,
+        "amount_of_credit": 19795.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.35,
+        "residual": 7693.47,
+        "price_to_buy": 7693.47
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 514.52,
+        "final_payment": 514.52,
+        "total_amount_payable": 26896.46,
+        "total_charge_for_credit": 4901.46,
+        "amount_of_credit": 19795.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

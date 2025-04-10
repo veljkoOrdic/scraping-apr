@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:18:41.045Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoworldcars.co.uk/vehicle/jaguar-f-pace-30-d300-v6-portfolio-auto-awd-euro-6-ss-5dr-in-faversham-d314100b-037b-404f-802e-b27c011cd498",
+    "dealer_id": "1816",
+    "car_id": "27012940",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-PACE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0d V6 Portfolio",
+        "registration_number": "KT67MVS",
+        "registration_date": "31/01/2018",
+        "mileage": 79711,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 0,
+        "balance": 17495,
+        "apr": 15.8,
+        "rate_of_interest": 15.8,
+        "term": 22,
+        "regular_payment": 592.34,
+        "final_payment": 8625,
+        "total_amount_payable": 21064.14,
+        "total_charge_for_credit": 3569.14,
+        "amount_of_credit": 17495,
+        "lender": "Connected Car",
+        "annual_mileage": 6000,
+        "contract_mileage": 11000,
+        "excess_mileage_rate": 13,
+        "residual": 8615,
+        "price_to_buy": 8625
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 0,
+        "balance": 17495,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 386.93,
+        "final_payment": 386.93,
+        "total_amount_payable": 23215.8,
+        "total_charge_for_credit": 5720.8,
+        "amount_of_credit": 17495,
+        "lender": "Connected Car",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

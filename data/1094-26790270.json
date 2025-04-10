@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:47:45.145Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-bmw-x5-wigan-lancashire-6621832",
+    "dealer_id": "1094",
+    "car_id": "26790270",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M50i",
+        "registration_number": "SG70PZK",
+        "registration_date": "27/11/2020",
+        "mileage": 42997,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599,
+        "balance": 41396,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1039.38,
+        "final_payment": 1040.38,
+        "total_amount_payable": 54490.24,
+        "total_charge_for_credit": 8495.24,
+        "amount_of_credit": 41396,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599,
+        "balance": 41396,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 48,
+        "regular_payment": 697.36,
+        "final_payment": 20025,
+        "total_amount_payable": 58098.28,
+        "total_charge_for_credit": 12103.28,
+        "amount_of_credit": 41396,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18.4,
+        "residual": 20025,
+        "price_to_buy": 20025
+      }
+    ]
+  }
+]

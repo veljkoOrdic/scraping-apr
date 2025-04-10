@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T02:29:46.300Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ascars.co.uk/used/cars/land-rover/range-rover-sport/5-0-p575-v8-svr-auto-4wd-euro-6-s-s-5dr-70",
+    "dealer_id": "2335",
+    "car_id": "26328934",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 P575 S/C SVR",
+        "registration_date": "11/06/2021",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56999,
+        "total_price": 56999,
+        "deposit": 5699.9,
+        "balance": 51299.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 849.62,
+        "final_payment": 28391,
+        "total_amount_payable": 74023.04,
+        "total_charge_for_credit": 17024.04,
+        "amount_of_credit": 51299.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 44,
+        "residual": 28381,
+        "price_to_buy": 28391
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56999,
+        "total_price": 56999,
+        "deposit": 5699.9,
+        "balance": 51299.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1099.71,
+        "final_payment": 1109.71,
+        "total_amount_payable": 71692.5,
+        "total_charge_for_credit": 14693.5,
+        "amount_of_credit": 51299.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

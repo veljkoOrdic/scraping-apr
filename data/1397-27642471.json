@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:31:35.800Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lichfieldstreetmotorcompany.co.uk/vehicle/volkswagen-tiguan-r-line-tsi-evo-semi-auto-in-tamworth-staffordshire-c2049362-092c-482f-baf8-b2b20105b999",
+    "dealer_id": "1397",
+    "car_id": "27642471",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSi EVO 150 R-Line Tech DSG",
+        "registration_number": "BD19URG",
+        "registration_date": "12/04/2019",
+        "mileage": 16435,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22989,
+        "total_price": 22989,
+        "deposit": 2298.9,
+        "balance": 20690.1,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 407.41,
+        "final_payment": 9711.32,
+        "total_amount_payable": 31158.49,
+        "total_charge_for_credit": 8169.49,
+        "amount_of_credit": 20690.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.71,
+        "residual": 9710.32,
+        "price_to_buy": 9711.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22989,
+        "total_price": 22989,
+        "deposit": 2298.9,
+        "balance": 20690.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 546.81,
+        "final_payment": 547.81,
+        "total_amount_payable": 28546.78,
+        "total_charge_for_credit": 5557.78,
+        "amount_of_credit": 20690.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

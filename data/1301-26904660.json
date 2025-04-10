@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:22:41.413Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cargem.co.uk/used-volvo-xc40-beckton-london-6655559",
+    "dealer_id": "1301",
+    "car_id": "26904660",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC40",
+        "variant": "ESTATE",
+        "derivative": "2.0 T5 R DESIGN Pro Geartronic",
+        "registration_number": "LY69KVL",
+        "registration_date": "21/12/2019",
+        "mileage": 25593,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26271,
+        "total_price": 26271,
+        "deposit": 2627,
+        "balance": 23644,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 56,
+        "regular_payment": 426.02,
+        "final_payment": 8208.78,
+        "total_amount_payable": 34266.88,
+        "total_charge_for_credit": 7995.88,
+        "amount_of_credit": 23644,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 5.27,
+        "residual": 8208.78,
+        "price_to_buy": 8208.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26271,
+        "total_price": 26271,
+        "deposit": 2627,
+        "balance": 23644,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 496.33,
+        "final_payment": 497.33,
+        "total_amount_payable": 32407.8,
+        "total_charge_for_credit": 6136.8,
+        "amount_of_credit": 23644,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

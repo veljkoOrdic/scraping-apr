@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:57:12.032Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.iacarsales.co.uk/details/used-car-in-poole/ford/focus/2.3t-ecoboost-st-euro-6-ss-5dr/1421681/",
+    "dealer_id": "3670",
+    "car_id": "27548351",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "2.3 EcoBoost ST",
+        "registration_number": "FV70YAH",
+        "registration_date": "30/01/2021",
+        "mileage": 25216,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 1899.5,
+        "balance": 17095.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.88,
+        "term": 48,
+        "regular_payment": 302.43,
+        "final_payment": 8257.36,
+        "total_amount_payable": 24371.07,
+        "total_charge_for_credit": 5376.07,
+        "amount_of_credit": 17095.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.31,
+        "residual": 8247.36,
+        "price_to_buy": 8257.36
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 1899.5,
+        "balance": 17095.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 436.8,
+        "final_payment": 436.8,
+        "total_amount_payable": 22865.9,
+        "total_charge_for_credit": 3870.9,
+        "amount_of_credit": 17095.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:11:02.755Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.feathercrestserviceslimited.co.uk/used/cars/skoda/octavia/1-5-tsi-act-se-l-euro-6-s-s-5dr-76",
+    "dealer_id": "1198",
+    "car_id": "26723294",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "OCTAVIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 TSI SE L",
+        "registration_number": "BG70ZFO",
+        "registration_date": "17/12/2020",
+        "mileage": 94000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 0,
+        "balance": 8995,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 169.66,
+        "final_payment": 3906,
+        "total_amount_payable": 12049.68,
+        "total_charge_for_credit": 3054.68,
+        "amount_of_credit": 8995,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 3906,
+        "price_to_buy": 3906
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 0,
+        "balance": 8995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 196.92,
+        "final_payment": 196.92,
+        "total_amount_payable": 11815.2,
+        "total_charge_for_credit": 2820.2,
+        "amount_of_credit": 8995,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

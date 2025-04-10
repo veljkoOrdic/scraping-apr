@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:44:19.611Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.essexcarcompany.co.uk/used-land-rover-range-rover-sport-rainham-essex-6624191",
+    "dealer_id": "73",
+    "car_id": "26793140",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D350biography",
+        "registration_number": "EF73SYP",
+        "registration_date": "24/11/2023",
+        "mileage": 12101,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82950,
+        "total_price": 82950,
+        "deposit": 8295,
+        "balance": 74655,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 1336.41,
+        "final_payment": 36784,
+        "total_amount_payable": 109226.68,
+        "total_charge_for_credit": 26276.68,
+        "amount_of_credit": 74655,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.77,
+        "residual": 36784,
+        "price_to_buy": 36784
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82950,
+        "total_price": 82950,
+        "deposit": 8295,
+        "balance": 74655,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1940.41,
+        "final_payment": 1940.41,
+        "total_amount_payable": 101434.68,
+        "total_charge_for_credit": 18484.68,
+        "amount_of_credit": 74655,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

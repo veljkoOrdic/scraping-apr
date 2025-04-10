@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T06:06:06.140Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derbytradecars.co.uk/used-porsche-taycan-derby-derbyshire-6565331",
+    "dealer_id": "4271",
+    "car_id": "26575335",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "500kW Turbo 93kWh",
+        "registration_number": "KS20MUU",
+        "registration_date": "20/08/2020",
+        "mileage": 19000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 5499,
+        "balance": 49491,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 838.94,
+        "final_payment": 23647.5,
+        "total_amount_payable": 69415.62,
+        "total_charge_for_credit": 14425.62,
+        "amount_of_credit": 49491,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 13,
+        "residual": 23647.5,
+        "price_to_buy": 23647.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 5499,
+        "balance": 49491,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1038.9,
+        "final_payment": 1038.9,
+        "total_amount_payable": 67833,
+        "total_charge_for_credit": 12843,
+        "amount_of_credit": 49491,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

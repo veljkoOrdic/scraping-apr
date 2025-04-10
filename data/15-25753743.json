@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:25:46.370Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/kia/ev6/236kw-gt-line-774kwh-5dr-awd-auto-estate/burnley/lancashire/21414962",
+    "dealer_id": "15",
+    "car_id": "25753743",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "EV6",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "236kW GT Line 77.4kWh",
+        "registration_number": "PE74XXK",
+        "registration_date": "02/09/2024",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43799,
+        "total_price": 43799,
+        "deposit": 4379.9,
+        "balance": 39419.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 827.14,
+        "final_payment": 837.14,
+        "total_amount_payable": 54018.3,
+        "total_charge_for_credit": 10219.3,
+        "amount_of_credit": 39419.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43799,
+        "total_price": 43799,
+        "deposit": 4379.9,
+        "balance": 39419.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 713.05,
+        "final_payment": 16210,
+        "total_amount_payable": 54816.3,
+        "total_charge_for_credit": 11017.3,
+        "amount_of_credit": 39419.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 16200,
+        "price_to_buy": 16210
+      }
+    ]
+  }
+]

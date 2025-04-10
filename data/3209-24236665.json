@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-10T04:01:24.095Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stroodmotorcentre.co.uk/used/cars/bmw/x5/3-0-45e-24kwh-m-sport-auto-xdrive-euro-6-s-s-5dr-540",
+    "dealer_id": "3209",
+    "car_id": "24236665",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "ESTATE",
+        "derivative": "xDrive45e M Sport",
+        "registration_date": "29/10/2020",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48987,
+        "total_price": 48987,
+        "deposit": 4898.7,
+        "balance": 44088.3,
+        "apr": 12.5,
+        "rate_of_interest": 6.3,
+        "term": 48,
+        "regular_payment": 838.17,
+        "final_payment": 20270.67,
+        "total_amount_payable": 64563.36,
+        "total_charge_for_credit": 15576.36,
+        "amount_of_credit": 44088.3,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 19422.5,
+        "price_to_buy": 20270.67
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 48987,
+        "total_price": 48987,
+        "deposit": 4898.7,
+        "balance": 44088.3,
+        "apr": 12.3,
+        "rate_of_interest": 6.3,
+        "term": 60,
+        "regular_payment": 973.94,
+        "final_payment": 973.94,
+        "total_amount_payable": 63335.1,
+        "total_charge_for_credit": 14348.1,
+        "amount_of_credit": 44088.3,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

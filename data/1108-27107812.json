@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:54:32.148Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/volkswagen-golf-gti-tsi-s-a/29545",
+    "dealer_id": "1108",
+    "car_id": "27107812",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI GTI DSG",
+        "registration_number": "YL73SnJ",
+        "registration_date": "29/02/2024",
+        "mileage": 9498,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.31,
+        "term": 48,
+        "regular_payment": 478.47,
+        "final_payment": 16740,
+        "total_amount_payable": 43007.06,
+        "total_charge_for_credit": 10012.06,
+        "amount_of_credit": 29695.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 23.8,
+        "residual": 16740,
+        "price_to_buy": 16740
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 636.72,
+        "final_payment": 637.72,
+        "total_amount_payable": 41503.7,
+        "total_charge_for_credit": 8508.7,
+        "amount_of_credit": 29695.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

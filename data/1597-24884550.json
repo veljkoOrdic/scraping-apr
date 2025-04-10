@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:55:51.238Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kccarsales.co.uk/vehicle/mercedes-300-e-amg-line-premium-in-dartford-kent-07b76480-04f1-4940-b99c-a9df52a6870f",
+    "dealer_id": "1597",
+    "car_id": "24884550",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "CABRIOLET",
+        "derivative": "E300 AMG Line Premium 9G-Tronic",
+        "registration_number": "KX18PDU",
+        "registration_date": "07/03/2018",
+        "mileage": 24916,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 12.6,
+        "rate_of_interest": 12.6,
+        "term": 23,
+        "regular_payment": 525.89,
+        "final_payment": 11857,
+        "total_amount_payable": 25625.58,
+        "total_charge_for_credit": 3635.58,
+        "amount_of_credit": 19791,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 19166,
+        "excess_mileage_rate": 16,
+        "residual": 11847,
+        "price_to_buy": 11857
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 419.9,
+        "final_payment": 419.9,
+        "total_amount_payable": 27393,
+        "total_charge_for_credit": 5403,
+        "amount_of_credit": 19791,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

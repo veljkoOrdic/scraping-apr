@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:41:06.236Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jccarcentre.co.uk/used-volkswagen-multivan-newcastle-upon-tyne-northumberland-6665734",
+    "dealer_id": "4150",
+    "car_id": "26941826",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "MULTIVAN",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI Style DSG",
+        "registration_number": "KY73ZSD",
+        "registration_date": "13/11/2023",
+        "mileage": 12444,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51999,
+        "total_price": 51999,
+        "deposit": 5199,
+        "balance": 46800,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 1216.3,
+        "final_payment": 1217.3,
+        "total_amount_payable": 63582.4,
+        "total_charge_for_credit": 11583.4,
+        "amount_of_credit": 46800,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51999,
+        "total_price": 51999,
+        "deposit": 5199,
+        "balance": 46800,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 808.63,
+        "final_payment": 25403.5,
+        "total_amount_payable": 68608.11,
+        "total_charge_for_credit": 16609.11,
+        "amount_of_credit": 46800,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 9,
+        "residual": 25402.5,
+        "price_to_buy": 25403.5
+      }
+    ]
+  }
+]

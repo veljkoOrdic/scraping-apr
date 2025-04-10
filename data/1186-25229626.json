@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:10:51.772Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.first4car.com/used/cars/audi/e-tron/quattro-base-2591",
+    "dealer_id": "1186",
+    "car_id": "25229626",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "e-tron",
+        "variant": "ESTATE",
+        "derivative": "300kW 55 Quattro 95kWh",
+        "registration_number": "LR69ZFY",
+        "registration_date": "07/11/2019",
+        "mileage": 49992,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19586,
+        "total_price": 19586,
+        "deposit": 1958.6,
+        "balance": 17627.4,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 341.59,
+        "final_payment": 8613.21,
+        "total_amount_payable": 26626.54,
+        "total_charge_for_credit": 7040.54,
+        "amount_of_credit": 17627.4,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.31,
+        "residual": 8613.21,
+        "price_to_buy": 8613.21
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19586,
+        "total_price": 19586,
+        "deposit": 1958.6,
+        "balance": 17627.4,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 389.86,
+        "final_payment": 390.86,
+        "total_amount_payable": 25351.2,
+        "total_charge_for_credit": 5765.2,
+        "amount_of_credit": 17627.4,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

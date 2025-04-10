@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:57:56.544Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.seafield-motors.co.uk/used/mazda/cx-30/20-e-skyactiv-g-mhev-gt-sport-5dr/inverness/inverness/20758084",
+    "dealer_id": "3136",
+    "car_id": "19643404",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-30",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 e-Skyactiv G MHEV GT Sport",
+        "registration_number": "SY71TNK",
+        "registration_date": "27/01/2022",
+        "mileage": 5330,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 2500,
+        "balance": 15495,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 60,
+        "regular_payment": 346.2,
+        "final_payment": 346.2,
+        "total_amount_payable": 23272,
+        "total_charge_for_credit": 5277,
+        "amount_of_credit": 15495,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 2500,
+        "balance": 15495,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 49,
+        "regular_payment": 285.01,
+        "final_payment": 7732,
+        "total_amount_payable": 23912.48,
+        "total_charge_for_credit": 5917.48,
+        "amount_of_credit": 15495,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 7722,
+        "price_to_buy": 7732
+      }
+    ]
+  }
+]

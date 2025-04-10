@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:47:32.960Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-alfa-romeo-giulia-wigan-lancashire-6352580",
+    "dealer_id": "1094",
+    "car_id": "25721354",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "GIULIA",
+        "variant": "SALOON",
+        "derivative": "2.9 V6 BiTurbo Quadrifoglio",
+        "registration_number": "FG19LBZ",
+        "registration_date": "05/04/2019",
+        "mileage": 20500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37495,
+        "total_price": 37495,
+        "deposit": 3749,
+        "balance": 33746,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 847.31,
+        "final_payment": 848.31,
+        "total_amount_payable": 44420.88,
+        "total_charge_for_credit": 6925.88,
+        "amount_of_credit": 33746,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37495,
+        "total_price": 37495,
+        "deposit": 3749,
+        "balance": 33746,
+        "apr": 12.6,
+        "rate_of_interest": 12.6,
+        "term": 47,
+        "regular_payment": 687.88,
+        "final_payment": 13447.4,
+        "total_amount_payable": 48838.88,
+        "total_charge_for_credit": 11343.88,
+        "amount_of_credit": 33746,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 8.92,
+        "residual": 13447.4,
+        "price_to_buy": 13447.4
+      }
+    ]
+  }
+]

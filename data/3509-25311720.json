@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:36:22.180Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saundersabbott.co.uk/cars/skoda/karoq/1.5-tsi-act-se-l-dsg-euro-6-ss-5dr/1266359/",
+    "dealer_id": "3509",
+    "car_id": "25311720",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI SE L DSG",
+        "registration_number": "WG19MMF",
+        "registration_date": "01/04/2019",
+        "mileage": 37232,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 13,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 342.25,
+        "final_payment": 342.25,
+        "total_amount_payable": 22234.5,
+        "total_charge_for_credit": 5239.5,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 13,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 342.03,
+        "final_payment": 352.03,
+        "total_amount_payable": 22231.3,
+        "total_charge_for_credit": 5236.3,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

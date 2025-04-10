@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:48:48.258Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.llanfoistcarsales.co.uk/cars/nissan/qashqai/1.3-dig-t-acenta-premium-automatic/1371720/",
+    "dealer_id": "3080",
+    "car_id": "26965332",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 DiG-T 160 [157] Acenta Premium DCT",
+        "registration_number": "DL70XEF",
+        "registration_date": "30/11/2020",
+        "mileage": 25100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 11,
+        "rate_of_interest": 5.71,
+        "term": 48,
+        "regular_payment": 368.4,
+        "final_payment": 368.4,
+        "total_amount_payable": 19282.7,
+        "total_charge_for_credit": 3287.7,
+        "amount_of_credit": 14395.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 11,
+        "rate_of_interest": 10.48,
+        "term": 48,
+        "regular_payment": 262.69,
+        "final_payment": 6324,
+        "total_amount_payable": 20532.62,
+        "total_charge_for_credit": 4537.62,
+        "amount_of_credit": 14395.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.25,
+        "residual": 6324,
+        "price_to_buy": 6324
+      }
+    ]
+  }
+]

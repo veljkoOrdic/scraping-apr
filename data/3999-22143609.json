@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:49.486Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.edgars.co.uk/used/hyundai/ioniq-5/125kw-premium-58-kwh-5dr-auto/workington/cumbria/21058959",
+    "dealer_id": "3999",
+    "car_id": "22143609",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 5",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "125kW Premium 58 kWh",
+        "registration_number": "PX72XWH",
+        "registration_date": "14/10/2022",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 519.91,
+        "final_payment": 9251.25,
+        "total_amount_payable": 37206.43,
+        "total_charge_for_credit": 7211.43,
+        "amount_of_credit": 26995.5,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.5,
+        "residual": 9251.25,
+        "price_to_buy": 9251.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.66,
+        "final_payment": 566.66,
+        "total_amount_payable": 36999.1,
+        "total_charge_for_credit": 7004.1,
+        "amount_of_credit": 26995.5,
+        "lender": "Hyundai Motor Finance"
+      }
+    ]
+  }
+]

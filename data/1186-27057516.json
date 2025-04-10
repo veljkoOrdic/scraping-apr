@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:10:56.221Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.first4car.com/used/cars/porsche/911/carrera-t-2995",
+    "dealer_id": "1186",
+    "car_id": "27057516",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "GT",
+        "variant": "COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "SJ69KGY",
+        "registration_date": "02/11/2019",
+        "mileage": 14759,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 97000,
+        "total_price": 97000,
+        "deposit": 9700,
+        "balance": 87300,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1732.66,
+        "final_payment": 40135.28,
+        "total_amount_payable": 131270.3,
+        "total_charge_for_credit": 34270.3,
+        "amount_of_credit": 87300,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 26.58,
+        "residual": 40135.28,
+        "price_to_buy": 40135.28
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 97000,
+        "total_price": 97000,
+        "deposit": 9700,
+        "balance": 87300,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 1930.79,
+        "final_payment": 1931.79,
+        "total_amount_payable": 125548.4,
+        "total_charge_for_credit": 28548.4,
+        "amount_of_credit": 87300,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

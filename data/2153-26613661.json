@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:07:09.130Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/bmw/x5/4.4i-v8-competition-steptronic-xdrive-euro-6-ss-5dr/1343210/",
+    "dealer_id": "2153",
+    "car_id": "26613661",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "ESTATE",
+        "derivative": "xDrive X5 M Competition Step",
+        "registration_number": "CV73ZFY",
+        "registration_date": "15/09/2023",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99995,
+        "total_price": 99995,
+        "deposit": 9999.5,
+        "balance": 89995.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1538.81,
+        "final_payment": 39140,
+        "total_amount_payable": 123002.38,
+        "total_charge_for_credit": 23007.38,
+        "amount_of_credit": 89995.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 39140,
+        "price_to_buy": 39140
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99995,
+        "total_price": 99995,
+        "deposit": 9999.5,
+        "balance": 89995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 2299.44,
+        "final_payment": 2299.44,
+        "total_amount_payable": 120372.62,
+        "total_charge_for_credit": 20377.62,
+        "amount_of_credit": 89995.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

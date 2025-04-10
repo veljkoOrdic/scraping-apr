@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:31:28.845Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pyloncarsales.co.uk/details/used-car-in-tipton/hyundai/i30/1.4-t-gdi-n-line-euro-6-ss-5dr/1424644/",
+    "dealer_id": "1973",
+    "car_id": "27576234",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I30",
+        "variant": "HATCHBACK",
+        "derivative": "1.4T GDI N Line",
+        "registration_number": "YF69FYJ",
+        "registration_date": "22/10/2019",
+        "mileage": 30856,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1299.9,
+        "balance": 11699.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 54,
+        "regular_payment": 234.6,
+        "final_payment": 3225.74,
+        "total_amount_payable": 16959.44,
+        "total_charge_for_credit": 3960.44,
+        "amount_of_credit": 11699.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 3,
+        "residual": 3224.74,
+        "price_to_buy": 3225.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1299.9,
+        "balance": 11699.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 245.56,
+        "final_payment": 246.56,
+        "total_amount_payable": 16034.5,
+        "total_charge_for_credit": 3035.5,
+        "amount_of_credit": 11699.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

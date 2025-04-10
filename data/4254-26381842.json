@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T06:01:53.017Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.toothillprestige.co.uk/vehicle/abarth-595-14-t-jet-competizione-70th-euro-6-3dr-in-mansfield-nottinghamshire-e2ef01af-cd95-4d47-866d-b23600ed2abe",
+    "dealer_id": "4254",
+    "car_id": "26381842",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Abarth",
+        "model": "595",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 T-Jet 180 Competizione",
+        "registration_number": "MX21VFV",
+        "registration_date": "12/07/2021",
+        "mileage": 36000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12990,
+        "total_price": 12990,
+        "deposit": 1299,
+        "balance": 11691,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 196.4,
+        "final_payment": 3939.04,
+        "total_amount_payable": 16825.64,
+        "total_charge_for_credit": 3835.64,
+        "amount_of_credit": 11691,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.19,
+        "residual": 3939.04,
+        "price_to_buy": 3939.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12990,
+        "total_price": 12990,
+        "deposit": 1299,
+        "balance": 11691,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 245.4,
+        "final_payment": 245.4,
+        "total_amount_payable": 16023,
+        "total_charge_for_credit": 3033,
+        "amount_of_credit": 11691,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

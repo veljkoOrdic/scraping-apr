@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:27:21.009Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cscarsuk.co.uk/vehicle/citroen-spacetourer-50kwh-business-edition-m-auto-mwb-5dr-74kw-charger-in-manchester-282520d5-57c3-4435-a4d6-b1dd013d2b39",
+    "dealer_id": "4025",
+    "car_id": "25462511",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3 AIRCROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech 130 Rip Curl EAT6",
+        "registration_number": "NG72JEO",
+        "registration_date": "10/01/2023",
+        "mileage": 9000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 200,
+        "balance": 16795,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 367.67,
+        "final_payment": 367.67,
+        "total_amount_payable": 22260.2,
+        "total_charge_for_credit": 5265.2,
+        "amount_of_credit": 16795,
+        "lender": "Connected Car",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 200,
+        "balance": 16795,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 302.53,
+        "final_payment": 8161,
+        "total_amount_payable": 22882.44,
+        "total_charge_for_credit": 5887.44,
+        "amount_of_credit": 16795,
+        "lender": "Connected Car",
+        "annual_mileage": 9000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 4.18,
+        "residual": 8161,
+        "price_to_buy": 8161
+      }
+    ]
+  }
+]

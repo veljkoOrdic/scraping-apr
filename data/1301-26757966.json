@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:22:31.440Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cargem.co.uk/used-toyota-chr-beckton-london-6617507",
+    "dealer_id": "1301",
+    "car_id": "26757966",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "C-HR",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 Hybrid Design CVT",
+        "registration_number": "YG70ZVC",
+        "registration_date": "30/11/2020",
+        "mileage": 56746,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15515,
+        "total_price": 15515,
+        "deposit": 1551,
+        "balance": 13964,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 238.39,
+        "final_payment": 5010.41,
+        "total_amount_payable": 20626.42,
+        "total_charge_for_credit": 5111.42,
+        "amount_of_credit": 13964,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.13,
+        "residual": 5010.41,
+        "price_to_buy": 5010.41
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15515,
+        "total_price": 15515,
+        "deposit": 1551,
+        "balance": 13964,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 293.13,
+        "final_payment": 294.13,
+        "total_amount_payable": 19139.8,
+        "total_charge_for_credit": 3624.8,
+        "amount_of_credit": 13964,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

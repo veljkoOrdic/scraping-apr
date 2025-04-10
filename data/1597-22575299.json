@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:57:09.737Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kccarsales.co.uk/vehicle/volkswagen-touareg-v6-black-edition-tsi-in-dartford-kent-e423af38-72ae-49af-bfd7-728536972237",
+    "dealer_id": "1597",
+    "car_id": "22575299",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "ESTATE",
+        "derivative": "3.0 V6 TSI 4Motion Black Edition Tip",
+        "registration_number": "MD21EXK",
+        "registration_date": "28/06/2021",
+        "mileage": 56091,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38990,
+        "total_price": 38990,
+        "deposit": 3899,
+        "balance": 35091,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 621.61,
+        "final_payment": 15810,
+        "total_amount_payable": 49546.28,
+        "total_charge_for_credit": 10556.28,
+        "amount_of_credit": 35091,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.89,
+        "residual": 15810,
+        "price_to_buy": 15810
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38990,
+        "total_price": 38990,
+        "deposit": 3899,
+        "balance": 35091,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 744.51,
+        "final_payment": 744.51,
+        "total_amount_payable": 48569.6,
+        "total_charge_for_credit": 9579.6,
+        "amount_of_credit": 35091,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

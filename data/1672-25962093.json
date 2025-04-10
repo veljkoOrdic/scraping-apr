@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:07:21.551Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goscoteservices.co.uk/vehicle/volkswagen-id-buzz-pro-77kwh-style-auto-5dr-in-leicester-leicestershire-7121c124-2bc5-4c39-8724-b20b010e70bb",
+    "dealer_id": "1672",
+    "car_id": "25962093",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID. BUZZ",
+        "variant": "ESTATE",
+        "derivative": "150kW Style Pro 77kWh",
+        "registration_number": "VN73EHZ",
+        "registration_date": "28/10/2023",
+        "mileage": 14500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43795,
+        "total_price": 43795,
+        "deposit": 4379.5,
+        "balance": 39415.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 622.95,
+        "final_payment": 22938,
+        "total_amount_payable": 57219.1,
+        "total_charge_for_credit": 13424.1,
+        "amount_of_credit": 39415.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 22928,
+        "price_to_buy": 22938
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43795,
+        "total_price": 43795,
+        "deposit": 4379.5,
+        "balance": 39415.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1007.07,
+        "final_payment": 1017.07,
+        "total_amount_payable": 52728.86,
+        "total_charge_for_credit": 8933.86,
+        "amount_of_credit": 39415.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

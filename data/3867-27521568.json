@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:05:49.683Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gbicars.co.uk/vehicle-details/used-skoda-kodiaq-tsi-act-se-l-for-sale-gbi-cars-u3776/",
+    "dealer_id": "3867",
+    "car_id": "27521568",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KODIAQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI SE L DSG [7 Seat]",
+        "registration_number": "LV71TXF",
+        "registration_date": "25/02/2022",
+        "mileage": 17632,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 2550,
+        "balance": 22950,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 576.24,
+        "final_payment": 576.24,
+        "total_amount_payable": 30209.52,
+        "total_charge_for_credit": 4709.52,
+        "amount_of_credit": 22950,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 2550,
+        "balance": 22950,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 48,
+        "regular_payment": 371.15,
+        "final_payment": 12015,
+        "total_amount_payable": 32380.2,
+        "total_charge_for_credit": 6880.2,
+        "amount_of_credit": 22950,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.2,
+        "residual": 12015,
+        "price_to_buy": 12015
+      }
+    ]
+  }
+]

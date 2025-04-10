@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:36:05.924Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wycliffe-peugeot.com/used-car-details/used-peugeot-e-308-sw-54kwh-gt-auto-5dr-estate-selenium-automatic-electric/id-202501027665142/",
+    "dealer_id": "4138",
+    "car_id": "26651138",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "308",
+        "variant": "E- ELECTRIC SW ESTATE",
+        "derivative": "115kW GT 54kWh",
+        "registration_number": "KP24DJJ",
+        "registration_date": "31/03/2024",
+        "mileage": 10305,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29795,
+        "total_price": 29795,
+        "deposit": 4469,
+        "balance": 25326,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 669.36,
+        "final_payment": 669.36,
+        "total_amount_payable": 36598.28,
+        "total_charge_for_credit": 6803.28,
+        "amount_of_credit": 25326,
+        "lender": "Stellantis Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29795,
+        "total_price": 29795,
+        "deposit": 4469,
+        "balance": 25326,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 464.25,
+        "final_payment": 13073,
+        "total_amount_payable": 39361.75,
+        "total_charge_for_credit": 9566.75,
+        "amount_of_credit": 25326,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 13073,
+        "price_to_buy": 13073
+      }
+    ]
+  }
+]

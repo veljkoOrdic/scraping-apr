@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:48:29.053Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motionmotorcars.co.uk/vehicle/skoda-octavia-16-tdi-se-technology-euro-6-ss-5dr-in-chorley-lancashire-db5d319d-f4f1-4162-a7ee-b28000d155bc",
+    "dealer_id": "3591",
+    "car_id": "27049483",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "OCTAVIA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 TDI SE Technology",
+        "registration_number": "DE69CXS",
+        "registration_date": "03/10/2019",
+        "mileage": 79000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9760,
+        "total_price": 9760,
+        "deposit": 976,
+        "balance": 8784,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 188.33,
+        "final_payment": 188.33,
+        "total_amount_payable": 12275.8,
+        "total_charge_for_credit": 2515.8,
+        "amount_of_credit": 8784,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9760,
+        "total_price": 9760,
+        "deposit": 976,
+        "balance": 8784,
+        "apr": 16.9,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 212.28,
+        "final_payment": 212.28,
+        "total_amount_payable": 13712.8,
+        "total_charge_for_credit": 3952.8,
+        "amount_of_credit": 8784,
+        "lender": "Creditas Financial Solutions Limited"
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:34:34.534Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.keyautotrade.co.uk/cars/smart/forfour/17.6kwh-prime-exclusive/1334286/",
+    "dealer_id": "1512",
+    "car_id": "26500574",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Smart",
+        "model": "FORFOUR",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "60kW EQ Prime Exclusive 17kWh [22kWch]",
+        "registration_number": "WF70FTP",
+        "registration_date": "03/11/2020",
+        "mileage": 8950,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9000,
+        "total_price": 9000,
+        "deposit": 900,
+        "balance": 8100,
+        "apr": 10.6,
+        "rate_of_interest": 4.5,
+        "term": 60,
+        "regular_payment": 172.52,
+        "final_payment": 172.52,
+        "total_amount_payable": 11251.2,
+        "total_charge_for_credit": 2251.2,
+        "amount_of_credit": 8100,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9000,
+        "total_price": 9000,
+        "deposit": 900,
+        "balance": 8100,
+        "apr": 10.5,
+        "rate_of_interest": 4.5,
+        "term": 48,
+        "regular_payment": 150.59,
+        "final_payment": 3390.59,
+        "total_amount_payable": 11368.32,
+        "total_charge_for_credit": 2368.32,
+        "amount_of_credit": 8100,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3230,
+        "price_to_buy": 3390.59
+      }
+    ]
+  }
+]

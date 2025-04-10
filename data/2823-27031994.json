@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T03:29:20.968Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jdcarsales.co.uk/cars/jaguar/xkr/4.2/1376678/",
+    "dealer_id": "2823",
+    "car_id": "27031994",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XK8",
+        "variant": "COUPE",
+        "derivative": "4.2",
+        "registration_number": "W2BLY",
+        "registration_date": "02/03/2005",
+        "mileage": 105700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 14.9,
+        "rate_of_interest": 7.76,
+        "term": 48,
+        "regular_payment": 343.73,
+        "final_payment": 353.73,
+        "total_amount_payable": 17908.04,
+        "total_charge_for_credit": 3918.04,
+        "amount_of_credit": 12591,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 14.9,
+        "rate_of_interest": 7.76,
+        "term": 48,
+        "regular_payment": 343.73,
+        "final_payment": 353.73,
+        "total_amount_payable": 17908.04,
+        "total_charge_for_credit": 3918.04,
+        "amount_of_credit": 12591,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T03:57:06.143Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handmcarsbarnsley.co.uk/details/used-car-in-barnsley/audi/q8/3.0-tfsi-v6-55-black-edition-tiptronic-quattro-euro-6-ss-5dr/1381258/",
+    "dealer_id": "3114",
+    "car_id": "27079293",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q8",
+        "variant": "ESTATE",
+        "derivative": "55 TFSI Quattro Black Edition Tiptronic",
+        "registration_number": "RO21OMM",
+        "registration_date": "27/03/2021",
+        "mileage": 36700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 11,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 648.45,
+        "final_payment": 20888.45,
+        "total_amount_payable": 55665.1,
+        "total_charge_for_credit": 12670.1,
+        "amount_of_credit": 38695.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 20230,
+        "price_to_buy": 20888.45
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 829.5,
+        "final_payment": 839.5,
+        "total_amount_payable": 54079.5,
+        "total_charge_for_credit": 11084.5,
+        "amount_of_credit": 38695.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

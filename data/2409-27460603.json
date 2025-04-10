@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T02:34:50.662Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thegoodvancompany.co.uk/used-citroen-relay-preston-lancashire-6798881",
+    "dealer_id": "2409",
+    "car_id": "27460603",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "RELAY",
+        "variant": "35 L3 DIESEL",
+        "derivative": "2.2 BlueHDi H2 Van 140ps Enterprise Edition",
+        "registration_number": "MW73LZH",
+        "registration_date": "29/09/2023",
+        "mileage": 125,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25428,
+        "total_price": 25428,
+        "deposit": 4238,
+        "balance": 21190,
+        "apr": 10.6,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 538.07,
+        "final_payment": 548.07,
+        "total_amount_payable": 30075.36,
+        "total_charge_for_credit": 4647.36,
+        "amount_of_credit": 21190,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25428,
+        "total_price": 25428,
+        "deposit": 4238,
+        "balance": 21190,
+        "apr": 10.6,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 538.32,
+        "final_payment": 538.32,
+        "total_amount_payable": 30077.36,
+        "total_charge_for_credit": 4649.36,
+        "amount_of_credit": 21190,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

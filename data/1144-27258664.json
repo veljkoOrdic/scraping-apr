@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:02:57.793Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.centralservicegarage.co.uk/details/used-car-in-doncaster/landrover/discovery/3.0-d300-mhev-r-dynamic-hse-auto-4wd-euro-6-ss-5dr/1396754/",
+    "dealer_id": "1144",
+    "car_id": "27258664",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 D300 R-Dynamic HSE",
+        "registration_number": "AK22WZM",
+        "registration_date": "04/07/2022",
+        "mileage": 25595,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50995,
+        "total_price": 50995,
+        "deposit": 5099.5,
+        "balance": 45895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 782.08,
+        "final_payment": 23912.08,
+        "total_amount_payable": 65769.34,
+        "total_charge_for_credit": 14774.34,
+        "amount_of_credit": 45895.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 23120,
+        "price_to_buy": 23912.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 50995,
+        "total_price": 50995,
+        "deposit": 5099.5,
+        "balance": 45895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 983.69,
+        "final_payment": 993.69,
+        "total_amount_payable": 64130.9,
+        "total_charge_for_credit": 13135.9,
+        "amount_of_credit": 45895.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

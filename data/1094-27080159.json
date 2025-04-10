@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:46:36.367Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-mercedes-benz-a-class-wigan-lancashire-6683085",
+    "dealer_id": "1094",
+    "car_id": "27080159",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A180 Sport Executive",
+        "registration_number": "PK69TUU",
+        "registration_date": "31/10/2019",
+        "mileage": 62810,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399,
+        "balance": 12596,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 316.26,
+        "final_payment": 317.26,
+        "total_amount_payable": 16580.48,
+        "total_charge_for_credit": 2585.48,
+        "amount_of_credit": 12596,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399,
+        "balance": 12596,
+        "apr": 12.6,
+        "rate_of_interest": 12.6,
+        "term": 48,
+        "regular_payment": 261.27,
+        "final_payment": 4538.55,
+        "total_amount_payable": 18217.24,
+        "total_charge_for_credit": 4222.24,
+        "amount_of_credit": 12596,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.55,
+        "residual": 4538.55,
+        "price_to_buy": 4538.55
+      }
+    ]
+  }
+]

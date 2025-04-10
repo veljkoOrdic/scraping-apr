@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:33:10.036Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.curtiscars.co.uk/used-cars/renault-captur-10-tce-s-edition-euro-6-ss-5dr/24014/",
+    "dealer_id": "2909",
+    "car_id": "25476722",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "CAPTUR",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TCE 100 S Edition",
+        "registration_number": "HW21GRU",
+        "registration_date": "31/03/2021",
+        "mileage": 27402,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 9.9,
+        "rate_of_interest": 7.08,
+        "term": 49,
+        "regular_payment": 208.43,
+        "final_payment": 5647.5,
+        "total_amount_payable": 17001.14,
+        "total_charge_for_credit": 3511.14,
+        "amount_of_credit": 12141,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 12,
+        "residual": 5647.5,
+        "price_to_buy": 5647.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 254.85,
+        "final_payment": 254.85,
+        "total_amount_payable": 16640,
+        "total_charge_for_credit": 3150,
+        "amount_of_credit": 12141,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

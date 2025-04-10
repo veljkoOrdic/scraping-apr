@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:02:51.373Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.centralservicegarage.co.uk/details/used-car-in-doncaster/landrover/defender90/3.0-d250-mhev-x-dynamic-s-auto-4wd-euro-6-ss-3dr/1355871/",
+    "dealer_id": "1144",
+    "car_id": "26778018",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic S 90",
+        "registration_number": "YA21XCV",
+        "registration_date": "18/06/2021",
+        "mileage": 36000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 757.95,
+        "final_payment": 19871.7,
+        "total_amount_payable": 60194.85,
+        "total_charge_for_credit": 13199.85,
+        "amount_of_credit": 42295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 19103.75,
+        "price_to_buy": 19871.7
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 906.53,
+        "final_payment": 916.53,
+        "total_amount_payable": 59101.3,
+        "total_charge_for_credit": 12106.3,
+        "amount_of_credit": 42295.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

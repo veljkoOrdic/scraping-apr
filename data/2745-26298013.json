@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:18:22.261Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dextercars.com/details/used-car-in-le47an/bmw/ix1/30-66.5kwh-m-sport-auto-xdrive-5dr-11kw-charger/1318433/",
+    "dealer_id": "2745",
+    "car_id": "26298013",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "iX1",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "230kW xDrive30 M Sport 65kWh",
+        "registration_number": "NC23FXM",
+        "registration_date": "31/07/2023",
+        "mileage": 16000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 11.9,
+        "rate_of_interest": 5.79,
+        "term": 48,
+        "regular_payment": 446.68,
+        "final_payment": 14107.5,
+        "total_amount_payable": 38449.14,
+        "total_charge_for_credit": 9449.14,
+        "amount_of_credit": 26100,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15.9,
+        "residual": 14107.5,
+        "price_to_buy": 14107.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 678.38,
+        "final_payment": 679.38,
+        "total_amount_payable": 35463.24,
+        "total_charge_for_credit": 6463.24,
+        "amount_of_credit": 26100,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

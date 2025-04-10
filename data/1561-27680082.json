@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:47:15.897Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.themotoringcentreltd.co.uk/used/cars/mercedes-benz/a-class/2-0-a35-amg-premium-7g-dct-4matic-euro-6-s-s-5dr-274",
+    "dealer_id": "1561",
+    "car_id": "27680082",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "AMG HATCHBACK",
+        "derivative": "A35 4Matic Premium",
+        "registration_number": "YK21TTF",
+        "registration_date": "04/06/2021",
+        "mileage": 20490,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26350,
+        "total_price": 26350,
+        "deposit": 2635,
+        "balance": 23715,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 49,
+        "regular_payment": 430.66,
+        "final_payment": 9653.5,
+        "total_amount_payable": 32960.18,
+        "total_charge_for_credit": 6610.18,
+        "amount_of_credit": 23715,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 9652.5,
+        "price_to_buy": 9653.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26350,
+        "total_price": 26350,
+        "deposit": 2635,
+        "balance": 23715,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 497.78,
+        "final_payment": 498.78,
+        "total_amount_payable": 32502.8,
+        "total_charge_for_credit": 6152.8,
+        "amount_of_credit": 23715,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

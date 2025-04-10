@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:48:02.528Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-bmw-x5-wigan-lancashire-6626070",
+    "dealer_id": "1094",
+    "car_id": "26803691",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "DV73NBX",
+        "registration_date": "27/09/2023",
+        "mileage": 11563,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 60995,
+        "total_price": 60995,
+        "deposit": 6099,
+        "balance": 54896,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1378.35,
+        "final_payment": 1379.35,
+        "total_amount_payable": 72260.8,
+        "total_charge_for_credit": 11265.8,
+        "amount_of_credit": 54896,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 60995,
+        "total_price": 60995,
+        "deposit": 6099,
+        "balance": 54896,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 48,
+        "regular_payment": 895.39,
+        "final_payment": 28282.5,
+        "total_amount_payable": 77361.22,
+        "total_charge_for_credit": 16366.22,
+        "amount_of_credit": 54896,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 25.8,
+        "residual": 28282.5,
+        "price_to_buy": 28282.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:11:05.274Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.feathercrestserviceslimited.co.uk/used/cars/hyundai/bayon/1-0-t-gdi-mhev-se-connect-euro-6-s-s-5dr-122",
+    "dealer_id": "1198",
+    "car_id": "27522668",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "BAYON",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TGDi 48V MHEV SE Connect",
+        "registration_number": "WGZ2117",
+        "registration_date": "05/03/2022",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 0,
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 245.15,
+        "final_payment": 5638,
+        "total_amount_payable": 17405.2,
+        "total_charge_for_credit": 4410.2,
+        "amount_of_credit": 12995,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 7,
+        "residual": 5638,
+        "price_to_buy": 5638
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 0,
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 284.47,
+        "final_payment": 284.47,
+        "total_amount_payable": 17068.2,
+        "total_charge_for_credit": 4073.2,
+        "amount_of_credit": 12995,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

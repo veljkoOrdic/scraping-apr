@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T12:53:55.951Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.martoncars.co.uk/cars/peugeot/boxer/2-berth-motorhome/1399692/",
+    "dealer_id": "168",
+    "car_id": "27284367",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "BOXER",
+        "variant": "335 L2 DIESEL",
+        "derivative": "2.2 BlueHDi H2 Professional Van 140ps",
+        "registration_number": "CA70KPK",
+        "registration_date": "30/11/2020",
+        "mileage": 31500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32950,
+        "total_price": 32950,
+        "deposit": 3295,
+        "balance": 29655,
+        "apr": 12.7,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 747.73,
+        "final_payment": 2776.48,
+        "total_amount_payable": 41214.79,
+        "total_charge_for_credit": 8264.79,
+        "amount_of_credit": 29655,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 2018.75,
+        "price_to_buy": 2776.48
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32950,
+        "total_price": 32950,
+        "deposit": 3295,
+        "balance": 29655,
+        "apr": 12.4,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 656.36,
+        "final_payment": 656.36,
+        "total_amount_payable": 42676.6,
+        "total_charge_for_credit": 9726.6,
+        "amount_of_credit": 29655,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

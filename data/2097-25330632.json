@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:56:05.126Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fm3cars.co.uk/used-volkswagen-t-roc-stockport-cheshire-6252685",
+    "dealer_id": "2097",
+    "car_id": "25330632",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "T-ROC",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 TDI R-Line DSG",
+        "registration_number": "NL20BJK",
+        "registration_date": "02/03/2020",
+        "mileage": 103064,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599,
+        "balance": 14396,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 47,
+        "regular_payment": 269.77,
+        "final_payment": 6775,
+        "total_amount_payable": 20783.42,
+        "total_charge_for_credit": 4788.42,
+        "amount_of_credit": 14396,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 12,
+        "residual": 6775,
+        "price_to_buy": 6775
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599,
+        "balance": 14396,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 315.14,
+        "final_payment": 315.14,
+        "total_amount_payable": 20507.4,
+        "total_charge_for_credit": 4512.4,
+        "amount_of_credit": 14396,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

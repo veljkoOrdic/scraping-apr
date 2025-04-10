@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T12:46:52.317Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.riversideautos.co.uk/product/768554-nissan-x-trail-1-7-dci-tekna-euro-6-s-s-5dr/",
+    "dealer_id": "79",
+    "car_id": "24752012",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "X-TRAIL",
+        "variant": "DIESEL STATION WAGON",
+        "derivative": "1.7 dCi Tekna",
+        "registration_number": "DS20GDA",
+        "registration_date": "30/06/2020",
+        "mileage": 42453,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 1000,
+        "balance": 15000,
+        "apr": 12.6,
+        "rate_of_interest": 5.99,
+        "term": 48,
+        "regular_payment": 289.02,
+        "final_payment": 6716.52,
+        "total_amount_payable": 21300.46,
+        "total_charge_for_credit": 5300.46,
+        "amount_of_credit": 15000,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6417.5,
+        "price_to_buy": 6716.52
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 1000,
+        "balance": 15000,
+        "apr": 12.5,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 332.46,
+        "final_payment": 332.46,
+        "total_amount_payable": 20947.6,
+        "total_charge_for_credit": 4947.6,
+        "amount_of_credit": 15000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

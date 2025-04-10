@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:00:38.006Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-land-rover-discovery-sport-reading-berkshire-6823872",
+    "dealer_id": "3150",
+    "car_id": "27562197",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY SPORT",
+        "variant": "DIESEL SW",
+        "derivative": "2.0 TD4 180 HSE Dynamic Lux",
+        "registration_number": "LC67FHM",
+        "registration_date": "20/12/2017",
+        "mileage": 58000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 1699,
+        "balance": 15300,
+        "apr": 14.4,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 352.13,
+        "final_payment": 352.13,
+        "total_amount_payable": 22826.8,
+        "total_charge_for_credit": 5827.8,
+        "amount_of_credit": 15300,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 1699,
+        "balance": 15300,
+        "apr": 14.4,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 351.9,
+        "final_payment": 361.9,
+        "total_amount_payable": 22823,
+        "total_charge_for_credit": 5824,
+        "amount_of_credit": 15300,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:36:50.777Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tlscarsales.co.uk/details/used-car-in-thorpe-le-soken/bmw/5series/2.0-530i-m-sport-auto-euro-6-ss-4dr/1234847/",
+    "dealer_id": "1525",
+    "car_id": "21086186",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "SALOON",
+        "derivative": "530i M Sport",
+        "registration_number": "BT67EFN",
+        "registration_date": "17/01/2018",
+        "mileage": 73500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 1600,
+        "balance": 14400,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 22,
+        "regular_payment": 349.49,
+        "final_payment": 9245,
+        "total_amount_payable": 17834.8,
+        "total_charge_for_credit": 1834.8,
+        "amount_of_credit": 14400,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 11000,
+        "excess_mileage_rate": 12,
+        "residual": 9235,
+        "price_to_buy": 9245
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 1600,
+        "balance": 14400,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 295.68,
+        "final_payment": 305.68,
+        "total_amount_payable": 19350.8,
+        "total_charge_for_credit": 3350.8,
+        "amount_of_credit": 14400,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

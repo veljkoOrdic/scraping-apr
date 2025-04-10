@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:57:58.891Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadstonecars.co.uk/details/used-car-in-bridgnorth/hyundai/i20/1.0-t-gdi-premium-se-nav-euro-6-ss-5dr/1232101/",
+    "dealer_id": "2122",
+    "car_id": "25255081",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I20",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 T-GDi [120] Premium SE Nav",
+        "registration_number": "VK68XAH",
+        "registration_date": "28/11/2018",
+        "mileage": 18381,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 43,
+        "regular_payment": 211.36,
+        "final_payment": 3727.08,
+        "total_amount_payable": 13703.2,
+        "total_charge_for_credit": 2713.2,
+        "amount_of_credit": 9891,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 2.46,
+        "residual": 3727.08,
+        "price_to_buy": 3727.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 248.35,
+        "final_payment": 248.35,
+        "total_amount_payable": 13019.8,
+        "total_charge_for_credit": 2029.8,
+        "amount_of_credit": 9891,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

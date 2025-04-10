@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:25:55.359Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.premiermotorcollection.co.uk/vehicle-details/used-audi-q5-tdi-vorsprung-for-sale-u1631/",
+    "dealer_id": "4019",
+    "car_id": "27128807",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "40 TDI Quattro Vorsprung S Tronic",
+        "registration_number": "DG72FPZ",
+        "registration_date": "14/10/2022",
+        "mileage": 27175,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43500,
+        "total_price": 43500,
+        "deposit": 1000,
+        "balance": 42500,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 762.81,
+        "final_payment": 19897.81,
+        "total_amount_payable": 56749.88,
+        "total_charge_for_credit": 13249.88,
+        "amount_of_credit": 42500,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 19125,
+        "price_to_buy": 19897.81
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43500,
+        "total_price": 43500,
+        "deposit": 1000,
+        "balance": 42500,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 910.92,
+        "final_payment": 920.92,
+        "total_amount_payable": 55665.2,
+        "total_charge_for_credit": 12165.2,
+        "amount_of_credit": 42500,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

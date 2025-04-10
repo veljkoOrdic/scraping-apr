@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:15:22.607Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.swindonvehiclesolutions.co.uk/vehicle/volkswagen-caddy-20-tdi-mpv-5dr-diesel-dsg-euro-6-ss-102-ps-in-swindon-wiltshire-976c42ad-f261-4aad-8d4a-a7de6900221d",
+    "dealer_id": "3934",
+    "car_id": "27264510",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "CADDY MAXI LIFE",
+        "variant": "C20 DIESEL ESTATE",
+        "derivative": "2.0 TDI DSG",
+        "registration_number": "YY21XFZ",
+        "registration_date": "25/06/2021",
+        "mileage": 41267,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 0,
+        "balance": 18990,
+        "apr": 13.2,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 427.09,
+        "final_payment": 427.09,
+        "total_amount_payable": 25625.4,
+        "total_charge_for_credit": 6635.4,
+        "amount_of_credit": 18990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 0,
+        "balance": 18990,
+        "apr": 13.4,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 404.3,
+        "final_payment": 6704.3,
+        "total_amount_payable": 25706.4,
+        "total_charge_for_credit": 6716.4,
+        "amount_of_credit": 18990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6290,
+        "price_to_buy": 6704.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:43:20.012Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.essexcarcompany.co.uk/used-audi-a1-rainham-essex-5860309",
+    "dealer_id": "73",
+    "car_id": "23677907",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "30 TFSI 110 Sport S Tronic",
+        "registration_number": "HK71KPN",
+        "registration_date": "23/12/2021",
+        "mileage": 9218,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18823,
+        "total_price": 18823,
+        "deposit": 1882,
+        "balance": 16941,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 291.05,
+        "final_payment": 9091,
+        "total_amount_payable": 24943.4,
+        "total_charge_for_credit": 6120.4,
+        "amount_of_credit": 16941,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.5,
+        "residual": 9091,
+        "price_to_buy": 9091
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18823,
+        "total_price": 18823,
+        "deposit": 1882,
+        "balance": 16941,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 440.32,
+        "final_payment": 440.32,
+        "total_amount_payable": 23017.36,
+        "total_charge_for_credit": 4194.36,
+        "amount_of_credit": 16941,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

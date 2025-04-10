@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:11:18.241Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.churchillmotors.co.uk/vauxhall-corsa-1-2-turbo-sri-edition-hatchback-5dr-petrol-manual-euro-6-s-s-100-ps-in-northamptonshire-cd7154d3-ff74-4c3c-ac26-d5bf396b785f",
+    "dealer_id": "2231",
+    "car_id": "27688740",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo SRi Edition",
+        "registration_number": "KX72CSU",
+        "registration_date": "30/09/2022",
+        "mileage": 8661,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 245.48,
+        "final_payment": 246.48,
+        "total_amount_payable": 16029.3,
+        "total_charge_for_credit": 3034.3,
+        "amount_of_credit": 11695.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 49,
+        "regular_payment": 202.61,
+        "final_payment": 5333.5,
+        "total_amount_payable": 16358.28,
+        "total_charge_for_credit": 3363.28,
+        "amount_of_credit": 11695.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13,
+        "residual": 5332.5,
+        "price_to_buy": 5333.5
+      }
+    ]
+  }
+]

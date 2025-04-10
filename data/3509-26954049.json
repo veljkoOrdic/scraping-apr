@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:36:04.364Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saundersabbott.co.uk/cars/ford/fiesta/1.0-t-ecoboost-zetec/1370652/",
+    "dealer_id": "3509",
+    "car_id": "26954049",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Zetec",
+        "registration_number": "EY15JAU",
+        "registration_date": "16/03/2015",
+        "mileage": 91030,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 449.5,
+        "balance": 4045.5,
+        "apr": 16,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 96.15,
+        "final_payment": 96.15,
+        "total_amount_payable": 6218.5,
+        "total_charge_for_credit": 1723.5,
+        "amount_of_credit": 4045.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 449.5,
+        "balance": 4045.5,
+        "apr": 16,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 95.93,
+        "final_payment": 105.93,
+        "total_amount_payable": 6215.3,
+        "total_charge_for_credit": 1720.3,
+        "amount_of_credit": 4045.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:06:40.705Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bamspecialistcars.co.uk/used-bentley-continental-clay-cross-derbyshire-6551613",
+    "dealer_id": "3283",
+    "car_id": "27726001",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GT",
+        "variant": "COUPE",
+        "derivative": "6.0 W12 Speed [Blackline Spec]",
+        "registration_number": "DC21BWP",
+        "registration_date": "03/08/2021",
+        "mileage": 20996,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 145000,
+        "total_price": 145000,
+        "deposit": 14500,
+        "balance": 130500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1933.33,
+        "final_payment": 79996.5,
+        "total_amount_payable": 185363.01,
+        "total_charge_for_credit": 40363.01,
+        "amount_of_credit": 130500,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 145000,
+        "total_price": 145000,
+        "deposit": 14500,
+        "balance": 130500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 2739.3,
+        "final_payment": 2739.3,
+        "total_amount_payable": 178858,
+        "total_charge_for_credit": 33858,
+        "amount_of_credit": 130500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:43:16.720Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gandmmotorgroup.co.uk/used/vauxhall/astra/12-turbo-145-griffin-edition-5dr/gravesend/kent/21370225",
+    "dealer_id": "3541",
+    "car_id": "25323423",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo 145 Griffin Edition",
+        "registration_number": "LV71WJN",
+        "registration_date": "24/11/2021",
+        "mileage": 26985,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11942,
+        "total_price": 11942,
+        "deposit": 4179.7,
+        "balance": 7762.3,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 99.71,
+        "final_payment": 5938,
+        "total_amount_payable": 14804.07,
+        "total_charge_for_credit": 2862.07,
+        "amount_of_credit": 7762.3,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 7,
+        "residual": 5928,
+        "price_to_buy": 5938
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11942,
+        "total_price": 11942,
+        "deposit": 4179.7,
+        "balance": 7762.3,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 166.29,
+        "final_payment": 176.29,
+        "total_amount_payable": 14167.1,
+        "total_charge_for_credit": 2225.1,
+        "amount_of_credit": 7762.3,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

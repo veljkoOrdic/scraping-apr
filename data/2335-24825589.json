@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-04-10T02:29:30.856Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ascars.co.uk/used/cars/bmw/m2/3-0i-dct-euro-6-s-s-2dr-33",
+    "dealer_id": "2335",
+    "car_id": "24825589",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "COUPE",
+        "derivative": "M2 DCT",
+        "registration_date": "01/03/2016",
+        "mileage": 90000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 1999.9,
+        "balance": 17999.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 385.93,
+        "final_payment": 386.93,
+        "total_amount_payable": 25156.7,
+        "total_charge_for_credit": 5157.7,
+        "amount_of_credit": 17999.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

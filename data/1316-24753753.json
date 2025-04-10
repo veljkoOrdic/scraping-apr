@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:24:37.403Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.newmanandreidy.co.uk/vehicle-details/used-fiat-500x-firefly-turbo-sport-for-sale-paulerspury-u9011/",
+    "dealer_id": "1316",
+    "car_id": "24753753",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500X",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Sport",
+        "registration_number": "BX20JDK",
+        "registration_date": "30/06/2020",
+        "mileage": 48931,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1079.5,
+        "balance": 9715.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 168.97,
+        "final_payment": 4736.25,
+        "total_amount_payable": 13926.31,
+        "total_charge_for_credit": 3131.31,
+        "amount_of_credit": 9715.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.66,
+        "residual": 4726.25,
+        "price_to_buy": 4736.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1079.5,
+        "balance": 9715.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 248.07,
+        "final_payment": 258.07,
+        "total_amount_payable": 12996.86,
+        "total_charge_for_credit": 2201.86,
+        "amount_of_credit": 9715.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

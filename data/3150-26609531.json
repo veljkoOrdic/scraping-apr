@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:00:06.180Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-nissan-qashqai-reading-berkshire-6575200",
+    "dealer_id": "3150",
+    "car_id": "26609531",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 DiG-T Tekna Xtronic",
+        "registration_number": "EK66ERU",
+        "registration_date": "30/11/2016",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 1199,
+        "balance": 10800,
+        "apr": 14.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 250.88,
+        "final_payment": 250.88,
+        "total_amount_payable": 16251.8,
+        "total_charge_for_credit": 4252.8,
+        "amount_of_credit": 10800,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 1199,
+        "balance": 10800,
+        "apr": 14.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 250.65,
+        "final_payment": 260.65,
+        "total_amount_payable": 16248,
+        "total_charge_for_credit": 4249,
+        "amount_of_credit": 10800,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

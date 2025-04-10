@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T07:01:08.371Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.romansofstalbans.co.uk/used-porsche-911-st-albans-hertfordshire-6419932",
+    "dealer_id": "4316",
+    "car_id": "25249937",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] GT COUPE",
+        "derivative": "GT3 PDK Touring Pack",
+        "registration_number": "H5LHD",
+        "registration_date": "29/07/2023",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 164995,
+        "total_price": 164995,
+        "deposit": 16499,
+        "balance": 148496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2469.92,
+        "final_payment": 75615,
+        "total_amount_payable": 208200.24,
+        "total_charge_for_credit": 43205.24,
+        "amount_of_credit": 148496,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 118,
+        "residual": 75605,
+        "price_to_buy": 75615
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 164995,
+        "total_price": 164995,
+        "deposit": 16499,
+        "balance": 148496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 3116.91,
+        "final_payment": 3126.91,
+        "total_amount_payable": 203523.6,
+        "total_charge_for_credit": 38528.6,
+        "amount_of_credit": 148496,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:18:31.108Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoworldcars.co.uk/vehicle/fiat-500x-10-firefly-turbo-multiair-cross-plus-euro-6-ss-5dr-in-faversham-9ee7aac9-265b-41c6-a9b0-b1e300e21558",
+    "dealer_id": "1816",
+    "car_id": "25529416",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500X",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Cross Plus",
+        "registration_number": "GL68UUZ",
+        "registration_date": "22/12/2018",
+        "mileage": 42372,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 14.2,
+        "rate_of_interest": 14.2,
+        "term": 44,
+        "regular_payment": 222,
+        "final_payment": 3971.58,
+        "total_amount_payable": 13517.58,
+        "total_charge_for_credit": 3522.58,
+        "amount_of_credit": 9995,
+        "lender": "Connected Car",
+        "annual_mileage": 6000,
+        "contract_mileage": 22000,
+        "excess_mileage_rate": 2.73,
+        "residual": 3971.58,
+        "price_to_buy": 3971.58
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 221.06,
+        "final_payment": 221.06,
+        "total_amount_payable": 13263.6,
+        "total_charge_for_credit": 3268.6,
+        "amount_of_credit": 9995,
+        "lender": "Connected Car",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

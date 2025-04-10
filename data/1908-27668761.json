@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:25:08.539Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jeanpierrelimited.co.uk/details/car-in-southampton,/skoda/fabia/1.0-tsi-se-euro-6-ss-5dr/1430739/",
+    "dealer_id": "1908",
+    "car_id": "27668761",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "FABIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI SE",
+        "registration_number": "HY68VFO",
+        "registration_date": "28/09/2018",
+        "mileage": 26000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9590,
+        "total_price": 9590,
+        "deposit": 959,
+        "balance": 8631,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 41,
+        "regular_payment": 196.43,
+        "final_payment": 3096.76,
+        "total_amount_payable": 11912.96,
+        "total_charge_for_credit": 2322.96,
+        "amount_of_credit": 8631,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 34166,
+        "excess_mileage_rate": 2.12,
+        "residual": 3096.76,
+        "price_to_buy": 3096.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9590,
+        "total_price": 9590,
+        "deposit": 959,
+        "balance": 8631,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 183.12,
+        "final_payment": 183.12,
+        "total_amount_payable": 11946.2,
+        "total_charge_for_credit": 2356.2,
+        "amount_of_credit": 8631,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

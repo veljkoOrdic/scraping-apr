@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:32:56.897Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.curtiscars.co.uk/used-cars/hyundai-i10-10-se-connect-euro-6-ss-5dr/24029/",
+    "dealer_id": "2909",
+    "car_id": "25540183",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I10",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 MPi SE Connect",
+        "registration_number": "WGZ4272",
+        "registration_date": "07/04/2022",
+        "mileage": 31718,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 9.7,
+        "rate_of_interest": 6.77,
+        "term": 49,
+        "regular_payment": 159.52,
+        "final_payment": 3825,
+        "total_amount_payable": 12481.46,
+        "total_charge_for_credit": 2486.46,
+        "amount_of_credit": 8995.5,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 12,
+        "residual": 3825,
+        "price_to_buy": 3825
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 9.7,
+        "rate_of_interest": 5.08,
+        "term": 60,
+        "regular_payment": 188.02,
+        "final_payment": 188.02,
+        "total_amount_payable": 12280.7,
+        "total_charge_for_credit": 2285.7,
+        "amount_of_credit": 8995.5,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

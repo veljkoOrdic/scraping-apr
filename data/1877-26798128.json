@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:23:37.727Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.calibrecarsales.co.uk/vehicle/audi-a5-tdi-s-line-in-colchester-essex-15eebfde-9194-4235-a22f-91cf821217ed",
+    "dealer_id": "1877",
+    "car_id": "26798128",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "DIESEL CABRIOLET",
+        "derivative": "40 TDI S Line S Tronic",
+        "registration_number": "YY69HRO",
+        "registration_date": "21/10/2019",
+        "mileage": 36000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 54,
+        "regular_payment": 303.07,
+        "final_payment": 5961.78,
+        "total_amount_payable": 23823.99,
+        "total_charge_for_credit": 5828.99,
+        "amount_of_credit": 16195.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 4.52,
+        "residual": 5961.78,
+        "price_to_buy": 5961.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 354.53,
+        "final_payment": 354.53,
+        "total_amount_payable": 23071.3,
+        "total_charge_for_credit": 5076.3,
+        "amount_of_credit": 16195.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

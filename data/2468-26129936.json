@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:41:06.754Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rwashton.co.uk/vehicle/volkswagen-polo-10-evo-beats-euro-6-ss-5dr-in-manchester-lancashire-f60e5fa7-4ecf-4407-a9a9-b21a0120bd07",
+    "dealer_id": "2468",
+    "car_id": "26129936",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EVO 80 Beats",
+        "registration_number": "BR19GJE",
+        "registration_date": "09/08/2019",
+        "mileage": 55275,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 13.1,
+        "rate_of_interest": 13.1,
+        "term": 48,
+        "regular_payment": 209.99,
+        "final_payment": 3444.05,
+        "total_amount_payable": 14413.08,
+        "total_charge_for_credit": 3418.08,
+        "amount_of_credit": 9895.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.71,
+        "residual": 3444.05,
+        "price_to_buy": 3444.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 254.97,
+        "final_payment": 254.97,
+        "total_amount_payable": 13338.06,
+        "total_charge_for_credit": 2343.06,
+        "amount_of_credit": 9895.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:58:00.367Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.iacarsales.co.uk/details/used-car-in-poole/bmw/m2/3.0-biturbo-steptronic-euro-6-ss-2dr/1238653/",
+    "dealer_id": "3670",
+    "car_id": "27450230",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "COUPE",
+        "derivative": "M2 DCT",
+        "registration_number": "CJ73WGN",
+        "registration_date": "08/01/2024",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.89,
+        "term": 48,
+        "regular_payment": 690.88,
+        "final_payment": 26196.21,
+        "total_amount_payable": 63667.07,
+        "total_charge_for_credit": 13672.07,
+        "amount_of_credit": 44995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.46,
+        "residual": 26186.21,
+        "price_to_buy": 26196.21
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1129.94,
+        "final_payment": 1129.94,
+        "total_amount_payable": 59236.62,
+        "total_charge_for_credit": 9241.62,
+        "amount_of_credit": 44995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

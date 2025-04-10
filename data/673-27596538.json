@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T23:07:54.362Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.performancepaddock.com/audi-a3-rs-3-sportback-vorsprung-tfsi-quattro-semi-auto-4wd-in-rochester-kent-ea9d5b1c-56d3-4af7-b324-b2ae00c9fa98",
+    "dealer_id": "673",
+    "car_id": "27596538",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SPORTBACK",
+        "derivative": "RS 3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "FY22OHB",
+        "registration_date": "12/04/2022",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51970,
+        "total_price": 51970,
+        "deposit": 5197,
+        "balance": 46773,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 779.98,
+        "final_payment": 23697.48,
+        "total_amount_payable": 65553.54,
+        "total_charge_for_credit": 13583.54,
+        "amount_of_credit": 46773,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 22907.5,
+        "price_to_buy": 23697.48
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 51970,
+        "total_price": 51970,
+        "deposit": 5197,
+        "balance": 46773,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 981.84,
+        "final_payment": 991.84,
+        "total_amount_payable": 64117.4,
+        "total_charge_for_credit": 12147.4,
+        "amount_of_credit": 46773,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

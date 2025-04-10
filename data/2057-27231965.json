@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:52:53.772Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.abbertoncarsales.co.uk/vehicle-details/used-land-rover-defender-90-p300-s-for-sale-mersea-road-u9267/",
+    "dealer_id": "2057",
+    "car_id": "27231965",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE",
+        "derivative": "2.0 P300 S 90",
+        "registration_number": "CK21OSN",
+        "registration_date": "02/06/2021",
+        "mileage": 58000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 652,
+        "final_payment": 11548.98,
+        "total_amount_payable": 54016.48,
+        "total_charge_for_credit": 14021.48,
+        "amount_of_credit": 35995.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.78,
+        "residual": 11547.98,
+        "price_to_buy": 11548.98
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 787.95,
+        "final_payment": 788.95,
+        "total_amount_payable": 51277.5,
+        "total_charge_for_credit": 11282.5,
+        "amount_of_credit": 35995.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

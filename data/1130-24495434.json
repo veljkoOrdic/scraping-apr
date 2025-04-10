@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T00:01:53.002Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.g5cars.co.uk/details/used-car-in-leeds/bmw/5series/2.0-520d-m-sport-touring-auto-euro-6-ss-5dr/1176146/",
+    "dealer_id": "1130",
+    "car_id": "24495434",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "DIESEL TOURING",
+        "derivative": "520d M Sport",
+        "registration_number": "TR06TMR",
+        "registration_date": "18/01/2019",
+        "mileage": 82800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 10,
+        "balance": 16989,
+        "apr": 15.7,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 400.96,
+        "final_payment": 400.96,
+        "total_amount_payable": 24067.6,
+        "total_charge_for_credit": 7068.6,
+        "amount_of_credit": 16989,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

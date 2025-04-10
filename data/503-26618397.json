@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T22:58:44.325Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rossharveyltd.co.uk/cars/renault/clio/1.0-tce-iconic-euro-6-ss-5dr/1343443/",
+    "dealer_id": "503",
+    "car_id": "26618397",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "CLIO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TCe 100 Iconic",
+        "registration_number": "WN70MSY",
+        "registration_date": "23/09/2020",
+        "mileage": 14786,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11790,
+        "total_price": 11790,
+        "deposit": 1179,
+        "balance": 10611,
+        "apr": 13.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 242.06,
+        "final_payment": 242.06,
+        "total_amount_payable": 15702.6,
+        "total_charge_for_credit": 3912.6,
+        "amount_of_credit": 10611,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11790,
+        "total_price": 11790,
+        "deposit": 1179,
+        "balance": 10611,
+        "apr": 14,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 224.41,
+        "final_payment": 4080.66,
+        "total_amount_payable": 15806.93,
+        "total_charge_for_credit": 4016.93,
+        "amount_of_credit": 10611,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3846.25,
+        "price_to_buy": 4080.66
+      }
+    ]
+  }
+]

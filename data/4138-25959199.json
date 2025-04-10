@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:35:54.237Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wycliffe-peugeot.com/used-car-details/used-peugeot-3008-12-puretech-gt-premium-eat-eu-suv-celebes-blue-automatic-petrol/id-202410165246299/",
+    "dealer_id": "4138",
+    "car_id": "25959199",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech GT Premium EAT8",
+        "registration_number": "KV71XJK",
+        "registration_date": "16/10/2021",
+        "mileage": 21264,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19395,
+        "total_price": 19395,
+        "deposit": 2909,
+        "balance": 16486,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 435.72,
+        "final_payment": 435.72,
+        "total_amount_payable": 23823.56,
+        "total_charge_for_credit": 4428.56,
+        "amount_of_credit": 16486,
+        "lender": "Stellantis Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19395,
+        "total_price": 19395,
+        "deposit": 2909,
+        "balance": 16486,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 270.65,
+        "final_payment": 10418,
+        "total_amount_payable": 26047.55,
+        "total_charge_for_credit": 6652.55,
+        "amount_of_credit": 16486,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 10418,
+        "price_to_buy": 10418
+      }
+    ]
+  }
+]

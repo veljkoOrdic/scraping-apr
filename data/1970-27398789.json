@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:29:31.629Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.northamptoncarcompany.co.uk/vehicle/mercedes-gla220-20-d-amg-line-premium-plus-8g-dct-4matic-euro-6-ss-5dr-in-northampton-33a1b97e-87bb-4d64-aa67-b29d01207098",
+    "dealer_id": "1970",
+    "car_id": "27398789",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLA",
+        "variant": "GLA 247",
+        "derivative": "GLA220d 4MATIC AMG Line Prem Plus SUV Auto MY20.5 2020",
+        "registration_number": "KS20WHJ",
+        "registration_date": "04/08/2020",
+        "mileage": 25394,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 460.15,
+        "final_payment": 9202.98,
+        "total_amount_payable": 39101.33,
+        "total_charge_for_credit": 11606.33,
+        "amount_of_credit": 24745.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.22,
+        "residual": 9201.98,
+        "price_to_buy": 9202.98
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 552.88,
+        "final_payment": 553.88,
+        "total_amount_payable": 35923.3,
+        "total_charge_for_credit": 8428.3,
+        "amount_of_credit": 24745.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

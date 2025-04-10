@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:31:21.412Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.moffmotors.co.uk/vehicle/ford-kuga-25-ecoboost-duratec-144kwh-st-line-x-cvt-euro-6-ss-5dr-in-somerset-f26857e8-dc82-40aa-8101-b2ab00ce8d61",
+    "dealer_id": "4050",
+    "car_id": "27552092",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "ESTATE",
+        "derivative": "2.5 FHEV Active CVT",
+        "registration_number": "EN24TCZ",
+        "registration_date": "08/07/2024",
+        "mileage": 4950,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 495.04,
+        "final_payment": 12509,
+        "total_amount_payable": 39369.92,
+        "total_charge_for_credit": 8379.92,
+        "amount_of_credit": 27891,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.79,
+        "residual": 12509,
+        "price_to_buy": 12509
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 591.75,
+        "final_payment": 591.75,
+        "total_amount_payable": 38604,
+        "total_charge_for_credit": 7614,
+        "amount_of_credit": 27891,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

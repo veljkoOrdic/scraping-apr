@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:09:15.826Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesfrench.com/vehicle/land-rover-range-rover-velar-20-p400e-192kwh-dynamic-se-auto-4wd-euro-6-ss-5dr-in-standlake-oxfordshire-509473f0-a422-49f3-b941-b1a90105eeba",
+    "dealer_id": "1175",
+    "car_id": "24943615",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "ESTATE",
+        "derivative": "2.0 P400e Dynamic SE",
+        "registration_number": "KT23VKL",
+        "registration_date": "21/06/2023",
+        "mileage": 1752,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 722.87,
+        "final_payment": 17649.52,
+        "total_amount_payable": 65298.35,
+        "total_charge_for_credit": 15303.35,
+        "amount_of_credit": 44995.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.98,
+        "residual": 17649.52,
+        "price_to_buy": 17649.52
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 944.49,
+        "final_payment": 944.49,
+        "total_amount_payable": 61668.9,
+        "total_charge_for_credit": 11673.9,
+        "amount_of_credit": 44995.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

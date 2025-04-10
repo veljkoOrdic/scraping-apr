@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T22:49:43.577Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.salinemotors.co.uk/details/prestige-car-in-by-dunfermline/kia/sorento/2.2-crdi-kx-4-auto-awd-euro-6-5dr/1023232/",
+    "dealer_id": "355",
+    "car_id": "22363292",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "DIESEL STATION WAGON",
+        "derivative": "2.2 CRDi KX-4",
+        "registration_number": "WG65LJJ",
+        "registration_date": "09/10/2015",
+        "mileage": 74700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 275.63,
+        "final_payment": 285.63,
+        "total_amount_payable": 17947.3,
+        "total_charge_for_credit": 3952.3,
+        "amount_of_credit": 12595.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 275.63,
+        "final_payment": 285.63,
+        "total_amount_payable": 17947.3,
+        "total_charge_for_credit": 3952.3,
+        "amount_of_credit": 12595.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

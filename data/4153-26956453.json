@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:45:58.707Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redhousecarsales.co.uk/used/cars/mercedes-benz/a-class/a-200-amg-line-executive-64",
+    "dealer_id": "4153",
+    "car_id": "26956453",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A200 AMG Line Executive",
+        "registration_number": "LB18OBV",
+        "registration_date": "30/06/2018",
+        "mileage": 33000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 1649,
+        "balance": 14841,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 26,
+        "regular_payment": 311.8,
+        "final_payment": 10110,
+        "total_amount_payable": 19554,
+        "total_charge_for_credit": 3064,
+        "amount_of_credit": 14841,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 12,
+        "residual": 10110,
+        "price_to_buy": 10110
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 1649,
+        "balance": 14841,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 324.89,
+        "final_payment": 324.89,
+        "total_amount_payable": 21142.4,
+        "total_charge_for_credit": 4652.4,
+        "amount_of_credit": 14841,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

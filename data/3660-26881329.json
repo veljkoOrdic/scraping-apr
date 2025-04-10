@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T04:56:09.145Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dcmotorcompany.co.uk/vehicle/land-rover-defender-v8-carpathian-edition-in-keston-kent-e834e959-7f3c-4c8f-be63-72a088179115",
+    "dealer_id": "3660",
+    "car_id": "26881329",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "5.0 P525 V8 Carpathian Edition 90",
+        "registration_number": "MAX1G",
+        "registration_date": "10/03/2023",
+        "mileage": 2600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 93995,
+        "total_price": 93995,
+        "deposit": 9399.5,
+        "balance": 84595.5,
+        "apr": 10.3,
+        "rate_of_interest": 5.25,
+        "term": 48,
+        "regular_payment": 1429.26,
+        "final_payment": 42961.76,
+        "total_amount_payable": 119536.48,
+        "total_charge_for_credit": 25541.48,
+        "amount_of_credit": 84595.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 41522.5,
+        "price_to_buy": 42961.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 93995,
+        "total_price": 93995,
+        "deposit": 9399.5,
+        "balance": 84595.5,
+        "apr": 10.2,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 1787.39,
+        "final_payment": 1787.39,
+        "total_amount_payable": 116642.9,
+        "total_charge_for_credit": 22647.9,
+        "amount_of_credit": 84595.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

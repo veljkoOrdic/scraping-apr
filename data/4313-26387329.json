@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T06:55:34.275Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.withamgarage.co.uk/used-audi-rs5-melton-mowbray-leicestershire-6524909",
+    "dealer_id": "4313",
+    "car_id": "26387329",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "RS 5 COUPE",
+        "derivative": "RS 5 TFSI Quattro Tiptronic",
+        "registration_number": "HG72FXB",
+        "registration_date": "17/11/2022",
+        "mileage": 10515,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499,
+        "balance": 40496,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 48,
+        "regular_payment": 657.63,
+        "final_payment": 21038.5,
+        "total_amount_payable": 57103.74,
+        "total_charge_for_credit": 12108.74,
+        "amount_of_credit": 40496,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 21.9,
+        "residual": 21037.5,
+        "price_to_buy": 21038.5
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499,
+        "balance": 40496,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1016.79,
+        "final_payment": 1017.79,
+        "total_amount_payable": 53305.92,
+        "total_charge_for_credit": 8310.92,
+        "amount_of_credit": 40496,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

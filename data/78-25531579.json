@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T12:44:25.826Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hyamsautos.co.uk/details/used-van-in-malmesbury/vauxhall/corsa/1.2-16v-fwd-l1-h1-3dr/1254796/",
+    "dealer_id": "78",
+    "car_id": "25531579",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "VAN PETROL",
+        "derivative": "1.2i 16V Van",
+        "registration_number": "AY18YZE",
+        "registration_date": "24/04/2018",
+        "mileage": 73660,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3599,
+        "total_price": 3599,
+        "deposit": 0,
+        "balance": 3599,
+        "apr": 16.1,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 100.12,
+        "final_payment": 110.12,
+        "total_amount_payable": 4815.76,
+        "total_charge_for_credit": 1216.76,
+        "amount_of_credit": 3599,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3599,
+        "total_price": 3599,
+        "deposit": 0,
+        "balance": 3599,
+        "apr": 16.2,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 100.37,
+        "final_payment": 100.37,
+        "total_amount_payable": 4817.76,
+        "total_charge_for_credit": 1218.76,
+        "amount_of_credit": 3599,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

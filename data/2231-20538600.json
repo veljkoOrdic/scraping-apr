@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:12:45.866Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.churchillmotors.co.uk/audi-rs3-carbon-black-edition-in-northamptonshire-61342471-2f04-4b44-bf63-762cfdc0bc6b",
+    "dealer_id": "2231",
+    "car_id": "20538600",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SPORTBACK",
+        "derivative": "RS 3 TFSI Quattro Carbon Black S Tronic",
+        "registration_number": "YE23LNN",
+        "registration_date": "15/04/2023",
+        "mileage": 62,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57995,
+        "total_price": 57995,
+        "deposit": 5799.5,
+        "balance": 52195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 1095.61,
+        "final_payment": 1096.61,
+        "total_amount_payable": 71537.1,
+        "total_charge_for_credit": 13542.1,
+        "amount_of_credit": 52195.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57995,
+        "total_price": 57995,
+        "deposit": 5799.5,
+        "balance": 52195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 49,
+        "regular_payment": 857.65,
+        "final_payment": 26528.5,
+        "total_amount_payable": 73495.2,
+        "total_charge_for_credit": 15500.2,
+        "amount_of_credit": 52195.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18,
+        "residual": 26527.5,
+        "price_to_buy": 26528.5
+      }
+    ]
+  }
+]

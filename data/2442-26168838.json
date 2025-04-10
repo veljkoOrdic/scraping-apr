@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:39:45.128Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mainlinemotorco.co.uk/details/used-car-in-farnborough/ford/kuga/2.0-tdci-ecoblue-titanium-edition-euro-6-ss-5dr/1306993/",
+    "dealer_id": "2442",
+    "car_id": "26168838",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDCi Titanium Edition 2WD",
+        "registration_number": "NV69DLD",
+        "registration_date": "31/12/2019",
+        "mileage": 71000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11450,
+        "total_price": 11450,
+        "deposit": 1145,
+        "balance": 10305,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 56,
+        "regular_payment": 201.42,
+        "final_payment": 2464.94,
+        "total_amount_payable": 14688.04,
+        "total_charge_for_credit": 3238.04,
+        "amount_of_credit": 10305,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 1.99,
+        "residual": 2463.94,
+        "price_to_buy": 2464.94
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11450,
+        "total_price": 11450,
+        "deposit": 1145,
+        "balance": 10305,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 220.92,
+        "final_payment": 221.92,
+        "total_amount_payable": 14401.2,
+        "total_charge_for_credit": 2951.2,
+        "amount_of_credit": 10305,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

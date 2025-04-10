@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:32:41.601Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fraserscars.co.uk/used/mg-motor-uk/zs/10t-gdi-exclusive-5dr/falkirk/stirlingshire/21542410",
+    "dealer_id": "2898",
+    "car_id": "27094307",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "ZS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0T GDi Exclusive",
+        "registration_number": "LC24GEY",
+        "registration_date": "25/03/2024",
+        "mileage": 15568,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549.5,
+        "balance": 13945.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 48,
+        "regular_payment": 211.55,
+        "final_payment": 7606,
+        "total_amount_payable": 19309.9,
+        "total_charge_for_credit": 3814.9,
+        "amount_of_credit": 13945.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8.7,
+        "residual": 7605,
+        "price_to_buy": 7606
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549.5,
+        "balance": 13945.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 286.46,
+        "final_payment": 287.46,
+        "total_amount_payable": 18738.1,
+        "total_charge_for_credit": 3243.1,
+        "amount_of_credit": 13945.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

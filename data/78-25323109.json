@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T12:46:00.364Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hyamsautos.co.uk/details/used-van-in-malmesbury/nissan/nv200/1.5-dci-acenta-swb-euro-6-6dr/1237873/",
+    "dealer_id": "78",
+    "car_id": "25323109",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "NV200",
+        "variant": "DIESEL",
+        "derivative": "1.5 dCi Acenta Van Euro 6",
+        "registration_number": "WL19PYH",
+        "registration_date": "28/06/2019",
+        "mileage": 26046,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 0,
+        "balance": 27995,
+        "apr": 11.3,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 720.18,
+        "final_payment": 730.18,
+        "total_amount_payable": 34578.64,
+        "total_charge_for_credit": 6583.64,
+        "amount_of_credit": 27995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 0,
+        "balance": 27995,
+        "apr": 11.3,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 720.44,
+        "final_payment": 720.44,
+        "total_amount_payable": 34581.12,
+        "total_charge_for_credit": 6586.12,
+        "amount_of_credit": 27995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

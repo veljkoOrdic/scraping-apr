@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:17:26.783Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pavillioncarsales.com/vehicle/lexus-rz-450e-714kwh-premium-auto-direct4-5dr-in-sussex-98452446-e72c-40a4-bdf7-b29500d060e2",
+    "dealer_id": "3321",
+    "car_id": "27280206",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lexus",
+        "model": "RZ",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "450e 230kW Direct4 Premium + 71 kWh",
+        "registration_number": "GY24EPE",
+        "registration_date": "13/04/2024",
+        "mileage": 7485,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 10.6,
+        "rate_of_interest": 10.6,
+        "term": 60,
+        "regular_payment": 647.82,
+        "final_payment": 14364.53,
+        "total_amount_payable": 56885.41,
+        "total_charge_for_credit": 13890.41,
+        "amount_of_credit": 38695.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.42,
+        "residual": 14364.53,
+        "price_to_buy": 14364.53
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 794.87,
+        "final_payment": 794.87,
+        "total_amount_payable": 51991.7,
+        "total_charge_for_credit": 8996.7,
+        "amount_of_credit": 38695.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

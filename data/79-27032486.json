@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T12:47:08.188Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.riversideautos.co.uk/product/557201-bmw-z3-m-3-2-2dr/",
+    "dealer_id": "79",
+    "car_id": "27032486",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "Z3",
+        "variant": "COUPE",
+        "derivative": "3.2",
+        "registration_number": "S58EUM",
+        "registration_date": "01/01/1999",
+        "mileage": 85192,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 33000,
+        "total_price": 33000,
+        "deposit": 1000,
+        "balance": 32000,
+        "apr": 11.9,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 700.65,
+        "final_payment": 700.65,
+        "total_amount_payable": 43039,
+        "total_charge_for_credit": 10039,
+        "amount_of_credit": 32000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

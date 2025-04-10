@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:48:20.797Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-mercedes-benz-c-class-wigan-lancashire-6499167",
+    "dealer_id": "1094",
+    "car_id": "26298883",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "AMG COUPE SPECIAL EDITIONS",
+        "derivative": "C63 S Final Edition MCT",
+        "registration_number": "YK72NPO",
+        "registration_date": "03/10/2022",
+        "mileage": 3044,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 76495,
+        "total_price": 76495,
+        "deposit": 7649,
+        "balance": 68846,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1728.61,
+        "final_payment": 1729.61,
+        "total_amount_payable": 90623.28,
+        "total_charge_for_credit": 14128.28,
+        "amount_of_credit": 68846,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 76495,
+        "total_price": 76495,
+        "deposit": 7649,
+        "balance": 68846,
+        "apr": 9.9,
+        "rate_of_interest": 4.9,
+        "term": 48,
+        "regular_payment": 1272.98,
+        "final_payment": 26685,
+        "total_amount_payable": 95438.04,
+        "total_charge_for_credit": 18943.04,
+        "amount_of_credit": 68846,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 27.8,
+        "residual": 26685,
+        "price_to_buy": 26685
+      }
+    ]
+  }
+]

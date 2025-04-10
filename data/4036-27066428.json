@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:28:01.974Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.whitescars.co.uk/used/cars/land-rover/range-rover/3-0-p440e-38-2kwh-se-auto-4wd-euro-6-s-s-5dr-302",
+    "dealer_id": "4036",
+    "car_id": "27066428",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "3.0 P440e SE",
+        "registration_date": "30/03/2023",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 104990,
+        "total_price": 104990,
+        "deposit": 10499,
+        "balance": 94491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1705.19,
+        "final_payment": 43684.62,
+        "total_amount_payable": 134327.55,
+        "total_charge_for_credit": 29337.55,
+        "amount_of_credit": 94491,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22.27,
+        "residual": 43684.62,
+        "price_to_buy": 43684.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104990,
+        "total_price": 104990,
+        "deposit": 10499,
+        "balance": 94491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2414.3,
+        "final_payment": 2414.3,
+        "total_amount_payable": 126385.4,
+        "total_charge_for_credit": 21395.4,
+        "amount_of_credit": 94491,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

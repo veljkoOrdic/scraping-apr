@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-09T23:19:21.871Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-switch.co.uk/used-fiat-500-wigan-lancashire-6608900",
+    "dealer_id": "831",
+    "car_id": "26818799",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK SPECIAL EDITIONS",
+        "derivative": "1.2 ByDiesel",
+        "registration_number": "DV10LGO",
+        "registration_date": "31/03/2010",
+        "mileage": 67000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3495,
+        "total_price": 3495,
+        "deposit": 349,
+        "balance": 3146,
+        "apr": 11.9,
+        "rate_of_interest": 6.22,
+        "term": 60,
+        "regular_payment": 68.74,
+        "final_payment": 78.74,
+        "total_amount_payable": 4483.4,
+        "total_charge_for_credit": 988.4,
+        "amount_of_credit": 3146,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp_evolution",
+        "name": "HP_EVOLUTION",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3495,
+        "total_price": 3495,
+        "deposit": 349,
+        "balance": 3146,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 35,
+        "regular_payment": 105.68,
+        "final_payment": 115.68,
+        "total_amount_payable": 4057.8,
+        "total_charge_for_credit": 562.8,
+        "amount_of_credit": 3146,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

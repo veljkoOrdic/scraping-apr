@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:59.069Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.edgars.co.uk/used/nissan/x-trail/15-e-power-204-tekna-5dr-xtronic/frizington/cumbria/21476569",
+    "dealer_id": "3999",
+    "car_id": "26377997",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "X-TRAIL",
+        "variant": "STATION WAGON",
+        "derivative": "1.5 E-Power 204 Tekna Xtronic",
+        "registration_number": "PY24NDE",
+        "registration_date": "25/06/2024",
+        "mileage": 1500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3849.5,
+        "balance": 32145.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 541.69,
+        "final_payment": 15548,
+        "total_amount_payable": 45398.62,
+        "total_charge_for_credit": 9403.62,
+        "amount_of_credit": 32145.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 15548,
+        "price_to_buy": 15548
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 680.01,
+        "final_payment": 680.01,
+        "total_amount_payable": 44400.1,
+        "total_charge_for_credit": 8405.1,
+        "amount_of_credit": 32395.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

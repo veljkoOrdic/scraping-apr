@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:38:34.524Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.amverselect.co.uk/used-jaguar-xf-airdrie-lanarkshire-6549456",
+    "dealer_id": "2001",
+    "car_id": "26497801",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XF",
+        "variant": "SPORTBRAKE",
+        "derivative": "2.0i Portfolio",
+        "registration_number": "MV19RBZ",
+        "registration_date": "05/03/2019",
+        "mileage": 52000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 0,
+        "balance": 16490,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 357.28,
+        "final_payment": 357.28,
+        "total_amount_payable": 21436.8,
+        "total_charge_for_credit": 4946.8,
+        "amount_of_credit": 16490,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 0,
+        "balance": 16490,
+        "apr": 13.1,
+        "rate_of_interest": 13.1,
+        "term": 46,
+        "regular_payment": 351.28,
+        "final_payment": 6241.46,
+        "total_amount_payable": 22049.06,
+        "total_charge_for_credit": 5559.06,
+        "amount_of_credit": 16490,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 38333,
+        "excess_mileage_rate": 5.44,
+        "residual": 6241.46,
+        "price_to_buy": 6241.46
+      }
+    ]
+  }
+]

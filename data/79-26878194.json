@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T12:47:56.360Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.riversideautos.co.uk/product/812459-bmw-m3-3-0-biturbo-competition-m-steptronic-xdrive-euro-6-s-s-4dr/",
+    "dealer_id": "79",
+    "car_id": "26878194",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition M xDrive Saloon",
+        "registration_number": "AO23XNT",
+        "registration_date": "31/05/2023",
+        "mileage": 30159,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56500,
+        "total_price": 56500,
+        "deposit": 1000,
+        "balance": 55500,
+        "apr": 11.8,
+        "rate_of_interest": 5.99,
+        "term": 48,
+        "regular_payment": 995.09,
+        "final_payment": 27780.09,
+        "total_amount_payable": 75549.32,
+        "total_charge_for_credit": 19049.32,
+        "amount_of_credit": 55500,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 26775,
+        "price_to_buy": 27780.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 56500,
+        "total_price": 56500,
+        "deposit": 1000,
+        "balance": 55500,
+        "apr": 11.7,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 1209.62,
+        "final_payment": 1209.62,
+        "total_amount_payable": 73577.2,
+        "total_charge_for_credit": 17077.2,
+        "amount_of_credit": 55500,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

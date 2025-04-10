@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:36:42.845Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tlscarsales.co.uk/details/used-car-in-thorpe-le-soken/mini/hatch/1.5-cooper-steptronic-euro-6-ss-3dr/1234852/",
+    "dealer_id": "1525",
+    "car_id": "15402105",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Cooper",
+        "registration_number": "LM18HRF",
+        "registration_date": "18/05/2018",
+        "mileage": 17416,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13250,
+        "total_price": 13250,
+        "deposit": 1325,
+        "balance": 11925,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 26,
+        "regular_payment": 277.54,
+        "final_payment": 7004,
+        "total_amount_payable": 14989.96,
+        "total_charge_for_credit": 1739.96,
+        "amount_of_credit": 11925,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 13000,
+        "excess_mileage_rate": 7,
+        "residual": 6994,
+        "price_to_buy": 7004
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13250,
+        "total_price": 13250,
+        "deposit": 1325,
+        "balance": 11925,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 244.86,
+        "final_payment": 254.86,
+        "total_amount_payable": 16026.6,
+        "total_charge_for_credit": 2776.6,
+        "amount_of_credit": 11925,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

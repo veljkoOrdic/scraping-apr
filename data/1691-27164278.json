@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:10:11.857Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fife-mitsubishi.co.uk/used/land-rover/range-rover-sport/30-d300-hse-dynamic-5dr-auto/cupar/fife/21546234",
+    "dealer_id": "1691",
+    "car_id": "27164278",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 HSE Dynamic",
+        "registration_number": "LF21BJV",
+        "registration_date": "11/03/2021",
+        "mileage": 38129,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40799,
+        "total_price": 40799,
+        "deposit": 4079.9,
+        "balance": 36719.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 49,
+        "regular_payment": 671.99,
+        "final_payment": 15896,
+        "total_amount_payable": 52231.42,
+        "total_charge_for_credit": 11432.42,
+        "amount_of_credit": 36719.1,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 15895,
+        "price_to_buy": 15896
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40799,
+        "total_price": 40799,
+        "deposit": 4079.9,
+        "balance": 36719.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 787.24,
+        "final_payment": 788.24,
+        "total_amount_payable": 51315.3,
+        "total_charge_for_credit": 10516.3,
+        "amount_of_credit": 36719.1,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

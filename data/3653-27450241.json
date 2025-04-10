@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T04:52:52.163Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.good-motors.co.uk/used-genesis-gv70-bury-lancashire-6794982",
+    "dealer_id": "3653",
+    "car_id": "27450241",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Genesis",
+        "model": "GV70",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "360kW Sport 77kWh",
+        "registration_number": "OX72DND",
+        "registration_date": "17/02/2023",
+        "mileage": 21646,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36222,
+        "total_price": 36222,
+        "deposit": 3622,
+        "balance": 32600,
+        "apr": 9.1,
+        "rate_of_interest": 4.5,
+        "term": 48,
+        "regular_payment": 501.71,
+        "final_payment": 18000.46,
+        "total_amount_payable": 45202.83,
+        "total_charge_for_credit": 8980.83,
+        "amount_of_credit": 32600,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 17488.75,
+        "price_to_buy": 18000.46
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36222,
+        "total_price": 36222,
+        "deposit": 3622,
+        "balance": 32600,
+        "apr": 9.1,
+        "rate_of_interest": 4.5,
+        "term": 60,
+        "regular_payment": 672.73,
+        "final_payment": 672.73,
+        "total_amount_payable": 43985.8,
+        "total_charge_for_credit": 7763.8,
+        "amount_of_credit": 32600,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

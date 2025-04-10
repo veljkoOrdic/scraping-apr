@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:05:36.117Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bamspecialistcars.co.uk/used-aston-martin-vanquish-clay-cross-derbyshire-6212200",
+    "dealer_id": "3283",
+    "car_id": "25124438",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "VANQUISH",
+        "variant": "COUPE",
+        "derivative": "V12 2+2",
+        "registration_number": "MX54KZH",
+        "registration_date": "01/09/2004",
+        "mileage": 26387,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 56495,
+        "total_price": 56495,
+        "deposit": 5649.5,
+        "balance": 50845.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 753.27,
+        "final_payment": 31168.29,
+        "total_amount_payable": 72221.48,
+        "total_charge_for_credit": 15726.48,
+        "amount_of_credit": 50845.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56495,
+        "total_price": 56495,
+        "deposit": 5649,
+        "balance": 50846,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1067.3,
+        "final_payment": 1067.3,
+        "total_amount_payable": 69687,
+        "total_charge_for_credit": 13192,
+        "amount_of_credit": 50846,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

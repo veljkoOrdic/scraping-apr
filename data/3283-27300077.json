@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:06:34.205Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bamspecialistcars.co.uk/used-mclaren-gt-clay-cross-derbyshire-6600776",
+    "dealer_id": "3283",
+    "car_id": "27300077",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "GT",
+        "variant": "COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "LG71BZB",
+        "registration_date": "28/09/2021",
+        "mileage": 15777,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 98995,
+        "total_price": 98995,
+        "deposit": 9899,
+        "balance": 89096,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1440.5,
+        "final_payment": 34258.79,
+        "total_amount_payable": 129147.29,
+        "total_charge_for_credit": 30152.29,
+        "amount_of_credit": 89096,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 25.71,
+        "residual": 34258.79,
+        "price_to_buy": 34258.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 98995,
+        "total_price": 98995,
+        "deposit": 9899,
+        "balance": 89096,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1870.19,
+        "final_payment": 1870.19,
+        "total_amount_payable": 122110.4,
+        "total_charge_for_credit": 23115.4,
+        "amount_of_credit": 89096,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

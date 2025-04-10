@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:43.860Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.edgars.co.uk/used/ford/kuga/kuga-titanium/frizington/cumbria/21282426",
+    "dealer_id": "3999",
+    "car_id": "24668528",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "ESTATE",
+        "derivative": "1.5 EcoBoost 150 Titanium",
+        "registration_number": "PY22FZP",
+        "registration_date": "14/06/2022",
+        "mileage": 18200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 380.56,
+        "final_payment": 5500.69,
+        "total_amount_payable": 25867.07,
+        "total_charge_for_credit": 4872.07,
+        "amount_of_credit": 18895.5,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.5,
+        "residual": 5500.69,
+        "price_to_buy": 5500.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 396.63,
+        "final_payment": 396.63,
+        "total_amount_payable": 25897.3,
+        "total_charge_for_credit": 4902.3,
+        "amount_of_credit": 18895.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

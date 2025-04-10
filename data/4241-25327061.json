@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:58:00.472Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cheshireperformance.co.uk/cars/bmw/1series/2.0-m135i-xdrive-5dr-1-owner+harmon-kardon+m-perf-styling+19s/1237848/",
+    "dealer_id": "4241",
+    "car_id": "25327061",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "M135i xDrive",
+        "registration_number": "HG22APO",
+        "registration_date": "25/07/2022",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 2699,
+        "balance": 24291,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 520.64,
+        "final_payment": 530.64,
+        "total_amount_payable": 33947.4,
+        "total_charge_for_credit": 6957.4,
+        "amount_of_credit": 24291,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 2699,
+        "balance": 24291,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 395.26,
+        "final_payment": 13461.25,
+        "total_amount_payable": 35132.73,
+        "total_charge_for_credit": 8142.73,
+        "amount_of_credit": 24291,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12,
+        "residual": 13451.25,
+        "price_to_buy": 13461.25
+      }
+    ]
+  }
+]

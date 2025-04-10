@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:24.401Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.m-hollybrookcarcentre.co.uk/used/cars/volvo/xc40/b3-plus-1061",
+    "dealer_id": "3979",
+    "car_id": "26831511",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC40",
+        "variant": "ESTATE",
+        "derivative": "2.0 B3P Plus Dark",
+        "registration_date": "05/10/2024",
+        "mileage": 250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30750,
+        "total_price": 30750,
+        "deposit": 3075,
+        "balance": 27675,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 593.33,
+        "final_payment": 594.33,
+        "total_amount_payable": 38675.8,
+        "total_charge_for_credit": 7925.8,
+        "amount_of_credit": 27675,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30750,
+        "total_price": 30750,
+        "deposit": 3075,
+        "balance": 27675,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 461.04,
+        "final_payment": 12064.73,
+        "total_amount_payable": 42341.09,
+        "total_charge_for_credit": 11591.09,
+        "amount_of_credit": 27675,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 8.26,
+        "residual": 12063.73,
+        "price_to_buy": 12064.73
+      }
+    ]
+  }
+]

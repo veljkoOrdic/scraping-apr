@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:59:09.671Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadstonecars.co.uk/details/used-car-in-bridgnorth/mini/hatch/1.5-cooper-exclusive-steptronic-euro-6-ss-3dr/1363282/",
+    "dealer_id": "2122",
+    "car_id": "26864640",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Cooper Exclusive",
+        "registration_number": "SL22TEV",
+        "registration_date": "29/04/2022",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20490,
+        "total_price": 20490,
+        "deposit": 2049,
+        "balance": 18441,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 296.6,
+        "final_payment": 9742,
+        "total_amount_payable": 26027.8,
+        "total_charge_for_credit": 5537.8,
+        "amount_of_credit": 18441,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.26,
+        "residual": 9742,
+        "price_to_buy": 9742
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20490,
+        "total_price": 20490,
+        "deposit": 2049,
+        "balance": 18441,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 463.02,
+        "final_payment": 463.02,
+        "total_amount_payable": 24273.96,
+        "total_charge_for_credit": 3783.96,
+        "amount_of_credit": 18441,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:06:57.696Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/bmw/x5/3.0-45e-24kwh-black-vermilion-edition-auto-xdrive-euro-6-ss-5dr/1430919/",
+    "dealer_id": "2153",
+    "car_id": "27690156",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "xDrive45e Black Vermilion Edition",
+        "registration_number": "S17BAT",
+        "registration_date": "18/07/2022",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 55295,
+        "total_price": 55295,
+        "deposit": 5529.5,
+        "balance": 49765.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 726.94,
+        "final_payment": 28761,
+        "total_amount_payable": 69183.62,
+        "total_charge_for_credit": 13888.62,
+        "amount_of_credit": 49765.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 28761,
+        "price_to_buy": 28761
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 55295,
+        "total_price": 55295,
+        "deposit": 5529.5,
+        "balance": 49765.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 1271.54,
+        "final_payment": 1271.54,
+        "total_amount_payable": 66563.42,
+        "total_charge_for_credit": 11268.42,
+        "amount_of_credit": 49765.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

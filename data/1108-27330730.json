@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:00:46.212Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/mercedes-benz-amg-g-63-4matic-auto/29557",
+    "dealer_id": "1108",
+    "car_id": "27330730",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "THZ8",
+        "registration_date": "04/09/2020",
+        "mileage": 47500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 119950,
+        "total_price": 119950,
+        "deposit": 19950.01,
+        "balance": 99999.99,
+        "apr": 10.9,
+        "rate_of_interest": 5.3,
+        "term": 48,
+        "regular_payment": 1566.99,
+        "final_payment": 59017.5,
+        "total_amount_payable": 154184.03,
+        "total_charge_for_credit": 34234.03,
+        "amount_of_credit": 99999.99,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 53.5,
+        "residual": 59017.5,
+        "price_to_buy": 59017.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 119950,
+        "total_price": 119950,
+        "deposit": 19950.01,
+        "balance": 99999.99,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 2144.17,
+        "final_payment": 2145.17,
+        "total_amount_payable": 148601.21,
+        "total_charge_for_credit": 28651.21,
+        "amount_of_credit": 99999.99,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

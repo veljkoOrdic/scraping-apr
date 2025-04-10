@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T06:43:58.699Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derbytradecars.co.uk/used-lamborghini-huracan-derby-derbyshire-6690976",
+    "dealer_id": "4271",
+    "car_id": "27039796",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "EVO COUPE",
+        "derivative": "5.2 V10 640 Tecnica",
+        "registration_number": "DAZ772",
+        "registration_date": "09/09/2023",
+        "mileage": 1700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 209990,
+        "total_price": 209990,
+        "deposit": 20999,
+        "balance": 188991,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 3082.36,
+        "final_payment": 99673.61,
+        "total_amount_payable": 265543.53,
+        "total_charge_for_credit": 55553.53,
+        "amount_of_credit": 188991,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12,
+        "residual": 96581.25,
+        "price_to_buy": 99673.61
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 209990,
+        "total_price": 209990,
+        "deposit": 20999,
+        "balance": 188991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 3967.24,
+        "final_payment": 3977.24,
+        "total_amount_payable": 259043.4,
+        "total_charge_for_credit": 49053.4,
+        "amount_of_credit": 188991,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

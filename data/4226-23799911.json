@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:51:50.433Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.eaglecarcentre.co.uk/used-citroen-c3-leeds-west-yorkshire-5895876",
+    "dealer_id": "4226",
+    "car_id": "23799911",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech Shine",
+        "registration_number": "KW21WCV",
+        "registration_date": "23/03/2021",
+        "mileage": 45000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899,
+        "balance": 8096,
+        "apr": 12.1,
+        "rate_of_interest": 5,
+        "term": 48,
+        "regular_payment": 211.15,
+        "final_payment": 211.15,
+        "total_amount_payable": 11034.2,
+        "total_charge_for_credit": 2039.2,
+        "amount_of_credit": 8096,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899,
+        "balance": 8096,
+        "apr": 11.5,
+        "rate_of_interest": 5,
+        "term": 48,
+        "regular_payment": 151.72,
+        "final_payment": 3582.97,
+        "total_amount_payable": 11612.81,
+        "total_charge_for_credit": 2617.81,
+        "amount_of_credit": 8096,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3421.25,
+        "price_to_buy": 3582.97
+      }
+    ]
+  }
+]

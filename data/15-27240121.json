@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:26:13.029Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/mg/cyberster/375kw-gt-dual-motor-77-kwh-2dr-awd-auto-convertible/preston/lancashire/21551385",
+    "dealer_id": "15",
+    "car_id": "27240121",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "CYBERSTER",
+        "variant": "CONVERTIBLE",
+        "derivative": "375kW GT Dual Motor 77 kWh",
+        "registration_number": "PE74ZKZ",
+        "registration_date": "27/09/2024",
+        "mileage": 2092,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56738,
+        "total_price": 56738,
+        "deposit": 5673.8,
+        "balance": 51064.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1071.92,
+        "final_payment": 1081.92,
+        "total_amount_payable": 69999,
+        "total_charge_for_credit": 13261,
+        "amount_of_credit": 51064.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56738,
+        "total_price": 56738,
+        "deposit": 5673.8,
+        "balance": 51064.2,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 887.5,
+        "final_payment": 23118,
+        "total_amount_payable": 71391.8,
+        "total_charge_for_credit": 14653.8,
+        "amount_of_credit": 51064.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 23108,
+        "price_to_buy": 23118
+      }
+    ]
+  }
+]

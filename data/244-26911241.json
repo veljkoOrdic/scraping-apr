@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:32:26.554Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechmotorco.co.uk/details/used-car-in-congleton/bmw/3series/2.0-318d-mht-se-auto-euro-6-ss-4dr/1367355/",
+    "dealer_id": "244",
+    "car_id": "26911241",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "DIESEL SALOON",
+        "derivative": "318d MHT SE Step",
+        "registration_number": "AO70HNY",
+        "registration_date": "02/09/2020",
+        "mileage": 46000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 250.36,
+        "final_payment": 7287,
+        "total_amount_payable": 21003.28,
+        "total_charge_for_credit": 4013.28,
+        "amount_of_credit": 15291,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 7277,
+        "price_to_buy": 7287
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 313.98,
+        "final_payment": 323.98,
+        "total_amount_payable": 20547.8,
+        "total_charge_for_credit": 3557.8,
+        "amount_of_credit": 15291,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

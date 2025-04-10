@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:36:16.472Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saundersabbott.co.uk/cars/mazda/cx-3/2.0-skyactiv-g-sport-nav+-euro-6-ss-5dr/1234660/",
+    "dealer_id": "3509",
+    "car_id": "24961140",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-3",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 Sport Nav +",
+        "registration_number": "FA19XTS",
+        "registration_date": "30/07/2019",
+        "mileage": 47928,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 253.65,
+        "final_payment": 253.65,
+        "total_amount_payable": 16468.5,
+        "total_charge_for_credit": 3973.5,
+        "amount_of_credit": 11245.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 13.3,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 253.43,
+        "final_payment": 263.43,
+        "total_amount_payable": 16465.3,
+        "total_charge_for_credit": 3970.3,
+        "amount_of_credit": 11245.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

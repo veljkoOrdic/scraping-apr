@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:32:14.545Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechmotorco.co.uk/details/used-car-in-congleton/fiat/500/1.0-mhev-dolcevita-euro-6-ss-3dr/1391396/",
+    "dealer_id": "244",
+    "car_id": "27198199",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Mild Hybrid Dolcevita [Part Leather]",
+        "registration_number": "YS71EXG",
+        "registration_date": "31/12/2021",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 8.9,
+        "rate_of_interest": 8.52,
+        "term": 48,
+        "regular_payment": 132.21,
+        "final_payment": 3870,
+        "total_amount_payable": 11115.08,
+        "total_charge_for_credit": 2125.08,
+        "amount_of_credit": 8091,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9,
+        "residual": 3860,
+        "price_to_buy": 3870
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 8.9,
+        "rate_of_interest": 4.63,
+        "term": 60,
+        "regular_payment": 166.07,
+        "final_payment": 176.07,
+        "total_amount_payable": 10873.2,
+        "total_charge_for_credit": 1883.2,
+        "amount_of_credit": 8091,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

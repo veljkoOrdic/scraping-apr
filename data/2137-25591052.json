@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:00:07.363Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.royhumphreyprestigecars.co.uk/vehicle/jaguar-i-pace-400-90kwh-r-dynamic-se-black-suv-5dr-electric-auto-4wd-400-ps-in-eye-suffolk-d60e9c3a-2489-4fff-886c-2643140248d5",
+    "dealer_id": "2137",
+    "car_id": "25591052",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "I-PACE",
+        "variant": "ESTATE",
+        "derivative": "294kW EV400 R-Dynamic SE Black 90kWh",
+        "registration_number": "KJ23CUU",
+        "registration_date": "26/07/2023",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34750,
+        "total_price": 34750,
+        "deposit": 3475,
+        "balance": 31275,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 529.04,
+        "final_payment": 11599.37,
+        "total_amount_payable": 46287.73,
+        "total_charge_for_credit": 11537.73,
+        "amount_of_credit": 31275,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.07,
+        "residual": 11599.37,
+        "price_to_buy": 11599.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34750,
+        "total_price": 34750,
+        "deposit": 3475,
+        "balance": 31275,
+        "apr": 10.9,
+        "rate_of_interest": 10.89,
+        "term": 60,
+        "regular_payment": 670.4,
+        "final_payment": 680.4,
+        "total_amount_payable": 43709,
+        "total_charge_for_credit": 8959,
+        "amount_of_credit": 31275,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

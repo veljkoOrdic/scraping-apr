@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:28:56.397Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.skcarsales.com/used/commercials/volkswagen/transporter-shuttle/2-0-tdi-s-swb-euro-6-s-s-5dr-82",
+    "dealer_id": "1348",
+    "car_id": "24333632",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER SHUTTLE",
+        "variant": "T32 SWB DIESEL",
+        "derivative": "2.0 TDI 110PS S Minibus",
+        "registration_number": "LR70MEU",
+        "registration_date": "30/09/2020",
+        "mileage": 13900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 603.37,
+        "final_payment": 6830,
+        "total_amount_payable": 38790.76,
+        "total_charge_for_credit": 8800.76,
+        "amount_of_credit": 26991,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 21,
+        "residual": 6830,
+        "price_to_buy": 6830
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.59,
+        "final_payment": 566.59,
+        "total_amount_payable": 36994.4,
+        "total_charge_for_credit": 7004.4,
+        "amount_of_credit": 26991,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

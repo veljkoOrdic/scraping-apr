@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T23:39:10.451Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.northroadgarage.co.uk/used-ford-focus-kelty-fife-6454647",
+    "dealer_id": "1066",
+    "car_id": "26123448",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 Active",
+        "registration_number": "SR19NAA",
+        "registration_date": "12/04/2019",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199,
+        "balance": 10796,
+        "apr": 15.4,
+        "rate_of_interest": 8.16,
+        "term": 60,
+        "regular_payment": 253.35,
+        "final_payment": 263.35,
+        "total_amount_payable": 16410,
+        "total_charge_for_credit": 4415,
+        "amount_of_credit": 10796,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:53:51.786Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.curranmotorcompany.com/used-kia-stonic-leven-fife-6551543",
+    "dealer_id": "2510",
+    "car_id": "26500841",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "STONIC",
+        "variant": "ESTATE",
+        "derivative": "1.0T GDi 99 2 DCT",
+        "registration_number": "HV71XTE",
+        "registration_date": "30/09/2021",
+        "mileage": 22172,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 10.9,
+        "rate_of_interest": 10.36,
+        "term": 48,
+        "regular_payment": 228.24,
+        "final_payment": 6254,
+        "total_amount_payable": 18668.52,
+        "total_charge_for_credit": 4178.52,
+        "amount_of_credit": 13041,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 6254,
+        "price_to_buy": 6254
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 279.4,
+        "final_payment": 279.4,
+        "total_amount_payable": 18223,
+        "total_charge_for_credit": 3733,
+        "amount_of_credit": 13041,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

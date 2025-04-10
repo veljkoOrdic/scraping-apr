@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:35:20.785Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.keyautotrade.co.uk/cars/volkswagen/tiguanallspace/2.0-tdi-elegance/1312703/",
+    "dealer_id": "1512",
+    "car_id": "26242186",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN ALLSPACE",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI R-Line DSG",
+        "registration_number": "DC23OMH",
+        "registration_date": "29/08/2023",
+        "mileage": 11077,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 9.2,
+        "rate_of_interest": 4.5,
+        "term": 60,
+        "regular_payment": 540.02,
+        "final_payment": 540.02,
+        "total_amount_payable": 35301.2,
+        "total_charge_for_credit": 6301.2,
+        "amount_of_credit": 26100,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 9.2,
+        "rate_of_interest": 4.5,
+        "term": 48,
+        "regular_payment": 422.78,
+        "final_payment": 13331.53,
+        "total_amount_payable": 36102.19,
+        "total_charge_for_credit": 7102.19,
+        "amount_of_credit": 26100,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12898.75,
+        "price_to_buy": 13331.53
+      }
+    ]
+  }
+]

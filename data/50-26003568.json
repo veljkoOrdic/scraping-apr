@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:35:30.944Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thevaluecarcentre.com/details/used-car-in-norwich/nissan/juke/1.0-dig-t-tekna+-euro-6-ss-5dr/1293175/",
+    "dealer_id": "50",
+    "car_id": "26003568",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T Tekna+",
+        "registration_number": "VK70VFB",
+        "registration_date": "13/10/2020",
+        "mileage": 350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 302.07,
+        "final_payment": 303.07,
+        "total_amount_payable": 19724.2,
+        "total_charge_for_credit": 3734.2,
+        "amount_of_credit": 14391,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 247.62,
+        "final_payment": 5650.16,
+        "total_amount_payable": 21858.74,
+        "total_charge_for_credit": 5868.74,
+        "amount_of_credit": 14391,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.56,
+        "residual": 5649.16,
+        "price_to_buy": 5650.16
+      }
+    ]
+  }
+]

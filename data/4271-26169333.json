@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T06:43:47.082Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derbytradecars.co.uk/used-aston-martin-dbx-derby-derbyshire-6468932",
+    "dealer_id": "4271",
+    "car_id": "26169333",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DBX",
+        "variant": "ESTATE",
+        "derivative": "V8 DBX707 Touchtronic",
+        "registration_number": "GSZ8497",
+        "registration_date": "03/08/2022",
+        "mileage": 14000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 142990,
+        "total_price": 142990,
+        "deposit": 42990,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 1392.55,
+        "final_payment": 65497.5,
+        "total_amount_payable": 175329.9,
+        "total_charge_for_credit": 32339.9,
+        "amount_of_credit": 100000,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 65497.5,
+        "price_to_buy": 65497.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 142990,
+        "total_price": 142990,
+        "deposit": 14299,
+        "balance": 128691,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2701.44,
+        "final_payment": 2711.44,
+        "total_amount_payable": 176395.4,
+        "total_charge_for_credit": 33405.4,
+        "amount_of_credit": 128691,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

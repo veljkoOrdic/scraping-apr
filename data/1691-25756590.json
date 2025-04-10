@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:10:00.728Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fife-mitsubishi.co.uk/used/subaru/crosstrek/20i-e-boxer-touring-5dr-lineartronic/cupar/fife/21414495",
+    "dealer_id": "1691",
+    "car_id": "25756590",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Subaru",
+        "model": "CROSSTREK",
+        "variant": "HATCHBACK",
+        "derivative": "2.0i e-Boxer Touring Lineartronic",
+        "registration_number": "SP24UWT",
+        "registration_date": "27/03/2024",
+        "mileage": 4815,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 3250,
+        "balance": 29250,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 49,
+        "regular_payment": 545.37,
+        "final_payment": 12061,
+        "total_amount_payable": 41488.76,
+        "total_charge_for_credit": 8988.76,
+        "amount_of_credit": 29250,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 12060,
+        "price_to_buy": 12061
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 3250,
+        "balance": 29250,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 627.1,
+        "final_payment": 628.1,
+        "total_amount_payable": 40877,
+        "total_charge_for_credit": 8377,
+        "amount_of_credit": 29250,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

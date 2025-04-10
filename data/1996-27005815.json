@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T01:36:19.500Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stmichaelsgarage.co.uk/used/cars/toyota/c-hr/design-4535",
+    "dealer_id": "1996",
+    "car_id": "27005815",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "C-HR",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 Hybrid Design CVT",
+        "registration_number": "GP73CFZ",
+        "registration_date": "22/02/2024",
+        "mileage": 7400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 520.73,
+        "final_payment": 530.73,
+        "total_amount_payable": 33953.3,
+        "total_charge_for_credit": 6958.3,
+        "amount_of_credit": 24295.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 383.55,
+        "final_payment": 14418.55,
+        "total_amount_payable": 35144.9,
+        "total_charge_for_credit": 8149.9,
+        "amount_of_credit": 24295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 2000,
+        "contract_mileage": 8000,
+        "excess_mileage_rate": 12,
+        "residual": 14025,
+        "price_to_buy": 14418.55
+      }
+    ]
+  }
+]

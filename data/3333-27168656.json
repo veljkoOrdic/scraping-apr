@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-10T04:20:38.695Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.augustus-autos.co.uk/cars/bmw/m4/3.0-m4-cs-coupe/1389123/",
+    "dealer_id": "3333",
+    "car_id": "27168656",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "",
+        "derivative": "M4 CS Coupe",
+        "registration_number": "YG18MGV",
+        "registration_date": "08/03/2018",
+        "mileage": 20500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41995,
+        "total_price": 41995,
+        "deposit": 4199.5,
+        "balance": 37795.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 949.11,
+        "final_payment": 950.11,
+        "total_amount_payable": 49757.78,
+        "total_charge_for_credit": 7762.78,
+        "amount_of_credit": 37795.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

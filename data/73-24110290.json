@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:43:15.176Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.essexcarcompany.co.uk/used-ford-kuga-rainham-essex-5957516",
+    "dealer_id": "73",
+    "car_id": "24110290",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 EcoBlue Titanium Edition",
+        "registration_number": "BK21ZBN",
+        "registration_date": "20/04/2021",
+        "mileage": 72360,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12763,
+        "total_price": 12763,
+        "deposit": 1276,
+        "balance": 11487,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 196.63,
+        "final_payment": 6208,
+        "total_amount_payable": 16922.24,
+        "total_charge_for_credit": 4159.24,
+        "amount_of_credit": 11487,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.71,
+        "residual": 6208,
+        "price_to_buy": 6208
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12763,
+        "total_price": 12763,
+        "deposit": 1276,
+        "balance": 11487,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 298.57,
+        "final_payment": 298.57,
+        "total_amount_payable": 15607.36,
+        "total_charge_for_credit": 2844.36,
+        "amount_of_credit": 11487,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

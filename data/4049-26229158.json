@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T05:30:54.135Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fteautos.co.uk/vehicle/mercedes-sprinter-20-315-cdi-premium-panel-van-5dr-diesel-manual-fwd-l2-h1-euro-6-ss-150-ps-in-ashford-middlesex-200402a5-37f9-4d8a-9853-b3be2973186f",
+    "dealer_id": "4049",
+    "car_id": "26229158",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SPRINTER",
+        "variant": "315CDI L2 DIESEL FWD",
+        "derivative": "3.5t H1 Premium Van",
+        "registration_number": "MF22OSW",
+        "registration_date": "28/04/2022",
+        "mileage": 39418,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 6598.5,
+        "balance": 19795.5,
+        "apr": 11.8,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 432.07,
+        "final_payment": 442.07,
+        "total_amount_payable": 32532.7,
+        "total_charge_for_credit": 6138.7,
+        "amount_of_credit": 19795.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 6598.5,
+        "balance": 19795.5,
+        "apr": 11.8,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 432.29,
+        "final_payment": 432.29,
+        "total_amount_payable": 32535.9,
+        "total_charge_for_credit": 6141.9,
+        "amount_of_credit": 19795.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:07:06.228Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.penybanc-carcentre.co.uk/used/cars/land-rover/range-rover/3-0-sd-v6-westminster-auto-4wd-euro-6-s-s-5dr-718",
+    "dealer_id": "3923",
+    "car_id": "26927435",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE SPECIAL EDITION",
+        "derivative": "3.0 SDV6 Westminster",
+        "registration_date": "30/09/2020",
+        "mileage": 47527,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36945,
+        "total_price": 36945,
+        "deposit": 3694.5,
+        "balance": 33250.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 595.19,
+        "final_payment": 12723.2,
+        "total_amount_payable": 51533.91,
+        "total_charge_for_credit": 14588.91,
+        "amount_of_credit": 33250.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.88,
+        "residual": 12723.2,
+        "price_to_buy": 12723.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36945,
+        "total_price": 36945,
+        "deposit": 3694.5,
+        "balance": 33250.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 742.87,
+        "final_payment": 742.87,
+        "total_amount_payable": 48266.7,
+        "total_charge_for_credit": 11321.7,
+        "amount_of_credit": 33250.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

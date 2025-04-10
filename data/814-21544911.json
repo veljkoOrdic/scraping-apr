@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T23:18:27.761Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tmcarsales.co.uk/details/used-car-in-coventry/jaguar/xk/5.0-v8-portfolio-auto-euro-5-2dr/1041343/",
+    "dealer_id": "814",
+    "car_id": "21544911",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XK",
+        "variant": "COUPE",
+        "derivative": "5.0 V8 Portfolio",
+        "registration_number": "VO10GVA",
+        "registration_date": "30/03/2010",
+        "mileage": 88000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12990,
+        "total_price": 12990,
+        "deposit": 1299,
+        "balance": 11691,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 255.84,
+        "final_payment": 265.84,
+        "total_amount_payable": 16659.4,
+        "total_charge_for_credit": 3669.4,
+        "amount_of_credit": 11691,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

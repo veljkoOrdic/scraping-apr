@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T01:13:36.019Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.morleycarsales.co.uk/used-toyota-corolla-preston-lancashire-6338440",
+    "dealer_id": "1748",
+    "car_id": "25643344",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "COROLLA",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 VVT-i Hybrid Icon Tech CVT",
+        "registration_number": "YG22OEE",
+        "registration_date": "21/03/2022",
+        "mileage": 47500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499,
+        "balance": 13496,
+        "apr": 13.6,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 305.77,
+        "final_payment": 305.77,
+        "total_amount_payable": 19845.2,
+        "total_charge_for_credit": 4850.2,
+        "amount_of_credit": 13496,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499,
+        "balance": 13496,
+        "apr": 13.7,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 262.53,
+        "final_payment": 6413.78,
+        "total_amount_payable": 20251.69,
+        "total_charge_for_credit": 5256.69,
+        "amount_of_credit": 13496,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6141.25,
+        "price_to_buy": 6413.78
+      }
+    ]
+  }
+]

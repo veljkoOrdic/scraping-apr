@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T03:56:24.365Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handmcarsbarnsley.co.uk/details/used-car-in-barnsley/audi/a6/2.0-tdi-40-black-edition-s-tronic-euro-6-ss-4dr/1378221/",
+    "dealer_id": "3114",
+    "car_id": "25807634",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "DIESEL SALOON",
+        "derivative": "40 TDI Black Edition S Tronic",
+        "registration_number": "YT21HMX",
+        "registration_date": "03/03/2021",
+        "mileage": 31497,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 11.2,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 435.64,
+        "final_payment": 10985.64,
+        "total_amount_payable": 34110.22,
+        "total_charge_for_credit": 7615.22,
+        "amount_of_credit": 23845.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 10540,
+        "price_to_buy": 10985.64
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 11.2,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 513.94,
+        "final_payment": 523.94,
+        "total_amount_payable": 33495.9,
+        "total_charge_for_credit": 7000.9,
+        "amount_of_credit": 23845.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

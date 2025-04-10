@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:19:30.911Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.springvalecarsales.co.uk/vehicle/citroen-c4-cactus-puretech-flair-ss-in-cwmbran-gwent-7d164ef2-3f41-4ecc-b046-a7315e3801ef",
+    "dealer_id": "1218",
+    "car_id": "25082028",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C4 Cactus Hatch 5-door",
+        "variant": "Flair",
+        "derivative": "PureTech 110 S&S 6-speed",
+        "registration_number": "ML21LFB",
+        "registration_date": "31/03/2021",
+        "mileage": 96000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7695,
+        "total_price": 7695,
+        "deposit": 500,
+        "balance": 7195,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 154.25,
+        "final_payment": 155.25,
+        "total_amount_payable": 9756,
+        "total_charge_for_credit": 2061,
+        "amount_of_credit": 7195,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7695,
+        "total_price": 7695,
+        "deposit": 500,
+        "balance": 7195,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 145.23,
+        "final_payment": 1419.63,
+        "total_amount_payable": 10488.2,
+        "total_charge_for_credit": 2793.2,
+        "amount_of_credit": 7195,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.89,
+        "residual": 1418.63,
+        "price_to_buy": 1419.63
+      }
+    ]
+  }
+]

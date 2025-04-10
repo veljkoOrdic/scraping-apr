@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:41:40.345Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rwashton.co.uk/vehicle/bmw-x5-30-40d-mht-m-sport-auto-xdrive-euro-6-ss-5dr-in-manchester-lancashire-50df7ad0-2e01-4066-9258-b2810156b04b",
+    "dealer_id": "2468",
+    "car_id": "27075165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive40d M Sport",
+        "registration_number": "AL18XER",
+        "registration_date": "04/03/2022",
+        "mileage": 43089,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47500,
+        "total_price": 47500,
+        "deposit": 4750,
+        "balance": 42750,
+        "apr": 11.4,
+        "rate_of_interest": 10.84,
+        "term": 48,
+        "regular_payment": 722.46,
+        "final_payment": 22855,
+        "total_amount_payable": 62283.08,
+        "total_charge_for_credit": 14783.08,
+        "amount_of_credit": 42750,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.85,
+        "residual": 22855,
+        "price_to_buy": 22855
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47500,
+        "total_price": 47500,
+        "deposit": 4750,
+        "balance": 42750,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 1101.53,
+        "final_payment": 1101.53,
+        "total_amount_payable": 57623.44,
+        "total_charge_for_credit": 10123.44,
+        "amount_of_credit": 42750,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

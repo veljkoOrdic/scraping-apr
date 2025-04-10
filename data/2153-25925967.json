@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T02:07:26.088Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/lamborghini/urus/4.0-v8-biturbo-s-auto-4wd-euro-6-5dr/1285244/",
+    "dealer_id": "2153",
+    "car_id": "25925967",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "MX22BMO",
+        "registration_date": "02/04/2022",
+        "mileage": 7421,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 210000,
+        "total_price": 210000,
+        "deposit": 50000,
+        "balance": 160000,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 2854.1,
+        "final_payment": 93371,
+        "total_amount_payable": 277513.7,
+        "total_charge_for_credit": 67513.7,
+        "amount_of_credit": 160000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 118,
+        "residual": 93371,
+        "price_to_buy": 93371
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 210000,
+        "total_price": 210000,
+        "deposit": 21000,
+        "balance": 189000,
+        "apr": 16.9,
+        "rate_of_interest": 8.83,
+        "term": 48,
+        "regular_payment": 5328.23,
+        "final_payment": 5328.23,
+        "total_amount_payable": 276755.04,
+        "total_charge_for_credit": 66755.04,
+        "amount_of_credit": 189000,
+        "lender": "Creditas Financial Solutions Limited"
+      }
+    ]
+  }
+]

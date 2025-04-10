@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:32:36.165Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fraserscars.co.uk/used/mg-motor-uk/zs/15-vti-tech-exclusive-5dr/falkirk/stirlingshire/21542570",
+    "dealer_id": "2898",
+    "car_id": "27094309",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "ZS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 VTi-TECH Exclusive",
+        "registration_number": "LB73VWK",
+        "registration_date": "25/10/2023",
+        "mileage": 12620,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14595,
+        "total_price": 14595,
+        "deposit": 1459.5,
+        "balance": 13135.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 48,
+        "regular_payment": 200.55,
+        "final_payment": 7088.5,
+        "total_amount_payable": 18174.4,
+        "total_charge_for_credit": 3579.4,
+        "amount_of_credit": 13135.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.7,
+        "residual": 7087.5,
+        "price_to_buy": 7088.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14595,
+        "total_price": 14595,
+        "deposit": 1459.5,
+        "balance": 13135.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 269.83,
+        "final_payment": 270.83,
+        "total_amount_payable": 17650.3,
+        "total_charge_for_credit": 3055.3,
+        "amount_of_credit": 13135.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

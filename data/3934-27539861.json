@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:15:27.817Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.swindonvehiclesolutions.co.uk/vehicle/bmw-m235i-20-saloon-4dr-petrol-auto-xdrive-euro-6-ss-306-ps-in-swindon-wiltshire-4499d729-60eb-4aef-8ea3-a200350b8703",
+    "dealer_id": "3934",
+    "car_id": "27539861",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "2 Series",
+        "variant": "",
+        "derivative": "M235i xDrive Gran Coupe",
+        "registration_number": "WR70KHM",
+        "registration_date": "04/09/2020",
+        "mileage": 35990,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 0,
+        "balance": 23990,
+        "apr": 13,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 537.51,
+        "final_payment": 537.51,
+        "total_amount_payable": 32250.6,
+        "total_charge_for_credit": 8260.6,
+        "amount_of_credit": 23990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 0,
+        "balance": 23990,
+        "apr": 13.1,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 450.56,
+        "final_payment": 11935.56,
+        "total_amount_payable": 33111.88,
+        "total_charge_for_credit": 9121.88,
+        "amount_of_credit": 23990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 11475,
+        "price_to_buy": 11935.56
+      }
+    ]
+  }
+]

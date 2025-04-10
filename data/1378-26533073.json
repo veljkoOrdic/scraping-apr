@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:30:11.579Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mgsgarage.co.uk/vehicle/seat-arona-10-tsi-xperience-lux-suv-5dr-petrol-manual-euro-6-ss-110-ps-in-chippenham-wiltshire-255cde59-df81-450d-933c-409a7b2f0782",
+    "dealer_id": "1378",
+    "car_id": "26533073",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "ARONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 XPERIENCE Lux",
+        "registration_number": "WN71NPK",
+        "registration_date": "21/01/2022",
+        "mileage": 17161,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15895,
+        "total_price": 15895,
+        "deposit": 1589.5,
+        "balance": 14305.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 313.05,
+        "final_payment": 323.05,
+        "total_amount_payable": 20382.5,
+        "total_charge_for_credit": 4487.5,
+        "amount_of_credit": 14305.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15895,
+        "total_price": 15895,
+        "deposit": 1589.5,
+        "balance": 14305.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 264.59,
+        "final_payment": 6734.59,
+        "total_amount_payable": 20759.82,
+        "total_charge_for_credit": 4864.82,
+        "amount_of_credit": 14305.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6460,
+        "price_to_buy": 6734.59
+      }
+    ]
+  }
+]

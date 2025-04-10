@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:28:07.516Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clementsqualitycars.co.uk/cars/landrover/rangerovervelar/r-dynamic-se/570367/",
+    "dealer_id": "1921",
+    "car_id": "15533499",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D180 R-Dynamic SE",
+        "registration_number": "FN68YFO",
+        "registration_date": "30/10/2018",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 42,
+        "regular_payment": 810.35,
+        "final_payment": 12968.46,
+        "total_amount_payable": 50292.31,
+        "total_charge_for_credit": 9297.31,
+        "amount_of_credit": 36895.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 6.3,
+        "residual": 12967.46,
+        "price_to_buy": 12968.46
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 791.02,
+        "final_payment": 792.02,
+        "total_amount_payable": 51561.7,
+        "total_charge_for_credit": 10566.7,
+        "amount_of_credit": 36895.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

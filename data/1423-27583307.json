@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:32:33.291Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fleetdirectdoncaster.co.uk/vehicle/ford-puma-st-line-in-doncaster-south-yorkshire-0f53ea25-1b93-481d-ade9-599c4e3d56a1",
+    "dealer_id": "1423",
+    "car_id": "27583307",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST-Line",
+        "registration_number": "SN21KKX",
+        "registration_date": "01/03/2021",
+        "mileage": 21000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15190,
+        "total_price": 15190,
+        "deposit": 1519,
+        "balance": 13671,
+        "apr": 13.2,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 262.24,
+        "final_payment": 6477.24,
+        "total_amount_payable": 20321.52,
+        "total_charge_for_credit": 5131.52,
+        "amount_of_credit": 13671,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6205,
+        "price_to_buy": 6477.24
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15190,
+        "total_price": 15190,
+        "deposit": 1519,
+        "balance": 13671,
+        "apr": 13.1,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 306.71,
+        "final_payment": 306.71,
+        "total_amount_payable": 19921.6,
+        "total_charge_for_credit": 4731.6,
+        "amount_of_credit": 13671,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

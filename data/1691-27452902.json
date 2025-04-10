@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:10:06.222Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fife-mitsubishi.co.uk/used/volkswagen/touareg/30-v6-tdi-4motion-black-edition-5dr-tip-auto/cupar/fife/21561910",
+    "dealer_id": "1691",
+    "car_id": "27452902",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 V6 TDI 4Motion Black Edition Tip",
+        "registration_number": "SH70XLO",
+        "registration_date": "10/12/2020",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39999,
+        "total_price": 39999,
+        "deposit": 3999.9,
+        "balance": 35999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 49,
+        "regular_payment": 650.37,
+        "final_payment": 16088.5,
+        "total_amount_payable": 51306.16,
+        "total_charge_for_credit": 11307.16,
+        "amount_of_credit": 35999.1,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 16087.5,
+        "price_to_buy": 16088.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39999,
+        "total_price": 39999,
+        "deposit": 3999.9,
+        "balance": 35999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 771.8,
+        "final_payment": 772.8,
+        "total_amount_payable": 50308.9,
+        "total_charge_for_credit": 10309.9,
+        "amount_of_credit": 35999.1,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

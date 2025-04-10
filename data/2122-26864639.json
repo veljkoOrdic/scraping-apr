@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:59:25.607Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadstonecars.co.uk/details/used-car-in-bridgnorth/landrover/rangerovervelar/2.0-d200-mhev-edition-auto-4wd-euro-6-ss-5dr/1363492/",
+    "dealer_id": "2122",
+    "car_id": "26864639",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D200 Edition",
+        "registration_number": "LJ21ZCL",
+        "registration_date": "10/03/2021",
+        "mileage": 39000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33990,
+        "total_price": 33990,
+        "deposit": 3399,
+        "balance": 30591,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 489.27,
+        "final_payment": 16322,
+        "total_amount_payable": 43205.96,
+        "total_charge_for_credit": 9215.96,
+        "amount_of_credit": 30591,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.26,
+        "residual": 16322,
+        "price_to_buy": 16322
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33990,
+        "total_price": 33990,
+        "deposit": 3399,
+        "balance": 30591,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 768.09,
+        "final_payment": 768.09,
+        "total_amount_payable": 40267.32,
+        "total_charge_for_credit": 6277.32,
+        "amount_of_credit": 30591,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

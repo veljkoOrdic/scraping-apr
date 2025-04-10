@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:54.201Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.edgars.co.uk/used/nissan/qashqai/15-e-power-tekna-5dr-auto/frizington/cumbria/21515826",
+    "dealer_id": "3999",
+    "car_id": "26720432",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 E-Power Tekna+",
+        "registration_number": "PY24HCU",
+        "registration_date": "01/03/2024",
+        "mileage": 9650,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3549.5,
+        "balance": 29445.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 512.39,
+        "final_payment": 13294,
+        "total_amount_payable": 41438.22,
+        "total_charge_for_credit": 8443.22,
+        "amount_of_credit": 29445.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 13294,
+        "price_to_buy": 13294
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 623.33,
+        "final_payment": 623.33,
+        "total_amount_payable": 40699.3,
+        "total_charge_for_credit": 7704.3,
+        "amount_of_credit": 29695.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

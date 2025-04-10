@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T12:51:01.049Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.crossroads-motors.co.uk/used/nissan/juke/10-dig-t-114-n-connecta-5dr/ashford/kent/21475837",
+    "dealer_id": "120",
+    "car_id": "26365489",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T 114 N-Connecta",
+        "registration_number": "CN71VZH",
+        "registration_date": "27/09/2021",
+        "mileage": 47199,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.4,
+        "rate_of_interest": 6.44,
+        "term": 48,
+        "regular_payment": 221.25,
+        "final_payment": 5416.25,
+        "total_amount_payable": 17114.5,
+        "total_charge_for_credit": 4119.5,
+        "amount_of_credit": 11695.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5185,
+        "price_to_buy": 5416.25
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.4,
+        "rate_of_interest": 6.53,
+        "term": 60,
+        "regular_payment": 258.57,
+        "final_payment": 268.57,
+        "total_amount_payable": 16823.7,
+        "total_charge_for_credit": 3828.7,
+        "amount_of_credit": 11695.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

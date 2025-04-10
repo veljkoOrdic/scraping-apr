@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:46:37.906Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.formbycarcentre.co.uk/details/used-car-in-liverpool/porsche/911/4.0-992-gt3-rs-pdk-euro-6-ss-2dr/1382399/",
+    "dealer_id": "2493",
+    "car_id": "27095328",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] GT COUPE",
+        "derivative": "GT3 RS PDK",
+        "registration_number": "ML24WWC",
+        "registration_date": "22/05/2024",
+        "mileage": 3185,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 265000,
+        "total_price": 265000,
+        "deposit": 26500,
+        "balance": 238500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 3985.69,
+        "final_payment": 81935.91,
+        "total_amount_payable": 343591.62,
+        "total_charge_for_credit": 78591.62,
+        "amount_of_credit": 238500,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 61.9,
+        "residual": 81935.91,
+        "price_to_buy": 81935.91
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 265000,
+        "total_price": 265000,
+        "deposit": 26500,
+        "balance": 238500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 5006.3,
+        "final_payment": 5006.3,
+        "total_amount_payable": 326878,
+        "total_charge_for_credit": 61878,
+        "amount_of_credit": 238500,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

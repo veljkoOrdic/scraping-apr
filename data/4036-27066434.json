@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:27:41.277Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.whitescars.co.uk/used/cars/jaguar/xe/2-0-d180-r-dynamic-hse-auto-awd-euro-6-s-s-4dr-303",
+    "dealer_id": "4036",
+    "car_id": "27066434",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XE",
+        "variant": "DIESEL SALOON",
+        "derivative": "2.0d R-Dynamic HSE",
+        "registration_date": "29/07/2020",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 391.37,
+        "final_payment": 8465.1,
+        "total_amount_payable": 29154.49,
+        "total_charge_for_credit": 6204.49,
+        "amount_of_credit": 20655,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.86,
+        "residual": 8465.1,
+        "price_to_buy": 8465.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 527.74,
+        "final_payment": 527.74,
+        "total_amount_payable": 27626.52,
+        "total_charge_for_credit": 4676.52,
+        "amount_of_credit": 20655,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

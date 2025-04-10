@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:36:27.706Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saundersabbott.co.uk/cars/landrover/rangeroversport/4.4-sd-v8-autobiography-dynamic/1266731/",
+    "dealer_id": "3509",
+    "car_id": "26345585",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "4.4 SDV8biography Dynamic [SS]",
+        "registration_number": "VO66JRX",
+        "registration_date": "05/10/2016",
+        "mileage": 55900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 499.75,
+        "final_payment": 499.75,
+        "total_amount_payable": 32484.5,
+        "total_charge_for_credit": 7489.5,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 499.53,
+        "final_payment": 509.53,
+        "total_amount_payable": 32481.3,
+        "total_charge_for_credit": 7486.3,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T03:29:27.415Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jdcarsales.co.uk/cars/subaru/impreza/wrx-turbo/809425/",
+    "dealer_id": "2823",
+    "car_id": "26017548",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Subaru",
+        "model": "IMPREZA",
+        "variant": "SALOON",
+        "derivative": "2.0 WRX Turbo",
+        "registration_number": "JW53JSW",
+        "registration_date": "04/10/2003",
+        "mileage": 29551,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 14.9,
+        "rate_of_interest": 7.76,
+        "term": 48,
+        "regular_payment": 442.01,
+        "final_payment": 452.01,
+        "total_amount_payable": 23025.48,
+        "total_charge_for_credit": 5035.48,
+        "amount_of_credit": 16191,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 14.9,
+        "rate_of_interest": 7.76,
+        "term": 48,
+        "regular_payment": 442.01,
+        "final_payment": 452.01,
+        "total_amount_payable": 23025.48,
+        "total_charge_for_credit": 5035.48,
+        "amount_of_credit": 16191,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

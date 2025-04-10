@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T05:15:32.462Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.swindonvehiclesolutions.co.uk/vehicle/volkswagen-transporter-20-tdi-t28-highline-panel-van-5dr-diesel-dsg-fwd-swb-euro-6-ss-150-ps-in-swindon-wiltshire-d9a82032-22a1-4d62-a10b-eb319ad55de9",
+    "dealer_id": "3934",
+    "car_id": "25679564",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T28 SWB DIESEL",
+        "derivative": "2.0 TDI 150 Highline Van DSG",
+        "registration_number": "RJ72HTK",
+        "registration_date": "30/11/2022",
+        "mileage": 32200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46188,
+        "total_price": 46188,
+        "deposit": 7698,
+        "balance": 38490,
+        "apr": 12.8,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 857.72,
+        "final_payment": 857.72,
+        "total_amount_payable": 59161.2,
+        "total_charge_for_credit": 12973.2,
+        "amount_of_credit": 38490,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46188,
+        "total_price": 46188,
+        "deposit": 7698,
+        "balance": 38490,
+        "apr": 13,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 895.28,
+        "final_payment": 8470.28,
+        "total_amount_payable": 58246.44,
+        "total_charge_for_credit": 12058.44,
+        "amount_of_credit": 38490,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7565,
+        "price_to_buy": 8470.28
+      }
+    ]
+  }
+]

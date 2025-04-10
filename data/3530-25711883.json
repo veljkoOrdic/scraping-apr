@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:37:15.920Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tongecarsales.co.uk/vehicle/volkswagen-polo-10-tsi-r-line-euro-6-ss-5dr-in-bolton-lancashire-2bb0ed73-1169-485c-9b33-b1f500d55b9b",
+    "dealer_id": "3530",
+    "car_id": "25711883",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 R-Line",
+        "registration_number": "KO68GVE",
+        "registration_date": "24/12/2018",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11395,
+        "total_price": 11395,
+        "deposit": 1139.5,
+        "balance": 10255.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 44,
+        "regular_payment": 210.58,
+        "final_payment": 3977.62,
+        "total_amount_payable": 14172.06,
+        "total_charge_for_credit": 2777.06,
+        "amount_of_credit": 10255.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 36666,
+        "excess_mileage_rate": 2.76,
+        "residual": 3976.62,
+        "price_to_buy": 3977.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11395,
+        "total_price": 11395,
+        "deposit": 1139.5,
+        "balance": 10255.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 215.26,
+        "final_payment": 216.26,
+        "total_amount_payable": 14056.1,
+        "total_charge_for_credit": 2661.1,
+        "amount_of_credit": 10255.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

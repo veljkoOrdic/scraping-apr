@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T13:18:42.793Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarsitelondon.co.uk/details/used-car-in-bromley/landrover/rangerover/3.0-td6-hse-5dr/384780/",
+    "dealer_id": "213",
+    "car_id": "25533228",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 Td6 HSE",
+        "registration_number": "HG52NJO",
+        "registration_date": "07/12/2002",
+        "mileage": 140000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 399.5,
+        "balance": 3595.5,
+        "apr": 18,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 88.77,
+        "final_payment": 88.77,
+        "total_amount_payable": 5725.7,
+        "total_charge_for_credit": 1730.7,
+        "amount_of_credit": 3595.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

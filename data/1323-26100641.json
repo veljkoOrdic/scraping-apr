@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:27:28.292Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilsonautotrade.co.uk/used-ford-fiesta-darlington-county-durham-6448776",
+    "dealer_id": "1323",
+    "car_id": "26100641",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 EcoBoost ST-3",
+        "registration_number": "GN68MHO",
+        "registration_date": "27/11/2018",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 43,
+        "regular_payment": 269.75,
+        "final_payment": 4566.78,
+        "total_amount_payable": 17245.28,
+        "total_charge_for_credit": 3755.28,
+        "amount_of_credit": 12141,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 3.94,
+        "residual": 4566.78,
+        "price_to_buy": 4566.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 271.27,
+        "final_payment": 271.27,
+        "total_amount_payable": 17625.2,
+        "total_charge_for_credit": 4135.2,
+        "amount_of_credit": 12141,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

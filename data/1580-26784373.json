@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:51:07.063Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.millendmotors.co.uk/cars/volkswagen/transporter/2.0-tdi-t30-startline-fwd-swb-euro-6-ss-5dr/1356155/",
+    "dealer_id": "1580",
+    "car_id": "26784373",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T30 SWB DIESEL",
+        "derivative": "2.0 TDI 150 Startline Van",
+        "registration_number": "WR70ZZC",
+        "registration_date": "30/11/2020",
+        "mileage": 90000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17992.8,
+        "total_price": 17992.8,
+        "deposit": 4498.2,
+        "balance": 13494.6,
+        "apr": 9.9,
+        "rate_of_interest": 6.57,
+        "term": 36,
+        "regular_payment": 322.67,
+        "final_payment": 4860,
+        "total_amount_payable": 20651.65,
+        "total_charge_for_credit": 2658.85,
+        "amount_of_credit": 13494.6,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 12,
+        "residual": 4860,
+        "price_to_buy": 4860
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17992.8,
+        "total_price": 17992.8,
+        "deposit": 4498.2,
+        "balance": 13494.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 283.26,
+        "final_payment": 283.26,
+        "total_amount_payable": 21493.8,
+        "total_charge_for_credit": 3501,
+        "amount_of_credit": 13494.6,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

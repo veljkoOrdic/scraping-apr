@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:33:00.032Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.highamgarage.co.uk/vehicle/kia-ceed-16-crdi-mhev-2-nav-sportswagon-euro-6-ss-5dr-in-rochester-341e0cfd-a15f-46ae-9608-b23401096965",
+    "dealer_id": "1983",
+    "car_id": "26361419",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "CEED",
+        "variant": "DIESEL SPORTSWAGON",
+        "derivative": "1.6 CRDi 48V ISG 2 NAV",
+        "registration_number": "MA71ASX",
+        "registration_date": "30/11/2021",
+        "mileage": 57000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 13.4,
+        "rate_of_interest": 12.64,
+        "term": 48,
+        "regular_payment": 193.64,
+        "final_payment": 4394,
+        "total_amount_payable": 14788.22,
+        "total_charge_for_credit": 3793.22,
+        "amount_of_credit": 9895.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.3,
+        "residual": 4394,
+        "price_to_buy": 4394
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 13.4,
+        "rate_of_interest": 7.08,
+        "term": 60,
+        "regular_payment": 223.31,
+        "final_payment": 223.31,
+        "total_amount_payable": 14498.1,
+        "total_charge_for_credit": 3503.1,
+        "amount_of_credit": 9895.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

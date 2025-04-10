@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T02:29:50.366Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ascars.co.uk/used/cars/land-rover/range-rover-sport/3-0-p440e-38-2kwh-se-auto-4wd-euro-6-s-s-5dr-13",
+    "dealer_id": "2335",
+    "car_id": "25457834",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "3.0 P440e SE",
+        "registration_date": "31/05/2023",
+        "mileage": 3500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79999,
+        "total_price": 79999,
+        "deposit": 7999.9,
+        "balance": 71999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 1255.96,
+        "final_payment": 36119,
+        "total_amount_payable": 103149.02,
+        "total_charge_for_credit": 23150.02,
+        "amount_of_credit": 71999.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 118,
+        "residual": 36109,
+        "price_to_buy": 36119
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79999,
+        "total_price": 79999,
+        "deposit": 7999.9,
+        "balance": 71999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1543.51,
+        "final_payment": 1553.51,
+        "total_amount_payable": 100620.5,
+        "total_charge_for_credit": 20621.5,
+        "amount_of_credit": 71999.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

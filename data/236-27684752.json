@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:32:02.388Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.atlantictruckandvan.co.uk/details/used-van-in-norwich/citroen/relay/2.2-bluehdi-35-enterprise-edition-l4-high-roof-euro-6-ss-5dr-heavy/1432329/",
+    "dealer_id": "236",
+    "car_id": "27684752",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "RELAY",
+        "variant": "35 HEAVY L4 DIESEL",
+        "derivative": "2.2 BlueHDi H2 Van 140ps Enterprise Edition",
+        "registration_number": "BT23YGZ",
+        "registration_date": "30/04/2023",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19194,
+        "total_price": 19194,
+        "deposit": 3199,
+        "balance": 15995,
+        "apr": 12.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 357.33,
+        "final_payment": 367.33,
+        "total_amount_payable": 24648.8,
+        "total_charge_for_credit": 5454.8,
+        "amount_of_credit": 15995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19194,
+        "total_price": 19194,
+        "deposit": 3199,
+        "balance": 15995,
+        "apr": 13.1,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 368.1,
+        "final_payment": 3841.85,
+        "total_amount_payable": 24341.55,
+        "total_charge_for_credit": 5147.55,
+        "amount_of_credit": 15995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3463.75,
+        "price_to_buy": 3841.85
+      }
+    ]
+  }
+]

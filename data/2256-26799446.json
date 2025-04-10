@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:14:18.125Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ringleycarsales.co.uk/vehicle/mg-mg4-51kwh-se-auto-5dr-in-radcliffe-3116067e-cb20-4d25-a971-b26800e0118a",
+    "dealer_id": "2256",
+    "car_id": "26799446",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "MG4",
+        "variant": "HATCHBACK",
+        "derivative": "125kW SE EV 51kWh",
+        "registration_number": "YL72XJV",
+        "registration_date": "31/01/2023",
+        "mileage": 7126,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 60,
+        "regular_payment": 283.38,
+        "final_payment": 283.38,
+        "total_amount_payable": 18502.8,
+        "total_charge_for_credit": 3502.8,
+        "amount_of_credit": 13500,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 49,
+        "regular_payment": 222.4,
+        "final_payment": 6828,
+        "total_amount_payable": 19003.2,
+        "total_charge_for_credit": 4003.2,
+        "amount_of_credit": 13500,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 6818,
+        "price_to_buy": 6828
+      }
+    ]
+  }
+]

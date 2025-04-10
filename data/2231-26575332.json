@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:12:40.792Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.churchillmotors.co.uk/porsche-macan-2-9t-v6-turbo-suv-5dr-petrol-pdk-4wd-euro-6-s-s-440-ps-in-northamptonshire-c431f176-b56e-4b9d-bd04-02d9d43fc704",
+    "dealer_id": "2231",
+    "car_id": "26575332",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "Turbo PDK",
+        "registration_number": "KJ70KZP",
+        "registration_date": "12/12/2020",
+        "mileage": 43231,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 887.8,
+        "final_payment": 888.8,
+        "total_amount_payable": 57968.5,
+        "total_charge_for_credit": 10973.5,
+        "amount_of_credit": 42295.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 49,
+        "regular_payment": 632.48,
+        "final_payment": 25156,
+        "total_amount_payable": 60214.54,
+        "total_charge_for_credit": 13219.54,
+        "amount_of_credit": 42295.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18,
+        "residual": 25155,
+        "price_to_buy": 25156
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T04:20:32.733Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.augustus-autos.co.uk/cars/volkswagen/golf/2.0-tsi-r/1312092/",
+    "dealer_id": "3333",
+    "car_id": "27119021",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 320 R 4Motion DSG",
+        "registration_number": "SW73EHL",
+        "registration_date": "11/01/2024",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699.5,
+        "balance": 33295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 521.28,
+        "final_payment": 18811,
+        "total_amount_payable": 47010.66,
+        "total_charge_for_credit": 10015.66,
+        "amount_of_credit": 33295.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 17,
+        "residual": 18810,
+        "price_to_buy": 18811
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699.5,
+        "balance": 33295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 836.11,
+        "final_payment": 837.11,
+        "total_amount_payable": 43833.78,
+        "total_charge_for_credit": 6838.78,
+        "amount_of_credit": 33295.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

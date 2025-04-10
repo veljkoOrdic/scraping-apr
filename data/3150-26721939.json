@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:00:53.523Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-volkswagen-transporter-reading-berkshire-6606362",
+    "dealer_id": "3150",
+    "car_id": "26721939",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "ML19GBZ",
+        "registration_date": "01/03/2019",
+        "mileage": 45000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42999,
+        "total_price": 42999,
+        "deposit": 4299,
+        "balance": 38700,
+        "apr": 13.7,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 878.63,
+        "final_payment": 878.63,
+        "total_amount_payable": 57016.8,
+        "total_charge_for_credit": 14017.8,
+        "amount_of_credit": 38700,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42999,
+        "total_price": 42999,
+        "deposit": 4299,
+        "balance": 38700,
+        "apr": 13.7,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 878.4,
+        "final_payment": 888.4,
+        "total_amount_payable": 57013,
+        "total_charge_for_credit": 14014,
+        "amount_of_credit": 38700,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

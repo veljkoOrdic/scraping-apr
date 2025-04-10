@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:53:54.740Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/tesla-model-y-rwd/29230",
+    "dealer_id": "1108",
+    "car_id": "22958402",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL Y",
+        "variant": "HATCHBACK",
+        "derivative": "RWD",
+        "registration_number": "LA23VHK",
+        "registration_date": "27/05/2023",
+        "mileage": 18750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29945,
+        "total_price": 29945,
+        "deposit": 2994.5,
+        "balance": 26950.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.31,
+        "term": 48,
+        "regular_payment": 440.53,
+        "final_payment": 14805,
+        "total_amount_payable": 38945.94,
+        "total_charge_for_credit": 9000.94,
+        "amount_of_credit": 26950.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 18.1,
+        "residual": 14805,
+        "price_to_buy": 14805
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29945,
+        "total_price": 29945,
+        "deposit": 2994.5,
+        "balance": 26950.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 577.86,
+        "final_payment": 578.86,
+        "total_amount_payable": 37667.1,
+        "total_charge_for_credit": 7722.1,
+        "amount_of_credit": 26950.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

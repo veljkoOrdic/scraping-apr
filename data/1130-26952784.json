@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:01:46.882Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.g5cars.co.uk/details/used-car-in-leeds/volkswagen/polo/1.0-tsi-match-euro-6-ss-5dr/1370137/",
+    "dealer_id": "1130",
+    "car_id": "26952784",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 Match",
+        "registration_number": "YF20GVG",
+        "registration_date": "06/07/2020",
+        "mileage": 16016,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13573,
+        "total_price": 13573,
+        "deposit": 10,
+        "balance": 13563,
+        "apr": 16.1,
+        "rate_of_interest": 7.75,
+        "term": 48,
+        "regular_payment": 307.79,
+        "final_payment": 4886.54,
+        "total_amount_payable": 19362.67,
+        "total_charge_for_credit": 5789.67,
+        "amount_of_credit": 13563,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4568.75,
+        "price_to_buy": 4886.54
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13573,
+        "total_price": 13573,
+        "deposit": 10,
+        "balance": 13563,
+        "apr": 15.9,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 321.74,
+        "final_payment": 321.74,
+        "total_amount_payable": 19314.4,
+        "total_charge_for_credit": 5741.4,
+        "amount_of_credit": 13563,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:35:03.257Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.twyford4x4.co.uk/used-porsche-911-winkfield-berkshire-6512771",
+    "dealer_id": "4109",
+    "car_id": "26344478",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA CABRIOLET",
+        "derivative": "S PDK",
+        "registration_number": "LC69NSJ",
+        "registration_date": "31/10/2019",
+        "mileage": 16500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84995,
+        "total_price": 84995,
+        "deposit": 8499,
+        "balance": 76496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 54,
+        "regular_payment": 1250.84,
+        "final_payment": 34406.72,
+        "total_amount_payable": 109200.24,
+        "total_charge_for_credit": 24205.24,
+        "amount_of_credit": 76496,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 24.26,
+        "residual": 34406.72,
+        "price_to_buy": 34406.72
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84995,
+        "total_price": 84995,
+        "deposit": 8499,
+        "balance": 76496,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1605.78,
+        "final_payment": 1606.78,
+        "total_amount_payable": 104846.8,
+        "total_charge_for_credit": 19851.8,
+        "amount_of_credit": 76496,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:09:36.056Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesfrench.com/vehicle/land-rover-discovery-30-p360-mhev-dynamic-hse-auto-4wd-euro-6-ss-5dr-in-standlake-oxfordshire-dddb8283-a554-4b2d-9e34-b0f200def132",
+    "dealer_id": "1175",
+    "car_id": "22936133",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "SW",
+        "derivative": "3.0 P360 R-Dynamic HSE",
+        "registration_number": "KR22OFD",
+        "registration_date": "24/05/2022",
+        "mileage": 11800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61750,
+        "total_price": 61750,
+        "deposit": 6175,
+        "balance": 55575,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 937.7,
+        "final_payment": 18417.32,
+        "total_amount_payable": 79916.62,
+        "total_charge_for_credit": 18166.62,
+        "amount_of_credit": 55575,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 10.38,
+        "residual": 18417.32,
+        "price_to_buy": 18417.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61750,
+        "total_price": 61750,
+        "deposit": 6175,
+        "balance": 55575,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1166.56,
+        "final_payment": 1166.56,
+        "total_amount_payable": 76168.6,
+        "total_charge_for_credit": 14418.6,
+        "amount_of_credit": 55575,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

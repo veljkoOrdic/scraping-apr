@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T13:19:07.090Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarsitelondon.co.uk/details/used-car-in-bromley/mini/hatch/1.5-cooper-euro-6-ss-3dr/611064/",
+    "dealer_id": "213",
+    "car_id": "16194400",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "CONVERTIBLE",
+        "variant": "CONVERTIBLE",
+        "derivative": "1.5 Cooper",
+        "registration_number": "CK18PYO",
+        "registration_date": "19/05/2018",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10395,
+        "total_price": 10395,
+        "deposit": 1039.5,
+        "balance": 9355.5,
+        "apr": 15.1,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 218.37,
+        "final_payment": 218.37,
+        "total_amount_payable": 14141.7,
+        "total_charge_for_credit": 3746.7,
+        "amount_of_credit": 9355.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

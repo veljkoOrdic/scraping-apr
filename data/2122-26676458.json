@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:58:34.186Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadstonecars.co.uk/details/used-car-in-bridgnorth/ford/kuga/2.0-ecoblue-vignale-auto-awd-euro-6-ss-5dr/1348241/",
+    "dealer_id": "2122",
+    "car_id": "26676458",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue 190 Vignale",
+        "registration_number": "DL70TXR",
+        "registration_date": "27/11/2020",
+        "mileage": 59800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 1899,
+        "balance": 17091,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 296.46,
+        "final_payment": 7766,
+        "total_amount_payable": 23895.08,
+        "total_charge_for_credit": 4905.08,
+        "amount_of_credit": 17091,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.25,
+        "residual": 7766,
+        "price_to_buy": 7766
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 1899,
+        "balance": 17091,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 429.13,
+        "final_payment": 429.13,
+        "total_amount_payable": 22497.24,
+        "total_charge_for_credit": 3507.24,
+        "amount_of_credit": 17091,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

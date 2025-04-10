@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T06:43:29.167Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derbytradecars.co.uk/used-land-rover-defender-derby-derbyshire-6764514",
+    "dealer_id": "4271",
+    "car_id": "27319129",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE",
+        "derivative": "5.0 P525 V8 110",
+        "registration_number": "MV22OAU",
+        "registration_date": "31/03/2022",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82990,
+        "total_price": 82990,
+        "deposit": 8299,
+        "balance": 74691,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 1239.06,
+        "final_payment": 37272.5,
+        "total_amount_payable": 105046.38,
+        "total_charge_for_credit": 22056.38,
+        "amount_of_credit": 74691,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 37272.5,
+        "price_to_buy": 37272.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82990,
+        "total_price": 82990,
+        "deposit": 8299,
+        "balance": 74691,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1567.89,
+        "final_payment": 1567.89,
+        "total_amount_payable": 102372.4,
+        "total_charge_for_credit": 19382.4,
+        "amount_of_credit": 74691,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

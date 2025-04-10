@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:57:48.548Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kccarsales.co.uk/vehicle/mercedes-sprinter-315-cdi-progressive-in-dartford-kent-0dfc2b58-07e3-41a8-b68f-8ae38df6c0be",
+    "dealer_id": "1597",
+    "car_id": "21777035",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SPRINTER",
+        "variant": "315CDI L3 DIESEL RWD",
+        "derivative": "3.5t Progressive Chassis Cab",
+        "registration_number": "KC21TOW",
+        "registration_date": "02/07/2021",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59988,
+        "total_price": 59988,
+        "deposit": 14997,
+        "balance": 44991,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 1092.59,
+        "final_payment": 2790,
+        "total_amount_payable": 70231.32,
+        "total_charge_for_credit": 10243.32,
+        "amount_of_credit": 44991,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 1.25,
+        "residual": 2790,
+        "price_to_buy": 2790
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59988,
+        "total_price": 59988,
+        "deposit": 14997,
+        "balance": 44991,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 954.56,
+        "final_payment": 954.56,
+        "total_amount_payable": 72270.6,
+        "total_charge_for_credit": 12282.6,
+        "amount_of_credit": 44991,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

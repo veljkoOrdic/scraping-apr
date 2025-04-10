@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:31:06.083Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.moffmotors.co.uk/vehicle/ford-fiesta-10t-ecoboost-titanium-x-euro-6-ss-5dr-in-somerset-a688252f-bb1b-4bf6-bd75-b26800e4a87e",
+    "dealer_id": "4050",
+    "car_id": "26795904",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 Titanium X",
+        "registration_number": "EK20WZN",
+        "registration_date": "29/05/2020",
+        "mileage": 12300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 227.75,
+        "final_payment": 4720,
+        "total_amount_payable": 17001,
+        "total_charge_for_credit": 3511,
+        "amount_of_credit": 12141,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.8,
+        "residual": 4720,
+        "price_to_buy": 4720
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 257.59,
+        "final_payment": 257.59,
+        "total_amount_payable": 16804.4,
+        "total_charge_for_credit": 3314.4,
+        "amount_of_credit": 12141,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

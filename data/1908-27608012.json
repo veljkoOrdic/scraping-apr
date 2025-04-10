@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:26:23.417Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jeanpierrelimited.co.uk/details/car-in-southampton,/skoda/karoq/1.5-tsi-act-se-l-dsg-euro-6-ss-5dr/1426538/",
+    "dealer_id": "1908",
+    "car_id": "27608012",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI SE L DSG",
+        "registration_number": "LL23VYN",
+        "registration_date": "12/06/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25190,
+        "total_price": 25190,
+        "deposit": 2519,
+        "balance": 22671,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 371.45,
+        "final_payment": 11997,
+        "total_amount_payable": 32345.6,
+        "total_charge_for_credit": 7155.6,
+        "amount_of_credit": 22671,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.4,
+        "residual": 11997,
+        "price_to_buy": 11997
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25190,
+        "total_price": 25190,
+        "deposit": 2519,
+        "balance": 22671,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 481,
+        "final_payment": 481,
+        "total_amount_payable": 31379,
+        "total_charge_for_credit": 6189,
+        "amount_of_credit": 22671,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

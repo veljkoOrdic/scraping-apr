@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-10T04:20:20.668Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.augustus-autos.co.uk/cars/ford/mustang/5.0-v8-gt/1433223/",
+    "dealer_id": "3333",
+    "car_id": "27701424",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "MUSTANG",
+        "variant": "FASTBACK",
+        "derivative": "5.0 V8 GT",
+        "registration_number": "YR19ADU",
+        "registration_date": "27/06/2019",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 790.91,
+        "final_payment": 791.91,
+        "total_amount_payable": 41464.18,
+        "total_charge_for_credit": 6469.18,
+        "amount_of_credit": 31495.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:39.105Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.edgars.co.uk/used/nissan/leaf/110kw-n-connecta-39kwh-5dr-auto/frizington/cumbria/21306968",
+    "dealer_id": "3999",
+    "car_id": "24845815",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "110kW N-Connecta 39kWh",
+        "registration_number": "PY73HTP",
+        "registration_date": "14/12/2023",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 2249.5,
+        "balance": 17745.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 348.99,
+        "final_payment": 5658,
+        "total_amount_payable": 24659.02,
+        "total_charge_for_credit": 4664.02,
+        "amount_of_credit": 17745.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 5658,
+        "price_to_buy": 5658
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 377.74,
+        "final_payment": 377.74,
+        "total_amount_payable": 24663.9,
+        "total_charge_for_credit": 4668.9,
+        "amount_of_credit": 17995.5,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

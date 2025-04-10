@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:36:58.750Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tlscarsales.co.uk/details/used-car-in-thorpe-le-soken/landrover/rangeroverevoque/2.0-p200-mhev-r-dynamic-s-auto-4wd-euro-6-ss-5dr/1360408/",
+    "dealer_id": "1525",
+    "car_id": "26824632",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 P200 R-Dynamic S",
+        "registration_number": "AK69XFC",
+        "registration_date": "24/01/2020",
+        "mileage": 38682,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21550,
+        "total_price": 21550,
+        "deposit": 2155,
+        "balance": 19395,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 46,
+        "regular_payment": 321.48,
+        "final_payment": 10109,
+        "total_amount_payable": 26409.12,
+        "total_charge_for_credit": 4859.12,
+        "amount_of_credit": 19395,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 23000,
+        "excess_mileage_rate": 16,
+        "residual": 10099,
+        "price_to_buy": 10109
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21550,
+        "total_price": 21550,
+        "deposit": 2155,
+        "balance": 19395,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 398.24,
+        "final_payment": 408.24,
+        "total_amount_payable": 26059.4,
+        "total_charge_for_credit": 4509.4,
+        "amount_of_credit": 19395,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

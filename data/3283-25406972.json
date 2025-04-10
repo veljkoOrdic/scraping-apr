@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:05:22.954Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bamspecialistcars.co.uk/used-audi-tt-rs-coupe-clay-cross-derbyshire-6264198",
+    "dealer_id": "3283",
+    "car_id": "25406972",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "TT",
+        "variant": "RS COUPE",
+        "derivative": "2.5T FSI TT RS Quattro S Tronic",
+        "registration_number": "R500TLP",
+        "registration_date": "17/11/2016",
+        "mileage": 57363,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 599.93,
+        "final_payment": 24823.74,
+        "total_amount_payable": 57519.95,
+        "total_charge_for_credit": 12524.95,
+        "amount_of_credit": 40495.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499,
+        "balance": 40496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 850.04,
+        "final_payment": 850.04,
+        "total_amount_payable": 55501.4,
+        "total_charge_for_credit": 10506.4,
+        "amount_of_credit": 40496,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

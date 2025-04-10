@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:02:04.390Z",
+    "source": "codeweavers_calculator",
+    "url": "https://tauntonroadcarcentre.co.uk/volkswagen_polo_1.0_tsi_sel_hatchback_5dr_petrol_dsg_euro_6_ss_110_ps_-id1111-.htm",
+    "dealer_id": "1140",
+    "car_id": "26710871",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 115 SEL DSG",
+        "registration_number": "DA70LBK",
+        "registration_date": "09/11/2020",
+        "mileage": 26475,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 267.62,
+        "final_payment": 5738.87,
+        "total_amount_payable": 19816.51,
+        "total_charge_for_credit": 4821.51,
+        "amount_of_credit": 13495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5461.25,
+        "price_to_buy": 5738.87
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 301.4,
+        "final_payment": 311.4,
+        "total_amount_payable": 19593.5,
+        "total_charge_for_credit": 4598.5,
+        "amount_of_credit": 13495.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

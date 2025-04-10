@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:35:49.833Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roydensltd.co.uk/vehicle/bmw-420i-m-sport-in-sittingbourne-kent-d66a6f12-30df-43ce-8447-fa5f344506bc",
+    "dealer_id": "257",
+    "car_id": "25881654",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "",
+        "derivative": "420i M Sport Convertible Auto",
+        "registration_number": "GL20EXH",
+        "registration_date": "11/07/2020",
+        "mileage": 60520,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19490,
+        "total_price": 19490,
+        "deposit": 1949,
+        "balance": 17541,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 341.54,
+        "final_payment": 4477.67,
+        "total_amount_payable": 26577.53,
+        "total_charge_for_credit": 7087.53,
+        "amount_of_credit": 17541,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.71,
+        "residual": 4476.67,
+        "price_to_buy": 4477.67
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19490,
+        "total_price": 19490,
+        "deposit": 1949,
+        "balance": 17541,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 383.97,
+        "final_payment": 384.97,
+        "total_amount_payable": 24988.2,
+        "total_charge_for_credit": 5498.2,
+        "amount_of_credit": 17541,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

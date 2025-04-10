@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:49:27.984Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-audi-r8-wigan-lancashire-6498260",
+    "dealer_id": "1094",
+    "car_id": "26524740",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "R8",
+        "variant": "Spyder V10 plus",
+        "derivative": "R8 Spyder Spyder V10 plus 5.2 FSI quattro 610 PS S tronic",
+        "registration_number": "AF19GYR",
+        "registration_date": "26/03/2019",
+        "mileage": 17111,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 89495,
+        "total_price": 89495,
+        "deposit": 8949,
+        "balance": 80546,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2022.38,
+        "final_payment": 2023.38,
+        "total_amount_payable": 106024.24,
+        "total_charge_for_credit": 16529.24,
+        "amount_of_credit": 80546,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89495,
+        "total_price": 89495,
+        "deposit": 8949,
+        "balance": 80546,
+        "apr": 11.9,
+        "rate_of_interest": 6.11,
+        "term": 35,
+        "regular_payment": 1658.76,
+        "final_payment": 45065,
+        "total_amount_payable": 110411.84,
+        "total_charge_for_credit": 20916.84,
+        "amount_of_credit": 80546,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 29166,
+        "excess_mileage_rate": 118,
+        "residual": 45065,
+        "price_to_buy": 45065
+      }
+    ]
+  }
+]

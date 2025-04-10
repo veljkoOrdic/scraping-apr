@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:54:01.221Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jbqualitycarsales.co.uk/vehicle/nissan-primastar-20-dci-30-tekna-l2-euro-6-ss-5dr-in-leigh-lancashire-33cf5d01-b181-4149-8713-b2b800c80319",
+    "dealer_id": "2073",
+    "car_id": "27721523",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "PRIMASTAR",
+        "variant": "30 L2 DIESEL",
+        "derivative": "2.0 dCi 150ps H1 Tekna Van",
+        "registration_number": "YE24FDA",
+        "registration_date": "22/03/2024",
+        "mileage": 6000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26388,
+        "total_price": 26388,
+        "deposit": 6597,
+        "balance": 19791,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 382.01,
+        "final_payment": 7386,
+        "total_amount_payable": 32319.48,
+        "total_charge_for_credit": 5931.48,
+        "amount_of_credit": 19791,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.2,
+        "residual": 7386,
+        "price_to_buy": 7386
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26388,
+        "total_price": 26388,
+        "deposit": 6597,
+        "balance": 19791,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 505.65,
+        "final_payment": 506.65,
+        "total_amount_payable": 30869.2,
+        "total_charge_for_credit": 4481.2,
+        "amount_of_credit": 19791,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

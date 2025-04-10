@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:33:41.912Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.highamgarage.co.uk/vehicle/audi-a7-30-tdi-v6-45-s-line-sportback-tiptronic-quattro-euro-6-ss-5dr-in-rochester-44b3e6f2-84db-421c-acf5-b2a1010ce9f3",
+    "dealer_id": "1983",
+    "car_id": "27446184",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A7",
+        "variant": "DIESEL SPORTBACK",
+        "derivative": "45 TDI Quattro S Line Tip",
+        "registration_number": "KU69ZZO",
+        "registration_date": "05/10/2019",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24495,
+        "total_price": 24495,
+        "deposit": 2449.5,
+        "balance": 22045.5,
+        "apr": 15.3,
+        "rate_of_interest": 15.3,
+        "term": 53,
+        "regular_payment": 474.43,
+        "final_payment": 7020.59,
+        "total_amount_payable": 34140.45,
+        "total_charge_for_credit": 9645.45,
+        "amount_of_credit": 22045.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 6.04,
+        "residual": 7020.59,
+        "price_to_buy": 7020.59
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24495,
+        "total_price": 24495,
+        "deposit": 2449.5,
+        "balance": 22045.5,
+        "apr": 13.4,
+        "rate_of_interest": 7.08,
+        "term": 60,
+        "regular_payment": 497.49,
+        "final_payment": 497.49,
+        "total_amount_payable": 32298.9,
+        "total_charge_for_credit": 7803.9,
+        "amount_of_credit": 22045.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

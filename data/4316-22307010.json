@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T07:01:02.548Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.romansofstalbans.co.uk/used-ferrari-488-st-albans-hertfordshire-6419835",
+    "dealer_id": "4316",
+    "car_id": "22307010",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "488 GTB",
+        "variant": "COUPE",
+        "derivative": "2dr",
+        "registration_number": "LH67AOG",
+        "registration_date": "31/10/2017",
+        "mileage": 7500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 149995,
+        "total_price": 149995,
+        "deposit": 14999.5,
+        "balance": 134995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1999.93,
+        "final_payment": 82752.24,
+        "total_amount_payable": 191748.45,
+        "total_charge_for_credit": 41753.45,
+        "amount_of_credit": 134995.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 149995,
+        "total_price": 149995,
+        "deposit": 14999,
+        "balance": 134996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 2833.54,
+        "final_payment": 2843.54,
+        "total_amount_payable": 185021.4,
+        "total_charge_for_credit": 35026.4,
+        "amount_of_credit": 134996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

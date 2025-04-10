@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:22:21.714Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.m-hollybrookcarcentre.co.uk/used/cars/audi/q2/tfsi-s-line-1047",
+    "dealer_id": "3979",
+    "car_id": "26538370",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q2",
+        "variant": "ESTATE",
+        "derivative": "35 TFSI S Line S Tronic",
+        "registration_date": "01/03/2022",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21980,
+        "total_price": 21980,
+        "deposit": 2198,
+        "balance": 19782,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 424.11,
+        "final_payment": 425.11,
+        "total_amount_payable": 27645.6,
+        "total_charge_for_credit": 5665.6,
+        "amount_of_credit": 19782,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21980,
+        "total_price": 21980,
+        "deposit": 2198,
+        "balance": 19782,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 336.96,
+        "final_payment": 8037.57,
+        "total_amount_payable": 30116.21,
+        "total_charge_for_credit": 8136.21,
+        "amount_of_credit": 19782,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.2,
+        "residual": 8036.57,
+        "price_to_buy": 8037.57
+      }
+    ]
+  }
+]

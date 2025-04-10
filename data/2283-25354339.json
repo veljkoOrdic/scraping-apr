@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:22:15.465Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.electriccarsuk.com/used-land-rover-defender-preston-lancashire-6270026",
+    "dealer_id": "2283",
+    "car_id": "25354339",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "90 DIESEL",
+        "derivative": "3.0 D250 Hard Top SE",
+        "registration_number": "200BS",
+        "registration_date": "30/12/2023",
+        "mileage": 9000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 65988,
+        "total_price": 65988,
+        "deposit": 10998,
+        "balance": 54990,
+        "apr": 11.4,
+        "rate_of_interest": 10.84,
+        "term": 49,
+        "regular_payment": 1099.59,
+        "final_payment": 19146.25,
+        "total_amount_payable": 82924.57,
+        "total_charge_for_credit": 16936.57,
+        "amount_of_credit": 54990,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 19146.25,
+        "price_to_buy": 19146.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65988,
+        "total_price": 65988,
+        "deposit": 10998,
+        "balance": 54990,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 1154.28,
+        "final_payment": 1154.28,
+        "total_amount_payable": 80254.8,
+        "total_charge_for_credit": 14266.8,
+        "amount_of_credit": 54990,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

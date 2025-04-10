@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:07:14.968Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/mercedes-benz/amggt/4.0-v8-biturbo-r-premium-spds-dct-euro-6-ss-2dr/1349010/",
+    "dealer_id": "2153",
+    "car_id": "26690936",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "AMG GT",
+        "variant": "COUPE",
+        "derivative": "GT R Premium",
+        "registration_number": "HD18LKC",
+        "registration_date": "25/07/2018",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 105295,
+        "total_price": 105295,
+        "deposit": 10529.5,
+        "balance": 94765.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 39,
+        "regular_payment": 2153.6,
+        "final_payment": 37806.33,
+        "total_amount_payable": 130172.63,
+        "total_charge_for_credit": 24877.63,
+        "amount_of_credit": 94765.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 21.19,
+        "residual": 37806.33,
+        "price_to_buy": 37806.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 105295,
+        "total_price": 105295,
+        "deposit": 10529.5,
+        "balance": 94765.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 2421.31,
+        "final_payment": 2421.31,
+        "total_amount_payable": 126752.38,
+        "total_charge_for_credit": 21457.38,
+        "amount_of_credit": 94765.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

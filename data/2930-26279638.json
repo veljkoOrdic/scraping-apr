@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:39:37.168Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clairmontcarandvan.co.uk/used-renault-trafic-chatham-kent-6497136",
+    "dealer_id": "2930",
+    "car_id": "26279638",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "TRAFIC",
+        "variant": "LWB DIESEL",
+        "derivative": "LL30 ENERGY dCi 120 Business Van",
+        "registration_number": "WA20WEH",
+        "registration_date": "30/07/2020",
+        "mileage": 73000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11445,
+        "total_price": 11445,
+        "deposit": 1144,
+        "balance": 10301,
+        "apr": 12.6,
+        "rate_of_interest": 11.93,
+        "term": 48,
+        "regular_payment": 235.51,
+        "final_payment": 2186,
+        "total_amount_payable": 14634.48,
+        "total_charge_for_credit": 3189.48,
+        "amount_of_credit": 10301,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 1.07,
+        "residual": 2186,
+        "price_to_buy": 2186
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11445,
+        "total_price": 11445,
+        "deposit": 1144,
+        "balance": 10301,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 228.77,
+        "final_payment": 228.77,
+        "total_amount_payable": 14870.2,
+        "total_charge_for_credit": 3425.2,
+        "amount_of_credit": 10301,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

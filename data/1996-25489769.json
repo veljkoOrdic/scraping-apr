@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T01:36:16.460Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stmichaelsgarage.co.uk/used/cars/mazda/cx-5/kuro-edition-4215",
+    "dealer_id": "1996",
+    "car_id": "25489769",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-5",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "2.0 Kuro Edition",
+        "registration_number": "GN22LZK",
+        "registration_date": "31/03/2022",
+        "mileage": 15400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 443.57,
+        "final_payment": 453.57,
+        "total_amount_payable": 28923.7,
+        "total_charge_for_credit": 5928.7,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 344.74,
+        "final_payment": 11234.74,
+        "total_amount_payable": 29737.02,
+        "total_charge_for_credit": 6742.02,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 2000,
+        "contract_mileage": 8000,
+        "excess_mileage_rate": 12,
+        "residual": 10880,
+        "price_to_buy": 11234.74
+      }
+    ]
+  }
+]

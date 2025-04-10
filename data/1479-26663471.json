@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:33:36.932Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.libertygreencars.co.uk/used/cars/renault/zoe/zoe-i-gt-line-ze50-5dr-8287",
+    "dealer_id": "1479",
+    "car_id": "26663471",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "ZOE",
+        "variant": "HATCHBACK",
+        "derivative": "100kW i GT Line R135 50kWh",
+        "registration_number": "ML70XKS",
+        "registration_date": "30/09/2020",
+        "mileage": 31590,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9500,
+        "total_price": 9500,
+        "deposit": 950,
+        "balance": 8550,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 147.09,
+        "final_payment": 2620.48,
+        "total_amount_payable": 12248.79,
+        "total_charge_for_credit": 2748.79,
+        "amount_of_credit": 8550,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 1.86,
+        "residual": 2620.48,
+        "price_to_buy": 2620.48
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9500,
+        "total_price": 9500,
+        "deposit": 950,
+        "balance": 8550,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 179.47,
+        "final_payment": 179.47,
+        "total_amount_payable": 11718.2,
+        "total_charge_for_credit": 2218.2,
+        "amount_of_credit": 8550,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

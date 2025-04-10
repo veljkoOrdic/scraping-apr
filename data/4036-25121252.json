@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:27:44.422Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.whitescars.co.uk/used/cars/mini/hatch/2-0-cooper-s-sport-steptronic-euro-6-s-s-3dr-190",
+    "dealer_id": "4036",
+    "car_id": "25121252",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "AMG HATCHBACK",
+        "derivative": "A35 4Matic Premium Plus",
+        "registration_date": "28/10/2019",
+        "mileage": 47000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 435.12,
+        "final_payment": 10057.37,
+        "total_amount_payable": 33107.01,
+        "total_charge_for_credit": 7117.01,
+        "amount_of_credit": 23391,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.39,
+        "residual": 10057.37,
+        "price_to_buy": 10057.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 597.64,
+        "final_payment": 597.64,
+        "total_amount_payable": 31285.72,
+        "total_charge_for_credit": 5295.72,
+        "amount_of_credit": 23391,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T23:51:48.985Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beckside4x4.co.uk/used-ford-ranger-bradford-west-yorkshire-5972036",
+    "dealer_id": "1104",
+    "car_id": "24130309",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up D/Cab Wildtrak 3.0 EcoBlue V6 240",
+        "registration_number": "NX73MJJ",
+        "registration_date": "15/09/2023",
+        "mileage": 8500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44000,
+        "total_price": 44000,
+        "deposit": 4400,
+        "balance": 39600,
+        "apr": 13.9,
+        "rate_of_interest": 7,
+        "term": 48,
+        "regular_payment": 873.43,
+        "final_payment": 12783.43,
+        "total_amount_payable": 58234.64,
+        "total_charge_for_credit": 14234.64,
+        "amount_of_credit": 39600,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 11900,
+        "price_to_buy": 12783.43
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44000,
+        "total_price": 44000,
+        "deposit": 4400,
+        "balance": 39600,
+        "apr": 13.7,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 898.88,
+        "final_payment": 898.88,
+        "total_amount_payable": 58332.8,
+        "total_charge_for_credit": 14332.8,
+        "amount_of_credit": 39600,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:56:08.384Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sjdavidsonmotors.co.uk/used-cars/mercedes-benz-gle-400-amg-line-prem--d-4m-a/29527",
+    "dealer_id": "1108",
+    "car_id": "27168340",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLE",
+        "variant": "GLE-Class 167 SUV",
+        "derivative": "GLE 400d 4MATIC AMG Line 7 seats Prem+ MY22 2021",
+        "registration_number": "WG22TMX",
+        "registration_date": "31/07/2022",
+        "mileage": 28500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53995,
+        "total_price": 53995,
+        "deposit": 5399.5,
+        "balance": 48595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.34,
+        "term": 48,
+        "regular_payment": 841.24,
+        "final_payment": 23917.5,
+        "total_amount_payable": 69697.52,
+        "total_charge_for_credit": 15702.52,
+        "amount_of_credit": 48595.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 21.4,
+        "residual": 23917.5,
+        "price_to_buy": 23917.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53995,
+        "total_price": 53995,
+        "deposit": 5399.5,
+        "balance": 48595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1041.97,
+        "final_payment": 1042.97,
+        "total_amount_payable": 67918.7,
+        "total_charge_for_credit": 13923.7,
+        "amount_of_credit": 48595.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

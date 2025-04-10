@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T02:45:03.763Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.deepcarmotorco.co.uk/used-porsche-taycan-sheffield-south-yorkshire-6763110",
+    "dealer_id": "2483",
+    "car_id": "27315766",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "CROSS TURISMO",
+        "derivative": "350kW 4 93kWh",
+        "registration_number": "LN22XBB",
+        "registration_date": "03/03/2022",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 49900,
+        "total_price": 49900,
+        "deposit": 0,
+        "balance": 49900,
+        "apr": 16.8,
+        "rate_of_interest": 8.75,
+        "term": 60,
+        "regular_payment": 1203.91,
+        "final_payment": 1203.91,
+        "total_amount_payable": 72234.6,
+        "total_charge_for_credit": 22334.6,
+        "amount_of_credit": 49900,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49900,
+        "total_price": 49900,
+        "deposit": 0,
+        "balance": 49900,
+        "apr": 17.1,
+        "rate_of_interest": 8.75,
+        "term": 48,
+        "regular_payment": 1115.35,
+        "final_payment": 20781.6,
+        "total_amount_payable": 73203.05,
+        "total_charge_for_credit": 23303.05,
+        "amount_of_credit": 49900,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 19656.25,
+        "price_to_buy": 20781.6
+      }
+    ]
+  }
+]

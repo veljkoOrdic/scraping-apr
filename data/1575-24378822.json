@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:49:41.605Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sl-cars.co.uk/vehicle/ford-transit-custom-20-320-ecoblue-limited-auto-l2-h1-euro-6-ss-5dr-in-wiltshire-510796da-1242-40a2-8748-b1740167e7ac",
+    "dealer_id": "1575",
+    "car_id": "24378822",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "320 L2 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 170ps Low Roof Limited Van",
+        "registration_number": "MX71XCU",
+        "registration_date": "13/09/2021",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34794,
+        "total_price": 34794,
+        "deposit": 8698.5,
+        "balance": 26095.5,
+        "apr": 14.7,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 710.72,
+        "final_payment": 710.72,
+        "total_amount_payable": 42813.06,
+        "total_charge_for_credit": 8019.06,
+        "amount_of_credit": 26095.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34794,
+        "total_price": 34794,
+        "deposit": 8698.5,
+        "balance": 26095.5,
+        "apr": 14.6,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 622.26,
+        "final_payment": 6157.26,
+        "total_amount_payable": 44101.98,
+        "total_charge_for_credit": 9307.98,
+        "amount_of_credit": 26095.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5525,
+        "price_to_buy": 6157.26
+      }
+    ]
+  }
+]

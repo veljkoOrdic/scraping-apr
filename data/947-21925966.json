@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T23:35:41.163Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.seecarsderby.co.uk/used-volkswagen-polo-little-eaton-derbyshire-5464271",
+    "dealer_id": "947",
+    "car_id": "21925966",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 R-Line DSG",
+        "registration_number": "WR21DWX",
+        "registration_date": "07/05/2021",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 314.92,
+        "final_payment": 324.92,
+        "total_amount_payable": 20504.2,
+        "total_charge_for_credit": 4514.2,
+        "amount_of_credit": 14391,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 274.92,
+        "final_payment": 6256.17,
+        "total_amount_payable": 20776.41,
+        "total_charge_for_credit": 4786.41,
+        "amount_of_credit": 14391,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5971.25,
+        "price_to_buy": 6256.17
+      }
+    ]
+  }
+]

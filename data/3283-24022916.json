@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:06:16.009Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bamspecialistcars.co.uk/used-ferrari-612-clay-cross-derbyshire-5945350",
+    "dealer_id": "3283",
+    "car_id": "24022916",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "612",
+        "variant": "COUPE",
+        "derivative": "Scaglietti",
+        "registration_number": "FJ05OHO",
+        "registration_date": "01/03/2005",
+        "mileage": 29257,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 65000,
+        "total_price": 65000,
+        "deposit": 6500,
+        "balance": 58500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 866.67,
+        "final_payment": 35860.5,
+        "total_amount_payable": 83093.99,
+        "total_charge_for_credit": 18093.99,
+        "amount_of_credit": 58500,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65000,
+        "total_price": 65000,
+        "deposit": 6500,
+        "balance": 58500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1227.96,
+        "final_payment": 1227.96,
+        "total_amount_payable": 80177.6,
+        "total_charge_for_credit": 15177.6,
+        "amount_of_credit": 58500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

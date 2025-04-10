@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T05:27:37.400Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.whitescars.co.uk/used/cars/bmw/x1/2-0-20d-sport-auto-xdrive-euro-6-s-s-5dr-299",
+    "dealer_id": "4036",
+    "car_id": "27042173",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X1",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive 20d Sport Step",
+        "registration_date": "06/03/2019",
+        "mileage": 27000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18350,
+        "total_price": 18350,
+        "deposit": 1835,
+        "balance": 16515,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 34,
+        "regular_payment": 395.56,
+        "final_payment": 7717,
+        "total_amount_payable": 22605.48,
+        "total_charge_for_credit": 4255.48,
+        "amount_of_credit": 16515,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 28333,
+        "excess_mileage_rate": 13,
+        "residual": 7717,
+        "price_to_buy": 7717
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18350,
+        "total_price": 18350,
+        "deposit": 1835,
+        "balance": 16515,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 421.96,
+        "final_payment": 421.96,
+        "total_amount_payable": 22089.08,
+        "total_charge_for_credit": 3739.08,
+        "amount_of_credit": 16515,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

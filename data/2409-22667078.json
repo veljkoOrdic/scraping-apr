@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T02:34:40.986Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thegoodvancompany.co.uk/used-ford-transit-preston-lancashire-5634002",
+    "dealer_id": "2409",
+    "car_id": "22667078",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L5 DIESEL RWD",
+        "derivative": "2.0 TDCi 130ps Chassis Cab",
+        "registration_number": "MX69KUT",
+        "registration_date": "20/12/2019",
+        "mileage": 39019,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14148,
+        "total_price": 14148,
+        "deposit": 2358,
+        "balance": 11790,
+        "apr": 11.3,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 303.15,
+        "final_payment": 313.15,
+        "total_amount_payable": 16919.2,
+        "total_charge_for_credit": 2771.2,
+        "amount_of_credit": 11790,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14148,
+        "total_price": 14148,
+        "deposit": 2358,
+        "balance": 11790,
+        "apr": 11.3,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 303.4,
+        "final_payment": 303.4,
+        "total_amount_payable": 16921.2,
+        "total_charge_for_credit": 2773.2,
+        "amount_of_credit": 11790,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

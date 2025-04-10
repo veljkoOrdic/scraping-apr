@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T03:32:47.232Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fraserscars.co.uk/used/skoda/kodiaq/20-tsi-190-sport-line-4x4-5dr-dsg-7-seat/falkirk/stirlingshire/21574373",
+    "dealer_id": "2898",
+    "car_id": "27632788",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KODIAQ",
+        "variant": "ESTATE",
+        "derivative": "2.0 TSI 190 Sport Line 4x4 DSG [7 Seat]",
+        "registration_number": "SM70OZD",
+        "registration_date": "30/01/2021",
+        "mileage": 30125,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25695,
+        "total_price": 25695,
+        "deposit": 2569.5,
+        "balance": 23125.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 48,
+        "regular_payment": 361.26,
+        "final_payment": 12016,
+        "total_amount_payable": 31925.98,
+        "total_charge_for_credit": 6230.98,
+        "amount_of_credit": 23125.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 13,
+        "residual": 12015,
+        "price_to_buy": 12016
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25695,
+        "total_price": 25695,
+        "deposit": 2569.5,
+        "balance": 23125.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 475.04,
+        "final_payment": 476.04,
+        "total_amount_payable": 31072.9,
+        "total_charge_for_credit": 5377.9,
+        "amount_of_credit": 23125.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:33:47.608Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.twyford4x4.co.uk/used-land-rover-range-rover-evoque-winkfield-berkshire-6734136",
+    "dealer_id": "4109",
+    "car_id": "27193588",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D180 R-Dynamic HSE",
+        "registration_number": "OW19BWK",
+        "registration_date": "21/05/2019",
+        "mileage": 43000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399,
+        "balance": 21596,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 356.23,
+        "final_payment": 10895.55,
+        "total_amount_payable": 30393.59,
+        "total_charge_for_credit": 6398.59,
+        "amount_of_credit": 21596,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 5.76,
+        "residual": 10895.55,
+        "price_to_buy": 10895.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399,
+        "balance": 21596,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 453.34,
+        "final_payment": 454.34,
+        "total_amount_payable": 29600.4,
+        "total_charge_for_credit": 5605.4,
+        "amount_of_credit": 21596,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T05:29:31.727Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fteautos.co.uk/vehicle/ford-fiesta-van-16-tdci-sport-panel-van-3dr-diesel-manual-94-bhp-in-ashford-middlesex-04c3762d-fce8-4bfe-9dcb-1022cd6d6f9f",
+    "dealer_id": "4049",
+    "car_id": "27567801",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "DIESEL",
+        "derivative": "1.6 TDCi Sport Van",
+        "registration_number": "MM15GRX",
+        "registration_date": "30/06/2015",
+        "mileage": 70962,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5994,
+        "total_price": 5994,
+        "deposit": 1498.5,
+        "balance": 4495.5,
+        "apr": 14.6,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 103.76,
+        "final_payment": 113.76,
+        "total_amount_payable": 7734.1,
+        "total_charge_for_credit": 1740.1,
+        "amount_of_credit": 4495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5994,
+        "total_price": 5994,
+        "deposit": 1498.5,
+        "balance": 4495.5,
+        "apr": 14.6,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 103.98,
+        "final_payment": 103.98,
+        "total_amount_payable": 7737.3,
+        "total_charge_for_credit": 1743.3,
+        "amount_of_credit": 4495.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:22:20.208Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.electriccarsuk.com/used-porsche-taycan-preston-lancashire-5366652",
+    "dealer_id": "2283",
+    "car_id": "21502869",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "CROSS TURISMO",
+        "derivative": "500kW Turbo 93kWh",
+        "registration_number": "MT22XXA",
+        "registration_date": "01/03/2022",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67990,
+        "total_price": 67990,
+        "deposit": 6799,
+        "balance": 61191,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1102.38,
+        "final_payment": 20107.75,
+        "total_amount_payable": 91947.17,
+        "total_charge_for_credit": 23957.17,
+        "amount_of_credit": 61191,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 17.32,
+        "residual": 20107.75,
+        "price_to_buy": 20107.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67990,
+        "total_price": 67990,
+        "deposit": 6799,
+        "balance": 61191,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1284.45,
+        "final_payment": 1284.45,
+        "total_amount_payable": 83866,
+        "total_charge_for_credit": 15876,
+        "amount_of_credit": 61191,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

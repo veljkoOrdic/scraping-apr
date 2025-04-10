@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:56:18.538Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.iandkmotors.co.uk/used-volkswagen-t-roc-inverurie-aberdeenshire-6042524",
+    "dealer_id": "4230",
+    "car_id": "24416347",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "T-ROC",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 TDI 150 EVO R-Line",
+        "registration_number": "CA72JZP",
+        "registration_date": "28/10/2022",
+        "mileage": 27267,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 2299,
+        "balance": 20700,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 327.75,
+        "final_payment": 11240,
+        "total_amount_payable": 29271,
+        "total_charge_for_credit": 6272,
+        "amount_of_credit": 20700,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 11230,
+        "price_to_buy": 11240
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 2299,
+        "balance": 20700,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 519.57,
+        "final_payment": 529.57,
+        "total_amount_payable": 27248.36,
+        "total_charge_for_credit": 4249.36,
+        "amount_of_credit": 20700,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

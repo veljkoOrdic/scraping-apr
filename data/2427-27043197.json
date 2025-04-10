@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-10T02:38:06.471Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.victoriaparkgarage.co.uk/details/used-car-in-st.-helens/mercedes-benz/cla/2.1-cla220-cdi-amg-sport-coupe-7g-dct-euro-6-ss-4dr/1378658/",
+    "dealer_id": "2427",
+    "car_id": "27043197",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "CLA",
+        "variant": "DIESEL COUPE",
+        "derivative": "CLA 220 CDI AMG Sport Tip",
+        "registration_number": "WT15PZN",
+        "registration_date": "07/08/2015",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp_bh",
+        "name": "HP_BH",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 48,
+        "regular_payment": 309.11,
+        "final_payment": 309.11,
+        "total_amount_payable": 16136.78,
+        "total_charge_for_credit": 3141.78,
+        "amount_of_credit": 11695.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.8,
+        "rate_of_interest": 6.66,
+        "term": 48,
+        "regular_payment": 308.57,
+        "final_payment": 309.57,
+        "total_amount_payable": 16111.86,
+        "total_charge_for_credit": 3116.86,
+        "amount_of_credit": 11695.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

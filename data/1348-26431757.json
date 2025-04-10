@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:28:50.118Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.skcarsales.com/used/cars/kia/niro/1-6-gdi-4-dct-euro-6-s-s-5dr-153",
+    "dealer_id": "1348",
+    "car_id": "26431757",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi Hybrid 4 DCT",
+        "registration_number": "LF70NRJ",
+        "registration_date": "12/09/2020",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 268.83,
+        "final_payment": 6415.63,
+        "total_amount_payable": 24125.6,
+        "total_charge_for_credit": 5635.6,
+        "amount_of_credit": 16641,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.31,
+        "residual": 6415.63,
+        "price_to_buy": 6415.63
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 349.31,
+        "final_payment": 349.31,
+        "total_amount_payable": 22807.6,
+        "total_charge_for_credit": 4317.6,
+        "amount_of_credit": 16641,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

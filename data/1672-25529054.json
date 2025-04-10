@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:06:44.953Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goscoteservices.co.uk/vehicle/kia-sportage-16-t-gdi-gt-line-s-euro-6-ss-5dr-in-leicester-leicestershire-b0c08817-9a33-4108-8355-b1e300ae2acb",
+    "dealer_id": "1672",
+    "car_id": "25529054",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi ISG GT-Line S",
+        "registration_number": "WJ21KYR",
+        "registration_date": "01/03/2021",
+        "mileage": 15800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19895,
+        "total_price": 19895,
+        "deposit": 1989.5,
+        "balance": 17905.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 315.65,
+        "final_payment": 8473,
+        "total_amount_payable": 25613.7,
+        "total_charge_for_credit": 5718.7,
+        "amount_of_credit": 17905.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 8463,
+        "price_to_buy": 8473
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19895,
+        "total_price": 19895,
+        "deposit": 1989.5,
+        "balance": 17905.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 457.34,
+        "final_payment": 467.34,
+        "total_amount_payable": 23951.82,
+        "total_charge_for_credit": 4056.82,
+        "amount_of_credit": 17905.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

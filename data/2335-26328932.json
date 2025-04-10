@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-10T02:30:27.618Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ascars.co.uk/used/cars/mercedes-benz/sl-series/4-0-sl63-v8-biturbo-amg-performance-spds-mct-4matic-euro-6-s-s-2dr-69",
+    "dealer_id": "2335",
+    "car_id": "26328932",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SL CLASS",
+        "variant": "SL AMG CONVERTIBLE",
+        "derivative": "SL 63 4Matic+ Performance",
+        "registration_date": "12/07/2023",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 129990,
+        "total_price": 129990,
+        "deposit": 12999,
+        "balance": 116991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 2166.54,
+        "final_payment": 51308,
+        "total_amount_payable": 166134.38,
+        "total_charge_for_credit": 36144.38,
+        "amount_of_credit": 116991,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 118,
+        "residual": 51298,
+        "price_to_buy": 51308
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 129990,
+        "total_price": 129990,
+        "deposit": 12999,
+        "balance": 116991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2508.13,
+        "final_payment": 2518.13,
+        "total_amount_payable": 163496.8,
+        "total_charge_for_credit": 33506.8,
+        "amount_of_credit": 116991,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

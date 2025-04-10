@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T02:18:49.030Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.electriccarsuk.com/used-nissan-nv200-preston-lancashire-5461157",
+    "dealer_id": "2283",
+    "car_id": "21912284",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "e-NV200",
+        "variant": "ELECTRIC",
+        "derivative": "80kW Acenta Van 40kWh",
+        "registration_number": "ET19SBO",
+        "registration_date": "31/07/2019",
+        "mileage": 27000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11988,
+        "total_price": 11988,
+        "deposit": 1998,
+        "balance": 9990,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 40,
+        "regular_payment": 282.66,
+        "final_payment": 1388,
+        "total_amount_payable": 14409.74,
+        "total_charge_for_credit": 2421.74,
+        "amount_of_credit": 9990,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 7,
+        "residual": 1388,
+        "price_to_buy": 1388
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11988,
+        "total_price": 11988,
+        "deposit": 1998,
+        "balance": 9990,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 216.45,
+        "final_payment": 216.45,
+        "total_amount_payable": 14985,
+        "total_charge_for_credit": 2997,
+        "amount_of_credit": 9990,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

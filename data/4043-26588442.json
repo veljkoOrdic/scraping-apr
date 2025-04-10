@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T05:29:20.571Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lancersofbeckenham.co.uk/cars/fiat/500/1.2-1.2-69hp-lounge/1341016/",
+    "dealer_id": "4043",
+    "car_id": "26588442",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Lounge",
+        "registration_number": "BJ69TFF",
+        "registration_date": "26/09/2019",
+        "mileage": 19500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 899.9,
+        "balance": 8099.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 180.81,
+        "final_payment": 190.81,
+        "total_amount_payable": 11758.5,
+        "total_charge_for_credit": 2759.5,
+        "amount_of_credit": 8099.1,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

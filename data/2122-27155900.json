@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:59:18.022Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadstonecars.co.uk/details/used-car-in-bridgnorth/volkswagen/arteon/1.4-tsi-13kwh-elegance-shooting-brake-dsg-euro-6-ss-5dr/1387934/",
+    "dealer_id": "2122",
+    "car_id": "27155900",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ARTEON",
+        "variant": "SHOOTING BRAKE",
+        "derivative": "1.4 TSI eHybrid Elegance DSG",
+        "registration_number": "FN73PKY",
+        "registration_date": "31/10/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 438.59,
+        "final_payment": 13997,
+        "total_amount_payable": 38048.32,
+        "total_charge_for_credit": 8058.32,
+        "amount_of_credit": 26991,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.23,
+        "residual": 13997,
+        "price_to_buy": 13997
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 677.7,
+        "final_payment": 677.7,
+        "total_amount_payable": 35528.6,
+        "total_charge_for_credit": 5538.6,
+        "amount_of_credit": 26991,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

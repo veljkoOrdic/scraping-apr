@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T13:33:41.579Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechmotorco.co.uk/details/used-car-in-congleton/bentley/bentayga/4.0-v8-auto-4wd-euro-6-ss-5dr/1336614/",
+    "dealer_id": "244",
+    "car_id": "26524802",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "ESTATE",
+        "derivative": "4.0 V8",
+        "registration_number": "LJ70VAO",
+        "registration_date": "11/09/2020",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79990,
+        "total_price": 79990,
+        "deposit": 7999,
+        "balance": 71991,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1144.58,
+        "final_payment": 36280,
+        "total_amount_payable": 99218.84,
+        "total_charge_for_credit": 19228.84,
+        "amount_of_credit": 71991,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 36270,
+        "price_to_buy": 36280
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79990,
+        "total_price": 79990,
+        "deposit": 7999,
+        "balance": 71991,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1478.82,
+        "final_payment": 1488.82,
+        "total_amount_payable": 96738.2,
+        "total_charge_for_credit": 16748.2,
+        "amount_of_credit": 71991,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

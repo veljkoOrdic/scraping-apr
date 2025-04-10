@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T00:01:40.170Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.g5cars.co.uk/details/used-car-in-leeds/volkswagen/golf/1.8t-gti-5dr/1299315/",
+    "dealer_id": "1130",
+    "car_id": "26073474",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 T GTi [180]",
+        "registration_number": "WJ03CJX",
+        "registration_date": "20/03/2003",
+        "mileage": 71000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5290,
+        "total_price": 5290,
+        "deposit": 10,
+        "balance": 5280,
+        "apr": 18,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 130.19,
+        "final_payment": 130.19,
+        "total_amount_payable": 7821.4,
+        "total_charge_for_credit": 2531.4,
+        "amount_of_credit": 5280,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

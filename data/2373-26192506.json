@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T02:33:04.706Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lcccarsales.co.uk/details/used-car-in-shipley/mercedes-benz/cclass/3.0-c320-cdi-v6-elegance-g-tronic-euro-4-4dr/1308528/",
+    "dealer_id": "2373",
+    "car_id": "26192506",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "C320 CDI Elegance",
+        "registration_number": "JE08GEE",
+        "registration_date": "16/05/2008",
+        "mileage": 86860,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 13.1,
+        "rate_of_interest": 5,
+        "term": 60,
+        "regular_payment": 100.95,
+        "final_payment": 100.95,
+        "total_amount_payable": 6556.5,
+        "total_charge_for_credit": 1561.5,
+        "amount_of_credit": 4495.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

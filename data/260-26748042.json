@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T22:40:17.286Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stevenagemotorcentre.co.uk/vehicle/lexus-ux-300e-543kwh-auto-5dr-in-stevenage-hertfordshire-f2d398ae-469d-4832-ab20-b264007eac56",
+    "dealer_id": "260",
+    "car_id": "26748042",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lexus",
+        "model": "UX",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "300e 150kW 54.3 kWh E-CVT",
+        "registration_number": "SA71YHO",
+        "registration_date": "02/12/2021",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16489,
+        "total_price": 16489,
+        "deposit": 1648.9,
+        "balance": 14840.1,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 321.54,
+        "final_payment": 322.54,
+        "total_amount_payable": 20942.3,
+        "total_charge_for_credit": 4453.3,
+        "amount_of_credit": 14840.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16489,
+        "total_price": 16489,
+        "deposit": 1648.9,
+        "balance": 14840.1,
+        "apr": 6,
+        "rate_of_interest": 2.97,
+        "term": 48,
+        "regular_payment": 202.14,
+        "final_payment": 7876,
+        "total_amount_payable": 19227.62,
+        "total_charge_for_credit": 2738.62,
+        "amount_of_credit": 14840.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.4,
+        "residual": 7875,
+        "price_to_buy": 7876
+      }
+    ]
+  }
+]

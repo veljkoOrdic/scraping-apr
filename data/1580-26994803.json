@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:50:25.255Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.millendmotors.co.uk/cars/hyundai/i40/1.7-crdi-blue-drive-se-nav-tourer-euro-6-ss-5dr/1374459/",
+    "dealer_id": "1580",
+    "car_id": "26994803",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I40",
+        "variant": "DIESEL TOURER",
+        "derivative": "1.7 CRDi [115] Blue Drive SE Nav",
+        "registration_number": "BL67NKP",
+        "registration_date": "30/01/2018",
+        "mileage": 67431,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8250,
+        "total_price": 8250,
+        "deposit": 825,
+        "balance": 7425,
+        "apr": 9.9,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 163.32,
+        "final_payment": 1507.5,
+        "total_amount_payable": 10008.54,
+        "total_charge_for_credit": 1758.54,
+        "amount_of_credit": 7425,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 1507.5,
+        "price_to_buy": 1507.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8250,
+        "total_price": 8250,
+        "deposit": 825,
+        "balance": 7425,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 155.86,
+        "final_payment": 155.86,
+        "total_amount_payable": 10176.6,
+        "total_charge_for_credit": 1926.6,
+        "amount_of_credit": 7425,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

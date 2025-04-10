@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:25:15.136Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jeanpierrelimited.co.uk/details/car-in-southampton,/skoda/fabia/1.0-tsi-se-l-euro-6-ss-5dr/1406783/",
+    "dealer_id": "1908",
+    "car_id": "27373841",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "FABIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI SE L",
+        "registration_number": "WR22PPK",
+        "registration_date": "10/06/2022",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14790,
+        "total_price": 14790,
+        "deposit": 1479,
+        "balance": 13311,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 229.88,
+        "final_payment": 6347,
+        "total_amount_payable": 18860.24,
+        "total_charge_for_credit": 4070.24,
+        "amount_of_credit": 13311,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.21,
+        "residual": 6347,
+        "price_to_buy": 6347
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14790,
+        "total_price": 14790,
+        "deposit": 1479,
+        "balance": 13311,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 282.42,
+        "final_payment": 282.42,
+        "total_amount_payable": 18424.2,
+        "total_charge_for_credit": 3634.2,
+        "amount_of_credit": 13311,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

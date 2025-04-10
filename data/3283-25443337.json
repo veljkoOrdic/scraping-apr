@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T04:06:10.248Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bamspecialistcars.co.uk/used-ferrari-360-clay-cross-derbyshire-6292062",
+    "dealer_id": "3283",
+    "car_id": "25443337",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "360M",
+        "variant": "COUPE",
+        "derivative": "Modena",
+        "registration_number": "F360YEW",
+        "registration_date": "01/03/2003",
+        "mileage": 39274,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 6299.5,
+        "balance": 56695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 839.93,
+        "final_payment": 34754.34,
+        "total_amount_payable": 80530.55,
+        "total_charge_for_credit": 17535.55,
+        "amount_of_credit": 56695.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 6299,
+        "balance": 56696,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1190.09,
+        "final_payment": 1190.09,
+        "total_amount_payable": 77704.4,
+        "total_charge_for_credit": 14709.4,
+        "amount_of_credit": 56696,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

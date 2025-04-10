@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-09T12:46:57.490Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.riversideautos.co.uk/product/984138-toyota-rav4-2-5-vvt-h-icon-cvt-euro-6-s-s-5dr/",
+    "dealer_id": "79",
+    "car_id": "25908028",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "RAV4",
+        "variant": "ESTATE",
+        "derivative": "2.5 VVT-i Hybrid Icon CVT 2WD",
+        "registration_number": "AK72KUW",
+        "registration_date": "21/11/2022",
+        "mileage": 23255,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24000,
+        "total_price": 24000,
+        "deposit": 1000,
+        "balance": 23000,
+        "apr": 12.2,
+        "rate_of_interest": 5.99,
+        "term": 48,
+        "regular_payment": 424.32,
+        "final_payment": 11123.07,
+        "total_amount_payable": 32066.11,
+        "total_charge_for_credit": 8066.11,
+        "amount_of_credit": 23000,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 10688.75,
+        "price_to_buy": 11123.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24000,
+        "total_price": 24000,
+        "deposit": 1000,
+        "balance": 23000,
+        "apr": 12.1,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 505.72,
+        "final_payment": 505.72,
+        "total_amount_payable": 31343.2,
+        "total_charge_for_credit": 7343.2,
+        "amount_of_credit": 23000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

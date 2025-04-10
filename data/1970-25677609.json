@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:29:27.046Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.northamptoncarcompany.co.uk/vehicle/audi-q3-15-tfsi-cod-35-s-line-sportback-s-tronic-euro-6-ss-5dr-in-northampton-b6a03ba3-5751-4be3-a719-b1f00108f992",
+    "dealer_id": "1970",
+    "car_id": "25677609",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "SPORTBACK",
+        "derivative": "35 TFSI S Line S Tronic",
+        "registration_number": "KV20XEW",
+        "registration_date": "30/07/2020",
+        "mileage": 87609,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 354.68,
+        "final_payment": 5889.75,
+        "total_amount_payable": 28865.37,
+        "total_charge_for_credit": 8370.37,
+        "amount_of_credit": 18445.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.12,
+        "residual": 5888.75,
+        "price_to_buy": 5889.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 412.12,
+        "final_payment": 413.12,
+        "total_amount_payable": 26777.7,
+        "total_charge_for_credit": 6282.7,
+        "amount_of_credit": 18445.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

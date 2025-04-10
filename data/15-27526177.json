@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:26:04.193Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/kia/ev9/149kw-air-998kwh-5dr-auto-estate/huddersfield/west-yorkshire/21567495",
+    "dealer_id": "15",
+    "car_id": "27526177",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "EV9",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "149kW Air 99.8kWh",
+        "registration_number": "LG74OAA",
+        "registration_date": "02/09/2024",
+        "mileage": 3397,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53998,
+        "total_price": 53998,
+        "deposit": 5399.8,
+        "balance": 48598.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1020.16,
+        "final_payment": 1030.16,
+        "total_amount_payable": 66619.4,
+        "total_charge_for_credit": 12621.4,
+        "amount_of_credit": 48598.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53998,
+        "total_price": 53998,
+        "deposit": 5399.8,
+        "balance": 48598.2,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 778.39,
+        "final_payment": 25885,
+        "total_amount_payable": 68647.52,
+        "total_charge_for_credit": 14649.52,
+        "amount_of_credit": 48598.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 25875,
+        "price_to_buy": 25885
+      }
+    ]
+  }
+]

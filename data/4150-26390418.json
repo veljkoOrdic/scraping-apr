@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T05:42:14.625Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jccarcentre.co.uk/used-land-rover-range-rover-sport-svr-newcastle-upon-tyne-northumberland-6525928",
+    "dealer_id": "4150",
+    "car_id": "26390418",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 P575 S/C SVR Carbon Edition",
+        "registration_number": "LO21YRP",
+        "registration_date": "30/07/2021",
+        "mileage": 25894,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 63999,
+        "total_price": 63999,
+        "deposit": 6399,
+        "balance": 57600,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 1496.99,
+        "final_payment": 1497.99,
+        "total_amount_payable": 78255.52,
+        "total_charge_for_credit": 14256.52,
+        "amount_of_credit": 57600,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 63999,
+        "total_price": 63999,
+        "deposit": 6399,
+        "balance": 57600,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 1081.32,
+        "final_payment": 26159,
+        "total_amount_payable": 83380.04,
+        "total_charge_for_credit": 19381.04,
+        "amount_of_credit": 57600,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 9,
+        "residual": 26158,
+        "price_to_buy": 26159
+      }
+    ]
+  }
+]

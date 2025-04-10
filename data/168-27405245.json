@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-09T12:52:34.582Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.martoncars.co.uk/cars/audi/a1/1.2-tfsi-sport-euro-5-ss-3dr/1409756/15",
+    "dealer_id": "168",
+    "car_id": "27405245",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 TFSI Sport",
+        "registration_number": "LX61XUK",
+        "registration_date": "17/09/2011",
+        "mileage": 100000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4650,
+        "total_price": 4650,
+        "deposit": 465,
+        "balance": 4185,
+        "apr": 18.8,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 104.87,
+        "final_payment": 104.87,
+        "total_amount_payable": 6757.2,
+        "total_charge_for_credit": 2107.2,
+        "amount_of_credit": 4185,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

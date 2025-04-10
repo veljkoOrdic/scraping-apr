@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T00:33:34.319Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rmcsalescentre.co.uk/used-mercedes-benz-a-class-newcastle-upon-tyne-tyne-and-wear-6601483",
+    "dealer_id": "1476",
+    "car_id": "26850693",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "A-Class 177 Hatchback",
+        "derivative": "A200d AMG Line Auto 5dr MY20.5 2019",
+        "registration_number": "WN21MPF",
+        "registration_date": "25/03/2021",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 1899,
+        "balance": 17100,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 332.93,
+        "final_payment": 7652.93,
+        "total_amount_payable": 25199.64,
+        "total_charge_for_credit": 6200.64,
+        "amount_of_credit": 17100,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7310,
+        "price_to_buy": 7652.93
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 1899,
+        "balance": 17100,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 381.9,
+        "final_payment": 391.9,
+        "total_amount_payable": 24823,
+        "total_charge_for_credit": 5824,
+        "amount_of_credit": 17100,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

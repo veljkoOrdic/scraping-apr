@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T23:49:40.047Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-land-rover-range-rover-wigan-lancashire-6777445",
+    "dealer_id": "1094",
+    "car_id": "27404411",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D350 First Edition",
+        "registration_number": "EY72NMK",
+        "registration_date": "01/09/2022",
+        "mileage": 13827,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 97995,
+        "total_price": 97995,
+        "deposit": 9799,
+        "balance": 88196,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2214.45,
+        "final_payment": 2215.45,
+        "total_amount_payable": 116093.6,
+        "total_charge_for_credit": 18098.6,
+        "amount_of_credit": 88196,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 97995,
+        "total_price": 97995,
+        "deposit": 9799,
+        "balance": 88196,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 48,
+        "regular_payment": 1451.06,
+        "final_payment": 44685,
+        "total_amount_payable": 124135.88,
+        "total_charge_for_credit": 26140.88,
+        "amount_of_credit": 88196,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 38.9,
+        "residual": 44685,
+        "price_to_buy": 44685
+      }
+    ]
+  }
+]

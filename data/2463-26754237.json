@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-10T02:39:51.178Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pyramidqualitycars.co.uk/used/commercials/vauxhall/vivaro/1-6-cdti-2900-biturbo-ecotec-l1-h1-euro-6-s-s-5dr-258",
+    "dealer_id": "2463",
+    "car_id": "26754237",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "VIVARO",
+        "variant": "L1 DIESEL",
+        "derivative": "2900 1.6CDTI BiTurbo 125PS H1 Van",
+        "registration_number": "FJ18XAL",
+        "registration_date": "31/03/2018",
+        "mileage": 150025,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5999,
+        "total_price": 5999,
+        "deposit": 599.9,
+        "balance": 5399.1,
+        "apr": 15.5,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 126.96,
+        "final_payment": 126.96,
+        "total_amount_payable": 8217.5,
+        "total_charge_for_credit": 2218.5,
+        "amount_of_credit": 5399.1,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5999,
+        "total_price": 5999,
+        "deposit": 599.9,
+        "balance": 5399.1,
+        "apr": 15.4,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 126.74,
+        "final_payment": 136.74,
+        "total_amount_payable": 8214.3,
+        "total_charge_for_credit": 2215.3,
+        "amount_of_credit": 5399.1,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

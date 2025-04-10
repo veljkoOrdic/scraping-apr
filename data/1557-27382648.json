@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T00:44:53.038Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pgitradecentre.co.uk/vehicle/volkswagen-polo-10-tsi-beats-euro-6-ss-5dr-in-farnham-surrey-1da64415-2a2c-4f83-b5fa-b29d00a4c869",
+    "dealer_id": "1557",
+    "car_id": "27382648",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 Beats",
+        "registration_number": "BC21EZR",
+        "registration_date": "10/07/2021",
+        "mileage": 26000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349.5,
+        "balance": 12145.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 205.57,
+        "final_payment": 3976.5,
+        "total_amount_payable": 17454.63,
+        "total_charge_for_credit": 3959.63,
+        "amount_of_credit": 12145.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 2.89,
+        "residual": 3976.5,
+        "price_to_buy": 3976.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349.5,
+        "balance": 12145.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 254.95,
+        "final_payment": 254.95,
+        "total_amount_payable": 16646.5,
+        "total_charge_for_credit": 3151.5,
+        "amount_of_credit": 12145.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

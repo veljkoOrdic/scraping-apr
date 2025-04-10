@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T12:25:54.624Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/kia/sorento/16-t-gdi-phev-4-5dr-auto-station-wagon/burnley/lancashire/21557653",
+    "dealer_id": "15",
+    "car_id": "27353282",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "STATION WAGON",
+        "derivative": "1.6 T-GDi PHEV 4",
+        "registration_number": "LG74WSD",
+        "registration_date": "30/09/2024",
+        "mileage": 1869,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48499,
+        "total_price": 48499,
+        "deposit": 4849.9,
+        "balance": 43649.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 916.27,
+        "final_payment": 926.27,
+        "total_amount_payable": 59836.1,
+        "total_charge_for_credit": 11337.1,
+        "amount_of_credit": 43649.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48499,
+        "total_price": 48499,
+        "deposit": 4849.9,
+        "balance": 43649.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 688.63,
+        "final_payment": 23865,
+        "total_amount_payable": 61769.14,
+        "total_charge_for_credit": 13270.14,
+        "amount_of_credit": 43649.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 23855,
+        "price_to_buy": 23865
+      }
+    ]
+  }
+]

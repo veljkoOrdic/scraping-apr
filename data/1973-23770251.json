@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T01:31:34.241Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pyloncarsales.co.uk/details/used-car-in-tipton/volvo/v60/2.0-d4-inscription-pro-auto-euro-6-ss-5dr/1121883/",
+    "dealer_id": "1973",
+    "car_id": "23770251",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "V60",
+        "variant": "DIESEL SPORTSWAGON",
+        "derivative": "2.0 D4 [190] Inscription Pro",
+        "registration_number": "VN19JTY",
+        "registration_date": "29/03/2019",
+        "mileage": 93000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 47,
+        "regular_payment": 298.34,
+        "final_payment": 4430.6,
+        "total_amount_payable": 19704.14,
+        "total_charge_for_credit": 4205.14,
+        "amount_of_credit": 13949.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 5.31,
+        "residual": 4429.6,
+        "price_to_buy": 4430.6
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 292.79,
+        "final_payment": 293.79,
+        "total_amount_payable": 19118.3,
+        "total_charge_for_credit": 3619.3,
+        "amount_of_credit": 13949.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-09T22:44:27.918Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rcscarsales.co.uk/vehicle/mazda-mazda3-20-e-skyactiv-g-mhev-sport-lux-euro-6-ss-5dr-in-worcester-worcestershire-f58e09ec-e26e-418d-88d3-b22d010dbe05",
+    "dealer_id": "281",
+    "car_id": "26296233",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "3",
+        "variant": "MAZDA HATCHBACK",
+        "derivative": "2.0 e-Skyactiv G MHEV Sport Lux",
+        "registration_number": "BL21LRF",
+        "registration_date": "11/06/2021",
+        "mileage": 22341,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 48,
+        "regular_payment": 243.52,
+        "final_payment": 6255,
+        "total_amount_payable": 19494.86,
+        "total_charge_for_credit": 3995.86,
+        "amount_of_credit": 13949.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.1,
+        "residual": 6255,
+        "price_to_buy": 6255
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 292.81,
+        "final_payment": 293.81,
+        "total_amount_payable": 19119.5,
+        "total_charge_for_credit": 3620.5,
+        "amount_of_credit": 13949.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]
