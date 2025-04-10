@@ -10,7 +10,7 @@ class FileStorage {
   constructor(options = {}) {
     this.options = {
       logDir: 'data',
-      filenameFormat: 'data-{date}-{hash}.json',
+      filenameFormat: '{hash}.json',
       ...options
     };
 
@@ -42,12 +42,7 @@ class FileStorage {
         hash = crypto.createHash('md5').update(url).digest('hex');
       }
 
-      // Build filename based on date and hash
-      const now = new Date();
-      const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD
-
       const filename = this.options.filenameFormat
-          .replace('{date}', dateStr)
           .replace('{hash}', hash);
 
       const filePath = path.join(this.options.logDir, filename);

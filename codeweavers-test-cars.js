@@ -54,8 +54,5 @@ async function processCSV(filePath) {
         });
 }
 
-// rows in csv: car_url, dealer_id, car_id
-// processCSV('data.csv');
-// processCSV('/home/velja/Downloads/test_codeweaver_finance.csv');
 const path = process.argv[2];
 processCSV(path);
