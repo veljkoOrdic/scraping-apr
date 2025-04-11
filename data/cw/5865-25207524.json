@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:51:39.574Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.revitupuk.com/vehicle-details/used-volkswagen-golf-tsi-gti-tcr-for-sale-in-chester-u1993/",
+    "dealer_id": "5865",
+    "car_id": "25207524",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 290 GTI TCR DSG",
+        "registration_number": "LF20NOU",
+        "registration_date": "02/03/2020",
+        "mileage": 60500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 47,
+        "regular_payment": 443.64,
+        "final_payment": 7678,
+        "total_amount_payable": 30041.3,
+        "total_charge_for_credit": 6046.3,
+        "amount_of_credit": 21595.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 18,
+        "residual": 7668,
+        "price_to_buy": 7678
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 462.86,
+        "final_payment": 472.86,
+        "total_amount_payable": 30181.1,
+        "total_charge_for_credit": 6186.1,
+        "amount_of_credit": 21595.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

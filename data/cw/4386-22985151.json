@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:06:03.839Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2023-bmw-2-series-active-tourer-225xe-163kwh-m-sport-dct-4wd-euro-6-5-door",
+    "dealer_id": "4386",
+    "car_id": "22985151",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "2 Series",
+        "variant": "",
+        "derivative": "225e M Sport Active Tourer",
+        "registration_number": "WN73MDO",
+        "registration_date": "05/09/2023",
+        "mileage": 11601,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28000,
+        "total_price": 28000,
+        "deposit": 5600,
+        "balance": 22400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 368.22,
+        "final_payment": 13275.34,
+        "total_amount_payable": 36181.68,
+        "total_charge_for_credit": 8181.68,
+        "amount_of_credit": 22400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8.67,
+        "residual": 13275.34,
+        "price_to_buy": 13275.34
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28000,
+        "total_price": 28000,
+        "deposit": 5600,
+        "balance": 22400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 582.15,
+        "final_payment": 583.15,
+        "total_amount_payable": 33544.2,
+        "total_charge_for_credit": 5544.2,
+        "amount_of_credit": 22400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

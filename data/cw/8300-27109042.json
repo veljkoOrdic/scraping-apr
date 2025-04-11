@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:51:09.798Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.countygaragegroup.co.uk/used/kia/sorento/22-crdi-3-5dr-dct/barnstaple/devon/21542369",
+    "dealer_id": "8300",
+    "car_id": "27109042",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "DIESEL STATION WAGON",
+        "derivative": "2.2 CRDi 3 DCT",
+        "registration_number": "WF24MVO",
+        "registration_date": "31/05/2024",
+        "mileage": 6997,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42195,
+        "total_price": 42195,
+        "deposit": 4219.5,
+        "balance": 37975.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 695.84,
+        "final_payment": 17728.88,
+        "total_amount_payable": 55348.7,
+        "total_charge_for_credit": 13153.7,
+        "amount_of_credit": 37975.5,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 17728.88,
+        "price_to_buy": 17728.88
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42195,
+        "total_price": 42195,
+        "deposit": 4219.5,
+        "balance": 37975.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 986.97,
+        "final_payment": 986.97,
+        "total_amount_payable": 51594.06,
+        "total_charge_for_credit": 9399.06,
+        "amount_of_credit": 37975.5,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

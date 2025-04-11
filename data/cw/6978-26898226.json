@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T13:01:00.704Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vennsmotorcompany.co.uk/cars/volkswagen/up/1.0-high-up/1366764/",
+    "dealer_id": "6978",
+    "car_id": "26898226",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "UP",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 90PS High Up",
+        "registration_number": "FE67CAU",
+        "registration_date": "27/09/2017",
+        "mileage": 29470,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 1000,
+        "balance": 8495,
+        "apr": 14.3,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 195.33,
+        "final_payment": 195.33,
+        "total_amount_payable": 12719.8,
+        "total_charge_for_credit": 3224.8,
+        "amount_of_credit": 8495,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

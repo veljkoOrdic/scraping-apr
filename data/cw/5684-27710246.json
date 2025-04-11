@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:55:06.234Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-3-0-40i-mht-m-sport-auto-xdrive-euro-6-s-s-5dr-pj74xkc",
+    "dealer_id": "5684",
+    "car_id": "27710246",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X7",
+        "variant": "",
+        "derivative": "X7 xDrive40i M Sport",
+        "registration_number": "PJ74XKC",
+        "registration_date": "10/01/2025",
+        "mileage": 2525,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 83699,
+        "total_price": 83699,
+        "deposit": 13154.85,
+        "balance": 70544.15,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1771.51,
+        "final_payment": 1772.51,
+        "total_amount_payable": 98188.33,
+        "total_charge_for_credit": 14489.33,
+        "amount_of_credit": 70544.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 83699,
+        "total_price": 83699,
+        "deposit": 13154.85,
+        "balance": 70544.15,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1064.99,
+        "final_payment": 42107.79,
+        "total_amount_payable": 105317.17,
+        "total_charge_for_credit": 21618.17,
+        "amount_of_credit": 70544.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 21.56,
+        "residual": 42107.79,
+        "price_to_buy": 42107.79
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:10:59.316Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.topcarstelford.co.uk/details/used-car-in-telford-shropshire/mercedes-benz/cclass/2.1-c220d-amg-line-premium-plus-g-tronic+-euro-6-ss-4dr/1338664/",
+    "dealer_id": "5262",
+    "car_id": "26559283",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "C220d AMG Line Premium Plus 9G-Tronic",
+        "registration_number": "KW18XER",
+        "registration_date": "08/06/2018",
+        "mileage": 91189,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 26,
+        "regular_payment": 367.11,
+        "final_payment": 6746,
+        "total_amount_payable": 17056.14,
+        "total_charge_for_credit": 2061.14,
+        "amount_of_credit": 13495.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 12,
+        "residual": 6736,
+        "price_to_buy": 6746
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 283.18,
+        "final_payment": 293.18,
+        "total_amount_payable": 18500.3,
+        "total_charge_for_credit": 3505.3,
+        "amount_of_credit": 13495.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:36:21.235Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pre5tigecars.co.uk/vehicle/mercedes-v300-20-v300d-amg-line-g-tronic-euro-6-ss-5dr-8-seat-xlwb-in-birmingham-west-midlands-cfd7a0cc-a8b8-4c68-bf78-b1c601585947",
+    "dealer_id": "5735",
+    "car_id": "25252118",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "V-Class",
+        "variant": "DIESEL ESTATE",
+        "derivative": "V300 d AMG Line 9G-Tronic [Extra Long]",
+        "registration_number": "LP69CEJ",
+        "registration_date": "01/01/2020",
+        "mileage": 75641,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 56,
+        "regular_payment": 1189.39,
+        "final_payment": 15693.33,
+        "total_amount_payable": 88109.28,
+        "total_charge_for_credit": 18114.28,
+        "amount_of_credit": 62995.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 11.16,
+        "residual": 15693.33,
+        "price_to_buy": 15693.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1322.38,
+        "final_payment": 1323.38,
+        "total_amount_payable": 86343.3,
+        "total_charge_for_credit": 16348.3,
+        "amount_of_credit": 62995.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

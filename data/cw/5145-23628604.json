@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T02:34:06.112Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.greenlightmotors.co.uk/vehicle/bmw-118i-15-m-sport-euro-6-ss-3dr-in-blackburn-lancashire-7fc310b0-ff00-4cdd-bc2e-b13000b2ffca",
+    "dealer_id": "5145",
+    "car_id": "23628604",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "HATCHBACK",
+        "derivative": "118i [1.5] M Sport",
+        "registration_number": "SW16JEJ",
+        "registration_date": "21/05/2016",
+        "mileage": 60943,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1000,
+        "balance": 9495,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 216.46,
+        "final_payment": 216.46,
+        "total_amount_payable": 13987.6,
+        "total_charge_for_credit": 3492.6,
+        "amount_of_credit": 9495,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

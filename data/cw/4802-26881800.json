@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:55:40.339Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/mercedes-a180d-15-amg-line-premium-plus-7g-dct-euro-6-ss-5dr-in-huddersfield-west-yorkshire-f1152f5e-aebd-4a73-bcff-b26f01697082",
+    "dealer_id": "4802",
+    "car_id": "26881800",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "A180d AMG Line Premium Plus",
+        "registration_number": "YE18VNH",
+        "registration_date": "25/05/2018",
+        "mileage": 60000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.56,
+        "term": 48,
+        "regular_payment": 314.91,
+        "final_payment": 5647.5,
+        "total_amount_payable": 22247.77,
+        "total_charge_for_credit": 4252.77,
+        "amount_of_credit": 16195.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5647.5,
+        "price_to_buy": 5647.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 406.71,
+        "final_payment": 406.71,
+        "total_amount_payable": 21321.58,
+        "total_charge_for_credit": 3326.58,
+        "amount_of_credit": 16195.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

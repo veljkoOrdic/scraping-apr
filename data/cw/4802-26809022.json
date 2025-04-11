@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:57:58.696Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/bmw-m3-30-biturbo-competition-steptronic-euro-6-ss-4dr-in-huddersfield-west-yorkshire-6901743d-583c-4f45-a993-b26900dc5fbb",
+    "dealer_id": "4802",
+    "car_id": "26809022",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3",
+        "variant": "SALOON",
+        "derivative": "M3 Competition Step",
+        "registration_number": "LP21HHD",
+        "registration_date": "11/06/2021",
+        "mileage": 1483,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.99,
+        "term": 48,
+        "regular_payment": 1037.91,
+        "final_payment": 26077.5,
+        "total_amount_payable": 81358.77,
+        "total_charge_for_credit": 16363.77,
+        "amount_of_credit": 58495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 23,
+        "residual": 26077.5,
+        "price_to_buy": 26077.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1468.96,
+        "final_payment": 1468.96,
+        "total_amount_payable": 77009.58,
+        "total_charge_for_credit": 12014.58,
+        "amount_of_credit": 58495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

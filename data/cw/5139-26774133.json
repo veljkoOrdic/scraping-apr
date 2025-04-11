@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:33:02.889Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regentgarage.com/used/volkswagen/touareg/30-v6-tdi-4motion-286-black-edition-5dr-tip-auto/criccieth/gwynedd/21519564",
+    "dealer_id": "5139",
+    "car_id": "26774133",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 V6 TDI 4Motion 286 Black Edition Tip",
+        "registration_number": "CX74JEJ",
+        "registration_date": "05/11/2024",
+        "mileage": 1400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 66900,
+        "total_price": 66900,
+        "deposit": 6940,
+        "balance": 59960,
+        "apr": 11.3,
+        "rate_of_interest": 11.34,
+        "term": 48,
+        "regular_payment": 1072.15,
+        "final_payment": 29215,
+        "total_amount_payable": 86546.05,
+        "total_charge_for_credit": 19646.05,
+        "amount_of_credit": 59960,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 9,
+        "residual": 29205,
+        "price_to_buy": 29215
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 66900,
+        "total_price": 66900,
+        "deposit": 6940,
+        "balance": 59960,
+        "apr": 11.3,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 1541.97,
+        "final_payment": 1551.97,
+        "total_amount_payable": 80964.56,
+        "total_charge_for_credit": 14064.56,
+        "amount_of_credit": 59960,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

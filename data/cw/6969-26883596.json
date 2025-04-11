@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:55:57.497Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.intercarsltd.co.uk/details/used-van-in-leicester/ford/transitcustom/2.0-tdci-310-limited-l2-h2-5dr/1364860/",
+    "dealer_id": "6969",
+    "car_id": "26883596",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "310 L2 DIESEL FWD",
+        "derivative": "2.0 TDCi 170ps Low Roof Limited Van",
+        "registration_number": "KM66SDO",
+        "registration_date": "25/10/2016",
+        "mileage": 80000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 0,
+        "balance": 14995,
+        "apr": 9.9,
+        "rate_of_interest": 5.59,
+        "term": 42,
+        "regular_payment": 387.88,
+        "final_payment": 2025,
+        "total_amount_payable": 17928.08,
+        "total_charge_for_credit": 2933.08,
+        "amount_of_credit": 14995,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 12,
+        "residual": 2025,
+        "price_to_buy": 2025
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 0,
+        "balance": 14995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 376.5,
+        "final_payment": 376.5,
+        "total_amount_payable": 18072,
+        "total_charge_for_credit": 3077,
+        "amount_of_credit": 14995,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

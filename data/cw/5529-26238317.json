@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T04:51:49.475Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.openroadcars.co.uk/cars/porsche/taycan/performance-plus-93.4kwh-4s/1312537/",
+    "dealer_id": "5529",
+    "car_id": "26238317",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SPORT TURISMO",
+        "derivative": "420kW 4S 93kWh",
+        "registration_number": "101D",
+        "registration_date": "15/05/2023",
+        "mileage": 7000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64980,
+        "total_price": 64980,
+        "deposit": 6498,
+        "balance": 58482,
+        "apr": 13.1,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 1311.46,
+        "final_payment": 1311.46,
+        "total_amount_payable": 85185.6,
+        "total_charge_for_credit": 20205.6,
+        "amount_of_credit": 58482,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

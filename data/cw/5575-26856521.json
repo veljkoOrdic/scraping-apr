@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:10:44.108Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-bmw-i4-m50-for-sale-in-cleckheaton-west-yorkshire-u1399/",
+    "dealer_id": "5575",
+    "car_id": "26856521",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "i4",
+        "variant": "",
+        "derivative": "i4 M50",
+        "registration_number": "YL73OLH",
+        "registration_date": "23/02/2024",
+        "mileage": 1800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 716.73,
+        "final_payment": 15588.26,
+        "total_amount_payable": 62574.83,
+        "total_charge_for_credit": 15579.83,
+        "amount_of_credit": 42295.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 12.42,
+        "residual": 15588.26,
+        "price_to_buy": 15588.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.89,
+        "term": 60,
+        "regular_payment": 906.68,
+        "final_payment": 916.68,
+        "total_amount_payable": 59110.3,
+        "total_charge_for_credit": 12115.3,
+        "amount_of_credit": 42295.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

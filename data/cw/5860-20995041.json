@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T09:47:56.144Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jct9.com/vehicle/vauxhall-mokka-se-edition-t-in-shepperton-middlesex-05656f6e-4afc-4e9c-b230-b1b600f4c427",
+    "dealer_id": "5860",
+    "car_id": "20995041",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "MOKKA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo 100 SE Edition",
+        "registration_number": "GY22GHO",
+        "registration_date": "31/03/2022",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13444,
+        "total_price": 13444,
+        "deposit": 1344.4,
+        "balance": 12099.6,
+        "apr": 12.3,
+        "rate_of_interest": 5.74,
+        "term": 60,
+        "regular_payment": 267.04,
+        "final_payment": 267.04,
+        "total_amount_payable": 17366.8,
+        "total_charge_for_credit": 3922.8,
+        "amount_of_credit": 12099.6,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13444,
+        "total_price": 13444,
+        "deposit": 1344.4,
+        "balance": 12099.6,
+        "apr": 12.3,
+        "rate_of_interest": 5.74,
+        "term": 48,
+        "regular_payment": 232.76,
+        "final_payment": 5342.76,
+        "total_amount_payable": 17626.88,
+        "total_charge_for_credit": 4182.88,
+        "amount_of_credit": 12099.6,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5100,
+        "price_to_buy": 5342.76
+      }
+    ]
+  }
+]

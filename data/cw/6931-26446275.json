@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:40:04.734Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thelovelycarcompany.co.uk/cars/tesla/modelx/dual-motor-long-range/1330546/",
+    "dealer_id": "6931",
+    "car_id": "26446275",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL X",
+        "variant": "HATCHBACK",
+        "derivative": "Long Range [7 Seat]",
+        "registration_number": "GF70AUO",
+        "registration_date": "30/09/2020",
+        "mileage": 39273,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 11,
+        "rate_of_interest": 5.78,
+        "term": 60,
+        "regular_payment": 676.53,
+        "final_payment": 676.53,
+        "total_amount_payable": 44090.8,
+        "total_charge_for_credit": 9100.8,
+        "amount_of_credit": 31491,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 11,
+        "rate_of_interest": 10.48,
+        "term": 48,
+        "regular_payment": 528.34,
+        "final_payment": 16605,
+        "total_amount_payable": 45464.32,
+        "total_charge_for_credit": 10474.32,
+        "amount_of_credit": 31491,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.5,
+        "residual": 16605,
+        "price_to_buy": 16605
+      }
+    ]
+  }
+]

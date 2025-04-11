@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:25:25.594Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chrishodgsoncarsalesltd.co.uk/used-cars/volkswagen-golf-r-2-0-tsi-4motion-296-bhp-dsg-automatic-only-24158-miles-fsh/",
+    "dealer_id": "5630",
+    "car_id": "27724475",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 300 R 4MOTION DSG",
+        "registration_number": "FV19FTF",
+        "registration_date": "17/03/2019",
+        "mileage": 24158,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.54,
+        "term": 48,
+        "regular_payment": 466.24,
+        "final_payment": 8167.5,
+        "total_amount_payable": 32730.28,
+        "total_charge_for_credit": 6235.28,
+        "amount_of_credit": 23845.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8167.5,
+        "price_to_buy": 8167.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 554.47,
+        "final_payment": 554.47,
+        "total_amount_payable": 35917.7,
+        "total_charge_for_credit": 9422.7,
+        "amount_of_credit": 23845.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

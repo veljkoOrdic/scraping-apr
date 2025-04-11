@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-10T22:55:13.409Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.grimsbycarsltd.co.uk/details/used-van-in-grimsby/volkswagen/transporter/2.0-tdi-t32-highline-crew-van-dsg-fwd-lwb-high-roof-euro-6-ss-5dr/1234790/",
+    "dealer_id": "4352",
+    "car_id": "25291812",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T32 LWB DIESEL",
+        "derivative": "2.0 TDI 150 Highline Kombi Van DSG",
+        "registration_number": "MK70LBY",
+        "registration_date": "03/09/2020",
+        "mileage": 19000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 62388,
+        "total_price": 62388,
+        "deposit": 10398,
+        "balance": 51990,
+        "apr": 9.7,
+        "rate_of_interest": 4.9,
+        "term": 60,
+        "regular_payment": 1086.06,
+        "final_payment": 1086.06,
+        "total_amount_payable": 75561.6,
+        "total_charge_for_credit": 13173.6,
+        "amount_of_credit": 51990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 62388,
+        "total_price": 62388,
+        "deposit": 10398,
+        "balance": 51990,
+        "apr": 9.8,
+        "rate_of_interest": 4.9,
+        "term": 48,
+        "regular_payment": 1180.67,
+        "final_payment": 8288.17,
+        "total_amount_payable": 74177.66,
+        "total_charge_for_credit": 11789.66,
+        "amount_of_credit": 51990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7097.5,
+        "price_to_buy": 8288.17
+      }
+    ]
+  }
+]

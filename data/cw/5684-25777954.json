@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:49:53.282Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/mini-countryman-2-0-cooper-s-classic-steptronic-euro-6-s-s-5dr-ro70cpy-2",
+    "dealer_id": "5684",
+    "car_id": "25777954",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Countryman",
+        "variant": "",
+        "derivative": "Countryman Cooper S Classic",
+        "registration_number": "RO70CPY",
+        "registration_date": "25/09/2020",
+        "mileage": 16078,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20698,
+        "total_price": 20698,
+        "deposit": 3504.7,
+        "balance": 17193.3,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 446.83,
+        "final_payment": 447.83,
+        "total_amount_payable": 24953.54,
+        "total_charge_for_credit": 4255.54,
+        "amount_of_credit": 17193.3,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20698,
+        "total_price": 20698,
+        "deposit": 3504.7,
+        "balance": 17193.3,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 289.17,
+        "final_payment": 9801.4,
+        "total_amount_payable": 26897.09,
+        "total_charge_for_credit": 6199.09,
+        "amount_of_credit": 17193.3,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 5.43,
+        "residual": 9801.4,
+        "price_to_buy": 9801.4
+      }
+    ]
+  }
+]

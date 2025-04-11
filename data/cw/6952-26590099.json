@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:46:43.302Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.watsonsmotorworks.co.uk/cars/ford/kuga/1.5-kuga-titanium-edition-5-door-1.5l-ecoboost-150ps-fwd-6-speed-manual/1341445/",
+    "dealer_id": "6952",
+    "car_id": "26590099",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "ESTATE",
+        "derivative": "1.5 EcoBoost 150 Titanium Edition",
+        "registration_number": "AE73KXZ",
+        "registration_date": "18/09/2023",
+        "mileage": 6514,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 12.3,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 412.41,
+        "final_payment": 9666.16,
+        "total_amount_payable": 31448.93,
+        "total_charge_for_credit": 7453.93,
+        "amount_of_credit": 21595.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9243.75,
+        "price_to_buy": 9666.16
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 12.2,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 475.49,
+        "final_payment": 475.49,
+        "total_amount_payable": 30928.9,
+        "total_charge_for_credit": 6933.9,
+        "amount_of_credit": 21595.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:11:48.934Z",
+    "source": "codeweavers_calculator",
+    "url": "https://trackssuzuki.co.uk/vehicle/UE8613",
+    "dealer_id": "5381",
+    "car_id": "27205942",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 Boosterjet 48V Hybrid Ultra",
+        "registration_number": "WA74 RVR",
+        "registration_date": "01/09/2024",
+        "mileage": 7289,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21499,
+        "total_price": 21499,
+        "deposit": 6450,
+        "balance": 15049,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 37,
+        "regular_payment": 220.7,
+        "final_payment": 10488,
+        "total_amount_payable": 24883.2,
+        "total_charge_for_credit": 3384.2,
+        "amount_of_credit": 15049,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 18500,
+        "excess_mileage_rate": 4.8,
+        "residual": 10478,
+        "price_to_buy": 10488
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21499,
+        "total_price": 21499,
+        "deposit": 6450,
+        "balance": 15049,
+        "apr": 8.9,
+        "rate_of_interest": 8.52,
+        "term": 37,
+        "regular_payment": 464.18,
+        "final_payment": 464.18,
+        "total_amount_payable": 23624.66,
+        "total_charge_for_credit": 2125.66,
+        "amount_of_credit": 15049,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:59:22.549Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.idealcarltd.co.uk/details/used-car-in-nottingham/lamborghini/urus/4.0-v8-biturbo-auto-4wd-euro-6-5dr/1422947/",
+    "dealer_id": "5779",
+    "car_id": "27564078",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "MX19DCO",
+        "registration_date": "20/07/2019",
+        "mileage": 70000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 169990,
+        "total_price": 169990,
+        "deposit": 16999,
+        "balance": 152991,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 51,
+        "regular_payment": 3058.52,
+        "final_payment": 50735.75,
+        "total_amount_payable": 220660.75,
+        "total_charge_for_credit": 50670.75,
+        "amount_of_credit": 152991,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 42500,
+        "excess_mileage_rate": 34.86,
+        "residual": 50734.75,
+        "price_to_buy": 50735.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 169990,
+        "total_price": 169990,
+        "deposit": 49990,
+        "balance": 120000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 2518.88,
+        "final_payment": 2519.88,
+        "total_amount_payable": 201123.8,
+        "total_charge_for_credit": 31133.8,
+        "amount_of_credit": 120000,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

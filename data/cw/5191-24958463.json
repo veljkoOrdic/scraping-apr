@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:53:53.632Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.maldoncars.co.uk/vehicle/kia-picanto-10-dpi-2-amt-euro-6-ss-5dr-in-maldon-essex-9fa67c14-ee16-44a5-8de4-b1ab01237cad",
+    "dealer_id": "5191",
+    "car_id": "24958463",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 2 [4 seats]",
+        "registration_number": "EK22XKL",
+        "registration_date": "16/06/2022",
+        "mileage": 27000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 189.47,
+        "final_payment": 3217.67,
+        "total_amount_payable": 15495.4,
+        "total_charge_for_credit": 4505.4,
+        "amount_of_credit": 9891,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 2.56,
+        "residual": 3217.67,
+        "price_to_buy": 3217.67
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 225.49,
+        "final_payment": 225.49,
+        "total_amount_payable": 14628.4,
+        "total_charge_for_credit": 3638.4,
+        "amount_of_credit": 9891,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

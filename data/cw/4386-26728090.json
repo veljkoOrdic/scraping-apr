@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:13:08.776Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2025-porsche-911-3",
+    "dealer_id": "4386",
+    "car_id": "26728090",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA COUPE",
+        "derivative": "2dr PDK",
+        "registration_number": "CF74LTZ",
+        "registration_date": "09/01/2025",
+        "mileage": 2877,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 130990,
+        "total_price": 130990,
+        "deposit": 12500,
+        "balance": 118490,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2287.21,
+        "final_payment": 70357.5,
+        "total_amount_payable": 162909.85,
+        "total_charge_for_credit": 31919.85,
+        "amount_of_credit": 118490,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 28.2,
+        "residual": 70347.5,
+        "price_to_buy": 70357.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 130990,
+        "total_price": 130990,
+        "deposit": 12500,
+        "balance": 118490,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 3887.79,
+        "final_payment": 3897.79,
+        "total_amount_payable": 152470.44,
+        "total_charge_for_credit": 21480.44,
+        "amount_of_credit": 118490,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:33:29.178Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ronskinnerandsons.co.uk/used-audi-q3-tredegar-gwent-6713120",
+    "dealer_id": "5283",
+    "car_id": "27119329",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "ESTATE",
+        "derivative": "35 TFSI Black Edition S Tronic",
+        "registration_number": "WN22TZB",
+        "registration_date": "06/04/2022",
+        "mileage": 13841,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31499,
+        "total_price": 31499,
+        "deposit": 6299,
+        "balance": 25200,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 49,
+        "regular_payment": 430.27,
+        "final_payment": 11860,
+        "total_amount_payable": 38811.96,
+        "total_charge_for_credit": 7312.96,
+        "amount_of_credit": 25200,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 11850,
+        "price_to_buy": 11860
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31499,
+        "total_price": 31499,
+        "deposit": 6299,
+        "balance": 25200,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 528.97,
+        "final_payment": 528.97,
+        "total_amount_payable": 38037.2,
+        "total_charge_for_credit": 6538.2,
+        "amount_of_credit": 25200,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

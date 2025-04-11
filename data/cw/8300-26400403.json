@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:50:36.907Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.countygaragegroup.co.uk/used/kia/sportage/16t-gdi-48v-isg-3-5dr-dct/barnstaple/devon/21478830",
+    "dealer_id": "8300",
+    "car_id": "26400403",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi 48V ISG 3 DCT",
+        "registration_number": "LD24KKX",
+        "registration_date": "18/03/2024",
+        "mileage": 11172,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28800,
+        "total_price": 28800,
+        "deposit": 2880,
+        "balance": 25920,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 471.68,
+        "final_payment": 12299.5,
+        "total_amount_payable": 37820.14,
+        "total_charge_for_credit": 9020.14,
+        "amount_of_credit": 25920,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 12299.5,
+        "price_to_buy": 12299.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28800,
+        "total_price": 28800,
+        "deposit": 2880,
+        "balance": 25920,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 673.65,
+        "final_payment": 673.65,
+        "total_amount_payable": 35215.2,
+        "total_charge_for_credit": 6415.2,
+        "amount_of_credit": 25920,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

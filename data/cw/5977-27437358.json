@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:46:10.066Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wrcarsales.co.uk/used-audi-s3-bradford-west-yorkshire-6790692",
+    "dealer_id": "5977",
+    "car_id": "27437358",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SALOON",
+        "derivative": "S3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "EK22GZF",
+        "registration_date": "29/03/2022",
+        "mileage": 31560,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 7199,
+        "balance": 28796,
+        "apr": 12.5,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 507.81,
+        "final_payment": 15690.31,
+        "total_amount_payable": 46756.38,
+        "total_charge_for_credit": 10761.38,
+        "amount_of_credit": 28796,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 15172.5,
+        "price_to_buy": 15690.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 7199,
+        "balance": 28796,
+        "apr": 12.5,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 637.57,
+        "final_payment": 637.57,
+        "total_amount_payable": 45453.2,
+        "total_charge_for_credit": 9458.2,
+        "amount_of_credit": 28796,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

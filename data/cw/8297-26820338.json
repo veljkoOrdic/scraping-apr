@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:45:56.039Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/audi-a3-10-tfsi-30-s-line-sportback-5dr-petrol-s-tronic-euro-6-ss-110-ps-in-wigan-lancashire-bc4ed904-5343-4f5a-bf38-070284458ffc",
+    "dealer_id": "8297",
+    "car_id": "26820338",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "30 TFSI S Line S Tronic",
+        "registration_number": "DG21GOK",
+        "registration_date": "04/03/2021",
+        "mileage": 18003,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 10.9,
+        "rate_of_interest": 10.36,
+        "term": 48,
+        "regular_payment": 482.68,
+        "final_payment": 482.68,
+        "total_amount_payable": 25267.64,
+        "total_charge_for_credit": 4277.64,
+        "amount_of_credit": 18891,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 325.64,
+        "final_payment": 9377.29,
+        "total_amount_payable": 27107.01,
+        "total_charge_for_credit": 6117.01,
+        "amount_of_credit": 18891,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 9377.29,
+        "price_to_buy": 9377.29
+      }
+    ]
+  }
+]

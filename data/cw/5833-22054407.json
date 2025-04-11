@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T07:16:01.603Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.elmmotorcompany.co.uk/details/used-car-in-plymouth/landrover/discovery4/3.0-sd-v6-hse-auto-4wd-euro-5-ss-5dr/873390/",
+    "dealer_id": "5833",
+    "car_id": "22054407",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 SDV6 HSE",
+        "registration_number": "SJ14LUP",
+        "registration_date": "14/03/2014",
+        "mileage": 103293,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 344.62,
+        "final_payment": 354.62,
+        "total_amount_payable": 18001.26,
+        "total_charge_for_credit": 3506.26,
+        "amount_of_credit": 13045.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

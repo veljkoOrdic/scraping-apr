@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T22:52:33.141Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cavectracentre.com/cars/landrover/rangerover/5.0-p525-v8-autobiography/1356320/",
+    "dealer_id": "4343",
+    "car_id": "26789432",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "5.0 V8 S/Cbiography",
+        "registration_number": "E19SRV",
+        "registration_date": "15/11/2018",
+        "mileage": 64090,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44290,
+        "total_price": 44290,
+        "deposit": 4429,
+        "balance": 39861,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 43,
+        "regular_payment": 850.65,
+        "final_payment": 16832.79,
+        "total_amount_payable": 56989.09,
+        "total_charge_for_credit": 12699.09,
+        "amount_of_credit": 39861,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 9.68,
+        "residual": 16832.79,
+        "price_to_buy": 16832.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44290,
+        "total_price": 44290,
+        "deposit": 4429,
+        "balance": 39861,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 890.56,
+        "final_payment": 890.56,
+        "total_amount_payable": 57862.6,
+        "total_charge_for_credit": 13572.6,
+        "amount_of_credit": 39861,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

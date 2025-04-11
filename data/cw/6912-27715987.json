@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-04-11T09:54:03.693Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.askmotors.co.uk/used-hyundai-i10-walsall-west-midlands-6859135",
+    "dealer_id": "6912",
+    "car_id": "27715987",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I10",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Premium",
+        "registration_number": "YM65YBY",
+        "registration_date": "29/02/2016",
+        "mileage": 96260,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp_mannisland",
+        "name": "HP_MANNISLAND",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 1000,
+        "balance": 3999,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 58,
+        "regular_payment": 87.98,
+        "final_payment": 88.98,
+        "total_amount_payable": 6103.84,
+        "total_charge_for_credit": 1104.84,
+        "amount_of_credit": 3999,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_finset",
+        "name": "HP_FINSET",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 1000,
+        "balance": 3999,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 82.15,
+        "final_payment": 83.15,
+        "total_amount_payable": 5930,
+        "total_charge_for_credit": 931,
+        "amount_of_credit": 3999,
+        "lender": "Finset Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_close",
+        "name": "HP_CLOSE",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 1000,
+        "balance": 3999,
+        "apr": 9.9,
+        "rate_of_interest": 5.15,
+        "term": 60,
+        "regular_payment": 83.81,
+        "final_payment": 93.81,
+        "total_amount_payable": 6038.6,
+        "total_charge_for_credit": 1039.6,
+        "amount_of_credit": 3999,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

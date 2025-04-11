@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:31:05.384Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ronskinnerandsons.co.uk/used-fiat-500-tredegar-gwent-6427547",
+    "dealer_id": "5283",
+    "car_id": "26042817",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Mild Hybrid",
+        "registration_number": "EU23NOF",
+        "registration_date": "31/05/2023",
+        "mileage": 18993,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 1999,
+        "balance": 8000,
+        "apr": 13.9,
+        "rate_of_interest": 13.06,
+        "term": 49,
+        "regular_payment": 154.63,
+        "final_payment": 3820,
+        "total_amount_payable": 13241.24,
+        "total_charge_for_credit": 3242.24,
+        "amount_of_credit": 8000,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 3810,
+        "price_to_buy": 3820
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 1999,
+        "balance": 8000,
+        "apr": 13.9,
+        "rate_of_interest": 13.06,
+        "term": 60,
+        "regular_payment": 182.38,
+        "final_payment": 182.38,
+        "total_amount_payable": 12941.8,
+        "total_charge_for_credit": 2942.8,
+        "amount_of_credit": 8000,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

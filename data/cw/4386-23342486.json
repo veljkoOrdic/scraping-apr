@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:05:50.252Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2023-bmw-1-series-118i-m-sport-lcp-euro-6-5-door",
+    "dealer_id": "4386",
+    "car_id": "23342486",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "118i M Sport",
+        "registration_number": "WR73NUA",
+        "registration_date": "18/10/2023",
+        "mileage": 6125,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23888,
+        "total_price": 23888,
+        "deposit": 5600,
+        "balance": 18288,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 281.85,
+        "final_payment": 11952.08,
+        "total_amount_payable": 30799.03,
+        "total_charge_for_credit": 6911.03,
+        "amount_of_credit": 18288,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 9.18,
+        "residual": 11952.08,
+        "price_to_buy": 11952.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23888,
+        "total_price": 23888,
+        "deposit": 5600,
+        "balance": 18288,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 475.28,
+        "final_payment": 476.28,
+        "total_amount_payable": 28414.44,
+        "total_charge_for_credit": 4526.44,
+        "amount_of_credit": 18288,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

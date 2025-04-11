@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:21:16.112Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brooklyn-hyundai.co.uk/used-car-details/used-hyundai-i20-5-dr-10-t-gdi-100ps-premium-4-hatchback-silver-manual-petrol/id-4417620211188/",
+    "dealer_id": "5584",
+    "car_id": "26510403",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I20",
+        "variant": "HATCHBACK",
+        "derivative": "1.0T GDi 48V MHD Premium",
+        "registration_number": "FT21KHH",
+        "registration_date": "12/08/2021",
+        "mileage": 10523,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 2899,
+        "balance": 11596,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 296.28,
+        "final_payment": 296.28,
+        "total_amount_payable": 17120.44,
+        "total_charge_for_credit": 2625.44,
+        "amount_of_credit": 11596,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 2899,
+        "balance": 11596,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 211.61,
+        "final_payment": 5055.93,
+        "total_amount_payable": 18112.21,
+        "total_charge_for_credit": 3617.21,
+        "amount_of_credit": 11596,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.5,
+        "residual": 5055.93,
+        "price_to_buy": 5055.93
+      }
+    ]
+  }
+]

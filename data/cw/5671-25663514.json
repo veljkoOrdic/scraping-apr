@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:44:45.687Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kenjervis.com/used-car-details/used-kia-sportage-16-t-gdi-gt-line-suv-5dr-petr-suv-red-manual-petrol/id-14549/",
+    "dealer_id": "5671",
+    "car_id": "25663514",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi ISG GT-Line",
+        "registration_number": "BT73ZSX",
+        "registration_date": "20/11/2023",
+        "mileage": 2600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 5599,
+        "balance": 22396,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 384.03,
+        "final_payment": 12331,
+        "total_amount_payable": 35979.41,
+        "total_charge_for_credit": 7984.41,
+        "amount_of_credit": 22396,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 17,
+        "residual": 12330,
+        "price_to_buy": 12331
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 5599,
+        "balance": 22396,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 582.05,
+        "final_payment": 583.05,
+        "total_amount_payable": 33538.4,
+        "total_charge_for_credit": 5543.4,
+        "amount_of_credit": 22396,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

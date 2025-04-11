@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T04:49:19.018Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.openroadcars.co.uk/cars/ford/s-max/1.6-tdci-zetec/1392157/",
+    "dealer_id": "5529",
+    "car_id": "27198034",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "S-MAX",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 TDCi Zetec [Start Stop]",
+        "registration_number": "VFZ2537",
+        "registration_date": "10/12/2014",
+        "mileage": 99000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4480,
+        "total_price": 4480,
+        "deposit": 448,
+        "balance": 4032,
+        "apr": 18,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 99.51,
+        "final_payment": 99.51,
+        "total_amount_payable": 6418.6,
+        "total_charge_for_credit": 1938.6,
+        "amount_of_credit": 4032,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

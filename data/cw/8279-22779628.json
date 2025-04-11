@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:56:47.520Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sdm-group.co.uk/used-cars/mazda-mx-30-35-5kwh-makoto-auto-5dr-sn73gtz",
+    "dealer_id": "8279",
+    "car_id": "22779628",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "107kW Makoto 35.5kWh",
+        "registration_number": "SN73GTZ",
+        "registration_date": "01/03/2023",
+        "mileage": 2985,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16895,
+        "total_price": 16895,
+        "deposit": 1689.5,
+        "balance": 15205.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 401.68,
+        "final_payment": 411.68,
+        "total_amount_payable": 20980.14,
+        "total_charge_for_credit": 4085.14,
+        "amount_of_credit": 15205.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16895,
+        "total_price": 16895,
+        "deposit": 1689.5,
+        "balance": 15205.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 283.3,
+        "final_payment": 7368,
+        "total_amount_payable": 22655.9,
+        "total_charge_for_credit": 5760.9,
+        "amount_of_credit": 15205.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 7358,
+        "price_to_buy": 7368
+      }
+    ]
+  }
+]

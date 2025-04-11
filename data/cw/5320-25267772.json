@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:04:27.852Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sportifmotorgroup.co.uk/used/abarth/500e/42kwh-auto-3dr/aylesbury/buckinghamshire/21362517",
+    "dealer_id": "5320",
+    "car_id": "25267772",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Abarth",
+        "model": "500",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "114kW 42.2kWh",
+        "registration_number": "WM23SYO",
+        "registration_date": "28/06/2023",
+        "mileage": 596,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22211,
+        "total_price": 22211,
+        "deposit": 4442.2,
+        "balance": 17768.8,
+        "apr": 11.9,
+        "rate_of_interest": 5.8,
+        "term": 48,
+        "regular_payment": 313.17,
+        "final_payment": 9045,
+        "total_amount_payable": 28519.36,
+        "total_charge_for_credit": 6308.36,
+        "amount_of_credit": 17768.8,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.9,
+        "residual": 9045,
+        "price_to_buy": 9045
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22211,
+        "total_price": 22211,
+        "deposit": 4442.2,
+        "balance": 17768.8,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 461.84,
+        "final_payment": 462.84,
+        "total_amount_payable": 26611.52,
+        "total_charge_for_credit": 4400.52,
+        "amount_of_credit": 17768.8,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

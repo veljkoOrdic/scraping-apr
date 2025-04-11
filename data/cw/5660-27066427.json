@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:43:25.423Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rx-motors.com/details/used-car-in-doncaster/volvo/xc60/2.0-b5-mhev-r-design-auto-awd-euro-6-ss-5dr/1380689/",
+    "dealer_id": "5660",
+    "car_id": "27066427",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC60",
+        "variant": "ESTATE",
+        "derivative": "2.0 B5P [250] R DESIGN Geartronic",
+        "registration_number": "RJ70OCY",
+        "registration_date": "26/01/2021",
+        "mileage": 48200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25795,
+        "total_price": 25795,
+        "deposit": 2579.5,
+        "balance": 23215.5,
+        "apr": 12.7,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 455.62,
+        "final_payment": 10006.87,
+        "total_amount_payable": 34000.51,
+        "total_charge_for_credit": 8205.51,
+        "amount_of_credit": 23215.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9541.25,
+        "price_to_buy": 10006.87
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25795,
+        "total_price": 25795,
+        "deposit": 2579.5,
+        "balance": 23215.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 613.68,
+        "final_payment": 613.68,
+        "total_amount_payable": 32036.14,
+        "total_charge_for_credit": 6241.14,
+        "amount_of_credit": 23215.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:52:53.471Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-x4m-3-0i-competition-auto-xdrive-euro-6-s-s-5dr-lc72jjz-2",
+    "dealer_id": "5684",
+    "car_id": "26474883",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X4m",
+        "variant": "",
+        "derivative": "X4 M Competition",
+        "registration_number": "LC72JJZ",
+        "registration_date": "28/11/2022",
+        "mileage": 15948,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56999,
+        "total_price": 56999,
+        "deposit": 9149.85,
+        "balance": 47849.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 763.35,
+        "final_payment": 29734.94,
+        "total_amount_payable": 74762.24,
+        "total_charge_for_credit": 17763.24,
+        "amount_of_credit": 47849.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.09,
+        "residual": 29734.94,
+        "price_to_buy": 29734.94
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56999,
+        "total_price": 56999,
+        "deposit": 9149.85,
+        "balance": 47849.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1243.57,
+        "final_payment": 1244.57,
+        "total_amount_payable": 68842.21,
+        "total_charge_for_credit": 11843.21,
+        "amount_of_credit": 47849.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:55:54.346Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.maldoncars.co.uk/vehicle/land-rover-range-rover-30-sd-v6-vogue-auto-4wd-euro-6-ss-5dr-in-maldon-essex-9cb1858d-880e-4efe-b8c0-b2b3012453d3",
+    "dealer_id": "5191",
+    "car_id": "27682122",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6 Vogue",
+        "registration_number": "GL19BKY",
+        "registration_date": "30/03/2019",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37500,
+        "total_price": 37500,
+        "deposit": 3750,
+        "balance": 33750,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 47,
+        "regular_payment": 684.07,
+        "final_payment": 15165.15,
+        "total_amount_payable": 50382.37,
+        "total_charge_for_credit": 12882.37,
+        "amount_of_credit": 33750,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 7.81,
+        "residual": 15165.15,
+        "price_to_buy": 15165.15
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37500,
+        "total_price": 37500,
+        "deposit": 3750,
+        "balance": 33750,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 769.4,
+        "final_payment": 769.4,
+        "total_amount_payable": 49914,
+        "total_charge_for_credit": 12414,
+        "amount_of_credit": 33750,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

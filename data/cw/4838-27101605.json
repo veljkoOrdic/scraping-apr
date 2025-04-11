@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:20:23.620Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mainroadmotorcompany.co.uk/vehicle/audi-rs6-avant-40-tfsi-v8-tiptronic-quattro-euro-6-ss-5dr-in-worcester-worcestershire-2bde51cc-bf12-49ac-8107-b28400c6c5a4",
+    "dealer_id": "4838",
+    "car_id": "27101605",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Tiptronic",
+        "registration_number": "MT20BYM",
+        "registration_date": "14/07/2020",
+        "mileage": 53235,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 60990,
+        "total_price": 60990,
+        "deposit": 6099,
+        "balance": 54891,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1003.25,
+        "final_payment": 22798,
+        "total_amount_payable": 76049.75,
+        "total_charge_for_credit": 15059.75,
+        "amount_of_credit": 54891,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.4,
+        "residual": 22788,
+        "price_to_buy": 22798
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 60990,
+        "total_price": 60990,
+        "deposit": 6099,
+        "balance": 54891,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1378.44,
+        "final_payment": 1378.44,
+        "total_amount_payable": 72264.12,
+        "total_charge_for_credit": 11274.12,
+        "amount_of_credit": 54891,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

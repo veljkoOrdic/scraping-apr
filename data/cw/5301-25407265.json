@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:46:22.487Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-fiat-500-bury-greater-manchester-6282019",
+    "dealer_id": "5301",
+    "car_id": "25407265",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Mild Hybrid Dolcevita [Part Leather]",
+        "registration_number": "EK22TKY",
+        "registration_date": "27/06/2022",
+        "mileage": 13059,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 11.6,
+        "rate_of_interest": 11,
+        "term": 48,
+        "regular_payment": 160.39,
+        "final_payment": 4381,
+        "total_amount_payable": 13078.72,
+        "total_charge_for_credit": 3079.72,
+        "amount_of_credit": 9000,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9,
+        "residual": 4371,
+        "price_to_buy": 4381
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 11.6,
+        "rate_of_interest": 6.09,
+        "term": 60,
+        "regular_payment": 195.68,
+        "final_payment": 205.68,
+        "total_amount_payable": 12749.8,
+        "total_charge_for_credit": 2750.8,
+        "amount_of_credit": 9000,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

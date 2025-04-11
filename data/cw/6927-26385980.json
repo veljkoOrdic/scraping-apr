@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:35:48.788Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clwydian.co.uk/cars/ford/puma/1.5-puma-st-gold-edition-200/1325120/",
+    "dealer_id": "6927",
+    "car_id": "26385980",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 EcoBoost ST",
+        "registration_number": "YL72XHY",
+        "registration_date": "19/10/2022",
+        "mileage": 16100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 505.61,
+        "final_payment": 515.61,
+        "total_amount_payable": 26478.78,
+        "total_charge_for_credit": 4483.78,
+        "amount_of_credit": 19795.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 353.71,
+        "final_payment": 9352.46,
+        "total_amount_payable": 28176.33,
+        "total_charge_for_credit": 6181.33,
+        "amount_of_credit": 19795.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8988.75,
+        "price_to_buy": 9352.46
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:56:19.816Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/mercedes-glc43-amg-30-v6-amg-premium-plus-g-tronic-4matic-euro-6-ss-5dr-in-huddersfield-west-yorkshire-ae365d0d-bbb0-4d7c-a820-b0b40127128a",
+    "dealer_id": "4802",
+    "car_id": "22439092",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLC",
+        "variant": "GLC-Class AMG",
+        "derivative": "AMG GLC 43 Premium Plus 4MATIC Auto 2016",
+        "registration_number": "WD19XXW",
+        "registration_date": "10/06/2019",
+        "mileage": 42700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 7,
+        "term": 48,
+        "regular_payment": 510.36,
+        "final_payment": 12870,
+        "total_amount_payable": 40056.42,
+        "total_charge_for_credit": 8061.42,
+        "amount_of_credit": 28795.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14,
+        "residual": 12870,
+        "price_to_buy": 12870
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 723.12,
+        "final_payment": 723.12,
+        "total_amount_payable": 37909.26,
+        "total_charge_for_credit": 5914.26,
+        "amount_of_credit": 28795.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

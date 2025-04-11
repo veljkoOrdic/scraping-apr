@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T03:51:19.992Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simssuzuki.co.uk/used-cars/used/suzuki-vitara-1.5-hybrid-sz-t-5dr-ags-in-darlington-durham/67551",
+    "dealer_id": "5304",
+    "car_id": "27290789",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "VITARA",
+        "variant": "ESTATE",
+        "derivative": "1.5 Hybrid SZ-T AGS",
+        "registration_number": "BD73XOL",
+        "registration_date": "25/10/2023",
+        "mileage": 14403,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20467,
+        "total_price": 20467,
+        "deposit": 2046.7,
+        "balance": 18420.3,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 370.22,
+        "final_payment": 370.22,
+        "total_amount_payable": 24259.9,
+        "total_charge_for_credit": 3792.9,
+        "amount_of_credit": 18420.3,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20467,
+        "total_price": 20467,
+        "deposit": 2046.7,
+        "balance": 18420.3,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 302.41,
+        "final_payment": 8107.86,
+        "total_amount_payable": 24670.24,
+        "total_charge_for_credit": 4203.24,
+        "amount_of_credit": 18420.3,
+        "lender": "Santander Consumer",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 8107.86,
+        "price_to_buy": 8107.86
+      }
+    ]
+  }
+]

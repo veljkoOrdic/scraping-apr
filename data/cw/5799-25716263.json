@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:09:41.225Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/a7-sportback-tfsi-e/black-edition-50-tfsi-e-quattro-299-ps-s-tronic/poole/dorset/21412312",
+    "dealer_id": "5799",
+    "car_id": "25716263",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A7",
+        "variant": "SPORTBACK",
+        "derivative": "50 TFSI e Quattro Black Edition S Tronic",
+        "registration_number": "HJ74VEV",
+        "registration_date": "18/09/2024",
+        "mileage": 6500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 73000,
+        "total_price": 73000,
+        "deposit": 11200,
+        "balance": 61800,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 1331.28,
+        "final_payment": 1341.28,
+        "total_amount_payable": 91086.8,
+        "total_charge_for_credit": 18086.8,
+        "amount_of_credit": 61800,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 73000,
+        "total_price": 73000,
+        "deposit": 11200,
+        "balance": 61800,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 1245.17,
+        "final_payment": 20767.5,
+        "total_amount_payable": 91735.66,
+        "total_charge_for_credit": 18735.66,
+        "amount_of_credit": 61800,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 9.98,
+        "residual": 20757.5,
+        "price_to_buy": 20767.5
+      }
+    ]
+  }
+]

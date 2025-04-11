@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:14:18.410Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-bentley-bentayga-tfsi-v6-17-3kwh-first-edition-for-sale-in-cleckheaton-west-yorkshire-u1221/",
+    "dealer_id": "5575",
+    "car_id": "25900102",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "ESTATE",
+        "derivative": "3.0 V6 Hybrid [4 Seat]",
+        "registration_number": "J26GSC",
+        "registration_date": "02/07/2021",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 119995,
+        "total_price": 119995,
+        "deposit": 19995,
+        "balance": 100000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1676.75,
+        "final_payment": 38233.04,
+        "total_amount_payable": 157156.29,
+        "total_charge_for_credit": 37161.29,
+        "amount_of_credit": 100000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 23.2,
+        "residual": 38233.04,
+        "price_to_buy": 38233.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 119995,
+        "total_price": 119995,
+        "deposit": 11999.5,
+        "balance": 107995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2315.27,
+        "final_payment": 2325.27,
+        "total_amount_payable": 150925.7,
+        "total_charge_for_credit": 30930.7,
+        "amount_of_credit": 107995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

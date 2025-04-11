@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:30:21.410Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dnaautohausltd.co.uk/used/cars/bmw/x4/3-0-x4-xdrive-30d-m-sport-mhev-auto-4wd-5dr-50",
+    "dealer_id": "4660",
+    "car_id": "27021961",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X4",
+        "variant": "",
+        "derivative": "X4 xDrive30d M Sport",
+        "registration_number": "YB21HRR",
+        "registration_date": "24/06/2021",
+        "mileage": 51200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32999,
+        "total_price": 32999,
+        "deposit": 3299.9,
+        "balance": 29699.1,
+        "apr": 9.4,
+        "rate_of_interest": 4.92,
+        "term": 60,
+        "regular_payment": 616.75,
+        "final_payment": 617.75,
+        "total_amount_payable": 40305.9,
+        "total_charge_for_credit": 7306.9,
+        "amount_of_credit": 29699.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32999,
+        "total_price": 32999,
+        "deposit": 3299.9,
+        "balance": 29699.1,
+        "apr": 9.4,
+        "rate_of_interest": 4.62,
+        "term": 48,
+        "regular_payment": 492.34,
+        "final_payment": 14310,
+        "total_amount_payable": 41243.22,
+        "total_charge_for_credit": 8244.22,
+        "amount_of_credit": 29699.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.8,
+        "residual": 14310,
+        "price_to_buy": 14310
+      }
+    ]
+  }
+]

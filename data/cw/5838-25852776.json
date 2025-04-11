@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T07:20:53.738Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.drivemotorretail.co.uk/used-vehicle-details/used-peugeot-3008-12-hybrid-136-gt-5dr-e-dsc6-e-estate-white-automatic-petrol/id-1883240687/",
+    "dealer_id": "5838",
+    "car_id": "25852776",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "ESTATE",
+        "derivative": "1.2 Hybrid 136 GT e-DSC6",
+        "registration_number": "GD73XAC",
+        "registration_date": "31/01/2024",
+        "mileage": 7389,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24098,
+        "total_price": 24098,
+        "deposit": 2410,
+        "balance": 21688,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 387.7,
+        "final_payment": 11003,
+        "total_amount_payable": 31634.9,
+        "total_charge_for_credit": 7536.9,
+        "amount_of_credit": 21688,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 11003,
+        "price_to_buy": 11003
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24098,
+        "total_price": 24098,
+        "deposit": 2410,
+        "balance": 21688,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 563.66,
+        "final_payment": 563.66,
+        "total_amount_payable": 29465.68,
+        "total_charge_for_credit": 5367.68,
+        "amount_of_credit": 21688,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

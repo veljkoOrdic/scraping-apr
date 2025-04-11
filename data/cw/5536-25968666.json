@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:55:39.719Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ballylisk.co.uk/used-car-details/used-audi-q3-20-tdi-35-150ps-s-line-s-tron-suv-black-automatic-diesel/id-13515/",
+    "dealer_id": "5536",
+    "car_id": "25968666",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "DIESEL ESTATE",
+        "derivative": "35 TDI S Line S Tronic",
+        "registration_number": "CE21ZXZ",
+        "registration_date": "14/05/2021",
+        "mileage": 48000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23975,
+        "total_price": 23975,
+        "deposit": 2398,
+        "balance": 21577,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 541.85,
+        "final_payment": 541.85,
+        "total_amount_payable": 28406.8,
+        "total_charge_for_credit": 4431.8,
+        "amount_of_credit": 21577,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23975,
+        "total_price": 23975,
+        "deposit": 2398,
+        "balance": 21577,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 381.71,
+        "final_payment": 9684,
+        "total_amount_payable": 30022.37,
+        "total_charge_for_credit": 6047.37,
+        "amount_of_credit": 21577,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 9.6,
+        "residual": 9684,
+        "price_to_buy": 9684
+      }
+    ]
+  }
+]

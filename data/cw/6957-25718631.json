@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T12:53:33.485Z",
+    "source": "codeweavers_calculator",
+    "url": "https://juddbrothers.co.uk/car/ford-transit-custom-2-0-ecoblue-limited-130ps-crew-van/",
+    "dealer_id": "6957",
+    "car_id": "25718631",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "280 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps Low Roof Limited Van",
+        "registration_number": "BW69HMZ",
+        "registration_date": "31/12/2019",
+        "mileage": 59,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19194,
+        "total_price": 19194,
+        "deposit": 3199,
+        "balance": 15995,
+        "apr": 12.3,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 352.56,
+        "final_payment": 362.56,
+        "total_amount_payable": 24362.6,
+        "total_charge_for_credit": 5168.6,
+        "amount_of_credit": 15995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19194,
+        "total_price": 19194,
+        "deposit": 3199,
+        "balance": 15995,
+        "apr": 12.3,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 352.78,
+        "final_payment": 352.78,
+        "total_amount_payable": 24365.8,
+        "total_charge_for_credit": 5171.8,
+        "amount_of_credit": 15995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:21:52.049Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.morrisonmotors.co.uk/used/jaguar/xe/20-d200-r-dynamic-se-black-auto/turriff/aberdeenshire/21414391",
+    "dealer_id": "5270",
+    "car_id": "25738576",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XE",
+        "variant": "DIESEL SALOON",
+        "derivative": "2.0 D200 R-Dynamic SE Black",
+        "registration_number": "SY24YAX",
+        "registration_date": "26/03/2024",
+        "mileage": 2600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 7998.75,
+        "balance": 23996.25,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 368.69,
+        "final_payment": 13704,
+        "total_amount_payable": 39399.87,
+        "total_charge_for_credit": 7404.87,
+        "amount_of_credit": 23996.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 13694,
+        "price_to_buy": 13704
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 7998.75,
+        "balance": 23996.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 503.52,
+        "final_payment": 513.52,
+        "total_amount_payable": 38219.95,
+        "total_charge_for_credit": 6224.95,
+        "amount_of_credit": 23996.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

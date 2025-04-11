@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:14:05.167Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.volvocarspoole.co.uk/used/volvo/ex40/single-motor-extended-range-plus/poole/dorset/21458816",
+    "dealer_id": "5396",
+    "car_id": "26173172",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "EX40",
+        "variant": "ESTATE",
+        "derivative": "185kW Extended Range Plus 78kWh",
+        "registration_number": "HJ74KFR",
+        "registration_date": "04/09/2024",
+        "mileage": 3000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 7998,
+        "balance": 31992,
+        "apr": 12.4,
+        "rate_of_interest": 6.45,
+        "term": 48,
+        "regular_payment": 600.18,
+        "final_payment": 14655,
+        "total_amount_payable": 51461.64,
+        "total_charge_for_credit": 11471.64,
+        "amount_of_credit": 31992,
+        "lender": "Volvo Car Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 14655,
+        "price_to_buy": 14655
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 7998,
+        "balance": 31992,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 707.55,
+        "final_payment": 707.55,
+        "total_amount_payable": 50451,
+        "total_charge_for_credit": 10461,
+        "amount_of_credit": 31992,
+        "lender": "Volvo Car Financial Services"
+      }
+    ]
+  }
+]

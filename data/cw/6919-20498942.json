@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:27:01.822Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.phoenixrc-autos.co.uk/used-audi-a1-huddersfield-west-yorkshire-5125566",
+    "dealer_id": "6919",
+    "car_id": "20498942",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "40 TFSI S Line Competition S Tronic",
+        "registration_number": "YN19ALX",
+        "registration_date": "23/08/2019",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17999,
+        "total_price": 17999,
+        "deposit": 1799,
+        "balance": 16200,
+        "apr": 9.9,
+        "rate_of_interest": 7.34,
+        "term": 48,
+        "regular_payment": 264.97,
+        "final_payment": 8505,
+        "total_amount_payable": 22757.59,
+        "total_charge_for_credit": 4758.59,
+        "amount_of_credit": 16200,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12,
+        "residual": 8505,
+        "price_to_buy": 8505
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17999,
+        "total_price": 17999,
+        "deposit": 1799,
+        "balance": 16200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 340.05,
+        "final_payment": 340.05,
+        "total_amount_payable": 22202,
+        "total_charge_for_credit": 4203,
+        "amount_of_credit": 16200,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

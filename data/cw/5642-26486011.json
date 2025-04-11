@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T05:30:03.344Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richtoy.co.uk/details/used-car-in-scunthorpe/ferrari/360/3.6-modena-f1-2dr/898545/",
+    "dealer_id": "5642",
+    "car_id": "26486011",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "360M",
+        "variant": "COUPE",
+        "derivative": "Modena",
+        "registration_number": "L14RCO",
+        "registration_date": "01/03/2000",
+        "mileage": 32400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 58000,
+        "total_price": 58000,
+        "deposit": 5800,
+        "balance": 52200,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1118.82,
+        "final_payment": 1128.82,
+        "total_amount_payable": 72939.2,
+        "total_charge_for_credit": 14939.2,
+        "amount_of_credit": 52200,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

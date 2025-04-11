@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:36:04.075Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pre5tigecars.co.uk/vehicle/mercedes-v220-20-d-amg-line-g-tronic-euro-6-ss-5dr-xlwb-in-birmingham-west-midlands-a2420e4b-25f2-4091-97ec-b21700e9b96a",
+    "dealer_id": "5735",
+    "car_id": "26081060",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "V-Class",
+        "variant": "DIESEL ESTATE",
+        "derivative": "V220 d AMG Line 9G-Tronic [Extra Long]",
+        "registration_number": "WX70XSB",
+        "registration_date": "30/09/2020",
+        "mileage": 60000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1022.05,
+        "final_payment": 16741.26,
+        "total_amount_payable": 83541.71,
+        "total_charge_for_credit": 18546.71,
+        "amount_of_credit": 58495.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 10.96,
+        "residual": 16741.26,
+        "price_to_buy": 16741.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1227.92,
+        "final_payment": 1228.92,
+        "total_amount_payable": 80175.7,
+        "total_charge_for_credit": 15180.7,
+        "amount_of_credit": 58495.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

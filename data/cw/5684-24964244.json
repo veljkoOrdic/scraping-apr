@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:51:28.559Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-5-series-2-0-530e-22-1kwh-m-sport-steptronic-euro-6-s-s-4dr-mh73cua",
+    "dealer_id": "5684",
+    "car_id": "24964244",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "",
+        "derivative": "530e M Sport Saloon",
+        "registration_number": "MH73CUA",
+        "registration_date": "30/01/2024",
+        "mileage": 7145,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43999,
+        "total_price": 43999,
+        "deposit": 7199.85,
+        "balance": 36799.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 956.38,
+        "final_payment": 957.38,
+        "total_amount_payable": 53107.09,
+        "total_charge_for_credit": 9108.09,
+        "amount_of_credit": 36799.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43999,
+        "total_price": 43999,
+        "deposit": 7199.85,
+        "balance": 36799.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 587.62,
+        "final_payment": 22835.48,
+        "total_amount_payable": 57653.47,
+        "total_charge_for_credit": 13654.47,
+        "amount_of_credit": 36799.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.7,
+        "residual": 22835.48,
+        "price_to_buy": 22835.48
+      }
+    ]
+  }
+]

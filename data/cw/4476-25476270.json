@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:57:01.013Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.downeys.co.uk/used-cars/kia-rio-2-10t-gdi-auto-full-kia-warranty-until-september-2029/19709/",
+    "dealer_id": "4476",
+    "car_id": "25476270",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "RIO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 T GDi 2 DCT",
+        "registration_number": "RXZ7348",
+        "registration_date": "06/09/2022",
+        "mileage": 33330,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 60,
+        "regular_payment": 275.62,
+        "final_payment": 275.62,
+        "total_amount_payable": 17936.2,
+        "total_charge_for_credit": 3946.2,
+        "amount_of_credit": 12591,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 240.78,
+        "final_payment": 5265,
+        "total_amount_payable": 18221.44,
+        "total_charge_for_credit": 4231.44,
+        "amount_of_credit": 12591,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 5255,
+        "price_to_buy": 5265
+      }
+    ]
+  }
+]

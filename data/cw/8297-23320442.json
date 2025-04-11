@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:47.786Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/ferrari-575m-58-maranello-f1-coupe-2dr-petrol-automatic-499-gkm-515-bhp-in-wigan-lancashire-89f0d5f1-506f-45e3-abe1-ba2b00aacb5a",
+    "dealer_id": "8297",
+    "car_id": "23320442",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "575M",
+        "variant": "COUPE",
+        "derivative": "Maranello",
+        "registration_number": "LJ54UMA",
+        "registration_date": "18/01/2005",
+        "mileage": 41112,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69990,
+        "total_price": 69990,
+        "deposit": 6999,
+        "balance": 62991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1609.46,
+        "final_payment": 1609.46,
+        "total_amount_payable": 84253.08,
+        "total_charge_for_credit": 14263.08,
+        "amount_of_credit": 62991,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 69990,
+        "total_price": 69990,
+        "deposit": 6999,
+        "balance": 62991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 973.65,
+        "final_payment": 38613.48,
+        "total_amount_payable": 91374.03,
+        "total_charge_for_credit": 21384.03,
+        "amount_of_credit": 62991,
+        "lender": "Evolution Funding"
+      }
+    ]
+  }
+]

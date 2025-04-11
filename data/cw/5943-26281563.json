@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:35:29.443Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jsholmes.com/used/nissan/leaf/110kw-tekna-40kwh-5dr-auto/wisbech/cambridgeshire/21463910",
+    "dealer_id": "5943",
+    "car_id": "26281563",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "110kW Tekna 40kWh",
+        "registration_number": "CU71PFN",
+        "registration_date": "08/10/2021",
+        "mileage": 17908,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11290,
+        "total_price": 11290,
+        "deposit": 1129,
+        "balance": 10161,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 227.03,
+        "final_payment": 227.03,
+        "total_amount_payable": 14750.8,
+        "total_charge_for_credit": 3460.8,
+        "amount_of_credit": 10161,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11290,
+        "total_price": 11290,
+        "deposit": 1129,
+        "balance": 10161,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 192.62,
+        "final_payment": 4715,
+        "total_amount_payable": 15089.76,
+        "total_charge_for_credit": 3799.76,
+        "amount_of_credit": 10161,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 4715,
+        "price_to_buy": 4715
+      }
+    ]
+  }
+]

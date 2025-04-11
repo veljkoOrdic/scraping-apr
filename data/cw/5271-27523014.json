@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:26:20.877Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carworld.co.uk/used-volvo-xc90-peterborough-cambridgeshire-6811895",
+    "dealer_id": "5271",
+    "car_id": "27523014",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC90",
+        "variant": "R-Design",
+        "derivative": "B5",
+        "registration_number": "BX21WML",
+        "registration_date": "08/03/2021",
+        "mileage": 49806,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33700,
+        "total_price": 33700,
+        "deposit": 3370,
+        "balance": 30330,
+        "apr": 14.9,
+        "rate_of_interest": 14.9,
+        "term": 60,
+        "regular_payment": 705.25,
+        "final_payment": 705.25,
+        "total_amount_payable": 45685,
+        "total_charge_for_credit": 11985,
+        "amount_of_credit": 30330,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33700,
+        "total_price": 33700,
+        "deposit": 3370,
+        "balance": 30330,
+        "apr": 14.9,
+        "rate_of_interest": 14.9,
+        "term": 60,
+        "regular_payment": 577.57,
+        "final_payment": 11573.84,
+        "total_amount_payable": 49020.47,
+        "total_charge_for_credit": 15320.47,
+        "amount_of_credit": 30330,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 8.59,
+        "residual": 11573.84,
+        "price_to_buy": 11573.84
+      }
+    ]
+  }
+]

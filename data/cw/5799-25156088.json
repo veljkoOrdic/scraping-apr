@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:08:43.346Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/a5-coupe/coup-black-edition-40-tdi-quattro-204-ps-s-tronic/poole/dorset/21352464",
+    "dealer_id": "5799",
+    "car_id": "25156088",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "DIESEL COUPE",
+        "derivative": "40 TDI 204 Quattro Black Edition S Tronic",
+        "registration_number": "HD24FZK",
+        "registration_date": "30/07/2024",
+        "mileage": 9000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 8350,
+        "balance": 45650,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 983.38,
+        "final_payment": 993.38,
+        "total_amount_payable": 67362.8,
+        "total_charge_for_credit": 13362.8,
+        "amount_of_credit": 45650,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 8350,
+        "balance": 45650,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 891.6,
+        "final_payment": 17038.75,
+        "total_amount_payable": 68185.55,
+        "total_charge_for_credit": 14185.55,
+        "amount_of_credit": 45650,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 8,
+        "residual": 17028.75,
+        "price_to_buy": 17038.75
+      }
+    ]
+  }
+]

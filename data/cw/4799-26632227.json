@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:51:26.259Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.apexperformancecars.co.uk/vehicle/porsche-911-37t-992-turbo-s-pdk-4wd-euro-6-ss-2dr-in-west-yorkshire-0c6fcac2-701e-49d3-adbc-b17a01367e4c",
+    "dealer_id": "4799",
+    "car_id": "26632227",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] TURBO COUPE",
+        "derivative": "S PDK",
+        "registration_number": "YY23EYT",
+        "registration_date": "09/05/2023",
+        "mileage": 2200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 159995,
+        "total_price": 159995,
+        "deposit": 15999.5,
+        "balance": 143995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2583.7,
+        "final_payment": 67436,
+        "total_amount_payable": 204869.4,
+        "total_charge_for_credit": 44874.4,
+        "amount_of_credit": 143995.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 118,
+        "residual": 67436,
+        "price_to_buy": 67436
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 159995,
+        "total_price": 159995,
+        "deposit": 15999.5,
+        "balance": 143995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 3679.17,
+        "final_payment": 3679.17,
+        "total_amount_payable": 192599.66,
+        "total_charge_for_credit": 32604.66,
+        "amount_of_credit": 143995.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:58:57.845Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/bmw-m3-30-biturbo-competition-m-touring-steptronic-xdrive-euro-6-ss-5dr-in-huddersfield-west-yorkshire-fb544cbe-56f3-4dc9-a263-b24500c68132",
+    "dealer_id": "4802",
+    "car_id": "26533761",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3",
+        "variant": "TOURING",
+        "derivative": "M3 xDrive Competition M Step",
+        "registration_number": "BM23BOS",
+        "registration_date": "17/07/2023",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84995,
+        "total_price": 84995,
+        "deposit": 8499.5,
+        "balance": 76495.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.73,
+        "term": 48,
+        "regular_payment": 1438.34,
+        "final_payment": 29475,
+        "total_amount_payable": 105576.48,
+        "total_charge_for_credit": 20581.48,
+        "amount_of_credit": 76495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 23,
+        "residual": 29475,
+        "price_to_buy": 29475
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84995,
+        "total_price": 84995,
+        "deposit": 8499.5,
+        "balance": 76495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1920.98,
+        "final_payment": 1920.98,
+        "total_amount_payable": 100706.54,
+        "total_charge_for_credit": 15711.54,
+        "amount_of_credit": 76495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

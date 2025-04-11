@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:57:29.806Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sdm-group.co.uk/used-cars/hyundai-tucson-1-6-t-gdi-n-line-s-auto-euro-6-s-s-5dr-sk74ewy",
+    "dealer_id": "8279",
+    "car_id": "26286587",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "TUCSON",
+        "variant": "ESTATE",
+        "derivative": "1.6T Hybrid N Line S",
+        "registration_number": "SK74EWY",
+        "registration_date": "01/03/2024",
+        "mileage": 3000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33795,
+        "total_price": 33795,
+        "deposit": 3379.5,
+        "balance": 30415.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 803.73,
+        "final_payment": 813.73,
+        "total_amount_payable": 41968.54,
+        "total_charge_for_credit": 8173.54,
+        "amount_of_credit": 30415.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33795,
+        "total_price": 33795,
+        "deposit": 3379.5,
+        "balance": 30415.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 532.33,
+        "final_payment": 16866,
+        "total_amount_payable": 45797.34,
+        "total_charge_for_credit": 12002.34,
+        "amount_of_credit": 30415.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 16856,
+        "price_to_buy": 16866
+      }
+    ]
+  }
+]

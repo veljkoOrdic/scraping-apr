@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:08:29.634Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2023-porsche-panamera-4s-pdk-1",
+    "dealer_id": "4386",
+    "car_id": "25223334",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "PANAMERA",
+        "variant": "HATCHBACK",
+        "derivative": "2.9 V6 4S E-Hybrid PDK",
+        "registration_number": "RK23AMV",
+        "registration_date": "03/07/2023",
+        "mileage": 1637,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 81279,
+        "total_price": 81279,
+        "deposit": 12500,
+        "balance": 68779,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 1061.28,
+        "final_payment": 51903.75,
+        "total_amount_payable": 101548.55,
+        "total_charge_for_credit": 20269.55,
+        "amount_of_credit": 68779,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 28.2,
+        "residual": 51893.75,
+        "price_to_buy": 51903.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 81279,
+        "total_price": 81279,
+        "deposit": 12500,
+        "balance": 68779,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2256.72,
+        "final_payment": 2266.72,
+        "total_amount_payable": 93751.92,
+        "total_charge_for_credit": 12472.92,
+        "amount_of_credit": 68779,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

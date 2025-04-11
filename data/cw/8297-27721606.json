@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:34.018Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/bentley-continental-40-v8-gt-s-coupe-2dr-petrol-auto-4wd-euro-6-528-ps-in-wigan-lancashire-8f90cdd3-fb55-4c3a-9b4f-735f996d5913",
+    "dealer_id": "8297",
+    "car_id": "27721606",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GT",
+        "variant": "COUPE",
+        "derivative": "4.0 V8 S Mulliner Driving Spec",
+        "registration_number": "LM17YKF",
+        "registration_date": "01/03/2017",
+        "mileage": 32942,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 5499,
+        "balance": 49491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1264.52,
+        "final_payment": 1264.52,
+        "total_amount_payable": 66195.96,
+        "total_charge_for_credit": 11205.96,
+        "amount_of_credit": 49491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 5499,
+        "balance": 49491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 764.98,
+        "final_payment": 30337.98,
+        "total_amount_payable": 71791.04,
+        "total_charge_for_credit": 16801.04,
+        "amount_of_credit": 49491,
+        "lender": "Evolution Funding"
+      }
+    ]
+  }
+]

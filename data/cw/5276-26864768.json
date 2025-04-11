@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:30:04.045Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tenbytradecars.co.uk/used-mercedes-benz-e-class-luton-bedfordshire-6644594",
+    "dealer_id": "5276",
+    "car_id": "26864768",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "SALOON",
+        "derivative": "E300e AMG Line Night Edition Prem+ 9G-Tronic",
+        "registration_number": "SN22UKB",
+        "registration_date": "07/04/2022",
+        "mileage": 61008,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30795,
+        "total_price": 30795,
+        "deposit": 3079,
+        "balance": 27716,
+        "apr": 12.9,
+        "rate_of_interest": 6.73,
+        "term": 60,
+        "regular_payment": 617.37,
+        "final_payment": 767.37,
+        "total_amount_payable": 40271.2,
+        "total_charge_for_credit": 9476.2,
+        "amount_of_credit": 27716,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30795,
+        "total_price": 30795,
+        "deposit": 3079,
+        "balance": 27716,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 480.61,
+        "final_payment": 8207.98,
+        "total_amount_payable": 39642.97,
+        "total_charge_for_credit": 8847.97,
+        "amount_of_credit": 27716,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.72,
+        "residual": 8207.98,
+        "price_to_buy": 8207.98
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:14:45.205Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-lamborghini-huracan-v10-lp-640-4-performante-for-sale-in-cleckheaton-west-yorkshire-u1153/",
+    "dealer_id": "5575",
+    "car_id": "25435177",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "COUPE",
+        "derivative": "LP 640-4 Performante LDF",
+        "registration_number": "M21LEU",
+        "registration_date": "02/08/2017",
+        "mileage": 33200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 167995,
+        "total_price": 167995,
+        "deposit": 16799.5,
+        "balance": 151195.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 2385.36,
+        "final_payment": 92682.84,
+        "total_amount_payable": 221594.26,
+        "total_charge_for_credit": 53599.26,
+        "amount_of_credit": 151195.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 167995,
+        "total_price": 167995,
+        "deposit": 16799.5,
+        "balance": 151195.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 3241.47,
+        "final_payment": 3251.47,
+        "total_amount_payable": 211297.7,
+        "total_charge_for_credit": 43302.7,
+        "amount_of_credit": 151195.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

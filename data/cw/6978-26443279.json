@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T13:01:44.440Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vennsmotorcompany.co.uk/cars/toyota/c-hr/1.8-vvt-h-excel/1328706/",
+    "dealer_id": "6978",
+    "car_id": "26443279",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "C-HR",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 Hybrid Excel CVT",
+        "registration_number": "MM71UBH",
+        "registration_date": "06/01/2022",
+        "mileage": 7500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 1000,
+        "balance": 21495,
+        "apr": 13.2,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 420.25,
+        "final_payment": 9759,
+        "total_amount_payable": 30510.75,
+        "total_charge_for_credit": 8015.75,
+        "amount_of_credit": 21495,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12,
+        "residual": 9328.75,
+        "price_to_buy": 9759
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 1000,
+        "balance": 21495,
+        "apr": 13.1,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 482.41,
+        "final_payment": 482.41,
+        "total_amount_payable": 29944.6,
+        "total_charge_for_credit": 7449.6,
+        "amount_of_credit": 21495,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

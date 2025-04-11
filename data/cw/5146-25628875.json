@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:38:45.467Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ronbrooks.co.uk/usedcars/2022-lexus-rc-f-5-0-v8-auto-euro-6-2dr/",
+    "dealer_id": "5146",
+    "car_id": "25628875",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lexus",
+        "model": "RC",
+        "variant": "F COUPE",
+        "derivative": "5.0",
+        "registration_number": "GV72NHC",
+        "registration_date": "22/12/2022",
+        "mileage": 6100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51800,
+        "total_price": 51800,
+        "deposit": 5180,
+        "balance": 46620,
+        "apr": 8.5,
+        "rate_of_interest": 6.2,
+        "term": 48,
+        "regular_payment": 750.54,
+        "final_payment": 22905,
+        "total_amount_payable": 63360.38,
+        "total_charge_for_credit": 11560.38,
+        "amount_of_credit": 46620,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 21,
+        "residual": 22905,
+        "price_to_buy": 22905
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51800,
+        "total_price": 51800,
+        "deposit": 5180,
+        "balance": 46620,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 1211.64,
+        "final_payment": 1211.64,
+        "total_amount_payable": 63338.72,
+        "total_charge_for_credit": 11538.72,
+        "amount_of_credit": 46620,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

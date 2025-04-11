@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:00:16.358Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlehurst.co.uk/details/used-car-in-st.-helens/nissan/x-trail/1.5-h-e-power-tekna-auto-euro-6-ss-5dr/1400363/",
+    "dealer_id": "5711",
+    "car_id": "27300330",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "X-TRAIL",
+        "variant": "STATION WAGON",
+        "derivative": "1.5 E-Power 204 Tekna Xtronic",
+        "registration_number": "NJ73CRF",
+        "registration_date": "26/10/2023",
+        "mileage": 9141,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31999,
+        "total_price": 31999,
+        "deposit": 6399.8,
+        "balance": 25599.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 394.16,
+        "final_payment": 12496.71,
+        "total_amount_payable": 42151.95,
+        "total_charge_for_credit": 10152.95,
+        "amount_of_credit": 25599.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 8.28,
+        "residual": 12496.71,
+        "price_to_buy": 12496.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31999,
+        "total_price": 31999,
+        "deposit": 6399.8,
+        "balance": 25599.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 548.84,
+        "final_payment": 548.84,
+        "total_amount_payable": 39330.2,
+        "total_charge_for_credit": 7331.2,
+        "amount_of_credit": 25599.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

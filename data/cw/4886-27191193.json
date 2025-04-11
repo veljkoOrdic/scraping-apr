@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:36:51.971Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dacemotorgroup.co.uk/used-audi-rs5-stockport-cheshire-6731987",
+    "dealer_id": "4886",
+    "car_id": "27191193",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "RS 5 COUPE",
+        "derivative": "RS 5 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "EA70URP",
+        "registration_date": "21/10/2020",
+        "mileage": 36793,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45990,
+        "total_price": 45990,
+        "deposit": 4599,
+        "balance": 41391,
+        "apr": 13.9,
+        "rate_of_interest": 6.78,
+        "term": 48,
+        "regular_payment": 809.62,
+        "final_payment": 19171,
+        "total_amount_payable": 62631.76,
+        "total_charge_for_credit": 16641.76,
+        "amount_of_credit": 41391,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 20.7,
+        "residual": 19170,
+        "price_to_buy": 19171
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45990,
+        "total_price": 45990,
+        "deposit": 4599,
+        "balance": 41391,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 943.71,
+        "final_payment": 944.71,
+        "total_amount_payable": 61222.6,
+        "total_charge_for_credit": 15232.6,
+        "amount_of_credit": 41391,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

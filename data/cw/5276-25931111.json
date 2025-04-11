@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:28:52.302Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tenbytradecars.co.uk/used-skoda-kodiaq-luton-bedfordshire-6404438",
+    "dealer_id": "5276",
+    "car_id": "25931111",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KODIAQ",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI SE DSG",
+        "registration_number": "MH19FHW",
+        "registration_date": "28/06/2019",
+        "mileage": 51045,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449,
+        "balance": 13046,
+        "apr": 12.9,
+        "rate_of_interest": 6.64,
+        "term": 60,
+        "regular_payment": 289.62,
+        "final_payment": 439.62,
+        "total_amount_payable": 18976.2,
+        "total_charge_for_credit": 4481.2,
+        "amount_of_credit": 13046,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449,
+        "balance": 13046,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 50,
+        "regular_payment": 217.74,
+        "final_payment": 6264.15,
+        "total_amount_payable": 18382.41,
+        "total_charge_for_credit": 3887.41,
+        "amount_of_credit": 13046,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 41666,
+        "excess_mileage_rate": 4.47,
+        "residual": 6264.15,
+        "price_to_buy": 6264.15
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:21:24.914Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.morrisonmotors.co.uk/used/vauxhall/astra/12-turbo-130-ultimate-5dr-auto/turriff/aberdeenshire/21364687",
+    "dealer_id": "5270",
+    "car_id": "25288561",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo 130 Ultimate",
+        "registration_number": "EA22ZHH",
+        "registration_date": "30/04/2022",
+        "mileage": 7200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 5248.75,
+        "balance": 15746.25,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 244.71,
+        "final_payment": 8822,
+        "total_amount_payable": 25816.83,
+        "total_charge_for_credit": 4821.83,
+        "amount_of_credit": 15746.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 8812,
+        "price_to_buy": 8822
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 5248.75,
+        "balance": 15746.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 330.41,
+        "final_payment": 340.41,
+        "total_amount_payable": 25083.35,
+        "total_charge_for_credit": 4088.35,
+        "amount_of_credit": 15746.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

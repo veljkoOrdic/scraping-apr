@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:50:12.188Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carsandus.co.uk/details/used-car-in-141-woolwich-road,-greenwich/honda/cr-v/2.0-h-i-mmd-sr-ecvt-4wd-euro-6-ss-5dr/1212814/",
+    "dealer_id": "5996",
+    "car_id": "24997468",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CR-V",
+        "variant": "ESTATE",
+        "derivative": "2.0 i-MMD Hybrid SR eCVT",
+        "registration_number": "PE70YHG",
+        "registration_date": "30/09/2020",
+        "mileage": 33997,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 11.4,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 343.3,
+        "final_payment": 8917.05,
+        "total_amount_payable": 27151.15,
+        "total_charge_for_credit": 6161.15,
+        "amount_of_credit": 18891,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8563.75,
+        "price_to_buy": 8917.05
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 11.4,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 408.87,
+        "final_payment": 408.87,
+        "total_amount_payable": 26631.2,
+        "total_charge_for_credit": 5641.2,
+        "amount_of_credit": 18891,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

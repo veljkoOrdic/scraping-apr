@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-11T03:52:16.385Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mccarthycars.co.uk/vehicle-details/used-bmw-3-series-328i-se-for-sale-72-74-mitcham-road-u27965/",
+    "dealer_id": "5308",
+    "car_id": "26513546",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "328i SE Touring",
+        "registration_number": "WG13EAC",
+        "registration_date": "20/06/2013",
+        "mileage": 55908,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8595,
+        "total_price": 8595,
+        "deposit": 859.5,
+        "balance": 7735.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 169.34,
+        "final_payment": 170.34,
+        "total_amount_payable": 11020.9,
+        "total_charge_for_credit": 2425.9,
+        "amount_of_credit": 7735.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8595,
+        "total_price": 8595,
+        "deposit": 859.5,
+        "balance": 7735.5,
+        "apr": 13.6,
+        "rate_of_interest": 13.6,
+        "term": 50,
+        "regular_payment": 200.49,
+        "final_payment": 200.49,
+        "total_amount_payable": 10884,
+        "total_charge_for_credit": 2289,
+        "amount_of_credit": 7735.5,
+        "lender": "Connected Car",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

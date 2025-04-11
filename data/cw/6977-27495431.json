@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T13:00:40.899Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.glenford.com/used/ford/mustang-mach-e/258kw-premium-91kwh-awd-5dr-auto/forfar/angus/21565518",
+    "dealer_id": "6977",
+    "car_id": "27495431",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "MUSTANG MACH-E",
+        "variant": "ESTATE",
+        "derivative": "258kW Premium 91kWh",
+        "registration_number": "SP74FXE",
+        "registration_date": "24/09/2024",
+        "mileage": 11295,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 497.23,
+        "final_payment": 18471.03,
+        "total_amount_payable": 45240.34,
+        "total_charge_for_credit": 11245.34,
+        "amount_of_credit": 30595.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 9000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 11.81,
+        "residual": 18471.03,
+        "price_to_buy": 18471.03
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.12,
+        "term": 48,
+        "regular_payment": 793.44,
+        "final_payment": 898.44,
+        "total_amount_payable": 41589.62,
+        "total_charge_for_credit": 7594.62,
+        "amount_of_credit": 30595.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

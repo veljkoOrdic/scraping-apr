@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:39:14.478Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.panaceamotors.co.uk/used-mercedes-benz-e-class-bury-lancashire-5872923",
+    "dealer_id": "4899",
+    "car_id": "25196094",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "E220d AMG Line Night Edition Prem + 9G-Tronic",
+        "registration_number": "KM20WEU",
+        "registration_date": "16/03/2020",
+        "mileage": 55000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 2549,
+        "balance": 22946,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 409.79,
+        "final_payment": 10491,
+        "total_amount_payable": 31890.34,
+        "total_charge_for_credit": 6395.34,
+        "amount_of_credit": 22946,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18,
+        "residual": 10481,
+        "price_to_buy": 10491
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 2549,
+        "balance": 22946,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 481.52,
+        "final_payment": 491.52,
+        "total_amount_payable": 31450.2,
+        "total_charge_for_credit": 5955.2,
+        "amount_of_credit": 22946,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:39:51.744Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thelovelycarcompany.co.uk/cars/mercedes-benz/cla/1.3-cla200-amg-line-premium-plus/1386144/",
+    "dealer_id": "6931",
+    "car_id": "27130106",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "CLA",
+        "variant": "COUPE",
+        "derivative": "CLA 200 AMG Line Premium Plus Tip",
+        "registration_number": "LR22PYS",
+        "registration_date": "11/03/2022",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 2799,
+        "balance": 25191,
+        "apr": 11,
+        "rate_of_interest": 5.78,
+        "term": 60,
+        "regular_payment": 541.19,
+        "final_payment": 541.19,
+        "total_amount_payable": 35270.4,
+        "total_charge_for_credit": 7280.4,
+        "amount_of_credit": 25191,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 2799,
+        "balance": 25191,
+        "apr": 11,
+        "rate_of_interest": 10.48,
+        "term": 48,
+        "regular_payment": 394.01,
+        "final_payment": 14996,
+        "total_amount_payable": 36707.48,
+        "total_charge_for_credit": 8717.48,
+        "amount_of_credit": 25191,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.24,
+        "residual": 14996,
+        "price_to_buy": 14996
+      }
+    ]
+  }
+]

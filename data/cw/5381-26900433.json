@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:11:17.661Z",
+    "source": "codeweavers_calculator",
+    "url": "https://trackssuzuki.co.uk/vehicle/UE8858",
+    "dealer_id": "5381",
+    "car_id": "26900433",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "IGNIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet 12V Hybrid SZ5",
+        "registration_number": "WF71 MLV",
+        "registration_date": "28/01/2022",
+        "mileage": 17930,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 4200,
+        "balance": 9799,
+        "apr": 8.9,
+        "rate_of_interest": 8.52,
+        "term": 37,
+        "regular_payment": 134.84,
+        "final_payment": 7194,
+        "total_amount_payable": 16248.24,
+        "total_charge_for_credit": 2249.24,
+        "amount_of_credit": 9799,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 18500,
+        "excess_mileage_rate": 4.8,
+        "residual": 7184,
+        "price_to_buy": 7194
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 4200,
+        "balance": 9799,
+        "apr": 8.9,
+        "rate_of_interest": 8.5,
+        "term": 37,
+        "regular_payment": 302.24,
+        "final_payment": 302.24,
+        "total_amount_payable": 15382.88,
+        "total_charge_for_credit": 1383.88,
+        "amount_of_credit": 9799,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:07:49.910Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2024-porsche-macan-42",
+    "dealer_id": "4386",
+    "car_id": "25236800",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "5dr PDK",
+        "registration_number": "WX74YXS",
+        "registration_date": "06/09/2024",
+        "mileage": 7656,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67890,
+        "total_price": 67890,
+        "deposit": 12500,
+        "balance": 55390,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 1030.66,
+        "final_payment": 34495,
+        "total_amount_payable": 83068.1,
+        "total_charge_for_credit": 15178.1,
+        "amount_of_credit": 55390,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 34485,
+        "price_to_buy": 34495
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67890,
+        "total_price": 67890,
+        "deposit": 12500,
+        "balance": 55390,
+        "apr": 11.8,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 1817.41,
+        "final_payment": 1827.41,
+        "total_amount_payable": 77936.76,
+        "total_charge_for_credit": 10046.76,
+        "amount_of_credit": 55390,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

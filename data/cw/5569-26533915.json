@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:01:42.183Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perryroadautos.co.uk/used-cars/renault-master-23-dci-35-business-fwd-cherry-picker-V1244",
+    "dealer_id": "5569",
+    "car_id": "26533915",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "MASTER",
+        "variant": "MWB DIESEL FWD",
+        "derivative": "MM35dCi 135 Business+ Medium Roof Van",
+        "registration_number": "EA71GYG",
+        "registration_date": "29/10/2021",
+        "mileage": 18385,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 849.12,
+        "final_payment": 3206,
+        "total_amount_payable": 47963.26,
+        "total_charge_for_credit": 7968.26,
+        "amount_of_credit": 35995.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 1.32,
+        "residual": 3206,
+        "price_to_buy": 3206
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 755.56,
+        "final_payment": 756.56,
+        "total_amount_payable": 49334.1,
+        "total_charge_for_credit": 9339.1,
+        "amount_of_credit": 35995.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

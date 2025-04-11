@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T00:03:30.010Z",
+    "source": "codeweavers_calculator",
+    "url": "https://chequers-cars.co.uk/vehicle-details/used-ford-puma-t-ecoboost-mhev-st-line-for-sale-chobham-u75274/",
+    "dealer_id": "4525",
+    "car_id": "26917307",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV 155 ST-Line",
+        "registration_number": "YR70EWX",
+        "registration_date": "21/09/2020",
+        "mileage": 31200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12800,
+        "total_price": 12800,
+        "deposit": 2560,
+        "balance": 10240,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 174.7,
+        "final_payment": 6070.95,
+        "total_amount_payable": 16841.85,
+        "total_charge_for_credit": 4041.85,
+        "amount_of_credit": 10240,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5886.25,
+        "price_to_buy": 6070.95
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12800,
+        "total_price": 12800,
+        "deposit": 2560,
+        "balance": 10240,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 228.69,
+        "final_payment": 238.69,
+        "total_amount_payable": 16291.4,
+        "total_charge_for_credit": 3491.4,
+        "amount_of_credit": 10240,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

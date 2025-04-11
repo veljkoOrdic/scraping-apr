@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:58:15.467Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/porsche-taycan-performance-plus-934kwh-4s-auto-4wd-4dr-11kw-charger-in-huddersfield-west-yorkshire-ada351c6-41b9-47af-8487-b13100a1e97d",
+    "dealer_id": "4802",
+    "car_id": "23639818",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "420kW 4S 93kWh",
+        "registration_number": "H8RJX",
+        "registration_date": "23/06/2023",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.31,
+        "term": 48,
+        "regular_payment": 1289.26,
+        "final_payment": 18292.5,
+        "total_amount_payable": 85887.22,
+        "total_charge_for_credit": 15892.22,
+        "amount_of_credit": 62995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 33,
+        "residual": 18292.5,
+        "price_to_buy": 18292.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1581.96,
+        "final_payment": 1581.96,
+        "total_amount_payable": 82933.58,
+        "total_charge_for_credit": 12938.58,
+        "amount_of_credit": 62995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

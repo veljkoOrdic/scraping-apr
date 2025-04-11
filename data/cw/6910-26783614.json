@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:52:18.606Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-vana.co.uk/vehicle/bmw-x6-m-44i-v8-competition-auto-xdrive-euro-6-ss-5dr-in-manchester-26edb159-16ce-4c74-8cfe-b2660112e77b",
+    "dealer_id": "6910",
+    "car_id": "26783614",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X6",
+        "variant": "",
+        "derivative": "X6 M Competition",
+        "registration_number": "BT72JFA",
+        "registration_date": "24/01/2023",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 29995,
+        "balance": 50000,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 48,
+        "regular_payment": 736.4,
+        "final_payment": 30398.5,
+        "total_amount_payable": 95740.7,
+        "total_charge_for_credit": 15745.7,
+        "amount_of_credit": 50000,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 33.6,
+        "residual": 30397.5,
+        "price_to_buy": 30398.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1511.31,
+        "final_payment": 1511.31,
+        "total_amount_payable": 98678.1,
+        "total_charge_for_credit": 18683.1,
+        "amount_of_credit": 71995.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

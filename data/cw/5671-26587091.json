@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:45:06.455Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kenjervis.com/used-car-details/used-kia-ev6-gtls-rwd-hatchback-black-automatic-electric/id-11506/",
+    "dealer_id": "5671",
+    "car_id": "26587091",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "EV6",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "168kW GT Line S 84kWh",
+        "registration_number": "DY74JYZ",
+        "registration_date": "30/09/2024",
+        "mileage": 1500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 9999,
+        "balance": 39996,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 750.03,
+        "final_payment": 18212.25,
+        "total_amount_payable": 63462.66,
+        "total_charge_for_credit": 13467.66,
+        "amount_of_credit": 39996,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 13,
+        "residual": 18211.25,
+        "price_to_buy": 18212.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 9999,
+        "balance": 39996,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 1039.47,
+        "final_payment": 1040.47,
+        "total_amount_payable": 59894.56,
+        "total_charge_for_credit": 9899.56,
+        "amount_of_credit": 39996,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

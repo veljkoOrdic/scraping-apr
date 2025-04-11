@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:37:18.862Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pre5tigecars.co.uk/vehicle/mercedes-gle63-amg-40-v8-biturbo-mhev-amg-s-night-edition-premium-plus-coupe-spds-tct-4matic-euro-6-ss-5dr-in-birmingham-west-midlands-a3569f73-ef95-4828-888e-b214005e1668",
+    "dealer_id": "5735",
+    "car_id": "26058379",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLE COUPE",
+        "variant": "GLE AMG COUPE",
+        "derivative": "GLE 63 S 4Matic+ Premium Plus TCT",
+        "registration_number": "KT73WCU",
+        "registration_date": "19/12/2023",
+        "mileage": 250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99995,
+        "total_price": 99995,
+        "deposit": 9999.5,
+        "balance": 89995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1369.08,
+        "final_payment": 41084.63,
+        "total_amount_payable": 131859.85,
+        "total_charge_for_credit": 31864.85,
+        "amount_of_credit": 89995.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 28.58,
+        "residual": 41084.63,
+        "price_to_buy": 41084.63
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99995,
+        "total_price": 99995,
+        "deposit": 9999.5,
+        "balance": 89995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1889.16,
+        "final_payment": 1890.16,
+        "total_amount_payable": 123350.1,
+        "total_charge_for_credit": 23355.1,
+        "amount_of_credit": 89995.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

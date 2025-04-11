@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:58:37.111Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/6567909/2021-audi-r8/",
+    "dealer_id": "5013",
+    "car_id": "26439806",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "R8",
+        "variant": "COUPE",
+        "derivative": "5.2 FSI [540] V10 S Tronic RWD",
+        "registration_number": "WK71 UOU",
+        "registration_date": "28/09/2021",
+        "mileage": 4283,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 96980,
+        "total_price": 96980,
+        "deposit": 9698,
+        "balance": 87282,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1427.02,
+        "final_payment": 36188.65,
+        "total_amount_payable": 130080.83,
+        "total_charge_for_credit": 33100.83,
+        "amount_of_credit": 87282,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 27.05,
+        "residual": 36187.65,
+        "price_to_buy": 36188.65
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 96980,
+        "total_price": 96980,
+        "deposit": 9698,
+        "balance": 87282,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1871.47,
+        "final_payment": 1881.47,
+        "total_amount_payable": 121996.2,
+        "total_charge_for_credit": 25016.2,
+        "amount_of_credit": 87282,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

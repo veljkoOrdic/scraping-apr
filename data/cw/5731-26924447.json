@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:33:41.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vision-motors.co.uk/used-land-rover-range-rover-warrington-cheshire-6663233",
+    "dealer_id": "5731",
+    "car_id": "26924447",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "2.0 P400ebiography",
+        "registration_number": "OW68XNN",
+        "registration_date": "29/01/2019",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35940,
+        "total_price": 35940,
+        "deposit": 3594,
+        "balance": 32346,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 45,
+        "regular_payment": 591.38,
+        "final_payment": 18044.72,
+        "total_amount_payable": 47659.44,
+        "total_charge_for_credit": 11719.44,
+        "amount_of_credit": 32346,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 9.38,
+        "residual": 18043.72,
+        "price_to_buy": 18044.72
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35940,
+        "total_price": 35940,
+        "deposit": 3594,
+        "balance": 32346,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 722.71,
+        "final_payment": 722.71,
+        "total_amount_payable": 46956.6,
+        "total_charge_for_credit": 11016.6,
+        "amount_of_credit": 32346,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

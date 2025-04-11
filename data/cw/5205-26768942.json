@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:57:00.786Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hodsongarage.co.uk/vehicle/546036/ford-kuga-st-line-x-5-door-15l-ecoblue-120ps-fwd-8-speed-automatic-in-penkridge-stafford",
+    "dealer_id": "5205",
+    "car_id": "26768942",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 EcoBlue ST-Line X Edition",
+        "registration_number": "LV21URR",
+        "registration_date": "29/04/2021",
+        "mileage": 16000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21799,
+        "total_price": 21799,
+        "deposit": 2179.9,
+        "balance": 19619.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 347.99,
+        "final_payment": 6878.45,
+        "total_amount_payable": 29589.76,
+        "total_charge_for_credit": 7790.76,
+        "amount_of_credit": 19619.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.35,
+        "residual": 6878.45,
+        "price_to_buy": 6878.45
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21799,
+        "total_price": 21799,
+        "deposit": 2179.9,
+        "balance": 19619.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 429.47,
+        "final_payment": 429.47,
+        "total_amount_payable": 27948.1,
+        "total_charge_for_credit": 6149.1,
+        "amount_of_credit": 19619.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

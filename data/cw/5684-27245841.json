@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:55:22.511Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-xm-4-4-25-7kwh-auto-xdrive-euro-6-s-s-5dr-ya73hrj",
+    "dealer_id": "5684",
+    "car_id": "27245841",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "XM",
+        "variant": "",
+        "derivative": "XM",
+        "registration_number": "YA73HRJ",
+        "registration_date": "08/12/2023",
+        "mileage": 3754,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 87999,
+        "total_price": 87999,
+        "deposit": 13799.85,
+        "balance": 74199.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1928.4,
+        "final_payment": 1929.4,
+        "total_amount_payable": 106364.05,
+        "total_charge_for_credit": 18365.05,
+        "amount_of_credit": 74199.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 87999,
+        "total_price": 87999,
+        "deposit": 13799.85,
+        "balance": 74199.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1021.33,
+        "final_payment": 55743.65,
+        "total_amount_payable": 117546.01,
+        "total_charge_for_credit": 29547.01,
+        "amount_of_credit": 74199.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 30.68,
+        "residual": 55743.65,
+        "price_to_buy": 55743.65
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:08:17.067Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2024-porsche-cayenne-eii-cayenne0-coupe",
+    "dealer_id": "4386",
+    "car_id": "24793742",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "COUPE",
+        "derivative": "5dr Tiptronic S",
+        "registration_number": "WM24DFA",
+        "registration_date": "27/06/2024",
+        "mileage": 5434,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79890,
+        "total_price": 79890,
+        "deposit": 12500,
+        "balance": 67390,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 1078.67,
+        "final_payment": 49243.75,
+        "total_amount_payable": 99497.2,
+        "total_charge_for_credit": 19607.2,
+        "amount_of_credit": 67390,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 19.8,
+        "residual": 49233.75,
+        "price_to_buy": 49243.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79890,
+        "total_price": 79890,
+        "deposit": 12500,
+        "balance": 67390,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2211.14,
+        "final_payment": 2221.14,
+        "total_amount_payable": 92111.04,
+        "total_charge_for_credit": 12221.04,
+        "amount_of_credit": 67390,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

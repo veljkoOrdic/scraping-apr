@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:25:01.640Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chrishodgsoncarsalesltd.co.uk/used-cars/ford-tourneo-connect-titanium-1-0-petrol-99-bhp-mpv-only-65524-miles-fsh/",
+    "dealer_id": "5630",
+    "car_id": "26281176",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TOURNEO CONNECT",
+        "variant": "ESTATE",
+        "derivative": "1.0 EcoBoost Titanium",
+        "registration_number": "MX68WKF",
+        "registration_date": "30/11/2018",
+        "mileage": 65524,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.86,
+        "term": 48,
+        "regular_payment": 180.73,
+        "final_payment": 4117.5,
+        "total_amount_payable": 13711.31,
+        "total_charge_for_credit": 2716.31,
+        "amount_of_credit": 9895.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4117.5,
+        "price_to_buy": 4117.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 230.1,
+        "final_payment": 230.1,
+        "total_amount_payable": 14905.5,
+        "total_charge_for_credit": 3910.5,
+        "amount_of_credit": 9895.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

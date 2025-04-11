@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:35:07.953Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dacemotorgroup.co.uk/used-bmw-4-series-gran-coupe-stockport-cheshire-6621857",
+    "dealer_id": "4886",
+    "car_id": "26781318",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "",
+        "derivative": "420d M Sport Gran Coupe",
+        "registration_number": "WD71FVX",
+        "registration_date": "11/02/2022",
+        "mileage": 59462,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25440,
+        "total_price": 25440,
+        "deposit": 2544,
+        "balance": 22896,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 522.03,
+        "final_payment": 523.03,
+        "total_amount_payable": 33866.8,
+        "total_charge_for_credit": 8426.8,
+        "amount_of_credit": 22896,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25440,
+        "total_price": 25440,
+        "deposit": 2544,
+        "balance": 22896,
+        "apr": 13.9,
+        "rate_of_interest": 6.76,
+        "term": 48,
+        "regular_payment": 441.66,
+        "final_payment": 10981,
+        "total_amount_payable": 34724.68,
+        "total_charge_for_credit": 9284.68,
+        "amount_of_credit": 22896,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15.2,
+        "residual": 10980,
+        "price_to_buy": 10981
+      }
+    ]
+  }
+]

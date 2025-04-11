@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:48:32.291Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaprestigecars.co.uk/details/used-car-in-slough/volvo/xc90/2.0h-t8-twin-engine-recharge-11.6kwh-r-design-auto-4wd-euro-6-ss-5dr/1288302/",
+    "dealer_id": "6956",
+    "car_id": "25954901",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC90",
+        "variant": "ESTATE",
+        "derivative": "2.0 T8 [390] Hybrid R DESIGN Gtron",
+        "registration_number": "WG20JWN",
+        "registration_date": "23/07/2020",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 416.91,
+        "final_payment": 9307.14,
+        "total_amount_payable": 36654.33,
+        "total_charge_for_credit": 9159.33,
+        "amount_of_credit": 24745.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.36,
+        "residual": 9307.14,
+        "price_to_buy": 9307.14
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 530.54,
+        "final_payment": 530.54,
+        "total_amount_payable": 34581.9,
+        "total_charge_for_credit": 7086.9,
+        "amount_of_credit": 24745.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

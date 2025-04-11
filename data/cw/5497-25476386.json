@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:34:40.077Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.worthing-motors.co.uk/used/citroen/c3/12-puretech-saint-james-euro-6-ss-5dr/worthing/west-sussex/21383896",
+    "dealer_id": "5497",
+    "car_id": "25476386",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech Saint James",
+        "registration_number": "GU22HTT",
+        "registration_date": "21/04/2022",
+        "mileage": 45523,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 60,
+        "regular_payment": 186.93,
+        "final_payment": 3203.36,
+        "total_amount_payable": 15331.23,
+        "total_charge_for_credit": 4341.23,
+        "amount_of_credit": 9891,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 2.72,
+        "residual": 3203.36,
+        "price_to_buy": 3203.36
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 216.52,
+        "final_payment": 216.52,
+        "total_amount_payable": 14090.2,
+        "total_charge_for_credit": 3100.2,
+        "amount_of_credit": 9891,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

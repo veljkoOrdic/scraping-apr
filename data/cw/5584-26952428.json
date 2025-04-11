@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:21:44.229Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brooklyn-hyundai.co.uk/used-car-details/used-hyundai-kona-10t-100-ultimate-5dr-hatchback-green-manual-petrol/id-4417721742141/",
+    "dealer_id": "5584",
+    "car_id": "26952428",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "KONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0T 100 Ultimate",
+        "registration_number": "GU74BNA",
+        "registration_date": "30/10/2024",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 5599,
+        "balance": 22396,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 572.23,
+        "final_payment": 572.23,
+        "total_amount_payable": 33066.04,
+        "total_charge_for_credit": 5071.04,
+        "amount_of_credit": 22396,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 5599,
+        "balance": 22396,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 380.95,
+        "final_payment": 11421.88,
+        "total_amount_payable": 35306.48,
+        "total_charge_for_credit": 7311.48,
+        "amount_of_credit": 22396,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.5,
+        "residual": 11421.88,
+        "price_to_buy": 11421.88
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T13:00:26.912Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.glenford.com/used/mercedes-benz/a-class/a180-amg-line-executive-5dr-auto/forfar/angus/21559600",
+    "dealer_id": "6977",
+    "car_id": "27382247",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A180 AMG Line Executive",
+        "registration_number": "SP72OFL",
+        "registration_date": "17/12/2022",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 370.11,
+        "final_payment": 10490.62,
+        "total_amount_payable": 30185.29,
+        "total_charge_for_credit": 7190.29,
+        "amount_of_credit": 20695.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 9000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 7.86,
+        "residual": 10490.62,
+        "price_to_buy": 10490.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 48,
+        "regular_payment": 536.19,
+        "final_payment": 641.19,
+        "total_amount_payable": 28141.62,
+        "total_charge_for_credit": 5146.62,
+        "amount_of_credit": 20695.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

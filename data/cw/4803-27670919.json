@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:09:30.912Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handsautosales.co.uk/details/used-car-in-chertsey/mercedes-benz/cclass/2.1-c220d-amg-line-premium-g-tronic+-4matic-euro-6-ss-5dr/1430612/",
+    "dealer_id": "4803",
+    "car_id": "27670919",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL ESTATE",
+        "derivative": "C220d 4Matic AMG Line Premium",
+        "registration_number": "LN18BEJ",
+        "registration_date": "16/03/2018",
+        "mileage": 56000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16350,
+        "total_price": 16350,
+        "deposit": 1635,
+        "balance": 14715,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 318.83,
+        "final_payment": 318.83,
+        "total_amount_payable": 20764.8,
+        "total_charge_for_credit": 4414.8,
+        "amount_of_credit": 14715,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16350,
+        "total_price": 16350,
+        "deposit": 1635,
+        "balance": 14715,
+        "apr": 14.8,
+        "rate_of_interest": 14.8,
+        "term": 24,
+        "regular_payment": 408.93,
+        "final_payment": 8564,
+        "total_amount_payable": 19604.39,
+        "total_charge_for_credit": 3254.39,
+        "amount_of_credit": 14715,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 12,
+        "residual": 8554,
+        "price_to_buy": 8564
+      }
+    ]
+  }
+]

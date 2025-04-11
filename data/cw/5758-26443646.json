@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T06:53:29.313Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stocktonkia.co.uk/used-car/used/nissan-juke-tekna-dig-t-in-stockton-on-tees-teesside/61789",
+    "dealer_id": "5758",
+    "car_id": "26443646",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T 114 Tekna",
+        "registration_number": "NV71ZGH",
+        "registration_date": "01/01/2022",
+        "mileage": 35968,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 2799.8,
+        "balance": 11199.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 171.17,
+        "final_payment": 6444.5,
+        "total_amount_payable": 17460.46,
+        "total_charge_for_credit": 3461.46,
+        "amount_of_credit": 11199.2,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 6444.5,
+        "price_to_buy": 6444.5
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 2799.8,
+        "balance": 11199.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 235.08,
+        "final_payment": 235.08,
+        "total_amount_payable": 16904.6,
+        "total_charge_for_credit": 2905.6,
+        "amount_of_credit": 11199.2,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

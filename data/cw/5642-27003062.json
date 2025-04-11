@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:28:22.821Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richtoy.co.uk/details/used-car-in-scunthorpe/lexus/ct/1.8-200h-e-cvt-euro-6-ss-5dr/1374893/",
+    "dealer_id": "5642",
+    "car_id": "27003062",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lexus",
+        "model": "CT",
+        "variant": "HATCHBACK",
+        "derivative": "200h 1.8 CVT",
+        "registration_number": "FN20VYS",
+        "registration_date": "13/03/2020",
+        "mileage": 31694,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15400,
+        "total_price": 15400,
+        "deposit": 1540,
+        "balance": 13860,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 240.17,
+        "final_payment": 6986.42,
+        "total_amount_payable": 19814.41,
+        "total_charge_for_credit": 4414.41,
+        "amount_of_credit": 13860,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6736.25,
+        "price_to_buy": 6986.42
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15400,
+        "total_price": 15400,
+        "deposit": 1540,
+        "balance": 13860,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 297.07,
+        "final_payment": 307.07,
+        "total_amount_payable": 19374.2,
+        "total_charge_for_credit": 3974.2,
+        "amount_of_credit": 13860,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

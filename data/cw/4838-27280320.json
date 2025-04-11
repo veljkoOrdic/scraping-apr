@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:21:50.587Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mainroadmotorcompany.co.uk/vehicle/bentley-continental-40-v8-gt-auto-4wd-euro-6-ss-2dr-in-worcester-worcestershire-08359884-4002-4547-b6c6-b29500d64aa4",
+    "dealer_id": "4838",
+    "car_id": "27280320",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GT",
+        "variant": "COUPE",
+        "derivative": "4.0 V8",
+        "registration_number": "KE70RFN",
+        "registration_date": "12/09/2020",
+        "mileage": 22766,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 109990,
+        "total_price": 109990,
+        "deposit": 10999,
+        "balance": 98991,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1821.66,
+        "final_payment": 40407,
+        "total_amount_payable": 137024.02,
+        "total_charge_for_credit": 27034.02,
+        "amount_of_credit": 98991,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.4,
+        "residual": 40397,
+        "price_to_buy": 40407
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 109990,
+        "total_price": 109990,
+        "deposit": 10999,
+        "balance": 98991,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 2485.89,
+        "final_payment": 2485.89,
+        "total_amount_payable": 130321.72,
+        "total_charge_for_credit": 20331.72,
+        "amount_of_credit": 98991,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

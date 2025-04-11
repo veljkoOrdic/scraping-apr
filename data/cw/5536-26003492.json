@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:55:58.019Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ballylisk.co.uk/used-car-details/used-volkswagen-tiguan-15-tsi-r-line-petrol-dsg-1-suv-white-automatic-petrol/id-3111/",
+    "dealer_id": "5536",
+    "car_id": "26003492",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI 150 R-Line DSG",
+        "registration_number": "FV71OPE",
+        "registration_date": "11/01/2022",
+        "mileage": 29668,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26975,
+        "total_price": 26975,
+        "deposit": 2698,
+        "balance": 24277,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 609.65,
+        "final_payment": 609.65,
+        "total_amount_payable": 31961.2,
+        "total_charge_for_credit": 4986.2,
+        "amount_of_credit": 24277,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26975,
+        "total_price": 26975,
+        "deposit": 2698,
+        "balance": 24277,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 428.2,
+        "final_payment": 10969,
+        "total_amount_payable": 33792.4,
+        "total_charge_for_credit": 6817.4,
+        "amount_of_credit": 24277,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.8,
+        "residual": 10969,
+        "price_to_buy": 10969
+      }
+    ]
+  }
+]

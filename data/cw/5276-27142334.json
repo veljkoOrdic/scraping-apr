@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:30:16.781Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tenbytradecars.co.uk/used-bmw-x5-luton-bedfordshire-6719393",
+    "dealer_id": "5276",
+    "car_id": "27142334",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M50d",
+        "registration_number": "NG68LOH",
+        "registration_date": "31/01/2019",
+        "mileage": 59569,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37795,
+        "total_price": 37795,
+        "deposit": 3779,
+        "balance": 34016,
+        "apr": 12.9,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 758.27,
+        "final_payment": 908.27,
+        "total_amount_payable": 49425.2,
+        "total_charge_for_credit": 11630.2,
+        "amount_of_credit": 34016,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37795,
+        "total_price": 37795,
+        "deposit": 3779,
+        "balance": 34016,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 45,
+        "regular_payment": 580.08,
+        "final_payment": 17846.64,
+        "total_amount_payable": 47149.16,
+        "total_charge_for_credit": 9354.16,
+        "amount_of_credit": 34016,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 10.11,
+        "residual": 17846.64,
+        "price_to_buy": 17846.64
+      }
+    ]
+  }
+]

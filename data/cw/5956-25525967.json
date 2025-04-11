@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:40:52.909Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilmoths.co.uk/used/ds-automobiles/ds-7/16-e-tense-142kwh-performance-line-eat8-euro-6-ss-5dr/maidstone/kent/21386905",
+    "dealer_id": "5956",
+    "car_id": "25525967",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "DS",
+        "model": "DS 7",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 E-TENSE Performance Line + EAT8",
+        "registration_number": "GK74UOP",
+        "registration_date": "04/09/2024",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 832.15,
+        "final_payment": 833.15,
+        "total_amount_payable": 43443.2,
+        "total_charge_for_credit": 8453.2,
+        "amount_of_credit": 31491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 615.97,
+        "final_payment": 13433.5,
+        "total_amount_payable": 46499.06,
+        "total_charge_for_credit": 11509.06,
+        "amount_of_credit": 31491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15.1,
+        "residual": 13432.5,
+        "price_to_buy": 13433.5
+      }
+    ]
+  }
+]

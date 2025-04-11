@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:31:59.041Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roadsidegarages.com/used-bmw-x5-coleraine-county-londonderry-6556970",
+    "dealer_id": "5488",
+    "car_id": "26528782",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive45e M Sport",
+        "registration_number": "YP71MLF",
+        "registration_date": "10/11/2021",
+        "mileage": 50249,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37994,
+        "total_price": 37994,
+        "deposit": 3799,
+        "balance": 34195,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 524.86,
+        "final_payment": 15259.41,
+        "total_amount_payable": 50025.15,
+        "total_charge_for_credit": 12031.15,
+        "amount_of_credit": 34195,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.91,
+        "residual": 15259.41,
+        "price_to_buy": 15259.41
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37994,
+        "total_price": 37994,
+        "deposit": 3799,
+        "balance": 34195,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 717.78,
+        "final_payment": 717.78,
+        "total_amount_payable": 46865.8,
+        "total_charge_for_credit": 8871.8,
+        "amount_of_credit": 34195,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

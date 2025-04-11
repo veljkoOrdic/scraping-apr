@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:22:45.889Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoinvestmentsukltd.co.uk/details/specialist-car-in-leicester/ford/fiesta/1.25-zetec-euro-6-5dr/1320367/",
+    "dealer_id": "5601",
+    "car_id": "26324466",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.25 82 Zetec",
+        "registration_number": "MJ65DXR",
+        "registration_date": "18/09/2015",
+        "mileage": 20985,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7689,
+        "total_price": 7689,
+        "deposit": 10,
+        "balance": 7679,
+        "apr": 14.9,
+        "rate_of_interest": 7.89,
+        "term": 60,
+        "regular_payment": 178.47,
+        "final_payment": 188.47,
+        "total_amount_payable": 10728.2,
+        "total_charge_for_credit": 3039.2,
+        "amount_of_credit": 7679,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7689,
+        "total_price": 7689,
+        "deposit": 10,
+        "balance": 7679,
+        "apr": 10.9,
+        "rate_of_interest": 5.41,
+        "term": 60,
+        "regular_payment": 162.6,
+        "final_payment": 322.6,
+        "total_amount_payable": 9926,
+        "total_charge_for_credit": 2237,
+        "amount_of_credit": 7679,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:12:26.678Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-audi-r8-fsi-v10-for-sale-in-cleckheaton-west-yorkshire-u1000/",
+    "dealer_id": "5575",
+    "car_id": "24702823",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "R8",
+        "variant": "COUPE SPECIAL EDITIONS",
+        "derivative": "5.2 FSI V10 Rear Wheel Series S Tronic",
+        "registration_number": "WP18DWJ",
+        "registration_date": "04/05/2018",
+        "mileage": 12710,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 75995,
+        "total_price": 75995,
+        "deposit": 7599.5,
+        "balance": 68395.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 1079.05,
+        "final_payment": 41926.44,
+        "total_amount_payable": 100241.29,
+        "total_charge_for_credit": 24246.29,
+        "amount_of_credit": 68395.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75995,
+        "total_price": 75995,
+        "deposit": 7599.5,
+        "balance": 68395.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1466.25,
+        "final_payment": 1476.25,
+        "total_amount_payable": 95584.5,
+        "total_charge_for_credit": 19589.5,
+        "amount_of_credit": 68395.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

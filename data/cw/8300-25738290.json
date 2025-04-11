@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:50:08.642Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.countygaragegroup.co.uk/used/vauxhall/corsa/12-turbo-gs-5dr/barnstaple/devon/21414537",
+    "dealer_id": "8300",
+    "car_id": "25738290",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo GS",
+        "registration_number": "WO73TCX",
+        "registration_date": "12/02/2024",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15884,
+        "total_price": 15884,
+        "deposit": 1588.4,
+        "balance": 14295.6,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 265.79,
+        "final_payment": 6439.81,
+        "total_amount_payable": 20786.13,
+        "total_charge_for_credit": 4902.13,
+        "amount_of_credit": 14295.6,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 6439.81,
+        "price_to_buy": 6439.81
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15884,
+        "total_price": 15884,
+        "deposit": 1588.4,
+        "balance": 14295.6,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 371.54,
+        "final_payment": 371.54,
+        "total_amount_payable": 19422.32,
+        "total_charge_for_credit": 3538.32,
+        "amount_of_credit": 14295.6,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

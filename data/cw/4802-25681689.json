@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:03:46.203Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/mercedes-g63-amg-40-v8-biturbo-amg-magno-edition-spds9gt-4matic-euro-6-ss-5dr-in-huddersfield-west-yorkshire-3d5752fa-8836-472f-8735-b1f000ff1684",
+    "dealer_id": "4802",
+    "car_id": "25681689",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON SPECIAL EDITIONS",
+        "derivative": "G63 Magno Edition 9G-Tronic",
+        "registration_number": "YK23OOF",
+        "registration_date": "31/05/2023",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 174995,
+        "total_price": 174995,
+        "deposit": 74995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 8.33,
+        "term": 48,
+        "regular_payment": 1244.4,
+        "final_payment": 74835,
+        "total_amount_payable": 208316.8,
+        "total_charge_for_credit": 33321.8,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 38,
+        "residual": 74835,
+        "price_to_buy": 74835
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 174995,
+        "total_price": 174995,
+        "deposit": 74995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2511.23,
+        "final_payment": 2511.23,
+        "total_amount_payable": 195534.04,
+        "total_charge_for_credit": 20539.04,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

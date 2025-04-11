@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:47:04.334Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-mazda-cx-5-bury-greater-manchester-6149236",
+    "dealer_id": "5301",
+    "car_id": "24862655",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-5",
+        "variant": "ESTATE",
+        "derivative": "2.0 e-Skyactiv G MHEV Centre-Line",
+        "registration_number": "CX23HHJ",
+        "registration_date": "18/04/2023",
+        "mileage": 30357,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20757,
+        "total_price": 20757,
+        "deposit": 2075,
+        "balance": 18682,
+        "apr": 11.6,
+        "rate_of_interest": 11.01,
+        "term": 48,
+        "regular_payment": 297.73,
+        "final_payment": 11217,
+        "total_amount_payable": 27583.04,
+        "total_charge_for_credit": 6826.04,
+        "amount_of_credit": 18682,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 11207,
+        "price_to_buy": 11217
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20757,
+        "total_price": 20757,
+        "deposit": 2075,
+        "balance": 18682,
+        "apr": 11.6,
+        "rate_of_interest": 6.1,
+        "term": 60,
+        "regular_payment": 406.33,
+        "final_payment": 416.33,
+        "total_amount_payable": 26464.8,
+        "total_charge_for_credit": 5707.8,
+        "amount_of_credit": 18682,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

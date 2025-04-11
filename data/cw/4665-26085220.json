@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:37:29.622Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.enkaeprestigemotors.co.uk/used-land-rover-range-rover-vogue-huddersfield-yorkshire-6263347",
+    "dealer_id": "4665",
+    "car_id": "26085220",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "4.4 P530 V8 SV",
+        "registration_number": "MRS5C",
+        "registration_date": "01/01/2023",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 120500,
+        "total_price": 120500,
+        "deposit": 20500,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 7.27,
+        "term": 48,
+        "regular_payment": 1664.52,
+        "final_payment": 50850,
+        "total_amount_payable": 149582.44,
+        "total_charge_for_credit": 29082.44,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 28,
+        "residual": 50850,
+        "price_to_buy": 50850
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 120500,
+        "total_price": 120500,
+        "deposit": 20500,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2099.08,
+        "final_payment": 2099.08,
+        "total_amount_payable": 146444.8,
+        "total_charge_for_credit": 25944.8,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

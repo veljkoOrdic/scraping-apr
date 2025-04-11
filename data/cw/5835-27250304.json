@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:18:40.455Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.slatersmotorgroup.co.uk/used-land-rover-range-rover-evoque-sunderland-tyne-and-wear-6747131",
+    "dealer_id": "5835",
+    "car_id": "27250304",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D165 R-Dynamic S",
+        "registration_number": "LB21EWM",
+        "registration_date": "01/03/2021",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 1199,
+        "balance": 22791,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 498.93,
+        "final_payment": 499.93,
+        "total_amount_payable": 31135.8,
+        "total_charge_for_credit": 7145.8,
+        "amount_of_credit": 22791,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 1199,
+        "balance": 22791,
+        "apr": 11.9,
+        "rate_of_interest": 5.81,
+        "term": 48,
+        "regular_payment": 408.94,
+        "final_payment": 11161,
+        "total_amount_payable": 31989.12,
+        "total_charge_for_credit": 7999.12,
+        "amount_of_credit": 22791,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.2,
+        "residual": 11160,
+        "price_to_buy": 11161
+      }
+    ]
+  }
+]

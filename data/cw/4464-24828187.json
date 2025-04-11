@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:56:17.777Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.centralmotors.co.uk/details/used-car-in-chard/landrover/rangeroverevoque/2.0-d150-se-auto-4wd-euro-6-ss-5dr/1201307/",
+    "dealer_id": "4464",
+    "car_id": "24828187",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D150 SE",
+        "registration_number": "SM19LHN",
+        "registration_date": "03/06/2019",
+        "mileage": 42382,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 11,
+        "rate_of_interest": 5.71,
+        "term": 48,
+        "regular_payment": 460.53,
+        "final_payment": 460.53,
+        "total_amount_payable": 24104.94,
+        "total_charge_for_credit": 4109.94,
+        "amount_of_credit": 17995.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 12.8,
+        "rate_of_interest": 12.8,
+        "term": 48,
+        "regular_payment": 337.84,
+        "final_payment": 8742.42,
+        "total_amount_payable": 26620.4,
+        "total_charge_for_credit": 6625.4,
+        "amount_of_credit": 17995.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.12,
+        "residual": 8742.42,
+        "price_to_buy": 8742.42
+      }
+    ]
+  }
+]

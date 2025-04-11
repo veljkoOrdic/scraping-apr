@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:36:37.637Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.enkaeprestigemotors.co.uk/used-mclaren-570s-huddersfield-yorkshire-6602931",
+    "dealer_id": "4665",
+    "car_id": "27053505",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "570",
+        "variant": "S COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "RX67BMZ",
+        "registration_date": "09/09/2017",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999,
+        "balance": 71996,
+        "apr": 9.9,
+        "rate_of_interest": 6.29,
+        "term": 48,
+        "regular_payment": 1479.44,
+        "final_payment": 20565,
+        "total_amount_payable": 98097.68,
+        "total_charge_for_credit": 18102.68,
+        "amount_of_credit": 71996,
+        "lender": "Car Money",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 42,
+        "residual": 20565,
+        "price_to_buy": 20565
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999,
+        "balance": 71996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1511.25,
+        "final_payment": 1511.25,
+        "total_amount_payable": 98674,
+        "total_charge_for_credit": 18679,
+        "amount_of_credit": 71996,
+        "lender": "Car Money",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

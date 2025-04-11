@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:41:36.065Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.panaceamotors.co.uk/used-mercedes-benz-g-class-bury-lancashire-5490594",
+    "dealer_id": "4899",
+    "car_id": "20760883",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "LG19BBW",
+        "registration_date": "31/07/2019",
+        "mileage": 38000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 137990,
+        "total_price": 137990,
+        "deposit": 13799,
+        "balance": 124191,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 40,
+        "regular_payment": 2425.31,
+        "final_payment": 61424,
+        "total_amount_payable": 167384.78,
+        "total_charge_for_credit": 29394.78,
+        "amount_of_credit": 124191,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 118,
+        "residual": 61414,
+        "price_to_buy": 61424
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 137990,
+        "total_price": 137990,
+        "deposit": 13799,
+        "balance": 124191,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 2606.73,
+        "final_payment": 2616.73,
+        "total_amount_payable": 170212.8,
+        "total_charge_for_credit": 32222.8,
+        "amount_of_credit": 124191,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

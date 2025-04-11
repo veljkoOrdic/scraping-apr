@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:23:37.641Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scotwestvehicles.co.uk/cars/vauxhall/mokkax/1.4-i-turbo-active/1354012/",
+    "dealer_id": "5607",
+    "car_id": "26754788",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "MOKKA X",
+        "variant": "HATCHBACK",
+        "derivative": "1.4T Active",
+        "registration_number": "YA67OBP",
+        "registration_date": "24/01/2018",
+        "mileage": 29510,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10490,
+        "total_price": 10490,
+        "deposit": 1049,
+        "balance": 9441,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 33,
+        "regular_payment": 238.76,
+        "final_payment": 3517.29,
+        "total_amount_payable": 12206.61,
+        "total_charge_for_credit": 1716.61,
+        "amount_of_credit": 9441,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 27500,
+        "excess_mileage_rate": 2.78,
+        "residual": 3517.29,
+        "price_to_buy": 3517.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10490,
+        "total_price": 10490,
+        "deposit": 1049,
+        "balance": 9441,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 198.18,
+        "final_payment": 198.18,
+        "total_amount_payable": 12939.8,
+        "total_charge_for_credit": 2449.8,
+        "amount_of_credit": 9441,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

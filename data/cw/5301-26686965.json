@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:48:07.321Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-bmw-x5-bury-greater-manchester-6596195",
+    "dealer_id": "5301",
+    "car_id": "26686965",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive45e M Sport",
+        "registration_number": "OU71XON",
+        "registration_date": "03/09/2021",
+        "mileage": 61488,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36859,
+        "total_price": 36859,
+        "deposit": 3685,
+        "balance": 33174,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 492.75,
+        "final_payment": 19935,
+        "total_amount_payable": 47272,
+        "total_charge_for_credit": 10413,
+        "amount_of_credit": 33174,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 19925,
+        "price_to_buy": 19935
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36859,
+        "total_price": 36859,
+        "deposit": 3685,
+        "balance": 33174,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 696.1,
+        "final_payment": 706.1,
+        "total_amount_payable": 45461,
+        "total_charge_for_credit": 8602,
+        "amount_of_credit": 33174,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

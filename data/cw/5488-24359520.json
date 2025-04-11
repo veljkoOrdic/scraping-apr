@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:30:09.223Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roadsidegarages.com/used-kia-picanto-coleraine-county-londonderry-6028809",
+    "dealer_id": "5488",
+    "car_id": "24359520",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 X-Line",
+        "registration_number": "FV71OOH",
+        "registration_date": "22/11/2021",
+        "mileage": 33270,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 161.54,
+        "final_payment": 3688.76,
+        "total_amount_payable": 14318.62,
+        "total_charge_for_credit": 3323.62,
+        "amount_of_credit": 9896,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 2.94,
+        "residual": 3688.76,
+        "price_to_buy": 3688.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 207.72,
+        "final_payment": 207.72,
+        "total_amount_payable": 13562.2,
+        "total_charge_for_credit": 2567.2,
+        "amount_of_credit": 9896,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

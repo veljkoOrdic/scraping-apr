@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:58:25.612Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/3993609/2021-mercedes-benz-gls/",
+    "dealer_id": "5013",
+    "car_id": "25434947",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLS",
+        "variant": "AMG ESTATE",
+        "derivative": "GLS 63 4Matic+ Night Edition TCT",
+        "registration_number": "KU71 LRX",
+        "registration_date": "10/09/2021",
+        "mileage": 33027,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82980,
+        "total_price": 82980,
+        "deposit": 8298,
+        "balance": 74682,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1229.48,
+        "final_payment": 30310.24,
+        "total_amount_payable": 111147.56,
+        "total_charge_for_credit": 28167.56,
+        "amount_of_credit": 74682,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 20.71,
+        "residual": 30309.24,
+        "price_to_buy": 30310.24
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 82980,
+        "total_price": 82980,
+        "deposit": 8298,
+        "balance": 74682,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1601.31,
+        "final_payment": 1611.31,
+        "total_amount_payable": 104386.6,
+        "total_charge_for_credit": 21406.6,
+        "amount_of_credit": 74682,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

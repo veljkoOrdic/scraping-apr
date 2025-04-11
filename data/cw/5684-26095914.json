@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:50:10.858Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/mini-convertible-2-0-cooper-s-seaside-edition-steptronic-euro-6-s-s-2dr-pf23czd",
+    "dealer_id": "5684",
+    "car_id": "26095914",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Convertible",
+        "variant": "",
+        "derivative": "Convertible Cooper S Seaside Edition",
+        "registration_number": "PF23CZD",
+        "registration_date": "17/05/2023",
+        "mileage": 5790,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25199,
+        "total_price": 25199,
+        "deposit": 4179.85,
+        "balance": 21019.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 546.26,
+        "final_payment": 547.26,
+        "total_amount_payable": 30401.33,
+        "total_charge_for_credit": 5202.33,
+        "amount_of_credit": 21019.15,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25199,
+        "total_price": 25199,
+        "deposit": 4179.85,
+        "balance": 21019.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 335.21,
+        "final_payment": 13068.95,
+        "total_amount_payable": 33003.67,
+        "total_charge_for_credit": 7804.67,
+        "amount_of_credit": 21019.15,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 8.11,
+        "residual": 13068.95,
+        "price_to_buy": 13068.95
+      }
+    ]
+  }
+]

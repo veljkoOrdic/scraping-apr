@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:46:12.798Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/ford-transit-custom-20-300-ecoblue-limited-panel-van-5dr-diesel-manual-l1-h1-euro-6-ss-136-ps-in-wigan-lancashire-708d4f54-b807-40c3-bb15-696a92c720fc",
+    "dealer_id": "8297",
+    "car_id": "26728797",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 136ps H1 Van Limited",
+        "registration_number": "WN24LND",
+        "registration_date": "18/03/2024",
+        "mileage": 11037,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32388,
+        "total_price": 32388,
+        "deposit": 8097,
+        "balance": 24291,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 48,
+        "regular_payment": 620.65,
+        "final_payment": 620.65,
+        "total_amount_payable": 37888.2,
+        "total_charge_for_credit": 5500.2,
+        "amount_of_credit": 24291,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32388,
+        "total_price": 32388,
+        "deposit": 8097,
+        "balance": 24291,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 469.97,
+        "final_payment": 8997.68,
+        "total_amount_payable": 39653.24,
+        "total_charge_for_credit": 7265.24,
+        "amount_of_credit": 24291,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 8997.68,
+        "price_to_buy": 8997.68
+      }
+    ]
+  }
+]

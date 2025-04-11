@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:59:37.397Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.eltoncars.co.uk/vehicle/land-rover-range-rover-sport-50-p575-v8-svr-auto-4wd-euro-6-ss-5dr-in-peterborough-cambridgeshire-97e7cf9c-eeb3-49db-a831-b212009d1f7e",
+    "dealer_id": "5019",
+    "car_id": "26035215",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 P575 S/C SVR",
+        "registration_number": "AV71WEA",
+        "registration_date": "29/10/2021",
+        "mileage": 23776,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57990,
+        "total_price": 57990,
+        "deposit": 5799,
+        "balance": 52191,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 960.79,
+        "final_payment": 26683.29,
+        "total_amount_payable": 77639.42,
+        "total_charge_for_credit": 19649.42,
+        "amount_of_credit": 52191,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 25712.5,
+        "price_to_buy": 26683.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 57990,
+        "total_price": 57990,
+        "deposit": 5799,
+        "balance": 52191,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1166.03,
+        "final_payment": 1176.03,
+        "total_amount_payable": 75770.8,
+        "total_charge_for_credit": 17780.8,
+        "amount_of_credit": 52191,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:30:38.717Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dnaautohausltd.co.uk/used/cars/bmw/x3/3-0-x3-m40i-auto-4wd-5dr-43",
+    "dealer_id": "4660",
+    "car_id": "26943636",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 M40i",
+        "registration_number": "LA70AFX",
+        "registration_date": "08/01/2021",
+        "mileage": 33600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37499,
+        "total_price": 37499,
+        "deposit": 3749.9,
+        "balance": 33749.1,
+        "apr": 9.4,
+        "rate_of_interest": 4.92,
+        "term": 60,
+        "regular_payment": 700.86,
+        "final_payment": 701.86,
+        "total_amount_payable": 45802.5,
+        "total_charge_for_credit": 8303.5,
+        "amount_of_credit": 33749.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37499,
+        "total_price": 37499,
+        "deposit": 3749.9,
+        "balance": 33749.1,
+        "apr": 9.4,
+        "rate_of_interest": 4.65,
+        "term": 48,
+        "regular_payment": 604.48,
+        "final_payment": 13657.5,
+        "total_amount_payable": 46423.44,
+        "total_charge_for_credit": 8924.44,
+        "amount_of_credit": 33749.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.9,
+        "residual": 13657.5,
+        "price_to_buy": 13657.5
+      }
+    ]
+  }
+]

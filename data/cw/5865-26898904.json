@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:54:07.286Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.revitupuk.com/vehicle-details/used-bmw-3-series-m3-competition-m-xdrive-for-sale-in-chester-u2169/",
+    "dealer_id": "5865",
+    "car_id": "26898904",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition M xDrive Saloon",
+        "registration_number": "SL24CZC",
+        "registration_date": "23/03/2024",
+        "mileage": 12900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 49,
+        "regular_payment": 1041.22,
+        "final_payment": 33165,
+        "total_amount_payable": 91184.28,
+        "total_charge_for_credit": 21189.28,
+        "amount_of_credit": 62995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 33155,
+        "price_to_buy": 33165
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1350.73,
+        "final_payment": 1360.73,
+        "total_amount_payable": 88053.3,
+        "total_charge_for_credit": 18058.3,
+        "amount_of_credit": 62995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

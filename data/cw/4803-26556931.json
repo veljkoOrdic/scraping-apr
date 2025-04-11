@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:09:17.789Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handsautosales.co.uk/details/used-car-in-chertsey/audi/a1/1.4-tfsi-cod-black-edition-sportback-s-tronic-euro-6-ss-5dr-nav/1339211/",
+    "dealer_id": "4803",
+    "car_id": "26556931",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK SPECIAL EDITIONS",
+        "derivative": "1.4 TFSI 150 Black Edition Nav S Tronic",
+        "registration_number": "KX18LOA",
+        "registration_date": "13/03/2018",
+        "mileage": 34800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14500,
+        "total_price": 14500,
+        "deposit": 1450,
+        "balance": 13050,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 282.75,
+        "final_payment": 282.75,
+        "total_amount_payable": 18415,
+        "total_charge_for_credit": 3915,
+        "amount_of_credit": 13050,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14500,
+        "total_price": 14500,
+        "deposit": 1450,
+        "balance": 13050,
+        "apr": 14.8,
+        "rate_of_interest": 14.8,
+        "term": 24,
+        "regular_payment": 296.24,
+        "final_payment": 9354,
+        "total_amount_payable": 17617.52,
+        "total_charge_for_credit": 3117.52,
+        "amount_of_credit": 13050,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 12,
+        "residual": 9344,
+        "price_to_buy": 9354
+      }
+    ]
+  }
+]

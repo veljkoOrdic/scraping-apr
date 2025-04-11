@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:50:22.648Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.countygaragegroup.co.uk/used/kia/niro/16-gdi-127-hybrid-2-nav-5dr-dct/barnstaple/devon/21510690",
+    "dealer_id": "8300",
+    "car_id": "26658776",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi 127 Hybrid 2 Nav DCT",
+        "registration_number": "WF24LFM",
+        "registration_date": "14/08/2024",
+        "mileage": 5125,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23500,
+        "total_price": 23500,
+        "deposit": 2350,
+        "balance": 21150,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 371.54,
+        "final_payment": 10848.13,
+        "total_amount_payable": 31032.05,
+        "total_charge_for_credit": 7532.05,
+        "amount_of_credit": 21150,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 10848.13,
+        "price_to_buy": 10848.13
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23500,
+        "total_price": 23500,
+        "deposit": 2350,
+        "balance": 21150,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 549.68,
+        "final_payment": 549.68,
+        "total_amount_payable": 28734.64,
+        "total_charge_for_credit": 5234.64,
+        "amount_of_credit": 21150,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

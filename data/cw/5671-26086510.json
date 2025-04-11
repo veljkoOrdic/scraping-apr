@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:44:51.091Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kenjervis.com/used-car-details/used-kia-ev6-774kwh-gt-line-hatchback-5dr-hatchback-red-automatic-electric/id-10722/",
+    "dealer_id": "5671",
+    "car_id": "26086510",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "EV6",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "166kW GT Line 77.4kWh",
+        "registration_number": "DY73MPU",
+        "registration_date": "29/09/2023",
+        "mileage": 7000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 6399,
+        "balance": 25596,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 436.45,
+        "final_payment": 14238.5,
+        "total_amount_payable": 41150.65,
+        "total_charge_for_credit": 9155.65,
+        "amount_of_credit": 25596,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 13,
+        "residual": 14237.5,
+        "price_to_buy": 14238.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 6399,
+        "balance": 25596,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 665.22,
+        "final_payment": 666.22,
+        "total_amount_payable": 38330.56,
+        "total_charge_for_credit": 6335.56,
+        "amount_of_credit": 25596,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

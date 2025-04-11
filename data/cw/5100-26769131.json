@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:21:32.286Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jimreidvehiclesales.co.uk/used/cars/kia/niro/2-gdi-1-6-petrol-140-phev-automatic-900",
+    "dealer_id": "5100",
+    "car_id": "26769131",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi PHEV 2 DCT",
+        "registration_number": "SW71GZN",
+        "registration_date": "07/01/2022",
+        "mileage": 14992,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17999,
+        "total_price": 17999,
+        "deposit": 1799.9,
+        "balance": 16199.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 271.2,
+        "final_payment": 9124,
+        "total_amount_payable": 23941.5,
+        "total_charge_for_credit": 5942.5,
+        "amount_of_credit": 16199.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 9114,
+        "price_to_buy": 9124
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17999,
+        "total_price": 17999,
+        "deposit": 1799.9,
+        "balance": 16199.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 420.84,
+        "final_payment": 430.84,
+        "total_amount_payable": 22010.22,
+        "total_charge_for_credit": 4011.22,
+        "amount_of_credit": 16199.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

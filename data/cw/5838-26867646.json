@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T07:21:35.489Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.drivemotorretail.co.uk/used-vehicle-details/used-hyundai-ioniq-6-239kw-premium-77kwh-4dr-awd-au-saloon-blue-automatic-electric/id-87363255628/",
+    "dealer_id": "5838",
+    "car_id": "26867646",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 6",
+        "variant": "ELECTRIC SALOON",
+        "derivative": "239kW Premium 77kWh",
+        "registration_number": "EA24JJX",
+        "registration_date": "28/03/2024",
+        "mileage": 6000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31801,
+        "total_price": 31801,
+        "deposit": 3180,
+        "balance": 28621,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 504.94,
+        "final_payment": 14918,
+        "total_amount_payable": 41830.18,
+        "total_charge_for_credit": 10029.18,
+        "amount_of_credit": 28621,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 14918,
+        "price_to_buy": 14918
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31801,
+        "total_price": 31801,
+        "deposit": 3180,
+        "balance": 28621,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 743.85,
+        "final_payment": 743.85,
+        "total_amount_payable": 38884.8,
+        "total_charge_for_credit": 7083.8,
+        "amount_of_credit": 28621,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

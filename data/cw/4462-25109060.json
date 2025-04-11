@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:55:36.742Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.germanmotorsleeds.co.uk/used-porsche-cayenne-leeds-west-yorkshire-6208151",
+    "dealer_id": "4462",
+    "car_id": "25109060",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "ESTATE",
+        "derivative": "Turbo Tiptronic S",
+        "registration_number": "LF20AYT",
+        "registration_date": "20/03/2020",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 60000,
+        "total_price": 60000,
+        "deposit": 6000,
+        "balance": 54000,
+        "apr": 9.9,
+        "rate_of_interest": 6.8,
+        "term": 48,
+        "regular_payment": 999.5,
+        "final_payment": 21712.5,
+        "total_amount_payable": 74689,
+        "total_charge_for_credit": 14689,
+        "amount_of_credit": 54000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 26,
+        "residual": 21712.5,
+        "price_to_buy": 21712.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 60000,
+        "total_price": 60000,
+        "deposit": 6000,
+        "balance": 54000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1133.55,
+        "final_payment": 1133.55,
+        "total_amount_payable": 74013,
+        "total_charge_for_credit": 14013,
+        "amount_of_credit": 54000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

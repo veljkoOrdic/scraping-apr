@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:41:10.948Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.panaceamotors.co.uk/used-bmw-m3-bury-lancashire-6378740",
+    "dealer_id": "4899",
+    "car_id": "25831429",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition M xDrive Saloon",
+        "registration_number": "CN22UUA",
+        "registration_date": "01/03/2022",
+        "mileage": 17958,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56795,
+        "total_price": 56795,
+        "deposit": 5679,
+        "balance": 51116,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 796.84,
+        "final_payment": 29305,
+        "total_amount_payable": 72435.48,
+        "total_charge_for_credit": 15640.48,
+        "amount_of_credit": 51116,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 44,
+        "residual": 29295,
+        "price_to_buy": 29305
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56795,
+        "total_price": 56795,
+        "deposit": 5679,
+        "balance": 51116,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1072.83,
+        "final_payment": 1082.83,
+        "total_amount_payable": 70058.8,
+        "total_charge_for_credit": 13263.8,
+        "amount_of_credit": 51116,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T13:01:13.594Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vennsmotorcompany.co.uk/cars/toyota/auris/1.8-vvt-h-design-automatic/1246580/",
+    "dealer_id": "6978",
+    "car_id": "25429798",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "AURIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 Hybrid Design TSS CVT [Nav]",
+        "registration_number": "WD18BSO",
+        "registration_date": "12/07/2018",
+        "mileage": 37300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1000,
+        "balance": 11995,
+        "apr": 13.7,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 272.62,
+        "final_payment": 272.62,
+        "total_amount_payable": 17357.2,
+        "total_charge_for_credit": 4362.2,
+        "amount_of_credit": 11995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

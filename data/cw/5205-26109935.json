@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:56:47.458Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hodsongarage.co.uk/vehicle/545327/ford-focus-st-line-estate-10l-ecoboost-125ps-mhev-fwd-6-speed-manual-in-penkridge-stafford",
+    "dealer_id": "5205",
+    "car_id": "26109935",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "ESTATE",
+        "derivative": "1.0 EcoBoost Hybrid mHEV 125 ST-Line Edition",
+        "registration_number": "DE71GWG",
+        "registration_date": "22/10/2021",
+        "mileage": 18550,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15699,
+        "total_price": 15699,
+        "deposit": 1569.9,
+        "balance": 14129.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 254.74,
+        "final_payment": 4627.36,
+        "total_amount_payable": 21226.92,
+        "total_charge_for_credit": 5527.92,
+        "amount_of_credit": 14129.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.86,
+        "residual": 4627.36,
+        "price_to_buy": 4627.36
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15699,
+        "total_price": 15699,
+        "deposit": 1569.9,
+        "balance": 14129.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 309.29,
+        "final_payment": 309.29,
+        "total_amount_payable": 20127.3,
+        "total_charge_for_credit": 4428.3,
+        "amount_of_credit": 14129.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

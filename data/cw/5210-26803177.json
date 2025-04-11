@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:01:29.879Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.livingstonemotorgroup.co.uk/used/isuzu/d-max/19-v-cross-double-cab-4x4-auto/hull/east-yorkshire/239720",
+    "dealer_id": "5210",
+    "car_id": "26803177",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Isuzu",
+        "model": "D-MAX",
+        "variant": "DIESEL",
+        "derivative": "1.9 V-Cross Double Cab 4x4",
+        "registration_number": "YY24BXG",
+        "registration_date": "12/04/2024",
+        "mileage": 11220,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36970,
+        "total_price": 36970,
+        "deposit": 3697,
+        "balance": 33273,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 694.51,
+        "final_payment": 10965,
+        "total_amount_payable": 47303.97,
+        "total_charge_for_credit": 10333.97,
+        "amount_of_credit": 33273,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 10955,
+        "price_to_buy": 10965
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36970,
+        "total_price": 36970,
+        "deposit": 3697,
+        "balance": 33273,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 864.75,
+        "final_payment": 864.75,
+        "total_amount_payable": 45205,
+        "total_charge_for_credit": 8235,
+        "amount_of_credit": 33273,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

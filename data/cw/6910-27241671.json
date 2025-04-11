@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:53:14.456Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-vana.co.uk/vehicle/bentley-bentayga-40-v8-first-edition-auto-4wd-euro-6-ss-5dr-in-manchester-3d80fa57-018e-47ac-a633-b2910125183c",
+    "dealer_id": "6910",
+    "car_id": "27241671",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "ESTATE",
+        "derivative": "4.0 V8",
+        "registration_number": "33SAJ",
+        "registration_date": "18/12/2020",
+        "mileage": 57000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 106995,
+        "total_price": 106995,
+        "deposit": 56995,
+        "balance": 50000,
+        "apr": 9.9,
+        "rate_of_interest": 4.78,
+        "term": 48,
+        "regular_payment": 613.18,
+        "final_payment": 37621,
+        "total_amount_payable": 124048.64,
+        "total_charge_for_credit": 17053.64,
+        "amount_of_credit": 50000,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 36.6,
+        "residual": 37620,
+        "price_to_buy": 37621
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 106995,
+        "total_price": 106995,
+        "deposit": 10699.5,
+        "balance": 96295.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2021.4,
+        "final_payment": 2021.4,
+        "total_amount_payable": 131983.5,
+        "total_charge_for_credit": 24988.5,
+        "amount_of_credit": 96295.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

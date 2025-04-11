@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:56:11.723Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.intercarsltd.co.uk/details/used-car-in-leicester/bmw/m2/3.0i-dct-euro-6-ss-2dr/1295954/",
+    "dealer_id": "6969",
+    "car_id": "26833028",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "COUPE",
+        "derivative": "M2 DCT",
+        "registration_number": "P900CJC",
+        "registration_date": "29/06/2018",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.88,
+        "term": 48,
+        "regular_payment": 491.16,
+        "final_payment": 11340,
+        "total_amount_payable": 37424.02,
+        "total_charge_for_credit": 7429.02,
+        "amount_of_credit": 26995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18,
+        "residual": 11340,
+        "price_to_buy": 11340
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 677.81,
+        "final_payment": 677.81,
+        "total_amount_payable": 35534.38,
+        "total_charge_for_credit": 5539.38,
+        "amount_of_credit": 26995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

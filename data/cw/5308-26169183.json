@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-11T03:52:31.164Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mccarthycars.co.uk/vehicle-details/used-jaguar-xf-v6-s-for-sale-72-74-mitcham-road-u27856/",
+    "dealer_id": "5308",
+    "car_id": "26169183",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XF",
+        "variant": "SALOON",
+        "derivative": "3.0 V6 Supercharged S",
+        "registration_number": "LG16WEH",
+        "registration_date": "31/03/2016",
+        "mileage": 84506,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13795,
+        "total_price": 13795,
+        "deposit": 1379.5,
+        "balance": 12415.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 271.8,
+        "final_payment": 272.8,
+        "total_amount_payable": 17688.5,
+        "total_charge_for_credit": 3893.5,
+        "amount_of_credit": 12415.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13795,
+        "total_price": 13795,
+        "deposit": 1379.5,
+        "balance": 12415.5,
+        "apr": 13.6,
+        "rate_of_interest": 13.6,
+        "term": 60,
+        "regular_payment": 281.34,
+        "final_payment": 281.34,
+        "total_amount_payable": 18259.9,
+        "total_charge_for_credit": 4464.9,
+        "amount_of_credit": 12415.5,
+        "lender": "Connected Car",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:07:36.885Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2023-bmw-x5-30-50e-257kwh-m-sport-steptronic-xdrive-euro-6-5-door-1",
+    "dealer_id": "4386",
+    "car_id": "24337286",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive50e M Sport",
+        "registration_number": "VK73JXY",
+        "registration_date": "29/09/2023",
+        "mileage": 9382,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 60000,
+        "total_price": 60000,
+        "deposit": 5600,
+        "balance": 54400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 868.79,
+        "final_payment": 33750.67,
+        "total_amount_payable": 80183.8,
+        "total_charge_for_credit": 20183.8,
+        "amount_of_credit": 54400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 16.75,
+        "residual": 33750.67,
+        "price_to_buy": 33750.67
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 60000,
+        "total_price": 60000,
+        "deposit": 5600,
+        "balance": 54400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1413.82,
+        "final_payment": 1414.82,
+        "total_amount_payable": 73464.36,
+        "total_charge_for_credit": 13464.36,
+        "amount_of_credit": 54400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

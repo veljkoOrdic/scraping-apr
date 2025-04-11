@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:28:51.290Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rallysportcarsales.co.uk/used/cars/bmw/1-series/2-0-120d-xdrive-m-sport-shadow-edition-auto-4wd-5dr-11",
+    "dealer_id": "5135",
+    "car_id": "25958379",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "120d xDrive M Sport Shadow Edition 5door",
+        "registration_number": "DV19KMO",
+        "registration_date": "30/04/2019",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19130,
+        "total_price": 19130,
+        "deposit": 1913,
+        "balance": 17217,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 36,
+        "regular_payment": 379.41,
+        "final_payment": 8763,
+        "total_amount_payable": 23955.35,
+        "total_charge_for_credit": 4825.35,
+        "amount_of_credit": 17217,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 15,
+        "residual": 8763,
+        "price_to_buy": 8763
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19130,
+        "total_price": 19130,
+        "deposit": 1913,
+        "balance": 17217,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 369.16,
+        "final_payment": 369.16,
+        "total_amount_payable": 24062.6,
+        "total_charge_for_credit": 4932.6,
+        "amount_of_credit": 17217,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

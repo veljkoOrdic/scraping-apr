@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T00:47:26.194Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.isaacmotors.co.uk/bmw-x6-xdrive30d-m-sport-in-swansea-glamorgan-888eb40d-229d-4010-a734-fc40423fbcc0",
+    "dealer_id": "4783",
+    "car_id": "27720920",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X6",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive30d MHT M Sport Step",
+        "registration_number": "P12AAC",
+        "registration_date": "01/09/2023",
+        "mileage": 14000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61995,
+        "total_price": 61995,
+        "deposit": 6199.5,
+        "balance": 55795.5,
+        "apr": 13.7,
+        "rate_of_interest": 6.99,
+        "term": 48,
+        "regular_payment": 1115.47,
+        "final_payment": 24776.72,
+        "total_amount_payable": 83403.31,
+        "total_charge_for_credit": 21408.31,
+        "amount_of_credit": 55795.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 23651.25,
+        "price_to_buy": 24776.72
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 61995,
+        "total_price": 61995,
+        "deposit": 6199.5,
+        "balance": 55795.5,
+        "apr": 13.8,
+        "rate_of_interest": 6.99,
+        "term": 48,
+        "regular_payment": 1496.75,
+        "final_payment": 1496.75,
+        "total_amount_payable": 78043.5,
+        "total_charge_for_credit": 16048.5,
+        "amount_of_credit": 55795.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

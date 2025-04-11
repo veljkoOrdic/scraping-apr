@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-11T12:38:20.459Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thelovelycarcompany.co.uk/cars/skoda/citigo/1.0-mpi-se/1094269/",
+    "dealer_id": "6931",
+    "car_id": "23373401",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "CITIGO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 MPI SE",
+        "registration_number": "FP13DZU",
+        "registration_date": "31/05/2013",
+        "mileage": 65742,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3490,
+        "total_price": 3490,
+        "deposit": 349,
+        "balance": 3141,
+        "apr": 11.5,
+        "rate_of_interest": 6.05,
+        "term": 60,
+        "regular_payment": 68.19,
+        "final_payment": 69.19,
+        "total_amount_payable": 4441.4,
+        "total_charge_for_credit": 951.4,
+        "amount_of_credit": 3141,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

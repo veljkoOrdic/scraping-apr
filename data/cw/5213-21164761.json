@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T03:05:32.652Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.closemotorcompany.co.uk/used/suzuki/swace/18-hybrid-motion-5dr-cvt/corby/northamptonshire/21119302",
+    "dealer_id": "5213",
+    "car_id": "21164761",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SWACE",
+        "variant": "ESTATE",
+        "derivative": "1.8 Hybrid Motion CVT",
+        "registration_number": "AK23HLU",
+        "registration_date": "30/05/2023",
+        "mileage": 13806,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 5497.5,
+        "balance": 16492.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 273.12,
+        "final_payment": 8853.88,
+        "total_amount_payable": 27461.14,
+        "total_charge_for_credit": 5471.14,
+        "amount_of_credit": 16492.5,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 8853.88,
+        "price_to_buy": 8853.88
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 5497.5,
+        "balance": 16492.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 421.39,
+        "final_payment": 421.39,
+        "total_amount_payable": 25724.22,
+        "total_charge_for_credit": 3734.22,
+        "amount_of_credit": 16492.5,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

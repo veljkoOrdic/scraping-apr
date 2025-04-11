@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:58:50.289Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/5559017/2018-lamborghini-huracan-performante/",
+    "dealer_id": "5013",
+    "car_id": "27369969",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "COUPE",
+        "derivative": "LP 640-4 Performante LDF",
+        "registration_number": "EU18FSS",
+        "registration_date": "09/05/2018",
+        "mileage": 28550,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 174980,
+        "total_price": 174980,
+        "deposit": 17498,
+        "balance": 157482,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 3597.99,
+        "final_payment": 67166.98,
+        "total_amount_payable": 210594.63,
+        "total_charge_for_credit": 35614.63,
+        "amount_of_credit": 157482,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 47.71,
+        "residual": 67165.98,
+        "price_to_buy": 67166.98
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 174980,
+        "total_price": 174980,
+        "deposit": 17498,
+        "balance": 157482,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 3376.68,
+        "final_payment": 3386.68,
+        "total_amount_payable": 220108.8,
+        "total_charge_for_credit": 45128.8,
+        "amount_of_credit": 157482,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

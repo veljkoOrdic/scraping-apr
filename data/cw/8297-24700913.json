@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:45:28.272Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/vauxhall-vivaro-20-turbo-d-3100-dynamic-panel-van-6dr-diesel-manual-l2-h1-euro-6-ss-120-ps-in-wigan-lancashire-f0ca2a8f-e295-424c-ac59-ef84867047a0",
+    "dealer_id": "8297",
+    "car_id": "24700913",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "VIVARO",
+        "variant": "L2 DIESEL",
+        "derivative": "3100 2.0d 120PS Dynamic H1 Van",
+        "registration_number": "NA20SNJ",
+        "registration_date": "30/06/2020",
+        "mileage": 48695,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14388,
+        "total_price": 14388,
+        "deposit": 3597,
+        "balance": 10791,
+        "apr": 10.9,
+        "rate_of_interest": 10.34,
+        "term": 48,
+        "regular_payment": 275.72,
+        "final_payment": 275.72,
+        "total_amount_payable": 16831.56,
+        "total_charge_for_credit": 2443.56,
+        "amount_of_credit": 10791,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14388,
+        "total_price": 14388,
+        "deposit": 3597,
+        "balance": 10791,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 237,
+        "final_payment": 2312,
+        "total_amount_payable": 17285,
+        "total_charge_for_credit": 2897,
+        "amount_of_credit": 10791,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 2312,
+        "price_to_buy": 2312
+      }
+    ]
+  }
+]

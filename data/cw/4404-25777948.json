@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:31:27.913Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goytrecarcompany.com/cars/citroen/c3aircross/1.2-puretech-feel/1274506/",
+    "dealer_id": "4404",
+    "car_id": "25777948",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3 AIRCROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech Feel",
+        "registration_number": "CK18SUV",
+        "registration_date": "29/06/2018",
+        "mileage": 50534,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7395,
+        "total_price": 7395,
+        "deposit": 739.5,
+        "balance": 6655.5,
+        "apr": 14.5,
+        "rate_of_interest": 14.5,
+        "term": 60,
+        "regular_payment": 153.52,
+        "final_payment": 153.52,
+        "total_amount_payable": 9951.7,
+        "total_charge_for_credit": 2556.7,
+        "amount_of_credit": 6655.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7395,
+        "total_price": 7395,
+        "deposit": 739.5,
+        "balance": 6655.5,
+        "apr": 15.3,
+        "rate_of_interest": 15.3,
+        "term": 38,
+        "regular_payment": 167.94,
+        "final_payment": 2599.02,
+        "total_amount_payable": 9552.3,
+        "total_charge_for_credit": 2157.3,
+        "amount_of_credit": 6655.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 31666,
+        "excess_mileage_rate": 2,
+        "residual": 2599.02,
+        "price_to_buy": 2599.02
+      }
+    ]
+  }
+]

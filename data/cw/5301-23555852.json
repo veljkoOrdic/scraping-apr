@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:46:36.818Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-mini-cooper-s-bury-greater-manchester-5837821",
+    "dealer_id": "5301",
+    "car_id": "23555852",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "ELECTRIC",
+        "derivative": "135kW Cooper S Level 2 33kWh",
+        "registration_number": "LB71GGE",
+        "registration_date": "31/01/2022",
+        "mileage": 9752,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13250,
+        "total_price": 13250,
+        "deposit": 1325,
+        "balance": 11925,
+        "apr": 11.6,
+        "rate_of_interest": 11.01,
+        "term": 48,
+        "regular_payment": 181.86,
+        "final_payment": 7660,
+        "total_amount_payable": 17714.28,
+        "total_charge_for_credit": 4464.28,
+        "amount_of_credit": 11925,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9,
+        "residual": 7650,
+        "price_to_buy": 7660
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13250,
+        "total_price": 13250,
+        "deposit": 1325,
+        "balance": 11925,
+        "apr": 11.6,
+        "rate_of_interest": 6.09,
+        "term": 60,
+        "regular_payment": 259.27,
+        "final_payment": 269.27,
+        "total_amount_payable": 16891.2,
+        "total_charge_for_credit": 3641.2,
+        "amount_of_credit": 11925,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:06:17.930Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2024-bmw-3-series-330e-12kwh-m-sport-auto-euro-6-4-door-2",
+    "dealer_id": "4386",
+    "car_id": "23031785",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "330e M Sport Saloon",
+        "registration_number": "WO73MTK",
+        "registration_date": "30/01/2024",
+        "mileage": 4473,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34500,
+        "total_price": 34500,
+        "deposit": 5600,
+        "balance": 28900,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 472.56,
+        "final_payment": 17276.22,
+        "total_amount_payable": 45086.54,
+        "total_charge_for_credit": 10586.54,
+        "amount_of_credit": 28900,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 11.76,
+        "residual": 17276.22,
+        "price_to_buy": 17276.22
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34500,
+        "total_price": 34500,
+        "deposit": 5600,
+        "balance": 28900,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 751.09,
+        "final_payment": 752.09,
+        "total_amount_payable": 41653.32,
+        "total_charge_for_credit": 7153.32,
+        "amount_of_credit": 28900,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

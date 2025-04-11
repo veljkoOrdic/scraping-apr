@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:08:00.905Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/q2/black-edition-35-tfsi-150-ps-6-speed/poole/dorset/21352463",
+    "dealer_id": "5799",
+    "car_id": "25156075",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q2",
+        "variant": "ESTATE",
+        "derivative": "35 TFSI Black Edition",
+        "registration_number": "HD24NJX",
+        "registration_date": "30/07/2024",
+        "mileage": 6000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37000,
+        "total_price": 37000,
+        "deposit": 5800,
+        "balance": 31200,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 672.1,
+        "final_payment": 682.1,
+        "total_amount_payable": 46136,
+        "total_charge_for_credit": 9136,
+        "amount_of_credit": 31200,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37000,
+        "total_price": 37000,
+        "deposit": 5800,
+        "balance": 31200,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 573.88,
+        "final_payment": 13785,
+        "total_amount_payable": 47131.24,
+        "total_charge_for_credit": 10131.24,
+        "amount_of_credit": 31200,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 6.98,
+        "residual": 13775,
+        "price_to_buy": 13785
+      }
+    ]
+  }
+]

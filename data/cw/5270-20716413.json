@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:23:12.640Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.morrisonmotors.co.uk/used/land-rover/defender/30-d300-75th-limited-edition-90-3dr-auto/turriff/aberdeenshire/20898440",
+    "dealer_id": "5270",
+    "car_id": "20716413",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "3.0 D300 75th Limited Edition 90",
+        "registration_number": "SP23OMM",
+        "registration_date": "09/03/2023",
+        "mileage": 15,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 17498.75,
+        "balance": 52496.25,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 623.54,
+        "final_payment": 40698,
+        "total_amount_payable": 88126.67,
+        "total_charge_for_credit": 18131.67,
+        "amount_of_credit": 52496.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 40688,
+        "price_to_buy": 40698
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 17498.75,
+        "balance": 52496.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1101.98,
+        "final_payment": 1111.98,
+        "total_amount_payable": 83627.55,
+        "total_charge_for_credit": 13632.55,
+        "amount_of_credit": 52496.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

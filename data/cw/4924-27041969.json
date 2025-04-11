@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:51:55.016Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jenkinsmotorcompany.co.uk/used-ford-transit-custom-walsall-staffordshire-6693147",
+    "dealer_id": "4924",
+    "car_id": "27041969",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "320 L2 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 170ps Low Roof Limited Van",
+        "registration_number": "YM21TLX",
+        "registration_date": "29/06/2021",
+        "mileage": 90394,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299,
+        "balance": 29696,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 696.24,
+        "final_payment": 4397,
+        "total_amount_payable": 40419.28,
+        "total_charge_for_credit": 7424.28,
+        "amount_of_credit": 29696,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 26,
+        "residual": 4397,
+        "price_to_buy": 4397
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299,
+        "balance": 29696,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 758.75,
+        "final_payment": 758.75,
+        "total_amount_payable": 39719,
+        "total_charge_for_credit": 6724,
+        "amount_of_credit": 29696,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

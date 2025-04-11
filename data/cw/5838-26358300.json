@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T07:21:50.293Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.drivemotorretail.co.uk/used-vehicle-details/used-hyundai-ioniq-5-168kw-premium-84-kwh-5dr-auto-hatchback-pearl-abyss-black-automatic-electric/id-87343231141/",
+    "dealer_id": "5838",
+    "car_id": "26358300",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 5",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "168kW Premium 84 kWh",
+        "registration_number": "YY74DWN",
+        "registration_date": "10/09/2024",
+        "mileage": 3862,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35850,
+        "total_price": 35850,
+        "deposit": 3585,
+        "balance": 32265,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 615.65,
+        "final_payment": 14063,
+        "total_amount_payable": 46583.55,
+        "total_charge_for_credit": 10733.55,
+        "amount_of_credit": 32265,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 14063,
+        "price_to_buy": 14063
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35850,
+        "total_price": 35850,
+        "deposit": 3585,
+        "balance": 32265,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 838.56,
+        "final_payment": 838.56,
+        "total_amount_payable": 43835.88,
+        "total_charge_for_credit": 7985.88,
+        "amount_of_credit": 32265,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

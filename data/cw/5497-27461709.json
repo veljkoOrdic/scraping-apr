@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:35:40.685Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.worthing-motors.co.uk/used/ds-automobiles/ds-7-crossback/16-e-tense-132kwh-opera-crossback-eat8-4wd-euro-6-ss-5dr/worthing/west-sussex/21564319",
+    "dealer_id": "5497",
+    "car_id": "27461709",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "DS",
+        "model": "DS 7",
+        "variant": "CROSSBACK HATCHBACK",
+        "derivative": "1.6 E-TENSE 4X4 Opera EAT8",
+        "registration_number": "BP71MXE",
+        "registration_date": "31/01/2022",
+        "mileage": 15774,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27490,
+        "total_price": 27490,
+        "deposit": 2749,
+        "balance": 24741,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 60,
+        "regular_payment": 450.56,
+        "final_payment": 9410.71,
+        "total_amount_payable": 38742.75,
+        "total_charge_for_credit": 11252.75,
+        "amount_of_credit": 24741,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.81,
+        "residual": 9410.71,
+        "price_to_buy": 9410.71
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27490,
+        "total_price": 27490,
+        "deposit": 2749,
+        "balance": 24741,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 541.59,
+        "final_payment": 541.59,
+        "total_amount_payable": 35244.4,
+        "total_charge_for_credit": 7754.4,
+        "amount_of_credit": 24741,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

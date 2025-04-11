@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:48:05.364Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaprestigecars.co.uk/details/used-car-in-slough/ford/kuga/2.5h-duratec-st-line-edition-cvt-euro-6-ss-5dr/1215692/",
+    "dealer_id": "6956",
+    "car_id": "25031401",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "ESTATE",
+        "derivative": "2.5 FHEV ST-Line Edition CVT",
+        "registration_number": "VA23UYO",
+        "registration_date": "09/08/2023",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 245.92,
+        "final_payment": 7371.79,
+        "total_amount_payable": 23580.57,
+        "total_charge_for_credit": 6585.57,
+        "amount_of_credit": 15295.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.42,
+        "residual": 7371.79,
+        "price_to_buy": 7371.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 334.83,
+        "final_payment": 334.83,
+        "total_amount_payable": 21789.3,
+        "total_charge_for_credit": 4794.3,
+        "amount_of_credit": 15295.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

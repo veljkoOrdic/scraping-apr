@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:41:06.967Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilmoths.co.uk/used/jaguar/f-type/50-v8-r-dynamic-auto-euro-6-ss-2dr/eastbourne/east-sussex/21578234",
+    "dealer_id": "5956",
+    "car_id": "27719404",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "CONVERTIBLE",
+        "derivative": "5.0 P450 Supercharged V8 R-Dynamic",
+        "registration_number": "KO21BPV",
+        "registration_date": "02/06/2021",
+        "mileage": 21038,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41250,
+        "total_price": 41250,
+        "deposit": 4125,
+        "balance": 37125,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 707.26,
+        "final_payment": 17011,
+        "total_amount_payable": 55084.48,
+        "total_charge_for_credit": 13834.48,
+        "amount_of_credit": 37125,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18.9,
+        "residual": 17010,
+        "price_to_buy": 17011
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41250,
+        "total_price": 41250,
+        "deposit": 4125,
+        "balance": 37125,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 981.03,
+        "final_payment": 982.03,
+        "total_amount_payable": 51215.44,
+        "total_charge_for_credit": 9965.44,
+        "amount_of_credit": 37125,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

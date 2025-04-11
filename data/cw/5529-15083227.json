@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T04:50:07.250Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.openroadcars.co.uk/cars/bmw/3series/335-3.0td-xdrive-m-sport-auto-2013-63-plate/574026/",
+    "dealer_id": "5529",
+    "car_id": "15083227",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "DIESEL SALOON",
+        "derivative": "335d xDrive M Sport Step",
+        "registration_number": "DN63JYR",
+        "registration_date": "22/11/2013",
+        "mileage": 80000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10980,
+        "total_price": 10980,
+        "deposit": 1098,
+        "balance": 9882,
+        "apr": 15.5,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 232.35,
+        "final_payment": 232.35,
+        "total_amount_payable": 15039,
+        "total_charge_for_credit": 4059,
+        "amount_of_credit": 9882,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

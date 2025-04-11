@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T12:48:00.877Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/alfa-romeo-giulietta-spider-in-wigan-lancashire-09a528ab-0061-4e95-bbfa-528f764dd3cf",
+    "dealer_id": "8297",
+    "car_id": "26621373",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "515XVT",
+        "registration_date": "01/06/1960",
+        "mileage": 84000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 74990,
+        "total_price": 74990,
+        "deposit": 7499,
+        "balance": 67491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1724.43,
+        "final_payment": 1724.43,
+        "total_amount_payable": 90271.64,
+        "total_charge_for_credit": 15281.64,
+        "amount_of_credit": 67491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 74990,
+        "total_price": 74990,
+        "deposit": 7499,
+        "balance": 67491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1043.21,
+        "final_payment": 41371.98,
+        "total_amount_payable": 97901.85,
+        "total_charge_for_credit": 22911.85,
+        "amount_of_credit": 67491,
+        "lender": "Evolution Funding"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:29:54.323Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roadsidegarages.com/used-vauxhall-crossland-coleraine-county-londonderry-6293441",
+    "dealer_id": "5488",
+    "car_id": "25453725",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CROSSLAND",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 SE Edition",
+        "registration_number": "YW71AYC",
+        "registration_date": "18/01/2022",
+        "mileage": 42097,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 165.07,
+        "final_payment": 1979.92,
+        "total_amount_payable": 12718.05,
+        "total_charge_for_credit": 2723.05,
+        "amount_of_credit": 8996,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 1.63,
+        "residual": 1979.92,
+        "price_to_buy": 1979.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 188.83,
+        "final_payment": 188.83,
+        "total_amount_payable": 12328.8,
+        "total_charge_for_credit": 2333.8,
+        "amount_of_credit": 8996,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

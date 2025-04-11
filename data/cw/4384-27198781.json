@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-10T23:04:05.403Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ttcarsales.co.uk/used/bmw/x3/30i-sport-5dr-auto/doncaster/south-yorkshire/21548603",
+    "dealer_id": "4384",
+    "car_id": "27198781",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "ESTATE",
+        "derivative": "3.0i Sport",
+        "registration_number": "NG55UKP",
+        "registration_date": "01/12/2005",
+        "mileage": 75179,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3495,
+        "total_price": 3495,
+        "deposit": 349.5,
+        "balance": 3145.5,
+        "apr": 15.7,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 74.28,
+        "final_payment": 74.28,
+        "total_amount_payable": 4806.3,
+        "total_charge_for_credit": 1311.3,
+        "amount_of_credit": 3145.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

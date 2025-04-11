@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:02:12.926Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westawaymotors.co.uk/used/suzuki/ignis/12-dualjet-12v-hybrid-sz5-5dr/northampton/northamptonshire/21350213",
+    "dealer_id": "5211",
+    "car_id": "25169702",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "IGNIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet 12V Hybrid SZ5",
+        "registration_number": "PJ70FUD",
+        "registration_date": "04/12/2020",
+        "mileage": 4500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13290,
+        "total_price": 13290,
+        "deposit": 1329,
+        "balance": 11961,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 60,
+        "regular_payment": 251.07,
+        "final_payment": 251.07,
+        "total_amount_payable": 16393.2,
+        "total_charge_for_credit": 3103.2,
+        "amount_of_credit": 11961,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13290,
+        "total_price": 13290,
+        "deposit": 1329,
+        "balance": 11961,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 197.4,
+        "final_payment": 4816.92,
+        "total_amount_payable": 17792.52,
+        "total_charge_for_credit": 4502.52,
+        "amount_of_credit": 11961,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.07,
+        "residual": 4816.92,
+        "price_to_buy": 4816.92
+      }
+    ]
+  }
+]

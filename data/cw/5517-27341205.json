@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:47:37.695Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.coleshillcarsales.co.uk/vehicle/volkswagen-transporter-4-berth-camper-van-in-nuneaton-warwickshire-799c1a62-6727-4d70-97f6-b29900f7b182",
+    "dealer_id": "5517",
+    "car_id": "27341205",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T28 SWB DIESEL",
+        "derivative": "2.0 TDI 110 Startline Van",
+        "registration_number": "BP74FUB",
+        "registration_date": "20/12/2024",
+        "mileage": 101,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 14.3,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 1190.43,
+        "final_payment": 10529.18,
+        "total_amount_payable": 71978.89,
+        "total_charge_for_credit": 16983.89,
+        "amount_of_credit": 49495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9328.75,
+        "price_to_buy": 10529.18
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 14.1,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 1131.91,
+        "final_payment": 1131.91,
+        "total_amount_payable": 73414.1,
+        "total_charge_for_credit": 18419.1,
+        "amount_of_credit": 49495.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]
