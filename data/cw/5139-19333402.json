@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:31:39.604Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regentgarage.com/used/volkswagen/id3/2022-110kw-life-pure-perform-45kwh-5dr-auto-110kw-ch-2022/criccieth/gwynedd/20737014",
+    "dealer_id": "5139",
+    "car_id": "19333402",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.3",
+        "variant": "HATCHBACK",
+        "derivative": "110kW Life Pure Perform 45kWh [110kW Ch]",
+        "registration_number": "CX72XXD",
+        "registration_date": "28/12/2022",
+        "mileage": 3175,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19900,
+        "total_price": 19900,
+        "deposit": 2740,
+        "balance": 17160,
+        "apr": 13.3,
+        "rate_of_interest": 13.31,
+        "term": 48,
+        "regular_payment": 352.59,
+        "final_payment": 6805,
+        "total_amount_payable": 26116.73,
+        "total_charge_for_credit": 6216.73,
+        "amount_of_credit": 17160,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8.24,
+        "residual": 6795,
+        "price_to_buy": 6805
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19900,
+        "total_price": 19900,
+        "deposit": 2240,
+        "balance": 17660,
+        "apr": 13.3,
+        "rate_of_interest": 13.29,
+        "term": 48,
+        "regular_payment": 469.76,
+        "final_payment": 479.76,
+        "total_amount_payable": 24798.48,
+        "total_charge_for_credit": 4898.48,
+        "amount_of_credit": 17660,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

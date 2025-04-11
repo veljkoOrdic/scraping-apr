@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:37:38.185Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pre5tigecars.co.uk/vehicle/audi-rsq8-40-tfsi-v8-vorsprung-tiptronic-quattro-euro-6-ss-5dr-in-birmingham-west-midlands-03f4e730-8703-4532-9b49-b20c010e106f",
+    "dealer_id": "5735",
+    "car_id": "25988851",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q8",
+        "variant": "ESTATE",
+        "derivative": "RS Q8 TFSI Quattro Vorsprung Tiptronic",
+        "registration_number": "LM73HVT",
+        "registration_date": "30/10/2023",
+        "mileage": 7350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 109995,
+        "total_price": 109995,
+        "deposit": 10999.5,
+        "balance": 98995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1627.9,
+        "final_payment": 36004.04,
+        "total_amount_payable": 143049.64,
+        "total_charge_for_credit": 33054.64,
+        "amount_of_credit": 98995.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 20.89,
+        "residual": 36004.04,
+        "price_to_buy": 36004.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 109995,
+        "total_price": 109995,
+        "deposit": 10999.5,
+        "balance": 98995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2078.08,
+        "final_payment": 2079.08,
+        "total_amount_payable": 135685.3,
+        "total_charge_for_credit": 25690.3,
+        "amount_of_credit": 98995.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

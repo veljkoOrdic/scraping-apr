@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:59:40.152Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/nissan-gt-r-38-v6-recaro-auto-4wd-euro-6-2dr-in-huddersfield-west-yorkshire-dfc24e7d-ca6a-4abe-9e5e-b16200ee5765",
+    "dealer_id": "4802",
+    "car_id": "24187828",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "GT-R",
+        "variant": "COUPE",
+        "derivative": "3.8 Recaro",
+        "registration_number": "HJ21ONT",
+        "registration_date": "22/03/2021",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 97995,
+        "total_price": 97995,
+        "deposit": 9799.5,
+        "balance": 88195.5,
+        "apr": 9.9,
+        "rate_of_interest": 6.94,
+        "term": 48,
+        "regular_payment": 1583.99,
+        "final_payment": 38227.5,
+        "total_amount_payable": 122474.53,
+        "total_charge_for_credit": 24479.53,
+        "amount_of_credit": 88195.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 33,
+        "residual": 38227.5,
+        "price_to_buy": 38227.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 97995,
+        "total_price": 97995,
+        "deposit": 9799.5,
+        "balance": 88195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2214.79,
+        "final_payment": 2214.79,
+        "total_amount_payable": 116109.42,
+        "total_charge_for_credit": 18114.42,
+        "amount_of_credit": 88195.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

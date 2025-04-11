@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:53:19.785Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.revitupuk.com/vehicle-details/used-land-rover-range-rover-sport-p575-v8-svr-for-sale-in-chester-u2103/",
+    "dealer_id": "5865",
+    "car_id": "26262152",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 V8 S/C 575 SVR",
+        "registration_number": "GV68EEO",
+        "registration_date": "06/12/2018",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53950,
+        "total_price": 53950,
+        "deposit": 5395,
+        "balance": 48555,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 32,
+        "regular_payment": 1067.92,
+        "final_payment": 26943,
+        "total_amount_payable": 64375.6,
+        "total_charge_for_credit": 10425.6,
+        "amount_of_credit": 48555,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 26666,
+        "excess_mileage_rate": 44,
+        "residual": 26933,
+        "price_to_buy": 26943
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53950,
+        "total_price": 53950,
+        "deposit": 5395,
+        "balance": 48555,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1040.7,
+        "final_payment": 1050.7,
+        "total_amount_payable": 67847,
+        "total_charge_for_credit": 13897,
+        "amount_of_credit": 48555,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

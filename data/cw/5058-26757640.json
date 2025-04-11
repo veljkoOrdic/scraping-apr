@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:12:27.317Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.warrenvehiclesales.co.uk/vehicle/kia-picanto-1-in-welwyn-hertfordshire-446e4dce-6958-4232-92e1-b26500edc868",
+    "dealer_id": "5058",
+    "car_id": "26757640",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 1",
+        "registration_number": "MB67MAB",
+        "registration_date": "23/10/2017",
+        "mileage": 29500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 649.5,
+        "balance": 5845.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 30,
+        "regular_payment": 156.36,
+        "final_payment": 2735.8,
+        "total_amount_payable": 7919.74,
+        "total_charge_for_credit": 1424.74,
+        "amount_of_credit": 5845.5,
+        "lender": "Meridian Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 1.77,
+        "residual": 2735.8,
+        "price_to_buy": 2735.8
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 649.5,
+        "balance": 5845.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 157.07,
+        "final_payment": 157.07,
+        "total_amount_payable": 8188.86,
+        "total_charge_for_credit": 1693.86,
+        "amount_of_credit": 5845.5,
+        "lender": "Meridian Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

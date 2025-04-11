@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:41:38.307Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.owensexpressmotors.co.uk/used-bmw-3-series-liverpool-mersyside-5070620",
+    "dealer_id": "4444",
+    "car_id": "20260800",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "330e Sport Pro Saloon",
+        "registration_number": "NA69ZZD",
+        "registration_date": "16/12/2019",
+        "mileage": 21142,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 2000,
+        "balance": 18000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 56,
+        "regular_payment": 321.88,
+        "final_payment": 7149.38,
+        "total_amount_payable": 26852.78,
+        "total_charge_for_credit": 6852.78,
+        "amount_of_credit": 18000,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 5.14,
+        "residual": 7149.38,
+        "price_to_buy": 7149.38
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 2000,
+        "balance": 18000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 394.03,
+        "final_payment": 394.03,
+        "total_amount_payable": 25641.8,
+        "total_charge_for_credit": 5641.8,
+        "amount_of_credit": 18000,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

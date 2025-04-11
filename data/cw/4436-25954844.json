@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:40:32.594Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvrees.com/used/mercedes-benz/a-class/a180-amg-line-5dr-auto/cardigan/pembrokeshire/21440101",
+    "dealer_id": "4436",
+    "car_id": "25954844",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A180 AMG Line",
+        "registration_number": "LA70DMF",
+        "registration_date": "22/12/2020",
+        "mileage": 9485,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 7.9,
+        "rate_of_interest": 7.6,
+        "term": 60,
+        "regular_payment": 370.73,
+        "final_payment": 370.73,
+        "total_amount_payable": 24293.3,
+        "total_charge_for_credit": 3798.3,
+        "amount_of_credit": 18445.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 7.9,
+        "rate_of_interest": 7.6,
+        "term": 49,
+        "regular_payment": 304.69,
+        "final_payment": 8014,
+        "total_amount_payable": 24688.62,
+        "total_charge_for_credit": 4193.62,
+        "amount_of_credit": 18445.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 7994,
+        "price_to_buy": 8014
+      }
+    ]
+  }
+]

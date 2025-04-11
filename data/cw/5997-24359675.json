@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:51:35.843Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-kia-soul-ev-explore-hatchback-blue-automatic-electric/id-12292/",
+    "dealer_id": "5997",
+    "car_id": "24359675",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SOUL",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "150kW Explore 64kWh",
+        "registration_number": "AO24VWM",
+        "registration_date": "28/03/2024",
+        "mileage": 5432,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22499,
+        "total_price": 22499,
+        "deposit": 2250,
+        "balance": 20249,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 300.43,
+        "final_payment": 11435.33,
+        "total_amount_payable": 28105.97,
+        "total_charge_for_credit": 5606.97,
+        "amount_of_credit": 20249,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 11435.33,
+        "price_to_buy": 11435.33
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22499,
+        "total_price": 22499,
+        "deposit": 2250,
+        "balance": 20249,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 499.64,
+        "final_payment": 499.64,
+        "total_amount_payable": 26232.72,
+        "total_charge_for_credit": 3733.72,
+        "amount_of_credit": 20249,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

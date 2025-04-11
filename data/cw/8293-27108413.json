@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:40:07.003Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.savannahcars.co.uk/used-nissan-qashqai-southend-on-sea-essex-6709948",
+    "dealer_id": "8293",
+    "car_id": "27108413",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK SPECIAL EDITIONS",
+        "derivative": "1.5 E-Power Kuro Edition",
+        "registration_number": "EY73OCC",
+        "registration_date": "09/10/2023",
+        "mileage": 13100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 48,
+        "regular_payment": 380.32,
+        "final_payment": 11295,
+        "total_amount_payable": 32150.36,
+        "total_charge_for_credit": 6160.36,
+        "amount_of_credit": 23391,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.7,
+        "residual": 11295,
+        "price_to_buy": 11295
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 480.49,
+        "final_payment": 481.49,
+        "total_amount_payable": 31429.4,
+        "total_charge_for_credit": 5439.4,
+        "amount_of_credit": 23391,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

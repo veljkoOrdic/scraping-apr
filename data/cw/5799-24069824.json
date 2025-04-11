@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:07:46.482Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/q3/sport-35-tdi-150-ps-s-tronic/poole/dorset/21229621",
+    "dealer_id": "5799",
+    "car_id": "24069824",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "DIESEL ESTATE",
+        "derivative": "35 TDI Sport S Tronic [Tech Pro]",
+        "registration_number": "HG24JJX",
+        "registration_date": "15/04/2024",
+        "mileage": 5500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32900,
+        "total_price": 32900,
+        "deposit": 5185,
+        "balance": 27715,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 597.03,
+        "final_payment": 607.03,
+        "total_amount_payable": 41016.8,
+        "total_charge_for_credit": 8116.8,
+        "amount_of_credit": 27715,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32900,
+        "total_price": 32900,
+        "deposit": 5185,
+        "balance": 27715,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 428.97,
+        "final_payment": 17110,
+        "total_amount_payable": 42885.56,
+        "total_charge_for_credit": 9985.56,
+        "amount_of_credit": 27715,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 8,
+        "residual": 17100,
+        "price_to_buy": 17110
+      }
+    ]
+  }
+]

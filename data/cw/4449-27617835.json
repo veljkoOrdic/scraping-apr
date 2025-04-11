@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:44:20.232Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.robertscars.co.uk/used-car/land-rover/defender/3-0-d250-hse-110-5dr-auto-11-500-miles-full-service-history/for-sale-in-flint-flintshire/aetv95187433/",
+    "dealer_id": "4449",
+    "car_id": "27617835",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 HSE 110",
+        "registration_number": "X20WHY",
+        "registration_date": "12/12/2023",
+        "mileage": 11500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 1076.12,
+        "final_payment": 22721.09,
+        "total_amount_payable": 92711.67,
+        "total_charge_for_credit": 27716.67,
+        "amount_of_credit": 58495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.35,
+        "residual": 22720.09,
+        "price_to_buy": 22721.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1280.48,
+        "final_payment": 1281.48,
+        "total_amount_payable": 83329.3,
+        "total_charge_for_credit": 18334.3,
+        "amount_of_credit": 58495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

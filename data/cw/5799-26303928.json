@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:09:55.474Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/a7-sportback-tfsi-e/black-edition-50-tfsi-e-quattro-299-ps-s-tronic/poole/dorset/21469946",
+    "dealer_id": "5799",
+    "car_id": "26303928",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A7",
+        "variant": "SPORTBACK",
+        "derivative": "50 TFSI e Quattro Black Edition S Tronic",
+        "registration_number": "HG74JMV",
+        "registration_date": "31/10/2024",
+        "mileage": 6000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75000,
+        "total_price": 75000,
+        "deposit": 11500,
+        "balance": 63500,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 1367.9,
+        "final_payment": 1377.9,
+        "total_amount_payable": 93584,
+        "total_charge_for_credit": 18584,
+        "amount_of_credit": 63500,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 75000,
+        "total_price": 75000,
+        "deposit": 11500,
+        "balance": 63500,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 1288.91,
+        "final_payment": 20767.5,
+        "total_amount_payable": 94135.18,
+        "total_charge_for_credit": 19135.18,
+        "amount_of_credit": 63500,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 9.98,
+        "residual": 20757.5,
+        "price_to_buy": 20767.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:19:13.848Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.slatersmotorgroup.co.uk/used-land-rover-defender-sunderland-tyne-and-wear-6621988",
+    "dealer_id": "5835",
+    "car_id": "26785823",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 S 110",
+        "registration_number": "NL22JYU",
+        "registration_date": "03/03/2022",
+        "mileage": 9500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 55990,
+        "total_price": 55990,
+        "deposit": 2799,
+        "balance": 53191,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1164.44,
+        "final_payment": 1165.44,
+        "total_amount_payable": 72666.4,
+        "total_charge_for_credit": 16676.4,
+        "amount_of_credit": 53191,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 55990,
+        "total_price": 55990,
+        "deposit": 5990,
+        "balance": 50000,
+        "apr": 11.9,
+        "rate_of_interest": 5.82,
+        "term": 48,
+        "regular_payment": 905.3,
+        "final_payment": 24008.5,
+        "total_amount_payable": 73452.9,
+        "total_charge_for_credit": 17462.9,
+        "amount_of_credit": 50000,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 20.6,
+        "residual": 24007.5,
+        "price_to_buy": 24008.5
+      }
+    ]
+  }
+]

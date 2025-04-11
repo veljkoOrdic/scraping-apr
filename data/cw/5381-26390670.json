@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:11:33.802Z",
+    "source": "codeweavers_calculator",
+    "url": "https://trackssuzuki.co.uk/vehicle/UE8611",
+    "dealer_id": "5381",
+    "car_id": "26390670",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SWIFT",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Mild Hybrid Motion",
+        "registration_number": "WF74 KUD",
+        "registration_date": "01/09/2024",
+        "mileage": 2723,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17999,
+        "total_price": 17999,
+        "deposit": 5400,
+        "balance": 12599,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 37,
+        "regular_payment": 187.79,
+        "final_payment": 8656,
+        "total_amount_payable": 20816.44,
+        "total_charge_for_credit": 2817.44,
+        "amount_of_credit": 12599,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 18500,
+        "excess_mileage_rate": 4.8,
+        "residual": 8646,
+        "price_to_buy": 8656
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17999,
+        "total_price": 17999,
+        "deposit": 5400,
+        "balance": 12599,
+        "apr": 8.9,
+        "rate_of_interest": 8.52,
+        "term": 37,
+        "regular_payment": 388.61,
+        "final_payment": 388.61,
+        "total_amount_payable": 19778.57,
+        "total_charge_for_credit": 1779.57,
+        "amount_of_credit": 12599,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

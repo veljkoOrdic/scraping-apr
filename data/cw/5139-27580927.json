@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:32:49.317Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regentgarage.com/used/volkswagen/golf/gti-20-tsi-300ps-clubsport-dsg-auto-2025/criccieth/gwynedd/21571047",
+    "dealer_id": "5139",
+    "car_id": "27580927",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 300 GTI Clubsport DSG",
+        "registration_number": "CX25JDJ",
+        "registration_date": "24/03/2025",
+        "mileage": 200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45200,
+        "total_price": 45200,
+        "deposit": 4770,
+        "balance": 40430,
+        "apr": 11.3,
+        "rate_of_interest": 11.34,
+        "term": 48,
+        "regular_payment": 707.3,
+        "final_payment": 20620,
+        "total_amount_payable": 58633.1,
+        "total_charge_for_credit": 13433.1,
+        "amount_of_credit": 40430,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 9,
+        "residual": 20610,
+        "price_to_buy": 20620
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45200,
+        "total_price": 45200,
+        "deposit": 4770,
+        "balance": 40430,
+        "apr": 11.3,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 1039.72,
+        "final_payment": 1049.72,
+        "total_amount_payable": 54686.56,
+        "total_charge_for_credit": 9486.56,
+        "amount_of_credit": 40430,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

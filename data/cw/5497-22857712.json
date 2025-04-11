@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:35:06.709Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.worthing-motors.co.uk/used/citroen/c5-x/16-124kwh-shine-plus-e-eat8-euro-6-ss-5dr/worthing/west-sussex/21129057",
+    "dealer_id": "5497",
+    "car_id": "22857712",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C5 X",
+        "variant": "ESTATE",
+        "derivative": "1.6 Plug-in Hybrid 225 Shine Plus e-EAT8",
+        "registration_number": "GP72DZZ",
+        "registration_date": "28/02/2023",
+        "mileage": 12447,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 60,
+        "regular_payment": 420.06,
+        "final_payment": 7694.94,
+        "total_amount_payable": 34977.48,
+        "total_charge_for_credit": 9987.48,
+        "amount_of_credit": 22491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.15,
+        "residual": 7694.94,
+        "price_to_buy": 7694.94
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 492.34,
+        "final_payment": 492.34,
+        "total_amount_payable": 32039.4,
+        "total_charge_for_credit": 7049.4,
+        "amount_of_credit": 22491,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

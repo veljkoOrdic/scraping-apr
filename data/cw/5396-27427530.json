@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:14:19.295Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.volvocarspoole.co.uk/used/volvo/ec40/black-edition-plus-single-motor-extended-range/poole/dorset/21561639",
+    "dealer_id": "5396",
+    "car_id": "27427530",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "EC40",
+        "variant": "Edition",
+        "derivative": "Black Plus Single Motor Extended Range",
+        "registration_number": "HJ25SUH",
+        "registration_date": "13/03/2025",
+        "mileage": 20,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 8998,
+        "balance": 35992,
+        "apr": 12.4,
+        "rate_of_interest": 6.45,
+        "term": 48,
+        "regular_payment": 679.4,
+        "final_payment": 16230.75,
+        "total_amount_payable": 57839.95,
+        "total_charge_for_credit": 12849.95,
+        "amount_of_credit": 35992,
+        "lender": "Volvo Car Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 16230.75,
+        "price_to_buy": 16230.75
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 8998,
+        "balance": 35992,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 796.02,
+        "final_payment": 796.02,
+        "total_amount_payable": 56759.2,
+        "total_charge_for_credit": 11769.2,
+        "amount_of_credit": 35992,
+        "lender": "Volvo Car Financial Services"
+      }
+    ]
+  }
+]

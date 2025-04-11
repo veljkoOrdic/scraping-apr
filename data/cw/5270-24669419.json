@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:21:11.038Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.morrisonmotors.co.uk/used/renault/trafic/sl28-blu-20-dci-110-business/turriff/aberdeenshire/226570",
+    "dealer_id": "5270",
+    "car_id": "24669419",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "TRAFIC",
+        "variant": "SWB DIESEL",
+        "derivative": "SL28 Blue dCi 110 Business Van",
+        "registration_number": "SW22AVZ",
+        "registration_date": "09/06/2022",
+        "mileage": 25700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 7647.75,
+        "balance": 12746.25,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 237.29,
+        "final_payment": 4846,
+        "total_amount_payable": 23883.67,
+        "total_charge_for_credit": 3489.67,
+        "amount_of_credit": 12746.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 4836,
+        "price_to_buy": 4846
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 7647.75,
+        "balance": 12746.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 267.46,
+        "final_payment": 277.46,
+        "total_amount_payable": 23705.35,
+        "total_charge_for_credit": 3311.35,
+        "amount_of_credit": 12746.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

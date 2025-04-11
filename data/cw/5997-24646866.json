@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:51:21.067Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-ford-kuga-titanium-first-edition-hatchback-red-cvt-hybrid/id-1446/",
+    "dealer_id": "5997",
+    "car_id": "24646866",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV Titanium First Edition CVT",
+        "registration_number": "CA20UYT",
+        "registration_date": "10/08/2020",
+        "mileage": 25891,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1700,
+        "balance": 15295,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 274.98,
+        "final_payment": 8027,
+        "total_amount_payable": 22926.04,
+        "total_charge_for_credit": 5931.04,
+        "amount_of_credit": 15295,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 8,
+        "residual": 8027,
+        "price_to_buy": 8027
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1700,
+        "balance": 15295,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 404.24,
+        "final_payment": 404.24,
+        "total_amount_payable": 21103.52,
+        "total_charge_for_credit": 4108.52,
+        "amount_of_credit": 15295,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

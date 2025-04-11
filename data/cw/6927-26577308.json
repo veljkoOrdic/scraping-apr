@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:35:35.421Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clwydian.co.uk/cars/vauxhall/mokka-e/100kw-50kwh-ultimate/1340238/",
+    "dealer_id": "6927",
+    "car_id": "26577308",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "MOKKA",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "100kW Ultimate 50kWh",
+        "registration_number": "CA23ZDP",
+        "registration_date": "26/05/2023",
+        "mileage": 3000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 402.17,
+        "final_payment": 412.17,
+        "total_amount_payable": 21063.66,
+        "total_charge_for_credit": 3568.66,
+        "amount_of_credit": 15745.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 277.56,
+        "final_payment": 7661.31,
+        "total_amount_payable": 22456.13,
+        "total_charge_for_credit": 4961.13,
+        "amount_of_credit": 15745.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7373.75,
+        "price_to_buy": 7661.31
+      }
+    ]
+  }
+]

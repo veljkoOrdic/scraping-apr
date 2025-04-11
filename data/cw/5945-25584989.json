@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:38:34.520Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.arjmotors.co.uk/details/used-car-in-addlestone/mercedes-benz/eclass/2.0-e220d-amg-line-g-tronic+-euro-6-ss-4dr/1259164/",
+    "dealer_id": "5945",
+    "car_id": "25584989",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "E220d AMG Line 9G-Tronic",
+        "registration_number": "LT67TXO",
+        "registration_date": "01/09/2017",
+        "mileage": 51095,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16399,
+        "total_price": 16399,
+        "deposit": 1639.9,
+        "balance": 14759.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 28,
+        "regular_payment": 323.95,
+        "final_payment": 8897.89,
+        "total_amount_payable": 19284.44,
+        "total_charge_for_credit": 2885.44,
+        "amount_of_credit": 14759.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 23333,
+        "excess_mileage_rate": 6.21,
+        "residual": 8896.89,
+        "price_to_buy": 8897.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16399,
+        "total_price": 16399,
+        "deposit": 1639.9,
+        "balance": 14759.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 309.79,
+        "final_payment": 310.79,
+        "total_amount_payable": 20228.3,
+        "total_charge_for_credit": 3829.3,
+        "amount_of_credit": 14759.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

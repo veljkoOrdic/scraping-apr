@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-04-11T09:54:16.333Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.askmotors.co.uk/used-nissan-juke-walsall-west-midlands-6265247",
+    "dealer_id": "6912",
+    "car_id": "25343896",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.5 dCi Tekna",
+        "registration_number": "BK67CWD",
+        "registration_date": "30/09/2017",
+        "mileage": 34381,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp_mannisland",
+        "name": "HP_MANNISLAND",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 1000,
+        "balance": 7999,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 171.48,
+        "final_payment": 172.48,
+        "total_amount_payable": 11289.8,
+        "total_charge_for_credit": 2290.8,
+        "amount_of_credit": 7999,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_finset",
+        "name": "HP_FINSET",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 1000,
+        "balance": 7999,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 164.31,
+        "final_payment": 165.31,
+        "total_amount_payable": 10859.6,
+        "total_charge_for_credit": 1860.6,
+        "amount_of_credit": 7999,
+        "lender": "Finset Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_close",
+        "name": "HP_CLOSE",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 1000,
+        "balance": 7999,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 167.78,
+        "final_payment": 177.78,
+        "total_amount_payable": 11076.8,
+        "total_charge_for_credit": 2077.8,
+        "amount_of_credit": 7999,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

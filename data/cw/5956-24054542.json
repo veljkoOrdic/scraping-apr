@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:40:19.618Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilmoths.co.uk/used/citroen/e-c4/50kwh-sense-auto-5dr-74kw-charger/eastbourne/east-sussex/21219230",
+    "dealer_id": "5956",
+    "car_id": "24054542",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C4",
+        "variant": "E- ELECTRIC HATCHBACK",
+        "derivative": "100kW Sense 50kWh",
+        "registration_number": "GU24KGZ",
+        "registration_date": "31/03/2024",
+        "mileage": 10,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 370.64,
+        "final_payment": 6823.97,
+        "total_amount_payable": 26243.55,
+        "total_charge_for_credit": 6248.55,
+        "amount_of_credit": 17995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.54,
+        "residual": 6823.97,
+        "price_to_buy": 6823.97
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 451.84,
+        "final_payment": 452.84,
+        "total_amount_payable": 23688.82,
+        "total_charge_for_credit": 3693.82,
+        "amount_of_credit": 17995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

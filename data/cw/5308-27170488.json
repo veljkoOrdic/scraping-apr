@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-11T03:52:02.009Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mccarthycars.co.uk/vehicle-details/used-ford-fiesta-zetec-for-sale-72-74-mitcham-road-u458597/",
+    "dealer_id": "5308",
+    "car_id": "27170488",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.25 82 Zetec",
+        "registration_number": "EU63VUO",
+        "registration_date": "31/10/2013",
+        "mileage": 85000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3795,
+        "total_price": 3795,
+        "deposit": 379.5,
+        "balance": 3415.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 74.74,
+        "final_payment": 75.74,
+        "total_amount_payable": 4864.9,
+        "total_charge_for_credit": 1069.9,
+        "amount_of_credit": 3415.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3795,
+        "total_price": 3795,
+        "deposit": 379.5,
+        "balance": 3415.5,
+        "apr": 13.6,
+        "rate_of_interest": 13.6,
+        "term": 54,
+        "regular_payment": 83.57,
+        "final_payment": 83.57,
+        "total_amount_payable": 4892.28,
+        "total_charge_for_credit": 1097.28,
+        "amount_of_credit": 3415.5,
+        "lender": "Connected Car",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

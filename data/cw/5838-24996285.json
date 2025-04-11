@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T07:21:29.270Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.drivemotorretail.co.uk/used-vehicle-details/used-hyundai-ioniq-6-168kw-premium-77kwh-4dr-auto-s-saloon-additional-metallic-nocturne-grey-automatic-electric/id-87363221663/",
+    "dealer_id": "5838",
+    "car_id": "24996285",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 6",
+        "variant": "ELECTRIC SALOON",
+        "derivative": "168kW Premium 77kWh",
+        "registration_number": "VN24EWG",
+        "registration_date": "23/03/2024",
+        "mileage": 9467,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27800,
+        "total_price": 27800,
+        "deposit": 2780,
+        "balance": 25020,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 431.01,
+        "final_payment": 13658,
+        "total_amount_payable": 36695.47,
+        "total_charge_for_credit": 8895.47,
+        "amount_of_credit": 25020,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 13658,
+        "price_to_buy": 13658
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27800,
+        "total_price": 27800,
+        "deposit": 2780,
+        "balance": 25020,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 650.26,
+        "final_payment": 650.26,
+        "total_amount_payable": 33992.48,
+        "total_charge_for_credit": 6192.48,
+        "amount_of_credit": 25020,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

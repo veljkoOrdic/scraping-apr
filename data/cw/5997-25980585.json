@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:52:11.029Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-kia-niro-ev-648kwh-4-suv-5dr-electric-aut-suv-red-automatic-electric/id-13146/",
+    "dealer_id": "5997",
+    "car_id": "25980585",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "EV ESTATE",
+        "derivative": "150kW 4 65kWh",
+        "registration_number": "AO74WHZ",
+        "registration_date": "31/10/2024",
+        "mileage": 1947,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32284,
+        "total_price": 32284,
+        "deposit": 3228,
+        "balance": 29056,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 482.26,
+        "final_payment": 13472.5,
+        "total_amount_payable": 39848.98,
+        "total_charge_for_credit": 7564.98,
+        "amount_of_credit": 29056,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 13472.5,
+        "price_to_buy": 13472.5
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32284,
+        "total_price": 32284,
+        "deposit": 3228,
+        "balance": 29056,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 716.95,
+        "final_payment": 716.95,
+        "total_amount_payable": 37641.6,
+        "total_charge_for_credit": 5357.6,
+        "amount_of_credit": 29056,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

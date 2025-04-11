@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:44:31.333Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.idealtradecentre.co.uk/vehicle/volvo-xc40-20-t4-r-design-auto-euro-6-ss-5dr-in-preston-lancashire-741aa7fa-4e51-4794-bf0b-b1fc00c16317",
+    "dealer_id": "6945",
+    "car_id": "25798529",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC40",
+        "variant": "ESTATE",
+        "derivative": "2.0 T4 R DESIGN Geartronic",
+        "registration_number": "CK69OMO",
+        "registration_date": "29/11/2019",
+        "mileage": 60859,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18499,
+        "total_price": 18499,
+        "deposit": 1849.9,
+        "balance": 16649.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 309.36,
+        "final_payment": 7750.74,
+        "total_amount_payable": 24140.56,
+        "total_charge_for_credit": 5641.56,
+        "amount_of_credit": 16649.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.08,
+        "residual": 7749.74,
+        "price_to_buy": 7750.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18499,
+        "total_price": 18499,
+        "deposit": 1849.9,
+        "balance": 16649.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 418.08,
+        "final_payment": 419.08,
+        "total_amount_payable": 21918.74,
+        "total_charge_for_credit": 3419.74,
+        "amount_of_credit": 16649.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

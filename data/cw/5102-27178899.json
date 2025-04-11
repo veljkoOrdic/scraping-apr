@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:21:42.866Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.benwildmotors.co.uk/vehicle/hyundai-kona-10-t-gdi-blue-drive-s-euro-6-ss-5dr-in-chester-flintshire-1fee8bf1-876f-43f9-91fe-b28b00c2f0af",
+    "dealer_id": "5102",
+    "car_id": "27178899",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "KONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0T GDi Blue Drive S",
+        "registration_number": "NU18EZL",
+        "registration_date": "26/03/2018",
+        "mileage": 47000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 35,
+        "regular_payment": 178.12,
+        "final_payment": 4065.89,
+        "total_amount_payable": 11020.97,
+        "total_charge_for_credit": 2030.97,
+        "amount_of_credit": 8091,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 29166,
+        "excess_mileage_rate": 2.73,
+        "residual": 4064.89,
+        "price_to_buy": 4065.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 173.46,
+        "final_payment": 174.46,
+        "total_amount_payable": 11307.6,
+        "total_charge_for_credit": 2317.6,
+        "amount_of_credit": 8091,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

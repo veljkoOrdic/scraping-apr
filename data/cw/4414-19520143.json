@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:34:29.911Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carcitylutonltd.co.uk/vehicle/mg-mg-zs-445kwh-exclusive-auto-5dr-in-luton-bedfordshire-4ce16303-f692-4b29-9a89-b15500d8674c",
+    "dealer_id": "4414",
+    "car_id": "19520143",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "ZS",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "105kW Exclusive EV 45kWh",
+        "registration_number": "YB70NCN",
+        "registration_date": "08/01/2021",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12650,
+        "total_price": 12650,
+        "deposit": 1265,
+        "balance": 11385,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 213.94,
+        "final_payment": 5557.69,
+        "total_amount_payable": 16877.87,
+        "total_charge_for_credit": 4227.87,
+        "amount_of_credit": 11385,
+        "lender": "Pinnacle Financial Contracts Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5333.75,
+        "price_to_buy": 5557.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12650,
+        "total_price": 12650,
+        "deposit": 1265,
+        "balance": 11385,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 44,
+        "regular_payment": 312.27,
+        "final_payment": 312.27,
+        "total_amount_payable": 15004.88,
+        "total_charge_for_credit": 2354.88,
+        "amount_of_credit": 11385,
+        "lender": "Pinnacle Financial Contracts Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

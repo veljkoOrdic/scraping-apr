@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-11T07:24:36.302Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rousdoncarcentre.co.uk/used/cars/dacia/jogger/essential-tce-788",
+    "dealer_id": "5858",
+    "car_id": "27260933",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Dacia",
+        "model": "JOGGER",
+        "variant": "ESTATE",
+        "derivative": "1.0 TCe Essential",
+        "registration_date": "30/10/2022",
+        "mileage": 36850,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12400,
+        "total_price": 12400,
+        "deposit": 1240,
+        "balance": 11160,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 182.07,
+        "final_payment": 5952,
+        "total_amount_payable": 15931.36,
+        "total_charge_for_credit": 3531.36,
+        "amount_of_credit": 11160,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.62,
+        "residual": 5952,
+        "price_to_buy": 5952
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12400,
+        "total_price": 12400,
+        "deposit": 1240,
+        "balance": 11160,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 236.78,
+        "final_payment": 236.78,
+        "total_amount_payable": 15446.8,
+        "total_charge_for_credit": 3046.8,
+        "amount_of_credit": 11160,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

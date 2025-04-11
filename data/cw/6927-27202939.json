@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:35:21.677Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clwydian.co.uk/cars/mini/electric/cooper-s-135kw-33kwh-collection-edition/1392376/",
+    "dealer_id": "6927",
+    "car_id": "27202939",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "ELECTRIC SPECIAL EDITION",
+        "derivative": "135kW Cooper S Collection Edition 33kWh",
+        "registration_number": "OW21DDA",
+        "registration_date": "28/07/2021",
+        "mileage": 31350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 333.2,
+        "final_payment": 343.2,
+        "total_amount_payable": 17453.1,
+        "total_charge_for_credit": 2958.1,
+        "amount_of_credit": 13045.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 221.17,
+        "final_payment": 6861.17,
+        "total_amount_payable": 18705.66,
+        "total_charge_for_credit": 4210.66,
+        "amount_of_credit": 13045.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6630,
+        "price_to_buy": 6861.17
+      }
+    ]
+  }
+]

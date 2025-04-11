@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:00:29.131Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlehurst.co.uk/details/used-car-in-st.-helens/porsche/718/2.0t-pdk-euro-6-ss-2dr/1399388/",
+    "dealer_id": "5711",
+    "car_id": "27284958",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "2.0 PDK",
+        "registration_number": "BV70AVR",
+        "registration_date": "25/09/2020",
+        "mileage": 35556,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37499,
+        "total_price": 37499,
+        "deposit": 7499.8,
+        "balance": 29999.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 484.64,
+        "final_payment": 12888.39,
+        "total_amount_payable": 48981.95,
+        "total_charge_for_credit": 11482.95,
+        "amount_of_credit": 29999.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 7.75,
+        "residual": 12888.39,
+        "price_to_buy": 12888.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37499,
+        "total_price": 37499,
+        "deposit": 7499.8,
+        "balance": 29999.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 643.18,
+        "final_payment": 643.18,
+        "total_amount_payable": 46090.6,
+        "total_charge_for_credit": 8591.6,
+        "amount_of_credit": 29999.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

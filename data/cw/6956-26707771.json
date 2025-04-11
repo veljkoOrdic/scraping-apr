@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:50.668Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaprestigecars.co.uk/details/used-car-in-slough/toyota/aygox/1.0-vvt-i-edge-euro-6-ss-5dr/1350141/",
+    "dealer_id": "6956",
+    "car_id": "26707771",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "AYGO X",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 VVT-i Edge",
+        "registration_number": "FL73XDA",
+        "registration_date": "02/12/2023",
+        "mileage": 6900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 194.91,
+        "final_payment": 4821.06,
+        "total_amount_payable": 17570.25,
+        "total_charge_for_credit": 5075.25,
+        "amount_of_credit": 11245.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.48,
+        "residual": 4821.06,
+        "price_to_buy": 4821.06
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 251.26,
+        "final_payment": 251.26,
+        "total_amount_payable": 16325.1,
+        "total_charge_for_credit": 3830.1,
+        "amount_of_credit": 11245.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

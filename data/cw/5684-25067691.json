@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:50:31.074Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-3-series-2-0-320d-mht-m-sport-auto-euro-6-s-s-4dr-df73wmw-2",
+    "dealer_id": "5684",
+    "car_id": "25067691",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "320d M Sport Saloon",
+        "registration_number": "DF73WMW",
+        "registration_date": "18/12/2023",
+        "mileage": 9074,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32999,
+        "total_price": 32999,
+        "deposit": 5549.85,
+        "balance": 27449.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 713.38,
+        "final_payment": 714.38,
+        "total_amount_payable": 39793.09,
+        "total_charge_for_credit": 6794.09,
+        "amount_of_credit": 27449.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32999,
+        "total_price": 32999,
+        "deposit": 5549.85,
+        "balance": 27449.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 427.49,
+        "final_payment": 17675.77,
+        "total_amount_payable": 43317.65,
+        "total_charge_for_credit": 10318.65,
+        "amount_of_credit": 27449.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 10.49,
+        "residual": 17675.77,
+        "price_to_buy": 17675.77
+      }
+    ]
+  }
+]

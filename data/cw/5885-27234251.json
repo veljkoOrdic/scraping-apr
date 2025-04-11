@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:57:24.736Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westendmotorgroup.co.uk/used-cars/audi-a3-sportback-40-tfsi-e-s-line-5dr-s-tronic-c-s-17-inch-alloy-sw23exn",
+    "dealer_id": "5885",
+    "car_id": "27234251",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "40 TFSI e S Line S Tronic",
+        "registration_number": "SW23EXN",
+        "registration_date": "30/05/2023",
+        "mileage": 3808,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 423.6,
+        "final_payment": 12096,
+        "total_amount_payable": 34704.7,
+        "total_charge_for_credit": 7709.7,
+        "amount_of_credit": 24295.5,
+        "lender": "Suzuki FS",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 12086,
+        "price_to_buy": 12096
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 620.6,
+        "final_payment": 630.6,
+        "total_amount_payable": 32498.3,
+        "total_charge_for_credit": 5503.3,
+        "amount_of_credit": 24295.5,
+        "lender": "Suzuki FS",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

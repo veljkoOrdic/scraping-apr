@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:52:15.655Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaprestigecars.co.uk/details/used-car-in-slough/lamborghini/urus/4.0-v8-biturbo-performante-auto-4wd-euro-6-5dr/1298359/",
+    "dealer_id": "6956",
+    "car_id": "26070165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8 Performante",
+        "registration_number": "F1AKO",
+        "registration_date": "24/05/2023",
+        "mileage": 3000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 254995,
+        "total_price": 254995,
+        "deposit": 54995,
+        "balance": 200000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 3173.64,
+        "final_payment": 81422.2,
+        "total_amount_payable": 323661.96,
+        "total_charge_for_credit": 68666.96,
+        "amount_of_credit": 200000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 46.19,
+        "residual": 81422.2,
+        "price_to_buy": 81422.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 254995,
+        "total_price": 254995,
+        "deposit": 54995,
+        "balance": 200000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 4198.15,
+        "final_payment": 4198.15,
+        "total_amount_payable": 306884,
+        "total_charge_for_credit": 51889,
+        "amount_of_credit": 200000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

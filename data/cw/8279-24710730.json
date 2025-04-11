@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:57:43.653Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sdm-group.co.uk/used-cars/mazda-cx-60-3-3-e-skyactiv-d-mhev-homura-auto-4wd-euro-6-s-s-5dr-sn24guk",
+    "dealer_id": "8279",
+    "car_id": "24710730",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-60",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.3d 254 Homura",
+        "registration_number": "SN24GUK",
+        "registration_date": "01/03/2024",
+        "mileage": 8760,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36895,
+        "total_price": 36895,
+        "deposit": 3689.5,
+        "balance": 33205.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 877.46,
+        "final_payment": 887.46,
+        "total_amount_payable": 45817.58,
+        "total_charge_for_credit": 8922.58,
+        "amount_of_credit": 33205.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36895,
+        "total_price": 36895,
+        "deposit": 3689.5,
+        "balance": 33205.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 588.44,
+        "final_payment": 17959,
+        "total_amount_payable": 49893.62,
+        "total_charge_for_credit": 12998.62,
+        "amount_of_credit": 33205.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 17949,
+        "price_to_buy": 17959
+      }
+    ]
+  }
+]

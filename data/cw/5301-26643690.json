@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:48:56.075Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-porsche-taycan-bury-greater-manchester-6583573",
+    "dealer_id": "5301",
+    "car_id": "26643690",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "420kW 4S 93kWh",
+        "registration_number": "YF71GDE",
+        "registration_date": "26/11/2021",
+        "mileage": 18914,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49796,
+        "total_price": 49796,
+        "deposit": 4979,
+        "balance": 44817,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 749.11,
+        "final_payment": 22038,
+        "total_amount_payable": 62974.28,
+        "total_charge_for_credit": 13178.28,
+        "amount_of_credit": 44817,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 22028,
+        "price_to_buy": 22038
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49796,
+        "total_price": 49796,
+        "deposit": 4979,
+        "balance": 44817,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 940.78,
+        "final_payment": 950.78,
+        "total_amount_payable": 61435.8,
+        "total_charge_for_credit": 11639.8,
+        "amount_of_credit": 44817,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

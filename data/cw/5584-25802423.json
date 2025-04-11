@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:21:22.204Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brooklyn-hyundai.co.uk/used-car-details/used-hyundai-i10-12-79-advance-5dr-auto-nav-hatchback-yellow-automatic-petrol/id-44177212481826/",
+    "dealer_id": "5584",
+    "car_id": "25802423",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I10",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 [79] Advance [Nav]",
+        "registration_number": "GU24HRZ",
+        "registration_date": "07/06/2024",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 3199,
+        "balance": 12796,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 326.95,
+        "final_payment": 326.95,
+        "total_amount_payable": 18892.6,
+        "total_charge_for_credit": 2897.6,
+        "amount_of_credit": 12796,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 3199,
+        "balance": 12796,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 206.53,
+        "final_payment": 7190.64,
+        "total_amount_payable": 20303.08,
+        "total_charge_for_credit": 4308.08,
+        "amount_of_credit": 12796,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.5,
+        "residual": 7190.64,
+        "price_to_buy": 7190.64
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:04:42.386Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sportifmotorgroup.co.uk/used/abarth/500e-c/42kwh-auto-2dr/aylesbury/buckinghamshire/21524059",
+    "dealer_id": "5320",
+    "car_id": "26824565",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Abarth",
+        "model": "500",
+        "variant": "ELECTRIC CABRIO",
+        "derivative": "114kW 42.2kWh",
+        "registration_number": "NX24HCN",
+        "registration_date": "15/03/2024",
+        "mileage": 8899,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25277,
+        "total_price": 25277,
+        "deposit": 5055.4,
+        "balance": 20221.6,
+        "apr": 11.9,
+        "rate_of_interest": 5.77,
+        "term": 48,
+        "regular_payment": 331.94,
+        "final_payment": 11790,
+        "total_amount_payable": 32778.52,
+        "total_charge_for_credit": 7501.52,
+        "amount_of_credit": 20221.6,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.5,
+        "residual": 11790,
+        "price_to_buy": 11790
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25277,
+        "total_price": 25277,
+        "deposit": 5055.4,
+        "balance": 20221.6,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 525.59,
+        "final_payment": 526.59,
+        "total_amount_payable": 30284.72,
+        "total_charge_for_credit": 5007.72,
+        "amount_of_credit": 20221.6,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

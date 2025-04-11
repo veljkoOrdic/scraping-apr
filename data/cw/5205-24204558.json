@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:56:34.341Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hodsongarage.co.uk/vehicle/544057/ford-focus-titanium-x-5-door-10l-ecoboost-hybrid-155ps-fwd-6-speed-manual-in-penkridge-stafford",
+    "dealer_id": "5205",
+    "car_id": "24204558",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV 155 Titanium X Ed",
+        "registration_number": "FH70VPW",
+        "registration_date": "10/02/2021",
+        "mileage": 46109,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 1399.9,
+        "balance": 12599.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 233.52,
+        "final_payment": 3622.63,
+        "total_amount_payable": 18800.21,
+        "total_charge_for_credit": 4801.21,
+        "amount_of_credit": 12599.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.59,
+        "residual": 3622.63,
+        "price_to_buy": 3622.63
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 1399.9,
+        "balance": 12599.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 275.8,
+        "final_payment": 275.8,
+        "total_amount_payable": 17947.9,
+        "total_charge_for_credit": 3948.9,
+        "amount_of_credit": 12599.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

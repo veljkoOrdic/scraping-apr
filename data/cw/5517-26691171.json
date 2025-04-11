@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:46:22.003Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.coleshillcarsales.co.uk/vehicle/ford-transit-20-170ps-rwd-toolpod-tipper-euro-6-in-nuneaton-warwickshire-756ca961-7f03-4491-8b33-b25e011e63d5",
+    "dealer_id": "5517",
+    "car_id": "26691171",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL RWD",
+        "derivative": "2.0 EcoBlue 170ps Double Cab Chassis",
+        "registration_number": "YR73GNY",
+        "registration_date": "01/09/2023",
+        "mileage": 398,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38394,
+        "total_price": 38394,
+        "deposit": 9598.5,
+        "balance": 28795.5,
+        "apr": 14.6,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 696.53,
+        "final_payment": 6125.28,
+        "total_amount_payable": 48460.69,
+        "total_charge_for_credit": 10066.69,
+        "amount_of_credit": 28795.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5418.75,
+        "price_to_buy": 6125.28
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 38394,
+        "total_price": 38394,
+        "deposit": 9598.5,
+        "balance": 28795.5,
+        "apr": 14.3,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 661.85,
+        "final_payment": 661.85,
+        "total_amount_payable": 49309.5,
+        "total_charge_for_credit": 10915.5,
+        "amount_of_credit": 28795.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

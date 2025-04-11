@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-11T03:43:24.441Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mtcars.co.uk/used/harley-davidson/softail-fat-boy-special/flstf-fatboy-1690-16/peterborough/cambridgeshire/100000231",
+    "dealer_id": "5300",
+    "car_id": "14284132",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Harley-Davidson",
+        "model": "SOFTAIL FAT BOY",
+        "variant": "FLFB",
+        "derivative": "FLSTF Two-tone (17MY)",
+        "registration_number": "AE65VMY",
+        "registration_date": "24/09/2015",
+        "mileage": 5125,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12500,
+        "total_price": 12500,
+        "deposit": 1250,
+        "balance": 11250,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 241.18,
+        "final_payment": 242.18,
+        "total_amount_payable": 15721.8,
+        "total_charge_for_credit": 3221.8,
+        "amount_of_credit": 11250,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

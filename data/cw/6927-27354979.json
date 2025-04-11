@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:36:01.617Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clwydian.co.uk/cars/ford/grandtourneoconnect/1.5-grand-tourneo-connect-active-automatic/1405235/",
+    "dealer_id": "6927",
+    "car_id": "27354979",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TOURNEO CONNECT",
+        "variant": "ESTATE",
+        "derivative": "1.5 EcoBoost Active",
+        "registration_number": "YP23AUF",
+        "registration_date": "02/05/2023",
+        "mileage": 22550,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25950,
+        "total_price": 25950,
+        "deposit": 2595,
+        "balance": 23355,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 596.53,
+        "final_payment": 606.53,
+        "total_amount_payable": 31238.44,
+        "total_charge_for_credit": 5288.44,
+        "amount_of_credit": 23355,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25950,
+        "total_price": 25950,
+        "deposit": 2595,
+        "balance": 23355,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 430.98,
+        "final_payment": 10237.23,
+        "total_amount_payable": 33088.29,
+        "total_charge_for_credit": 7138.29,
+        "amount_of_credit": 23355,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9796.25,
+        "price_to_buy": 10237.23
+      }
+    ]
+  }
+]

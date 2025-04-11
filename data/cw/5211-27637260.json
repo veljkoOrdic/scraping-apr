@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:03:46.154Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westawaymotors.co.uk/used/isuzu/d-max/19-td-v-cross-auto-4wd-euro-6-ss-4dr/northampton/northamptonshire/244290",
+    "dealer_id": "5211",
+    "car_id": "27637260",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Isuzu",
+        "model": "D-MAX",
+        "variant": "DIESEL",
+        "derivative": "1.9 V-Cross Double Cab 4x4",
+        "registration_number": "KY24JPX",
+        "registration_date": "26/03/2024",
+        "mileage": 13272,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43794,
+        "total_price": 43794,
+        "deposit": 10948.5,
+        "balance": 32845.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 689.45,
+        "final_payment": 689.45,
+        "total_amount_payable": 52315.5,
+        "total_charge_for_credit": 8521.5,
+        "amount_of_credit": 32845.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43794,
+        "total_price": 43794,
+        "deposit": 10948.5,
+        "balance": 32845.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 49,
+        "regular_payment": 642.52,
+        "final_payment": 10674,
+        "total_amount_payable": 52463.46,
+        "total_charge_for_credit": 8669.46,
+        "amount_of_credit": 32845.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 10664,
+        "price_to_buy": 10674
+      }
+    ]
+  }
+]

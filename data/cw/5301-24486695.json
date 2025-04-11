@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:46:51.336Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-audi-q2-bury-greater-manchester-6056095",
+    "dealer_id": "5301",
+    "car_id": "24486695",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q2",
+        "variant": "ESTATE",
+        "derivative": "30 TFSI S Line",
+        "registration_number": "YC72WZO",
+        "registration_date": "25/10/2022",
+        "mileage": 17225,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19500,
+        "total_price": 19500,
+        "deposit": 1950,
+        "balance": 17550,
+        "apr": 11.6,
+        "rate_of_interest": 11.01,
+        "term": 48,
+        "regular_payment": 281.92,
+        "final_payment": 10403,
+        "total_amount_payable": 25885.16,
+        "total_charge_for_credit": 6385.16,
+        "amount_of_credit": 17550,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 10393,
+        "price_to_buy": 10403
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19500,
+        "total_price": 19500,
+        "deposit": 1950,
+        "balance": 17550,
+        "apr": 11.6,
+        "rate_of_interest": 6.1,
+        "term": 60,
+        "regular_payment": 381.71,
+        "final_payment": 391.71,
+        "total_amount_payable": 24862.6,
+        "total_charge_for_credit": 5362.6,
+        "amount_of_credit": 17550,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

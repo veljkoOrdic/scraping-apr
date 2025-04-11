@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:58:07.328Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.downeys.co.uk/used-cars/audi-a6-s-line-40-tfsi-mhev-s-a/20840/",
+    "dealer_id": "4476",
+    "car_id": "26863749",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "AVANT",
+        "derivative": "40 TFSI S Line S Tronic",
+        "registration_number": "YGZ4603",
+        "registration_date": "09/01/2023",
+        "mileage": 32722,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 60,
+        "regular_payment": 610.55,
+        "final_payment": 610.55,
+        "total_amount_payable": 39732,
+        "total_charge_for_credit": 8742,
+        "amount_of_credit": 27891,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 520.59,
+        "final_payment": 12449,
+        "total_amount_payable": 40536.32,
+        "total_charge_for_credit": 9546.32,
+        "amount_of_credit": 27891,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 12439,
+        "price_to_buy": 12449
+      }
+    ]
+  }
+]

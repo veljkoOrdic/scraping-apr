@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:08:03.805Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2024-bmw-x5-300d-mht-m-sport-steptronic-xdrive-euro-6-5-door-6",
+    "dealer_id": "4386",
+    "car_id": "24695297",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "WX24VTT",
+        "registration_date": "01/03/2024",
+        "mileage": 15522,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 5600,
+        "balance": 66400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1193.93,
+        "final_payment": 33275.76,
+        "total_amount_payable": 94990.47,
+        "total_charge_for_credit": 22990.47,
+        "amount_of_credit": 66400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 16.21,
+        "residual": 33275.76,
+        "price_to_buy": 33275.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 5600,
+        "balance": 66400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1725.7,
+        "final_payment": 1726.7,
+        "total_amount_payable": 88434.6,
+        "total_charge_for_credit": 16434.6,
+        "amount_of_credit": 66400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

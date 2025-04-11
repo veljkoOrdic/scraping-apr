@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:57:25.500Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/bmw-m4-30-biturbo-competition-steptronic-euro-6-ss-2dr-in-huddersfield-west-yorkshire-a82c3677-5f1e-4d1f-93d8-b1c400ee7fb4",
+    "dealer_id": "4802",
+    "car_id": "25226728",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4 Competition",
+        "variant": "",
+        "derivative": "M4 Competition Coupe",
+        "registration_number": "YS21ZPE",
+        "registration_date": "27/07/2021",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 9.9,
+        "rate_of_interest": 7.16,
+        "term": 48,
+        "regular_payment": 707.77,
+        "final_payment": 19980,
+        "total_amount_payable": 57844.69,
+        "total_charge_for_credit": 11849.69,
+        "amount_of_credit": 41395.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 24,
+        "residual": 19980,
+        "price_to_buy": 19980
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1039.54,
+        "final_payment": 1039.54,
+        "total_amount_payable": 54497.42,
+        "total_charge_for_credit": 8502.42,
+        "amount_of_credit": 41395.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

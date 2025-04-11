@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T03:51:47.372Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simssuzuki.co.uk/used-cars/used/suzuki-across-2.5-phev-e-four-5dr-cvt-in-darlington-durham/69049",
+    "dealer_id": "5304",
+    "car_id": "27452078",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "ACROSS",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV E-Four CVT",
+        "registration_number": "KW24SCZ",
+        "registration_date": "09/05/2024",
+        "mileage": 11505,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30498,
+        "total_price": 30498,
+        "deposit": 3049.8,
+        "balance": 27448.2,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 551.67,
+        "final_payment": 551.67,
+        "total_amount_payable": 36150,
+        "total_charge_for_credit": 5652,
+        "amount_of_credit": 27448.2,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30498,
+        "total_price": 30498,
+        "deposit": 3049.8,
+        "balance": 27448.2,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 430.92,
+        "final_payment": 13190.58,
+        "total_amount_payable": 36924.54,
+        "total_charge_for_credit": 6426.54,
+        "amount_of_credit": 27448.2,
+        "lender": "Santander Consumer",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 13190.58,
+        "price_to_buy": 13190.58
+      }
+    ]
+  }
+]

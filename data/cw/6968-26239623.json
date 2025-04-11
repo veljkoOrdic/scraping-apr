@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:54:57.589Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kentcarcentre.co.uk/used/cars/bmw/m4/m4-competition-6155",
+    "dealer_id": "6968",
+    "car_id": "26239623",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "COUPE",
+        "derivative": "M4 Competition Step [M Pro/M Carbon Pk]",
+        "registration_number": "DV22AZX",
+        "registration_date": "21/03/2022",
+        "mileage": 21000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 55995,
+        "total_price": 55995,
+        "deposit": 5599.5,
+        "balance": 50395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 833.8,
+        "final_payment": 17945.33,
+        "total_amount_payable": 72739.03,
+        "total_charge_for_credit": 16744.03,
+        "amount_of_credit": 50395.5,
+        "lender": "Car Finance Genie",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.47,
+        "residual": 17945.33,
+        "price_to_buy": 17945.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 55995,
+        "total_price": 55995,
+        "deposit": 5599.5,
+        "balance": 50395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1057.84,
+        "final_payment": 1057.84,
+        "total_amount_payable": 69069.9,
+        "total_charge_for_credit": 13074.9,
+        "amount_of_credit": 50395.5,
+        "lender": "Car Finance Genie",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

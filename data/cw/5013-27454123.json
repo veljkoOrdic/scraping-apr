@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:58:55.201Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/1970164/2022-lamborghini-urus/",
+    "dealer_id": "5013",
+    "car_id": "27454123",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8 Pearl Capsule",
+        "registration_number": "KE71JHF",
+        "registration_date": "11/02/2022",
+        "mileage": 36915,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 204980,
+        "total_price": 204980,
+        "deposit": 20498,
+        "balance": 184482,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 3131.89,
+        "final_payment": 67553.01,
+        "total_amount_payable": 272832.52,
+        "total_charge_for_credit": 67852.52,
+        "amount_of_credit": 184482,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 42.24,
+        "residual": 67552.01,
+        "price_to_buy": 67553.01
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 204980,
+        "total_price": 204980,
+        "deposit": 20498,
+        "balance": 184482,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 3955.6,
+        "final_payment": 3965.6,
+        "total_amount_payable": 257844,
+        "total_charge_for_credit": 52864,
+        "amount_of_credit": 184482,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

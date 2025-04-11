@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:39:38.453Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thelovelycarcompany.co.uk/cars/audi/a3/1.5-tfsi-35-s-line/1348023/",
+    "dealer_id": "6931",
+    "car_id": "26676899",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "35 TFSI S Line S Tronic",
+        "registration_number": "BJ22RKE",
+        "registration_date": "10/05/2022",
+        "mileage": 31200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 2149,
+        "balance": 19341,
+        "apr": 11,
+        "rate_of_interest": 5.78,
+        "term": 60,
+        "regular_payment": 415.51,
+        "final_payment": 415.51,
+        "total_amount_payable": 27079.6,
+        "total_charge_for_credit": 5589.6,
+        "amount_of_credit": 19341,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 2149,
+        "balance": 19341,
+        "apr": 11,
+        "rate_of_interest": 10.48,
+        "term": 48,
+        "regular_payment": 311.14,
+        "final_payment": 10997,
+        "total_amount_payable": 28080.72,
+        "total_charge_for_credit": 6590.72,
+        "amount_of_credit": 19341,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.91,
+        "residual": 10997,
+        "price_to_buy": 10997
+      }
+    ]
+  }
+]

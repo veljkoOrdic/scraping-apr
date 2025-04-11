@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:25:55.685Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.citroenireland.com/used-cars/citroen-e-berlingo-100kw-ev-50kwh-flair-xtr-m-reserved/20600/",
+    "dealer_id": "5470",
+    "car_id": "20474682",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "BERLINGO",
+        "variant": "E- ELECTRIC ESTATE",
+        "derivative": "100kW Flair XTR M 50kWh",
+        "registration_number": "TRZ7515",
+        "registration_date": "29/06/2022",
+        "mileage": 3780,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 1899,
+        "balance": 17091,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 318.13,
+        "final_payment": 7853,
+        "total_amount_payable": 24749.11,
+        "total_charge_for_credit": 5759.11,
+        "amount_of_credit": 17091,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 7853,
+        "price_to_buy": 7853
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 1899,
+        "balance": 17091,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 444.19,
+        "final_payment": 444.19,
+        "total_amount_payable": 23220.12,
+        "total_charge_for_credit": 4230.12,
+        "amount_of_credit": 17091,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

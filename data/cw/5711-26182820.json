@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:59:01.232Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlehurst.co.uk/details/used-car-in-st.-helens/ford/fiesta/1.0t-ecoboost-titanium-x-dct-euro-6-ss-5dr/1307575/",
+    "dealer_id": "5711",
+    "car_id": "26182820",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 Titanium X [7 Speed]",
+        "registration_number": "WP70VMV",
+        "registration_date": "30/11/2020",
+        "mileage": 16089,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 2899.8,
+        "balance": 11599.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 198.32,
+        "final_payment": 4138.67,
+        "total_amount_payable": 18739.35,
+        "total_charge_for_credit": 4240.35,
+        "amount_of_credit": 11599.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 3.07,
+        "residual": 4138.67,
+        "price_to_buy": 4138.67
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 2899.8,
+        "balance": 11599.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 248.68,
+        "final_payment": 248.68,
+        "total_amount_payable": 17820.6,
+        "total_charge_for_credit": 3321.6,
+        "amount_of_credit": 11599.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

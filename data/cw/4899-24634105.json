@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:40:00.211Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.panaceamotors.co.uk/used-audi-a3-bury-lancashire-6095639",
+    "dealer_id": "4899",
+    "car_id": "24634105",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SALOON",
+        "derivative": "RS 3 TFSI 400 Quattro Audi Sport Ed S Tronic",
+        "registration_number": "PG19HMZ",
+        "registration_date": "02/07/2019",
+        "mileage": 44000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36990,
+        "total_price": 36990,
+        "deposit": 3699,
+        "balance": 33291,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 39,
+        "regular_payment": 655.24,
+        "final_payment": 16770,
+        "total_amount_payable": 44712.88,
+        "total_charge_for_credit": 7722.88,
+        "amount_of_credit": 33291,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 26,
+        "residual": 16760,
+        "price_to_buy": 16770
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36990,
+        "total_price": 36990,
+        "deposit": 3699,
+        "balance": 33291,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 698.67,
+        "final_payment": 708.67,
+        "total_amount_payable": 45629.2,
+        "total_charge_for_credit": 8639.2,
+        "amount_of_credit": 33291,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

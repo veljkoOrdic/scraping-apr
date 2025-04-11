@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T09:48:39.471Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jct9.com/vehicle/ford-ranger-wildtrak-ecoblue-4x4-auto-4wd-in-shepperton-middlesex-5f0069f7-5fc2-4894-ab13-b1b600f4bcf4",
+    "dealer_id": "5860",
+    "car_id": "24912821",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 213",
+        "registration_number": "MA21GUH",
+        "registration_date": "01/03/2021",
+        "mileage": 15001,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 41986.8,
+        "total_price": 41986.8,
+        "deposit": 10496.7,
+        "balance": 31490.1,
+        "apr": 11.5,
+        "rate_of_interest": 5.74,
+        "term": 60,
+        "regular_payment": 682.97,
+        "final_payment": 682.97,
+        "total_amount_payable": 51474.9,
+        "total_charge_for_credit": 9488.1,
+        "amount_of_credit": 31490.1,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41986.8,
+        "total_price": 41986.8,
+        "deposit": 10496.7,
+        "balance": 31490.1,
+        "apr": 11.6,
+        "rate_of_interest": 5.74,
+        "term": 48,
+        "regular_payment": 707.29,
+        "final_payment": 7134.79,
+        "total_amount_payable": 50874.12,
+        "total_charge_for_credit": 8887.32,
+        "amount_of_credit": 31490.1,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6417.5,
+        "price_to_buy": 7134.79
+      }
+    ]
+  }
+]

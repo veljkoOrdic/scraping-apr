@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T02:06:53.120Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.baldockcarsales.co.uk/used-kia-xceed-baldock-hertfordshire-6817499",
+    "dealer_id": "5026",
+    "car_id": "27536690",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "XCEED",
+        "variant": "HATCHBACK",
+        "derivative": "1.0T GDi ISG 2",
+        "registration_number": "WN20UGG",
+        "registration_date": "16/06/2020",
+        "mileage": 45258,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 14.4,
+        "rate_of_interest": 7.62,
+        "term": 60,
+        "regular_payment": 227.77,
+        "final_payment": 237.77,
+        "total_amount_payable": 14775.2,
+        "total_charge_for_credit": 3780.2,
+        "amount_of_credit": 9896,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 14.4,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 203.36,
+        "final_payment": 4293.36,
+        "total_amount_payable": 14950.28,
+        "total_charge_for_credit": 3955.28,
+        "amount_of_credit": 9896,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4080,
+        "price_to_buy": 4293.36
+      }
+    ]
+  }
+]

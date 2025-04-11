@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:05:16.331Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vr-eps.com/used-ferrari-458-warrington-cheshire-5502025",
+    "dealer_id": "5572",
+    "car_id": "22225726",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "458",
+        "variant": "COUPE",
+        "derivative": "Italia",
+        "registration_number": "YT12NXV",
+        "registration_date": "01/03/2012",
+        "mileage": 72311,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 95000,
+        "total_price": 95000,
+        "deposit": 9500,
+        "balance": 85500,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1376.15,
+        "final_payment": 52411.5,
+        "total_amount_payable": 126590.55,
+        "total_charge_for_credit": 31590.55,
+        "amount_of_credit": 85500,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95000,
+        "total_price": 95000,
+        "deposit": 9500,
+        "balance": 85500,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1871.64,
+        "final_payment": 1871.64,
+        "total_amount_payable": 121798.4,
+        "total_charge_for_credit": 26798.4,
+        "amount_of_credit": 85500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

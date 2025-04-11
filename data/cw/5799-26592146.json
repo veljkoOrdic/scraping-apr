@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:07:16.733Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/a1-sportback/sport-30-tfsi-116-ps-s-tronic/yeovil/somerset/21503560",
+    "dealer_id": "5799",
+    "car_id": "26592146",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "30 TFSI Sport S Tronic",
+        "registration_number": "WD74AZT",
+        "registration_date": "19/12/2024",
+        "mileage": 3340,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23490,
+        "total_price": 23490,
+        "deposit": 3773.5,
+        "balance": 19716.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 301.31,
+        "final_payment": 12407.5,
+        "total_amount_payable": 30643.88,
+        "total_charge_for_credit": 7153.88,
+        "amount_of_credit": 19716.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 3.98,
+        "residual": 12397.5,
+        "price_to_buy": 12407.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23490,
+        "total_price": 23490,
+        "deposit": 3773.5,
+        "balance": 19716.5,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 424.73,
+        "final_payment": 434.73,
+        "total_amount_payable": 29267.3,
+        "total_charge_for_credit": 5777.3,
+        "amount_of_credit": 19716.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

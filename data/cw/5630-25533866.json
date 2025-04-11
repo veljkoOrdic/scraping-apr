@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:25:58.040Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chrishodgsoncarsalesltd.co.uk/used-cars/chaigley-stallion-horse-box-2-berth-citroen-relay-2-2-chassis-138-bhp-diesel-manual/",
+    "dealer_id": "5630",
+    "car_id": "25533866",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "RELAY",
+        "variant": "35 L3 DIESEL",
+        "derivative": "2.2 BlueHDi H2 Van 140ps Enterprise",
+        "registration_number": "YE21MWN",
+        "registration_date": "28/05/2021",
+        "mileage": 75921,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.29,
+        "term": 48,
+        "regular_payment": 882.32,
+        "final_payment": 2137.5,
+        "total_amount_payable": 47606.04,
+        "total_charge_for_credit": 7611.04,
+        "amount_of_credit": 35995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 2137.5,
+        "price_to_buy": 2137.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 836.99,
+        "final_payment": 836.99,
+        "total_amount_payable": 54218.9,
+        "total_charge_for_credit": 14223.9,
+        "amount_of_credit": 35995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:40:25.137Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilmoths.co.uk/used/ds-automobiles/ds-3/e-tense-54kwh-rivoli-auto-5dr/maidstone/kent/21309302",
+    "dealer_id": "5956",
+    "car_id": "24938614",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "DS",
+        "model": "DS 3",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "115kW E-TENSE Rivoli 54kWh",
+        "registration_number": "GK24YUW",
+        "registration_date": "31/03/2024",
+        "mileage": 6500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 496.92,
+        "final_payment": 497.92,
+        "total_amount_payable": 26052.16,
+        "total_charge_for_credit": 4062.16,
+        "amount_of_credit": 19791,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 407.59,
+        "final_payment": 7506.25,
+        "total_amount_payable": 28861.98,
+        "total_charge_for_credit": 6871.98,
+        "amount_of_credit": 19791,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.96,
+        "residual": 7506.25,
+        "price_to_buy": 7506.25
+      }
+    ]
+  }
+]

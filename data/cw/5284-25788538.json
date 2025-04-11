@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T03:34:38.157Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.barncars.co.uk/used/cars/bmw/5-series/2-0-528i-m-sport-touring-auto-euro-6-s-s-5dr-820",
+    "dealer_id": "5284",
+    "car_id": "25788538",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "TOURING",
+        "derivative": "528i M Sport Step",
+        "registration_number": "BP66DWY",
+        "registration_date": "10/01/2017",
+        "mileage": 63000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 1529.5,
+        "balance": 13765.5,
+        "apr": 12.6,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 305.72,
+        "final_payment": 305.72,
+        "total_amount_payable": 19872.7,
+        "total_charge_for_credit": 4577.7,
+        "amount_of_credit": 13765.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

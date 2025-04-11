@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T04:50:34.859Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.openroadcars.co.uk/cars/mercedes-benz/eclass/5.5-e63-v8-biturbo-amg/1178734/",
+    "dealer_id": "5529",
+    "car_id": "24530709",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "AMG ESTATE",
+        "derivative": "E63",
+        "registration_number": "MA57EAD",
+        "registration_date": "01/09/2015",
+        "mileage": 82000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23980,
+        "total_price": 23980,
+        "deposit": 2398,
+        "balance": 21582,
+        "apr": 13.6,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 488.9,
+        "final_payment": 488.9,
+        "total_amount_payable": 31732,
+        "total_charge_for_credit": 7752,
+        "amount_of_credit": 21582,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

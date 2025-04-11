@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:15:37.699Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-rolls-royce-cullinan-v12-black-badge-for-sale-in-cleckheaton-west-yorkshire-u1412/",
+    "dealer_id": "5575",
+    "car_id": "26902372",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Rolls-Royce",
+        "model": "CULLINAN",
+        "variant": "ESTATE",
+        "derivative": "Black Badge",
+        "registration_number": "HY73EZL",
+        "registration_date": "06/11/2023",
+        "mileage": 5750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 288995,
+        "total_price": 288995,
+        "deposit": 28899.5,
+        "balance": 260095.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 4235.56,
+        "final_payment": 151675,
+        "total_amount_payable": 379645.82,
+        "total_charge_for_credit": 90650.82,
+        "amount_of_credit": 260095.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 288995,
+        "total_price": 288995,
+        "deposit": 28899.5,
+        "balance": 260095.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 5634.95,
+        "final_payment": 5634.95,
+        "total_amount_payable": 366996.5,
+        "total_charge_for_credit": 78001.5,
+        "amount_of_credit": 260095.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

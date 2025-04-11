@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:22:00.112Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brooklyn-hyundai.co.uk/used-car-details/used-hyundai-ioniq-6-e-325ps-ultimate-77kwh-dual-saloon-grey-automatic-electric/id-44177257310246/",
+    "dealer_id": "5584",
+    "car_id": "23279336",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 6",
+        "variant": "ELECTRIC SALOON",
+        "derivative": "239kW Ultimate 77kWh",
+        "registration_number": "GY73JXF",
+        "registration_date": "13/10/2023",
+        "mileage": 3300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 6599,
+        "balance": 26396,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 674.43,
+        "final_payment": 674.43,
+        "total_amount_payable": 38971.64,
+        "total_charge_for_credit": 5976.64,
+        "amount_of_credit": 26396,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 6599,
+        "balance": 26396,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 416.29,
+        "final_payment": 15414.75,
+        "total_amount_payable": 41995.67,
+        "total_charge_for_credit": 9000.67,
+        "amount_of_credit": 26396,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.5,
+        "residual": 15414.75,
+        "price_to_buy": 15414.75
+      }
+    ]
+  }
+]

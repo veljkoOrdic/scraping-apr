@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:44:06.192Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.robertscars.co.uk/used-car/porsche/taycan/350kw-93kwh-4dr-auto/for-sale-in-flint-flintshire/aetv13074258/",
+    "dealer_id": "4449",
+    "car_id": "23807606",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "350kW 93kWh RWD",
+        "registration_number": "LC21TBZ",
+        "registration_date": "29/04/2021",
+        "mileage": 8600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53490,
+        "total_price": 53490,
+        "deposit": 5349,
+        "balance": 48141,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 942.18,
+        "final_payment": 14000.32,
+        "total_amount_payable": 74937.94,
+        "total_charge_for_credit": 21447.94,
+        "amount_of_credit": 48141,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 10.26,
+        "residual": 13999.32,
+        "price_to_buy": 14000.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53490,
+        "total_price": 53490,
+        "deposit": 5349,
+        "balance": 48141,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1053.82,
+        "final_payment": 1054.82,
+        "total_amount_payable": 68579.2,
+        "total_charge_for_credit": 15089.2,
+        "amount_of_credit": 48141,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

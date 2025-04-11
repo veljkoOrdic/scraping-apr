@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:30:44.538Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roadsidegarages.com/used-mercedes-benz-c-class-coleraine-county-londonderry-5357890",
+    "dealer_id": "5488",
+    "car_id": "21458955",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "C300d AMG Line Premium 9G-Tronic",
+        "registration_number": "KS69CFE",
+        "registration_date": "29/10/2019",
+        "mileage": 45490,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849,
+        "balance": 16646,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 54,
+        "regular_payment": 277.86,
+        "final_payment": 7112.61,
+        "total_amount_payable": 23688.19,
+        "total_charge_for_credit": 5193.19,
+        "amount_of_credit": 16646,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 5.99,
+        "residual": 7112.61,
+        "price_to_buy": 7112.61
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849,
+        "balance": 16646,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 349.41,
+        "final_payment": 349.41,
+        "total_amount_payable": 22813.6,
+        "total_charge_for_credit": 4318.6,
+        "amount_of_credit": 16646,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

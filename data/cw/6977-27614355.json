@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T13:00:32.303Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.glenford.com/used/ford/focus/23-ecoboost-st-5dr/forfar/angus/21570364",
+    "dealer_id": "6977",
+    "car_id": "27614355",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "2.3 EcoBoost ST",
+        "registration_number": "ST73RVP",
+        "registration_date": "22/12/2023",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 415.69,
+        "final_payment": 14136.39,
+        "total_amount_payable": 36423.32,
+        "total_charge_for_credit": 8928.32,
+        "amount_of_credit": 24745.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 9000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 10.6,
+        "residual": 14136.39,
+        "price_to_buy": 14136.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.1,
+        "term": 48,
+        "regular_payment": 641.32,
+        "final_payment": 746.32,
+        "total_amount_payable": 33637.86,
+        "total_charge_for_credit": 6142.86,
+        "amount_of_credit": 24745.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

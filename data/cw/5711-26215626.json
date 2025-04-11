@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:59:14.180Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlehurst.co.uk/details/used-car-in-st.-helens/toyota/yaris/1.5-vvt-h-icon-e-cvt-euro-6-ss-5dr/1310622/",
+    "dealer_id": "5711",
+    "car_id": "26215626",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "YARIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Hybrid Icon CVT",
+        "registration_number": "MA22RFL",
+        "registration_date": "08/03/2022",
+        "mileage": 9116,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16499,
+        "total_price": 16499,
+        "deposit": 3299.8,
+        "balance": 13199.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 211.46,
+        "final_payment": 5807.91,
+        "total_amount_payable": 21583.85,
+        "total_charge_for_credit": 5084.85,
+        "amount_of_credit": 13199.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 4.49,
+        "residual": 5807.91,
+        "price_to_buy": 5807.91
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16499,
+        "total_price": 16499,
+        "deposit": 3299.8,
+        "balance": 13199.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 282.99,
+        "final_payment": 282.99,
+        "total_amount_payable": 20279.2,
+        "total_charge_for_credit": 3780.2,
+        "amount_of_credit": 13199.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:07:23.016Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2024-bmw-ix-40-766kwh-m-sport-auto-xdrive-5-door-11kw-charger-9",
+    "dealer_id": "4386",
+    "car_id": "25303136",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "iX",
+        "variant": "",
+        "derivative": "iX xDrive40 M Sport",
+        "registration_number": "WN24JCZ",
+        "registration_date": "26/03/2024",
+        "mileage": 9805,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56000,
+        "total_price": 56000,
+        "deposit": 5700,
+        "balance": 50300,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 825.6,
+        "final_payment": 22836.09,
+        "total_amount_payable": 67339.29,
+        "total_charge_for_credit": 11339.29,
+        "amount_of_credit": 50300,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.52,
+        "residual": 22836.09,
+        "price_to_buy": 22836.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56000,
+        "total_price": 56000,
+        "deposit": 5700,
+        "balance": 50300,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 1219.2,
+        "final_payment": 1219.2,
+        "total_amount_payable": 64221.6,
+        "total_charge_for_credit": 8221.6,
+        "amount_of_credit": 50300,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

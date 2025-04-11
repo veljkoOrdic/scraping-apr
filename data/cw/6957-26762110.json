@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T12:53:38.025Z",
+    "source": "codeweavers_calculator",
+    "url": "https://juddbrothers.co.uk/car/ford-ranger-wildtrak-2-0-ecoblue-213-bhp-10-speed-auto/",
+    "dealer_id": "6957",
+    "car_id": "26762110",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 213",
+        "registration_number": "MW20DSV",
+        "registration_date": "07/08/2020",
+        "mileage": 34,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25194,
+        "total_price": 25194,
+        "deposit": 4199,
+        "balance": 20995,
+        "apr": 12,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 460.48,
+        "final_payment": 470.48,
+        "total_amount_payable": 31837.8,
+        "total_charge_for_credit": 6643.8,
+        "amount_of_credit": 20995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25194,
+        "total_price": 25194,
+        "deposit": 4199,
+        "balance": 20995,
+        "apr": 12,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 460.7,
+        "final_payment": 460.7,
+        "total_amount_payable": 31841,
+        "total_charge_for_credit": 6647,
+        "amount_of_credit": 20995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

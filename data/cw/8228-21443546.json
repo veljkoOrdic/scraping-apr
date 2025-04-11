@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T09:50:15.062Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dabcars.co.uk/details/used-car-in-bury/bmw/x5/3.0-m50d-auto-xdrive-euro-6-ss-5dr/934624/",
+    "dealer_id": "8228",
+    "car_id": "21443546",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive M50d",
+        "registration_number": "T123CCS",
+        "registration_date": "01/02/2019",
+        "mileage": 48000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 45990,
+        "total_price": 45990,
+        "deposit": 4599,
+        "balance": 41391,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 868.87,
+        "final_payment": 878.87,
+        "total_amount_payable": 56741.2,
+        "total_charge_for_credit": 10751.2,
+        "amount_of_credit": 41391,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

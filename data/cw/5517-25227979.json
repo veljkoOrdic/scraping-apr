@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:45:35.161Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.coleshillcarsales.co.uk/vehicle/ford-transit-20-350-ecoblue-mhev-leader-fwd-l3-h3-euro-6-ss-5dr-in-nuneaton-warwickshire-becff2e5-5b54-4fb3-9230-b1c500a61fb5",
+    "dealer_id": "5517",
+    "car_id": "25227979",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL FWD",
+        "derivative": "2.0 EcoBlue Hybrid 130ps H3 Leader Van",
+        "registration_number": "YO23FPT",
+        "registration_date": "30/06/2023",
+        "mileage": 10039,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26994,
+        "total_price": 26994,
+        "deposit": 6748.5,
+        "balance": 20245.5,
+        "apr": 14.8,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 454.53,
+        "final_payment": 6648.28,
+        "total_amount_payable": 34759.69,
+        "total_charge_for_credit": 7765.69,
+        "amount_of_credit": 20245.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6183.75,
+        "price_to_buy": 6648.28
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26994,
+        "total_price": 26994,
+        "deposit": 6748.5,
+        "balance": 20245.5,
+        "apr": 14.6,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 467.69,
+        "final_payment": 467.69,
+        "total_amount_payable": 34809.9,
+        "total_charge_for_credit": 7815.9,
+        "amount_of_credit": 20245.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

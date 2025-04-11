@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:57:38.552Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westendmotorgroup.co.uk/used-cars/suzuki-across-estate-2-5-phev-e-four-5dr-cvt-kr73dhx",
+    "dealer_id": "5885",
+    "car_id": "27117250",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "ACROSS",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV E-Four CVT",
+        "registration_number": "KR73DHX",
+        "registration_date": "30/09/2023",
+        "mileage": 11793,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 526.74,
+        "final_payment": 12219,
+        "total_amount_payable": 40125.28,
+        "total_charge_for_credit": 8630.28,
+        "amount_of_credit": 28345.5,
+        "lender": "Suzuki FS",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.6,
+        "residual": 12209,
+        "price_to_buy": 12219
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 724.07,
+        "final_payment": 734.07,
+        "total_amount_payable": 37914.86,
+        "total_charge_for_credit": 6419.86,
+        "amount_of_credit": 28345.5,
+        "lender": "Suzuki FS",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

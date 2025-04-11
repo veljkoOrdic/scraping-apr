@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:31:11.992Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.phoenixrc-autos.co.uk/used-ferrari-488-huddersfield-west-yorkshire-6163878",
+    "dealer_id": "6919",
+    "car_id": "24920329",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "488 GTB",
+        "variant": "COUPE",
+        "derivative": "2dr",
+        "registration_number": "HD17KPN",
+        "registration_date": "24/03/2017",
+        "mileage": 20920,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 134999,
+        "total_price": 134999,
+        "deposit": 34999,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 7,
+        "term": 47,
+        "regular_payment": 1796.46,
+        "final_payment": 44775,
+        "total_amount_payable": 162411.16,
+        "total_charge_for_credit": 27412.16,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 23500,
+        "excess_mileage_rate": 66,
+        "residual": 44775,
+        "price_to_buy": 44775
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 134999,
+        "total_price": 134999,
+        "deposit": 34999,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2099.08,
+        "final_payment": 2099.08,
+        "total_amount_payable": 160943.8,
+        "total_charge_for_credit": 25944.8,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

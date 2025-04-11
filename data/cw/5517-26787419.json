@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:46:49.687Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.coleshillcarsales.co.uk/vehicle/bmw-x5-30-m50d-auto-xdrive-euro-6-ss-5dr-in-nuneaton-warwickshire-7f87f35b-6374-4e19-9fa9-b26700ef0d22",
+    "dealer_id": "5517",
+    "car_id": "26787419",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M50d",
+        "registration_number": "MW70NXX",
+        "registration_date": "11/12/2020",
+        "mileage": 43616,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 14.3,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 772.51,
+        "final_payment": 21140.01,
+        "total_amount_payable": 61947.48,
+        "total_charge_for_credit": 16952.48,
+        "amount_of_credit": 40495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 20357.5,
+        "price_to_buy": 21140.01
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 14.1,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 927.53,
+        "final_payment": 927.53,
+        "total_amount_payable": 60151.3,
+        "total_charge_for_credit": 15156.3,
+        "amount_of_credit": 40495.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

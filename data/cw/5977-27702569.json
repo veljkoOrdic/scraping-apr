@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:46:36.045Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wrcarsales.co.uk/used-bmw-x5-bradford-west-yorkshire-6854310",
+    "dealer_id": "5977",
+    "car_id": "27702569",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive45e M Sport",
+        "registration_number": "YR23PWL",
+        "registration_date": "18/04/2023",
+        "mileage": 24400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 11399,
+        "balance": 45596,
+        "apr": 12.4,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 838.46,
+        "final_payment": 22480.96,
+        "total_amount_payable": 73287.58,
+        "total_charge_for_credit": 16292.58,
+        "amount_of_credit": 45596,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 21632.5,
+        "price_to_buy": 22480.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 11399,
+        "balance": 45596,
+        "apr": 12.2,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 1005.07,
+        "final_payment": 1005.07,
+        "total_amount_payable": 71703.2,
+        "total_charge_for_credit": 14708.2,
+        "amount_of_credit": 45596,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

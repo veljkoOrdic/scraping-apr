@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:55:33.632Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.drivengroup.co.uk/used-audi-a7-stockton-on-tees-county-durham-6550807",
+    "dealer_id": "5314",
+    "car_id": "26546158",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A7",
+        "variant": "DIESEL SPORTBACK",
+        "derivative": "40 TDI Black Edition S Tronic",
+        "registration_number": "LS71UKG",
+        "registration_date": "01/10/2021",
+        "mileage": 65500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27840,
+        "total_price": 27840,
+        "deposit": 2784,
+        "balance": 25056,
+        "apr": 13.9,
+        "rate_of_interest": 13.08,
+        "term": 49,
+        "regular_payment": 513.69,
+        "final_payment": 10103.5,
+        "total_amount_payable": 37544.62,
+        "total_charge_for_credit": 9704.62,
+        "amount_of_credit": 25056,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 10102.5,
+        "price_to_buy": 10103.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27840,
+        "total_price": 27840,
+        "deposit": 2784,
+        "balance": 25056,
+        "apr": 13.9,
+        "rate_of_interest": 13.08,
+        "term": 60,
+        "regular_payment": 571.19,
+        "final_payment": 572.19,
+        "total_amount_payable": 37056.4,
+        "total_charge_for_credit": 9216.4,
+        "amount_of_credit": 25056,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

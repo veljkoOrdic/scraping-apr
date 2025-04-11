@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:06:56.382Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2024-bmw-x3-20-30e-12kwh-m-sport-auto-xdrive-euro-6-5-door-7",
+    "dealer_id": "4386",
+    "car_id": "24892918",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 xDrive30 M Sport",
+        "registration_number": "WR24OVM",
+        "registration_date": "28/03/2024",
+        "mileage": 10600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46000,
+        "total_price": 46000,
+        "deposit": 5600,
+        "balance": 40400,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 631.71,
+        "final_payment": 22870.52,
+        "total_amount_payable": 58160.89,
+        "total_charge_for_credit": 12160.89,
+        "amount_of_credit": 40400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12.27,
+        "residual": 22870.52,
+        "price_to_buy": 22870.52
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46000,
+        "total_price": 46000,
+        "deposit": 5600,
+        "balance": 40400,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1014.52,
+        "final_payment": 1015.52,
+        "total_amount_payable": 54297.96,
+        "total_charge_for_credit": 8297.96,
+        "amount_of_credit": 40400,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

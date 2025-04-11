@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T13:01:31.402Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vennsmotorcompany.co.uk/cars/toyota/corolla/2.0-vvt-h-design/1292052/",
+    "dealer_id": "6978",
+    "car_id": "26037678",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "COROLLA",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 VVT-i Hybrid Design CVT",
+        "registration_number": "WF20OCC",
+        "registration_date": "30/06/2020",
+        "mileage": 21700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1000,
+        "balance": 15995,
+        "apr": 13.5,
+        "rate_of_interest": 6.5,
+        "term": 48,
+        "regular_payment": 302,
+        "final_payment": 8047,
+        "total_amount_payable": 23241,
+        "total_charge_for_credit": 6246,
+        "amount_of_credit": 15995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12,
+        "residual": 7735,
+        "price_to_buy": 8047
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1000,
+        "balance": 15995,
+        "apr": 13.4,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 360.95,
+        "final_payment": 360.95,
+        "total_amount_payable": 22657,
+        "total_charge_for_credit": 5662,
+        "amount_of_credit": 15995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

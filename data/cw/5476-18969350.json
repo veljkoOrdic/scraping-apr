@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:28:51.829Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.automotive102.co.uk/detail/1281090/used-audi-q2-estate-1-0-tfsi-s-line-5dr-manual-ormskirk",
+    "dealer_id": "5476",
+    "car_id": "18969350",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q2",
+        "variant": "ESTATE",
+        "derivative": "30 TFSI S Line",
+        "registration_number": "ST21CXV",
+        "registration_date": "11/03/2021",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 1899.9,
+        "balance": 17099.1,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 284.95,
+        "final_payment": 8765,
+        "total_amount_payable": 24342.5,
+        "total_charge_for_credit": 5343.5,
+        "amount_of_credit": 17099.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.61,
+        "residual": 8765,
+        "price_to_buy": 8765
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 1899.9,
+        "balance": 17099.1,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 362.79,
+        "final_payment": 362.79,
+        "total_amount_payable": 23667.3,
+        "total_charge_for_credit": 4668.3,
+        "amount_of_credit": 17099.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

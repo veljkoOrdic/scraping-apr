@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:55:06.503Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ballylisk.co.uk/used-car-details/used-ford-fiesta-10-active-edition-in-white-wi-hatchback-white-manual-petrol/id-6128/",
+    "dealer_id": "5536",
+    "car_id": "26050856",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 95 Active Edition",
+        "registration_number": "PXZ2507",
+        "registration_date": "10/03/2021",
+        "mileage": 52000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10975,
+        "total_price": 10975,
+        "deposit": 1098,
+        "balance": 9877,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 248.03,
+        "final_payment": 248.03,
+        "total_amount_payable": 13003.44,
+        "total_charge_for_credit": 2028.44,
+        "amount_of_credit": 9877,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10975,
+        "total_price": 10975,
+        "deposit": 1098,
+        "balance": 9877,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 188.46,
+        "final_payment": 3649,
+        "total_amount_payable": 13604.62,
+        "total_charge_for_credit": 2629.62,
+        "amount_of_credit": 9877,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.8,
+        "residual": 3649,
+        "price_to_buy": 3649
+      }
+    ]
+  }
+]

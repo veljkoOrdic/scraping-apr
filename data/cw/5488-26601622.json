@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:32:12.251Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roadsidegarages.com/used-kia-sorento-coleraine-county-londonderry-6571727",
+    "dealer_id": "5488",
+    "car_id": "26601622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "DIESEL STATION WAGON",
+        "derivative": "2.2 CRDi 3 DCT",
+        "registration_number": "CYZ9111",
+        "registration_date": "01/05/2024",
+        "mileage": 5500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099,
+        "balance": 36896,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 586.92,
+        "final_payment": 14912.07,
+        "total_amount_payable": 53639.35,
+        "total_charge_for_credit": 12644.35,
+        "amount_of_credit": 36896,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.18,
+        "residual": 14912.07,
+        "price_to_buy": 14912.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099,
+        "balance": 36896,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 774.48,
+        "final_payment": 774.48,
+        "total_amount_payable": 50567.8,
+        "total_charge_for_credit": 9572.8,
+        "amount_of_credit": 36896,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

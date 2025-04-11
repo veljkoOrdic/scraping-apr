@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:13:57.344Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2024-porsche-911-carrera-gts-pdk-2",
+    "dealer_id": "4386",
+    "car_id": "26784055",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA COUPE",
+        "derivative": "GTS t-Hybrid PDK [4 Seat]",
+        "registration_number": "VN74HXE",
+        "registration_date": "08/11/2024",
+        "mileage": 1196,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 142992,
+        "total_price": 142992,
+        "deposit": 12500,
+        "balance": 130492,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2381.62,
+        "final_payment": 83182.5,
+        "total_amount_payable": 179039.2,
+        "total_charge_for_credit": 36047.2,
+        "amount_of_credit": 130492,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 28.2,
+        "residual": 83172.5,
+        "price_to_buy": 83182.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 142992,
+        "total_price": 142992,
+        "deposit": 12500,
+        "balance": 130492,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 4281.59,
+        "final_payment": 4291.59,
+        "total_amount_payable": 166647.24,
+        "total_charge_for_credit": 23655.24,
+        "amount_of_credit": 130492,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

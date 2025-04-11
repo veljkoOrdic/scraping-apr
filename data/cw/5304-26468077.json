@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T03:50:31.588Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simssuzuki.co.uk/used-cars/used/suzuki-swift-1.2-dualjet-83-12v-hybrid-sz-l-5dr-in-darlington-durham/61943",
+    "dealer_id": "5304",
+    "car_id": "26468077",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SWIFT",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet 83 12V Hybrid SZ-L",
+        "registration_number": "NU71JYN",
+        "registration_date": "17/12/2021",
+        "mileage": 51183,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9289,
+        "total_price": 9289,
+        "deposit": 928.9,
+        "balance": 8360.1,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 168.03,
+        "final_payment": 168.03,
+        "total_amount_payable": 11010.7,
+        "total_charge_for_credit": 1721.7,
+        "amount_of_credit": 8360.1,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9289,
+        "total_price": 9289,
+        "deposit": 928.9,
+        "balance": 8360.1,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 147.8,
+        "final_payment": 3086.14,
+        "total_amount_payable": 11109.44,
+        "total_charge_for_credit": 1820.44,
+        "amount_of_credit": 8360.1,
+        "lender": "Santander Consumer",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 3086.14,
+        "price_to_buy": 3086.14
+      }
+    ]
+  }
+]

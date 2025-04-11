@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:51:10.082Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaprestigecars.co.uk/details/used-car-in-slough/landrover/rangerover/4.4-p530-v8-first-edition-auto-4wd-euro-6-ss-5dr/1342473/",
+    "dealer_id": "6956",
+    "car_id": "27108092",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "4.4 P530 V8 First Edition",
+        "registration_number": "SB22XND",
+        "registration_date": "29/07/2022",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1096.2,
+        "final_payment": 32795.79,
+        "total_amount_payable": 105471.09,
+        "total_charge_for_credit": 25476.09,
+        "amount_of_credit": 71995.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 19.27,
+        "residual": 32795.79,
+        "price_to_buy": 32795.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1511.24,
+        "final_payment": 1511.24,
+        "total_amount_payable": 98673.9,
+        "total_charge_for_credit": 18678.9,
+        "amount_of_credit": 71995.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

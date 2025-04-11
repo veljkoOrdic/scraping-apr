@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:11:00.620Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/rs7/rs-7-sportback-performance-carbon-black-630-ps-tiptronic/yeovil/somerset/21409289",
+    "dealer_id": "5799",
+    "car_id": "25675130",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A7",
+        "variant": "SPORTBACK",
+        "derivative": "RS 7 TFSI Qtro Perform Carbon Black Tiptronic",
+        "registration_number": "WF74LWY",
+        "registration_date": "18/09/2024",
+        "mileage": 820,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99900,
+        "total_price": 99900,
+        "deposit": 15235,
+        "balance": 84665,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 1399.02,
+        "final_payment": 46916.25,
+        "total_amount_payable": 129304.21,
+        "total_charge_for_credit": 29404.21,
+        "amount_of_credit": 84665,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 39.98,
+        "residual": 46906.25,
+        "price_to_buy": 46916.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99900,
+        "total_price": 99900,
+        "deposit": 15235,
+        "balance": 84665,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 1823.83,
+        "final_payment": 1833.83,
+        "total_amount_payable": 124674.8,
+        "total_charge_for_credit": 24774.8,
+        "amount_of_credit": 84665,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

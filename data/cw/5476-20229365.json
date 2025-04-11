@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:28:38.015Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.automotive102.co.uk/detail/1304104/used-mercedes-benz-gla-estate-1-6-gla-180-urban-edition-5dr-manual-ormskirk",
+    "dealer_id": "5476",
+    "car_id": "20229365",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLA",
+        "variant": "HATCHBACK",
+        "derivative": "GLA 180 Urban Edition",
+        "registration_number": "WA69UZV",
+        "registration_date": "17/09/2019",
+        "mileage": 43000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 1399.9,
+        "balance": 12599.1,
+        "apr": 11.1,
+        "rate_of_interest": 11.1,
+        "term": 53,
+        "regular_payment": 232.02,
+        "final_payment": 4701.44,
+        "total_amount_payable": 18166.38,
+        "total_charge_for_credit": 4167.38,
+        "amount_of_credit": 12599.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 3.18,
+        "residual": 4701.44,
+        "price_to_buy": 4701.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 1399.9,
+        "balance": 12599.1,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 267.31,
+        "final_payment": 267.31,
+        "total_amount_payable": 17438.5,
+        "total_charge_for_credit": 3439.5,
+        "amount_of_credit": 12599.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

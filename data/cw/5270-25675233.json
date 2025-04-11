@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:21:38.241Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.morrisonmotors.co.uk/used/mercedes-benz/cla/cla-180-amg-line-premium-auto/turriff/aberdeenshire/21409860",
+    "dealer_id": "5270",
+    "car_id": "25675233",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "CLA",
+        "variant": "COUPE",
+        "derivative": "CLA 180 AMG Line Premium Tip",
+        "registration_number": "KR72BHJ",
+        "registration_date": "03/01/2023",
+        "mileage": 12300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 6498.75,
+        "balance": 19496.25,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 219.37,
+        "final_payment": 15820,
+        "total_amount_payable": 32848.51,
+        "total_charge_for_credit": 6853.51,
+        "amount_of_credit": 19496.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 15810,
+        "price_to_buy": 15820
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 6498.75,
+        "balance": 19496.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 409.1,
+        "final_payment": 419.1,
+        "total_amount_payable": 31054.75,
+        "total_charge_for_credit": 5059.75,
+        "amount_of_credit": 19496.25,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

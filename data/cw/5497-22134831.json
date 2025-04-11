@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T04:34:53.423Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.worthing-motors.co.uk/used/citroen/c3/12-puretech-shine-eat6-euro-6-ss-5dr/worthing/west-sussex/21058096",
+    "dealer_id": "5497",
+    "car_id": "22134831",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech 110 Shine EAT6",
+        "registration_number": "RO72XWX",
+        "registration_date": "14/09/2022",
+        "mileage": 9008,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16190,
+        "total_price": 16190,
+        "deposit": 1619,
+        "balance": 14571,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 60,
+        "regular_payment": 273.06,
+        "final_payment": 4910.01,
+        "total_amount_payable": 22639.55,
+        "total_charge_for_credit": 6449.55,
+        "amount_of_credit": 14571,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.47,
+        "residual": 4910.01,
+        "price_to_buy": 4910.01
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16190,
+        "total_price": 16190,
+        "deposit": 1619,
+        "balance": 14571,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 318.97,
+        "final_payment": 318.97,
+        "total_amount_payable": 20757.2,
+        "total_charge_for_credit": 4567.2,
+        "amount_of_credit": 14571,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

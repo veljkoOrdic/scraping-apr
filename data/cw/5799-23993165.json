@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:08:29.784Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/q8-e-tron/sportback-sport-55-e-tron-quattro-30000-kw/poole/dorset/21223196",
+    "dealer_id": "5799",
+    "car_id": "23993165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q8",
+        "variant": "E-TRON SPORTBACK",
+        "derivative": "300kW 55 Quattro 114kWh Sport",
+        "registration_number": "HG24BZE",
+        "registration_date": "08/04/2024",
+        "mileage": 4000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47500,
+        "total_price": 47500,
+        "deposit": 7375,
+        "balance": 40125,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 864.36,
+        "final_payment": 874.36,
+        "total_amount_payable": 59246.6,
+        "total_charge_for_credit": 11746.6,
+        "amount_of_credit": 40125,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47500,
+        "total_price": 47500,
+        "deposit": 7375,
+        "balance": 40125,
+        "apr": 13.3,
+        "rate_of_interest": 13.25,
+        "term": 49,
+        "regular_payment": 623.45,
+        "final_payment": 27726.25,
+        "total_amount_payable": 65026.85,
+        "total_charge_for_credit": 17526.85,
+        "amount_of_credit": 40125,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 14.4,
+        "residual": 27716.25,
+        "price_to_buy": 27726.25
+      }
+    ]
+  }
+]

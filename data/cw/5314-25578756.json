@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:55:21.214Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.drivengroup.co.uk/used-audi-a5-stockton-on-tees-county-durham-6320365",
+    "dealer_id": "5314",
+    "car_id": "25578756",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "DIESEL SPORTBACK",
+        "derivative": "35 TDI S Line S Tronic",
+        "registration_number": "FG21APU",
+        "registration_date": "31/03/2021",
+        "mileage": 36109,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 13.9,
+        "rate_of_interest": 13.08,
+        "term": 49,
+        "regular_payment": 440.51,
+        "final_payment": 10373.5,
+        "total_amount_payable": 34016.98,
+        "total_charge_for_credit": 9026.98,
+        "amount_of_credit": 22491,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 10372.5,
+        "price_to_buy": 10373.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 13.9,
+        "rate_of_interest": 13.08,
+        "term": 60,
+        "regular_payment": 512.72,
+        "final_payment": 513.72,
+        "total_amount_payable": 33263.2,
+        "total_charge_for_credit": 8273.2,
+        "amount_of_credit": 22491,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

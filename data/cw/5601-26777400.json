@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:22:31.760Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoinvestmentsukltd.co.uk/details/specialist-car-in-leicester/mazda/mazda2/1.3-tamura-euro-5-5dr/1356686/",
+    "dealer_id": "5601",
+    "car_id": "26777400",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "2",
+        "variant": "MAZDA HATCHBACK",
+        "derivative": "1.3 Tamura",
+        "registration_number": "WA14VME",
+        "registration_date": "01/03/2014",
+        "mileage": 93998,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3000,
+        "total_price": 3000,
+        "deposit": 10,
+        "balance": 2990,
+        "apr": 14.9,
+        "rate_of_interest": 7.86,
+        "term": 60,
+        "regular_payment": 69.42,
+        "final_payment": 79.42,
+        "total_amount_payable": 4185.2,
+        "total_charge_for_credit": 1185.2,
+        "amount_of_credit": 2990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3000,
+        "total_price": 3000,
+        "deposit": 10,
+        "balance": 2990,
+        "apr": 10.9,
+        "rate_of_interest": 4.86,
+        "term": 58,
+        "regular_payment": 63.66,
+        "final_payment": 223.66,
+        "total_amount_payable": 3862.28,
+        "total_charge_for_credit": 862.28,
+        "amount_of_credit": 2990,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

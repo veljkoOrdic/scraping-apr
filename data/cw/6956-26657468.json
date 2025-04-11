@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:52:31.043Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaprestigecars.co.uk/details/used-car-in-slough/rolls-royce/cullinan/6.75-v12-black-badge-auto-4wd-euro-6-5dr/1346474/",
+    "dealer_id": "6956",
+    "car_id": "26657468",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "F10MED",
+        "registration_date": "31/01/2023",
+        "mileage": 1256,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 369995,
+        "total_price": 369995,
+        "deposit": 169995,
+        "balance": 200000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 3242.82,
+        "final_payment": 76207.93,
+        "total_amount_payable": 437529.31,
+        "total_charge_for_credit": 67534.31,
+        "amount_of_credit": 200000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 43.15,
+        "residual": 76207.93,
+        "price_to_buy": 76207.93
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 369995,
+        "total_price": 369995,
+        "deposit": 169995,
+        "balance": 200000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 4198.15,
+        "final_payment": 4198.15,
+        "total_amount_payable": 421884,
+        "total_charge_for_credit": 51889,
+        "amount_of_credit": 200000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

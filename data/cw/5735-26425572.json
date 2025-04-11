@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:36:35.110Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pre5tigecars.co.uk/vehicle/mercedes-s580-30-le-v6-286kwh-amg-line-premium-g-tronic-euro-6-ss-4dr-in-birmingham-west-midlands-8b73fccd-9ff9-40c2-8cac-b23b00a8af0e",
+    "dealer_id": "5735",
+    "car_id": "26425572",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "S-Class",
+        "variant": "SALOON",
+        "derivative": "S580e L AMG Line Premium 9G-Tronic",
+        "registration_number": "LR22SVX",
+        "registration_date": "07/03/2022",
+        "mileage": 75600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299.5,
+        "balance": 65695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1166.82,
+        "final_payment": 17372.19,
+        "total_amount_payable": 93514.07,
+        "total_charge_for_credit": 20519.07,
+        "amount_of_credit": 65695.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.84,
+        "residual": 17372.19,
+        "price_to_buy": 17372.19
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299.5,
+        "balance": 65695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1379.06,
+        "final_payment": 1380.06,
+        "total_amount_payable": 90044.1,
+        "total_charge_for_credit": 17049.1,
+        "amount_of_credit": 65695.5,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

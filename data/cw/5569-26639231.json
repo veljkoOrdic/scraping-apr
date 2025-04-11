@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:01:28.675Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perryroadautos.co.uk/used-cars/ford-transit-20-350-ecoblue-rwd-jetting-van-l2-h3-e6-V1118",
+    "dealer_id": "5569",
+    "car_id": "26639231",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L2 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps H3 Trend Van",
+        "registration_number": "BG70HMJ",
+        "registration_date": "24/09/2020",
+        "mileage": 100620,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 25,
+        "regular_payment": 892.42,
+        "final_payment": 5059,
+        "total_amount_payable": 30069,
+        "total_charge_for_credit": 3074,
+        "amount_of_credit": 24295.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 9000,
+        "contract_mileage": 18000,
+        "excess_mileage_rate": 1.14,
+        "residual": 5059,
+        "price_to_buy": 5059
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 509.97,
+        "final_payment": 510.97,
+        "total_amount_payable": 33298.7,
+        "total_charge_for_credit": 6303.7,
+        "amount_of_credit": 24295.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

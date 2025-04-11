@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:39:02.182Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.panaceamotors.co.uk/used-suzuki-jimny-bury-lancashire-6313381",
+    "dealer_id": "4899",
+    "car_id": "25540366",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "JIMNY",
+        "variant": "PETROL",
+        "derivative": "1.5 ALLGRIP Commercial",
+        "registration_number": "LM24KWX",
+        "registration_date": "28/03/2024",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24490,
+        "total_price": 24490,
+        "deposit": 2449,
+        "balance": 22041,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 435.06,
+        "final_payment": 7373,
+        "total_amount_payable": 30269.82,
+        "total_charge_for_credit": 5779.82,
+        "amount_of_credit": 22041,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 18,
+        "residual": 7363,
+        "price_to_buy": 7373
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24490,
+        "total_price": 24490,
+        "deposit": 2449,
+        "balance": 22041,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 462.53,
+        "final_payment": 472.53,
+        "total_amount_payable": 30210.8,
+        "total_charge_for_credit": 5720.8,
+        "amount_of_credit": 22041,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:50:10.764Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.midwaycarsalesltd.co.uk/used-ford-transit-custom-adlington-cheshire-6768308",
+    "dealer_id": "4456",
+    "car_id": "27335683",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps Low Roof Limited Van",
+        "registration_number": "ML71VYE",
+        "registration_date": "05/11/2021",
+        "mileage": 71333,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17376,
+        "total_price": 17376,
+        "deposit": 2896,
+        "balance": 14480,
+        "apr": 12.9,
+        "rate_of_interest": 12.2,
+        "term": 48,
+        "regular_payment": 295.57,
+        "final_payment": 5415,
+        "total_amount_payable": 22498.36,
+        "total_charge_for_credit": 5122.36,
+        "amount_of_credit": 14480,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 15,
+        "residual": 5415,
+        "price_to_buy": 5415
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17376,
+        "total_price": 17376,
+        "deposit": 2896,
+        "balance": 14480,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 323.53,
+        "final_payment": 323.53,
+        "total_amount_payable": 22307.8,
+        "total_charge_for_credit": 4931.8,
+        "amount_of_credit": 14480,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

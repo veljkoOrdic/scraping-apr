@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:29:02.646Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richtoy.co.uk/details/used-car-in-scunthorpe/subaru/forester/2.0-i-e-boxer-sport-lineartronic-4wd-euro-6-ss-5dr/1274725/",
+    "dealer_id": "5642",
+    "car_id": "25777223",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Subaru",
+        "model": "FORESTER",
+        "variant": "ESTATE",
+        "derivative": "2.0i e-Boxer Sport Lineartronic",
+        "registration_number": "YX74NWF",
+        "registration_date": "01/09/2024",
+        "mileage": 3500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 576.39,
+        "final_payment": 12741.39,
+        "total_amount_payable": 43231.22,
+        "total_charge_for_credit": 9236.22,
+        "amount_of_credit": 30595.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12155,
+        "price_to_buy": 12741.39
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 655.76,
+        "final_payment": 665.76,
+        "total_amount_payable": 42755.1,
+        "total_charge_for_credit": 8760.1,
+        "amount_of_credit": 30595.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

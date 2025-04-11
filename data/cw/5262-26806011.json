@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:12:07.385Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.topcarstelford.co.uk/details/used-car-in-telford-shropshire/bmw/x5/3.0-45e-24kwh-m-sport-auto-xdrive-euro-6-ss-5dr/1358359/",
+    "dealer_id": "5262",
+    "car_id": "26806011",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "ESTATE",
+        "derivative": "xDrive45e M Sport",
+        "registration_number": "LB70PYA",
+        "registration_date": "11/12/2020",
+        "mileage": 45989,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 49,
+        "regular_payment": 583.89,
+        "final_payment": 18285,
+        "total_amount_payable": 50895.11,
+        "total_charge_for_credit": 10900.11,
+        "amount_of_credit": 35995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 18275,
+        "price_to_buy": 18285
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 755.44,
+        "final_payment": 765.44,
+        "total_amount_payable": 49335.9,
+        "total_charge_for_credit": 9340.9,
+        "amount_of_credit": 35995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

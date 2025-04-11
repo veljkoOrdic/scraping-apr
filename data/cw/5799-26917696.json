@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T07:09:12.596Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/a6/avant-black-edition-40-tdi-quattro-204-ps-s-tronic/poole/dorset/21531107",
+    "dealer_id": "5799",
+    "car_id": "26917696",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "DIESEL AVANT",
+        "derivative": "40 TDI Quattro Black Edition S Tronic",
+        "registration_number": "HG74XLO",
+        "registration_date": "20/01/2025",
+        "mileage": 4000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61000,
+        "total_price": 61000,
+        "deposit": 9400,
+        "balance": 51600,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 1111.55,
+        "final_payment": 1121.55,
+        "total_amount_payable": 76103,
+        "total_charge_for_credit": 15103,
+        "amount_of_credit": 51600,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61000,
+        "total_price": 61000,
+        "deposit": 9400,
+        "balance": 51600,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 963.8,
+        "final_payment": 21907.5,
+        "total_amount_payable": 77569.9,
+        "total_charge_for_credit": 16569.9,
+        "amount_of_credit": 51600,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 8,
+        "residual": 21897.5,
+        "price_to_buy": 21907.5
+      }
+    ]
+  }
+]

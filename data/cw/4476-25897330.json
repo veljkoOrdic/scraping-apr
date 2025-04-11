@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:57:17.752Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.downeys.co.uk/used-cars/kia-niro-16-gdi-2-hev-full-kia-warranty-until-september-2029/19735/",
+    "dealer_id": "4476",
+    "car_id": "25897330",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi Hybrid 2 DCT",
+        "registration_number": "XGZ8241",
+        "registration_date": "29/09/2022",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 60,
+        "regular_payment": 364.28,
+        "final_payment": 364.28,
+        "total_amount_payable": 23705.8,
+        "total_charge_for_credit": 5215.8,
+        "amount_of_credit": 16641,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 276.95,
+        "final_payment": 9473,
+        "total_amount_payable": 24615.6,
+        "total_charge_for_credit": 6125.6,
+        "amount_of_credit": 16641,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 9463,
+        "price_to_buy": 9473
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:24:41.484Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motorwell.co.uk/vehicle/mercedes-a200-13-amg-line-7g-dct-euro-6-ss-5dr-in-bath-9915ba61-66a6-4335-88ac-b2b300f64b7a",
+    "dealer_id": "5123",
+    "car_id": "27681632",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A200 AMG Line",
+        "registration_number": "WJ68EPE",
+        "registration_date": "15/09/2018",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15999,
+        "total_price": 15999,
+        "deposit": 1599.9,
+        "balance": 14399.1,
+        "apr": 13.1,
+        "rate_of_interest": 13.1,
+        "term": 41,
+        "regular_payment": 303.56,
+        "final_payment": 6838.18,
+        "total_amount_payable": 20580.48,
+        "total_charge_for_credit": 4581.48,
+        "amount_of_credit": 14399.1,
+        "lender": "Connected Car",
+        "annual_mileage": 8000,
+        "contract_mileage": 27333,
+        "excess_mileage_rate": 5.77,
+        "residual": 6838.18,
+        "price_to_buy": 6838.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15999,
+        "total_price": 15999,
+        "deposit": 1599.9,
+        "balance": 14399.1,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 311.98,
+        "final_payment": 311.98,
+        "total_amount_payable": 20318.7,
+        "total_charge_for_credit": 4319.7,
+        "amount_of_credit": 14399.1,
+        "lender": "Connected Car",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:43:18.122Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nunnsgrimsby.com/used/mazda/mx-30/355kwh-makoto-auto-5dr/grimsby/lincolnshire/21088146",
+    "dealer_id": "8295",
+    "car_id": "22483490",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "107kW Makoto 35.5kWh",
+        "registration_number": "FX73JCY",
+        "registration_date": "01/09/2023",
+        "mileage": 1456,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23000,
+        "total_price": 23000,
+        "deposit": 4600,
+        "balance": 18400,
+        "apr": 5.9,
+        "rate_of_interest": 4.02,
+        "term": 49,
+        "regular_payment": 301.84,
+        "final_payment": 6930,
+        "total_amount_payable": 26018.32,
+        "total_charge_for_credit": 3018.32,
+        "amount_of_credit": 18400,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9,
+        "residual": 6930,
+        "price_to_buy": 6930
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23000,
+        "total_price": 23000,
+        "deposit": 4600,
+        "balance": 18400,
+        "apr": 5.9,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 353.56,
+        "final_payment": 353.56,
+        "total_amount_payable": 25813.6,
+        "total_charge_for_credit": 2813.6,
+        "amount_of_credit": 18400,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

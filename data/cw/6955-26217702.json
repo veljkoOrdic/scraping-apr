@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:42.915Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mgmlimited.co.uk/used/cars/land-rover/range-rover-sport/sdv6-hse-dynamic-305",
+    "dealer_id": "6955",
+    "car_id": "26217702",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6 HSE Dynamic",
+        "registration_number": "YO18ZPY",
+        "registration_date": "18/05/2018",
+        "mileage": 35142,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 37,
+        "regular_payment": 617.41,
+        "final_payment": 14259.16,
+        "total_amount_payable": 39635.42,
+        "total_charge_for_credit": 8140.42,
+        "amount_of_credit": 28345.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 7.16,
+        "residual": 14259.16,
+        "price_to_buy": 14259.16
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 633.29,
+        "final_payment": 633.29,
+        "total_amount_payable": 41146.9,
+        "total_charge_for_credit": 9651.9,
+        "amount_of_credit": 28345.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

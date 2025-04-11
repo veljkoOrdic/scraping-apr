@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:31:31.833Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roadsidegarages.com/used-kia-niro-coleraine-county-londonderry-6541236",
+    "dealer_id": "5488",
+    "car_id": "26458490",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "EV ESTATE",
+        "derivative": "150kW 2 Nav 65kWh",
+        "registration_number": "CYZ9660",
+        "registration_date": "30/09/2024",
+        "mileage": 340,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599,
+        "balance": 23396,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 380.08,
+        "final_payment": 8859.49,
+        "total_amount_payable": 33883.21,
+        "total_charge_for_credit": 7888.21,
+        "amount_of_credit": 23396,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.67,
+        "residual": 8859.49,
+        "price_to_buy": 8859.49
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599,
+        "balance": 23396,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 491.1,
+        "final_payment": 491.1,
+        "total_amount_payable": 32065,
+        "total_charge_for_credit": 6070,
+        "amount_of_credit": 23396,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

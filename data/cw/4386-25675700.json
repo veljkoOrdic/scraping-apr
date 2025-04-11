@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:05:15.489Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/mini/used-cars/2022-mini-convertible-cooper-exclusive-steptronic-euro-6-2-door-5",
+    "dealer_id": "4386",
+    "car_id": "25675700",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Convertible",
+        "variant": "",
+        "derivative": "Convertible Cooper Exclusive",
+        "registration_number": "SA72TTK",
+        "registration_date": "04/11/2022",
+        "mileage": 12527,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19295,
+        "total_price": 19295,
+        "deposit": 5400,
+        "balance": 13895,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 200,
+        "final_payment": 9920.59,
+        "total_amount_payable": 24720.59,
+        "total_charge_for_credit": 5425.59,
+        "amount_of_credit": 13895,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 6.27,
+        "residual": 9920.59,
+        "price_to_buy": 9920.59
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19295,
+        "total_price": 19295,
+        "deposit": 5400,
+        "balance": 13895,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 361.11,
+        "final_payment": 362.11,
+        "total_amount_payable": 22734.28,
+        "total_charge_for_credit": 3439.28,
+        "amount_of_credit": 13895,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

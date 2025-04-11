@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:39:53.214Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.savannahcars.co.uk/used-audi-q3-southend-on-sea-essex-6366018",
+    "dealer_id": "8293",
+    "car_id": "25853153",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "ESTATE",
+        "derivative": "45 TFSI e Technik S Tronic",
+        "registration_number": "EF22XYR",
+        "registration_date": "29/07/2022",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 48,
+        "regular_payment": 332.01,
+        "final_payment": 12802.5,
+        "total_amount_payable": 31238.98,
+        "total_charge_for_credit": 6248.98,
+        "amount_of_credit": 22491,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.7,
+        "residual": 12802.5,
+        "price_to_buy": 12802.5
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 462,
+        "final_payment": 463,
+        "total_amount_payable": 30220,
+        "total_charge_for_credit": 5230,
+        "amount_of_credit": 22491,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

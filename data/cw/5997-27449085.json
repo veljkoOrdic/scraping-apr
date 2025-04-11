@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:54:09.858Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-kia-ev9-998kwh-gt-line-s-suv-5dr-elec-suv-pacific-blue-automatic-electric/id-14061/",
+    "dealer_id": "5997",
+    "car_id": "27449085",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "EV9",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "282kW GT-Line S 99.8kWh (6St)",
+        "registration_number": "WO73BFU",
+        "registration_date": "02/02/2024",
+        "mileage": 459,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 62999,
+        "total_price": 62999,
+        "deposit": 6300,
+        "balance": 56699,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 873.72,
+        "final_payment": 30155.88,
+        "total_amount_payable": 78394.44,
+        "total_charge_for_credit": 15395.44,
+        "amount_of_credit": 56699,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 30155.88,
+        "price_to_buy": 30155.88
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 62999,
+        "total_price": 62999,
+        "deposit": 6300,
+        "balance": 56699,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1399.04,
+        "final_payment": 1399.04,
+        "total_amount_payable": 73453.92,
+        "total_charge_for_credit": 10454.92,
+        "amount_of_credit": 56699,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

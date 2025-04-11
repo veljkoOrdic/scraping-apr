@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:52:26.301Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-volvo-c40-recharge-twin-ultimate-awd-estate-onyx-black-automatic-electric/id-9871/",
+    "dealer_id": "5997",
+    "car_id": "24419001",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "C40",
+        "variant": "Recharge",
+        "derivative": "Ultimate Twin Motor",
+        "registration_number": "AK24SZC",
+        "registration_date": "21/05/2024",
+        "mileage": 6735,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 903.65,
+        "final_payment": 903.65,
+        "total_amount_payable": 47174.2,
+        "total_charge_for_credit": 9184.2,
+        "amount_of_credit": 34191,
+        "lender": "Volvo Car Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 604.28,
+        "final_payment": 18590.31,
+        "total_amount_payable": 51394.75,
+        "total_charge_for_credit": 13404.75,
+        "amount_of_credit": 34191,
+        "lender": "Volvo Car Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 18590.31,
+        "price_to_buy": 18590.31
+      }
+    ]
+  }
+]

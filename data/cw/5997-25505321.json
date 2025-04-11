@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:51:56.314Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-kia-xceed-15-t-gdi-gt-line-s-suv-5dr-pe-suv-spirit-green-automatic-petrol/id-6346/",
+    "dealer_id": "5997",
+    "car_id": "25505321",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "XCEED",
+        "variant": "HATCHBACK",
+        "derivative": "1.5T GDi ISG 138 GT-Line S DCT",
+        "registration_number": "AO74HPP",
+        "registration_date": "17/09/2024",
+        "mileage": 2251,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25985,
+        "total_price": 25985,
+        "deposit": 2598,
+        "balance": 23387,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 434.25,
+        "final_payment": 11416.91,
+        "total_amount_payable": 34858.91,
+        "total_charge_for_credit": 8873.91,
+        "amount_of_credit": 23387,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 11416.91,
+        "price_to_buy": 11416.91
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25985,
+        "total_price": 25985,
+        "deposit": 2598,
+        "balance": 23387,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 618.11,
+        "final_payment": 618.11,
+        "total_amount_payable": 32267.28,
+        "total_charge_for_credit": 6282.28,
+        "amount_of_credit": 23387,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

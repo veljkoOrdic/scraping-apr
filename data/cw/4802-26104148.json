@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:55:53.030Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/bmw-m4-30-biturbo-dct-euro-6-ss-2dr-in-huddersfield-west-yorkshire-02e69f66-7eb0-4cf6-b343-b218017e4a6d",
+    "dealer_id": "4802",
+    "car_id": "26104148",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "",
+        "derivative": "M4 Convertible",
+        "registration_number": "MJ18TVK",
+        "registration_date": "30/04/2018",
+        "mileage": 86000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 9.9,
+        "rate_of_interest": 7,
+        "term": 40,
+        "regular_payment": 396.32,
+        "final_payment": 8955,
+        "total_amount_payable": 26610.98,
+        "total_charge_for_credit": 4615.98,
+        "amount_of_credit": 19795.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 24,
+        "residual": 8955,
+        "price_to_buy": 8955
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 497.11,
+        "final_payment": 497.11,
+        "total_amount_payable": 26060.78,
+        "total_charge_for_credit": 4065.78,
+        "amount_of_credit": 19795.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

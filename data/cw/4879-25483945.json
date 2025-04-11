@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:31:43.452Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.northgate-cars.com/nissan-juke-1-0-dig-t-acenta-suv-5dr-petrol-dct-auto-euro-6-s-s-117-ps-in-west-sussex-fab5b160-e4df-4b5b-89a5-cbbaab16e86d",
+    "dealer_id": "4879",
+    "car_id": "25483945",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T 114 Acenta DCT",
+        "registration_number": "YE22SVD",
+        "registration_date": "26/05/2022",
+        "mileage": 21494,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.1,
+        "term": 48,
+        "regular_payment": 234.9,
+        "final_payment": 6279.9,
+        "total_amount_payable": 18719.7,
+        "total_charge_for_credit": 4724.7,
+        "amount_of_credit": 12595.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6035,
+        "price_to_buy": 6279.9
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.1,
+        "term": 60,
+        "regular_payment": 281.56,
+        "final_payment": 281.56,
+        "total_amount_payable": 18293.1,
+        "total_charge_for_credit": 4298.1,
+        "amount_of_credit": 12595.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

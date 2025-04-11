@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:01:58.592Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westawaymotors.co.uk/used/mitsubishi/mirage/12-4-5dr-cvt/northampton/northamptonshire/21459918",
+    "dealer_id": "5211",
+    "car_id": "26179577",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mitsubishi",
+        "model": "MIRAGE",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 4 CVT",
+        "registration_number": "FG68LPL",
+        "registration_date": "25/10/2018",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9749,
+        "total_price": 9749,
+        "deposit": 974.9,
+        "balance": 8774.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 60,
+        "regular_payment": 184.18,
+        "final_payment": 184.18,
+        "total_amount_payable": 12025.7,
+        "total_charge_for_credit": 2276.7,
+        "amount_of_credit": 8774.1,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9749,
+        "total_price": 9749,
+        "deposit": 974.9,
+        "balance": 8774.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 30,
+        "regular_payment": 214.69,
+        "final_payment": 4260,
+        "total_amount_payable": 11460.91,
+        "total_charge_for_credit": 1711.91,
+        "amount_of_credit": 8774.1,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 7,
+        "residual": 4250,
+        "price_to_buy": 4260
+      }
+    ]
+  }
+]

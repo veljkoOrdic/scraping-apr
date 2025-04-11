@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:08:42.888Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2024-porsche-cayenne-42",
+    "dealer_id": "4386",
+    "car_id": "25292382",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "ESTATE",
+        "derivative": "5dr Tiptronic S",
+        "registration_number": "CN74VJJ",
+        "registration_date": "02/09/2024",
+        "mileage": 6027,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89990,
+        "total_price": 89990,
+        "deposit": 12500,
+        "balance": 77490,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 1632.29,
+        "final_payment": 40347.95,
+        "total_amount_payable": 109978.1,
+        "total_charge_for_credit": 19988.1,
+        "amount_of_credit": 77490,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 19.8,
+        "residual": 40337.95,
+        "price_to_buy": 40347.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 89990,
+        "total_price": 89990,
+        "deposit": 12500,
+        "balance": 77490,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2542.53,
+        "final_payment": 2552.53,
+        "total_amount_payable": 104041.08,
+        "total_charge_for_credit": 14051.08,
+        "amount_of_credit": 77490,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

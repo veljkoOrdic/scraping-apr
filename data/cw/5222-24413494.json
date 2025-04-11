@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:06:54.364Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.teesvalleymotors.co.uk/used/subaru-solterra-71.4-kwh-touring-auto-awd-5dr-in-darlington-durham/60856",
+    "dealer_id": "5222",
+    "car_id": "24413494",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Subaru",
+        "model": "SOLTERRA",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Touring 71.4kWh",
+        "registration_number": "NU72FGN",
+        "registration_date": "18/11/2022",
+        "mileage": 881,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35533,
+        "total_price": 35533,
+        "deposit": 3553.3,
+        "balance": 31979.7,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 60,
+        "regular_payment": 700.05,
+        "final_payment": 700.05,
+        "total_amount_payable": 45556.3,
+        "total_charge_for_credit": 10023.3,
+        "amount_of_credit": 31979.7,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35533,
+        "total_price": 35533,
+        "deposit": 3553.3,
+        "balance": 31979.7,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 618.37,
+        "final_payment": 12957,
+        "total_amount_payable": 46192.06,
+        "total_charge_for_credit": 10659.06,
+        "amount_of_credit": 31979.7,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 12947,
+        "price_to_buy": 12957
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:58:04.725Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/1013523/2019-audi-tt-rs-sport-edition/",
+    "dealer_id": "5013",
+    "car_id": "25413155",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "TT",
+        "variant": "RS COUPE",
+        "derivative": "TT RS TFSI Quattro Audi Sport Ed S Tronic",
+        "registration_number": "WD19 NBY",
+        "registration_date": "07/05/2019",
+        "mileage": 28649,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35980,
+        "total_price": 35980,
+        "deposit": 3598,
+        "balance": 32382,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 572.82,
+        "final_payment": 15642.93,
+        "total_amount_payable": 46163.47,
+        "total_charge_for_credit": 10183.47,
+        "amount_of_credit": 32382,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.78,
+        "residual": 15641.93,
+        "price_to_buy": 15642.93
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35980,
+        "total_price": 35980,
+        "deposit": 3598,
+        "balance": 32382,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 694.05,
+        "final_payment": 704.05,
+        "total_amount_payable": 45251,
+        "total_charge_for_credit": 9271,
+        "amount_of_credit": 32382,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

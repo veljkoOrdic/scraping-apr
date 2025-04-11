@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:48:47.435Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.countygaragegroup.co.uk/used/suzuki/ignis/12-dualjet-12v-hybrid-sz5-5dr/barnstaple/devon/21386633",
+    "dealer_id": "8300",
+    "car_id": "25520972",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "IGNIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet 12V Hybrid SZ5",
+        "registration_number": "PX71KPV",
+        "registration_date": "29/09/2021",
+        "mileage": 22887,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12600,
+        "total_price": 12600,
+        "deposit": 1260,
+        "balance": 11340,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 199.9,
+        "final_payment": 5774.05,
+        "total_amount_payable": 16629.25,
+        "total_charge_for_credit": 4029.25,
+        "amount_of_credit": 11340,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 5774.05,
+        "price_to_buy": 5774.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12600,
+        "total_price": 12600,
+        "deposit": 1260,
+        "balance": 11340,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 294.72,
+        "final_payment": 294.72,
+        "total_amount_payable": 15406.56,
+        "total_charge_for_credit": 2806.56,
+        "amount_of_credit": 11340,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

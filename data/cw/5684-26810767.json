@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:54:08.769Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-m3-competition-3-0-biturbo-competition-touring-steptronic-m-xdrive-euro-6-s-s-5dr-mc24lvx",
+    "dealer_id": "5684",
+    "car_id": "26810767",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition M xDrive Touring",
+        "registration_number": "MC24LVX",
+        "registration_date": "28/06/2024",
+        "mileage": 6765,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 70999,
+        "total_price": 70999,
+        "deposit": 11249.85,
+        "balance": 59749.15,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1500.42,
+        "final_payment": 1501.42,
+        "total_amount_payable": 83271.01,
+        "total_charge_for_credit": 12272.01,
+        "amount_of_credit": 59749.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 70999,
+        "total_price": 70999,
+        "deposit": 11249.85,
+        "balance": 59749.15,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 941.58,
+        "final_payment": 33406.1,
+        "total_amount_payable": 88910.21,
+        "total_charge_for_credit": 17911.21,
+        "amount_of_credit": 59749.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 19.82,
+        "residual": 33406.1,
+        "price_to_buy": 33406.1
+      }
+    ]
+  }
+]

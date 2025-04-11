@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:44:07.454Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kenjervis.com/used-car-details/used-kia-picanto-10-dpi-gt-line-hatchback-5dr-hatchback-yellow-manual-petrol/id-9473/",
+    "dealer_id": "5671",
+    "car_id": "25938463",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 GT-line [4 seats]",
+        "registration_number": "TH73TAN",
+        "registration_date": "02/09/2023",
+        "mileage": 9400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 2699,
+        "balance": 10796,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 194.28,
+        "final_payment": 5401,
+        "total_amount_payable": 17231.16,
+        "total_charge_for_credit": 3736.16,
+        "amount_of_credit": 10796,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 13,
+        "residual": 5400,
+        "price_to_buy": 5401
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 2699,
+        "balance": 10796,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 280.57,
+        "final_payment": 281.57,
+        "total_amount_payable": 16167.36,
+        "total_charge_for_credit": 2672.36,
+        "amount_of_credit": 10796,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

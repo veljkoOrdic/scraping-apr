@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:00.153Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mgmlimited.co.uk/used/cars/ford/ecosport/titanium-276",
+    "dealer_id": "6955",
+    "car_id": "25736090",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "ECOSPORT",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 Titanium",
+        "registration_number": "YO68WNH",
+        "registration_date": "21/12/2018",
+        "mileage": 34400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 44,
+        "regular_payment": 222.8,
+        "final_payment": 4080.68,
+        "total_amount_payable": 14810.58,
+        "total_charge_for_credit": 3315.58,
+        "amount_of_credit": 10345.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 36666,
+        "excess_mileage_rate": 2.62,
+        "residual": 4080.68,
+        "price_to_buy": 4080.68
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 231.14,
+        "final_payment": 231.14,
+        "total_amount_payable": 15017.9,
+        "total_charge_for_credit": 3522.9,
+        "amount_of_credit": 10345.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

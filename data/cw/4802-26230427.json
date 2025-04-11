@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:03:19.253Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/mercedes-g63-amg-40-v8-biturbo-amg-spds9gt-4matic-euro-6-ss-5dr-in-huddersfield-west-yorkshire-27541468-d8c8-4124-8c58-b226009f910c",
+    "dealer_id": "4802",
+    "car_id": "26230427",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "YE21GFO",
+        "registration_date": "18/06/2021",
+        "mileage": 16000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 159995,
+        "total_price": 159995,
+        "deposit": 59995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 7.87,
+        "term": 48,
+        "regular_payment": 1425.69,
+        "final_payment": 64485,
+        "total_amount_payable": 191487.43,
+        "total_charge_for_credit": 31492.43,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 38,
+        "residual": 64485,
+        "price_to_buy": 64485
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 159995,
+        "total_price": 159995,
+        "deposit": 59995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2511.23,
+        "final_payment": 2511.23,
+        "total_amount_payable": 180534.04,
+        "total_charge_for_credit": 20539.04,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

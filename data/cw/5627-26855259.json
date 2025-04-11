@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:24:43.570Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.5thgearmotorcompany.co.uk/used/cars/bmw/m4/3-0-biturbo-competition-steptronic-euro-6-s-s-2dr-148",
+    "dealer_id": "5627",
+    "car_id": "26855259",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "COUPE",
+        "derivative": "M4 Competition Step [M Pro/M Carbon Pk]",
+        "registration_number": "LD71DYX",
+        "registration_date": "16/09/2021",
+        "mileage": 20463,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57490,
+        "total_price": 57490,
+        "deposit": 5749,
+        "balance": 51741,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 902.93,
+        "final_payment": 17050.71,
+        "total_amount_payable": 76072.58,
+        "total_charge_for_credit": 18582.58,
+        "amount_of_credit": 51741,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 12.16,
+        "residual": 17050.71,
+        "price_to_buy": 17050.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57490,
+        "total_price": 57490,
+        "deposit": 5749,
+        "balance": 51741,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1109.41,
+        "final_payment": 1109.41,
+        "total_amount_payable": 72313.6,
+        "total_charge_for_credit": 14823.6,
+        "amount_of_credit": 51741,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

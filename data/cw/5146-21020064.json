@@ -1,0 +1,45 @@
+[
+  {
+    "timestamp": "2025-04-11T02:37:14.817Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ronbrooks.co.uk/usedcars/2023-toyota-corolla-1-8-vvt-h-gr-sport-cvt-euro-6-s-s-5dr/",
+    "dealer_id": "5146",
+    "car_id": "21020064",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "COROLLA",
+        "variant": "HATCHBACK",
+        "derivative": "1.8 Hybrid GR Sport CVT",
+        "registration_number": "FN73OAV",
+        "registration_date": "30/11/2023",
+        "mileage": 8830,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23300,
+        "total_price": 23300,
+        "deposit": 2330,
+        "balance": 20970,
+        "apr": 8.5,
+        "rate_of_interest": 6.36,
+        "term": 48,
+        "regular_payment": 322.17,
+        "final_payment": 11160,
+        "total_amount_payable": 28631.99,
+        "total_charge_for_credit": 5331.99,
+        "amount_of_credit": 20970,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 11160,
+        "price_to_buy": 11160
+      }
+    ]
+  }
+]

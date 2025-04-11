@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T01:31:56.404Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.northgate-cars.com/kia-sportage-1-6-crdi-mhev-gt-line-s-suv-5dr-diesel-hybrid-dct-euro-6-s-s-134-bhp-in-west-sussex-3eeedcc4-939f-40d2-90da-3c0979a0dc0c",
+    "dealer_id": "4879",
+    "car_id": "27396163",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 CRDi 48V ISG GT-Line S DCT",
+        "registration_number": "RO70FKL",
+        "registration_date": "09/11/2020",
+        "mileage": 27469,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.1,
+        "term": 48,
+        "regular_payment": 391.1,
+        "final_payment": 6159.85,
+        "total_amount_payable": 26591.05,
+        "total_charge_for_credit": 6096.05,
+        "amount_of_credit": 18445.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5758.75,
+        "price_to_buy": 6159.85
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 12.5,
+        "rate_of_interest": 6.1,
+        "term": 60,
+        "regular_payment": 408.8,
+        "final_payment": 408.8,
+        "total_amount_payable": 26577.5,
+        "total_charge_for_credit": 6082.5,
+        "amount_of_credit": 18445.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

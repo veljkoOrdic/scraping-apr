@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:51:50.449Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-vana.co.uk/vehicle/bmw-m5-44i-v8-competition-steptronic-xdrive-euro-6-ss-4dr-in-manchester-612f5e98-a048-460b-99ce-b2050161b92a",
+    "dealer_id": "6910",
+    "car_id": "25918325",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M5",
+        "variant": "",
+        "derivative": "M5 Competition Saloon",
+        "registration_number": "KT21DHD",
+        "registration_date": "24/05/2021",
+        "mileage": 33703,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50995,
+        "total_price": 50995,
+        "deposit": 5099.5,
+        "balance": 45895.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 48,
+        "regular_payment": 753.04,
+        "final_payment": 23378.5,
+        "total_amount_payable": 64623.92,
+        "total_charge_for_credit": 13628.92,
+        "amount_of_credit": 45895.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 27.1,
+        "residual": 23377.5,
+        "price_to_buy": 23378.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50995,
+        "total_price": 50995,
+        "deposit": 5099.5,
+        "balance": 45895.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 963.42,
+        "final_payment": 963.42,
+        "total_amount_payable": 62904.7,
+        "total_charge_for_credit": 11909.7,
+        "amount_of_credit": 45895.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

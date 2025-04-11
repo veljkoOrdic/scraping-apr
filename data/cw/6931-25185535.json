@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:39:24.439Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thelovelycarcompany.co.uk/cars/bmw/3series/2.0-330e-sport-pro-saloon/1226806/",
+    "dealer_id": "6931",
+    "car_id": "25185535",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "SALOON",
+        "derivative": "330e Sport Pro Step",
+        "registration_number": "ND70AHN",
+        "registration_date": "16/12/2020",
+        "mileage": 43410,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 11,
+        "rate_of_interest": 5.78,
+        "term": 60,
+        "regular_payment": 357.5,
+        "final_payment": 357.5,
+        "total_amount_payable": 23299,
+        "total_charge_for_credit": 4809,
+        "amount_of_credit": 16641,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 11,
+        "rate_of_interest": 10.48,
+        "term": 48,
+        "regular_payment": 285.96,
+        "final_payment": 8370,
+        "total_amount_payable": 23945.08,
+        "total_charge_for_credit": 5455.08,
+        "amount_of_credit": 16641,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.91,
+        "residual": 8370,
+        "price_to_buy": 8370
+      }
+    ]
+  }
+]

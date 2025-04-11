@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:57:57.787Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sdm-group.co.uk/used-cars/toyota-rav4-2-5-vvt-h-18-1-kwh-gr-sport-cvt-4wd-euro-6-s-s-5dr-yr24zvx",
+    "dealer_id": "8279",
+    "car_id": "26169367",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "RAV4",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV GR Sport CVT",
+        "registration_number": "YR24ZVX",
+        "registration_date": "01/03/2024",
+        "mileage": 8096,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40495,
+        "total_price": 40495,
+        "deposit": 4049.5,
+        "balance": 36445.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 963.07,
+        "final_payment": 973.07,
+        "total_amount_payable": 50286.86,
+        "total_charge_for_credit": 9791.86,
+        "amount_of_credit": 36445.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40495,
+        "total_price": 40495,
+        "deposit": 4049.5,
+        "balance": 36445.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 625.81,
+        "final_payment": 20958,
+        "total_amount_payable": 55046.38,
+        "total_charge_for_credit": 14551.38,
+        "amount_of_credit": 36445.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 20948,
+        "price_to_buy": 20958
+      }
+    ]
+  }
+]

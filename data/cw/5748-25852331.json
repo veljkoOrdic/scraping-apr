@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:47:19.588Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.topgeargarage.co.uk/cars-for-sale/yorkshire/car/548/bmw-4-series-420d-m-sport",
+    "dealer_id": "5748",
+    "car_id": "25852331",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "DIESEL COUPE",
+        "derivative": "420d M Sport [Professional Media]",
+        "registration_number": "PK67MPO",
+        "registration_date": "17/10/2017",
+        "mileage": 72000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 1200,
+        "balance": 10799,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 30,
+        "regular_payment": 286.62,
+        "final_payment": 4502.33,
+        "total_amount_payable": 14014.31,
+        "total_charge_for_credit": 2015.31,
+        "amount_of_credit": 10799,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 4.92,
+        "residual": 4502.33,
+        "price_to_buy": 4502.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 1200,
+        "balance": 10799,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 241.27,
+        "final_payment": 242.27,
+        "total_amount_payable": 15677.2,
+        "total_charge_for_credit": 3678.2,
+        "amount_of_credit": 10799,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

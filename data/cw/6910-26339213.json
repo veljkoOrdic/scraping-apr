@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:51:36.292Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-vana.co.uk/vehicle/bmw-x3-m-30i-competition-auto-xdrive-euro-6-ss-5dr-in-manchester-d55b3e50-3243-4ad5-825d-b23100eb3f2f",
+    "dealer_id": "6910",
+    "car_id": "26339213",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 M Competition",
+        "registration_number": "YK70DGM",
+        "registration_date": "30/01/2021",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 48,
+        "regular_payment": 728.78,
+        "final_payment": 23491,
+        "total_amount_payable": 63471.94,
+        "total_charge_for_credit": 13476.94,
+        "amount_of_credit": 44995.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 20.8,
+        "residual": 23490,
+        "price_to_buy": 23491
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 944.53,
+        "final_payment": 944.53,
+        "total_amount_payable": 61671.3,
+        "total_charge_for_credit": 11676.3,
+        "amount_of_credit": 44995.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

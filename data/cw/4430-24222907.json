@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:37:59.547Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicksonsofinverness.co.uk/used/cars/suzuki/swift/1-2-dualjet-mhev-sz-t-euro-6-s-s-5dr-115",
+    "dealer_id": "4430",
+    "car_id": "24222907",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SWIFT",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet SHVS SZ-T",
+        "registration_number": "GJ20PXE",
+        "registration_date": "30/06/2020",
+        "mileage": 15935,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11998,
+        "total_price": 11998,
+        "deposit": 1199.8,
+        "balance": 10798.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 271.03,
+        "final_payment": 281.03,
+        "total_amount_payable": 14219.24,
+        "total_charge_for_credit": 2221.24,
+        "amount_of_credit": 10798.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11998,
+        "total_price": 11998,
+        "deposit": 1199.8,
+        "balance": 10798.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 48,
+        "regular_payment": 212.61,
+        "final_payment": 3428,
+        "total_amount_payable": 14833.08,
+        "total_charge_for_credit": 2835.08,
+        "amount_of_credit": 10798.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 9,
+        "residual": 3418,
+        "price_to_buy": 3428
+      }
+    ]
+  }
+]

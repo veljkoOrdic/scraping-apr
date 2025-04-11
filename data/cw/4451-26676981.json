@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:47:13.101Z",
+    "source": "codeweavers_calculator",
+    "url": "https://stargarage.co.uk/vehicle/honda-jazz-2/",
+    "dealer_id": "4451",
+    "car_id": "26676981",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "JAZZ",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 i-VTEC EX",
+        "registration_number": "dl68jgo",
+        "registration_date": "30/01/2019",
+        "mileage": 26000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11287,
+        "total_price": 11287,
+        "deposit": 1128.7,
+        "balance": 10158.3,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 36,
+        "regular_payment": 342.69,
+        "final_payment": 342.69,
+        "total_amount_payable": 13465.54,
+        "total_charge_for_credit": 2178.54,
+        "amount_of_credit": 10158.3,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11287,
+        "total_price": 11287,
+        "deposit": 1128.7,
+        "balance": 10158.3,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 36,
+        "regular_payment": 222.09,
+        "final_payment": 5504.5,
+        "total_amount_payable": 14406.35,
+        "total_charge_for_credit": 3119.35,
+        "amount_of_credit": 10158.3,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 3.33,
+        "residual": 5504.5,
+        "price_to_buy": 5504.5
+      }
+    ]
+  }
+]

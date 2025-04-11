@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:55:22.721Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ballylisk.co.uk/used-car-details/used-ford-puma-10-st-line-125-in-black-with--suv-black-manual-petrol-hybrid/id-5476/",
+    "dealer_id": "5536",
+    "car_id": "26311826",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST-Line",
+        "registration_number": "YD73TDW",
+        "registration_date": "14/02/2024",
+        "mileage": 5500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19975,
+        "total_price": 19975,
+        "deposit": 1998,
+        "balance": 17977,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 451.44,
+        "final_payment": 451.44,
+        "total_amount_payable": 23667.12,
+        "total_charge_for_credit": 3692.12,
+        "amount_of_credit": 17977,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19975,
+        "total_price": 19975,
+        "deposit": 1998,
+        "balance": 17977,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 317.77,
+        "final_payment": 8083,
+        "total_amount_payable": 25016.19,
+        "total_charge_for_credit": 5041.19,
+        "amount_of_credit": 17977,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.8,
+        "residual": 8083,
+        "price_to_buy": 8083
+      }
+    ]
+  }
+]

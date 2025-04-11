@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T04:48:05.492Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.peter-ambrose.co.uk/used/peugeot/208/12-puretech-110-gt-line-5dr-6-speed/castleford/west-yorkshire/21558991",
+    "dealer_id": "5522",
+    "car_id": "27376128",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "208",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech 110 GT Line [6 Speed]",
+        "registration_number": "KO68WNR",
+        "registration_date": "27/02/2019",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 1348.5,
+        "balance": 7641.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 34,
+        "regular_payment": 192.99,
+        "final_payment": 3350,
+        "total_amount_payable": 11067.17,
+        "total_charge_for_credit": 2077.17,
+        "amount_of_credit": 7641.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 28333,
+        "excess_mileage_rate": 7,
+        "residual": 3340,
+        "price_to_buy": 3350
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 1348.5,
+        "balance": 7641.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 195.23,
+        "final_payment": 196.23,
+        "total_amount_payable": 10720.54,
+        "total_charge_for_credit": 1730.54,
+        "amount_of_credit": 7641.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

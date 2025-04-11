@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T03:05:18.363Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.closemotorcompany.co.uk/used/mitsubishi/l200/double-cab-di-d-150-barbarian-4wd/corby/northamptonshire/226462",
+    "dealer_id": "5213",
+    "car_id": "24645383",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mitsubishi",
+        "model": "L200",
+        "variant": "DIESEL",
+        "derivative": "Double Cab DI-D 150 Barbarian",
+        "registration_number": "DS21MDK",
+        "registration_date": "31/03/2021",
+        "mileage": 64500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19990,
+        "total_price": 19990,
+        "deposit": 4997.5,
+        "balance": 14992.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 301.89,
+        "final_payment": 4847.42,
+        "total_amount_payable": 24335.64,
+        "total_charge_for_credit": 4345.64,
+        "amount_of_credit": 14992.5,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 4847.42,
+        "price_to_buy": 4847.42
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19990,
+        "total_price": 19990,
+        "deposit": 4997.5,
+        "balance": 14992.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 383.07,
+        "final_payment": 383.07,
+        "total_amount_payable": 23384.86,
+        "total_charge_for_credit": 3394.86,
+        "amount_of_credit": 14992.5,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

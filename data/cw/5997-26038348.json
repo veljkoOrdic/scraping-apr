@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:52:40.832Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-volvo-xc60-20-b5-mhev-ultimate-suv-5dr-p-suv-silver-automatic-petrol-hybrid/id-3734/",
+    "dealer_id": "5997",
+    "car_id": "26038348",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC60",
+        "variant": "ESTATE",
+        "derivative": "2.0 B5P Ultimate Dark Geartronic",
+        "registration_number": "RA73TWD",
+        "registration_date": "15/02/2024",
+        "mileage": 10090,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43990,
+        "total_price": 43990,
+        "deposit": 4399,
+        "balance": 39591,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1046.37,
+        "final_payment": 1046.37,
+        "total_amount_payable": 54624.76,
+        "total_charge_for_credit": 10634.76,
+        "amount_of_credit": 39591,
+        "lender": "Volvo Car Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43990,
+        "total_price": 43990,
+        "deposit": 4399,
+        "balance": 39591,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 676.63,
+        "final_payment": 22959.91,
+        "total_amount_payable": 59837.15,
+        "total_charge_for_credit": 15847.15,
+        "amount_of_credit": 39591,
+        "lender": "Volvo Car Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 22959.91,
+        "price_to_buy": 22959.91
+      }
+    ]
+  }
+]

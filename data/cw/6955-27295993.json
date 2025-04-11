@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:45.412Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mgmlimited.co.uk/used/cars/porsche/cayenne/v6-375",
+    "dealer_id": "6955",
+    "car_id": "27295993",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "ESTATE",
+        "derivative": "E-Hybrid Tiptronic S",
+        "registration_number": "LN20VRY",
+        "registration_date": "21/03/2020",
+        "mileage": 69300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42495,
+        "total_price": 42495,
+        "deposit": 4249.5,
+        "balance": 38245.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 59,
+        "regular_payment": 687.14,
+        "final_payment": 14970.13,
+        "total_amount_payable": 59073.75,
+        "total_charge_for_credit": 16578.75,
+        "amount_of_credit": 38245.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 49166,
+        "excess_mileage_rate": 10.22,
+        "residual": 14970.13,
+        "price_to_buy": 14970.13
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42495,
+        "total_price": 42495,
+        "deposit": 4249.5,
+        "balance": 38245.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 854.52,
+        "final_payment": 854.52,
+        "total_amount_payable": 55520.7,
+        "total_charge_for_credit": 13025.7,
+        "amount_of_credit": 38245.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

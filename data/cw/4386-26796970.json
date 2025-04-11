@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:05:01.466Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/mini/used-cars/2021-mini-hatch-cooper-classic-euro-6-5-door-35",
+    "dealer_id": "4386",
+    "car_id": "26796970",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "5-Door Hatch Cooper Classic",
+        "registration_number": "EA71LPZ",
+        "registration_date": "29/11/2021",
+        "mileage": 17261,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 5400,
+        "balance": 9095,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 114.75,
+        "final_payment": 7451.99,
+        "total_amount_payable": 18245.24,
+        "total_charge_for_credit": 3750.24,
+        "amount_of_credit": 9095,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.33,
+        "residual": 7451.99,
+        "price_to_buy": 7451.99
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 5400,
+        "balance": 9095,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 236.36,
+        "final_payment": 237.36,
+        "total_amount_payable": 16746.28,
+        "total_charge_for_credit": 2251.28,
+        "amount_of_credit": 9095,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

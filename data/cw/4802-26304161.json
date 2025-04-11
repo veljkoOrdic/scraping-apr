@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:58:29.941Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/bmw-x7-30-40d-mht-m-sport-auto-xdrive-euro-6-ss-5dr-7-seat-in-huddersfield-west-yorkshire-d115e1db-0aa3-4b6c-a075-b22e00f3abc0",
+    "dealer_id": "4802",
+    "car_id": "26304161",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X7",
+        "variant": "",
+        "derivative": "X7 xDrive40d M Sport",
+        "registration_number": "MT72NVE",
+        "registration_date": "31/10/2022",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299.5,
+        "balance": 65695.5,
+        "apr": 9.9,
+        "rate_of_interest": 7.05,
+        "term": 48,
+        "regular_payment": 1151.73,
+        "final_payment": 30082.5,
+        "total_amount_payable": 91513.31,
+        "total_charge_for_credit": 18518.31,
+        "amount_of_credit": 65695.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 21,
+        "residual": 30082.5,
+        "price_to_buy": 30082.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299.5,
+        "balance": 65695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1649.76,
+        "final_payment": 1649.76,
+        "total_amount_payable": 86487.98,
+        "total_charge_for_credit": 13492.98,
+        "amount_of_credit": 65695.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

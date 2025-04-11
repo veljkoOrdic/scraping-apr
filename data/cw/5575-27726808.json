@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T05:15:11.813Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-mercedes-benz-g-class-g63-v8-biturbo-mhev-amg-for-sale-in-cleckheaton-west-yorkshire-u1580/",
+    "dealer_id": "5575",
+    "car_id": "27726808",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "G Series Station Wagon",
+        "derivative": "G63 AMG Manufaktur Edition SUV 4MATIC MY25 2024",
+        "registration_number": "38FM",
+        "registration_date": "29/03/2025",
+        "mileage": 50,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 224995,
+        "total_price": 224995,
+        "deposit": 22499.5,
+        "balance": 202495.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 3513.45,
+        "final_payment": 105400,
+        "total_amount_payable": 293031.65,
+        "total_charge_for_credit": 68036.65,
+        "amount_of_credit": 202495.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 224995,
+        "total_price": 224995,
+        "deposit": 22499.5,
+        "balance": 202495.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 4387.05,
+        "final_payment": 4387.05,
+        "total_amount_payable": 285722.5,
+        "total_charge_for_credit": 60727.5,
+        "amount_of_credit": 202495.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

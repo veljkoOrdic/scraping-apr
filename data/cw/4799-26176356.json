@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:52:05.267Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.apexperformancecars.co.uk/vehicle/lamborghini-urus-40-v8-biturbo-performante-auto-4wd-euro-6-5dr-in-west-yorkshire-a07736ad-0a9f-4929-a02a-b22000ce6be1",
+    "dealer_id": "4799",
+    "car_id": "26176356",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8 Performante",
+        "registration_number": "LL23PMV",
+        "registration_date": "09/06/2023",
+        "mileage": 6300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 244995,
+        "total_price": 244995,
+        "deposit": 84995,
+        "balance": 160000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2255.81,
+        "final_payment": 110728,
+        "total_amount_payable": 301746.07,
+        "total_charge_for_credit": 56751.07,
+        "amount_of_credit": 160000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 118,
+        "residual": 110728,
+        "price_to_buy": 110728
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 244995,
+        "total_price": 244995,
+        "deposit": 84995,
+        "balance": 160000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 4088.09,
+        "final_payment": 4088.09,
+        "total_amount_payable": 281223.32,
+        "total_charge_for_credit": 36228.32,
+        "amount_of_credit": 160000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

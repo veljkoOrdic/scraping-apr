@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:47:44.209Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.srhcarsleeds.co.uk/details/used-car-in-leeds/porsche/cayenne/3.0-td-v6-platinum-edition-tiptronics-4wd-euro-6-ss-5dr/877551/",
+    "dealer_id": "5981",
+    "car_id": "20319426",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "Platinum Edition Diesel Tiptronic S",
+        "registration_number": "FD17BLK",
+        "registration_date": "26/05/2017",
+        "mileage": 87000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23299,
+        "total_price": 23299,
+        "deposit": 2329.9,
+        "balance": 20969.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 526.5,
+        "final_payment": 526.5,
+        "total_amount_payable": 27601.9,
+        "total_charge_for_credit": 4302.9,
+        "amount_of_credit": 20969.1,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23299,
+        "total_price": 23299,
+        "deposit": 2329.9,
+        "balance": 20969.1,
+        "apr": 9.9,
+        "rate_of_interest": 6.85,
+        "term": 39,
+        "regular_payment": 442.56,
+        "final_payment": 8820,
+        "total_amount_payable": 27967.18,
+        "total_charge_for_credit": 4668.18,
+        "amount_of_credit": 20969.1,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 26,
+        "residual": 8820,
+        "price_to_buy": 8820
+      }
+    ]
+  }
+]

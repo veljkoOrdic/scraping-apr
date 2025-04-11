@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:30:00.185Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.phoenixrc-autos.co.uk/used-mercedes-benz-gt-huddersfield-west-yorkshire-4454322",
+    "dealer_id": "6919",
+    "car_id": "26221647",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "AMG GT",
+        "variant": "COUPE",
+        "derivative": "GT R Premium",
+        "registration_number": "K155WXY",
+        "registration_date": "01/09/2017",
+        "mileage": 37280,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 74999,
+        "total_price": 74999,
+        "deposit": 7499,
+        "balance": 67500,
+        "apr": 9.9,
+        "rate_of_interest": 6.74,
+        "term": 48,
+        "regular_payment": 1265.24,
+        "final_payment": 26235,
+        "total_amount_payable": 93200.28,
+        "total_charge_for_credit": 18201.28,
+        "amount_of_credit": 67500,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 35,
+        "residual": 26235,
+        "price_to_buy": 26235
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 74999,
+        "total_price": 74999,
+        "deposit": 7499,
+        "balance": 67500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1416.88,
+        "final_payment": 1416.88,
+        "total_amount_payable": 92511.8,
+        "total_charge_for_credit": 17512.8,
+        "amount_of_credit": 67500,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

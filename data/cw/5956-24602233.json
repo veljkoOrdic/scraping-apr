@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:40:05.517Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilmoths.co.uk/used/citroen/c3/12-puretech-shine-plus-5dr/southampton/hampshire/21276137",
+    "dealer_id": "5956",
+    "car_id": "24602233",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech Shine Plus",
+        "registration_number": "GU71JXR",
+        "registration_date": "30/09/2021",
+        "mileage": 12700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11750,
+        "total_price": 11750,
+        "deposit": 1175,
+        "balance": 10575,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 203.39,
+        "final_payment": 4726,
+        "total_amount_payable": 15663.72,
+        "total_charge_for_credit": 3913.72,
+        "amount_of_credit": 10575,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.9,
+        "residual": 4725,
+        "price_to_buy": 4726
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11750,
+        "total_price": 11750,
+        "deposit": 1175,
+        "balance": 10575,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 279.44,
+        "final_payment": 280.44,
+        "total_amount_payable": 14589.12,
+        "total_charge_for_credit": 2839.12,
+        "amount_of_credit": 10575,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

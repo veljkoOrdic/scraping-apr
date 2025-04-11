@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:50:59.687Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.apexperformancecars.co.uk/vehicle/bmw-m3-30-biturbo-cs-steptronic-xdrive-euro-6-ss-4dr-in-west-yorkshire-6b05a6cc-434b-498f-a193-b03a013f3177",
+    "dealer_id": "4799",
+    "car_id": "21209204",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3",
+        "variant": "",
+        "derivative": "M3 CS Saloon",
+        "registration_number": "YE23XBJ",
+        "registration_date": "06/07/2023",
+        "mileage": 200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 102995,
+        "total_price": 102995,
+        "deposit": 10299.5,
+        "balance": 92695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 1514.8,
+        "final_payment": 50968,
+        "total_amount_payable": 133977.9,
+        "total_charge_for_credit": 30982.9,
+        "amount_of_credit": 92695.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 50968,
+        "price_to_buy": 50968
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 102995,
+        "total_price": 102995,
+        "deposit": 10299.5,
+        "balance": 92695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 2368.42,
+        "final_payment": 2368.42,
+        "total_amount_payable": 123983.66,
+        "total_charge_for_credit": 20988.66,
+        "amount_of_credit": 92695.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

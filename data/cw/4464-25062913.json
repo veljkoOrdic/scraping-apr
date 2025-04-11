@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:56:04.222Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.centralmotors.co.uk/details/used-car-in-chard/ford/focus/1.0t-ecoboost-st-line-x-euro-6-ss-5dr/990716/",
+    "dealer_id": "4464",
+    "car_id": "25062913",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 ST-Line X",
+        "registration_number": "WF19BVE",
+        "registration_date": "17/05/2019",
+        "mileage": 35959,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 11,
+        "rate_of_interest": 5.71,
+        "term": 48,
+        "regular_payment": 299.31,
+        "final_payment": 299.31,
+        "total_amount_payable": 15666.38,
+        "total_charge_for_credit": 2671.38,
+        "amount_of_credit": 11695.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.8,
+        "rate_of_interest": 12.8,
+        "term": 48,
+        "regular_payment": 244.03,
+        "final_payment": 4205.39,
+        "total_amount_payable": 16974.3,
+        "total_charge_for_credit": 3979.3,
+        "amount_of_credit": 11695.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.56,
+        "residual": 4205.39,
+        "price_to_buy": 4205.39
+      }
+    ]
+  }
+]

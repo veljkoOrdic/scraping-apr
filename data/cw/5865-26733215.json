@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:52:06.223Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.revitupuk.com/vehicle-details/used-mercedes-benz-a-class-a35-amg-for-sale-in-chester-u2152/",
+    "dealer_id": "5865",
+    "car_id": "26733215",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "A-Class 177 AMG Hatchback",
+        "derivative": "A35 4MATIC Premium Plus Auto 5dr MY20.5 2019",
+        "registration_number": "JM21MES",
+        "registration_date": "25/06/2021",
+        "mileage": 21500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30950,
+        "total_price": 30950,
+        "deposit": 3095,
+        "balance": 27855,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 49,
+        "regular_payment": 529.35,
+        "final_payment": 10449,
+        "total_amount_payable": 39482.15,
+        "total_charge_for_credit": 8532.15,
+        "amount_of_credit": 27855,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 10439,
+        "price_to_buy": 10449
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30950,
+        "total_price": 30950,
+        "deposit": 3095,
+        "balance": 27855,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 597.03,
+        "final_payment": 607.03,
+        "total_amount_payable": 38926.8,
+        "total_charge_for_credit": 7976.8,
+        "amount_of_credit": 27855,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

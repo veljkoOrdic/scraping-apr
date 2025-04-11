@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:47:44.525Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brimartmotors.co.uk/details/specialist-car-in-bolton/audi/e-tron/50-technik-auto-quattro-5dr-71.2kwh/1351215/",
+    "dealer_id": "4909",
+    "car_id": "26719157",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "e-tron",
+        "variant": "ESTATE",
+        "derivative": "230kW 50 Quattro 71kWh Technik",
+        "registration_number": "ND70MMV",
+        "registration_date": "18/12/2020",
+        "mileage": 20900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19650,
+        "total_price": 19650,
+        "deposit": 1965,
+        "balance": 17685,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 314.34,
+        "final_payment": 6149.04,
+        "total_amount_payable": 26660.1,
+        "total_charge_for_credit": 7010.1,
+        "amount_of_credit": 17685,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.84,
+        "residual": 6149.04,
+        "price_to_buy": 6149.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19650,
+        "total_price": 19650,
+        "deposit": 1965,
+        "balance": 17685,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 387.13,
+        "final_payment": 387.13,
+        "total_amount_payable": 25192.8,
+        "total_charge_for_credit": 5542.8,
+        "amount_of_credit": 17685,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

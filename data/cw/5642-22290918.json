@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:29:16.308Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richtoy.co.uk/details/used-car-in-scunthorpe/subaru/solterra/71.4-kwh-limited-auto-awd-5dr/1018408/",
+    "dealer_id": "5642",
+    "car_id": "22290918",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Subaru",
+        "model": "SOLTERRA",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Limited 71.4kWh",
+        "registration_number": "YX73OJS",
+        "registration_date": "27/09/2023",
+        "mileage": 4750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35950,
+        "total_price": 35950,
+        "deposit": 3595,
+        "balance": 32355,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 612.01,
+        "final_payment": 13329.51,
+        "total_amount_payable": 45688.98,
+        "total_charge_for_credit": 9738.98,
+        "amount_of_credit": 32355,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12707.5,
+        "price_to_buy": 13329.51
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35950,
+        "total_price": 35950,
+        "deposit": 3595,
+        "balance": 32355,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 693.48,
+        "final_payment": 703.48,
+        "total_amount_payable": 45213.8,
+        "total_charge_for_credit": 9263.8,
+        "amount_of_credit": 32355,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T09:56:19.009Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sdm-group.co.uk/used-cars/toyota-aygo-1-0-vvt-i-x-trend-euro-6-s-s-5dr-av71ryg",
+    "dealer_id": "8279",
+    "car_id": "26631348",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "AYGO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 VVT-i X-Trend TSS",
+        "registration_number": "AV71RYG",
+        "registration_date": "01/03/2021",
+        "mileage": 44250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9395,
+        "total_price": 9395,
+        "deposit": 939.5,
+        "balance": 8455.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.69,
+        "term": 48,
+        "regular_payment": 223.3,
+        "final_payment": 233.3,
+        "total_amount_payable": 11667.9,
+        "total_charge_for_credit": 2272.9,
+        "amount_of_credit": 8455.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9395,
+        "total_price": 9395,
+        "deposit": 939.5,
+        "balance": 8455.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 48,
+        "regular_payment": 152.95,
+        "final_payment": 4381,
+        "total_amount_payable": 12662.1,
+        "total_charge_for_credit": 3267.1,
+        "amount_of_credit": 8455.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9,
+        "residual": 4371,
+        "price_to_buy": 4381
+      }
+    ]
+  }
+]

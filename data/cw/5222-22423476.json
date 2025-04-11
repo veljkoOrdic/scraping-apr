@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:06:39.222Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.teesvalleymotors.co.uk/used/ssangyong-korando-e-motion-61.5kwh-ultimate-auto-5dr-in-darlington-durham/60863",
+    "dealer_id": "5222",
+    "car_id": "22423476",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ssangyong",
+        "model": "KORANDO",
+        "variant": "E-MOTION ELECTRIC ESTATE",
+        "derivative": "140kW Ultimate 61.5kWh",
+        "registration_number": "NU73GGE",
+        "registration_date": "29/09/2023",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23882,
+        "total_price": 23882,
+        "deposit": 2388.2,
+        "balance": 21493.8,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 60,
+        "regular_payment": 441.56,
+        "final_payment": 441.56,
+        "total_amount_payable": 28881.8,
+        "total_charge_for_credit": 4999.8,
+        "amount_of_credit": 21493.8,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23882,
+        "total_price": 23882,
+        "deposit": 2388.2,
+        "balance": 21493.8,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 49,
+        "regular_payment": 399.13,
+        "final_payment": 7533,
+        "total_amount_payable": 29079.44,
+        "total_charge_for_credit": 5197.44,
+        "amount_of_credit": 21493.8,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 7523,
+        "price_to_buy": 7533
+      }
+    ]
+  }
+]

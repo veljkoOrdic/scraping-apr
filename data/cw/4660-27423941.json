@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T00:32:09.005Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dnaautohausltd.co.uk/used/cars/bmw/8-series/4-4-m8-competition-edition-auto-4wd-4dr-75",
+    "dealer_id": "4660",
+    "car_id": "27423941",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M8",
+        "variant": "",
+        "derivative": "M8 Competition Gran Coupe",
+        "registration_number": "VA71XKU",
+        "registration_date": "14/12/2021",
+        "mileage": 18600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78999,
+        "total_price": 78999,
+        "deposit": 7899.9,
+        "balance": 71099.1,
+        "apr": 9.4,
+        "rate_of_interest": 4.92,
+        "term": 60,
+        "regular_payment": 1476.49,
+        "final_payment": 1477.49,
+        "total_amount_payable": 96490.3,
+        "total_charge_for_credit": 17491.3,
+        "amount_of_credit": 71099.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78999,
+        "total_price": 78999,
+        "deposit": 7899.9,
+        "balance": 71099.1,
+        "apr": 9.4,
+        "rate_of_interest": 4.69,
+        "term": 48,
+        "regular_payment": 1376.3,
+        "final_payment": 22837.5,
+        "total_amount_payable": 96800.8,
+        "total_charge_for_credit": 17801.8,
+        "amount_of_credit": 71099.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 24.9,
+        "residual": 22837.5,
+        "price_to_buy": 22837.5
+      }
+    ]
+  }
+]

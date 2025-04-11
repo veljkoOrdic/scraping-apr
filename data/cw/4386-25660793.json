@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:07:09.796Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2024-bmw-i5-40-839kwh-m-sport-pro-touring-auto-edrive-5-door-11kw-charger-2",
+    "dealer_id": "4386",
+    "car_id": "25660793",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "i5",
+        "variant": "",
+        "derivative": "i5 eDrive40 M Sport Pro Touring",
+        "registration_number": "WM24HDD",
+        "registration_date": "28/05/2024",
+        "mileage": 8667,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 5700,
+        "balance": 48300,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 673.6,
+        "final_payment": 28473.39,
+        "total_amount_payable": 65832.59,
+        "total_charge_for_credit": 11832.59,
+        "amount_of_credit": 48300,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 20.08,
+        "residual": 28473.39,
+        "price_to_buy": 28473.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 5700,
+        "balance": 48300,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 1170.72,
+        "final_payment": 1170.72,
+        "total_amount_payable": 61894.56,
+        "total_charge_for_credit": 7894.56,
+        "amount_of_credit": 48300,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

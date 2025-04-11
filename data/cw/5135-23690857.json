@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:28:18.967Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rallysportcarsales.co.uk/used/cars/ford/fiesta/1-0-fiesta-st-line-t-5dr-46",
+    "dealer_id": "5135",
+    "car_id": "23690857",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 140 ST-Line",
+        "registration_number": "DS18UBP",
+        "registration_date": "17/05/2018",
+        "mileage": 70000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 37,
+        "regular_payment": 165.97,
+        "final_payment": 2862.76,
+        "total_amount_payable": 9637.18,
+        "total_charge_for_credit": 1642.18,
+        "amount_of_credit": 7195.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 2.97,
+        "residual": 2862.76,
+        "price_to_buy": 2862.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 154.28,
+        "final_payment": 154.28,
+        "total_amount_payable": 10056.3,
+        "total_charge_for_credit": 2061.3,
+        "amount_of_credit": 7195.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

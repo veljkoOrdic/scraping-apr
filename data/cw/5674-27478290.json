@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T05:46:08.377Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ford-retailer.com/used/ford/puma/10-ecoboost-hybrid-mhev-st-5dr-dct/knottingley/west-yorkshire/21558352",
+    "dealer_id": "5674",
+    "car_id": "27478290",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST DCT",
+        "registration_number": "HX74MLJ",
+        "registration_date": "22/10/2024",
+        "mileage": 1180,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 500,
+        "balance": 28495,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 715.57,
+        "final_payment": 715.57,
+        "total_amount_payable": 34847.36,
+        "total_charge_for_credit": 5852.36,
+        "amount_of_credit": 28495,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 500,
+        "balance": 28495,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 506.13,
+        "final_payment": 12673,
+        "total_amount_payable": 36961.11,
+        "total_charge_for_credit": 7966.11,
+        "amount_of_credit": 28495,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 12663,
+        "price_to_buy": 12673
+      }
+    ]
+  }
+]

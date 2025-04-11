@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:36:27.994Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clwydian.co.uk/cars/audi/rs3/2.5-tfsi-vorsprung/1050958/",
+    "dealer_id": "6927",
+    "car_id": "25322333",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SPORTBACK",
+        "derivative": "RS 3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "CX73WZE",
+        "registration_date": "29/10/2023",
+        "mileage": 7250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 55995,
+        "total_price": 55995,
+        "deposit": 5599.5,
+        "balance": 50395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1287.61,
+        "final_payment": 1297.61,
+        "total_amount_payable": 67414.78,
+        "total_charge_for_credit": 11419.78,
+        "amount_of_credit": 50395.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 55995,
+        "total_price": 55995,
+        "deposit": 5599.5,
+        "balance": 50395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 851.11,
+        "final_payment": 26701.11,
+        "total_amount_payable": 72302.78,
+        "total_charge_for_credit": 16307.78,
+        "amount_of_credit": 50395.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 25840,
+        "price_to_buy": 26701.11
+      }
+    ]
+  }
+]

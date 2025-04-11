@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T12:53:51.072Z",
+    "source": "codeweavers_calculator",
+    "url": "https://juddbrothers.co.uk/car/2021-ford-ranger-raptor-2-0-ecoblue-d-cab-auto-22000-miles/",
+    "dealer_id": "6957",
+    "car_id": "27515989",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Raptor 2.0 EcoBlue 213",
+        "registration_number": "PJ71LKZ",
+        "registration_date": "15/12/2021",
+        "mileage": 22,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32394,
+        "total_price": 32394,
+        "deposit": 5399,
+        "balance": 26995,
+        "apr": 11.8,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 589.98,
+        "final_payment": 599.98,
+        "total_amount_payable": 40807.8,
+        "total_charge_for_credit": 8413.8,
+        "amount_of_credit": 26995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32394,
+        "total_price": 32394,
+        "deposit": 5399,
+        "balance": 26995,
+        "apr": 11.8,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 590.2,
+        "final_payment": 590.2,
+        "total_amount_payable": 40811,
+        "total_charge_for_credit": 8417,
+        "amount_of_credit": 26995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

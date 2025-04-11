@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:29:01.330Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.phoenixrc-autos.co.uk/used-porsche-911-huddersfield-west-yorkshire-5658885",
+    "dealer_id": "6919",
+    "car_id": "22785866",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[991] CARRERA 4 CABRIOLET",
+        "derivative": "2dr PDK",
+        "registration_number": "SJ17BTZ",
+        "registration_date": "27/04/2017",
+        "mileage": 31100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56999,
+        "total_price": 56999,
+        "deposit": 5699,
+        "balance": 51300,
+        "apr": 9.9,
+        "rate_of_interest": 6.86,
+        "term": 48,
+        "regular_payment": 936.42,
+        "final_payment": 21375,
+        "total_amount_payable": 71085.74,
+        "total_charge_for_credit": 14086.74,
+        "amount_of_credit": 51300,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 40,
+        "residual": 21375,
+        "price_to_buy": 21375
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56999,
+        "total_price": 56999,
+        "deposit": 5699,
+        "balance": 51300,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1076.83,
+        "final_payment": 1076.83,
+        "total_amount_payable": 70308.8,
+        "total_charge_for_credit": 13309.8,
+        "amount_of_credit": 51300,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T02:17:42.786Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bournemouth-cars.co.uk/used/commercials/volkswagen/transporter/2-0-transporter-t32-tdi-bluemotion-technology-4motion-semi-auto-4wd-373",
+    "dealer_id": "5082",
+    "car_id": "26970172",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T32 SWB DIESEL",
+        "derivative": "2.0 BiTDI BMT 204 Highline Kombi Van 4MOTION DSG",
+        "registration_number": "RK19YNL",
+        "registration_date": "04/03/2019",
+        "mileage": 98000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30950,
+        "total_price": 30950,
+        "deposit": 3095,
+        "balance": 27855,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 34,
+        "regular_payment": 820.1,
+        "final_payment": 5902,
+        "total_amount_payable": 36060.3,
+        "total_charge_for_credit": 5110.3,
+        "amount_of_credit": 27855,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 28333,
+        "excess_mileage_rate": 21,
+        "residual": 5892,
+        "price_to_buy": 5902
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30950,
+        "total_price": 30950,
+        "deposit": 3095,
+        "balance": 27855,
+        "apr": 11.4,
+        "rate_of_interest": 5.7,
+        "term": 60,
+        "regular_payment": 604.06,
+        "final_payment": 604.06,
+        "total_amount_payable": 39338.6,
+        "total_charge_for_credit": 8388.6,
+        "amount_of_credit": 27855,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

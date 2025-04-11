@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T12:46:30.531Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.watsonsmotorworks.co.uk/cars/ford/galaxy/2.0-ecoblue-titanium-7-seater-one-owner-32237-miles/1265838/",
+    "dealer_id": "6952",
+    "car_id": "25661533",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "GALAXY",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue Titanium",
+        "registration_number": "PK19MLX",
+        "registration_date": "18/05/2019",
+        "mileage": 32237,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 12.3,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 397.49,
+        "final_payment": 397.49,
+        "total_amount_payable": 25848.9,
+        "total_charge_for_credit": 5853.9,
+        "amount_of_credit": 17995.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

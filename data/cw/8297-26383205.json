@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T12:45:42.025Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphamotors.co.uk/vehicle/mercedes-a200-13-sport-edition-executive-saloon-4dr-petrol-7g-dct-euro-6-ss-163-ps-in-wigan-lancashire-61fcd995-381a-4acd-83ad-5d1b63ef5aff",
+    "dealer_id": "8297",
+    "car_id": "26383205",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "SALOON SPECIAL EDITIONS",
+        "derivative": "A200 Sport Executive Edition",
+        "registration_number": "FJ71TWN",
+        "registration_date": "26/11/2021",
+        "mileage": 29394,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19490,
+        "total_price": 19490,
+        "deposit": 1949,
+        "balance": 17541,
+        "apr": 10.9,
+        "rate_of_interest": 10.36,
+        "term": 48,
+        "regular_payment": 448.18,
+        "final_payment": 448.18,
+        "total_amount_payable": 23461.64,
+        "total_charge_for_credit": 3971.64,
+        "amount_of_credit": 17541,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19490,
+        "total_price": 19490,
+        "deposit": 1949,
+        "balance": 17541,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 303.52,
+        "final_payment": 8638.55,
+        "total_amount_payable": 25156.51,
+        "total_charge_for_credit": 5666.51,
+        "amount_of_credit": 17541,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 8638.55,
+        "price_to_buy": 8638.55
+      }
+    ]
+  }
+]

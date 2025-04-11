@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:40:25.037Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.panaceamotors.co.uk/used-bmw-x5-bury-lancashire-5490608",
+    "dealer_id": "4899",
+    "car_id": "20994052",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "YR19SRE",
+        "registration_date": "20/08/2019",
+        "mileage": 41156,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47990,
+        "total_price": 47990,
+        "deposit": 4799,
+        "balance": 43191,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 41,
+        "regular_payment": 930.4,
+        "final_payment": 16659,
+        "total_amount_payable": 57743.6,
+        "total_charge_for_credit": 9753.6,
+        "amount_of_credit": 43191,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 34166,
+        "excess_mileage_rate": 44,
+        "residual": 16649,
+        "price_to_buy": 16659
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47990,
+        "total_price": 47990,
+        "deposit": 4799,
+        "balance": 43191,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 906.48,
+        "final_payment": 916.48,
+        "total_amount_payable": 59197.8,
+        "total_charge_for_credit": 11207.8,
+        "amount_of_credit": 43191,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:06:43.099Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/bmw/used-cars/2024-bmw-ix2-30-665kwh-m-sport-auto-xdrive-5-door-22kw-charger",
+    "dealer_id": "4386",
+    "car_id": "23563613",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "iX2",
+        "variant": "",
+        "derivative": "iX2 xDrive30 M Sport",
+        "registration_number": "WO24FSC",
+        "registration_date": "28/06/2024",
+        "mileage": 8010,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42000,
+        "total_price": 42000,
+        "deposit": 5700,
+        "balance": 36300,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 547.48,
+        "final_payment": 19134.83,
+        "total_amount_payable": 50566.39,
+        "total_charge_for_credit": 8566.39,
+        "amount_of_credit": 36300,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 11.48,
+        "residual": 19134.83,
+        "price_to_buy": 19134.83
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42000,
+        "total_price": 42000,
+        "deposit": 5700,
+        "balance": 36300,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 879.86,
+        "final_payment": 879.86,
+        "total_amount_payable": 47933.28,
+        "total_charge_for_credit": 5933.28,
+        "amount_of_credit": 36300,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

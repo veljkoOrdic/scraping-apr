@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:58:24.667Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.downeys.co.uk/used-cars/kia-sorento-22-crdi-edition-awd-auto-full-kia-warranty-until-august-2030/20814/",
+    "dealer_id": "4476",
+    "car_id": "27283917",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "DIESEL STATION WAGON",
+        "derivative": "2.2 CRDi Edition DCT",
+        "registration_number": "URZ9096",
+        "registration_date": "23/08/2023",
+        "mileage": 19350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38990,
+        "total_price": 38990,
+        "deposit": 3899,
+        "balance": 35091,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 60,
+        "regular_payment": 768.16,
+        "final_payment": 768.16,
+        "total_amount_payable": 49988.6,
+        "total_charge_for_credit": 10998.6,
+        "amount_of_credit": 35091,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38990,
+        "total_price": 38990,
+        "deposit": 3899,
+        "balance": 35091,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 636.34,
+        "final_payment": 16797,
+        "total_amount_payable": 51240.32,
+        "total_charge_for_credit": 12250.32,
+        "amount_of_credit": 35091,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 16787,
+        "price_to_buy": 16797
+      }
+    ]
+  }
+]

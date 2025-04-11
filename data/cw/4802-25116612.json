@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T01:05:18.752Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.s-s-c.co.uk/vehicle/lamborghini-huracan-52-v10-lp-640-2-tecnica-ldf-euro-6-ss-2dr-in-huddersfield-west-yorkshire-07040809-99b5-4fdb-a6c6-b1b601050142",
+    "dealer_id": "4802",
+    "car_id": "25116612",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "EVO COUPE",
+        "derivative": "5.2 V10 640 Tecnica",
+        "registration_number": "LG24PHY",
+        "registration_date": "06/04/2024",
+        "mileage": 100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 229995,
+        "total_price": 229995,
+        "deposit": 129995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 8.97,
+        "term": 48,
+        "regular_payment": 991.53,
+        "final_payment": 89271.25,
+        "total_amount_payable": 265868.16,
+        "total_charge_for_credit": 35873.16,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 60,
+        "residual": 89271.25,
+        "price_to_buy": 89271.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 229995,
+        "total_price": 229995,
+        "deposit": 129995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2511.23,
+        "final_payment": 2511.23,
+        "total_amount_payable": 250534.04,
+        "total_charge_for_credit": 20539.04,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

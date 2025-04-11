@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T06:00:01.574Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlehurst.co.uk/details/used-car-in-st.-helens/nissan/juke/1.6-tekna-auto-euro-6-5dr/1407597/",
+    "dealer_id": "5711",
+    "car_id": "27390851",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 Hybrid Tekna",
+        "registration_number": "FY25MKN",
+        "registration_date": "01/03/2025",
+        "mileage": 4,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28999,
+        "total_price": 28999,
+        "deposit": 5799.8,
+        "balance": 23199.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 378.63,
+        "final_payment": 9670.15,
+        "total_amount_payable": 37809.12,
+        "total_charge_for_credit": 8810.12,
+        "amount_of_credit": 23199.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 6.19,
+        "residual": 9670.15,
+        "price_to_buy": 9670.15
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28999,
+        "total_price": 28999,
+        "deposit": 5799.8,
+        "balance": 23199.2,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 497.38,
+        "final_payment": 497.38,
+        "total_amount_payable": 35642.6,
+        "total_charge_for_credit": 6643.6,
+        "amount_of_credit": 23199.2,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

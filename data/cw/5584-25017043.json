@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T05:21:38.097Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brooklyn-hyundai.co.uk/used-car-details/used-hyundai-i30-10-t-gdi-120ps-premium-48v-hatchback-white-automatic-petrol/id-4417721244226/",
+    "dealer_id": "5584",
+    "car_id": "25017043",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I30",
+        "variant": "HATCHBACK",
+        "derivative": "1.0T GDi Premium DCT",
+        "registration_number": "GU24DVF",
+        "registration_date": "10/04/2024",
+        "mileage": 2600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 4199,
+        "balance": 16796,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 429.15,
+        "final_payment": 429.15,
+        "total_amount_payable": 24798.2,
+        "total_charge_for_credit": 3803.2,
+        "amount_of_credit": 16796,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 4199,
+        "balance": 16796,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 297.13,
+        "final_payment": 7883.39,
+        "total_amount_payable": 26344.63,
+        "total_charge_for_credit": 5349.63,
+        "amount_of_credit": 16796,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.5,
+        "residual": 7883.39,
+        "price_to_buy": 7883.39
+      }
+    ]
+  }
+]

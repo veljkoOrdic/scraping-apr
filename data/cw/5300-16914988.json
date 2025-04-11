@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T03:43:38.645Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mtcars.co.uk/used/ssangyong/korando-e-motion/140kw-ventura-615kwh-5dr-auto/peterborough/cambridgeshire/20414609",
+    "dealer_id": "5300",
+    "car_id": "16914988",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ssangyong",
+        "model": "KORANDO",
+        "variant": "E-MOTION ELECTRIC ESTATE",
+        "derivative": "140kW Ventura 61.5kWh",
+        "registration_number": "AE22OMZ",
+        "registration_date": "31/03/2022",
+        "mileage": 9777,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 308.1,
+        "final_payment": 6312,
+        "total_amount_payable": 22900.3,
+        "total_charge_for_credit": 4905.3,
+        "amount_of_credit": 16195.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 13,
+        "residual": 6312,
+        "price_to_buy": 6312
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 347.23,
+        "final_payment": 347.23,
+        "total_amount_payable": 22633.3,
+        "total_charge_for_credit": 4638.3,
+        "amount_of_credit": 16195.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

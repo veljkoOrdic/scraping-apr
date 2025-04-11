@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-10T23:38:24.665Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicksonsofinverness.co.uk/used/cars/mg/mg4/64kwh-trophy-auto-5dr-99",
+    "dealer_id": "4430",
+    "car_id": "22678513",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "MG4",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Trophy EV Long Range 64kWh",
+        "registration_number": "SX23AEL",
+        "registration_date": "30/06/2023",
+        "mileage": 7792,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24998,
+        "total_price": 24998,
+        "deposit": 2499.8,
+        "balance": 22498.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 564.89,
+        "final_payment": 574.89,
+        "total_amount_payable": 29624.52,
+        "total_charge_for_credit": 4626.52,
+        "amount_of_credit": 22498.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24998,
+        "total_price": 24998,
+        "deposit": 2499.8,
+        "balance": 22498.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 395.05,
+        "final_payment": 9955,
+        "total_amount_payable": 31417.2,
+        "total_charge_for_credit": 6419.2,
+        "amount_of_credit": 22498.2,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 9945,
+        "price_to_buy": 9955
+      }
+    ]
+  }
+]

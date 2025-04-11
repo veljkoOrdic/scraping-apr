@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T02:32:07.944Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regentgarage.com/used/volkswagen/golf/style-15-etsi-150ps-dsg-auto-2024-facelift/criccieth/gwynedd/21337358",
+    "dealer_id": "5139",
+    "car_id": "24970468",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 eTSI 150 Style DSG",
+        "registration_number": "CY24EFF",
+        "registration_date": "21/06/2024",
+        "mileage": 3900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27500,
+        "total_price": 27500,
+        "deposit": 3000,
+        "balance": 24500,
+        "apr": 11.3,
+        "rate_of_interest": 11.34,
+        "term": 48,
+        "regular_payment": 423.66,
+        "final_payment": 12790,
+        "total_amount_payable": 35702.02,
+        "total_charge_for_credit": 8202.02,
+        "amount_of_credit": 24500,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 6,
+        "residual": 12780,
+        "price_to_buy": 12790
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27500,
+        "total_price": 27500,
+        "deposit": 3000,
+        "balance": 24500,
+        "apr": 11.3,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 630.06,
+        "final_payment": 640.06,
+        "total_amount_payable": 33252.88,
+        "total_charge_for_credit": 5752.88,
+        "amount_of_credit": 24500,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

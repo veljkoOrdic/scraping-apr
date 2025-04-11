@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T12:53:15.903Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car-details/used-volvo-xc60-recharge-ultimate-t8-awd-plug-suv-onyx-black-automatic-petrol/id-172411211439/",
+    "dealer_id": "5997",
+    "car_id": "27183658",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC60",
+        "variant": "ESTATE",
+        "derivative": "2.0 T8 [455] RC PHEV Ultimate Dark Gtron",
+        "registration_number": "OW73UNV",
+        "registration_date": "01/09/2024",
+        "mileage": 4074,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 50990,
+        "total_price": 50990,
+        "deposit": 5099,
+        "balance": 45891,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1212.88,
+        "final_payment": 1212.88,
+        "total_amount_payable": 63317.24,
+        "total_charge_for_credit": 12327.24,
+        "amount_of_credit": 45891,
+        "lender": "Volvo Car Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50990,
+        "total_price": 50990,
+        "deposit": 5099,
+        "balance": 45891,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 831.31,
+        "final_payment": 23694.75,
+        "total_amount_payable": 68696.63,
+        "total_charge_for_credit": 17706.63,
+        "amount_of_credit": 45891,
+        "lender": "Volvo Car Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 23694.75,
+        "price_to_buy": 23694.75
+      }
+    ]
+  }
+]
