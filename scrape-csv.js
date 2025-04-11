@@ -42,7 +42,7 @@ async function processCSV(filePath, scraper, target_dir) {
                 let filePath = target_dir +'/'+ dealerId + '-' + carId + '.json';
                 if (fs.existsSync(filePath)) {
                     console.log('This file exist: ' + filePath);
-                    return;
+                    continue;
                 }
                 console.log(`Processing car: ${carUrl}, Dealer ID: ${dealerId}, Car ID: ${carId}`);
 
@@ -62,3 +62,5 @@ const path = process.argv[2];
 const scraper = process.argv[3];
 const target_dir = process.argv[4];
 processCSV(path, scraper, target_dir);
+
+// node scrape-csv.js data/cw-cars-to-test-1-3.csv codeweavers.js data/cw/
