@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:25:37.568Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mastercarsbedfordshire.co.uk/vehicle/tesla-model-3-long-range-awd-in-sandy-bedfordshire-5c49370b-9e52-49d0-a587-26cca67e3ff6",
+    "dealer_id": "9045",
+    "car_id": "26521999",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL 3",
+        "variant": "SALOON",
+        "derivative": "Long Range",
+        "registration_number": "MV71PSX",
+        "registration_date": "28/09/2021",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 404.99,
+        "final_payment": 414.99,
+        "total_amount_payable": 26408.9,
+        "total_charge_for_credit": 5413.9,
+        "amount_of_credit": 18895.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 347.6,
+        "final_payment": 8347.6,
+        "total_amount_payable": 26784.3,
+        "total_charge_for_credit": 5789.3,
+        "amount_of_credit": 18895.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7990,
+        "price_to_buy": 8347.6
+      }
+    ]
+  }
+]

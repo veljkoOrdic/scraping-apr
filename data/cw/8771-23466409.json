@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:54:21.702Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/fiat/500/10-mhev-red-euro-6-ss-3dr/colchester/essex/21084770",
+    "dealer_id": "8771",
+    "car_id": "23466409",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK SPECIAL EDITIONS",
+        "derivative": "1.0 Mild Hybrid Red",
+        "registration_number": "EF71JHH",
+        "registration_date": "05/02/2022",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 166.92,
+        "final_payment": 3893,
+        "total_amount_payable": 12737.74,
+        "total_charge_for_credit": 2742.74,
+        "amount_of_credit": 8995.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7,
+        "residual": 3883,
+        "price_to_buy": 3893
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 192.73,
+        "final_payment": 202.73,
+        "total_amount_payable": 12573.3,
+        "total_charge_for_credit": 2578.3,
+        "amount_of_credit": 8995.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

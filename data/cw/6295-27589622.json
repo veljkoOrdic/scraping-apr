@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:44:35.276Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.windmill-lr.co.uk/detail/1354823/used-land-rover-defender-90-x-dynamic-se-mhev-3-0-x-dynamic-se-mhev-3dr-automatic-blackburn",
+    "dealer_id": "6295",
+    "car_id": "27589622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic SE 90",
+        "registration_number": "EJ72BXP",
+        "registration_date": "16/11/2022",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 841.35,
+        "final_payment": 23185.1,
+        "total_amount_payable": 68028.05,
+        "total_charge_for_credit": 15033.05,
+        "amount_of_credit": 47695.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 22333.75,
+        "price_to_buy": 23185.1
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1022.27,
+        "final_payment": 1032.27,
+        "total_amount_payable": 66645.7,
+        "total_charge_for_credit": 13650.7,
+        "amount_of_credit": 47695.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

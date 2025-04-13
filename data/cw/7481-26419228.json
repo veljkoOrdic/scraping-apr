@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:02:33.489Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mcm-automotive.co.uk/used/cars/bmw/i3/42-2kwh-s-hatchback-5dr-electric-auto-184-ps-105",
+    "dealer_id": "7481",
+    "car_id": "26419228",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "I3",
+        "variant": "HATCHBACK",
+        "derivative": "135kW S 42kWh [Suite Interior World]",
+        "registration_number": "HV70LKO",
+        "registration_date": "30/09/2020",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649.5,
+        "balance": 14845.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 278.04,
+        "final_payment": 6564,
+        "total_amount_payable": 21559.42,
+        "total_charge_for_credit": 5064.42,
+        "amount_of_credit": 14845.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 12,
+        "residual": 6564,
+        "price_to_buy": 6564
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649.5,
+        "balance": 14845.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 324.99,
+        "final_payment": 324.99,
+        "total_amount_payable": 21148.9,
+        "total_charge_for_credit": 4653.9,
+        "amount_of_credit": 14845.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

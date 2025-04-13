@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:17:57.301Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarvaultltd.co.uk/details/used-car-in-manchester/bmw/x5/4.4i-v8-competition-auto-xdrive-euro-6-ss-5dr/1156508/",
+    "dealer_id": "8033",
+    "car_id": "27411372",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "ESTATE",
+        "derivative": "xDrive X5 M Competition Step",
+        "registration_number": "YB21VRC",
+        "registration_date": "04/03/2021",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 7.09,
+        "term": 48,
+        "regular_payment": 1016.23,
+        "final_payment": 27315,
+        "total_amount_payable": 81577.31,
+        "total_charge_for_credit": 16582.31,
+        "amount_of_credit": 58495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 29,
+        "residual": 27315,
+        "price_to_buy": 27315
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1227.87,
+        "final_payment": 1227.87,
+        "total_amount_payable": 80171.7,
+        "total_charge_for_credit": 15176.7,
+        "amount_of_credit": 58495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

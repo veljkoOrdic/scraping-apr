@@ -62,5 +62,69 @@
         "price_to_buy": 17744.37
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-12T12:23:36.485Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-4-series-3-0-m440i-mht-auto-xdrive-euro-6-s-s-2dr-cy21efl",
+    "dealer_id": "5684",
+    "car_id": "25764514",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "",
+        "derivative": "M440i xDrive Convertible",
+        "registration_number": "CY21EFL",
+        "registration_date": "24/06/2021",
+        "mileage": 10085,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37099,
+        "total_price": 37099,
+        "deposit": 6164.85,
+        "balance": 30934.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 803.95,
+        "final_payment": 804.95,
+        "total_amount_payable": 44755.45,
+        "total_charge_for_credit": 7656.45,
+        "amount_of_credit": 30934.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37099,
+        "total_price": 37099,
+        "deposit": 6164.85,
+        "balance": 30934.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 518.55,
+        "final_payment": 17737.13,
+        "total_amount_payable": 48273.83,
+        "total_charge_for_credit": 11174.83,
+        "amount_of_credit": 30934.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.76,
+        "residual": 17737.13,
+        "price_to_buy": 17737.13
+      }
+    ]
   }
 ]

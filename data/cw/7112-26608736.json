@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:16:44.485Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rydersofwarrington.co.uk/used/honda/jazz/15-i-mmd-hybrid-sr-5dr-ecvt/warrington/cheshire/21505624",
+    "dealer_id": "7112",
+    "car_id": "26608736",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "JAZZ",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 i-MMD Hybrid SR eCVT",
+        "registration_number": "FJ23VMT",
+        "registration_date": "18/03/2023",
+        "mileage": 3035,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18080,
+        "total_price": 18080,
+        "deposit": 1808,
+        "balance": 16272,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 415.76,
+        "final_payment": 415.76,
+        "total_amount_payable": 21764.48,
+        "total_charge_for_credit": 3684.48,
+        "amount_of_credit": 16272,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18080,
+        "total_price": 18080,
+        "deposit": 1808,
+        "balance": 16272,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 242.24,
+        "final_payment": 10361.5,
+        "total_amount_payable": 23797.02,
+        "total_charge_for_credit": 5717.02,
+        "amount_of_credit": 16272,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 7.5,
+        "residual": 10361.5,
+        "price_to_buy": 10361.5
+      }
+    ]
+  }
+]

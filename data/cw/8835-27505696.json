@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:38:04.752Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-car-in-welwyn-garden-city/bmw/3series/3.0-m340d-mht-auto-xdrive-euro-6-ss-4dr/1417160/",
+    "dealer_id": "8835",
+    "car_id": "27505696",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "M340d xDrive Saloon",
+        "registration_number": "CU20LHK",
+        "registration_date": "20/07/2020",
+        "mileage": 41400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 562.33,
+        "final_payment": 9390.09,
+        "total_amount_payable": 46066.56,
+        "total_charge_for_credit": 11076.56,
+        "amount_of_credit": 31491,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.64,
+        "residual": 9390.09,
+        "price_to_buy": 9390.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 675.16,
+        "final_payment": 675.16,
+        "total_amount_payable": 44008.6,
+        "total_charge_for_credit": 9018.6,
+        "amount_of_credit": 31491,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

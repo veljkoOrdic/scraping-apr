@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-11T21:35:21.536Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autobarncarsales.co.uk/used/cars/audi/sq5/3-0-tdi-v6-tiptronic-quattro-euro-6-s-s-5dr-72",
+    "dealer_id": "9095",
+    "car_id": "26311911",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "SQ5 TDI Quattro Tiptronic",
+        "registration_date": "25/11/2019",
+        "mileage": 56000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 676.81,
+        "final_payment": 686.81,
+        "total_amount_payable": 43918.1,
+        "total_charge_for_credit": 10923.1,
+        "amount_of_credit": 29695.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

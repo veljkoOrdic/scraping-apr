@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:19:06.897Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rockinghamcars.co.uk/used-cars/fiat-500e-42kwh-red-auto-3dr-3-door-hatchback-white/kx73rmu",
+    "dealer_id": "6584",
+    "car_id": "23106199",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "ELECTRIC HATCHBACK SPECIAL EDITIONS",
+        "derivative": "87kW Red 42kWh",
+        "registration_number": "KX73RMU",
+        "registration_date": "29/09/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1500,
+        "balance": 14490,
+        "apr": 9.9,
+        "rate_of_interest": 6.49,
+        "term": 48,
+        "regular_payment": 286.31,
+        "final_payment": 4792.5,
+        "total_amount_payable": 19749.07,
+        "total_charge_for_credit": 3759.07,
+        "amount_of_credit": 14490,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4792.5,
+        "price_to_buy": 4792.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1500,
+        "balance": 14490,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 363.88,
+        "final_payment": 363.88,
+        "total_amount_payable": 18966.24,
+        "total_charge_for_credit": 2976.24,
+        "amount_of_credit": 14490,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

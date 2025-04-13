@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:13:07.588Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.maperformancecars.co.uk/details/used-car-in-sutton-coldfield/audi/sq5/3.0-tdi-v6-sportback-tiptronic-quattro-euro-6-ss-5dr/1307767/",
+    "dealer_id": "8716",
+    "car_id": "26180893",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL SPORTBACK",
+        "derivative": "SQ5 TDI Quattro Tiptronic",
+        "registration_number": "DF21HNX",
+        "registration_date": "01/07/2021",
+        "mileage": 55000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36990,
+        "total_price": 36990,
+        "deposit": 3699,
+        "balance": 33291,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 517.48,
+        "final_payment": 18652.5,
+        "total_amount_payable": 47190.54,
+        "total_charge_for_credit": 10200.54,
+        "amount_of_credit": 33291,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 11,
+        "residual": 18652.5,
+        "price_to_buy": 18652.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36990,
+        "total_price": 36990,
+        "deposit": 3699,
+        "balance": 33291,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 698.83,
+        "final_payment": 698.83,
+        "total_amount_payable": 45628.8,
+        "total_charge_for_credit": 8638.8,
+        "amount_of_credit": 33291,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

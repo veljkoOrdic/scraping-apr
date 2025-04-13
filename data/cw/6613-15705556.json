@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:41:51.981Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autohausbirmingham.co.uk/used-mercedes-benz-a-class-birmingham-west-midlands-3955012",
+    "dealer_id": "6613",
+    "car_id": "15705556",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "AMG HATCHBACK",
+        "derivative": "A45 S 4Matic+ Plus",
+        "registration_number": "EO70HGN",
+        "registration_date": "26/09/2020",
+        "mileage": 5500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54999,
+        "total_price": 54999,
+        "deposit": 5499,
+        "balance": 49500,
+        "apr": 10.4,
+        "rate_of_interest": 5.4,
+        "term": 48,
+        "regular_payment": 1254,
+        "final_payment": 1254,
+        "total_amount_payable": 65691,
+        "total_charge_for_credit": 10692,
+        "amount_of_credit": 49500,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54999,
+        "total_price": 54999,
+        "deposit": 5499,
+        "balance": 49500,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 1013.38,
+        "final_payment": 14229,
+        "total_amount_payable": 68370.24,
+        "total_charge_for_credit": 13371.24,
+        "amount_of_credit": 49500,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.48,
+        "residual": 14229,
+        "price_to_buy": 14229
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:53:43.382Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.justmotorgroup.co.uk/used/peugeot/e-2008/50kwh-allure-auto-5dr/keighley/west-yorkshire/21440124",
+    "dealer_id": "6550",
+    "car_id": "25956796",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "E- ELECTRIC ESTATE",
+        "derivative": "100kW Allure 50kWh",
+        "registration_number": "BJ71DVZ",
+        "registration_date": "30/09/2021",
+        "mileage": 8917,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14155,
+        "total_price": 14155,
+        "deposit": 1415.5,
+        "balance": 12739.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 221.68,
+        "final_payment": 6368,
+        "total_amount_payable": 18202.46,
+        "total_charge_for_credit": 4047.46,
+        "amount_of_credit": 12739.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 6368,
+        "price_to_buy": 6368
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14155,
+        "total_price": 14155,
+        "deposit": 1415.5,
+        "balance": 12739.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 273.13,
+        "final_payment": 273.13,
+        "total_amount_payable": 17803.3,
+        "total_charge_for_credit": 3648.3,
+        "amount_of_credit": 12739.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

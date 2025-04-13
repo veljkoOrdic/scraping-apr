@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:58:43.809Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkcmotors.co.uk/details/used-car-in-worksop/mercedes-benz/sl/5.5-sl63-v8-amg-spds-mct-euro-5-ss-2dr/728195/",
+    "dealer_id": "6223",
+    "car_id": "23958042",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SL CLASS",
+        "variant": "SL AMG CONVERTIBLE",
+        "derivative": "SL 63 [585] Tip",
+        "registration_number": "HW15EFC",
+        "registration_date": "12/03/2015",
+        "mileage": 45422,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31990,
+        "total_price": 31990,
+        "deposit": 3199,
+        "balance": 28791,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 604.37,
+        "final_payment": 605.37,
+        "total_amount_payable": 39462.2,
+        "total_charge_for_credit": 7472.2,
+        "amount_of_credit": 28791,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_santander",
+        "name": "HP_SANTANDER",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31990,
+        "total_price": 31990,
+        "deposit": 3199,
+        "balance": 28791,
+        "apr": 12.4,
+        "rate_of_interest": 6.44,
+        "term": 47,
+        "regular_payment": 767.2,
+        "final_payment": 767.2,
+        "total_amount_payable": 39257.4,
+        "total_charge_for_credit": 7267.4,
+        "amount_of_credit": 28791,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

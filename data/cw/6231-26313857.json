@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:31.563Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/bmw-m8-44i-v8-competition-steptronic-4wd-euro-6-ss-2dr",
+    "dealer_id": "6231",
+    "car_id": "26313857",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M8",
+        "variant": "",
+        "derivative": "M8 Competition Coupe",
+        "registration_number": "HX72XOB",
+        "registration_date": "01/09/2022",
+        "mileage": 17471,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 65495,
+        "total_price": 65495,
+        "deposit": 1999,
+        "balance": 63496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1119.61,
+        "final_payment": 28707.96,
+        "total_amount_payable": 83328.63,
+        "total_charge_for_credit": 17833.63,
+        "amount_of_credit": 63496,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18.49,
+        "residual": 28707.96,
+        "price_to_buy": 28707.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65495,
+        "total_price": 65495,
+        "deposit": 1999,
+        "balance": 63496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1594.53,
+        "final_payment": 1594.53,
+        "total_amount_payable": 78536.44,
+        "total_charge_for_credit": 13041.44,
+        "amount_of_credit": 63496,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

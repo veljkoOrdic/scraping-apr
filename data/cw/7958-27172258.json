@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:34:48.819Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simonbailes.co.uk/used-car-details/used-peugeot-508-16-124kwh-gt-fastback-e-eat-hatchback-white-automatic-petrol-plug-in-hybrid/id-202502209297905/#financetab",
+    "dealer_id": "7958",
+    "car_id": "27172258",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "508",
+        "variant": "FASTBACK",
+        "derivative": "1.6 Hybrid GT e-EAT8",
+        "registration_number": "CJ23PXY",
+        "registration_date": "29/08/2023",
+        "mileage": 5095,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 3899,
+        "balance": 22096,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 447.71,
+        "final_payment": 8753,
+        "total_amount_payable": 33739.37,
+        "total_charge_for_credit": 7744.37,
+        "amount_of_credit": 22096,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 8753,
+        "price_to_buy": 8753
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 3899,
+        "balance": 22096,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 583.99,
+        "final_payment": 583.99,
+        "total_amount_payable": 31930.52,
+        "total_charge_for_credit": 5935.52,
+        "amount_of_credit": 22096,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:05:35.170Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jaglandempire.co.uk/details/used-car-in-halifax/landrover/rangerover/3.0-d300-mhev-westminster-black-auto-4wd-euro-6-ss-5dr/1309548/",
+    "dealer_id": "8779",
+    "car_id": "26206805",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE SPECIAL EDITION",
+        "derivative": "3.0 D300 Westminster Black",
+        "registration_number": "HY71AXP",
+        "registration_date": "07/09/2021",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51600,
+        "total_price": 51600,
+        "deposit": 5160,
+        "balance": 46440,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 912.09,
+        "final_payment": 19579.33,
+        "total_amount_payable": 68519.65,
+        "total_charge_for_credit": 16919.65,
+        "amount_of_credit": 46440,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 19579.33,
+        "price_to_buy": 19579.33
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 51600,
+        "total_price": 51600,
+        "deposit": 5160,
+        "balance": 46440,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1227.39,
+        "final_payment": 1227.39,
+        "total_amount_payable": 64074.72,
+        "total_charge_for_credit": 12474.72,
+        "amount_of_credit": 46440,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

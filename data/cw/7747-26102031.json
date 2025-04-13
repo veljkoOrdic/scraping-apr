@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:10:04.702Z",
+    "source": "codeweavers_calculator",
+    "url": "https://alprestigecars.co.uk/vehicle/2024-lamborghini-urus-4-0-v8-biturbo-s-auto-4wd-euro-6-5dr-55654/",
+    "dealer_id": "7747",
+    "car_id": "26102031",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8 S",
+        "registration_number": "24OR",
+        "registration_date": "17/06/2024",
+        "mileage": 2999,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 249999,
+        "total_price": 249999,
+        "deposit": 49999,
+        "balance": 200000,
+        "apr": 14.9,
+        "rate_of_interest": 7.77,
+        "term": 48,
+        "regular_payment": 3889.12,
+        "final_payment": 104241.62,
+        "total_amount_payable": 337029.26,
+        "total_charge_for_credit": 87030.26,
+        "amount_of_credit": 200000,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 100342.5,
+        "price_to_buy": 104241.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 249999,
+        "total_price": 249999,
+        "deposit": 49999,
+        "balance": 200000,
+        "apr": 14.9,
+        "rate_of_interest": 7.77,
+        "term": 48,
+        "regular_payment": 5461.67,
+        "final_payment": 5471.67,
+        "total_amount_payable": 312169.16,
+        "total_charge_for_credit": 62170.16,
+        "amount_of_credit": 200000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

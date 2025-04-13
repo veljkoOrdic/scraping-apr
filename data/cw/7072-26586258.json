@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:04:24.930Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/audi-rs5-29-tfsi-v6-carbon-black-sportback-tiptronic-quattro-euro-6-ss-5dr-in-leicestershire-86d79944-40aa-43dc-b9a0-b24a00f8685d",
+    "dealer_id": "7072",
+    "car_id": "26586258",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "RS 5 SPORTBACK",
+        "derivative": "RS 5 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "LO21VUP",
+        "registration_date": "19/07/2021",
+        "mileage": 57800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41995,
+        "total_price": 41995,
+        "deposit": 4199.5,
+        "balance": 37795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 657.46,
+        "final_payment": 18401,
+        "total_amount_payable": 54158.58,
+        "total_charge_for_credit": 12163.58,
+        "amount_of_credit": 37795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 18391,
+        "price_to_buy": 18401
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41995,
+        "total_price": 41995,
+        "deposit": 4199.5,
+        "balance": 37795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 810.08,
+        "final_payment": 820.08,
+        "total_amount_payable": 52814.3,
+        "total_charge_for_credit": 10819.3,
+        "amount_of_credit": 37795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

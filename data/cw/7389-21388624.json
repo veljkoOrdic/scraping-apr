@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:04.861Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bmw/1-series/3-0-m-euro-5-2dr-128",
+    "dealer_id": "7389",
+    "car_id": "21388624",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "560kW Turbo S 93kWh",
+        "registration_number": "LL70FPY",
+        "registration_date": "01/12/2020",
+        "mileage": 23218,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59750,
+        "total_price": 59750,
+        "deposit": 5975,
+        "balance": 53775,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 893.64,
+        "final_payment": 18852.74,
+        "total_amount_payable": 77552.5,
+        "total_charge_for_credit": 17802.5,
+        "amount_of_credit": 53775,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.06,
+        "residual": 18852.74,
+        "price_to_buy": 18852.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59750,
+        "total_price": 59750,
+        "deposit": 5975,
+        "balance": 53775,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1128.83,
+        "final_payment": 1128.83,
+        "total_amount_payable": 73704.8,
+        "total_charge_for_credit": 13954.8,
+        "amount_of_credit": 53775,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

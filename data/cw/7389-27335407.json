@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:11.022Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bentley/bentayga/4-0-bentayga-v8-auto-4wd-5dr-863",
+    "dealer_id": "7389",
+    "car_id": "27335407",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "ESTATE",
+        "derivative": "4.0 V8",
+        "registration_number": "SC69UZY",
+        "registration_date": "04/10/2019",
+        "mileage": 42498,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 75450,
+        "total_price": 75450,
+        "deposit": 7545,
+        "balance": 67905,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 53,
+        "regular_payment": 1224.64,
+        "final_payment": 24042.76,
+        "total_amount_payable": 95269.04,
+        "total_charge_for_credit": 19819.04,
+        "amount_of_credit": 67905,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 14.72,
+        "residual": 24042.76,
+        "price_to_buy": 24042.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75450,
+        "total_price": 75450,
+        "deposit": 7545,
+        "balance": 67905,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1425.44,
+        "final_payment": 1425.44,
+        "total_amount_payable": 93071.4,
+        "total_charge_for_credit": 17621.4,
+        "amount_of_credit": 67905,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

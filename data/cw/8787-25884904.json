@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:15:48.897Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.automotive-cars.co.uk/used/cars/bmw/z4/3-0-m40i-auto-sdrive-euro-6-s-s-2dr-17",
+    "dealer_id": "8787",
+    "car_id": "25884904",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "Z4",
+        "variant": "ROADSTER",
+        "derivative": "sDrive M40i",
+        "registration_number": "YB71NPG",
+        "registration_date": "17/01/2022",
+        "mileage": 8369,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3599,
+        "balance": 32391,
+        "apr": 9.9,
+        "rate_of_interest": 7.1,
+        "term": 48,
+        "regular_payment": 561.63,
+        "final_payment": 15187.5,
+        "total_amount_payable": 45183.11,
+        "total_charge_for_credit": 9193.11,
+        "amount_of_credit": 32391,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 15187.5,
+        "price_to_buy": 15187.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3599,
+        "balance": 32391,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 813.41,
+        "final_payment": 813.41,
+        "total_amount_payable": 42642.68,
+        "total_charge_for_credit": 6652.68,
+        "amount_of_credit": 32391,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

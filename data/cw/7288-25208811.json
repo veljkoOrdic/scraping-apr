@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:26:56.844Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecartraders.co.uk/used/commercials/volkswagen/transporter/2-0-tdi-t30-bluemotion-tech-startline-fwd-lwb-euro-6-s-s-5dr-420",
+    "dealer_id": "7288",
+    "car_id": "25208811",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T30 SWB DIESEL",
+        "derivative": "2.0 TDI BMT 102 Startline Van Euro 6",
+        "registration_number": "VU19HFM",
+        "registration_date": "20/03/2019",
+        "mileage": 70450,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12480,
+        "total_price": 12480,
+        "deposit": 1248,
+        "balance": 11232,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 36,
+        "regular_payment": 281.58,
+        "final_payment": 4564,
+        "total_amount_payable": 15385.72,
+        "total_charge_for_credit": 2905.72,
+        "amount_of_credit": 11232,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 7,
+        "residual": 4554,
+        "price_to_buy": 4564
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12480,
+        "total_price": 12480,
+        "deposit": 1248,
+        "balance": 11232,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 250.83,
+        "final_payment": 260.83,
+        "total_amount_payable": 16307.8,
+        "total_charge_for_credit": 3827.8,
+        "amount_of_credit": 11232,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

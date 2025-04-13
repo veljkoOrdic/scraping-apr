@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T00:27:15.333Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scs4vans.co.uk/used-ford-transit-eastbourne-east-sussex-4982110",
+    "dealer_id": "8181",
+    "car_id": "20929050",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "BK71HLV",
+        "registration_date": "19/09/2021",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29988,
+        "total_price": 29988,
+        "deposit": 4998,
+        "balance": 24990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 535.62,
+        "final_payment": 545.62,
+        "total_amount_payable": 37145.2,
+        "total_charge_for_credit": 7157.2,
+        "amount_of_credit": 24990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29988,
+        "total_price": 29988,
+        "deposit": 4998,
+        "balance": 24990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 535.62,
+        "final_payment": 545.62,
+        "total_amount_payable": 37145.2,
+        "total_charge_for_credit": 7157.2,
+        "amount_of_credit": 24990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

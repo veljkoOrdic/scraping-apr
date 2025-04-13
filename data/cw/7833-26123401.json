@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:35:01.092Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/seat/ibiza/10-tsi-110-xcellence-5dr/york/north-yorkshire/21454037",
+    "dealer_id": "7833",
+    "car_id": "26123401",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "IBIZA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 Xcellence",
+        "registration_number": "YC23CUO",
+        "registration_date": "23/08/2023",
+        "mileage": 9374,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 1649,
+        "balance": 14841,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 385.55,
+        "final_payment": 395.55,
+        "total_amount_payable": 20165.4,
+        "total_charge_for_credit": 3675.4,
+        "amount_of_credit": 14841,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 1649,
+        "balance": 14841,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 242.05,
+        "final_payment": 8750,
+        "total_amount_payable": 22017.4,
+        "total_charge_for_credit": 5527.4,
+        "amount_of_credit": 14841,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.6,
+        "residual": 8740,
+        "price_to_buy": 8750
+      }
+    ]
+  }
+]

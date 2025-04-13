@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:03:26.198Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoprestigecars.co.uk/used/land-rover/defender/50-p525-v8-carpathian-edition-110-5dr-auto/bradford/west-yorkshire/21553085",
+    "dealer_id": "7328",
+    "car_id": "27268880",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "5.0 P525 V8 Carpathian Edition 110",
+        "registration_number": "FT21VFZ",
+        "registration_date": "17/08/2021",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78990,
+        "total_price": 78990,
+        "deposit": 7899,
+        "balance": 71091,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1129.81,
+        "final_payment": 28811.89,
+        "total_amount_payable": 103369.68,
+        "total_charge_for_credit": 24379.68,
+        "amount_of_credit": 71091,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 17.46,
+        "residual": 28811.89,
+        "price_to_buy": 28811.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78990,
+        "total_price": 78990,
+        "deposit": 7899,
+        "balance": 71091,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1492.32,
+        "final_payment": 1493.32,
+        "total_amount_payable": 97439.2,
+        "total_charge_for_credit": 18449.2,
+        "amount_of_credit": 71091,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:25:10.734Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wimbledoncarriage.co.uk/used-car-details/used-nissan-juke-10-dig-t-tekna-suv-5dr-petrol-suv-blue-metallic-manual-petrol/id-12090/",
+    "dealer_id": "7527",
+    "car_id": "27492032",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T Tekna",
+        "registration_number": "ks69gvp",
+        "registration_date": "31/12/2019",
+        "mileage": 59200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11895,
+        "total_price": 11895,
+        "deposit": 1190,
+        "balance": 10705,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 224.71,
+        "final_payment": 224.71,
+        "total_amount_payable": 14672.6,
+        "total_charge_for_credit": 2777.6,
+        "amount_of_credit": 10705,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11895,
+        "total_price": 11895,
+        "deposit": 1190,
+        "balance": 10705,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 56,
+        "regular_payment": 185.16,
+        "final_payment": 3838.39,
+        "total_amount_payable": 15212.19,
+        "total_charge_for_credit": 3317.19,
+        "amount_of_credit": 10705,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 3.25,
+        "residual": 3838.39,
+        "price_to_buy": 3838.39
+      }
+    ]
+  }
+]

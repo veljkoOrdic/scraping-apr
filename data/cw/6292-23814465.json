@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:38:09.080Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wesellsmallcars.co.uk/used-mini-clubman-southampton-hampshire-5898633",
+    "dealer_id": "6292",
+    "car_id": "23814465",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "CLUBMAN",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 One D 6dr",
+        "registration_number": "HK66ESO",
+        "registration_date": "28/11/2016",
+        "mileage": 67600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8989,
+        "total_price": 8989,
+        "deposit": 898,
+        "balance": 8091,
+        "apr": 12.3,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 178.67,
+        "final_payment": 178.67,
+        "total_amount_payable": 11618.2,
+        "total_charge_for_credit": 2629.2,
+        "amount_of_credit": 8091,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8989,
+        "total_price": 8989,
+        "deposit": 898,
+        "balance": 8091,
+        "apr": 12.3,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 178.46,
+        "final_payment": 188.46,
+        "total_amount_payable": 11615.6,
+        "total_charge_for_credit": 2626.6,
+        "amount_of_credit": 8091,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

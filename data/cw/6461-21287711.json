@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:00:39.903Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.browningsuzuki.co.uk/used/cars/volkswagen/id-3/first-edition-9",
+    "dealer_id": "6461",
+    "car_id": "21287711",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.3",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "150kW 1ST Edition Pro Power 58kWh",
+        "registration_number": "BJ70YCD",
+        "registration_date": "20/11/2020",
+        "mileage": 33829,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16453,
+        "total_price": 16453,
+        "deposit": 3290.6,
+        "balance": 13162.4,
+        "apr": 8.4,
+        "rate_of_interest": 8.07,
+        "term": 48,
+        "regular_payment": 201.85,
+        "final_payment": 6980,
+        "total_amount_payable": 19757.55,
+        "total_charge_for_credit": 3304.55,
+        "amount_of_credit": 13162.4,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.6,
+        "residual": 6970,
+        "price_to_buy": 6980
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16453,
+        "total_price": 16453,
+        "deposit": 3290.6,
+        "balance": 13162.4,
+        "apr": 8.4,
+        "rate_of_interest": 8.05,
+        "term": 48,
+        "regular_payment": 321.91,
+        "final_payment": 321.91,
+        "total_amount_payable": 18742.28,
+        "total_charge_for_credit": 2289.28,
+        "amount_of_credit": 13162.4,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

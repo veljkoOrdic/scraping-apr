@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:55:48.962Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.newstreetcars.co.uk/details/used-car-in-telford/bmw/x5/3.0-45e-24kwh-m-sport-auto-xdrive-euro-6-ss-5dr/1392198/",
+    "dealer_id": "6771",
+    "car_id": "27197951",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive45e M Sport",
+        "registration_number": "YJ69SRA",
+        "registration_date": "27/02/2020",
+        "mileage": 62000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39984,
+        "total_price": 39984,
+        "deposit": 3998.4,
+        "balance": 35985.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 692.15,
+        "final_payment": 16609.39,
+        "total_amount_payable": 53138.84,
+        "total_charge_for_credit": 13154.84,
+        "amount_of_credit": 35985.6,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.52,
+        "residual": 16608.39,
+        "price_to_buy": 16609.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39984,
+        "total_price": 39984,
+        "deposit": 3998.4,
+        "balance": 35985.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 804.03,
+        "final_payment": 804.03,
+        "total_amount_payable": 52240.2,
+        "total_charge_for_credit": 12256.2,
+        "amount_of_credit": 35985.6,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

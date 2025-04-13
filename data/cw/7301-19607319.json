@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:35:56.170Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westend-garage.co.uk/used/cars/toyota/c-hr/1-2-c-hr-dynamic-5dr-49",
+    "dealer_id": "7301",
+    "car_id": "19607319",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "C-HR",
+        "variant": "HATCHBACK",
+        "derivative": "1.2T Dynamic",
+        "registration_number": "WP67ZZO",
+        "registration_date": "04/01/2018",
+        "mileage": 27300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14200,
+        "total_price": 14200,
+        "deposit": 1420,
+        "balance": 12780,
+        "apr": 13.2,
+        "rate_of_interest": 13.2,
+        "term": 21,
+        "regular_payment": 353.62,
+        "final_payment": 7980,
+        "total_amount_payable": 16472.4,
+        "total_charge_for_credit": 2272.4,
+        "amount_of_credit": 12780,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 17500,
+        "excess_mileage_rate": 12,
+        "residual": 7970,
+        "price_to_buy": 7980
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14200,
+        "total_price": 14200,
+        "deposit": 1420,
+        "balance": 12780,
+        "apr": 10,
+        "rate_of_interest": 5.24,
+        "term": 60,
+        "regular_payment": 268.81,
+        "final_payment": 268.81,
+        "total_amount_payable": 17548.6,
+        "total_charge_for_credit": 3348.6,
+        "amount_of_credit": 12780,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

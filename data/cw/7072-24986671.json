@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:03:41.489Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/volkswagen-tiguan-15-etsi-mhev-life-launch-edition-dsg-euro-6-ss-5dr-in-leicestershire-5de17ba1-b808-4989-92b3-b1ae016d4bd4",
+    "dealer_id": "7072",
+    "car_id": "24986671",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE SPECIAL EDITION",
+        "derivative": "1.5 eTSI 150 Life Launch Edition DSG",
+        "registration_number": "OU24XRT",
+        "registration_date": "28/03/2024",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 421.32,
+        "final_payment": 14658,
+        "total_amount_payable": 37780.86,
+        "total_charge_for_credit": 8785.86,
+        "amount_of_credit": 26095.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 14648,
+        "price_to_buy": 14658
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 559.31,
+        "final_payment": 569.31,
+        "total_amount_payable": 36468.1,
+        "total_charge_for_credit": 7473.1,
+        "amount_of_credit": 26095.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:14:33.830Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/mazda-cx-60-vx24hla/",
+    "dealer_id": "8984",
+    "car_id": "27550093",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-60",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.3d 254 Homura",
+        "registration_number": "VX24 HLA",
+        "registration_date": "29/04/2024",
+        "mileage": 4258,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 645.31,
+        "final_payment": 20481.26,
+        "total_amount_payable": 46966.61,
+        "total_charge_for_credit": 7971.61,
+        "amount_of_credit": 35095.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 11.57,
+        "residual": 20481.26,
+        "price_to_buy": 20481.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 1123.84,
+        "final_payment": 1123.84,
+        "total_amount_payable": 44357.74,
+        "total_charge_for_credit": 5362.74,
+        "amount_of_credit": 35095.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

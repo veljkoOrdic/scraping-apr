@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:07:17.337Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ellisashtonmotorcompany.co.uk/cars/audi/q8/3.0-tdi-v6-50-s-line/1365612/",
+    "dealer_id": "6474",
+    "car_id": "26891367",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q8",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro S Line Tiptronic",
+        "registration_number": "NX19OOE",
+        "registration_date": "19/03/2019",
+        "mileage": 72500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 35,
+        "regular_payment": 673.38,
+        "final_payment": 16766,
+        "total_amount_payable": 43110.42,
+        "total_charge_for_credit": 8615.42,
+        "amount_of_credit": 31045.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 29166,
+        "excess_mileage_rate": 26,
+        "residual": 16756,
+        "price_to_buy": 16766
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 665.59,
+        "final_payment": 666.59,
+        "total_amount_payable": 43385.9,
+        "total_charge_for_credit": 8890.9,
+        "amount_of_credit": 31045.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

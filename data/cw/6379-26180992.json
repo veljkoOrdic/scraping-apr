@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:20:15.037Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carnationltd.com/used-car/bmw/5-series/2-0-520d-mht-m-sport-touring-steptronic-euro-6-s-s-5dr/aetv38493478/",
+    "dealer_id": "6379",
+    "car_id": "26180992",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "DIESEL TOURING",
+        "derivative": "520d MHT M Sport Step",
+        "registration_number": "YL23FTO",
+        "registration_date": "18/07/2023",
+        "mileage": 15975,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33695,
+        "total_price": 33695,
+        "deposit": 3369.5,
+        "balance": 30325.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 560.02,
+        "final_payment": 13277.29,
+        "total_amount_payable": 42967.73,
+        "total_charge_for_credit": 9272.73,
+        "amount_of_credit": 30325.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.85,
+        "residual": 13277.29,
+        "price_to_buy": 13277.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33695,
+        "total_price": 33695,
+        "deposit": 3369.5,
+        "balance": 30325.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 801.35,
+        "final_payment": 802.35,
+        "total_amount_payable": 41835.3,
+        "total_charge_for_credit": 8140.3,
+        "amount_of_credit": 30325.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

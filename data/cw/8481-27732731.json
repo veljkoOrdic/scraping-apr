@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:53:48.380Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rogeryoung.co.uk/used-car-details/used-land-rover-range-rover-sport-d300-dynamic-se-automatic-diesel/id-4487463544/",
+    "dealer_id": "8481",
+    "car_id": "27732731",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 Dynamic SE",
+        "registration_number": "WG73HWP",
+        "registration_date": "19/10/2023",
+        "mileage": 16585,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 29198,
+        "balance": 43797,
+        "apr": 8.9,
+        "rate_of_interest": 8.55,
+        "term": 48,
+        "regular_payment": 461.48,
+        "final_payment": 35755,
+        "total_amount_payable": 86642.56,
+        "total_charge_for_credit": 13647.56,
+        "amount_of_credit": 43797,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 16.8,
+        "residual": 35745,
+        "price_to_buy": 35755
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 29198,
+        "balance": 43797,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 1080.69,
+        "final_payment": 1080.69,
+        "total_amount_payable": 81071.12,
+        "total_charge_for_credit": 8076.12,
+        "amount_of_credit": 43797,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

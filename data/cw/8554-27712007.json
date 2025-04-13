@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:30:46.139Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rhsperformance.co.uk/cars/bmw/5series/3.0-530d-xdrive-m-sport-saloon/1433880/",
+    "dealer_id": "8554",
+    "car_id": "27712007",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "",
+        "derivative": "530d M Sport Saloon",
+        "registration_number": "YB67RCZ",
+        "registration_date": "22/05/2017",
+        "mileage": 39000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23499,
+        "total_price": 23499,
+        "deposit": 2349.9,
+        "balance": 21149.1,
+        "apr": 9.9,
+        "rate_of_interest": 6.61,
+        "term": 49,
+        "regular_payment": 401.6,
+        "final_payment": 7582.5,
+        "total_amount_payable": 29209.2,
+        "total_charge_for_credit": 5710.2,
+        "amount_of_credit": 21149.1,
+        "lender": "Car Money NW",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 12,
+        "residual": 7582.5,
+        "price_to_buy": 7582.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23499,
+        "total_price": 23499,
+        "deposit": 2349.9,
+        "balance": 21149.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 443.94,
+        "final_payment": 443.94,
+        "total_amount_payable": 28986.3,
+        "total_charge_for_credit": 5487.3,
+        "amount_of_credit": 21149.1,
+        "lender": "Car Money NW",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

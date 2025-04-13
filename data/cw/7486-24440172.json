@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:05:00.999Z",
+    "source": "codeweavers_calculator",
+    "url": "https://taylorsmotorgroup.co.uk/used-cars/peugeot-3008-1-2-puretech-gt-eat-euro-6-s-s-5dr-e71c47ab",
+    "dealer_id": "7486",
+    "car_id": "24440172",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech GT EAT8",
+        "registration_number": "KM21FBG",
+        "registration_date": "31/03/2021",
+        "mileage": 14575,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19791,
+        "total_price": 19791,
+        "deposit": 3958.2,
+        "balance": 15832.8,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 270.59,
+        "final_payment": 9360,
+        "total_amount_payable": 26035.93,
+        "total_charge_for_credit": 6244.93,
+        "amount_of_credit": 15832.8,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 9360,
+        "price_to_buy": 9360
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19791,
+        "total_price": 19791,
+        "deposit": 3958.2,
+        "balance": 15832.8,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 418.45,
+        "final_payment": 418.45,
+        "total_amount_payable": 24043.8,
+        "total_charge_for_credit": 4252.8,
+        "amount_of_credit": 15832.8,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

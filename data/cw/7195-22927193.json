@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:40:58.583Z",
+    "source": "codeweavers_calculator",
+    "url": "https://roadsidemotors.com/volkswagen/used/volkswagen_id5_77kwh_max_pro_performance_204ps",
+    "dealer_id": "7195",
+    "car_id": "22927193",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.5",
+        "variant": "COUPE",
+        "derivative": "150kW Max Pro Performance 77kWh",
+        "registration_number": "SXZ1265",
+        "registration_date": "01/01/2023",
+        "mileage": 7,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 750,
+        "balance": 31245,
+        "apr": 11.3,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 527.28,
+        "final_payment": 16637.5,
+        "total_amount_payable": 42696.94,
+        "total_charge_for_credit": 10701.94,
+        "amount_of_credit": 31245,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "contract_mileage": 20416,
+        "excess_mileage_rate": 8.24,
+        "residual": 16627.5,
+        "price_to_buy": 16637.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 250,
+        "balance": 31745,
+        "apr": 11.2,
+        "rate_of_interest": 11.16,
+        "term": 60,
+        "regular_payment": 684.37,
+        "final_payment": 694.37,
+        "total_amount_payable": 41322.2,
+        "total_charge_for_credit": 9327.2,
+        "amount_of_credit": 31745,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

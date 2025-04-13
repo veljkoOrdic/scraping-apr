@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:43:39.259Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autospecuk.co.uk/cars/bmw/m4/3.0-m4-coupe-competition-package/1368463/",
+    "dealer_id": "8751",
+    "car_id": "26923759",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "",
+        "derivative": "M4 Coupe Competition Package",
+        "registration_number": "SJ19NEM",
+        "registration_date": "26/07/2019",
+        "mileage": 16227,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33895,
+        "total_price": 33895,
+        "deposit": 10,
+        "balance": 33885,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 726.49,
+        "final_payment": 726.49,
+        "total_amount_payable": 43599.4,
+        "total_charge_for_credit": 9704.4,
+        "amount_of_credit": 33885,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33895,
+        "total_price": 33895,
+        "deposit": 10,
+        "balance": 33885,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 51,
+        "regular_payment": 658.06,
+        "final_payment": 11286.32,
+        "total_amount_payable": 44199.32,
+        "total_charge_for_credit": 10304.32,
+        "amount_of_credit": 33885,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 42500,
+        "excess_mileage_rate": 7.62,
+        "residual": 11286.32,
+        "price_to_buy": 11286.32
+      }
+    ]
+  }
+]

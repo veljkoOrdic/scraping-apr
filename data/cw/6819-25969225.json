@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:31:42.470Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wavertreecarcentre.co.uk/used-bmw-x5-liverpool-merseyside-6410658",
+    "dealer_id": "6819",
+    "car_id": "25969225",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "MM18CZT",
+        "registration_date": "15/06/2018",
+        "mileage": 85083,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 0,
+        "balance": 20995,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 27,
+        "regular_payment": 563.62,
+        "final_payment": 11117,
+        "total_amount_payable": 25771.12,
+        "total_charge_for_credit": 4776.12,
+        "amount_of_credit": 20995,
+        "lender": "Eurodrive",
+        "annual_mileage": 8000,
+        "contract_mileage": 18000,
+        "excess_mileage_rate": 15,
+        "residual": 11117,
+        "price_to_buy": 11117
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 0,
+        "balance": 20995,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 478.62,
+        "final_payment": 478.62,
+        "total_amount_payable": 28717.2,
+        "total_charge_for_credit": 7722.2,
+        "amount_of_credit": 20995,
+        "lender": "Eurodrive",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

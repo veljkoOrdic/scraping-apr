@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:43:32.864Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesnuttcars.co.uk/details/used-car-in-redditch/porsche/718/2.0t-pdk-euro-6-ss-2dr/1383792/",
+    "dealer_id": "8843",
+    "car_id": "27110271",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "2.0 PDK",
+        "registration_number": "DC17XER",
+        "registration_date": "30/06/2017",
+        "mileage": 54305,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 26,
+        "regular_payment": 806.08,
+        "final_payment": 12972.75,
+        "total_amount_payable": 36324.25,
+        "total_charge_for_credit": 4329.25,
+        "amount_of_credit": 28795.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 6.56,
+        "residual": 12972.75,
+        "price_to_buy": 12972.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 604.47,
+        "final_payment": 604.47,
+        "total_amount_payable": 39467.7,
+        "total_charge_for_credit": 7472.7,
+        "amount_of_credit": 28795.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

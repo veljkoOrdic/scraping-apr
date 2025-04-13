@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:40:41.260Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-land-rover-range-rover-sport-oldham-greater-manchester-6538801",
+    "dealer_id": "6862",
+    "car_id": "26458528",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6biography Dynamic",
+        "registration_number": "YC69GKO",
+        "registration_date": "30/09/2019",
+        "mileage": 50000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36949,
+        "total_price": 36949,
+        "deposit": 3694,
+        "balance": 33255,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 588.58,
+        "final_payment": 16044.86,
+        "total_amount_payable": 47402.12,
+        "total_charge_for_credit": 10453.12,
+        "amount_of_credit": 33255,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.71,
+        "residual": 16044.86,
+        "price_to_buy": 16044.86
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36949,
+        "total_price": 36949,
+        "deposit": 3694,
+        "balance": 33255,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 712.98,
+        "final_payment": 712.98,
+        "total_amount_payable": 46472.8,
+        "total_charge_for_credit": 9523.8,
+        "amount_of_credit": 33255,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

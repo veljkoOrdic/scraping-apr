@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:33:42.488Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarport.co.uk/vehicle-details/used-mini-hatch-one-classic-for-sale-u801/",
+    "dealer_id": "9393",
+    "car_id": "27041485",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "5-Door Hatch One Classic",
+        "registration_number": "LA69DHE",
+        "registration_date": "24/01/2020",
+        "mileage": 54000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10480,
+        "total_price": 10480,
+        "deposit": 1048,
+        "balance": 9432,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 210.62,
+        "final_payment": 220.62,
+        "total_amount_payable": 13695.2,
+        "total_charge_for_credit": 3215.2,
+        "amount_of_credit": 9432,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10480,
+        "total_price": 10480,
+        "deposit": 1048,
+        "balance": 9432,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 57,
+        "regular_payment": 166.99,
+        "final_payment": 4142.31,
+        "total_amount_payable": 14541.75,
+        "total_charge_for_credit": 4061.75,
+        "amount_of_credit": 9432,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 47500,
+        "excess_mileage_rate": 3.36,
+        "residual": 4142.31,
+        "price_to_buy": 4142.31
+      }
+    ]
+  }
+]

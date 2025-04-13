@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-11T20:29:33.592Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarsource.co.uk/used/cars/seat/tarraco/tsi-evo-se-first-edition-124",
+    "dealer_id": "8824",
+    "car_id": "26447874",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "TARRACO",
+        "variant": "ESTATE",
+        "derivative": "1.5 EcoTSI SE First Edition",
+        "registration_date": "23/07/2019",
+        "mileage": 11429,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19325,
+        "total_price": 19325,
+        "deposit": 1932.5,
+        "balance": 17392.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 311.61,
+        "final_payment": 8172.22,
+        "total_amount_payable": 24750.39,
+        "total_charge_for_credit": 5425.39,
+        "amount_of_credit": 17392.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.68,
+        "residual": 8171.22,
+        "price_to_buy": 8172.22
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19325,
+        "total_price": 19325,
+        "deposit": 1932.5,
+        "balance": 17392.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 444.38,
+        "final_payment": 444.38,
+        "total_amount_payable": 23262.74,
+        "total_charge_for_credit": 3937.74,
+        "amount_of_credit": 17392.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

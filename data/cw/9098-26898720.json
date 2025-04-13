@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:36:13.625Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rz-cars.co.uk/used-toyota-gt86-ripley-derbyshire-6654515",
+    "dealer_id": "9098",
+    "car_id": "26898720",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "GT86",
+        "variant": "COUPE SPECIAL EDITION",
+        "derivative": "2.0 D-4S Blue Edition",
+        "registration_number": "GJ20EZG",
+        "registration_date": "16/03/2020",
+        "mileage": 27300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049,
+        "balance": 18446,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 411.96,
+        "final_payment": 421.96,
+        "total_amount_payable": 26776.6,
+        "total_charge_for_credit": 6281.6,
+        "amount_of_credit": 18446,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049,
+        "balance": 18446,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 375.07,
+        "final_payment": 7291.32,
+        "total_amount_payable": 26968.61,
+        "total_charge_for_credit": 6473.61,
+        "amount_of_credit": 18446,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6906.25,
+        "price_to_buy": 7291.32
+      }
+    ]
+  }
+]

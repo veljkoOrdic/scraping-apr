@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:23:07.386Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mbmotorgroup.com/cars/skoda/octavia/2.0-octavia-se-l-tdi-dsg-auto-euro-6-ss-estate-148bhp-sat-nav/1261270/",
+    "dealer_id": "8326",
+    "car_id": "25629139",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "OCTAVIA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI 150 SE L DSG",
+        "registration_number": "GF21VTU",
+        "registration_date": "23/04/2021",
+        "mileage": 47500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17493,
+        "total_price": 17493,
+        "deposit": 10,
+        "balance": 17483,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 377.65,
+        "final_payment": 5833.01,
+        "total_amount_payable": 23970.21,
+        "total_charge_for_credit": 6477.21,
+        "amount_of_credit": 17483,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 5833.01,
+        "price_to_buy": 5833.01
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17493,
+        "total_price": 17493,
+        "deposit": 10,
+        "balance": 17483,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 398.56,
+        "final_payment": 398.56,
+        "total_amount_payable": 23923.6,
+        "total_charge_for_credit": 6430.6,
+        "amount_of_credit": 17483,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T16:20:00.416Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.karlsmithcars.com/used-renault-grand-scenic-blackpool-lancashire-6643460",
+    "dealer_id": "8420",
+    "car_id": "26853506",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "GRAND SCENIC",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 dCi Dynamique Nav",
+        "registration_number": "YY65FEH",
+        "registration_date": "30/09/2015",
+        "mileage": 82779,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5495,
+        "total_price": 5495,
+        "deposit": 549,
+        "balance": 4946,
+        "apr": 13.8,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 112.54,
+        "final_payment": 112.54,
+        "total_amount_payable": 7301.4,
+        "total_charge_for_credit": 1806.4,
+        "amount_of_credit": 4946,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

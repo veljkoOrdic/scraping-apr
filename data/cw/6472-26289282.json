@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:05:20.605Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.specialistcars-stoke.co.uk/used-bmw-3-series-stoke-on-trent-staffordshire-6498654",
+    "dealer_id": "6472",
+    "car_id": "26289282",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "320d xDrive M Sport Pro Edition Saloon",
+        "registration_number": "RA70BFX",
+        "registration_date": "04/11/2020",
+        "mileage": 41285,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27000,
+        "total_price": 27000,
+        "deposit": 2700,
+        "balance": 24300,
+        "apr": 10.4,
+        "rate_of_interest": 9.93,
+        "term": 48,
+        "regular_payment": 439.65,
+        "final_payment": 10403,
+        "total_amount_payable": 34206.2,
+        "total_charge_for_credit": 7206.2,
+        "amount_of_credit": 24300,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 10393,
+        "price_to_buy": 10403
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27000,
+        "total_price": 27000,
+        "deposit": 2700,
+        "balance": 24300,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 48,
+        "regular_payment": 615.4,
+        "final_payment": 625.4,
+        "total_amount_payable": 32249.2,
+        "total_charge_for_credit": 5249.2,
+        "amount_of_credit": 24300,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

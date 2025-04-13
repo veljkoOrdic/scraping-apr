@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:20:32.170Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvhcarsales.co.uk/detail/1352265/used-land-rover-range-rover-sport-hse-2-0-hse-5dr-automatic-birkenhead",
+    "dealer_id": "6501",
+    "car_id": "27189232",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "2.0 P300 HSE",
+        "registration_number": "KP21GUE",
+        "registration_date": "22/03/2021",
+        "mileage": 49621,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 3249.5,
+        "balance": 29245.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 528.46,
+        "final_payment": 9484.08,
+        "total_amount_payable": 43912.72,
+        "total_charge_for_credit": 11417.72,
+        "amount_of_credit": 29245.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.14,
+        "residual": 9483.08,
+        "price_to_buy": 9484.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 3249.5,
+        "balance": 29245.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 640.19,
+        "final_payment": 641.19,
+        "total_amount_payable": 41661.9,
+        "total_charge_for_credit": 9166.9,
+        "amount_of_credit": 29245.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

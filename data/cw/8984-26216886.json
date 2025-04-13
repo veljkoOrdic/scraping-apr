@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:13:47.770Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/mazda-3-vx24hnt/",
+    "dealer_id": "8984",
+    "car_id": "26216886",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "3",
+        "variant": "MAZDA HATCHBACK",
+        "derivative": "2.0 e-SkyactivX MHEV [186] Exclusive-Line",
+        "registration_number": "VX24 HNT",
+        "registration_date": "22/07/2024",
+        "mileage": 5900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 386.63,
+        "final_payment": 11830.78,
+        "total_amount_payable": 27662.33,
+        "total_charge_for_credit": 4667.33,
+        "amount_of_credit": 20695.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 8.28,
+        "residual": 11830.78,
+        "price_to_buy": 11830.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 662.72,
+        "final_payment": 662.72,
+        "total_amount_payable": 26157.42,
+        "total_charge_for_credit": 3162.42,
+        "amount_of_credit": 20695.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

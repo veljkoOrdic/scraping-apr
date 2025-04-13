@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:03:40.488Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoprestigecars.co.uk/used/audi/rs6/rs-6-tfsi-quattro-vorsprung-5dr-tiptronic-urban-editionqst-stage-2-800bhp30000-build/bradford/west-yorkshire/21558065",
+    "dealer_id": "7328",
+    "car_id": "27354548",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Vorsprung Tiptronic",
+        "registration_number": "CV71NNZ",
+        "registration_date": "15/11/2021",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82990,
+        "total_price": 82990,
+        "deposit": 8299,
+        "balance": 74691,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1234.61,
+        "final_payment": 26684.24,
+        "total_amount_payable": 107825.23,
+        "total_charge_for_credit": 24835.23,
+        "amount_of_credit": 74691,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 16.15,
+        "residual": 26684.24,
+        "price_to_buy": 26684.24
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82990,
+        "total_price": 82990,
+        "deposit": 8299,
+        "balance": 74691,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1567.89,
+        "final_payment": 1568.89,
+        "total_amount_payable": 102373.4,
+        "total_charge_for_credit": 19383.4,
+        "amount_of_credit": 74691,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

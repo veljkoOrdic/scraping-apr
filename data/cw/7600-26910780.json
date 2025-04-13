@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:57:12.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lancashiretrade.co.uk/details/car-in-greater-manchester/porsche/718/2.0t-pdk-euro-6-ss-2dr/1367014/",
+    "dealer_id": "7600",
+    "car_id": "26910780",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "2.0 PDK",
+        "registration_number": "LO68FCL",
+        "registration_date": "18/12/2018",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 44,
+        "regular_payment": 671.32,
+        "final_payment": 14868.51,
+        "total_amount_payable": 47534.27,
+        "total_charge_for_credit": 9544.27,
+        "amount_of_credit": 34191,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 36666,
+        "excess_mileage_rate": 7.77,
+        "residual": 14868.51,
+        "price_to_buy": 14868.51
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 10.9,
+        "rate_of_interest": 10.89,
+        "term": 48,
+        "regular_payment": 873.43,
+        "final_payment": 883.43,
+        "total_amount_payable": 45733.64,
+        "total_charge_for_credit": 7743.64,
+        "amount_of_credit": 34191,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

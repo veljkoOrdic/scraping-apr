@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:15:38.425Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/lamborghini/lamborghini-huracan-5-2-v10-lp-640-4-performante-spyder-ldf-4wd-euro-6-s-s-2dr/",
+    "dealer_id": "6227",
+    "car_id": "26553833",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "SPYDER",
+        "derivative": "LP 640-4 Performante LDF",
+        "registration_number": "BX68GWG",
+        "registration_date": "26/10/2018",
+        "mileage": 15600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 209975,
+        "total_price": 209975,
+        "deposit": 20997.5,
+        "balance": 188977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2799.67,
+        "final_payment": 115843.21,
+        "total_amount_payable": 268425.2,
+        "total_charge_for_credit": 58450.2,
+        "amount_of_credit": 188977.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 209975,
+        "total_price": 209975,
+        "deposit": 20997.5,
+        "balance": 188977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 3966.78,
+        "final_payment": 3966.78,
+        "total_amount_payable": 259004.3,
+        "total_charge_for_credit": 49029.3,
+        "amount_of_credit": 188977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:36:53.656Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/skoda/used-cars/land-rover-discovery-station-w-3-0-sd6-306ps-awd-landmark-t79lls",
+    "dealer_id": "7642",
+    "car_id": "27596735",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "SW SPECIAL EDITIONS",
+        "derivative": "3.0 SD6 Landmark Edition",
+        "registration_number": "T79LLS",
+        "registration_date": "16/03/2020",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37295,
+        "total_price": 37295,
+        "deposit": 3729.5,
+        "balance": 33565.5,
+        "apr": 11.4,
+        "rate_of_interest": 10.84,
+        "term": 48,
+        "regular_payment": 583.61,
+        "final_payment": 16958,
+        "total_amount_payable": 48700.78,
+        "total_charge_for_credit": 11405.78,
+        "amount_of_credit": 33565.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 16958,
+        "price_to_buy": 16958
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37295,
+        "total_price": 37295,
+        "deposit": 3729.5,
+        "balance": 33565.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 864.98,
+        "final_payment": 864.98,
+        "total_amount_payable": 45248.54,
+        "total_charge_for_credit": 7953.54,
+        "amount_of_credit": 33565.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T17:09:41.329Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reflexautos.co.uk/vehicle-details/used-audi-a4-avant-tfsi-black-edition-for-sale-in-shepperton-u10871/",
+    "dealer_id": "7246",
+    "car_id": "27717776",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "AVANT",
+        "derivative": "35 TFSI Black Edition",
+        "registration_number": "VO21NVT",
+        "registration_date": "12/03/2021",
+        "mileage": 45414,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 396.58,
+        "final_payment": 8120.33,
+        "total_amount_payable": 28909.09,
+        "total_charge_for_credit": 7414.09,
+        "amount_of_credit": 19345.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7713.75,
+        "price_to_buy": 8120.33
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 440.92,
+        "final_payment": 450.92,
+        "total_amount_payable": 28614.7,
+        "total_charge_for_credit": 7119.7,
+        "amount_of_credit": 19345.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

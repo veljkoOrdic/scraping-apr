@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:34:03.549Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cshperformance.co.uk/details/used-car-in-elland/astonmartin/dbx/4.0-v8-auto-4wd-euro-6-ss-5dr/1377562/",
+    "dealer_id": "7297",
+    "car_id": "27033010",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DBX",
+        "variant": "ESTATE",
+        "derivative": "V8 550 Touchtronic",
+        "registration_number": "KE71JVO",
+        "registration_date": "25/10/2021",
+        "mileage": 19800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 92995,
+        "total_price": 92995,
+        "deposit": 9299.5,
+        "balance": 83695.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1361.64,
+        "final_payment": 43318,
+        "total_amount_payable": 117976.22,
+        "total_charge_for_credit": 24981.22,
+        "amount_of_credit": 83695.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 43308,
+        "price_to_buy": 43318
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 92995,
+        "total_price": 92995,
+        "deposit": 9299.5,
+        "balance": 83695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1756.91,
+        "final_payment": 1756.91,
+        "total_amount_payable": 114714.1,
+        "total_charge_for_credit": 21719.1,
+        "amount_of_credit": 83695.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:49.234Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richardsanders.co.uk/used-car-details/used-renault-rafale-estate-techno-esprit-alpine-estate-black-automatic-petrolele/id-18302294/",
+    "dealer_id": "7283",
+    "car_id": "25061732",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "RAFALE",
+        "variant": "ESTATE",
+        "derivative": "E-Tech FHEV Techno Esprit Alpine 4C",
+        "registration_number": "KO24PVZ",
+        "registration_date": "26/06/2024",
+        "mileage": 1152,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3300,
+        "balance": 29695,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 495.94,
+        "final_payment": 12846.93,
+        "total_amount_payable": 45407.39,
+        "total_charge_for_credit": 12412.39,
+        "amount_of_credit": 29695,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 8.24,
+        "residual": 12846.93,
+        "price_to_buy": 12846.93
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3300,
+        "balance": 29695,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 650.04,
+        "final_payment": 650.04,
+        "total_amount_payable": 42302.4,
+        "total_charge_for_credit": 9307.4,
+        "amount_of_credit": 29695,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

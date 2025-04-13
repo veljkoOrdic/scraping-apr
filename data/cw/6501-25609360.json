@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:18:16.219Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvhcarsales.co.uk/detail/1340660/used-toyota-aygo-x-vvt-i-pure-hatchback-1-0-vvt-i-pure-5dr-manual-birkenhead",
+    "dealer_id": "6501",
+    "car_id": "25609360",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "AYGO X",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 VVT-i Pure",
+        "registration_number": "YM23SYH",
+        "registration_date": "31/07/2023",
+        "mileage": 8172,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 194.11,
+        "final_payment": 4366.78,
+        "total_amount_payable": 17068.77,
+        "total_charge_for_credit": 4573.77,
+        "amount_of_credit": 11245.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.17,
+        "residual": 4365.78,
+        "price_to_buy": 4366.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 246.16,
+        "final_payment": 247.16,
+        "total_amount_payable": 16020.1,
+        "total_charge_for_credit": 3525.1,
+        "amount_of_credit": 11245.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

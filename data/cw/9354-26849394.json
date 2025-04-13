@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-12T10:36:49.076Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.germanmotorstore.com/cars/bmw/5series/3.0-535d-m-sport-saloon/1340470/",
+    "dealer_id": "9354",
+    "car_id": "26849394",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "DIESEL SALOON",
+        "derivative": "535d M Sport Step",
+        "registration_number": "GF16NBM",
+        "registration_date": "31/03/2016",
+        "mileage": 78855,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 12.6,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 299.99,
+        "final_payment": 299.99,
+        "total_amount_payable": 19498.9,
+        "total_charge_for_credit": 4503.9,
+        "amount_of_credit": 13495.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

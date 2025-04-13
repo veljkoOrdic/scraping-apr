@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:12:12.776Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hshmotorgroup.co.uk/used-cars/honda-cr-v-2-0-i-mmd-184ps-awd-ex-5-door-5-door-estate-red/wx71uxw",
+    "dealer_id": "7937",
+    "car_id": "26167160",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CR-V",
+        "variant": "ESTATE",
+        "derivative": "2.0 i-MMD Hybrid EX eCVT",
+        "registration_number": "WX71UXW",
+        "registration_date": "01/09/2021",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26490,
+        "total_price": 26490,
+        "deposit": 7947,
+        "balance": 18543,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 296.89,
+        "final_payment": 14158.53,
+        "total_amount_payable": 32496.68,
+        "total_charge_for_credit": 6006.68,
+        "amount_of_credit": 18543,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 6.43,
+        "residual": 14148.53,
+        "price_to_buy": 14158.53
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26490,
+        "total_price": 26490,
+        "deposit": 7947,
+        "balance": 18543,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 36,
+        "regular_payment": 617.38,
+        "final_payment": 627.38,
+        "total_amount_payable": 30182.68,
+        "total_charge_for_credit": 3692.68,
+        "amount_of_credit": 18543,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

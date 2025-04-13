@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:54:28.245Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.justmotorgroup.co.uk/used/peugeot/5008/12-puretech-gt-eat-euro-6-ss-5dr/keighley/west-yorkshire/21475160",
+    "dealer_id": "6550",
+    "car_id": "26354013",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "5008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech GT EAT8",
+        "registration_number": "KR73HSJ",
+        "registration_date": "30/09/2023",
+        "mileage": 5580,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26795,
+        "total_price": 26795,
+        "deposit": 2679.5,
+        "balance": 24115.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 387.84,
+        "final_payment": 13905,
+        "total_amount_payable": 34812.98,
+        "total_charge_for_credit": 8017.98,
+        "amount_of_credit": 24115.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 13905,
+        "price_to_buy": 13905
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26795,
+        "total_price": 26795,
+        "deposit": 2679.5,
+        "balance": 24115.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 517.03,
+        "final_payment": 517.03,
+        "total_amount_payable": 33701.3,
+        "total_charge_for_credit": 6906.3,
+        "amount_of_credit": 24115.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

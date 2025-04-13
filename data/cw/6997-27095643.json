@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:14:19.474Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.samperformance.co.uk/cars/bmw/3series/3.0-m340d-xdrive-saloon/1382801/",
+    "dealer_id": "6997",
+    "car_id": "27095643",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "M340d xDrive Saloon",
+        "registration_number": "PY70GOE",
+        "registration_date": "28/11/2020",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 637.73,
+        "final_payment": 647.73,
+        "total_amount_payable": 41723.3,
+        "total_charge_for_credit": 7228.3,
+        "amount_of_credit": 31045.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 553.58,
+        "final_payment": 12654.83,
+        "total_amount_payable": 42122.59,
+        "total_charge_for_credit": 7627.59,
+        "amount_of_credit": 31045.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12091.25,
+        "price_to_buy": 12654.83
+      }
+    ]
+  }
+]

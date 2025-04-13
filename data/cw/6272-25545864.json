@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:19:30.361Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.baytreecars.com/used-mclaren-570s-derby-derbyshire-6277069",
+    "dealer_id": "6272",
+    "car_id": "25545864",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "570",
+        "variant": "S SPIDER",
+        "derivative": "V8 SSG",
+        "registration_number": "WX19BYC",
+        "registration_date": "01/03/2019",
+        "mileage": 8517,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 95900,
+        "total_price": 95900,
+        "deposit": 9590,
+        "balance": 86310,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 46,
+        "regular_payment": 1545.31,
+        "final_payment": 37441.75,
+        "total_amount_payable": 116570.7,
+        "total_charge_for_credit": 20670.7,
+        "amount_of_credit": 86310,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 38333,
+        "excess_mileage_rate": 21.75,
+        "residual": 37441.75,
+        "price_to_buy": 37441.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95900,
+        "total_price": 95900,
+        "deposit": 9590,
+        "balance": 86310,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1773.13,
+        "final_payment": 1773.13,
+        "total_amount_payable": 115977.8,
+        "total_charge_for_credit": 20077.8,
+        "amount_of_credit": 86310,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

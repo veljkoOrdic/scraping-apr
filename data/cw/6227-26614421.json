@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:08:52.705Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/land-rover/land-rover-range-rover-3-0-d350-mhev-first-edition-auto-4wd-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "26614421",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D350 First Edition",
+        "registration_number": "WH22AZT",
+        "registration_date": "21/04/2022",
+        "mileage": 45192,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84975,
+        "total_price": 84975,
+        "deposit": 8497.5,
+        "balance": 76477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1268.32,
+        "final_payment": 39155,
+        "total_amount_payable": 107263.54,
+        "total_charge_for_credit": 22288.54,
+        "amount_of_credit": 76477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 16.8,
+        "residual": 39145,
+        "price_to_buy": 39155
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84975,
+        "total_price": 84975,
+        "deposit": 8497.5,
+        "balance": 76477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 1605.32,
+        "final_payment": 1605.32,
+        "total_amount_payable": 104816.7,
+        "total_charge_for_credit": 19841.7,
+        "amount_of_credit": 76477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T00:07:52.704Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jdmautomotive.co.uk/used/commercials/volkswagen/crafter/2-0-crafter-cr35-trendline-tdi-466",
+    "dealer_id": "8153",
+    "car_id": "27251348",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "CRAFTER",
+        "variant": "CR35 LWB DIESEL FWD",
+        "derivative": "2.0 TDI 140PS Trendline High Roof Van",
+        "registration_number": "PE70WGP",
+        "registration_date": "26/11/2020",
+        "mileage": 55075,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 462.2,
+        "final_payment": 472.2,
+        "total_amount_payable": 30041.5,
+        "total_charge_for_credit": 7046.5,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 462.2,
+        "final_payment": 472.2,
+        "total_amount_payable": 30041.5,
+        "total_charge_for_credit": 7046.5,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

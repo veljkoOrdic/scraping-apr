@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:10:06.355Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.youngandpartners.co.uk/used-vehicle-details/used-ford-fiesta-11-trend-5dr-hatchback-white-manual-petrol/id-73593226/",
+    "dealer_id": "6666",
+    "car_id": "26941244",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.1 Trend",
+        "registration_number": "WB19VLX",
+        "registration_date": "31/08/2019",
+        "mileage": 26000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1080,
+        "balance": 9715,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 52,
+        "regular_payment": 191.3,
+        "final_payment": 2574.02,
+        "total_amount_payable": 13410.32,
+        "total_charge_for_credit": 2615.32,
+        "amount_of_credit": 9715,
+        "lender": "One Threadneedle",
+        "annual_mileage": 10000,
+        "contract_mileage": 43333,
+        "excess_mileage_rate": 2.32,
+        "residual": 2574.02,
+        "price_to_buy": 2574.02
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1080,
+        "balance": 9715,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 203.93,
+        "final_payment": 203.93,
+        "total_amount_payable": 13315.8,
+        "total_charge_for_credit": 2520.8,
+        "amount_of_credit": 9715,
+        "lender": "One Threadneedle",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

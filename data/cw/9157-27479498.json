@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:44:42.745Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carscierge.co.uk/used/cars/ford/puma/1-0-puma-st-line-x-mhev-cvt-5dr-84",
+    "dealer_id": "9157",
+    "car_id": "27479498",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST-Line X DCT",
+        "registration_number": "GV24ZWT",
+        "registration_date": "26/07/2024",
+        "mileage": 4850,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24420,
+        "total_price": 24420,
+        "deposit": 2442,
+        "balance": 21978,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 359.56,
+        "final_payment": 8132.61,
+        "total_amount_payable": 31788.65,
+        "total_charge_for_credit": 7368.65,
+        "amount_of_credit": 21978,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.75,
+        "residual": 8132.61,
+        "price_to_buy": 8132.61
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24420,
+        "total_price": 24420,
+        "deposit": 2442,
+        "balance": 21978,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 461.34,
+        "final_payment": 461.34,
+        "total_amount_payable": 30122.4,
+        "total_charge_for_credit": 5702.4,
+        "amount_of_credit": 21978,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

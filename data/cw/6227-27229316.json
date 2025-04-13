@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:05:42.891Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bmw/bmw-x4-3-0-m40i-auto-xdrive-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "27229316",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X4",
+        "variant": "",
+        "derivative": "X4 M40i",
+        "registration_number": "YD69ZFE",
+        "registration_date": "24/01/2020",
+        "mileage": 22851,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33975,
+        "total_price": 33975,
+        "deposit": 3397.5,
+        "balance": 30577.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 500.9,
+        "final_payment": 17099.01,
+        "total_amount_payable": 44038.81,
+        "total_charge_for_credit": 10063.81,
+        "amount_of_credit": 30577.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 8.72,
+        "residual": 17099.01,
+        "price_to_buy": 17099.01
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33975,
+        "total_price": 33975,
+        "deposit": 3397.5,
+        "balance": 30577.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 655.57,
+        "final_payment": 655.57,
+        "total_amount_payable": 42731.7,
+        "total_charge_for_credit": 8756.7,
+        "amount_of_credit": 30577.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

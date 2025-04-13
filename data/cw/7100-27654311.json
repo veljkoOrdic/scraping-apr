@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:10:29.354Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ucar.co.uk/cars/audi/q5/2.0-tdi-40-s-line/1428793/",
+    "dealer_id": "7100",
+    "car_id": "27654311",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "40 TDI Quattro S Line S Tronic",
+        "registration_number": "DC19NMV",
+        "registration_date": "28/06/2019",
+        "mileage": 63000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22450,
+        "total_price": 22450,
+        "deposit": 2245,
+        "balance": 20205,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 50,
+        "regular_payment": 380.28,
+        "final_payment": 7805.77,
+        "total_amount_payable": 28684.49,
+        "total_charge_for_credit": 6234.49,
+        "amount_of_credit": 20205,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 41666,
+        "excess_mileage_rate": 5.19,
+        "residual": 7804.77,
+        "price_to_buy": 7805.77
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22450,
+        "total_price": 22450,
+        "deposit": 2245,
+        "balance": 20205,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 433.18,
+        "final_payment": 434.18,
+        "total_amount_payable": 28236.8,
+        "total_charge_for_credit": 5786.8,
+        "amount_of_credit": 20205,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

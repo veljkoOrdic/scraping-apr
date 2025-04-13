@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T21:08:16.921Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kentvehicles.co.uk/details/car-in-herne-common/tesla/model3/standard-range-plus-auto-rwd-4dr/1349898/",
+    "dealer_id": "6570",
+    "car_id": "26698945",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL 3",
+        "variant": "SALOON",
+        "derivative": "RWD",
+        "registration_number": "BT71LBP",
+        "registration_date": "08/12/2021",
+        "mileage": 80000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14480,
+        "total_price": 14480,
+        "deposit": 1448,
+        "balance": 13032,
+        "apr": 13.6,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 295.3,
+        "final_payment": 305.3,
+        "total_amount_payable": 19176,
+        "total_charge_for_credit": 4696,
+        "amount_of_credit": 13032,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14480,
+        "total_price": 14480,
+        "deposit": 1448,
+        "balance": 13032,
+        "apr": 13.6,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 295.52,
+        "final_payment": 295.52,
+        "total_amount_payable": 19179.2,
+        "total_charge_for_credit": 4699.2,
+        "amount_of_credit": 13032,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

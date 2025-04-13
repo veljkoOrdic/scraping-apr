@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:54:54.301Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.struans.com/used/mini/countryman/john-cooper-works-20-all4-auto-5dr/perth/perthshire/21480960",
+    "dealer_id": "6458",
+    "car_id": "26419330",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "COUNTRYMAN",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 John Cooper Works ALL4",
+        "registration_number": "SR71DZP",
+        "registration_date": "26/09/2021",
+        "mileage": 26693,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26895,
+        "total_price": 26895,
+        "deposit": 2689.5,
+        "balance": 24205.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 420.38,
+        "final_payment": 12705,
+        "total_amount_payable": 35572.74,
+        "total_charge_for_credit": 8677.74,
+        "amount_of_credit": 24205.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 12695,
+        "price_to_buy": 12705
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26895,
+        "total_price": 26895,
+        "deposit": 2689.5,
+        "balance": 24205.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 629.14,
+        "final_payment": 629.14,
+        "total_amount_payable": 32888.22,
+        "total_charge_for_credit": 5993.22,
+        "amount_of_credit": 24205.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

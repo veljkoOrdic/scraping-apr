@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:45:21.928Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tjhamiltonvolkswagen.com/used/volkswagen/polo/10-tsi-110-r-line-5dr-dsg/cookstown/county-tyrone/21518677",
+    "dealer_id": "7436",
+    "car_id": "21745761",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 R-Line DSG",
+        "registration_number": "DP70YWR",
+        "registration_date": "19/02/2021",
+        "mileage": 20393,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16950,
+        "total_price": 16950,
+        "deposit": 2445,
+        "balance": 14505,
+        "apr": 13.3,
+        "rate_of_interest": 13.31,
+        "term": 48,
+        "regular_payment": 271.43,
+        "final_payment": 7375.6,
+        "total_amount_payable": 22577.81,
+        "total_charge_for_credit": 5627.81,
+        "amount_of_credit": 14505,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.98,
+        "residual": 7365.6,
+        "price_to_buy": 7375.6
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16950,
+        "total_price": 16950,
+        "deposit": 1695,
+        "balance": 15255,
+        "apr": 13.3,
+        "rate_of_interest": 13.25,
+        "term": 48,
+        "regular_payment": 405.53,
+        "final_payment": 415.53,
+        "total_amount_payable": 21170.44,
+        "total_charge_for_credit": 4220.44,
+        "amount_of_credit": 15255,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

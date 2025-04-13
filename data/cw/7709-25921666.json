@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:57:30.081Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/skoda-karoq-1-5-tsi-act-sportline-suv-5dr-petrol-dsg-euro-6-s-s-150-ps-hy22oeg",
+    "dealer_id": "7709",
+    "car_id": "25921666",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI Sport Line",
+        "registration_number": "AF71UWW",
+        "registration_date": "01/03/2021",
+        "mileage": 26514,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21190,
+        "total_price": 21190,
+        "deposit": 2119,
+        "balance": 19071,
+        "apr": 11.3,
+        "rate_of_interest": 11.26,
+        "term": 48,
+        "regular_payment": 490.28,
+        "final_payment": 500.28,
+        "total_amount_payable": 25662.44,
+        "total_charge_for_credit": 4472.44,
+        "amount_of_credit": 19071,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21190,
+        "total_price": 21190,
+        "deposit": 2119,
+        "balance": 19071,
+        "apr": 11.3,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 326.32,
+        "final_payment": 10135,
+        "total_amount_payable": 27591.04,
+        "total_charge_for_credit": 6401.04,
+        "amount_of_credit": 19071,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 6,
+        "residual": 10125,
+        "price_to_buy": 10135
+      }
+    ]
+  }
+]

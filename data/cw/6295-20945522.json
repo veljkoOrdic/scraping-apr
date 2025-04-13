@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:45:46.624Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.windmill-lr.co.uk/detail/1309292/used-land-rover-defender-90-v8-5-0-v8-carpathian-edition-3dr-automatic-blackburn",
+    "dealer_id": "6295",
+    "car_id": "20945522",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "5.0 P525 V8 Carpathian Edition 90",
+        "registration_number": "KM71CZV",
+        "registration_date": "22/10/2021",
+        "mileage": 4500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1188.34,
+        "final_payment": 39745.84,
+        "total_amount_payable": 103597.32,
+        "total_charge_for_credit": 23602.32,
+        "amount_of_credit": 71995.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 38547.5,
+        "price_to_buy": 39745.84
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1543.7,
+        "final_payment": 1553.7,
+        "total_amount_payable": 100631.5,
+        "total_charge_for_credit": 20636.5,
+        "amount_of_credit": 71995.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

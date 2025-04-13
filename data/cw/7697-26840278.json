@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:55:19.926Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.barbournecarsales.com/used-vauxhall-adam-worcester-worcestershire-6603922",
+    "dealer_id": "7697",
+    "car_id": "26840278",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ADAM",
+        "variant": "HATCHBACK",
+        "derivative": "1.2i Jam",
+        "registration_number": "WJ17SWV",
+        "registration_date": "31/03/2017",
+        "mileage": 72825,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5250,
+        "total_price": 5250,
+        "deposit": 525,
+        "balance": 4725,
+        "apr": 18.4,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 117.36,
+        "final_payment": 117.36,
+        "total_amount_payable": 7566.6,
+        "total_charge_for_credit": 2316.6,
+        "amount_of_credit": 4725,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

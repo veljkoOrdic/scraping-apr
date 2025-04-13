@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:24:41.805Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/land-rover-range-rover-30-d350-mhev-se-suv-5dr-diesel-auto-4wd-euro-6-ss-350-ps-in-kings-lynn-norfolk-b84ec33f-98b1-406f-b677-a7848ed67181",
+    "dealer_id": "8615",
+    "car_id": "27660596",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D350 SE",
+        "registration_number": "YF22YUE",
+        "registration_date": "07/07/2022",
+        "mileage": 7800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82895,
+        "total_price": 82895,
+        "deposit": 8289.5,
+        "balance": 74605.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1599.52,
+        "final_payment": 1599.52,
+        "total_amount_payable": 104260.7,
+        "total_charge_for_credit": 21365.7,
+        "amount_of_credit": 74605.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82895,
+        "total_price": 82895,
+        "deposit": 8289.5,
+        "balance": 74605.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1250.87,
+        "final_payment": 28530.2,
+        "total_amount_payable": 110621.03,
+        "total_charge_for_credit": 27726.03,
+        "amount_of_credit": 74605.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 16.66,
+        "residual": 28530.2,
+        "price_to_buy": 28530.2
+      }
+    ]
+  }
+]

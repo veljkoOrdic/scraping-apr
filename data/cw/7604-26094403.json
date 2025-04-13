@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:01:06.746Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thurlbymotors.com/used/vauxhall/mokka/12-turbo-ultimate-5dr-auto/louth/lincolnshire/21451446",
+    "dealer_id": "7604",
+    "car_id": "26094403",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "MOKKA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo Ultimate",
+        "registration_number": "LV73NFR",
+        "registration_date": "11/09/2023",
+        "mileage": 3083,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 341.2,
+        "final_payment": 6851.96,
+        "total_amount_payable": 29182.26,
+        "total_charge_for_credit": 7187.26,
+        "amount_of_credit": 19795.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.71,
+        "residual": 6851.96,
+        "price_to_buy": 6851.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 442.26,
+        "final_payment": 443.26,
+        "total_amount_payable": 28736.1,
+        "total_charge_for_credit": 6741.1,
+        "amount_of_credit": 19795.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:36:38.293Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bmw/5-series/2-0-520d-m-sport-mhev-auto-4dr-753",
+    "dealer_id": "7389",
+    "car_id": "26637296",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "DIESEL SALOON",
+        "derivative": "520d MHT M Sport Step [Tech/Pro Pack]",
+        "registration_number": "CJ71RDV",
+        "registration_date": "31/01/2022",
+        "mileage": 65000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 351.26,
+        "final_payment": 6637.24,
+        "total_amount_payable": 29656.58,
+        "total_charge_for_credit": 6706.58,
+        "amount_of_credit": 20655,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.37,
+        "residual": 6637.24,
+        "price_to_buy": 6637.24
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 433.56,
+        "final_payment": 433.56,
+        "total_amount_payable": 28308.6,
+        "total_charge_for_credit": 5358.6,
+        "amount_of_credit": 20655,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:01:24.781Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-aston-martin-vantage-liskeard-cornwall-6367939",
+    "dealer_id": "8394",
+    "car_id": "25849798",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "VANTAGE",
+        "variant": "V8  COUPE",
+        "derivative": "2dr ZF 8 Speed",
+        "registration_number": "JR68DRY",
+        "registration_date": "08/11/2018",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 74999,
+        "total_price": 74999,
+        "deposit": 7499.9,
+        "balance": 67499.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 999.99,
+        "final_payment": 41376.95,
+        "total_amount_payable": 95876.38,
+        "total_charge_for_credit": 20877.38,
+        "amount_of_credit": 67499.1,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 74999,
+        "total_price": 74999,
+        "deposit": 7499,
+        "balance": 67500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1416.94,
+        "final_payment": 1426.94,
+        "total_amount_payable": 92525.4,
+        "total_charge_for_credit": 17526.4,
+        "amount_of_credit": 67500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

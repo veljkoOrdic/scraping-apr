@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:51:19.011Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scottishcommercials.com/vehicle-details/used-mercedes-benz-sprinter-314-cdi-for-sale-in-west-lothian-u27897/",
+    "dealer_id": "7031",
+    "car_id": "27726442",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SPRINTER",
+        "variant": "314CDI L2 DIESEL FWD",
+        "derivative": "3.5t H1 Van",
+        "registration_number": "SG20OHT",
+        "registration_date": "24/06/2020",
+        "mileage": 106643,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 18,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 283.52,
+        "final_payment": 293.52,
+        "total_amount_payable": 14718.46,
+        "total_charge_for_credit": 3723.46,
+        "amount_of_credit": 9895.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 18,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 283.8,
+        "final_payment": 283.8,
+        "total_amount_payable": 14721.9,
+        "total_charge_for_credit": 3726.9,
+        "amount_of_credit": 9895.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:48:21.415Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tjhamiltonvolkswagen.com/used/audi/rs6-avant/rs-6-tfsi-qtro-perform-carbon-vorsp-5dr-tiptronic/cookstown/county-tyrone/21540697",
+    "dealer_id": "7436",
+    "car_id": "27077673",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Qtro Perform Carbon Vorsp Tiptronic",
+        "registration_number": "SW73EKB",
+        "registration_date": "16/01/2024",
+        "mileage": 4000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 112950,
+        "total_price": 112950,
+        "deposit": 12950,
+        "balance": 100000,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 1870.01,
+        "final_payment": 42425,
+        "total_amount_payable": 143265.47,
+        "total_charge_for_credit": 30315.47,
+        "amount_of_credit": 100000,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.4,
+        "residual": 42415,
+        "price_to_buy": 42425
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 112950,
+        "total_price": 112950,
+        "deposit": 11295,
+        "balance": 101655,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 2597.34,
+        "final_payment": 2597.34,
+        "total_amount_payable": 135967.32,
+        "total_charge_for_credit": 23017.32,
+        "amount_of_credit": 101655,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

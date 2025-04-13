@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:55:58.278Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/skoda-fabia-1-0-tsi-monte-carlo-hatchback-5dr-petrol-manual-euro-6-s-s-110-ps-ak68ftc",
+    "dealer_id": "7709",
+    "car_id": "27385655",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAMIQ",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 SE",
+        "registration_number": "AK71ZVE",
+        "registration_date": "01/03/2022",
+        "mileage": 41491,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 1249,
+        "balance": 11241,
+        "apr": 11.3,
+        "rate_of_interest": 11.26,
+        "term": 48,
+        "regular_payment": 288.99,
+        "final_payment": 298.99,
+        "total_amount_payable": 15130.52,
+        "total_charge_for_credit": 2640.52,
+        "amount_of_credit": 11241,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 1249,
+        "balance": 11241,
+        "apr": 11.3,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 184.38,
+        "final_payment": 6445,
+        "total_amount_payable": 16359.86,
+        "total_charge_for_credit": 3869.86,
+        "amount_of_credit": 11241,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 3,
+        "residual": 6435,
+        "price_to_buy": 6445
+      }
+    ]
+  }
+]

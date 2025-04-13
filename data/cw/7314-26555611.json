@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:46:45.816Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magnamotorgroup.co.uk/details/used-car-in-warrington/mercedes-benz/aclass/2.0-a45-amg-spds-dct-4matic-euro-6-ss-5dr/1338952/",
+    "dealer_id": "7314",
+    "car_id": "26555611",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "AMG HATCHBACK",
+        "derivative": "A45 4Matic",
+        "registration_number": "RF16XRC",
+        "registration_date": "30/06/2016",
+        "mileage": 53636,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 1750,
+        "balance": 15750,
+        "apr": 12.9,
+        "rate_of_interest": 9.2,
+        "term": 38,
+        "regular_payment": 344.71,
+        "final_payment": 7582.5,
+        "total_amount_payable": 22086.77,
+        "total_charge_for_credit": 4586.77,
+        "amount_of_credit": 15750,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 31667,
+        "excess_mileage_rate": 12,
+        "residual": 7582.5,
+        "price_to_buy": 7582.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 1750,
+        "balance": 15750,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 351.9,
+        "final_payment": 351.9,
+        "total_amount_payable": 22864,
+        "total_charge_for_credit": 5364,
+        "amount_of_credit": 15750,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

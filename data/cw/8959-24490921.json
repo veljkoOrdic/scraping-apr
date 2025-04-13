@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:04:58.808Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2022-bmw-m440d-xdrive-convertible/",
+    "dealer_id": "8959",
+    "car_id": "24490921",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "",
+        "derivative": "M440d xDrive Convertible",
+        "registration_number": "YC72XPP",
+        "registration_date": "01/01/2022",
+        "mileage": 13116,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40900,
+        "total_price": 40900,
+        "deposit": 4690,
+        "balance": 36210,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 972.95,
+        "final_payment": 973.95,
+        "total_amount_payable": 51392.6,
+        "total_charge_for_credit": 10492.6,
+        "amount_of_credit": 36210,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40900,
+        "total_price": 40900,
+        "deposit": 4690,
+        "balance": 36210,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 716.37,
+        "final_payment": 16788.79,
+        "total_amount_payable": 55148.18,
+        "total_charge_for_credit": 14248.18,
+        "amount_of_credit": 36210,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.78,
+        "residual": 16788.79,
+        "price_to_buy": 16788.79
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:32:30.877Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.easthammotors.co.uk/vehicle/1-series-737",
+    "dealer_id": "6401",
+    "car_id": "25263268",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "HATCHBACK",
+        "derivative": "118i [136] Sport",
+        "registration_number": "MJ71ZHM",
+        "registration_date": "29/10/2021",
+        "mileage": 16957,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 2500,
+        "balance": 15495,
+        "apr": 11.9,
+        "rate_of_interest": 11.27,
+        "term": 60,
+        "regular_payment": 339.19,
+        "final_payment": 339.19,
+        "total_amount_payable": 22851.4,
+        "total_charge_for_credit": 4856.4,
+        "amount_of_credit": 15495,
+        "lender": "Suzuki FS",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 2500,
+        "balance": 15495,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 49,
+        "regular_payment": 250.91,
+        "final_payment": 9244,
+        "total_amount_payable": 23787.68,
+        "total_charge_for_credit": 5792.68,
+        "amount_of_credit": 15495,
+        "lender": "Suzuki FS",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 4.8,
+        "residual": 9234,
+        "price_to_buy": 9244
+      }
+    ]
+  }
+]

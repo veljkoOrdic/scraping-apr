@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:33:42.790Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fcrosscars.co.uk/used-cars/doncaster-south-yorkshire-mercedes-b-class-b-200-amg-line-pr1/",
+    "dealer_id": "6121",
+    "car_id": "26181320",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "B-Class",
+        "variant": "HATCHBACK",
+        "derivative": "B200 AMG Line Premium",
+        "registration_number": "YN21VXK",
+        "registration_date": "30/04/2021",
+        "mileage": 13633,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 378.71,
+        "final_payment": 8123.71,
+        "total_amount_payable": 28022.58,
+        "total_charge_for_credit": 7027.58,
+        "amount_of_credit": 18895.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7735,
+        "price_to_buy": 8123.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 503.41,
+        "final_payment": 513.41,
+        "total_amount_payable": 26273.18,
+        "total_charge_for_credit": 5278.18,
+        "amount_of_credit": 18895.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

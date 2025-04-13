@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:01:28.339Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.centurycars.online/used-porsche-macan-betchworth-surrey-6763665",
+    "dealer_id": "8772",
+    "car_id": "27505456",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "KW70NBM",
+        "registration_date": "26/01/2021",
+        "mileage": 34746,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42895,
+        "total_price": 42895,
+        "deposit": 4289,
+        "balance": 38606,
+        "apr": 11.4,
+        "rate_of_interest": 5.74,
+        "term": 48,
+        "regular_payment": 686.99,
+        "final_payment": 19141.99,
+        "total_amount_payable": 55719.52,
+        "total_charge_for_credit": 12824.52,
+        "amount_of_credit": 38606,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 18445,
+        "price_to_buy": 19141.99
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42895,
+        "total_price": 42895,
+        "deposit": 4289,
+        "balance": 38606,
+        "apr": 11.6,
+        "rate_of_interest": 5.74,
+        "term": 48,
+        "regular_payment": 997.92,
+        "final_payment": 997.92,
+        "total_amount_payable": 52189.16,
+        "total_charge_for_credit": 9294.16,
+        "amount_of_credit": 38606,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

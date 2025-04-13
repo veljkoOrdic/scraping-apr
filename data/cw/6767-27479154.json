@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:51:55.552Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoclass.uk/used/cars/land-rover/range-rover-velar/2-0-range-rover-velar-r-dynamic-se-d180-auto-4wd-5dr-266",
+    "dealer_id": "6767",
+    "car_id": "27479154",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D180 R-Dynamic S",
+        "registration_number": "UXZ3989",
+        "registration_date": "31/01/2019",
+        "mileage": 47989,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 45,
+        "regular_payment": 382.91,
+        "final_payment": 10200.19,
+        "total_amount_payable": 29343.23,
+        "total_charge_for_credit": 6393.23,
+        "amount_of_credit": 20655,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 6.08,
+        "residual": 10200.19,
+        "price_to_buy": 10200.19
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 433.58,
+        "final_payment": 433.58,
+        "total_amount_payable": 28309.8,
+        "total_charge_for_credit": 5359.8,
+        "amount_of_credit": 20655,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:59:55.252Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-land-rover-discovery-liskeard-cornwall-6409247",
+    "dealer_id": "8394",
+    "car_id": "25980736",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 D300 R-Dynamic SE",
+        "registration_number": "NC22AHD",
+        "registration_date": "25/06/2022",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999,
+        "balance": 45000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 730.94,
+        "final_payment": 17048.37,
+        "total_amount_payable": 65172.83,
+        "total_charge_for_credit": 15173.83,
+        "amount_of_credit": 45000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 10.29,
+        "residual": 17048.37,
+        "price_to_buy": 17048.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999,
+        "balance": 45000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 944.63,
+        "final_payment": 954.63,
+        "total_amount_payable": 61686.8,
+        "total_charge_for_credit": 11687.8,
+        "amount_of_credit": 45000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

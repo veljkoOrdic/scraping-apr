@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:50:16.944Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rjdmotors.co.uk/vehicle-details/used-bmw-x3-30d-m-sport-for-sale-in-basingstoke-u225/",
+    "dealer_id": "7690",
+    "car_id": "27067000",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 xDrive30d M Sport",
+        "registration_number": "SJ68BVT",
+        "registration_date": "28/10/2018",
+        "mileage": 45632,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25795,
+        "total_price": 25795,
+        "deposit": 2579.5,
+        "balance": 23215.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 42,
+        "regular_payment": 483.15,
+        "final_payment": 10827.65,
+        "total_amount_payable": 33216.3,
+        "total_charge_for_credit": 7421.3,
+        "amount_of_credit": 23215.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 6.58,
+        "residual": 10827.65,
+        "price_to_buy": 10827.65
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25795,
+        "total_price": 25795,
+        "deposit": 2579.5,
+        "balance": 23215.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 518.67,
+        "final_payment": 518.67,
+        "total_amount_payable": 33699.7,
+        "total_charge_for_credit": 7904.7,
+        "amount_of_credit": 23215.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

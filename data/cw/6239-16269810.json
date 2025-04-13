@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:34:31.472Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.knmotorsltd.co.uk/details/used-car-in-bedford/mercedes-benz/cclass/2.1-c220d-amg-line-premium-plus-g-tronic+-euro-6-ss-2dr/566878/",
+    "dealer_id": "6239",
+    "car_id": "16269810",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL COUPE",
+        "derivative": "C220d AMG Line Premium Plus",
+        "registration_number": "BP17WZX",
+        "registration_date": "07/06/2017",
+        "mileage": 31129,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19093,
+        "total_price": 19093,
+        "deposit": 1909.3,
+        "balance": 17183.7,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 360.57,
+        "final_payment": 370.57,
+        "total_amount_payable": 23553.5,
+        "total_charge_for_credit": 4460.5,
+        "amount_of_credit": 17183.7,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19093,
+        "total_price": 19093,
+        "deposit": 1909.3,
+        "balance": 17183.7,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 360.57,
+        "final_payment": 370.57,
+        "total_amount_payable": 23553.5,
+        "total_charge_for_credit": 4460.5,
+        "amount_of_credit": 17183.7,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

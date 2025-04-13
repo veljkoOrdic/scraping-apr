@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:20:21.532Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carnationltd.com/used-car/audi/rs3/2-5-tfsi-vorsprung-s-tronic-quattro-euro-6-s-s-4dr/aetv89988815/",
+    "dealer_id": "6379",
+    "car_id": "26133211",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SALOON",
+        "derivative": "RS 3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "AO23YVK",
+        "registration_date": "14/07/2023",
+        "mileage": 6200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 804.52,
+        "final_payment": 28044.01,
+        "total_amount_payable": 71355.95,
+        "total_charge_for_credit": 16360.95,
+        "amount_of_credit": 49495.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.33,
+        "residual": 28044.01,
+        "price_to_buy": 28044.01
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1308.33,
+        "final_payment": 1309.33,
+        "total_amount_payable": 68300.34,
+        "total_charge_for_credit": 13305.34,
+        "amount_of_credit": 49495.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

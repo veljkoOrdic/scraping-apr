@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:42:34.137Z",
+    "source": "codeweavers_calculator",
+    "url": "https://roadsidemotors.com/volkswagen/used/volkswagen_touareg_3_0_v6_black_edition_tdi_286_ps",
+    "dealer_id": "7195",
+    "car_id": "25311702",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 V6 TDI 4Motion 286 Black Edition Tip",
+        "registration_number": "TXZ1180",
+        "registration_date": "01/01/2023",
+        "mileage": 49,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59000,
+        "total_price": 59000,
+        "deposit": 750,
+        "balance": 58250,
+        "apr": 11.3,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 1045.73,
+        "final_payment": 27235,
+        "total_amount_payable": 78180.04,
+        "total_charge_for_credit": 19180.04,
+        "amount_of_credit": 58250,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "contract_mileage": 20416,
+        "excess_mileage_rate": 9,
+        "residual": 27225,
+        "price_to_buy": 27235
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59000,
+        "total_price": 59000,
+        "deposit": 250,
+        "balance": 58750,
+        "apr": 11.2,
+        "rate_of_interest": 11.16,
+        "term": 60,
+        "regular_payment": 1266.55,
+        "final_payment": 1276.55,
+        "total_amount_payable": 76253,
+        "total_charge_for_credit": 17253,
+        "amount_of_credit": 58750,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:12:19.432Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bentley/bentley-continental-4-0-v8-gt-auto-4wd-euro-6-s-s-2dr/",
+    "dealer_id": "6227",
+    "car_id": "25785180",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MW72CVG",
+        "registration_date": "02/11/2022",
+        "mileage": 7350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 134975,
+        "total_price": 134975,
+        "deposit": 13497.5,
+        "balance": 121477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1799.67,
+        "final_payment": 74465.71,
+        "total_amount_payable": 172547.7,
+        "total_charge_for_credit": 37572.7,
+        "amount_of_credit": 121477.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 134975,
+        "total_price": 134975,
+        "deposit": 13497.5,
+        "balance": 121477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 2549.91,
+        "final_payment": 2549.91,
+        "total_amount_payable": 166492.1,
+        "total_charge_for_credit": 31517.1,
+        "amount_of_credit": 121477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

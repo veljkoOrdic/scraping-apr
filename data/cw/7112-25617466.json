@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:17:37.422Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rydersofwarrington.co.uk/used/hyundai/tucson/16t-hybrid-advance-5dr-auto/warrington/cheshire/21395174",
+    "dealer_id": "7112",
+    "car_id": "25617466",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "TUCSON",
+        "variant": "ESTATE",
+        "derivative": "1.6T Hybrid Advance",
+        "registration_number": "MC24WLG",
+        "registration_date": "28/06/2024",
+        "mileage": 2897,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28980,
+        "total_price": 28980,
+        "deposit": 2898,
+        "balance": 26082,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 666.41,
+        "final_payment": 666.41,
+        "total_amount_payable": 34885.68,
+        "total_charge_for_credit": 5905.68,
+        "amount_of_credit": 26082,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28980,
+        "total_price": 28980,
+        "deposit": 2898,
+        "balance": 26082,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 450.91,
+        "final_payment": 12868.29,
+        "total_amount_payable": 37409.97,
+        "total_charge_for_credit": 8429.97,
+        "amount_of_credit": 26082,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 7.5,
+        "residual": 12868.29,
+        "price_to_buy": 12868.29
+      }
+    ]
+  }
+]

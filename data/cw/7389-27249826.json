@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "2025-04-11T18:36:58.184Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/porsche/taycan/taycan-t-s-4wd-4dr-850",
+    "dealer_id": "7389",
+    "car_id": "27249826",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "COUPE",
+        "derivative": "M",
+        "registration_number": "SV61BGX",
+        "registration_date": "06/09/2011",
+        "mileage": 68000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 60000,
+        "total_price": 60000,
+        "deposit": 6000,
+        "balance": 54000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1206.45,
+        "final_payment": 1207.45,
+        "total_amount_payable": 78388,
+        "total_charge_for_credit": 18388,
+        "amount_of_credit": 54000,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-11T18:36:58.185Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/porsche/taycan/taycan-t-s-4wd-4dr-850",
+    "dealer_id": "7389",
+    "car_id": "27249826",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "560kW Turbo S 93kWh",
+        "registration_number": "LL70FPY",
+        "registration_date": "01/12/2020",
+        "mileage": 23218,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59750,
+        "total_price": 59750,
+        "deposit": 5975,
+        "balance": 53775,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 893.64,
+        "final_payment": 18852.74,
+        "total_amount_payable": 77552.5,
+        "total_charge_for_credit": 17802.5,
+        "amount_of_credit": 53775,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.06,
+        "residual": 18852.74,
+        "price_to_buy": 18852.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59750,
+        "total_price": 59750,
+        "deposit": 5975,
+        "balance": 53775,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1128.83,
+        "final_payment": 1128.83,
+        "total_amount_payable": 73704.8,
+        "total_charge_for_credit": 13954.8,
+        "amount_of_credit": 53775,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

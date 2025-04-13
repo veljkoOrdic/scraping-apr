@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:13:57.061Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mandbautocentre.co.uk/details/used-car-in-chapel-street/citroen/c3picasso/1.6-hdi-exclusive-euro-5-5dr/1378621/",
+    "dealer_id": "7349",
+    "car_id": "27041720",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3 PICASSO",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 HDi 8V Exclusive",
+        "registration_number": "YE14XWF",
+        "registration_date": "10/06/2014",
+        "mileage": 73809,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs_close",
+        "name": "CS_CLOSE",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4095,
+        "total_price": 4095,
+        "deposit": 409.5,
+        "balance": 3685.5,
+        "apr": 20.2,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 109.26,
+        "final_payment": 109.26,
+        "total_amount_payable": 5653.98,
+        "total_charge_for_credit": 1558.98,
+        "amount_of_credit": 3685.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4095,
+        "total_price": 4095,
+        "deposit": 409.5,
+        "balance": 3685.5,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 48,
+        "regular_payment": 93.34,
+        "final_payment": 94.34,
+        "total_amount_payable": 4890.82,
+        "total_charge_for_credit": 795.82,
+        "amount_of_credit": 3685.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

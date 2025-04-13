@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:22.199Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/audi/r8/5-2-fsi-v10-performance-carbon-black-coupe-2dr-petrol-s-tronic-quattro-euro-917",
+    "dealer_id": "7389",
+    "car_id": "27726809",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "R8",
+        "variant": "COUPE",
+        "derivative": "5.2 V10 Quattro Performance Ed Carbon S Tronic",
+        "registration_number": "FT21EHD",
+        "registration_date": "24/04/2021",
+        "mileage": 9900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 108950,
+        "total_price": 108950,
+        "deposit": 10895,
+        "balance": 98055,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1602.13,
+        "final_payment": 36438.92,
+        "total_amount_payable": 141859.59,
+        "total_charge_for_credit": 32909.59,
+        "amount_of_credit": 98055,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 26.58,
+        "residual": 36438.92,
+        "price_to_buy": 36438.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 108950,
+        "total_price": 108950,
+        "deposit": 10895,
+        "balance": 98055,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2058.34,
+        "final_payment": 2058.34,
+        "total_amount_payable": 134395.4,
+        "total_charge_for_credit": 25445.4,
+        "amount_of_credit": 98055,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:35:55.620Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hkperformance.co.uk/details/used-car-in-manchester/audi/s4/3.0-tfsi-v6-tiptronic-quattro-euro-6-ss-4dr/1430134/",
+    "dealer_id": "6722",
+    "car_id": "27651780",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "SALOON",
+        "derivative": "S4 Quattro Tip Tronic",
+        "registration_number": "EJ18WRT",
+        "registration_date": "07/06/2018",
+        "mileage": 45000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 26,
+        "regular_payment": 562.44,
+        "final_payment": 12010,
+        "total_amount_payable": 28470.5,
+        "total_charge_for_credit": 4475.5,
+        "amount_of_credit": 21595.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 18,
+        "residual": 12010,
+        "price_to_buy": 12010
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 532.87,
+        "final_payment": 532.87,
+        "total_amount_payable": 27977.26,
+        "total_charge_for_credit": 3982.26,
+        "amount_of_credit": 21595.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:05:56.692Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/audi/audi-q5-2-0-tfsi-45-s-line-sportback-s-tronic-quattro-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "26553834",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "SPORTBACK",
+        "derivative": "45 TFSI Quattro S Line S Tronic",
+        "registration_number": "HG73YJS",
+        "registration_date": "30/12/2023",
+        "mileage": 6740,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38975,
+        "total_price": 38975,
+        "deposit": 3897.5,
+        "balance": 35077.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 611.22,
+        "final_payment": 17485,
+        "total_amount_payable": 50109.84,
+        "total_charge_for_credit": 11134.84,
+        "amount_of_credit": 35077.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.6,
+        "residual": 17475,
+        "price_to_buy": 17485
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38975,
+        "total_price": 38975,
+        "deposit": 3897.5,
+        "balance": 35077.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 752.05,
+        "final_payment": 752.05,
+        "total_amount_payable": 49020.5,
+        "total_charge_for_credit": 10045.5,
+        "amount_of_credit": 35077.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

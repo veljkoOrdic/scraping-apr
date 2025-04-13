@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:13:43.655Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.baytreecars.com/used-land-rover-discovery-sport-derby-derbyshire-6815244",
+    "dealer_id": "6272",
+    "car_id": "27592228",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY SPORT",
+        "variant": "DIESEL SW",
+        "derivative": "2.0 D165 Urban Edition",
+        "registration_number": "FH23THX",
+        "registration_date": "22/07/2023",
+        "mileage": 20790,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34900,
+        "total_price": 34900,
+        "deposit": 3490,
+        "balance": 31410,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 504.6,
+        "final_payment": 10992.28,
+        "total_amount_payable": 44253.68,
+        "total_charge_for_credit": 9353.68,
+        "amount_of_credit": 31410,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.74,
+        "residual": 10992.28,
+        "price_to_buy": 10992.28
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34900,
+        "total_price": 34900,
+        "deposit": 3490,
+        "balance": 31410,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 645.28,
+        "final_payment": 645.28,
+        "total_amount_payable": 42206.8,
+        "total_charge_for_credit": 7306.8,
+        "amount_of_credit": 31410,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

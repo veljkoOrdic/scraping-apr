@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:13:30.570Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/kia-picanto-vf23jdk/",
+    "dealer_id": "8984",
+    "car_id": "26607308",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 X-Line S",
+        "registration_number": "VF23 JDK",
+        "registration_date": "09/06/2023",
+        "mileage": 5589,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 267.07,
+        "final_payment": 8304.67,
+        "total_amount_payable": 19251.62,
+        "total_charge_for_credit": 3256.62,
+        "amount_of_credit": 14395.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 5.35,
+        "residual": 8304.67,
+        "price_to_buy": 8304.67
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 460.98,
+        "final_payment": 460.98,
+        "total_amount_payable": 18194.78,
+        "total_charge_for_credit": 2199.78,
+        "amount_of_credit": 14395.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

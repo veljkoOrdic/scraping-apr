@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T22:50:54.870Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.garrowhillcarsales.co.uk/details/used-car-in-glasgow/mini/coupe/1.6-cooper-euro-5-ss-2dr/995836/",
+    "dealer_id": "6765",
+    "car_id": "25370186",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "COUPE",
+        "variant": "COUPE",
+        "derivative": "1.6 Cooper",
+        "registration_number": "YG62NPE",
+        "registration_date": "22/11/2012",
+        "mileage": 67766,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3795,
+        "total_price": 3795,
+        "deposit": 379.5,
+        "balance": 3415.5,
+        "apr": 15.4,
+        "rate_of_interest": 8.14,
+        "term": 60,
+        "regular_payment": 80.09,
+        "final_payment": 90.09,
+        "total_amount_payable": 5194.9,
+        "total_charge_for_credit": 1399.9,
+        "amount_of_credit": 3415.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:48:44.512Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.benharrisonautomotive.co.uk/details/car-in-poole/jaguar/f-type/3.0-v6-r-dynamic-auto-euro-6-ss-2dr/1358113/",
+    "dealer_id": "6311",
+    "car_id": "26803305",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "COUPE",
+        "derivative": "3.0 [380] Supercharged V6 R-Dynamic",
+        "registration_number": "HG68NSF",
+        "registration_date": "12/01/2019",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 34,
+        "regular_payment": 669.6,
+        "final_payment": 17675,
+        "total_amount_payable": 42701.7,
+        "total_charge_for_credit": 6706.7,
+        "amount_of_credit": 32395.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 28333,
+        "excess_mileage_rate": 26,
+        "residual": 17665,
+        "price_to_buy": 17675
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 679.88,
+        "final_payment": 689.88,
+        "total_amount_payable": 44402.3,
+        "total_charge_for_credit": 8407.3,
+        "amount_of_credit": 32395.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

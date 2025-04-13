@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:29:18.287Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.arunltd.com/vehicle/jaguar-f-type-30-v6-gpf-r-dynamic-convertible-2dr-petrol-auto-awd-euro-6-ss-380-ps-in-west-sussex-8da546dc-40a7-4cd1-9531-ebe19527e67e",
+    "dealer_id": "8342",
+    "car_id": "24758968",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "CONVERTIBLE",
+        "derivative": "3.0 [380] Supercharged V6 R-Dynamic",
+        "registration_number": "PX69KGU",
+        "registration_date": "17/09/2019",
+        "mileage": 36500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 694.54,
+        "final_payment": 695.54,
+        "total_amount_payable": 45272.9,
+        "total_charge_for_credit": 9277.9,
+        "amount_of_credit": 32395.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 53,
+        "regular_payment": 614.15,
+        "final_payment": 11886.71,
+        "total_amount_payable": 47422.01,
+        "total_charge_for_credit": 11427.01,
+        "amount_of_credit": 32395.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 9.22,
+        "residual": 11885.71,
+        "price_to_buy": 11886.71
+      }
+    ]
+  }
+]

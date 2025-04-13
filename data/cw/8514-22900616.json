@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:08:44.809Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.evmsportsandprestige.co.uk/vehicle/seat-leon-16-tdi-cr-se-euro-5-ss-5dr-in-rochdale-lancashire-b5a3b919-8376-477f-9c60-b0ed00db9cb3",
+    "dealer_id": "8514",
+    "car_id": "22900616",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "LEON",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.6 TDI SE",
+        "registration_number": "KM13UXT",
+        "registration_date": "01/05/2013",
+        "mileage": 88000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3279,
+        "total_price": 3279,
+        "deposit": 327.9,
+        "balance": 2951.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 48,
+        "regular_payment": 77.84,
+        "final_payment": 87.84,
+        "total_amount_payable": 4074.22,
+        "total_charge_for_credit": 795.22,
+        "amount_of_credit": 2951.1,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3279,
+        "total_price": 3279,
+        "deposit": 327.9,
+        "balance": 2951.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 48,
+        "regular_payment": 77.84,
+        "final_payment": 87.84,
+        "total_amount_payable": 4074.22,
+        "total_charge_for_credit": 795.22,
+        "amount_of_credit": 2951.1,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

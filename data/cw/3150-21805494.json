@@ -57,5 +57,64 @@
         "residual": 0
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-11T23:55:54.539Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-land-rover-range-rover-reading-berkshire-5436819",
+    "dealer_id": "3150",
+    "car_id": "21805494",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "VOGUE SE STANDARD WHEELBASE",
+        "derivative": "P400e – 2.0L 404HP PHEV",
+        "registration_number": "YE20UZF",
+        "registration_date": "27/08/2020",
+        "mileage": 59000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35999,
+        "total_price": 35999,
+        "deposit": 3599,
+        "balance": 32400,
+        "apr": 13.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 736.88,
+        "final_payment": 736.88,
+        "total_amount_payable": 47811.8,
+        "total_charge_for_credit": 11812.8,
+        "amount_of_credit": 32400,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35999,
+        "total_price": 35999,
+        "deposit": 3599,
+        "balance": 32400,
+        "apr": 13.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 736.65,
+        "final_payment": 746.65,
+        "total_amount_payable": 47808,
+        "total_charge_for_credit": 11809,
+        "amount_of_credit": 32400,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T22:44:30.272Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.yourperfectcar.co.uk/cars/mercedes-benz/300/sl/758801/",
+    "dealer_id": "6751",
+    "car_id": "19486604",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SL SERIES",
+        "variant": "CONVERTIBLE",
+        "derivative": "300 SL-24 [5]",
+        "registration_number": "J903JWV",
+        "registration_date": "20/03/1992",
+        "mileage": 0,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10000,
+        "total_price": 10000,
+        "deposit": 1000,
+        "balance": 9000,
+        "apr": 12.3,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 198.69,
+        "final_payment": 198.69,
+        "total_amount_payable": 12921.4,
+        "total_charge_for_credit": 2921.4,
+        "amount_of_credit": 9000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

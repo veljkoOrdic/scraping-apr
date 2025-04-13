@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:47:04.690Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rangerworlduk.co.uk/rw/car-details/ford-ranger-wildtrak-ecoblue-8",
+    "dealer_id": "6628",
+    "car_id": "21608556",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 213",
+        "registration_number": "GF71ZGG",
+        "registration_date": "16/11/2021",
+        "mileage": 29384,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35640,
+        "total_price": 35640,
+        "deposit": 8910,
+        "balance": 26730,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 595.3,
+        "final_payment": 6903,
+        "total_amount_payable": 44387.4,
+        "total_charge_for_credit": 8747.4,
+        "amount_of_credit": 26730,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 26,
+        "residual": 6903,
+        "price_to_buy": 6903
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35640,
+        "total_price": 35640,
+        "deposit": 8910,
+        "balance": 26730,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 561.11,
+        "final_payment": 561.11,
+        "total_amount_payable": 42576.6,
+        "total_charge_for_credit": 6936.6,
+        "amount_of_credit": 26730,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

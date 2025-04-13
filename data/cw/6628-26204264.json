@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:47:48.801Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rangerworlduk.co.uk/rw/car-details/land-rover-defender-110-x-dynamic-hse",
+    "dealer_id": "6628",
+    "car_id": "26204264",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 X-Dynamic HSE 110 [7 Seat]",
+        "registration_number": "KS23FDD",
+        "registration_date": "25/04/2023",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 65000,
+        "total_price": 65000,
+        "deposit": 6500,
+        "balance": 58500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 929.44,
+        "final_payment": 23729.65,
+        "total_amount_payable": 85066.61,
+        "total_charge_for_credit": 20066.61,
+        "amount_of_credit": 58500,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.65,
+        "residual": 23729.65,
+        "price_to_buy": 23729.65
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65000,
+        "total_price": 65000,
+        "deposit": 6500,
+        "balance": 58500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1228.01,
+        "final_payment": 1228.01,
+        "total_amount_payable": 80180.6,
+        "total_charge_for_credit": 15180.6,
+        "amount_of_credit": 58500,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

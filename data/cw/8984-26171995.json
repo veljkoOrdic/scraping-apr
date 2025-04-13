@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:14:04.877Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/mazda-cx-5-vx24hmk/",
+    "dealer_id": "8984",
+    "car_id": "26171995",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-5",
+        "variant": "ESTATE",
+        "derivative": "2.0 e-Skyactiv G MHEV Homura",
+        "registration_number": "VX24 HMK",
+        "registration_date": "26/07/2024",
+        "mileage": 1217,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 520.4,
+        "final_payment": 17171.39,
+        "total_amount_payable": 38584.89,
+        "total_charge_for_credit": 6589.89,
+        "amount_of_credit": 28795.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 9.39,
+        "residual": 17171.39,
+        "price_to_buy": 17171.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 922.1,
+        "final_payment": 922.1,
+        "total_amount_payable": 36395.1,
+        "total_charge_for_credit": 4400.1,
+        "amount_of_credit": 28795.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

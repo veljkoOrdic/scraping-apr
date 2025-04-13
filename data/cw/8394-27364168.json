@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:01:10.958Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-bmw-x5-liskeard-cornwall-6773888",
+    "dealer_id": "8394",
+    "car_id": "27364168",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive40d M Sport",
+        "registration_number": "WD73BBF",
+        "registration_date": "29/01/2024",
+        "mileage": 8250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67500,
+        "total_price": 67500,
+        "deposit": 6750,
+        "balance": 60750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 968.29,
+        "final_payment": 24408.06,
+        "total_amount_payable": 88287.17,
+        "total_charge_for_credit": 20787.17,
+        "amount_of_credit": 60750,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.83,
+        "residual": 24408.06,
+        "price_to_buy": 24408.06
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67500,
+        "total_price": 67500,
+        "deposit": 6750,
+        "balance": 60750,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1275.24,
+        "final_payment": 1285.24,
+        "total_amount_payable": 83274.4,
+        "total_charge_for_credit": 15774.4,
+        "amount_of_credit": 60750,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

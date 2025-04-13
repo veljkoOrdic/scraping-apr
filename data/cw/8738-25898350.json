@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:21:36.976Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.safwatcars.co.uk/used-bmw-2-series-southend-on-sea-essex-6483084",
+    "dealer_id": "8738",
+    "car_id": "25898350",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "2 Series",
+        "variant": "",
+        "derivative": "230i M Sport Coupe",
+        "registration_number": "RE72YTZ",
+        "registration_date": "26/09/2022",
+        "mileage": 13878,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31390,
+        "total_price": 31390,
+        "deposit": 6278,
+        "balance": 25112,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 354.87,
+        "final_payment": 16146,
+        "total_amount_payable": 39457.76,
+        "total_charge_for_credit": 8067.76,
+        "amount_of_credit": 25112,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 16136,
+        "price_to_buy": 16146
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31390,
+        "total_price": 31390,
+        "deposit": 6278,
+        "balance": 25112,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 630.62,
+        "final_payment": 630.62,
+        "total_amount_payable": 36547.76,
+        "total_charge_for_credit": 5157.76,
+        "amount_of_credit": 25112,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

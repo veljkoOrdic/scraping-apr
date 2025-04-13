@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:03:03.929Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/mini-used-cars/asset/2023-mini-electric-level-3-4/",
+    "dealer_id": "8959",
+    "car_id": "25545263",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "Electric Level 3",
+        "registration_number": "YE73ZWU",
+        "registration_date": "01/01/2023",
+        "mileage": 7438,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18900,
+        "total_price": 18900,
+        "deposit": 2290,
+        "balance": 16610,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 446.3,
+        "final_payment": 447.3,
+        "total_amount_payable": 23713.4,
+        "total_charge_for_credit": 4813.4,
+        "amount_of_credit": 16610,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18900,
+        "total_price": 18900,
+        "deposit": 2290,
+        "balance": 16610,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 315.31,
+        "final_payment": 8521.13,
+        "total_amount_payable": 25630.7,
+        "total_charge_for_credit": 6730.7,
+        "amount_of_credit": 16610,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.51,
+        "residual": 8521.13,
+        "price_to_buy": 8521.13
+      }
+    ]
+  }
+]

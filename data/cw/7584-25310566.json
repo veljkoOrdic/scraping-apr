@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:13.380Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-2008-12-puretech-gt-euro-6-ss-5-suv-orange-fusion-manual-petrol/id-202408162962518/",
+    "dealer_id": "7584",
+    "car_id": "25310566",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech 130 GT",
+        "registration_number": "LO21CKN",
+        "registration_date": "17/06/2021",
+        "mileage": 36532,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14839,
+        "total_price": 14839,
+        "deposit": 2967.8,
+        "balance": 11871.2,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 208.3,
+        "final_payment": 6548,
+        "total_amount_payable": 19514.2,
+        "total_charge_for_credit": 4675.2,
+        "amount_of_credit": 11871.2,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 6548,
+        "price_to_buy": 6548
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14839,
+        "total_price": 14839,
+        "deposit": 2968,
+        "balance": 11871,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 265.23,
+        "final_payment": 265.23,
+        "total_amount_payable": 18881.8,
+        "total_charge_for_credit": 4042.8,
+        "amount_of_credit": 11871,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

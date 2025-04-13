@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:00:51.291Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alsautos.co.uk/vehicle/citroen-c5-16-142kwh-c-series-edition-suv-5dr-petrol-plug-in-hybrid-e-eat8-euro-6-ss-225-ps-in-ely-cambridgeshire-dfb8dbe4-5751-4567-8241-28b2535097ee",
+    "dealer_id": "7898",
+    "car_id": "27626634",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C5 AIRCROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 Plug-in Hybrid C-Series Edition e-EAT8",
+        "registration_number": "CA23NWL",
+        "registration_date": "30/04/2023",
+        "mileage": 10440,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 2200,
+        "balance": 19800,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 356.61,
+        "final_payment": 10356,
+        "total_amount_payable": 29673.28,
+        "total_charge_for_credit": 7673.28,
+        "amount_of_credit": 19800,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 10346,
+        "price_to_buy": 10356
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 2200,
+        "balance": 19800,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 442.2,
+        "final_payment": 452.2,
+        "total_amount_payable": 28742,
+        "total_charge_for_credit": 6742,
+        "amount_of_credit": 19800,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

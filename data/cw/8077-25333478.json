@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T23:39:40.232Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.smcvehicles.co.uk/used-vauxhall-combo-manchester-greater-manchester-6264036",
+    "dealer_id": "8077",
+    "car_id": "25333478",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "COMBO CARGO",
+        "variant": "L1 DIESEL",
+        "derivative": "2300 1.5 Turbo D 100ps H1 Sportive Van",
+        "registration_number": "DL20FEV",
+        "registration_date": "31/07/2020",
+        "mileage": 102000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7794,
+        "total_price": 7794,
+        "deposit": 1299,
+        "balance": 6495,
+        "apr": 14,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 148.31,
+        "final_payment": 148.31,
+        "total_amount_payable": 10197.6,
+        "total_charge_for_credit": 2403.6,
+        "amount_of_credit": 6495,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7794,
+        "total_price": 7794,
+        "deposit": 1299,
+        "balance": 6495,
+        "apr": 13.9,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 148.09,
+        "final_payment": 158.09,
+        "total_amount_payable": 10194.4,
+        "total_charge_for_credit": 2400.4,
+        "amount_of_credit": 6495,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:54:54.220Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derehammotorcompany.co.uk/details/used-car-in-dereham/bentley/continental/4.0-v8-gtc-auto-4wd-euro-5-2dr/1432413/",
+    "dealer_id": "7464",
+    "car_id": "27684444",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GTC",
+        "variant": "CONVERTIBLE",
+        "derivative": "4.0 V8",
+        "registration_number": "SF62BWO",
+        "registration_date": "04/09/2012",
+        "mileage": 48975,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 768.01,
+        "final_payment": 778.01,
+        "total_amount_payable": 49990.1,
+        "total_charge_for_credit": 10995.1,
+        "amount_of_credit": 35095.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 768.01,
+        "final_payment": 778.01,
+        "total_amount_payable": 49990.1,
+        "total_charge_for_credit": 10995.1,
+        "amount_of_credit": 35095.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

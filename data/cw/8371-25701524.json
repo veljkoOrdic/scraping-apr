@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:45:12.367Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reocarsales.com/used/cars/ford/focus/2-3-focus-st-5-door-2-3l-ecoboost-280ps-fwd-6-speed-manual-6",
+    "dealer_id": "8371",
+    "car_id": "25701524",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "2.3 EcoBoost ST",
+        "registration_number": "SXZ2282",
+        "registration_date": "10/02/2023",
+        "mileage": 16277,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26190,
+        "total_price": 26190,
+        "deposit": 0,
+        "balance": 26190,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 481.71,
+        "final_payment": 8974.55,
+        "total_amount_payable": 37395.44,
+        "total_charge_for_credit": 11205.44,
+        "amount_of_credit": 26190,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 8.66,
+        "residual": 8974.55,
+        "price_to_buy": 8974.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26190,
+        "total_price": 26190,
+        "deposit": 0,
+        "balance": 26190,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 585.13,
+        "final_payment": 585.13,
+        "total_amount_payable": 35107.8,
+        "total_charge_for_credit": 8917.8,
+        "amount_of_credit": 26190,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

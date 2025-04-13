@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-12T01:09:20.455Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.benedictsofbristol.co.uk/used-volkswagen-transporter-bristol-somerset-6775044",
+    "dealer_id": "7706",
+    "car_id": "27359282",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T32 SWB DIESEL",
+        "derivative": "2.0 BiTDI 199 Highline Kombi Van DSG",
+        "registration_number": "RE70LZX",
+        "registration_date": "22/12/2020",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 37369,
+        "total_price": 37369,
+        "deposit": 3736,
+        "balance": 33633,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 720.87,
+        "final_payment": 730.87,
+        "total_amount_payable": 46998.2,
+        "total_charge_for_credit": 9629.2,
+        "amount_of_credit": 33633,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37369,
+        "total_price": 37369,
+        "deposit": 3736,
+        "balance": 33633,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 749.84,
+        "final_payment": 7241.09,
+        "total_amount_payable": 46219.57,
+        "total_charge_for_credit": 8850.57,
+        "amount_of_credit": 33633,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6481.25,
+        "price_to_buy": 7241.09
+      }
+    ]
+  }
+]

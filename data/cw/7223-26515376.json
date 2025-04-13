@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:01:28.383Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gatwickmotorworld.com/used-nissan-qashqai-haywards-heath-west-sussex-6552840",
+    "dealer_id": "7223",
+    "car_id": "26515376",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 DiG-T N-Connecta",
+        "registration_number": "GU70VVC",
+        "registration_date": "25/09/2020",
+        "mileage": 47523,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 244.8,
+        "final_payment": 5208,
+        "total_amount_payable": 17958.4,
+        "total_charge_for_credit": 3963.4,
+        "amount_of_credit": 12995,
+        "lender": "Connected Car",
+        "annual_mileage": 12000,
+        "contract_mileage": 48000,
+        "excess_mileage_rate": 3.14,
+        "residual": 5208,
+        "price_to_buy": 5208
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 11.1,
+        "rate_of_interest": 5.84,
+        "term": 60,
+        "regular_payment": 279.83,
+        "final_payment": 279.83,
+        "total_amount_payable": 17789.8,
+        "total_charge_for_credit": 3794.8,
+        "amount_of_credit": 12995,
+        "lender": "Connected Car",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

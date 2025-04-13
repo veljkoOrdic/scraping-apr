@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:57:32.603Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kingsbridgeautos.co.uk/used-land-rover-range-rover-york-yorkshire-6651119",
+    "dealer_id": "7325",
+    "car_id": "26891024",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "4.4 P530 V8 SV",
+        "registration_number": "KR22KJY",
+        "registration_date": "19/05/2022",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 104786,
+        "total_price": 104786,
+        "deposit": 10478,
+        "balance": 94308,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1620.78,
+        "final_payment": 48320.89,
+        "total_amount_payable": 134975.55,
+        "total_charge_for_credit": 30189.55,
+        "amount_of_credit": 94308,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 25.92,
+        "residual": 48320.89,
+        "price_to_buy": 48320.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104786,
+        "total_price": 104786,
+        "deposit": 10478,
+        "balance": 94308,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2021.94,
+        "final_payment": 2021.94,
+        "total_amount_payable": 131794.4,
+        "total_charge_for_credit": 27008.4,
+        "amount_of_credit": 94308,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

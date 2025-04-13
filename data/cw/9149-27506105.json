@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:42:41.810Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saspecialistcars.co.uk/cars/bmw/x3/3.0-x3-m-competition/1049102/",
+    "dealer_id": "9149",
+    "car_id": "27506105",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 M Competition",
+        "registration_number": "VK69ZKZ",
+        "registration_date": "26/10/2019",
+        "mileage": 54900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.5,
+        "rate_of_interest": 9.5,
+        "term": 48,
+        "regular_payment": 574.75,
+        "final_payment": 19188.88,
+        "total_amount_payable": 50201.63,
+        "total_charge_for_credit": 10206.63,
+        "amount_of_credit": 35995.5,
+        "lender": "Forward Asset Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.66,
+        "residual": 19188.88,
+        "price_to_buy": 19188.88
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 9.5,
+        "rate_of_interest": 9.5,
+        "term": 48,
+        "regular_payment": 897.63,
+        "final_payment": 897.63,
+        "total_amount_payable": 47085.74,
+        "total_charge_for_credit": 7090.74,
+        "amount_of_credit": 35995.5,
+        "lender": "Forward Asset Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

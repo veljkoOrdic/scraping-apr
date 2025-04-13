@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:34:14.832Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simonbailes.co.uk/used-car-details/used-peugeot-3008-12-puretech-active-premium-suv-white-manual-petrol/id-202409113918320/#financetab",
+    "dealer_id": "7958",
+    "car_id": "25567979",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech Active Premium+",
+        "registration_number": "BP72WEF",
+        "registration_date": "20/01/2023",
+        "mileage": 19651,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 2699,
+        "balance": 15296,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 286.23,
+        "final_payment": 7470,
+        "total_amount_payable": 23666.81,
+        "total_charge_for_credit": 5671.81,
+        "amount_of_credit": 15296,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 7470,
+        "price_to_buy": 7470
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 2699,
+        "balance": 15296,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 404.27,
+        "final_payment": 404.27,
+        "total_amount_payable": 22103.96,
+        "total_charge_for_credit": 4108.96,
+        "amount_of_credit": 15296,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:52:28.084Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kingsbridgeautos.co.uk/used-abarth-695-york-yorkshire-6734005",
+    "dealer_id": "7325",
+    "car_id": "27195218",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Abarth",
+        "model": "695",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "1.4 T-Jet 180 Rivale",
+        "registration_number": "FJ68XKH",
+        "registration_date": "30/11/2018",
+        "mileage": 17200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16486,
+        "total_price": 16486,
+        "deposit": 1648,
+        "balance": 14838,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 43,
+        "regular_payment": 312.45,
+        "final_payment": 5615.45,
+        "total_amount_payable": 20386.35,
+        "total_charge_for_credit": 3900.35,
+        "amount_of_credit": 14838,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 3.46,
+        "residual": 5615.45,
+        "price_to_buy": 5615.45
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16486,
+        "total_price": 16486,
+        "deposit": 1648,
+        "balance": 14838,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 318.12,
+        "final_payment": 318.12,
+        "total_amount_payable": 20735.2,
+        "total_charge_for_credit": 4249.2,
+        "amount_of_credit": 14838,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

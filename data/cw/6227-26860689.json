@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:05:27.981Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bmw/bmw-5-series-3-0-530d-m-sport-auto-xdrive-euro-6-s-s-4dr/",
+    "dealer_id": "6227",
+    "car_id": "26860689",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "",
+        "derivative": "530d xDrive M Sport Saloon",
+        "registration_number": "YA19BRM",
+        "registration_date": "21/08/2019",
+        "mileage": 45810,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27975,
+        "total_price": 27975,
+        "deposit": 2797.5,
+        "balance": 25177.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 491.68,
+        "final_payment": 9467.86,
+        "total_amount_payable": 35374.32,
+        "total_charge_for_credit": 7399.32,
+        "amount_of_credit": 25177.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 5.78,
+        "residual": 9467.86,
+        "price_to_buy": 9467.86
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27975,
+        "total_price": 27975,
+        "deposit": 2797.5,
+        "balance": 25177.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 60,
+        "regular_payment": 539.8,
+        "final_payment": 539.8,
+        "total_amount_payable": 35185.5,
+        "total_charge_for_credit": 7210.5,
+        "amount_of_credit": 25177.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

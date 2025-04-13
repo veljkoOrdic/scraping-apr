@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:43:44.913Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadoakmotorgroup.co.uk/used-car-details/used-volkswagen-touareg-30tdi-286ps-black-edition-4-grenadilla-black-automatic-diesel/id-312971074211515/",
+    "dealer_id": "6538",
+    "car_id": "26840087",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 V6 TDI 4Motion 286 Black Edition Tip",
+        "registration_number": "GJ74UOO",
+        "registration_date": "09/01/2025",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 80250,
+        "total_price": 80250,
+        "deposit": 20312,
+        "balance": 59938,
+        "apr": 11.1,
+        "rate_of_interest": 11.14,
+        "term": 60,
+        "regular_payment": 1291.66,
+        "final_payment": 1301.66,
+        "total_amount_payable": 97821.6,
+        "total_charge_for_credit": 17571.6,
+        "amount_of_credit": 59938,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 80250,
+        "total_price": 80250,
+        "deposit": 20312,
+        "balance": 59938,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 49,
+        "regular_payment": 1083,
+        "final_payment": 27685,
+        "total_amount_payable": 99981,
+        "total_charge_for_credit": 19731,
+        "amount_of_credit": 59938,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9,
+        "residual": 27675,
+        "price_to_buy": 27685
+      }
+    ]
+  }
+]

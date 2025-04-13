@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:47:08.727Z",
+    "source": "codeweavers_calculator",
+    "url": "https://mervynstewart.com/used-cars/skoda-fabia-hatch-se-l-10-tsi-116-ps-6g-man-2024/39119/",
+    "dealer_id": "8851",
+    "car_id": "25246827",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "FABIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 116 SE L",
+        "registration_number": "ISZ2442",
+        "registration_date": "25/06/2024",
+        "mileage": 6000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp_northridge",
+        "name": "PCP_NORTHRIDGE",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 3599,
+        "balance": 14396,
+        "apr": 12.4,
+        "rate_of_interest": 11.73,
+        "term": 48,
+        "regular_payment": 247.45,
+        "final_payment": 7985,
+        "total_amount_payable": 23461.6,
+        "total_charge_for_credit": 5466.6,
+        "amount_of_credit": 14396,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 7975,
+        "price_to_buy": 7985
+      },
+      {
+        "type": "finance_hp_northridge",
+        "name": "HP_NORTHRIDGE",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 3599,
+        "balance": 14396,
+        "apr": 12.4,
+        "rate_of_interest": 6.44,
+        "term": 48,
+        "regular_payment": 377.18,
+        "final_payment": 387.18,
+        "total_amount_payable": 21713.64,
+        "total_charge_for_credit": 3718.64,
+        "amount_of_credit": 14396,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

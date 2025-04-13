@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:23:44.297Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/kia-ev9-998kwh-gt-line-s-auto-awd-5dr-7-seat-2",
+    "dealer_id": "6231",
+    "car_id": "26924982",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "EV9",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "282kW GT-Line S 99.8kWh (6St)",
+        "registration_number": "ME73KTP",
+        "registration_date": "31/01/2024",
+        "mileage": 8759,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58990,
+        "total_price": 58990,
+        "deposit": 1999,
+        "balance": 56991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1431.17,
+        "final_payment": 1431.17,
+        "total_amount_payable": 70695.16,
+        "total_charge_for_credit": 11705.16,
+        "amount_of_credit": 56991,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 58990,
+        "total_price": 58990,
+        "deposit": 1999,
+        "balance": 56991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 968.64,
+        "final_payment": 27837.52,
+        "total_amount_payable": 75362.6,
+        "total_charge_for_credit": 16372.6,
+        "amount_of_credit": 56991,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.92,
+        "residual": 27837.52,
+        "price_to_buy": 27837.52
+      }
+    ]
+  }
+]

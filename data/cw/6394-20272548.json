@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T19:22:26.367Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.haltoncars.co.uk/details/used-car-in-luton/ford/c-max/1.6-tdci-titanium-euro-5-5dr/872113/",
+    "dealer_id": "6394",
+    "car_id": "20272548",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "C-MAX",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 TDCi Titanium",
+        "registration_number": "SF64VCW",
+        "registration_date": "08/09/2014",
+        "mileage": 74629,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4500,
+        "total_price": 4500,
+        "deposit": 450,
+        "balance": 4050,
+        "apr": 12.9,
+        "rate_of_interest": 6.78,
+        "term": 60,
+        "regular_payment": 90.38,
+        "final_payment": 100.38,
+        "total_amount_payable": 5882.8,
+        "total_charge_for_credit": 1382.8,
+        "amount_of_credit": 4050,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

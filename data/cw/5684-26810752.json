@@ -62,5 +62,69 @@
         "price_to_buy": 35042.08
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-12T12:25:59.155Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-x5-3-0-30d-mht-m-sport-steptronic-xdrive-euro-6-s-s-5dr-mm24vrf",
+    "dealer_id": "5684",
+    "car_id": "26810752",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "MM24VRF",
+        "registration_date": "30/05/2024",
+        "mileage": 8490,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67999,
+        "total_price": 67999,
+        "deposit": 10799.85,
+        "balance": 57199.15,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1436.38,
+        "final_payment": 1437.38,
+        "total_amount_payable": 79747.09,
+        "total_charge_for_credit": 11748.09,
+        "amount_of_credit": 57199.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67999,
+        "total_price": 67999,
+        "deposit": 10799.85,
+        "balance": 57199.15,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 831.75,
+        "final_payment": 35956.3,
+        "total_amount_payable": 85848.4,
+        "total_charge_for_credit": 17849.4,
+        "amount_of_credit": 57199.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 16.63,
+        "residual": 35956.3,
+        "price_to_buy": 35956.3
+      }
+    ]
   }
 ]

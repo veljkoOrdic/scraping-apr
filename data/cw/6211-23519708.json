@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:52:26.754Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walkersmotorgroup.co.uk/used-cars/vauxhall/astra-electric/54kwh-ultimate-auto-5dr/fy23mkm",
+    "dealer_id": "6211",
+    "car_id": "23519708",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "115kW Ultimate 54kWh",
+        "registration_number": "FY23MKM",
+        "registration_date": "31/08/2023",
+        "mileage": 8900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27590,
+        "total_price": 27590,
+        "deposit": 4138.5,
+        "balance": 23451.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 421.54,
+        "final_payment": 10939.31,
+        "total_amount_payable": 34890.19,
+        "total_charge_for_credit": 7300.19,
+        "amount_of_credit": 23451.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7.96,
+        "residual": 10939.31,
+        "price_to_buy": 10939.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27590,
+        "total_price": 27590,
+        "deposit": 4138.5,
+        "balance": 23451.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 598.99,
+        "final_payment": 608.99,
+        "total_amount_payable": 32900.02,
+        "total_charge_for_credit": 5310.02,
+        "amount_of_credit": 23451.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

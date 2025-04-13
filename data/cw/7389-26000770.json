@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:14.680Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/mclaren/570s/3-8-570s-coupe-semi-auto-2dr-659",
+    "dealer_id": "7389",
+    "car_id": "26000770",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "570",
+        "variant": "S COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "YJ19JZO",
+        "registration_date": "24/05/2019",
+        "mileage": 14500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 94000,
+        "total_price": 94000,
+        "deposit": 9400,
+        "balance": 84600,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 1594.36,
+        "final_payment": 31039.54,
+        "total_amount_payable": 116968.82,
+        "total_charge_for_credit": 22968.82,
+        "amount_of_credit": 84600,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 18.05,
+        "residual": 31039.54,
+        "price_to_buy": 31039.54
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 94000,
+        "total_price": 94000,
+        "deposit": 9400,
+        "balance": 84600,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1775.9,
+        "final_payment": 1775.9,
+        "total_amount_payable": 115954,
+        "total_charge_for_credit": 21954,
+        "amount_of_credit": 84600,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-11T18:37:14.687Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/mclaren/570s/3-8-570s-coupe-semi-auto-2dr-659",
+    "dealer_id": "7389",
+    "car_id": "26000770",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "4.0 V8",
+        "registration_number": "Y3AAN",
+        "registration_date": "26/05/2016",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 94950,
+        "total_price": 94950,
+        "deposit": 9495,
+        "balance": 85455,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1793.77,
+        "final_payment": 1793.77,
+        "total_amount_payable": 117121.2,
+        "total_charge_for_credit": 22171.2,
+        "amount_of_credit": 85455,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

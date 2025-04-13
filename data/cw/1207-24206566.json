@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:52:01.287Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nortreemotorcompany.co.uk/used-chevrolet-corvette-stingray-melksham-wiltshire-5990985",
+    "dealer_id": "1207",
+    "car_id": "24206566",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Chevrolet",
+        "model": "CORVETTE",
+        "variant": "STINGRAY COUPE",
+        "derivative": "6.2 V8 2LT",
+        "registration_number": "RK23BZN",
+        "registration_date": "29/06/2023",
+        "mileage": 560,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99985,
+        "total_price": 99985,
+        "deposit": 9998,
+        "balance": 89987,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1700.43,
+        "final_payment": 37155.43,
+        "total_amount_payable": 127073.64,
+        "total_charge_for_credit": 27088.64,
+        "amount_of_credit": 89987,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 35445,
+        "price_to_buy": 37155.43
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 99985,
+        "total_price": 99985,
+        "deposit": 9998,
+        "balance": 89987,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1929.47,
+        "final_payment": 1939.47,
+        "total_amount_payable": 125776.2,
+        "total_charge_for_credit": 25791.2,
+        "amount_of_credit": 89987,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

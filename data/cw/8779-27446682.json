@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:06:26.284Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jaglandempire.co.uk/details/used-car-in-halifax/landrover/rangeroversport/3.0-d350-mhev-autobiography-auto-4wd-euro-6-ss-5dr/1412581/",
+    "dealer_id": "8779",
+    "car_id": "27446682",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D350biography",
+        "registration_number": "LL73BPF",
+        "registration_date": "16/11/2023",
+        "mileage": 12699,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89500,
+        "total_price": 89500,
+        "deposit": 8950,
+        "balance": 80550,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1536.87,
+        "final_payment": 36763.63,
+        "total_amount_payable": 119483.39,
+        "total_charge_for_credit": 29983.39,
+        "amount_of_credit": 80550,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 36763.63,
+        "price_to_buy": 36763.63
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 89500,
+        "total_price": 89500,
+        "deposit": 8950,
+        "balance": 80550,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 2128.9,
+        "final_payment": 2128.9,
+        "total_amount_payable": 111137.2,
+        "total_charge_for_credit": 21637.2,
+        "amount_of_credit": 80550,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

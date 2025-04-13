@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:25:13.813Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dvpcars.co.uk/vehicle-details/used-tesla-model-y-performance-for-sale-in-croydon-u2481/",
+    "dealer_id": "8056",
+    "car_id": "27662620",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL Y",
+        "variant": "HATCHBACK",
+        "derivative": "Performance",
+        "registration_number": "LB72URU",
+        "registration_date": "28/12/2022",
+        "mileage": 9500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3599,
+        "balance": 32391,
+        "apr": 12.2,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 845.81,
+        "final_payment": 845.81,
+        "total_amount_payable": 44197.88,
+        "total_charge_for_credit": 8207.88,
+        "amount_of_credit": 32391,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3599,
+        "balance": 32391,
+        "apr": 12,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 557.97,
+        "final_payment": 17801.72,
+        "total_amount_payable": 47625.31,
+        "total_charge_for_credit": 11635.31,
+        "amount_of_credit": 32391,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 17233.75,
+        "price_to_buy": 17801.72
+      }
+    ]
+  }
+]

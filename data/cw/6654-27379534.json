@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:55:56.638Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autogroupltd.co.uk/details/used-car-in-wembley/ford/focus/1.0t-ecoboost-st-line-x-euro-6-ss-5dr/1406697/",
+    "dealer_id": "6654",
+    "car_id": "27379534",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 ST-Line X",
+        "registration_number": "EN19WKM",
+        "registration_date": "30/04/2019",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12248,
+        "total_price": 12248,
+        "deposit": 1224.8,
+        "balance": 11023.2,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 201.21,
+        "final_payment": 4236.07,
+        "total_amount_payable": 14917.74,
+        "total_charge_for_credit": 2669.74,
+        "amount_of_credit": 11023.2,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.22,
+        "residual": 4236.07,
+        "price_to_buy": 4236.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12248,
+        "total_price": 12248,
+        "deposit": 1224.8,
+        "balance": 11023.2,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 226.46,
+        "final_payment": 226.46,
+        "total_amount_payable": 14812.4,
+        "total_charge_for_credit": 2564.4,
+        "amount_of_credit": 11023.2,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

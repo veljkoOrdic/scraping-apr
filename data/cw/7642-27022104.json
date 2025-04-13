@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2025-04-11T20:35:53.909Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/skoda/used-cars/skoda-karoq-1-5-tsi-150ps-se-drive-auto-dsg-suv-lez-compliant-eu24atz",
+    "dealer_id": "7642",
+    "car_id": "27022104",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=qc644k6AtY68a51kSL",
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=qc644k6AtY68a51kSL",
+        "https://plugins.codeweavers.net/plugins/v1/platform/finance/flexicalc",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/css/plugin.css",
+        "https://plugins.codeweavers.net/vendor/angular-i18n/1.6.0/angular-locale_en-gb.min.js",
+        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/js/plugin.js",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=qc644k6AtY68a51kSL&cw_psid=5349a690-0a1b-4d6f-acd4-7181908247ba",
+        "https://plugins.codeweavers.net/apps/flexicalc/js/vendor.js?v=2",
+        "https://services.codeweavers.net/public/v1/Dealer/Modules?ApiKey=qc644k6AtY68a51kSL&AssociatedDealerKey=Henrys+(Glasgow)+Ltd+-+Skoda+(North)&Referrer=https:%2F%2Fwww.henrys-cars.com%2Fskoda%2Fused-cars%2Fskoda-karoq-1-5-tsi-150ps-se-drive-auto-dsg-suv-lez-compliant-eu24atz&SystemKey=Codeweavers",
+        "https://services.codeweavers.net/public/v1/Dealer/VideoStyle?ApiKey=qc644k6AtY68a51kSL&AssociatedDealerKey=Henrys+(Glasgow)+Ltd+-+Skoda+(North)&Referrer=https:%2F%2Fwww.henrys-cars.com%2Fskoda%2Fused-cars%2Fskoda-karoq-1-5-tsi-150ps-se-drive-auto-dsg-suv-lez-compliant-eu24atz&SystemKey=Codeweavers",
+        "https://services.codeweavers.net/api/finance/defaults",
+        "https://services.codeweavers.net/public/v3/JsonFinance/Calculate",
+        "https://services.codeweavers.net/api/finance/quote/82ad501a-4802-49f8-a879-f57183b263bc/termsandconditions",
+        "https://services.codeweavers.net/api/finance/quote/eb986108-2eb9-44ca-bbe0-90fd11182f74/termsandconditions"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-11T20:35:53.926Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/skoda/used-cars/skoda-karoq-1-5-tsi-150ps-se-drive-auto-dsg-suv-lez-compliant-eu24atz",
+    "dealer_id": "7642",
+    "car_id": "27022104",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI SE Drive DSG",
+        "registration_number": "EU24ATZ",
+        "registration_date": "27/03/2024",
+        "mileage": 5416,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23495,
+        "total_price": 23495,
+        "deposit": 2599.5,
+        "balance": 20895.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 48,
+        "regular_payment": 342.46,
+        "final_payment": 12002.5,
+        "total_amount_payable": 30697.62,
+        "total_charge_for_credit": 7202.62,
+        "amount_of_credit": 20895.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6,
+        "residual": 11992.5,
+        "price_to_buy": 12002.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23495,
+        "total_price": 23495,
+        "deposit": 2599.5,
+        "balance": 20895.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.26,
+        "term": 48,
+        "regular_payment": 537.19,
+        "final_payment": 547.19,
+        "total_amount_payable": 28394.62,
+        "total_charge_for_credit": 4899.62,
+        "amount_of_credit": 20895.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

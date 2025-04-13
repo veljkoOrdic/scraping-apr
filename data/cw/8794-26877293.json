@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:17:56.589Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tyrala.co.uk/cars/honda/civic/2.0-vtec-turbo-type-r-gt/1172152/",
+    "dealer_id": "8794",
+    "car_id": "26877293",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CIVIC",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 VTEC Turbo Type R GT",
+        "registration_number": "SO18KBU",
+        "registration_date": "20/08/2018",
+        "mileage": 42389,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 461.77,
+        "final_payment": 461.77,
+        "total_amount_payable": 30105.7,
+        "total_charge_for_credit": 6110.7,
+        "amount_of_credit": 21595.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

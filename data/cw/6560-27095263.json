@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:04:22.129Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvgautomotive.co.uk/details/used-car-in-oldham/bmw/x5/4.4i-v8-competition-auto-xdrive-euro-6-ss-5dr/1383359/",
+    "dealer_id": "6560",
+    "car_id": "27095263",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M Competition",
+        "registration_number": "DF21TDU",
+        "registration_date": "03/03/2021",
+        "mileage": 27700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61994,
+        "total_price": 61994,
+        "deposit": 6199.4,
+        "balance": 55794.6,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 942.57,
+        "final_payment": 28842,
+        "total_amount_payable": 80284.76,
+        "total_charge_for_credit": 18290.76,
+        "amount_of_credit": 55794.6,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 28842,
+        "price_to_buy": 28842
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61994,
+        "total_price": 61994,
+        "deposit": 6199.4,
+        "balance": 55794.6,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1425.58,
+        "final_payment": 1425.58,
+        "total_amount_payable": 74627.24,
+        "total_charge_for_credit": 12633.24,
+        "amount_of_credit": 55794.6,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

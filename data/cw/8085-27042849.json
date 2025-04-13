@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:43:16.175Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.crmorrow.com/used/hyundai/santa-fe/16-tgdi-hybrid-premium-5dr-4wd-auto/newry/county-down/21539595",
+    "dealer_id": "8085",
+    "car_id": "27042849",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "SANTA FE",
+        "variant": "ESTATE",
+        "derivative": "1.6 TGDi Hybrid Premium",
+        "registration_number": "FSZ7272",
+        "registration_date": "06/01/2022",
+        "mileage": 16185,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 512.95,
+        "final_payment": 13298,
+        "total_amount_payable": 40505.65,
+        "total_charge_for_credit": 9515.65,
+        "amount_of_credit": 27891,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 13298,
+        "price_to_buy": 13298
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 724.88,
+        "final_payment": 724.88,
+        "total_amount_payable": 37893.24,
+        "total_charge_for_credit": 6903.24,
+        "amount_of_credit": 27891,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

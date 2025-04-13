@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:51:04.986Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scottishcommercials.com/vehicle-details/used-citroen-relay-35-l3h2-enterprise-bluehdi-for-sale-in-west-lothian-u27819/",
+    "dealer_id": "7031",
+    "car_id": "26733708",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "RELAY",
+        "variant": "35 L3 DIESEL",
+        "derivative": "2.0 BlueHDi H2 Van 130ps Enterprise",
+        "registration_number": "LA18UBD",
+        "registration_date": "30/06/2018",
+        "mileage": 92855,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 18.8,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 208.73,
+        "final_payment": 218.73,
+        "total_amount_payable": 10828.54,
+        "total_charge_for_credit": 2833.54,
+        "amount_of_credit": 7195.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 18.8,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 209.01,
+        "final_payment": 209.01,
+        "total_amount_payable": 10831.98,
+        "total_charge_for_credit": 2836.98,
+        "amount_of_credit": 7195.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

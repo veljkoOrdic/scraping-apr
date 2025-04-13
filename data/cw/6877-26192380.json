@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:56:11.209Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.essexcarfleet.co.uk/cars/nissan/qashqai/1.3-dig-t-acenta-premium/1309112/",
+    "dealer_id": "6877",
+    "car_id": "26192380",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 DiG-T Acenta Premium",
+        "registration_number": "BC19UEM",
+        "registration_date": "31/07/2019",
+        "mileage": 44705,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11295,
+        "total_price": 11295,
+        "deposit": 1129.5,
+        "balance": 10165.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 186.52,
+        "final_payment": 4520.92,
+        "total_amount_payable": 14416.86,
+        "total_charge_for_credit": 3121.86,
+        "amount_of_credit": 10165.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.05,
+        "residual": 4520.92,
+        "price_to_buy": 4520.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11295,
+        "total_price": 11295,
+        "deposit": 1129.5,
+        "balance": 10165.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 268.62,
+        "final_payment": 269.62,
+        "total_amount_payable": 14024.26,
+        "total_charge_for_credit": 2729.26,
+        "amount_of_credit": 10165.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

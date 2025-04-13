@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:01:49.087Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoprestigecars.co.uk/used/bmw/m5/m5-4dr-dct-competition-pack-huge-spec-rare-sunroof-model/bradford/west-yorkshire/21522940",
+    "dealer_id": "7328",
+    "car_id": "26810879",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M5",
+        "variant": "SALOON",
+        "derivative": "M5 DCT [Competition Pack]",
+        "registration_number": "SV19KWC",
+        "registration_date": "28/03/2019",
+        "mileage": 49500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43990,
+        "total_price": 43990,
+        "deposit": 4399,
+        "balance": 39591,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 47,
+        "regular_payment": 722.43,
+        "final_payment": 17103.98,
+        "total_amount_payable": 54734.76,
+        "total_charge_for_credit": 10744.76,
+        "amount_of_credit": 39591,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 11.79,
+        "residual": 17103.98,
+        "price_to_buy": 17103.98
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43990,
+        "total_price": 43990,
+        "deposit": 4399,
+        "balance": 39591,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 831.08,
+        "final_payment": 832.08,
+        "total_amount_payable": 54264.8,
+        "total_charge_for_credit": 10274.8,
+        "amount_of_credit": 39591,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

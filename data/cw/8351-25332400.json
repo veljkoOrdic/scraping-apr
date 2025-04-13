@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:38:27.412Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlesexandsurreycommercials.co.uk/vehicle/mercedes-sprinter-21-314-cdi-premium-fwd-l2-h1-euro-6-ss-5dr-in-chertsey-surrey-5ec57e2f-2991-4344-bea4-b1cf0170f2ef",
+    "dealer_id": "8351",
+    "car_id": "25332400",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SPRINTER",
+        "variant": "314CDI L1 DIESEL FWD",
+        "derivative": "3.5t H1 Premium Van",
+        "registration_number": "KR21HZD",
+        "registration_date": "27/04/2021",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23988,
+        "total_price": 23988,
+        "deposit": 3998,
+        "balance": 19990,
+        "apr": 14.1,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 457.43,
+        "final_payment": 467.43,
+        "total_amount_payable": 31453.8,
+        "total_charge_for_credit": 7465.8,
+        "amount_of_credit": 19990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23988,
+        "total_price": 23988,
+        "deposit": 3998,
+        "balance": 19990,
+        "apr": 14.1,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 457.65,
+        "final_payment": 457.65,
+        "total_amount_payable": 31457,
+        "total_charge_for_credit": 7469,
+        "amount_of_credit": 19990,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

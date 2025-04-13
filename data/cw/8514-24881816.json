@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:09:43.248Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.evmsportsandprestige.co.uk/vehicle/bmw-m5-50-v10-smg-euro-4-4dr-in-rochdale-lancashire-c47e0f69-643d-4f80-afd9-b1a4002be61c",
+    "dealer_id": "8514",
+    "car_id": "24881816",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M5",
+        "variant": "SALOON",
+        "derivative": "M5 SMG",
+        "registration_number": "LJ56FFS",
+        "registration_date": "25/10/2006",
+        "mileage": 77000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22497,
+        "total_price": 22497,
+        "deposit": 2249.7,
+        "balance": 20247.3,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 535.03,
+        "final_payment": 545.03,
+        "total_amount_payable": 27941.14,
+        "total_charge_for_credit": 5444.14,
+        "amount_of_credit": 20247.3,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22497,
+        "total_price": 22497,
+        "deposit": 2249.7,
+        "balance": 20247.3,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 535.03,
+        "final_payment": 545.03,
+        "total_amount_payable": 27941.14,
+        "total_charge_for_credit": 5444.14,
+        "amount_of_credit": 20247.3,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

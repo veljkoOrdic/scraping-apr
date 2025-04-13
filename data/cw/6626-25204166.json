@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T21:45:53.847Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mikeincecarsales.com/used-fiat-500-leigh-lancashire-6230912",
+    "dealer_id": "6626",
+    "car_id": "25204166",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 S",
+        "registration_number": "EK15RCU",
+        "registration_date": "30/03/2015",
+        "mileage": 43000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5295,
+        "total_price": 5295,
+        "deposit": 529,
+        "balance": 4766,
+        "apr": 20.7,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 123.64,
+        "final_payment": 123.64,
+        "total_amount_payable": 7947.4,
+        "total_charge_for_credit": 2652.4,
+        "amount_of_credit": 4766,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:13:10.353Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.harleytrent.com/details/used-car-in-poole/mercedes-benz/aclass/1.3-a250e-15.6kwh-amg-line-premium-2-8g-dct-euro-6-ss-5dr/1421149/",
+    "dealer_id": "7101",
+    "car_id": "27546370",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A250e AMG Line Premium",
+        "registration_number": "LS70YCP",
+        "registration_date": "30/09/2020",
+        "mileage": 30762,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20450,
+        "total_price": 20450,
+        "deposit": 2045,
+        "balance": 18405,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 338.43,
+        "final_payment": 7528,
+        "total_amount_payable": 25479.21,
+        "total_charge_for_credit": 5029.21,
+        "amount_of_credit": 18405,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.88,
+        "residual": 7518,
+        "price_to_buy": 7528
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20450,
+        "total_price": 20450,
+        "deposit": 2045,
+        "balance": 18405,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 462.17,
+        "final_payment": 463.17,
+        "total_amount_payable": 24230.16,
+        "total_charge_for_credit": 3780.16,
+        "amount_of_credit": 18405,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

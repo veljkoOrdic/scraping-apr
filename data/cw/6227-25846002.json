@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:07:46.884Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/land-rover/land-rover-defender-110-2-2-tdci-heritage-4wd-mwb-euro-5-5dr/",
+    "dealer_id": "6227",
+    "car_id": "25846002",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "110 LWB DIESEL SPECIAL EDITIONS",
+        "derivative": "Heritage Station Wagon TDCi [2.2]",
+        "registration_number": "VE65MWJ",
+        "registration_date": "18/12/2015",
+        "mileage": 7602,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 69975,
+        "total_price": 69975,
+        "deposit": 6997.5,
+        "balance": 62977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 933,
+        "final_payment": 38605.21,
+        "total_amount_payable": 89453.71,
+        "total_charge_for_credit": 19478.71,
+        "amount_of_credit": 62977.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69975,
+        "total_price": 69975,
+        "deposit": 6997.5,
+        "balance": 62977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 56,
+        "regular_payment": 1395.92,
+        "final_payment": 1395.92,
+        "total_amount_payable": 85169.02,
+        "total_charge_for_credit": 15194.02,
+        "amount_of_credit": 62977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

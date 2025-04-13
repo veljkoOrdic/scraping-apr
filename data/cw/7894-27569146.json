@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:58:37.896Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.suffolkcarcentre.co.uk/used-skoda-kodiaq-suffolk-6823584",
+    "dealer_id": "7894",
+    "car_id": "27569146",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KODIAQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI SE L DSG [7 Seat]",
+        "registration_number": "AP70JMX",
+        "registration_date": "29/09/2020",
+        "mileage": 33063,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149,
+        "balance": 19346,
+        "apr": 15.2,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 385.35,
+        "final_payment": 9724.1,
+        "total_amount_payable": 29984.55,
+        "total_charge_for_credit": 8489.55,
+        "amount_of_credit": 19346,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9328.75,
+        "price_to_buy": 9724.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149,
+        "balance": 19346,
+        "apr": 15.1,
+        "rate_of_interest": 7.49,
+        "term": 60,
+        "regular_payment": 451.2,
+        "final_payment": 451.2,
+        "total_amount_payable": 29221,
+        "total_charge_for_credit": 7726,
+        "amount_of_credit": 19346,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

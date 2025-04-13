@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:34:45.470Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarwarehouse.com/used-car-details/used-mazda-cx-30-20-e-skyactiv-x-mhev-sport-lu-petrol/id-457208/",
+    "dealer_id": "8563",
+    "car_id": "24264045",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-30",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 e-Skyactiv X MHEV Sport Lux",
+        "registration_number": "CU23JXT",
+        "registration_date": "28/03/2023",
+        "mileage": 9285,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22350,
+        "total_price": 22350,
+        "deposit": 4470,
+        "balance": 17880,
+        "apr": 5.9,
+        "rate_of_interest": 4.52,
+        "term": 49,
+        "regular_payment": 232.69,
+        "final_payment": 10012.5,
+        "total_amount_payable": 25651.62,
+        "total_charge_for_credit": 3301.62,
+        "amount_of_credit": 17880,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 11,
+        "residual": 10012.5,
+        "price_to_buy": 10012.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22350,
+        "total_price": 22350,
+        "deposit": 4470,
+        "balance": 17880,
+        "apr": 5.9,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 343.56,
+        "final_payment": 343.56,
+        "total_amount_payable": 25083.6,
+        "total_charge_for_credit": 2733.6,
+        "amount_of_credit": 17880,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

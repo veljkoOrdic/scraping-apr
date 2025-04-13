@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:06:43.624Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carjoy.uk/used-ford-transit-custom-aberdeen-aberdeenshire-6041967",
+    "dealer_id": "8398",
+    "car_id": "24418932",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps Low Roof Active Van",
+        "registration_number": "RF21WKK",
+        "registration_date": "18/06/2021",
+        "mileage": 22003,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22794,
+        "total_price": 22794,
+        "deposit": 3799,
+        "balance": 18995,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 390.17,
+        "final_payment": 5089,
+        "total_amount_payable": 27616.16,
+        "total_charge_for_credit": 4822.16,
+        "amount_of_credit": 18995,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 5079,
+        "price_to_buy": 5089
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22794,
+        "total_price": 22794,
+        "deposit": 3799,
+        "balance": 18995,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 485.33,
+        "final_payment": 485.33,
+        "total_amount_payable": 27094.84,
+        "total_charge_for_credit": 4300.84,
+        "amount_of_credit": 18995,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

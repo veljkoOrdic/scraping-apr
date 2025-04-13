@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:09:55.670Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theprelovedcarcompany.com/details/used-car-in-manningtree/fiat/panda/1.0-mhev-panda-euro-6-ss-5dr/1354771/",
+    "dealer_id": "6475",
+    "car_id": "26774178",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "PANDA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Mild Hybrid",
+        "registration_number": "KX71HJN",
+        "registration_date": "14/12/2021",
+        "mileage": 14000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8600,
+        "total_price": 8600,
+        "deposit": 860,
+        "balance": 7740,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 163.19,
+        "final_payment": 2209.71,
+        "total_amount_payable": 10739.64,
+        "total_charge_for_credit": 2139.64,
+        "amount_of_credit": 7740,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 1.66,
+        "residual": 2209.71,
+        "price_to_buy": 2209.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8600,
+        "total_price": 8600,
+        "deposit": 860,
+        "balance": 7740,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 204.53,
+        "final_payment": 205.53,
+        "total_amount_payable": 10678.44,
+        "total_charge_for_credit": 2078.44,
+        "amount_of_credit": 7740,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

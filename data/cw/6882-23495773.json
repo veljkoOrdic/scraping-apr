@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:49.190Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motorworldltd.co.uk/cars/landrover/rangeroversport/3.0-d300-mhev-hse-auto-4wd-euro-6-ss-5dr/1240936/",
+    "dealer_id": "6882",
+    "car_id": "23495773",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6 HSE [7 Seat]",
+        "registration_number": "BK21ZXW",
+        "registration_date": "31/03/2021",
+        "mileage": 38802,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35195,
+        "total_price": 35195,
+        "deposit": 3519.5,
+        "balance": 31675.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 587.84,
+        "final_payment": 10430.03,
+        "total_amount_payable": 48632.09,
+        "total_charge_for_credit": 13437.09,
+        "amount_of_credit": 31675.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.43,
+        "residual": 10429.03,
+        "price_to_buy": 10430.03
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35195,
+        "total_price": 35195,
+        "deposit": 3519.5,
+        "balance": 31675.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 707.71,
+        "final_payment": 708.71,
+        "total_amount_payable": 45983.1,
+        "total_charge_for_credit": 10788.1,
+        "amount_of_credit": 31675.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

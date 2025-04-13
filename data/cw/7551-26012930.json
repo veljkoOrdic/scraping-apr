@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:37:09.835Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-nissan-ariya-e-178kw-evolve-22kw-charger-pearl-white-automatic-electric/id-52192511742343/",
+    "dealer_id": "7551",
+    "car_id": "26012930",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "ARIYA",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "178kW Evolve 87kWh 22kWCh",
+        "registration_number": "YK74WDC",
+        "registration_date": "10/09/2024",
+        "mileage": 300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45990,
+        "total_price": 45990,
+        "deposit": 1250,
+        "balance": 44740,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 761.97,
+        "final_payment": 18147,
+        "total_amount_payable": 55971.56,
+        "total_charge_for_credit": 9981.56,
+        "amount_of_credit": 44740,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 18147,
+        "price_to_buy": 18147
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45990,
+        "total_price": 45990,
+        "deposit": 1000,
+        "balance": 44990,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 984.85,
+        "final_payment": 984.85,
+        "total_amount_payable": 60091,
+        "total_charge_for_credit": 14101,
+        "amount_of_credit": 44990,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

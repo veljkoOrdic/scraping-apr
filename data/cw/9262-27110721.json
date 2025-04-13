@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:10:18.089Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pffcars.co.uk/used-renault-trafic-merthyr-tydfil-south-wales-6709446",
+    "dealer_id": "9262",
+    "car_id": "27110721",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "TRAFIC",
+        "variant": "LWB DIESEL",
+        "derivative": "LL30 Blue dCi 130 Sport Van",
+        "registration_number": "HN23JHY",
+        "registration_date": "16/03/2023",
+        "mileage": 22800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21299,
+        "total_price": 21299,
+        "deposit": 2129,
+        "balance": 19170,
+        "apr": 12.4,
+        "rate_of_interest": 5.99,
+        "term": 48,
+        "regular_payment": 407.36,
+        "final_payment": 6197.36,
+        "total_amount_payable": 27472.28,
+        "total_charge_for_credit": 6173.28,
+        "amount_of_credit": 19170,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5780,
+        "price_to_buy": 6197.36
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21299,
+        "total_price": 21299,
+        "deposit": 2129,
+        "balance": 19170,
+        "apr": 12.3,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 422.55,
+        "final_payment": 432.55,
+        "total_amount_payable": 27492,
+        "total_charge_for_credit": 6193,
+        "amount_of_credit": 19170,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

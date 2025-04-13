@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:11:53.614Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.grandcarmarket.co.uk/details/car-in-reading/seat/arona/1.0-tsi-xperience-lux-dsg-euro-6-ss-5dr/1196391/",
+    "dealer_id": "6789",
+    "car_id": "24764392",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "ARONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 XPERIENCE Lux DSG",
+        "registration_number": "YD72ENR",
+        "registration_date": "30/09/2022",
+        "mileage": 20101,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12500,
+        "total_price": 12500,
+        "deposit": 1250,
+        "balance": 11250,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 183.95,
+        "final_payment": 5717.8,
+        "total_amount_payable": 17820.85,
+        "total_charge_for_credit": 5320.85,
+        "amount_of_credit": 11250,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.22,
+        "residual": 5716.8,
+        "price_to_buy": 5717.8
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12500,
+        "total_price": 12500,
+        "deposit": 1250,
+        "balance": 11250,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 251.35,
+        "final_payment": 252.35,
+        "total_amount_payable": 16332,
+        "total_charge_for_credit": 3832,
+        "amount_of_credit": 11250,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

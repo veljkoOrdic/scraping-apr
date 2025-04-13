@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:32:03.632Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.authenticautosmanchester.co.uk/details/used-car-in-manchester/mercedes-benz/aclass/1.3-a200-amg-line-executive-7g-dct-euro-6-ss-5dr/1429731/",
+    "dealer_id": "9079",
+    "car_id": "27649924",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A200 AMG Line Executive",
+        "registration_number": "LR20WRN",
+        "registration_date": "20/03/2020",
+        "mileage": 39000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18137,
+        "total_price": 18137,
+        "deposit": 10,
+        "balance": 18127,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 346.86,
+        "final_payment": 8211,
+        "total_amount_payable": 24870.28,
+        "total_charge_for_credit": 6733.28,
+        "amount_of_credit": 18127,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 8211,
+        "price_to_buy": 8211
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18137,
+        "total_price": 18137,
+        "deposit": 10,
+        "balance": 18127,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 405.01,
+        "final_payment": 405.01,
+        "total_amount_payable": 24310.6,
+        "total_charge_for_credit": 6173.6,
+        "amount_of_credit": 18127,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:13:26.456Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.harleytrent.com/details/used-car-in-poole/mercedes-benz/cla/1.3-cla200-amg-line-premium-plus-2-coupe-7g-dct-euro-6-ss-4dr/1389441/",
+    "dealer_id": "7101",
+    "car_id": "27169269",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "CLA",
+        "variant": "COUPE",
+        "derivative": "CLA 200 AMG Line Premium Plus Tip",
+        "registration_number": "BU21YLC",
+        "registration_date": "31/03/2021",
+        "mileage": 26537,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26895,
+        "total_price": 26895,
+        "deposit": 2689.5,
+        "balance": 24205.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 413.55,
+        "final_payment": 11701,
+        "total_amount_payable": 33827.35,
+        "total_charge_for_credit": 6932.35,
+        "amount_of_credit": 24205.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.59,
+        "residual": 11691,
+        "price_to_buy": 11701
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26895,
+        "total_price": 26895,
+        "deposit": 2689.5,
+        "balance": 24205.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 607.84,
+        "final_payment": 608.84,
+        "total_amount_payable": 31866.82,
+        "total_charge_for_credit": 4971.82,
+        "amount_of_credit": 24205.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

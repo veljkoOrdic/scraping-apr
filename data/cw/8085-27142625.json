@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:43:01.495Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.crmorrow.com/used/hyundai/tucson/16-tgdi-hybrid-230-premium-5dr-2wd-auto/newry/county-down/21545532",
+    "dealer_id": "8085",
+    "car_id": "27142625",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "TUCSON",
+        "variant": "ESTATE",
+        "derivative": "1.6 TGDi Hybrid 230 Premium 2WD",
+        "registration_number": "ET73JZX",
+        "registration_date": "28/02/2024",
+        "mileage": 8390,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26490,
+        "total_price": 26490,
+        "deposit": 2649,
+        "balance": 23841,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 430.95,
+        "final_payment": 11813,
+        "total_amount_payable": 34716.65,
+        "total_charge_for_credit": 8226.65,
+        "amount_of_credit": 23841,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 11813,
+        "price_to_buy": 11813
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26490,
+        "total_price": 26490,
+        "deposit": 2649,
+        "balance": 23841,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 619.62,
+        "final_payment": 619.62,
+        "total_amount_payable": 32390.76,
+        "total_charge_for_credit": 5900.76,
+        "amount_of_credit": 23841,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

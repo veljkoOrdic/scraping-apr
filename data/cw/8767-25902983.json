@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:52:25.779Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tgmcars.co.uk/used-mazda-mx-30-darlington-county-durham-6386092",
+    "dealer_id": "8767",
+    "car_id": "25902983",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "107kW GT Sport Tech 35.5kWh",
+        "registration_number": "ND71ZRT",
+        "registration_date": "18/01/2022",
+        "mileage": 7455,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13295,
+        "total_price": 13295,
+        "deposit": 1329,
+        "balance": 11966,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 60,
+        "regular_payment": 222.03,
+        "final_payment": 4379.18,
+        "total_amount_payable": 18807.95,
+        "total_charge_for_credit": 5512.95,
+        "amount_of_credit": 11966,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.38,
+        "residual": 4379.18,
+        "price_to_buy": 4379.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13295,
+        "total_price": 13295,
+        "deposit": 1329,
+        "balance": 11966,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 261.96,
+        "final_payment": 261.96,
+        "total_amount_payable": 17046.6,
+        "total_charge_for_credit": 3751.6,
+        "amount_of_credit": 11966,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

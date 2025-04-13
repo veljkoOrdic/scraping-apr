@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:56.102Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-5008-12-puretech-gt-eat-euro-6-s-suv-nera-black-automatic-petrol/id-202412067058728/",
+    "dealer_id": "7584",
+    "car_id": "26456104",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "5008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech GT EAT8",
+        "registration_number": "KS23NVX",
+        "registration_date": "28/04/2023",
+        "mileage": 28021,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 4999,
+        "balance": 19996,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 333.91,
+        "final_payment": 12083,
+        "total_amount_payable": 33109.68,
+        "total_charge_for_credit": 8114.68,
+        "amount_of_credit": 19996,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 12083,
+        "price_to_buy": 12083
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 4999,
+        "balance": 19996,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 446.77,
+        "final_payment": 446.77,
+        "total_amount_payable": 31805.2,
+        "total_charge_for_credit": 6810.2,
+        "amount_of_credit": 19996,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

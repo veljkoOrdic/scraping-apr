@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:36:23.972Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/skoda/used-cars/skoda-superb-2-0-tdi-150ps-se-technology-auto-dsg-estate-lez-compliant-yd24kpu",
+    "dealer_id": "7642",
+    "car_id": "26402644",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "SUPERB",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI CR SE Technology DSG",
+        "registration_number": "YD24KPU",
+        "registration_date": "26/03/2024",
+        "mileage": 6450,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26295,
+        "total_price": 26295,
+        "deposit": 2879.5,
+        "balance": 23415.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 48,
+        "regular_payment": 407.65,
+        "final_payment": 12047.5,
+        "total_amount_payable": 34086.55,
+        "total_charge_for_credit": 7791.55,
+        "amount_of_credit": 23415.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.98,
+        "residual": 12037.5,
+        "price_to_buy": 12047.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26295,
+        "total_price": 26295,
+        "deposit": 2879.5,
+        "balance": 23415.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.26,
+        "term": 48,
+        "regular_payment": 601.97,
+        "final_payment": 611.97,
+        "total_amount_payable": 31784.06,
+        "total_charge_for_credit": 5489.06,
+        "amount_of_credit": 23415.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

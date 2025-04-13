@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:52:57.257Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derehammotorcompany.co.uk/details/used-car-in-dereham/seat/leon/1.6-tdi-se-dynamic-st-euro-6-ss-5dr/1314903/",
+    "dealer_id": "7464",
+    "car_id": "26258201",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "LEON",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 TDI SE Dynamic [EZ]",
+        "registration_number": "AR19EYJ",
+        "registration_date": "28/06/2019",
+        "mileage": 127426,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5195,
+        "total_price": 5195,
+        "deposit": 519.5,
+        "balance": 4675.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 60,
+        "regular_payment": 102.24,
+        "final_payment": 112.24,
+        "total_amount_payable": 6663.9,
+        "total_charge_for_credit": 1468.9,
+        "amount_of_credit": 4675.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5195,
+        "total_price": 5195,
+        "deposit": 519.5,
+        "balance": 4675.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 60,
+        "regular_payment": 102.24,
+        "final_payment": 112.24,
+        "total_amount_payable": 6663.9,
+        "total_charge_for_credit": 1468.9,
+        "amount_of_credit": 4675.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

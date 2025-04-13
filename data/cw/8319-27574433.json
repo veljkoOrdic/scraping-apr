@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:19:07.048Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ivanhurst.co.uk/used-ford-ranger-wickford-essex-6758743",
+    "dealer_id": "8319",
+    "car_id": "27574433",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 213",
+        "registration_number": "SK20YFY",
+        "registration_date": "05/05/2020",
+        "mileage": 46731,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17450,
+        "total_price": 17450,
+        "deposit": 0,
+        "balance": 17450,
+        "apr": 15.4,
+        "rate_of_interest": 7.5,
+        "term": 48,
+        "regular_payment": 407.18,
+        "final_payment": 5134.68,
+        "total_amount_payable": 24272.14,
+        "total_charge_for_credit": 6822.14,
+        "amount_of_credit": 17450,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4717.5,
+        "price_to_buy": 5134.68
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17450,
+        "total_price": 17450,
+        "deposit": 0,
+        "balance": 17450,
+        "apr": 15.2,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 407.92,
+        "final_payment": 407.92,
+        "total_amount_payable": 24475.2,
+        "total_charge_for_credit": 7025.2,
+        "amount_of_credit": 17450,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

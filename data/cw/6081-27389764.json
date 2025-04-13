@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:08:13.222Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoselectcars.co.uk/used-bmw-1-series-chesterfield-derbyshire-6780701",
+    "dealer_id": "6081",
+    "car_id": "27389764",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "128ti",
+        "registration_number": "EK22LTT",
+        "registration_date": "01/04/2022",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp_evo",
+        "name": "PCP_EVO",
+        "finance_type": "PCP",
+        "cash_price": 24993,
+        "total_price": 24993,
+        "deposit": 1000,
+        "balance": 23993,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 422.34,
+        "final_payment": 10889,
+        "total_amount_payable": 31738.98,
+        "total_charge_for_credit": 6745.98,
+        "amount_of_credit": 23993,
+        "lender": "Evolution Funding",
+        "annual_mileage": 12000,
+        "contract_mileage": 48000,
+        "excess_mileage_rate": 18,
+        "residual": 10889,
+        "price_to_buy": 10889
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24993,
+        "total_price": 24993,
+        "deposit": 1000,
+        "balance": 23993,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 503.63,
+        "final_payment": 503.63,
+        "total_amount_payable": 31217.8,
+        "total_charge_for_credit": 6224.8,
+        "amount_of_credit": 23993,
+        "lender": "Black Horse",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

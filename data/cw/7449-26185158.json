@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:52:29.162Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mjmotorcompany.co.uk/used/cars/kia/sportage/1-6-sportage-gt-line-crdi-mhev-4x4-semi-auto-4wd-5dr-87",
+    "dealer_id": "7449",
+    "car_id": "26185158",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 CRDi 48V ISG GT-Line DCT [AWD]",
+        "registration_number": "EJ71HTE",
+        "registration_date": "19/01/2022",
+        "mileage": 22825,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20950,
+        "total_price": 20950,
+        "deposit": 2095,
+        "balance": 18855,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 363.08,
+        "final_payment": 5141.1,
+        "total_amount_payable": 28657.82,
+        "total_charge_for_credit": 7707.82,
+        "amount_of_credit": 18855,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.44,
+        "residual": 5141.1,
+        "price_to_buy": 5141.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20950,
+        "total_price": 20950,
+        "deposit": 2095,
+        "balance": 18855,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 421.28,
+        "final_payment": 421.28,
+        "total_amount_payable": 27371.8,
+        "total_charge_for_credit": 6421.8,
+        "amount_of_credit": 18855,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

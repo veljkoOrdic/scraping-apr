@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:25:09.745Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilsonsofrathkenny.co.uk/used-cars/2020-mercedes-benz-c-class-c220d-amg-line-edition-5dr-9g-tronic/45307",
+    "dealer_id": "6510",
+    "car_id": "21791375",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL ESTATE",
+        "derivative": "C220d AMG Line Edition 9G-Tronic",
+        "registration_number": "ko69hrf",
+        "registration_date": "21/01/2020",
+        "mileage": 46624,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21225,
+        "total_price": 21225,
+        "deposit": 3183.75,
+        "balance": 18041.25,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 344.8,
+        "final_payment": 8460.87,
+        "total_amount_payable": 27850.22,
+        "total_charge_for_credit": 6625.22,
+        "amount_of_credit": 18041.25,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.12,
+        "residual": 8459.87,
+        "price_to_buy": 8460.87
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21225,
+        "total_price": 21225,
+        "deposit": 3183.75,
+        "balance": 18041.25,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 476.66,
+        "final_payment": 486.66,
+        "total_amount_payable": 26073.43,
+        "total_charge_for_credit": 4848.43,
+        "amount_of_credit": 18041.25,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

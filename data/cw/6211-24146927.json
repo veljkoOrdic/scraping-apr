@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:51:38.514Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walkersmotorgroup.co.uk/used-cars/toyota/yaris/15-vvt-h-launch-edition-e-cvt-euro-6-ss-5dr/fn70khk",
+    "dealer_id": "6211",
+    "car_id": "24146927",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "YARIS",
+        "variant": "HATCHBACK SPECIAL EDITIONS",
+        "derivative": "1.5 Hybrid Launch Edition CVT",
+        "registration_number": "FN70KHK",
+        "registration_date": "26/11/2020",
+        "mileage": 10023,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16450,
+        "total_price": 16450,
+        "deposit": 2467.5,
+        "balance": 13982.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 249.77,
+        "final_payment": 6613.54,
+        "total_amount_payable": 20820.23,
+        "total_charge_for_credit": 4370.23,
+        "amount_of_credit": 13982.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 3.62,
+        "residual": 6613.54,
+        "price_to_buy": 6613.54
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16450,
+        "total_price": 16450,
+        "deposit": 2467.5,
+        "balance": 13982.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 357.14,
+        "final_payment": 367.14,
+        "total_amount_payable": 19620.22,
+        "total_charge_for_credit": 3170.22,
+        "amount_of_credit": 13982.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

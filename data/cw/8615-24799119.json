@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:25:23.893Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/land-rover-discovery-30-d300-mhev-r-dynamic-se-suv-5dr-diesel-auto-4wd-euro-6-ss-300-ps-in-kings-lynn-norfolk-b0dab0ff-d652-4716-9b94-1eb8ac2ad680",
+    "dealer_id": "8615",
+    "car_id": "24799119",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 D300 R-Dynamic SE",
+        "registration_number": "AG21CPK",
+        "registration_date": "25/04/2021",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47895,
+        "total_price": 47895,
+        "deposit": 4789.5,
+        "balance": 43105.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 943.6,
+        "final_payment": 943.6,
+        "total_amount_payable": 61405.5,
+        "total_charge_for_credit": 13510.5,
+        "amount_of_credit": 43105.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47895,
+        "total_price": 47895,
+        "deposit": 4789.5,
+        "balance": 43105.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 757.6,
+        "final_payment": 15665.12,
+        "total_amount_payable": 65153.02,
+        "total_charge_for_credit": 17258.02,
+        "amount_of_credit": 43105.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.52,
+        "residual": 15665.12,
+        "price_to_buy": 15665.12
+      }
+    ]
+  }
+]

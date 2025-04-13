@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:07:18.937Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jaglandempire.co.uk/details/used-car-in-halifax/lamborghini/urus/4.0-v8-biturbo-s-auto-4wd-euro-6-5dr/1404508/",
+    "dealer_id": "8779",
+    "car_id": "27351340",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "EJ23FHR",
+        "registration_date": "01/06/2023",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 249990,
+        "total_price": 249990,
+        "deposit": 24999,
+        "balance": 224991,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 4490.89,
+        "final_payment": 90384.75,
+        "total_amount_payable": 330946.47,
+        "total_charge_for_credit": 80956.47,
+        "amount_of_credit": 224991,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 90384.75,
+        "price_to_buy": 90384.75
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 249990,
+        "total_price": 249990,
+        "deposit": 49990,
+        "balance": 200000,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 5285.91,
+        "final_payment": 5285.91,
+        "total_amount_payable": 303713.68,
+        "total_charge_for_credit": 53723.68,
+        "amount_of_credit": 200000,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

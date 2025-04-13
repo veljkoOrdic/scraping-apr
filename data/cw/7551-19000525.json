@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:35:33.994Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-nissan-leaf-hatchback-110kw-acenta-39kwh-5dr-auto-hatchback-pearl-black-automatic-electric/id-521925472122322/",
+    "dealer_id": "7551",
+    "car_id": "19000525",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "110kW Acenta 39kWh",
+        "registration_number": "YD72LWV",
+        "registration_date": "28/10/2022",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 1250,
+        "balance": 11240,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 219.23,
+        "final_payment": 4439,
+        "total_amount_payable": 16212.04,
+        "total_charge_for_credit": 3722.04,
+        "amount_of_credit": 11240,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 4439,
+        "price_to_buy": 4439
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 1000,
+        "balance": 11490,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 251.52,
+        "final_payment": 251.52,
+        "total_amount_payable": 16091.2,
+        "total_charge_for_credit": 3601.2,
+        "amount_of_credit": 11490,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

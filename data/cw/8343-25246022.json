@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:34:08.162Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gkmotorsltd.co.uk/used-ford-ranger-mansfield-woodhouse-nottinghamshire-6239429",
+    "dealer_id": "8343",
+    "car_id": "25246022",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 213",
+        "registration_number": "YP71DZH",
+        "registration_date": "12/10/2021",
+        "mileage": 89992,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25119.6,
+        "total_price": 25119.6,
+        "deposit": 4186.6,
+        "balance": 20933,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 459.16,
+        "final_payment": 5169,
+        "total_amount_payable": 31395.28,
+        "total_charge_for_credit": 6275.68,
+        "amount_of_credit": 20933,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 18,
+        "residual": 5169,
+        "price_to_buy": 5169
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25119.6,
+        "total_price": 25119.6,
+        "deposit": 4186.6,
+        "balance": 20933,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 458.23,
+        "final_payment": 458.23,
+        "total_amount_payable": 31680.4,
+        "total_charge_for_credit": 6560.8,
+        "amount_of_credit": 20933,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

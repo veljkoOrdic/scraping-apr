@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:08:14.642Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.roundstonecarsales.co.uk/used/cars/mg/zs/exclusive-vti-tech-983",
+    "dealer_id": "8608",
+    "car_id": "23954368",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "ZS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 VTi-TECH Exclusive",
+        "registration_number": "LX70NEU",
+        "registration_date": "27/11/2020",
+        "mileage": 18180,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14999,
+        "total_price": 14999,
+        "deposit": 1499.9,
+        "balance": 13499.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 273.33,
+        "final_payment": 5403.2,
+        "total_amount_payable": 19749.61,
+        "total_charge_for_credit": 4750.61,
+        "amount_of_credit": 13499.1,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.55,
+        "residual": 5403.2,
+        "price_to_buy": 5403.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14999,
+        "total_price": 14999,
+        "deposit": 1499.9,
+        "balance": 13499.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 356.78,
+        "final_payment": 356.78,
+        "total_amount_payable": 18625.34,
+        "total_charge_for_credit": 3626.34,
+        "amount_of_credit": 13499.1,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

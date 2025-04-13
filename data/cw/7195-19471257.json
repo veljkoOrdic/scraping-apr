@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:38:54.488Z",
+    "source": "codeweavers_calculator",
+    "url": "https://roadsidemotors.com/mazda/used/mazda_3_2_0_se_l_lux_mhev",
+    "dealer_id": "7195",
+    "car_id": "19471257",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "3",
+        "variant": "MAZDA HATCHBACK",
+        "derivative": "2.0 e-Skyactiv G MHEV SE-L Lux",
+        "registration_number": "SRZ7919",
+        "registration_date": "01/01/2021",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_mazda_hp",
+        "name": "MAZDA_HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13450,
+        "total_price": 13450,
+        "deposit": 0,
+        "balance": 13450,
+        "apr": 5.9,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 258.44,
+        "final_payment": 258.44,
+        "total_amount_payable": 15506.4,
+        "total_charge_for_credit": 2056.4,
+        "amount_of_credit": 13450,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_mazda_pcp",
+        "name": "MAZDA_PCP",
+        "finance_type": "PCP",
+        "cash_price": 13450,
+        "total_price": 13450,
+        "deposit": 0,
+        "balance": 13450,
+        "apr": 9.9,
+        "rate_of_interest": 6.88,
+        "term": 49,
+        "regular_payment": 241.69,
+        "final_payment": 5625,
+        "total_amount_payable": 17226.12,
+        "total_charge_for_credit": 3776.12,
+        "amount_of_credit": 13450,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 11,
+        "residual": 5625,
+        "price_to_buy": 5625
+      }
+    ]
+  }
+]

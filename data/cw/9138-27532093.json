@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:41:20.455Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.standlakemotorcompany.co.uk/cars/volkswagen/passat/2.0-tdi-evo-r-line/1419873/",
+    "dealer_id": "9138",
+    "car_id": "27532093",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "PASSAT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI EVO SCR R-Line DSG",
+        "registration_number": "GL21DXG",
+        "registration_date": "26/04/2021",
+        "mileage": 65000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17650,
+        "total_price": 17650,
+        "deposit": 1765,
+        "balance": 15885,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 317.44,
+        "final_payment": 6611.97,
+        "total_amount_payable": 23296.65,
+        "total_charge_for_credit": 5646.65,
+        "amount_of_credit": 15885,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.16,
+        "residual": 6610.97,
+        "price_to_buy": 6611.97
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17650,
+        "total_price": 17650,
+        "deposit": 1765,
+        "balance": 15885,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 354.9,
+        "final_payment": 354.9,
+        "total_amount_payable": 23059,
+        "total_charge_for_credit": 5409,
+        "amount_of_credit": 15885,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

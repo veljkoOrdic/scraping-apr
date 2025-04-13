@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:00:51.329Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.normandygarage.co.uk/used-cars/ssangyong/korando/16-ultimate/gx71uyz",
+    "dealer_id": "7480",
+    "car_id": "26850601",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ssangyong",
+        "model": "KORANDO",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.6 D Ultimate",
+        "registration_number": "GX71UYZ",
+        "registration_date": "29/10/2021",
+        "mileage": 27309,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 3399,
+        "balance": 13596,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 236.79,
+        "final_payment": 6788,
+        "total_amount_payable": 21316.13,
+        "total_charge_for_credit": 4321.13,
+        "amount_of_credit": 13596,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13,
+        "residual": 6788,
+        "price_to_buy": 6788
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 3399,
+        "balance": 13596,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 347.38,
+        "final_payment": 347.38,
+        "total_amount_payable": 20073.24,
+        "total_charge_for_credit": 3078.24,
+        "amount_of_credit": 13596,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

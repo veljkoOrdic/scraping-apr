@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:54:59.820Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.leighcars.co.uk/used-volvo-xc60-southend-on-sea-essex-6785480",
+    "dealer_id": "8387",
+    "car_id": "27408274",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC60",
+        "variant": "Inscription",
+        "derivative": "Pro B4",
+        "registration_number": "EK71LPE",
+        "registration_date": "20/10/2021",
+        "mileage": 11609,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36980,
+        "total_price": 36980,
+        "deposit": 3698,
+        "balance": 33282,
+        "apr": 10,
+        "rate_of_interest": 5,
+        "term": 60,
+        "regular_payment": 700.67,
+        "final_payment": 700.67,
+        "total_amount_payable": 45738.2,
+        "total_charge_for_credit": 8758.2,
+        "amount_of_credit": 33282,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36980,
+        "total_price": 36980,
+        "deposit": 3698,
+        "balance": 33282,
+        "apr": 10.1,
+        "rate_of_interest": 5,
+        "term": 48,
+        "regular_payment": 607.13,
+        "final_payment": 14110.88,
+        "total_amount_payable": 46343.99,
+        "total_charge_for_credit": 9363.99,
+        "amount_of_credit": 33282,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 13493.75,
+        "price_to_buy": 14110.88
+      }
+    ]
+  }
+]

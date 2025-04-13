@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:25:16.893Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/jaguar-e-pace-20-d150-chequered-flag-suv-5dr-diesel-auto-awd-euro-6-ss-150-ps-in-kings-lynn-norfolk-f09030df-07b0-48e9-bcae-8631f44b0722",
+    "dealer_id": "8615",
+    "car_id": "23986135",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "E-PACE",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "2.0d Chequered Flag Edition",
+        "registration_number": "S5AMM",
+        "registration_date": "03/07/2020",
+        "mileage": 17000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24895,
+        "total_price": 24895,
+        "deposit": 2489.5,
+        "balance": 22405.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 490.47,
+        "final_payment": 490.47,
+        "total_amount_payable": 31917.7,
+        "total_charge_for_credit": 7022.7,
+        "amount_of_credit": 22405.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24895,
+        "total_price": 24895,
+        "deposit": 2489.5,
+        "balance": 22405.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 392.07,
+        "final_payment": 8278.56,
+        "total_amount_payable": 33900.19,
+        "total_charge_for_credit": 9005.19,
+        "amount_of_credit": 22405.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.07,
+        "residual": 8278.56,
+        "price_to_buy": 8278.56
+      }
+    ]
+  }
+]

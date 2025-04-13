@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:26:30.073Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.invictusmotors.co.uk/details/used-car-in-bishop-stortford/porsche/718/2.0t-t-euro-6-ss-2dr/1265246/",
+    "dealer_id": "7942",
+    "car_id": "25655678",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "2.0 T",
+        "registration_number": "RX20ZGB",
+        "registration_date": "07/03/2020",
+        "mileage": 23113,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 58,
+        "regular_payment": 708.72,
+        "final_payment": 12890.05,
+        "total_amount_payable": 57686.59,
+        "total_charge_for_credit": 13691.59,
+        "amount_of_credit": 39595.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 48333,
+        "excess_mileage_rate": 8.08,
+        "residual": 12890.05,
+        "price_to_buy": 12890.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 9.4,
+        "rate_of_interest": 4.92,
+        "term": 60,
+        "regular_payment": 822.27,
+        "final_payment": 822.27,
+        "total_amount_payable": 53735.7,
+        "total_charge_for_credit": 9740.7,
+        "amount_of_credit": 39595.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:39:53.008Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.billingtonmotorgroup.co.uk/details/used-car-in-burnley/bmw/x5/3.0-40d-mht-m-sport-auto-xdrive-euro-6-ss-5dr/1327741/",
+    "dealer_id": "6177",
+    "car_id": "26414410",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive40d M Sport",
+        "registration_number": "BU72JWN",
+        "registration_date": "30/09/2022",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59950,
+        "total_price": 59950,
+        "deposit": 5995,
+        "balance": 53955,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 915.12,
+        "final_payment": 23893,
+        "total_amount_payable": 73813.76,
+        "total_charge_for_credit": 13863.76,
+        "amount_of_credit": 53955,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 23893,
+        "price_to_buy": 23893
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59950,
+        "total_price": 59950,
+        "deposit": 5995,
+        "balance": 53955,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1331.33,
+        "final_payment": 1331.33,
+        "total_amount_payable": 69898.84,
+        "total_charge_for_credit": 9948.84,
+        "amount_of_credit": 53955,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

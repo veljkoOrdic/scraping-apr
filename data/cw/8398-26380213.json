@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:06:58.696Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carjoy.uk/used-ford-edge-aberdeen-aberdeenshire-6522383",
+    "dealer_id": "8398",
+    "car_id": "26380213",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "EDGE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue 238 ST-Line",
+        "registration_number": "PO68OGF",
+        "registration_date": "20/12/2018",
+        "mileage": 34121,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249,
+        "balance": 20246,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 33,
+        "regular_payment": 453.5,
+        "final_payment": 10580,
+        "total_amount_payable": 27341,
+        "total_charge_for_credit": 4846,
+        "amount_of_credit": 20246,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 27500,
+        "excess_mileage_rate": 16,
+        "residual": 10570,
+        "price_to_buy": 10580
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249,
+        "balance": 20246,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 508.42,
+        "final_payment": 508.42,
+        "total_amount_payable": 26653.16,
+        "total_charge_for_credit": 4158.16,
+        "amount_of_credit": 20246,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

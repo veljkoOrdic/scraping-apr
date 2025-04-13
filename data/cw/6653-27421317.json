@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:51:34.870Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/mercedes-benz/eclass/3.0-e53-biturbo-mhev-eq-boost-amg-premium-plus-spds-tct-4matic+-euro-6-ss-4dr/1409994/",
+    "dealer_id": "6653",
+    "car_id": "27421317",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "E-Class AMG Saloon",
+        "derivative": "E53 AMG Prem Plus Sal Auto 4MATIC MY19 2018",
+        "registration_number": "NV19OVW",
+        "registration_date": "29/04/2019",
+        "mileage": 39390,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34425,
+        "total_price": 34425,
+        "deposit": 3442.5,
+        "balance": 30982.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 37,
+        "regular_payment": 623.98,
+        "final_payment": 15238,
+        "total_amount_payable": 40519.8,
+        "total_charge_for_credit": 6094.8,
+        "amount_of_credit": 30982.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 26,
+        "residual": 15228,
+        "price_to_buy": 15238
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34425,
+        "total_price": 34425,
+        "deposit": 3442.5,
+        "balance": 30982.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 764.24,
+        "final_payment": 774.24,
+        "total_amount_payable": 40136.02,
+        "total_charge_for_credit": 5711.02,
+        "amount_of_credit": 30982.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

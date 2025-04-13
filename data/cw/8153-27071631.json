@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T00:07:55.817Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jdmautomotive.co.uk/used/commercials/volkswagen/crafter/2-0-crafter-cr35-trendline-tdi-452",
+    "dealer_id": "8153",
+    "car_id": "27071631",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "CRAFTER",
+        "variant": "CR35 MWB DIESEL FWD",
+        "derivative": "2.0 TDI 140PS Trendline High Roof Van",
+        "registration_number": "SJ72TZZ",
+        "registration_date": "01/09/2022",
+        "mileage": 21298,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 583.02,
+        "final_payment": 593.02,
+        "total_amount_payable": 37890.7,
+        "total_charge_for_credit": 8895.7,
+        "amount_of_credit": 26095.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 583.02,
+        "final_payment": 593.02,
+        "total_amount_payable": 37890.7,
+        "total_charge_for_credit": 8895.7,
+        "amount_of_credit": 26095.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

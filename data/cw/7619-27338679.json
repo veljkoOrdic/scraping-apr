@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:11:10.005Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redlionmotors.co.uk/details/used-car-in-epping/morgan/plus4/2.0i-auto-euro-6-ss-2dr/1403152/",
+    "dealer_id": "7619",
+    "car_id": "27338679",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Morgan",
+        "model": "PLUS FOUR",
+        "variant": "TOURER",
+        "derivative": "2dr",
+        "registration_number": "LB73CPV",
+        "registration_date": "01/09/2023",
+        "mileage": 491,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68999,
+        "total_price": 68999,
+        "deposit": 6899.9,
+        "balance": 62099.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 49,
+        "regular_payment": 1170.97,
+        "final_payment": 20741,
+        "total_amount_payable": 83847.46,
+        "total_charge_for_credit": 14848.46,
+        "amount_of_credit": 62099.1,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 118,
+        "residual": 20731,
+        "price_to_buy": 20741
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68999,
+        "total_price": 68999,
+        "deposit": 6899.9,
+        "balance": 62099.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1275.73,
+        "final_payment": 1276.73,
+        "total_amount_payable": 83444.7,
+        "total_charge_for_credit": 14445.7,
+        "amount_of_credit": 62099.1,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

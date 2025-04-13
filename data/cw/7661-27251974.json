@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:42:53.155Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fratellicars.com/used/cars/mclaren/720s/v8-ssg-412",
+    "dealer_id": "7661",
+    "car_id": "27251974",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "720",
+        "variant": "S COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "D5BWB",
+        "registration_date": "22/11/2019",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 124995,
+        "total_price": 124995,
+        "deposit": 12499.5,
+        "balance": 112495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1961.1,
+        "final_payment": 52146.46,
+        "total_amount_payable": 156817.66,
+        "total_charge_for_credit": 31822.66,
+        "amount_of_credit": 112495.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 35.54,
+        "residual": 52146.46,
+        "price_to_buy": 52146.46
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 124995,
+        "total_price": 124995,
+        "deposit": 12499.5,
+        "balance": 112495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2824.85,
+        "final_payment": 2834.85,
+        "total_amount_payable": 148102.3,
+        "total_charge_for_credit": 23107.3,
+        "amount_of_credit": 112495.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

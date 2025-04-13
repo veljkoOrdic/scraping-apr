@@ -62,5 +62,69 @@
         "price_to_buy": 8370.41
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-12T12:22:02.782Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/bmw-i3-series-42-2kwh-s-auto-5dr-da71gyz-2",
+    "dealer_id": "5684",
+    "car_id": "25897932",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "i3",
+        "variant": "",
+        "derivative": "i3s 120Ah",
+        "registration_number": "DA71GYZ",
+        "registration_date": "30/11/2021",
+        "mileage": 21044,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15799,
+        "total_price": 15799,
+        "deposit": 2969.85,
+        "balance": 12829.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 333.41,
+        "final_payment": 334.41,
+        "total_amount_payable": 18974.53,
+        "total_charge_for_credit": 3175.53,
+        "amount_of_credit": 12829.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15799,
+        "total_price": 15799,
+        "deposit": 2969.85,
+        "balance": 12829.15,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 204.12,
+        "final_payment": 8005.13,
+        "total_amount_payable": 20568.62,
+        "total_charge_for_credit": 4769.62,
+        "amount_of_credit": 12829.15,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 5.61,
+        "residual": 8005.13,
+        "price_to_buy": 8005.13
+      }
+    ]
   }
 ]

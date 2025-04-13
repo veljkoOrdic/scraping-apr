@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:21:10.286Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.glasshoughtoncarsales.co.uk/used/mercedes-benz/c-class/c300de-amg-line-edition-premium-5dr-9g-tronic-full-service-history-1-owner-/castleford/west-yorkshire/21057125",
+    "dealer_id": "8320",
+    "car_id": "22122809",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL ESTATE",
+        "derivative": "C300de AMG Line Edition Premium 9G-Tronic",
+        "registration_number": "FY20OWV",
+        "registration_date": "20/07/2020",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25490,
+        "total_price": 25490,
+        "deposit": 2549,
+        "balance": 22941,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 417.84,
+        "final_payment": 7178.18,
+        "total_amount_payable": 34379.74,
+        "total_charge_for_credit": 8889.74,
+        "amount_of_credit": 22941,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.15,
+        "residual": 7177.18,
+        "price_to_buy": 7178.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25490,
+        "total_price": 25490,
+        "deposit": 2549,
+        "balance": 22941,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 491.84,
+        "final_payment": 492.84,
+        "total_amount_payable": 32060.4,
+        "total_charge_for_credit": 6570.4,
+        "amount_of_credit": 22941,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

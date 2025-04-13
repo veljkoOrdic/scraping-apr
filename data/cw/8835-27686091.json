@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:38:17.571Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-car-in-welwyn-garden-city/audi/e-tron/93.4kwh-auto-quattro-4dr/1432410/",
+    "dealer_id": "8835",
+    "car_id": "27686091",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "RS E-TRON GT",
+        "variant": "SALOON",
+        "derivative": "475kW Quattro 93kWh",
+        "registration_number": "NC22AWN",
+        "registration_date": "01/03/2022",
+        "mileage": 33292,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48900,
+        "total_price": 48900,
+        "deposit": 4890,
+        "balance": 44010,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 734.47,
+        "final_payment": 17094.56,
+        "total_amount_payable": 65318.29,
+        "total_charge_for_credit": 16418.29,
+        "amount_of_credit": 44010,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 15.13,
+        "residual": 17094.56,
+        "price_to_buy": 17094.56
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48900,
+        "total_price": 48900,
+        "deposit": 4890,
+        "balance": 44010,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 943.56,
+        "final_payment": 943.56,
+        "total_amount_payable": 61503.6,
+        "total_charge_for_credit": 12603.6,
+        "amount_of_credit": 44010,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

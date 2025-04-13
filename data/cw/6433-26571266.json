@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:50:25.806Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scsautos.co.uk/used-land-rover-discovery-watford-hertfordshire-6566376",
+    "dealer_id": "6433",
+    "car_id": "26571266",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "SW",
+        "derivative": "2.0 Si4 HSE Luxury",
+        "registration_number": "LL70NLC",
+        "registration_date": "28/11/2020",
+        "mileage": 12888,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40999,
+        "total_price": 40999,
+        "deposit": 4099,
+        "balance": 36900,
+        "apr": 12,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 683.66,
+        "final_payment": 17374.91,
+        "total_amount_payable": 53605.93,
+        "total_charge_for_credit": 12606.93,
+        "amount_of_credit": 36900,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 16681.25,
+        "price_to_buy": 17374.91
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 40999,
+        "total_price": 40999,
+        "deposit": 4099,
+        "balance": 36900,
+        "apr": 11.9,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 807.08,
+        "final_payment": 807.08,
+        "total_amount_payable": 52523.8,
+        "total_charge_for_credit": 11524.8,
+        "amount_of_credit": 36900,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

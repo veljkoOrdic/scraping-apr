@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:36:55.094Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-alfa-romeo-stelvio-20-280-tb-veloce-estate-vesuvio-grey-automatic-petrol/id-4936/",
+    "dealer_id": "7551",
+    "car_id": "24433096",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "STELVIO",
+        "variant": "ESTATE",
+        "derivative": "2.0 Turbo 280 Veloce Ti",
+        "registration_number": "NX72HDE",
+        "registration_date": "30/09/2022",
+        "mileage": 19500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 1000,
+        "balance": 31995,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 591.76,
+        "final_payment": 15064,
+        "total_amount_payable": 43876.72,
+        "total_charge_for_credit": 10881.72,
+        "amount_of_credit": 31995,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 26,
+        "residual": 15054,
+        "price_to_buy": 15064
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 1000,
+        "balance": 31995,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 700.16,
+        "final_payment": 710.16,
+        "total_amount_payable": 43019.6,
+        "total_charge_for_credit": 10024.6,
+        "amount_of_credit": 31995,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

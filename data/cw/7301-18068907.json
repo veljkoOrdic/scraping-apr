@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-11T17:36:06.609Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westend-garage.co.uk/used/cars/ford/focus/2-3-focus-rs-4wd-5dr-53",
+    "dealer_id": "7301",
+    "car_id": "18068907",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS RS",
+        "variant": "HATCHBACK",
+        "derivative": "2.3 EcoBoost",
+        "registration_number": "AJ67NUC",
+        "registration_date": "18/11/2017",
+        "mileage": 5600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34600,
+        "total_price": 34600,
+        "deposit": 3460,
+        "balance": 31140,
+        "apr": 10,
+        "rate_of_interest": 5.24,
+        "term": 60,
+        "regular_payment": 654.98,
+        "final_payment": 654.98,
+        "total_amount_payable": 42758.8,
+        "total_charge_for_credit": 8158.8,
+        "amount_of_credit": 31140,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

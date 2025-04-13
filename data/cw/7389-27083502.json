@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:07.905Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/audi/q8/4-0-rs-q8-carbon-black-tfsi-mhev-quattro-auto-4wd-5dr-831",
+    "dealer_id": "7389",
+    "car_id": "27083502",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q8",
+        "variant": "ESTATE",
+        "derivative": "RS Q8 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "DG20BPU",
+        "registration_date": "20/03/2020",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68950,
+        "total_price": 68950,
+        "deposit": 6895,
+        "balance": 62055,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 59,
+        "regular_payment": 990.12,
+        "final_payment": 25650.07,
+        "total_amount_payable": 89972.03,
+        "total_charge_for_credit": 21022.03,
+        "amount_of_credit": 62055,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 49166,
+        "excess_mileage_rate": 15.21,
+        "residual": 25650.07,
+        "price_to_buy": 25650.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68950,
+        "total_price": 68950,
+        "deposit": 6895,
+        "balance": 62055,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1302.64,
+        "final_payment": 1302.64,
+        "total_amount_payable": 85053.4,
+        "total_charge_for_credit": 16103.4,
+        "amount_of_credit": 62055,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

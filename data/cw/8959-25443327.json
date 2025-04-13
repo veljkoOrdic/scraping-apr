@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:04:39.634Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2024-bmw-520i-m-sport-saloon/",
+    "dealer_id": "8959",
+    "car_id": "25443327",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "",
+        "derivative": "520i M Sport Saloon",
+        "registration_number": "WK24HGE",
+        "registration_date": "01/01/2024",
+        "mileage": 6792,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37400,
+        "total_price": 37400,
+        "deposit": 4340,
+        "balance": 33060,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 888.31,
+        "final_payment": 889.31,
+        "total_amount_payable": 46979.88,
+        "total_charge_for_credit": 9579.88,
+        "amount_of_credit": 33060,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37400,
+        "total_price": 37400,
+        "deposit": 4340,
+        "balance": 33060,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 608.72,
+        "final_payment": 18122.13,
+        "total_amount_payable": 51071.97,
+        "total_charge_for_credit": 13671.97,
+        "amount_of_credit": 33060,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.49,
+        "residual": 18122.13,
+        "price_to_buy": 18122.13
+      }
+    ]
+  }
+]

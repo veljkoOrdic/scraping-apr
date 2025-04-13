@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:45:51.882Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ravenswoodperformance.com/used/cars/bmw/2-series/3-0-m2-competition-edition-auto-2dr-345",
+    "dealer_id": "7848",
+    "car_id": "27579881",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "",
+        "derivative": "M2 Competition",
+        "registration_number": "M2SFU",
+        "registration_date": "03/07/2020",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 602.45,
+        "final_payment": 13740.38,
+        "total_amount_payable": 53384.43,
+        "total_charge_for_credit": 12389.43,
+        "amount_of_credit": 36895.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.54,
+        "residual": 13739.38,
+        "price_to_buy": 13740.38
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 774.45,
+        "final_payment": 775.45,
+        "total_amount_payable": 50567.5,
+        "total_charge_for_credit": 9572.5,
+        "amount_of_credit": 36895.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

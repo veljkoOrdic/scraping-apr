@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:11:21.129Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rjtkauto.com/kia/used-cars/picanto/3/125-3-hatchback-5dr-petrol-manual-euro-6-83-bhp/26075",
+    "dealer_id": "6477",
+    "car_id": "27465010",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.25 3",
+        "registration_number": "AK68EUD",
+        "registration_date": "30/11/2018",
+        "mileage": 21454,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9140,
+        "total_price": 9140,
+        "deposit": 1828,
+        "balance": 7312,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 153.35,
+        "final_payment": 163.35,
+        "total_amount_payable": 11039,
+        "total_charge_for_credit": 1899,
+        "amount_of_credit": 7312,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9140,
+        "total_price": 9140,
+        "deposit": 1828,
+        "balance": 7312,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 31,
+        "regular_payment": 134.31,
+        "final_payment": 4769,
+        "total_amount_payable": 10626.3,
+        "total_charge_for_credit": 1486.3,
+        "amount_of_credit": 7312,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 20666,
+        "excess_mileage_rate": 7,
+        "residual": 4759,
+        "price_to_buy": 4769
+      }
+    ]
+  }
+]

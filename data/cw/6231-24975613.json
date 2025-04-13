@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:21:22.356Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/bmw-5-series-20-530e-12kwh-m-sport-steptronic-euro-6-ss-4dr",
+    "dealer_id": "6231",
+    "car_id": "24975613",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "",
+        "derivative": "530e M Sport Saloon",
+        "registration_number": "YF72FMP",
+        "registration_date": "21/11/2022",
+        "mileage": 18480,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29476,
+        "total_price": 29476,
+        "deposit": 1999,
+        "balance": 27477,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 464.36,
+        "final_payment": 13572.31,
+        "total_amount_payable": 37396.23,
+        "total_charge_for_credit": 7920.23,
+        "amount_of_credit": 27477,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.69,
+        "residual": 13572.31,
+        "price_to_buy": 13572.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29476,
+        "total_price": 29476,
+        "deposit": 1999,
+        "balance": 27477,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 690.01,
+        "final_payment": 690.01,
+        "total_amount_payable": 35119.48,
+        "total_charge_for_credit": 5643.48,
+        "amount_of_credit": 27477,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

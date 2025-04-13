@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:00:43.914Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-ford-escort-liskeard-cornwall-5948809",
+    "dealer_id": "8394",
+    "car_id": "24333165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "ESCORT",
+        "variant": "",
+        "derivative": "Mk1 Twin Cam Lotus",
+        "registration_number": "CIJ1835",
+        "registration_date": "02/01/1970",
+        "mileage": 42900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 57500,
+        "total_price": 57500,
+        "deposit": 5750,
+        "balance": 51750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 766.67,
+        "final_payment": 31722.75,
+        "total_amount_payable": 73506.24,
+        "total_charge_for_credit": 16006.24,
+        "amount_of_credit": 51750,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57500,
+        "total_price": 57500,
+        "deposit": 5750,
+        "balance": 51750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1086.27,
+        "final_payment": 1086.27,
+        "total_amount_payable": 70926.2,
+        "total_charge_for_credit": 13426.2,
+        "amount_of_credit": 51750,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

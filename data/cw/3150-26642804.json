@@ -57,5 +57,64 @@
         "residual": 0
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-11T23:53:47.475Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-vauxhall-corsa-reading-berkshire-6583621",
+    "dealer_id": "3150",
+    "car_id": "26642804",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Limited Edition",
+        "registration_number": "YP13XUO",
+        "registration_date": "31/07/2013",
+        "mileage": 89000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 2999,
+        "total_price": 2999,
+        "deposit": 299,
+        "balance": 2700,
+        "apr": 20.1,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 69.26,
+        "final_payment": 69.26,
+        "total_amount_payable": 4454.6,
+        "total_charge_for_credit": 1455.6,
+        "amount_of_credit": 2700,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2999,
+        "total_price": 2999,
+        "deposit": 299,
+        "balance": 2700,
+        "apr": 20,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 69.03,
+        "final_payment": 79.03,
+        "total_amount_payable": 4450.8,
+        "total_charge_for_credit": 1451.8,
+        "amount_of_credit": 2700,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

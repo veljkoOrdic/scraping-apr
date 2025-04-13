@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:41:06.964Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-ford-mustang-oldham-greater-manchester-6325436",
+    "dealer_id": "6862",
+    "car_id": "25595082",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "MUSTANG",
+        "variant": "FASTBACK SPECIAL EDITIONS",
+        "derivative": "5.0 V8 Mach 1",
+        "registration_number": "YS72HDY",
+        "registration_date": "04/01/2023",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48449,
+        "total_price": 48449,
+        "deposit": 4844,
+        "balance": 43605,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 686.74,
+        "final_payment": 25986.77,
+        "total_amount_payable": 63107.55,
+        "total_charge_for_credit": 14658.55,
+        "amount_of_credit": 43605,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.07,
+        "residual": 25986.77,
+        "price_to_buy": 25986.77
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 48449,
+        "total_price": 48449,
+        "deposit": 4844,
+        "balance": 43605,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 934.88,
+        "final_payment": 934.88,
+        "total_amount_payable": 60936.8,
+        "total_charge_for_credit": 12487.8,
+        "amount_of_credit": 43605,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

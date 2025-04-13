@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:14:47.412Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/rolls-royce/rolls-royce-dawn-6-6-v12-black-badge-auto-euro-6-2dr/",
+    "dealer_id": "6227",
+    "car_id": "25514747",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Rolls-Royce",
+        "model": "DAWN",
+        "variant": "CONVERTIBLE",
+        "derivative": "2dr",
+        "registration_number": "HN67ZZD",
+        "registration_date": "22/11/2017",
+        "mileage": 26305,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 189975,
+        "total_price": 189975,
+        "deposit": 18997.5,
+        "balance": 170977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2533,
+        "final_payment": 104809.21,
+        "total_amount_payable": 242857.71,
+        "total_charge_for_credit": 52882.71,
+        "amount_of_credit": 170977.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 189975,
+        "total_price": 189975,
+        "deposit": 18997.5,
+        "balance": 170977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 3588.95,
+        "final_payment": 3588.95,
+        "total_amount_payable": 234334.5,
+        "total_charge_for_credit": 44359.5,
+        "amount_of_credit": 170977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

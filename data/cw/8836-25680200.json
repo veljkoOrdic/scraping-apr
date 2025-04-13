@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:40:53.630Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bigbobcarsales.co.uk/details/used-car-in-hull/suzuki/splash/1.2-sz4-euro-5-5dr/1266563/",
+    "dealer_id": "8836",
+    "car_id": "25680200",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SPLASH",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 SZ4",
+        "registration_number": "CE13OVY",
+        "registration_date": "30/03/2013",
+        "mileage": 45307,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4299,
+        "total_price": 4299,
+        "deposit": 429.9,
+        "balance": 3869.1,
+        "apr": 18.6,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 96.46,
+        "final_payment": 106.46,
+        "total_amount_payable": 6227.5,
+        "total_charge_for_credit": 1928.5,
+        "amount_of_credit": 3869.1,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:39:03.084Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mbmperth.co.uk/vehicle/suzuki-vitara-sz-t-boosterjet-in-perth-perthshire-071639a1-c9e7-4879-a412-94391c951da7",
+    "dealer_id": "6047",
+    "car_id": "27239979",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "VITARA",
+        "variant": "ESTATE",
+        "derivative": "1.4 Boosterjet 48V Hybrid SZ-T",
+        "registration_number": "FJ21WHN",
+        "registration_date": "29/06/2021",
+        "mileage": 40302,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14777,
+        "total_price": 14777,
+        "deposit": 1477.7,
+        "balance": 13299.3,
+        "apr": 9.9,
+        "rate_of_interest": 6.81,
+        "term": 48,
+        "regular_payment": 245.63,
+        "final_payment": 5377.5,
+        "total_amount_payable": 18399.81,
+        "total_charge_for_credit": 3622.81,
+        "amount_of_credit": 13299.3,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5377.5,
+        "price_to_buy": 5377.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14777,
+        "total_price": 14777,
+        "deposit": 1477.7,
+        "balance": 13299.3,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 297.13,
+        "final_payment": 297.13,
+        "total_amount_payable": 19305.5,
+        "total_charge_for_credit": 4528.5,
+        "amount_of_credit": 13299.3,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

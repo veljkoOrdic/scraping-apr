@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:19:13.360Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carvaultuk.co.uk/details/used-car-in-welwyn-garden-city/jaguar/i-pace/400-90kwh-se-auto-4wd-5dr/1280775/",
+    "dealer_id": "7116",
+    "car_id": "25861953",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "I-PACE",
+        "variant": "ESTATE",
+        "derivative": "294kW EV400 SE 90kWh [11kW Charger]",
+        "registration_number": "GF21TLO",
+        "registration_date": "22/04/2021",
+        "mileage": 37203,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20994,
+        "total_price": 20994,
+        "deposit": 2099.4,
+        "balance": 18894.6,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 372.06,
+        "final_payment": 8202.06,
+        "total_amount_payable": 27788.28,
+        "total_charge_for_credit": 6794.28,
+        "amount_of_credit": 18894.6,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7820,
+        "price_to_buy": 8202.06
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20994,
+        "total_price": 20994,
+        "deposit": 2099.4,
+        "balance": 18894.6,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 499.29,
+        "final_payment": 509.29,
+        "total_amount_payable": 26075.32,
+        "total_charge_for_credit": 5081.32,
+        "amount_of_credit": 18894.6,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

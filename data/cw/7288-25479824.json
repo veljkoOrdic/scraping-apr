@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:27:11.844Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecartraders.co.uk/used/commercials/ford/ranger/2-0-ecoblue-wildtrak-auto-4wd-euro-6-s-s-4dr-402",
+    "dealer_id": "7288",
+    "car_id": "25479824",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 213",
+        "registration_number": "KR21UYL",
+        "registration_date": "27/04/2021",
+        "mileage": 80650,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17980,
+        "total_price": 17980,
+        "deposit": 1798,
+        "balance": 16182,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 352.3,
+        "final_payment": 5037,
+        "total_amount_payable": 23393.1,
+        "total_charge_for_credit": 5413.1,
+        "amount_of_credit": 16182,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 13,
+        "residual": 5027,
+        "price_to_buy": 5037
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17980,
+        "total_price": 17980,
+        "deposit": 1798,
+        "balance": 16182,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 361.43,
+        "final_payment": 371.43,
+        "total_amount_payable": 23493.8,
+        "total_charge_for_credit": 5513.8,
+        "amount_of_credit": 16182,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

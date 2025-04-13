@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:24:32.326Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bestwestautos.co.uk/used-tesla-model-3-london-middlesex-6780744",
+    "dealer_id": "8422",
+    "car_id": "27388851",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL 3",
+        "variant": "SALOON",
+        "derivative": "RWD",
+        "registration_number": "MW71KXU",
+        "registration_date": "31/12/2021",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749,
+        "balance": 15746,
+        "apr": 11.6,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 287.55,
+        "final_payment": 7437.55,
+        "total_amount_payable": 22701.4,
+        "total_charge_for_credit": 5206.4,
+        "amount_of_credit": 15746,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7140,
+        "price_to_buy": 7437.55
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749,
+        "balance": 15746,
+        "apr": 11.5,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 342.04,
+        "final_payment": 342.04,
+        "total_amount_payable": 22271.4,
+        "total_charge_for_credit": 4776.4,
+        "amount_of_credit": 15746,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

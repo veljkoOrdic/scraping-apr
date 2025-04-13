@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T18:11:17.844Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkcars.co.uk/cars/bmw/m5/4.4-m5-saloon/1338242/",
+    "dealer_id": "6270",
+    "car_id": "26546560",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M5",
+        "variant": "SALOON",
+        "derivative": "M5 DCT",
+        "registration_number": "KFZ7790",
+        "registration_date": "07/08/2012",
+        "mileage": 62000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 10,
+        "balance": 17485,
+        "apr": 14.1,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 471.14,
+        "final_payment": 471.14,
+        "total_amount_payable": 22624.72,
+        "total_charge_for_credit": 5129.72,
+        "amount_of_credit": 17485,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

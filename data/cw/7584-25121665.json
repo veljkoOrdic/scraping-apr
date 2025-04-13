@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:29.631Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-2008-12-puretech-allure-euro-6-s-suv-pearl-white-manual-petrol/id-202407302311100/",
+    "dealer_id": "7584",
+    "car_id": "25121665",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech 130 Allure",
+        "registration_number": "LM21XSD",
+        "registration_date": "10/05/2021",
+        "mileage": 21192,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 2999,
+        "balance": 11996,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 214.5,
+        "final_payment": 6368,
+        "total_amount_payable": 19663,
+        "total_charge_for_credit": 4668,
+        "amount_of_credit": 11996,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 6368,
+        "price_to_buy": 6368
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 2999,
+        "balance": 11996,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 268.03,
+        "final_payment": 268.03,
+        "total_amount_payable": 19080.8,
+        "total_charge_for_credit": 4085.8,
+        "amount_of_credit": 11996,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

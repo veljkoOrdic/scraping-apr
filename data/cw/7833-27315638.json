@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:35:15.787Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/volkswagen/t-roc/15-tsi-evo-r-line-5dr-dsg/york/north-yorkshire/21556194",
+    "dealer_id": "7833",
+    "car_id": "27315638",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "T-ROC",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 TSI EVO R-Line DSG",
+        "registration_number": "RE20PBO",
+        "registration_date": "30/06/2020",
+        "mileage": 31314,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 490.81,
+        "final_payment": 500.81,
+        "total_amount_payable": 25667.88,
+        "total_charge_for_credit": 4677.88,
+        "amount_of_credit": 18891,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 323.1,
+        "final_payment": 10222.5,
+        "total_amount_payable": 27830.3,
+        "total_charge_for_credit": 6840.3,
+        "amount_of_credit": 18891,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.27,
+        "residual": 10212.5,
+        "price_to_buy": 10222.5
+      }
+    ]
+  }
+]

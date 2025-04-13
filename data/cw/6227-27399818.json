@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:12:48.869Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/mercedes-benz/mercedes-benz-g-class-4-0-g63-v8-biturbo-amg-magno-edition-spds9gt-4matic-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "27399818",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "FL22RRU",
+        "registration_date": "22/04/2022",
+        "mileage": 30258,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 150000,
+        "total_price": 150000,
+        "deposit": 15000,
+        "balance": 135000,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 2286.54,
+        "final_payment": 66396,
+        "total_amount_payable": 188863.38,
+        "total_charge_for_credit": 38863.38,
+        "amount_of_credit": 135000,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 66386,
+        "price_to_buy": 66396
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 150000,
+        "total_price": 150000,
+        "deposit": 15000,
+        "balance": 135000,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 2833.75,
+        "final_payment": 2833.75,
+        "total_amount_payable": 185025,
+        "total_charge_for_credit": 35025,
+        "amount_of_credit": 135000,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

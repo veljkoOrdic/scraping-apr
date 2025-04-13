@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:26:06.715Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mastercarsbedfordshire.co.uk/vehicle/volkswagen-transporter-brand-new-conversion-in-sandy-bedfordshire-37152f18-a088-445a-8b81-df6dc9c253cc",
+    "dealer_id": "9045",
+    "car_id": "27117815",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T28 SWB DIESEL",
+        "derivative": "2.0 TDI 110 Highline Van",
+        "registration_number": "AP21DYD",
+        "registration_date": "31/03/2021",
+        "mileage": 30900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 906.53,
+        "final_payment": 916.53,
+        "total_amount_payable": 59101.3,
+        "total_charge_for_credit": 12106.3,
+        "amount_of_credit": 42295.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699.5,
+        "balance": 42295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 985.52,
+        "final_payment": 6626.77,
+        "total_amount_payable": 57645.71,
+        "total_charge_for_credit": 10650.71,
+        "amount_of_credit": 42295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5631.25,
+        "price_to_buy": 6626.77
+      }
+    ]
+  }
+]

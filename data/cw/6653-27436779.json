@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:54:24.314Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/porsche/911/4.0-991-gt3-rs-pdk-euro-6-2dr/943478/",
+    "dealer_id": "6653",
+    "car_id": "27436779",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[991] GT COUPE",
+        "derivative": "GT3 RS PDK",
+        "registration_number": "VN18NXC",
+        "registration_date": "01/06/2018",
+        "mileage": 9600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 189995,
+        "total_price": 189995,
+        "deposit": 29995,
+        "balance": 160000,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 26,
+        "regular_payment": 4887.74,
+        "final_payment": 63192,
+        "total_amount_payable": 210492.76,
+        "total_charge_for_credit": 20497.76,
+        "amount_of_credit": 160000,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 118,
+        "residual": 63182,
+        "price_to_buy": 63192
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 189995,
+        "total_price": 189995,
+        "deposit": 18999.5,
+        "balance": 170995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 4219.31,
+        "final_payment": 4229.31,
+        "total_amount_payable": 221536.38,
+        "total_charge_for_credit": 31541.38,
+        "amount_of_credit": 170995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

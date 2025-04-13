@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:38:09.399Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlesexandsurreycommercials.co.uk/vehicle/citroen-relay-20hdi-l3-low-level-dropside-with-ramp-in-chertsey-surrey-29906c44-fa24-4df2-93f5-b10e010b62fb",
+    "dealer_id": "8351",
+    "car_id": "23259857",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "RELAY",
+        "variant": "35 L2 DIESEL",
+        "derivative": "2.0 BlueHDi Chassis Cab 130ps",
+        "registration_number": "BD69EUY",
+        "registration_date": "16/01/2020",
+        "mileage": 36000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17988,
+        "total_price": 17988,
+        "deposit": 2998,
+        "balance": 14990,
+        "apr": 14.4,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 344.93,
+        "final_payment": 354.93,
+        "total_amount_payable": 23703.8,
+        "total_charge_for_credit": 5715.8,
+        "amount_of_credit": 14990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17988,
+        "total_price": 17988,
+        "deposit": 2998,
+        "balance": 14990,
+        "apr": 14.4,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 345.15,
+        "final_payment": 345.15,
+        "total_amount_payable": 23707,
+        "total_charge_for_credit": 5719,
+        "amount_of_credit": 14990,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

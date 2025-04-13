@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:06:12.161Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jaglandempire.co.uk/details/used-car-in-halifax/landrover/rangeroversport/5.0-p575-v8-svr-carbon-edition-auto-4wd-euro-6-ss-5dr/1276714/",
+    "dealer_id": "8779",
+    "car_id": "25810825",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 P575 S/C SVR Carbon Edition",
+        "registration_number": "GL21PHO",
+        "registration_date": "11/05/2021",
+        "mileage": 43000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 58800,
+        "total_price": 58800,
+        "deposit": 5880,
+        "balance": 52920,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 993.28,
+        "final_payment": 25172.97,
+        "total_amount_payable": 78730.41,
+        "total_charge_for_credit": 19930.41,
+        "amount_of_credit": 52920,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 25172.97,
+        "price_to_buy": 25172.97
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 58800,
+        "total_price": 58800,
+        "deposit": 5880,
+        "balance": 52920,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1398.65,
+        "final_payment": 1398.65,
+        "total_amount_payable": 73015.2,
+        "total_charge_for_credit": 14215.2,
+        "amount_of_credit": 52920,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

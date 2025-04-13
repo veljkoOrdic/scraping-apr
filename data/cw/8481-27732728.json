@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:53:01.545Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rogeryoung.co.uk/used-car-details/used-land-rover-range-rover-evoque-d200-dynamic-se-automatic-diesel/id-4487463545/",
+    "dealer_id": "8481",
+    "car_id": "27732728",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D200 Dynamic SE",
+        "registration_number": "WF24KTX",
+        "registration_date": "01/03/2024",
+        "mileage": 9388,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 23998,
+        "balance": 35997,
+        "apr": 8.9,
+        "rate_of_interest": 8.55,
+        "term": 48,
+        "regular_payment": 536.05,
+        "final_payment": 20609,
+        "total_amount_payable": 69801.35,
+        "total_charge_for_credit": 9806.35,
+        "amount_of_credit": 35997,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 16.8,
+        "residual": 20599,
+        "price_to_buy": 20609
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 23998,
+        "balance": 35997,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 888.22,
+        "final_payment": 888.22,
+        "total_amount_payable": 66632.56,
+        "total_charge_for_credit": 6637.56,
+        "amount_of_credit": 35997,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

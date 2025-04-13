@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:44:29.444Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chriswroads.co.uk/used-volkswagen-tiguan-ripley-derbyshire-6391779",
+    "dealer_id": "6186",
+    "car_id": "25884522",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSi EVO 150 Match",
+        "registration_number": "CF20ERU",
+        "registration_date": "20/07/2020",
+        "mileage": 47499,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15250,
+        "total_price": 15250,
+        "deposit": 1525,
+        "balance": 13725,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 306.66,
+        "final_payment": 306.66,
+        "total_amount_payable": 19924.6,
+        "total_charge_for_credit": 4674.6,
+        "amount_of_credit": 13725,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15250,
+        "total_price": 15250,
+        "deposit": 1525,
+        "balance": 13725,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 259.51,
+        "final_payment": 6410.54,
+        "total_amount_payable": 20392.02,
+        "total_charge_for_credit": 5142.02,
+        "amount_of_credit": 13725,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 6410.54,
+        "price_to_buy": 6410.54
+      }
+    ]
+  }
+]

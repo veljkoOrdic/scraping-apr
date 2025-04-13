@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:08:50.443Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ellisashtonmotorcompany.co.uk/cars/lamborghini/huracan/5.2-v10-sterrato/1363611/",
+    "dealer_id": "6474",
+    "car_id": "26869511",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "EVO COUPE",
+        "derivative": "5.2 V10 610 Sterrato",
+        "registration_number": "FJ23DSO",
+        "registration_date": "11/07/2023",
+        "mileage": 700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 219995,
+        "total_price": 219995,
+        "deposit": 21999.5,
+        "balance": 197995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 3326.43,
+        "final_payment": 75194.66,
+        "total_amount_payable": 293453.53,
+        "total_charge_for_credit": 73458.53,
+        "amount_of_credit": 197995.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 62.45,
+        "residual": 75193.66,
+        "price_to_buy": 75194.66
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 219995,
+        "total_price": 219995,
+        "deposit": 21999.5,
+        "balance": 197995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 4244.96,
+        "final_payment": 4245.96,
+        "total_amount_payable": 276698.1,
+        "total_charge_for_credit": 56703.1,
+        "amount_of_credit": 197995.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

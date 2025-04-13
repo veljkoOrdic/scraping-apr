@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:48:14.391Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakdenecollection.co.uk/details/car-in-alfreton/porsche/718/2.5t-gts-pdk-euro-6-ss-2dr/1387800/",
+    "dealer_id": "6874",
+    "car_id": "27161639",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "2.5 GTS PDK",
+        "registration_number": "T77WWS",
+        "registration_date": "13/04/2018",
+        "mileage": 45000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45380,
+        "total_price": 45380,
+        "deposit": 4538,
+        "balance": 40842,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 867.07,
+        "final_payment": 20129.31,
+        "total_amount_payable": 55014.76,
+        "total_charge_for_credit": 9634.76,
+        "amount_of_credit": 40842,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 10.48,
+        "residual": 20129.31,
+        "price_to_buy": 20129.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45380,
+        "total_price": 45380,
+        "deposit": 4538,
+        "balance": 40842,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 875.51,
+        "final_payment": 885.51,
+        "total_amount_payable": 57078.6,
+        "total_charge_for_credit": 11698.6,
+        "amount_of_credit": 40842,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:25:17.133Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.blackshaws.net/item/5174/Nissan-QASHQAI-N-Connecta-Dig-T.html",
+    "dealer_id": "7631",
+    "car_id": "26667311",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 DiG-T MH N-Connecta",
+        "registration_number": "PN74 RBO",
+        "registration_date": "28/09/2024",
+        "mileage": 335,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 5300,
+        "balance": 21200,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 550.98,
+        "final_payment": 550.98,
+        "total_amount_payable": 31747.04,
+        "total_charge_for_credit": 5247.04,
+        "amount_of_credit": 21200,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 5300,
+        "balance": 21200,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 363.58,
+        "final_payment": 11669,
+        "total_amount_payable": 34057.26,
+        "total_charge_for_credit": 7557.26,
+        "amount_of_credit": 21200,
+        "lender": "Black Horse",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.8,
+        "residual": 11659,
+        "price_to_buy": 11669
+      }
+    ]
+  }
+]

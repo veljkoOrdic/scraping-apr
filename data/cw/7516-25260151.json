@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:18:51.402Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.silsoeprestigemotors.co.uk/used/cars/audi/a5/2-9-rs-5-tfsi-quattro-auto-4wd-2dr-167",
+    "dealer_id": "7516",
+    "car_id": "25260151",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "RS 5 COUPE",
+        "derivative": "2.9 TFSI Quattro Tiptronic",
+        "registration_number": "D8DHY",
+        "registration_date": "04/09/2018",
+        "mileage": 42957,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36294,
+        "total_price": 36294,
+        "deposit": 3629.4,
+        "balance": 32664.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 28,
+        "regular_payment": 825.36,
+        "final_payment": 17601,
+        "total_amount_payable": 43515.12,
+        "total_charge_for_credit": 7221.12,
+        "amount_of_credit": 32664.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 23333,
+        "excess_mileage_rate": 26,
+        "residual": 17601,
+        "price_to_buy": 17601
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36294,
+        "total_price": 36294,
+        "deposit": 3629.4,
+        "balance": 32664.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 685.68,
+        "final_payment": 685.68,
+        "total_amount_payable": 44770.2,
+        "total_charge_for_credit": 8476.2,
+        "amount_of_credit": 32664.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

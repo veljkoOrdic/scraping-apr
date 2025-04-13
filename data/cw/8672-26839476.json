@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:49:31.620Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.peverelcarcompany.co.uk/used-car/bmw/x3/xdrive20d-m-sport-5dr-step-auto/for-sale-in-witham-essex/aetv34686875/",
+    "dealer_id": "8672",
+    "car_id": "26839476",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive20d M Sport Step",
+        "registration_number": "NL69AUP",
+        "registration_date": "20/12/2019",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 45,
+        "regular_payment": 486.92,
+        "final_payment": 11666,
+        "total_amount_payable": 35303.06,
+        "total_charge_for_credit": 8308.06,
+        "amount_of_credit": 24295.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 19,
+        "residual": 11656,
+        "price_to_buy": 11666
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 641.96,
+        "final_payment": 651.96,
+        "total_amount_payable": 33523.58,
+        "total_charge_for_credit": 6528.58,
+        "amount_of_credit": 24295.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

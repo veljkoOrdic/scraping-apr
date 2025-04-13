@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:38:14.647Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theelectricvehiclecompany.com/details/car-in-london/cupra/born/58kwh-v1-auto-5dr/1383853/",
+    "dealer_id": "7390",
+    "car_id": "27108063",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Cupra",
+        "model": "BORN",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "150kW V1 58kWh",
+        "registration_number": "BJ72NZV",
+        "registration_date": "31/12/2022",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849.5,
+        "balance": 16645.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 349.28,
+        "final_payment": 359.28,
+        "total_amount_payable": 22816.3,
+        "total_charge_for_credit": 4321.3,
+        "amount_of_credit": 16645.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849.5,
+        "balance": 16645.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 49,
+        "regular_payment": 235.36,
+        "final_payment": 10540,
+        "total_amount_payable": 23922.14,
+        "total_charge_for_credit": 5427.14,
+        "amount_of_credit": 16645.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 10530,
+        "price_to_buy": 10540
+      }
+    ]
+  }
+]

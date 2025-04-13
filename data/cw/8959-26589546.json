@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:07:05.535Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2024-bmw-x5-xdrive50e-m-sport/",
+    "dealer_id": "8959",
+    "car_id": "26589546",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive50e M Sport",
+        "registration_number": "YL73KUO",
+        "registration_date": "01/01/2024",
+        "mileage": 6066,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64900,
+        "total_price": 64900,
+        "deposit": 7090,
+        "balance": 57810,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1553.35,
+        "final_payment": 1554.35,
+        "total_amount_payable": 81651.8,
+        "total_charge_for_credit": 16751.8,
+        "amount_of_credit": 57810,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64900,
+        "total_price": 64900,
+        "deposit": 7090,
+        "balance": 57810,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1029.05,
+        "final_payment": 33869.87,
+        "total_amount_payable": 89325.22,
+        "total_charge_for_credit": 24425.22,
+        "amount_of_credit": 57810,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.45,
+        "residual": 33869.87,
+        "price_to_buy": 33869.87
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:58.368Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lmc-cars.co.uk/used/cars/kia/sorento/1-6-sorento-edition-hev-awd-a-4wd-5dr-847",
+    "dealer_id": "6436",
+    "car_id": "26369653",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "STATION WAGON",
+        "derivative": "1.6 T-GDi HEV Edition",
+        "registration_number": "LB73KKF",
+        "registration_date": "21/10/2023",
+        "mileage": 10986,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38199,
+        "total_price": 38199,
+        "deposit": 3819.9,
+        "balance": 34379.1,
+        "apr": 11.9,
+        "rate_of_interest": 5.8,
+        "term": 48,
+        "regular_payment": 603.71,
+        "final_payment": 17640,
+        "total_amount_payable": 50437.98,
+        "total_charge_for_credit": 12238.98,
+        "amount_of_credit": 34379.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 19.5,
+        "residual": 17640,
+        "price_to_buy": 17640
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38199,
+        "total_price": 38199,
+        "deposit": 3819.9,
+        "balance": 34379.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 752.62,
+        "final_payment": 753.62,
+        "total_amount_payable": 48978.1,
+        "total_charge_for_credit": 10779.1,
+        "amount_of_credit": 34379.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:33:02.731Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pearsoncars.com/pre-owned/suzuki-s-cross-1-5-ultra-ags-all-grip-auto-kt73guw",
+    "dealer_id": "7807",
+    "car_id": "27333083",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Hybrid Ultra ALLGRIP AGS",
+        "registration_number": "KT73GUW",
+        "registration_date": "01/03/2023",
+        "mileage": 5629,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26885,
+        "total_price": 26885,
+        "deposit": 2688.5,
+        "balance": 24196.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 607.63,
+        "final_payment": 607.63,
+        "total_amount_payable": 31854.74,
+        "total_charge_for_credit": 4969.74,
+        "amount_of_credit": 24196.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26885,
+        "total_price": 26885,
+        "deposit": 2688.5,
+        "balance": 24196.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 449.84,
+        "final_payment": 9616,
+        "total_amount_payable": 33446.98,
+        "total_charge_for_credit": 6561.98,
+        "amount_of_credit": 24196.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 9606,
+        "price_to_buy": 9616
+      }
+    ]
+  }
+]

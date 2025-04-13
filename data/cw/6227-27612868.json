@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:13:04.364Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/ferrari/ferrari-488-3-9t-v8-spider-f1-dct-euro-6-s-s-2dr/",
+    "dealer_id": "6227",
+    "car_id": "27612868",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LB17KLO",
+        "registration_date": "04/07/2017",
+        "mileage": 9085,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 159975,
+        "total_price": 159975,
+        "deposit": 15997.5,
+        "balance": 143977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2133,
+        "final_payment": 88258.21,
+        "total_amount_payable": 204506.71,
+        "total_charge_for_credit": 44531.71,
+        "amount_of_credit": 143977.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 159975,
+        "total_price": 159975,
+        "deposit": 15997.5,
+        "balance": 143977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 3022.2,
+        "final_payment": 3022.2,
+        "total_amount_payable": 197329.5,
+        "total_charge_for_credit": 37354.5,
+        "amount_of_credit": 143977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

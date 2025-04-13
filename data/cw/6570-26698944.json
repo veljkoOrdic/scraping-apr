@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T21:08:34.273Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kentvehicles.co.uk/details/car-in-herne-common/tesla/model3/dual-motor-long-range-auto-4wde-4dr/1349900/",
+    "dealer_id": "6570",
+    "car_id": "26698944",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL 3",
+        "variant": "SALOON",
+        "derivative": "Long Range",
+        "registration_number": "BV21FTN",
+        "registration_date": "23/03/2021",
+        "mileage": 85000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15880,
+        "total_price": 15880,
+        "deposit": 1588,
+        "balance": 14292,
+        "apr": 13.5,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 323.12,
+        "final_payment": 333.12,
+        "total_amount_payable": 20985.2,
+        "total_charge_for_credit": 5105.2,
+        "amount_of_credit": 14292,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15880,
+        "total_price": 15880,
+        "deposit": 1588,
+        "balance": 14292,
+        "apr": 13.5,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 323.34,
+        "final_payment": 323.34,
+        "total_amount_payable": 20988.4,
+        "total_charge_for_credit": 5108.4,
+        "amount_of_credit": 14292,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:23:43.342Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilsonsofrathkenny.co.uk/used-cars/seat-ateca-se-ecomotive-tsi/45283",
+    "dealer_id": "6510",
+    "car_id": "21686113",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "ATECA",
+        "variant": "ESTATE",
+        "derivative": "1.0 TSI Ecomotive SE [EZ]",
+        "registration_number": "nj20yyn",
+        "registration_date": "05/03/2020",
+        "mileage": 48754,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14925,
+        "total_price": 14925,
+        "deposit": 2238.75,
+        "balance": 12686.25,
+        "apr": 12.7,
+        "rate_of_interest": 12.68,
+        "term": 48,
+        "regular_payment": 251.44,
+        "final_payment": 5320,
+        "total_amount_payable": 19376.43,
+        "total_charge_for_credit": 4451.43,
+        "amount_of_credit": 12686.25,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3,
+        "residual": 5310,
+        "price_to_buy": 5320
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14925,
+        "total_price": 14925,
+        "deposit": 2238.75,
+        "balance": 12686.25,
+        "apr": 12.7,
+        "rate_of_interest": 12.68,
+        "term": 48,
+        "regular_payment": 334.07,
+        "final_payment": 344.07,
+        "total_amount_payable": 18284.11,
+        "total_charge_for_credit": 3359.11,
+        "amount_of_credit": 12686.25,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

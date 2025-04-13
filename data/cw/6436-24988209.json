@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:51.357Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lmc-cars.co.uk/used/cars/mercedes-benz/c-class/1-5-c-200-amg-line-premium-mhev-auto-5dr-3",
+    "dealer_id": "6436",
+    "car_id": "24988209",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "ESTATE",
+        "derivative": "C200 AMG Line Premium 9G-Tronic",
+        "registration_number": "OV22SZG",
+        "registration_date": "25/05/2022",
+        "mileage": 31327,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27499,
+        "total_price": 27499,
+        "deposit": 2749.9,
+        "balance": 24749.1,
+        "apr": 11.9,
+        "rate_of_interest": 5.82,
+        "term": 48,
+        "regular_payment": 445.32,
+        "final_payment": 12060,
+        "total_amount_payable": 36185.26,
+        "total_charge_for_credit": 8686.26,
+        "amount_of_credit": 24749.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15.4,
+        "residual": 12060,
+        "price_to_buy": 12060
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27499,
+        "total_price": 27499,
+        "deposit": 2749.9,
+        "balance": 24749.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 541.8,
+        "final_payment": 542.8,
+        "total_amount_payable": 35258.9,
+        "total_charge_for_credit": 7759.9,
+        "amount_of_credit": 24749.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:50:03.658Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.payless4acar.co.uk/used/cars/porsche/911/3-0t-992-carrera-4s-pdk-4wd-euro-6-s-s-2dr-415",
+    "dealer_id": "8465",
+    "car_id": "24738926",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA 4 CABRIOLET",
+        "derivative": "S PDK",
+        "registration_number": "OVG75",
+        "registration_date": "12/08/2019",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 104995,
+        "total_price": 104995,
+        "deposit": 10499.5,
+        "balance": 94495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 52,
+        "regular_payment": 1721.92,
+        "final_payment": 33782.71,
+        "total_amount_payable": 132100.13,
+        "total_charge_for_credit": 27105.13,
+        "amount_of_credit": 94495.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 43333,
+        "excess_mileage_rate": 23.79,
+        "residual": 33782.71,
+        "price_to_buy": 33782.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104995,
+        "total_price": 104995,
+        "deposit": 10499.5,
+        "balance": 94495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1983.62,
+        "final_payment": 1983.62,
+        "total_amount_payable": 129516.7,
+        "total_charge_for_credit": 24521.7,
+        "amount_of_credit": 94495.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

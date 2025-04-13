@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:54:30.192Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ludhamgarage.co.uk/used/ford/puma-vignale/10t-125ps-hybrid-mhev-st-line-x-vignale-5dr/great-yarmouth/norfolk/20830269",
+    "dealer_id": "6324",
+    "car_id": "20220622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST-Line X Vignale",
+        "registration_number": "EA70OUM",
+        "registration_date": "26/10/2020",
+        "mileage": 26111,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18250,
+        "total_price": 18250,
+        "deposit": 1825,
+        "balance": 16425,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 426.78,
+        "final_payment": 436.78,
+        "total_amount_payable": 22320.44,
+        "total_charge_for_credit": 4070.44,
+        "amount_of_credit": 16425,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18250,
+        "total_price": 18250,
+        "deposit": 1825,
+        "balance": 16425,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 309.84,
+        "final_payment": 7125,
+        "total_amount_payable": 23822.32,
+        "total_charge_for_credit": 5572.32,
+        "amount_of_credit": 16425,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 7115,
+        "price_to_buy": 7125
+      }
+    ]
+  }
+]

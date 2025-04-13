@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:37.358Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-3008-12-puretech-allure-premium-suv-nera-black-automatic-petrol/id-202409184159863/",
+    "dealer_id": "7584",
+    "car_id": "25649393",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech Allure Premium+ EAT8",
+        "registration_number": "BP72WEK",
+        "registration_date": "17/01/2023",
+        "mileage": 21591,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21439,
+        "total_price": 21439,
+        "deposit": 4287.8,
+        "balance": 17151.2,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 298.22,
+        "final_payment": 9630,
+        "total_amount_payable": 28232.36,
+        "total_charge_for_credit": 6793.36,
+        "amount_of_credit": 17151.2,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 9630,
+        "price_to_buy": 9630
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21439,
+        "total_price": 21439,
+        "deposit": 4288,
+        "balance": 17151,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 383.2,
+        "final_payment": 383.2,
+        "total_amount_payable": 27280,
+        "total_charge_for_credit": 5841,
+        "amount_of_credit": 17151,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

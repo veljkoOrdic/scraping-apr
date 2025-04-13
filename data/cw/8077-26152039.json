@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T23:40:26.698Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.smcvehicles.co.uk/used-ford-transit-custom-manchester-greater-manchester-6464506",
+    "dealer_id": "8077",
+    "car_id": "26152039",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps Low Roof Limited Van",
+        "registration_number": "ML20PNJ",
+        "registration_date": "30/06/2020",
+        "mileage": 72000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19074,
+        "total_price": 19074,
+        "deposit": 3179,
+        "balance": 15895,
+        "apr": 12.5,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 351.98,
+        "final_payment": 351.98,
+        "total_amount_payable": 24297.8,
+        "total_charge_for_credit": 5223.8,
+        "amount_of_credit": 15895,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19074,
+        "total_price": 19074,
+        "deposit": 3179,
+        "balance": 15895,
+        "apr": 12.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 351.76,
+        "final_payment": 361.76,
+        "total_amount_payable": 24294.6,
+        "total_charge_for_credit": 5220.6,
+        "amount_of_credit": 15895,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

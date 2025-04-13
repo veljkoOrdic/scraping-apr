@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:03:55.355Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/jaguar-f-type-20i-r-dynamic-auto-euro-6-ss-2dr-in-leicestershire-d8a533ec-e8a4-4e6d-8954-b28300e1a8ab",
+    "dealer_id": "7072",
+    "car_id": "27090114",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "COUPE",
+        "derivative": "2.0 P300 R-Dynamic",
+        "registration_number": "FN21AWR",
+        "registration_date": "09/03/2021",
+        "mileage": 32300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 547.33,
+        "final_payment": 14681,
+        "total_amount_payable": 44402.34,
+        "total_charge_for_credit": 9907.34,
+        "amount_of_credit": 31045.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 14671,
+        "price_to_buy": 14681
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 665.41,
+        "final_payment": 675.41,
+        "total_amount_payable": 43384.1,
+        "total_charge_for_credit": 8889.1,
+        "amount_of_credit": 31045.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

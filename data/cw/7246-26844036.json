@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T17:09:28.035Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reflexautos.co.uk/vehicle-details/used-skoda-octavia-tsi-iv-se-technology-for-sale-in-shepperton-u10823/",
+    "dealer_id": "7246",
+    "car_id": "26844036",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "OCTAVIA",
+        "variant": "ESTATE",
+        "derivative": "1.4 TSI iV SE Technology DSG",
+        "registration_number": "AD21LFW",
+        "registration_date": "17/08/2021",
+        "mileage": 19738,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 349.79,
+        "final_payment": 5693.54,
+        "total_amount_payable": 23933.17,
+        "total_charge_for_credit": 5938.17,
+        "amount_of_credit": 16195.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5333.75,
+        "price_to_buy": 5693.54
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 369.12,
+        "final_payment": 379.12,
+        "total_amount_payable": 23956.7,
+        "total_charge_for_credit": 5961.7,
+        "amount_of_credit": 16195.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

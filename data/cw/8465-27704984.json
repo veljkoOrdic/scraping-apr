@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:50:08.802Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.payless4acar.co.uk/used/cars/porsche/911/3-7t-992-turbo-pdk-4wd-euro-6-s-s-2dr-622",
+    "dealer_id": "8465",
+    "car_id": "27704984",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] TURBO COUPE",
+        "derivative": "2dr PDK",
+        "registration_number": "DA21TMX",
+        "registration_date": "15/05/2021",
+        "mileage": 14800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 120995,
+        "total_price": 120995,
+        "deposit": 12099.5,
+        "balance": 108895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1828.52,
+        "final_payment": 36753.68,
+        "total_amount_payable": 156735.86,
+        "total_charge_for_credit": 35740.86,
+        "amount_of_credit": 108895.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 25.52,
+        "residual": 36753.68,
+        "price_to_buy": 36753.68
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 120995,
+        "total_price": 120995,
+        "deposit": 12099.5,
+        "balance": 108895.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2285.9,
+        "final_payment": 2285.9,
+        "total_amount_payable": 149253.5,
+        "total_charge_for_credit": 28258.5,
+        "amount_of_credit": 108895.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

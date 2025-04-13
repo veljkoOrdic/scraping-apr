@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:03:22.764Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.db90.co.uk/details/used-car-in-doncaster/audi/a6/2.0-tfsi-40-s-line-s-tronic-euro-6-ss-4dr/1394102/",
+    "dealer_id": "8696",
+    "car_id": "27217743",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "SALOON",
+        "derivative": "40 TFSI S Line S Tronic",
+        "registration_number": "YA73OSL",
+        "registration_date": "08/12/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31450,
+        "total_price": 31450,
+        "deposit": 3145,
+        "balance": 28305,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 481.54,
+        "final_payment": 10286.21,
+        "total_amount_payable": 41842.07,
+        "total_charge_for_credit": 10392.07,
+        "amount_of_credit": 28305,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.45,
+        "residual": 10285.21,
+        "price_to_buy": 10286.21
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31450,
+        "total_price": 31450,
+        "deposit": 3145,
+        "balance": 28305,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 594.14,
+        "final_payment": 594.14,
+        "total_amount_payable": 38793.4,
+        "total_charge_for_credit": 7343.4,
+        "amount_of_credit": 28305,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

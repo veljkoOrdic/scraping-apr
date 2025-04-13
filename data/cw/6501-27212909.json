@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:17:36.311Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvhcarsales.co.uk/detail/1352469/used-renault-clio-hatchback-0-9-iconic-tce-5dr-manual-birkenhead",
+    "dealer_id": "6501",
+    "car_id": "27212909",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "CLIO",
+        "variant": "HATCHBACK",
+        "derivative": "0.9 TCE 75 Iconic",
+        "registration_number": "PN68NUH",
+        "registration_date": "28/09/2018",
+        "mileage": 43143,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7895,
+        "total_price": 7895,
+        "deposit": 789.5,
+        "balance": 7105.5,
+        "apr": 15.9,
+        "rate_of_interest": 15.9,
+        "term": 29,
+        "regular_payment": 190.57,
+        "final_payment": 3741,
+        "total_amount_payable": 9866.46,
+        "total_charge_for_credit": 1971.46,
+        "amount_of_credit": 7105.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 24166,
+        "excess_mileage_rate": 7,
+        "residual": 3731,
+        "price_to_buy": 3741
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7895,
+        "total_price": 7895,
+        "deposit": 789.5,
+        "balance": 7105.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 155.53,
+        "final_payment": 156.53,
+        "total_amount_payable": 10122.3,
+        "total_charge_for_credit": 2227.3,
+        "amount_of_credit": 7105.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:25:32.097Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.imcarsupermarket.co.uk/used-land-rover-range-rover-sport-luton-bedfordshire-6725778",
+    "dealer_id": "6909",
+    "car_id": "27171609",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6 HSE",
+        "registration_number": "YH20EAC",
+        "registration_date": "19/06/2020",
+        "mileage": 41577,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32985,
+        "total_price": 32985,
+        "deposit": 3298,
+        "balance": 29687,
+        "apr": 9,
+        "rate_of_interest": 8.65,
+        "term": 49,
+        "regular_payment": 533.93,
+        "final_payment": 11497.25,
+        "total_amount_payable": 40423.89,
+        "total_charge_for_credit": 7438.89,
+        "amount_of_credit": 29687,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 11496.25,
+        "price_to_buy": 11497.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32985,
+        "total_price": 32985,
+        "deposit": 3298,
+        "balance": 29687,
+        "apr": 9,
+        "rate_of_interest": 8.65,
+        "term": 60,
+        "regular_payment": 611.19,
+        "final_payment": 612.19,
+        "total_amount_payable": 39970.4,
+        "total_charge_for_credit": 6985.4,
+        "amount_of_credit": 29687,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

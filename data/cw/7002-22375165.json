@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:21:41.717Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.woodleighmotorsales.co.uk/cars/ford/fiesta/1.0-t-ecoboost-st-line-5-door/1023823/",
+    "dealer_id": "7002",
+    "car_id": "22375165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost ST-Line",
+        "registration_number": "SN18NBY",
+        "registration_date": "29/03/2018",
+        "mileage": 39526,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 24,
+        "regular_payment": 214.65,
+        "final_payment": 4561,
+        "total_amount_payable": 10182.8,
+        "total_charge_for_credit": 1187.8,
+        "amount_of_credit": 8095.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 7,
+        "residual": 4551,
+        "price_to_buy": 4561
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 169.8,
+        "final_payment": 179.8,
+        "total_amount_payable": 11097.5,
+        "total_charge_for_credit": 2102.5,
+        "amount_of_credit": 8095.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

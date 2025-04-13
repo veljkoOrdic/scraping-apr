@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:50:11.511Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scsautos.co.uk/used-bmw-ix-watford-hertfordshire-6822647",
+    "dealer_id": "6433",
+    "car_id": "27563787",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "iX",
+        "variant": "",
+        "derivative": "iX xDrive40 M Sport Edition",
+        "registration_number": "PJ72HWB",
+        "registration_date": "31/10/2022",
+        "mileage": 21376,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799,
+        "balance": 34200,
+        "apr": 12,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 612.5,
+        "final_payment": 17388.75,
+        "total_amount_payable": 49975.25,
+        "total_charge_for_credit": 11976.25,
+        "amount_of_credit": 34200,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 16766.25,
+        "price_to_buy": 17388.75
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799,
+        "balance": 34200,
+        "apr": 11.9,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 748.58,
+        "final_payment": 748.58,
+        "total_amount_payable": 48713.8,
+        "total_charge_for_credit": 10714.8,
+        "amount_of_credit": 34200,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

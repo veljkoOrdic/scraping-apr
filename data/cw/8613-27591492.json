@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:23:42.651Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thedriverspaddock.co.uk/cars/porsche/macan/3.0-t-v6-s/1425654/",
+    "dealer_id": "8613",
+    "car_id": "27591492",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "BD69TGJ",
+        "registration_date": "31/10/2019",
+        "mileage": 34995,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42880,
+        "total_price": 42880,
+        "deposit": 4288,
+        "balance": 38592,
+        "apr": 10.8,
+        "rate_of_interest": 5.67,
+        "term": 60,
+        "regular_payment": 825.55,
+        "final_payment": 835.55,
+        "total_amount_payable": 53831,
+        "total_charge_for_credit": 10951,
+        "amount_of_credit": 38592,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42880,
+        "total_price": 42880,
+        "deposit": 4288,
+        "balance": 38592,
+        "apr": 10.8,
+        "rate_of_interest": 10.8,
+        "term": 54,
+        "regular_payment": 687.39,
+        "final_payment": 14944.37,
+        "total_amount_payable": 55664.04,
+        "total_charge_for_credit": 12784.04,
+        "amount_of_credit": 38592,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 8.91,
+        "residual": 14943.37,
+        "price_to_buy": 14944.37
+      }
+    ]
+  }
+]

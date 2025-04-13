@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:12:34.021Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/rolls-royce/rolls-royce-phantom-6-7-v12-drophead-coupe-auto-euro-4-2dr/",
+    "dealer_id": "6227",
+    "car_id": "27612875",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Rolls-Royce",
+        "model": "PHANTOM",
+        "variant": "DROPHEAD COUPE",
+        "derivative": "2dr",
+        "registration_number": "RX08ARF",
+        "registration_date": "01/03/2008",
+        "mileage": 45000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 145000,
+        "total_price": 145000,
+        "deposit": 14500,
+        "balance": 130500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1933.33,
+        "final_payment": 79996.5,
+        "total_amount_payable": 185363.01,
+        "total_charge_for_credit": 40363.01,
+        "amount_of_credit": 130500,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 145000,
+        "total_price": 145000,
+        "deposit": 14500,
+        "balance": 130500,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 2827.27,
+        "final_payment": 2827.27,
+        "total_amount_payable": 184136.2,
+        "total_charge_for_credit": 39136.2,
+        "amount_of_credit": 130500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

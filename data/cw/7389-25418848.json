@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "2025-04-11T18:36:40.684Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bmw/m3/3-2i-smg-euro-4-2dr-574",
+    "dealer_id": "7389",
+    "car_id": "25418848",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "COUPE SPECIAL EDITIONS",
+        "derivative": "430d xDrive MHT M Sport Pro Edition Step",
+        "registration_number": "YS21VVE",
+        "registration_date": "30/06/2021",
+        "mileage": 70000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25450,
+        "total_price": 25450,
+        "deposit": 2545,
+        "balance": 22905,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 378.35,
+        "final_payment": 8202.79,
+        "total_amount_payable": 33070.44,
+        "total_charge_for_credit": 7620.44,
+        "amount_of_credit": 22905,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 8.36,
+        "residual": 8202.79,
+        "price_to_buy": 8202.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25450,
+        "total_price": 25450,
+        "deposit": 2545,
+        "balance": 22905,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 480.79,
+        "final_payment": 480.79,
+        "total_amount_payable": 31392.4,
+        "total_charge_for_credit": 5942.4,
+        "amount_of_credit": 22905,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-11T18:36:40.686Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bmw/m3/3-2i-smg-euro-4-2dr-574",
+    "dealer_id": "7389",
+    "car_id": "25418848",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "MUSTANG",
+        "variant": "FASTBACK",
+        "derivative": "5.0 V8 GT",
+        "registration_number": "FD16FOC",
+        "registration_date": "03/05/2016",
+        "mileage": 50500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23950,
+        "total_price": 23950,
+        "deposit": 2395,
+        "balance": 21555,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 452.46,
+        "final_payment": 452.46,
+        "total_amount_payable": 29542.6,
+        "total_charge_for_credit": 5592.6,
+        "amount_of_credit": 21555,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

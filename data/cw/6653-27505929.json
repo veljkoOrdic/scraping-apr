@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:52:38.025Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/bmw/x3/3.0-m40i-mht-auto-xdrive-euro-6-ss-5dr/1417235/",
+    "dealer_id": "6653",
+    "car_id": "27505929",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "ESTATE",
+        "derivative": "xDrive M40i MHT",
+        "registration_number": "EF72WFZ",
+        "registration_date": "23/12/2022",
+        "mileage": 19630,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47995,
+        "total_price": 47995,
+        "deposit": 4799.5,
+        "balance": 43195.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 758.03,
+        "final_payment": 17680,
+        "total_amount_payable": 58864.94,
+        "total_charge_for_credit": 10869.94,
+        "amount_of_credit": 43195.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 17670,
+        "price_to_buy": 17680
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47995,
+        "total_price": 47995,
+        "deposit": 4799.5,
+        "balance": 43195.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 1065.67,
+        "final_payment": 1075.67,
+        "total_amount_payable": 55961.66,
+        "total_charge_for_credit": 7966.66,
+        "amount_of_credit": 43195.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

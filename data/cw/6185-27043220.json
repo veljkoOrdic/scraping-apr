@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:42:19.637Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pinetreecarsuperstore.co.uk/used-audi-a1-cardiff-south-glamorgan-6693186",
+    "dealer_id": "6185",
+    "car_id": "27043220",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "30 TFSI 110 S Line S Tronic",
+        "registration_number": "GF23XGJ",
+        "registration_date": "25/04/2023",
+        "mileage": 37538,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 99,
+        "balance": 20900,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 369.12,
+        "final_payment": 7453.78,
+        "total_amount_payable": 29330.86,
+        "total_charge_for_credit": 8331.86,
+        "amount_of_credit": 20900,
+        "lender": "Motion Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.08,
+        "residual": 7452.78,
+        "price_to_buy": 7453.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 99,
+        "balance": 20900,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 457.5,
+        "final_payment": 458.5,
+        "total_amount_payable": 27550,
+        "total_charge_for_credit": 6551,
+        "amount_of_credit": 20900,
+        "lender": "Motion Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

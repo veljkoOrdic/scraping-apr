@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:03:28.195Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/mini-used-cars/asset/2021-mini-countryman-cooper-sport/",
+    "dealer_id": "8959",
+    "car_id": "24552879",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Countryman",
+        "variant": "",
+        "derivative": "Countryman Cooper Sport",
+        "registration_number": "HT21KXL",
+        "registration_date": "01/01/2021",
+        "mileage": 37740,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21450,
+        "total_price": 21450,
+        "deposit": 2545,
+        "balance": 18905,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 507.96,
+        "final_payment": 508.96,
+        "total_amount_payable": 26928.08,
+        "total_charge_for_credit": 5478.08,
+        "amount_of_credit": 18905,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21450,
+        "total_price": 21450,
+        "deposit": 2545,
+        "balance": 18905,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 382.12,
+        "final_payment": 8265.39,
+        "total_amount_payable": 28770.03,
+        "total_charge_for_credit": 7320.03,
+        "amount_of_credit": 18905,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.66,
+        "residual": 8265.39,
+        "price_to_buy": 8265.39
+      }
+    ]
+  }
+]

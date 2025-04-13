@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-11T19:53:19.851Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.humphriesandparks.net/used/cars/suzuki/s-cross/ultra-allgrip-2855",
+    "dealer_id": "6456",
+    "car_id": "26606019",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Hybrid Ultra ALLGRIP AGS",
+        "registration_date": "02/09/2024",
+        "mileage": 4765,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 49,
+        "regular_payment": 433.17,
+        "final_payment": 11498,
+        "total_amount_payable": 34889.66,
+        "total_charge_for_credit": 8894.66,
+        "amount_of_credit": 23395.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 4.8,
+        "residual": 11488,
+        "price_to_buy": 11498
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 60,
+        "regular_payment": 522.73,
+        "final_payment": 522.73,
+        "total_amount_payable": 33963.3,
+        "total_charge_for_credit": 7968.3,
+        "amount_of_credit": 23395.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

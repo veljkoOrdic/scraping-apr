@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:15:20.134Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.littlewick-green.co.uk/suzuki-vitara-1-4-boosterjet-mhev-sz-t-auto-euro-6-s-s-5dr-in-maidenhead-473b1121-6b17-4e1f-944f-b206010e095e",
+    "dealer_id": "6500",
+    "car_id": "24429357",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "VITARA",
+        "variant": "ESTATE",
+        "derivative": "1.4 Boosterjet 48V Hybrid SZ-T",
+        "registration_number": "SD21FOK",
+        "registration_date": "29/03/2021",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 406.71,
+        "final_payment": 406.71,
+        "total_amount_payable": 21321.58,
+        "total_charge_for_credit": 3326.58,
+        "amount_of_credit": 16195.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 312.52,
+        "final_payment": 5784,
+        "total_amount_payable": 22271.94,
+        "total_charge_for_credit": 4276.94,
+        "amount_of_credit": 16195.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 5774,
+        "price_to_buy": 5784
+      }
+    ]
+  }
+]

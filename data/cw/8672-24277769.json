@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:49:26.547Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.peverelcarcompany.co.uk/used-car/jaguar/f-pace/3-0d-v6-s-5dr-auto-awd/for-sale-in-witham-essex/aetv49275475/",
+    "dealer_id": "8672",
+    "car_id": "24277769",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-PACE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0d V6 S",
+        "registration_number": "OV18SYR",
+        "registration_date": "24/04/2018",
+        "mileage": 58000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24950,
+        "total_price": 24950,
+        "deposit": 2495,
+        "balance": 22455,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 25,
+        "regular_payment": 714.72,
+        "final_payment": 10123,
+        "total_amount_payable": 29056.56,
+        "total_charge_for_credit": 4106.56,
+        "amount_of_credit": 22455,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 20833,
+        "excess_mileage_rate": 18,
+        "residual": 10113,
+        "price_to_buy": 10123
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24950,
+        "total_price": 24950,
+        "deposit": 2495,
+        "balance": 22455,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 593.31,
+        "final_payment": 603.31,
+        "total_amount_payable": 30983.88,
+        "total_charge_for_credit": 6033.88,
+        "amount_of_credit": 22455,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

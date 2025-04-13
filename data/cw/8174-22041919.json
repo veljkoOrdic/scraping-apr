@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:22:36.377Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chestermotorcompany.com/cars/bmw/x5/m50d/832003/",
+    "dealer_id": "8174",
+    "car_id": "22041919",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M50d",
+        "registration_number": "VF69HVY",
+        "registration_date": "30/09/2019",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 806.53,
+        "final_payment": 21125.4,
+        "total_amount_payable": 64032.21,
+        "total_charge_for_credit": 14033.21,
+        "amount_of_credit": 44999.1,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.08,
+        "residual": 21125.4,
+        "price_to_buy": 21125.4
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1149.75,
+        "final_payment": 1149.75,
+        "total_amount_payable": 60187.9,
+        "total_charge_for_credit": 10188.9,
+        "amount_of_credit": 44999.1,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

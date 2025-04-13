@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:40:17.406Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bsbcars.co.uk/vehicle/ford-fiesta-10t-ecoboost-titanium-x-euro-6-ss-5dr-in-kirkby-in-ashfield-9e78e0d7-2ccf-461d-a7e1-b27700b4ee3b",
+    "dealer_id": "7980",
+    "car_id": "26957621",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 95 Titanium X",
+        "registration_number": "WP20LTJ",
+        "registration_date": "31/07/2020",
+        "mileage": 44000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9850,
+        "total_price": 9850,
+        "deposit": 985,
+        "balance": 8865,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 194.04,
+        "final_payment": 194.04,
+        "total_amount_payable": 12628.4,
+        "total_charge_for_credit": 2778.4,
+        "amount_of_credit": 8865,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9850,
+        "total_price": 9850,
+        "deposit": 985,
+        "balance": 8865,
+        "apr": 11.1,
+        "rate_of_interest": 10.58,
+        "term": 48,
+        "regular_payment": 164.49,
+        "final_payment": 3767,
+        "total_amount_payable": 12647.52,
+        "total_charge_for_credit": 2797.52,
+        "amount_of_credit": 8865,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.73,
+        "residual": 3767,
+        "price_to_buy": 3767
+      }
+    ]
+  }
+]

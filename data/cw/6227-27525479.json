@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:10:58.813Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/mercedes-benz/mercedes-benz-gls-4-0-gls63h-v8-biturbo-mhev-amg-night-edition-executive-spds-tct-4wd-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "27525479",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLS",
+        "variant": "AMG ESTATE",
+        "derivative": "GLS 63 4Matic+ Night Edition Executive TCT",
+        "registration_number": "LM23CUG",
+        "registration_date": "05/05/2023",
+        "mileage": 13665,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 109975,
+        "total_price": 109975,
+        "deposit": 10997.5,
+        "balance": 98977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1626.54,
+        "final_payment": 51527,
+        "total_amount_payable": 138971.88,
+        "total_charge_for_credit": 28996.88,
+        "amount_of_credit": 98977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 51517,
+        "price_to_buy": 51527
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 109975,
+        "total_price": 109975,
+        "deposit": 10997.5,
+        "balance": 98977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 2077.61,
+        "final_payment": 2077.61,
+        "total_amount_payable": 135654.1,
+        "total_charge_for_credit": 25679.1,
+        "amount_of_credit": 98977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

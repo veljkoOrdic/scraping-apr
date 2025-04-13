@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:16:52.138Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tyrala.co.uk/cars/ford/focus/2.0-t-ecoboost-st-2/1400787/",
+    "dealer_id": "8794",
+    "car_id": "27300340",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "2.0T EcoBoost ST-2",
+        "registration_number": "PL17GWM",
+        "registration_date": "21/07/2017",
+        "mileage": 88269,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9750,
+        "total_price": 9750,
+        "deposit": 975,
+        "balance": 8775,
+        "apr": 11.9,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 192.01,
+        "final_payment": 192.01,
+        "total_amount_payable": 12495.6,
+        "total_charge_for_credit": 2745.6,
+        "amount_of_credit": 8775,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

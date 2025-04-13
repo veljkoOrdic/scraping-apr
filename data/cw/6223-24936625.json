@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-04-11T17:02:05.179Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkcmotors.co.uk/details/used-car-in-worksop/mclaren/570gt/3.8t-v8-ssg-euro-6-ss-2dr/1208429/",
+    "dealer_id": "6223",
+    "car_id": "24936625",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "570GT",
+        "variant": "570 GRAN TURISMO",
+        "derivative": "V8 SSG",
+        "registration_number": "RX67TYW",
+        "registration_date": "15/02/2018",
+        "mileage": 10260,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 89000,
+        "total_price": 89000,
+        "deposit": 8900,
+        "balance": 80100,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1681.36,
+        "final_payment": 1681.36,
+        "total_amount_payable": 109781.6,
+        "total_charge_for_credit": 20781.6,
+        "amount_of_credit": 80100,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_santander",
+        "name": "HP_SANTANDER",
+        "finance_type": "Conditional Sale",
+        "cash_price": 89000,
+        "total_price": 89000,
+        "deposit": 8900,
+        "balance": 80100,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 1771.54,
+        "final_payment": 1771.54,
+        "total_amount_payable": 115192.4,
+        "total_charge_for_credit": 26192.4,
+        "amount_of_credit": 80100,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 89000,
+        "total_price": 89000,
+        "deposit": 8900,
+        "balance": 80100,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1186.67,
+        "final_payment": 49101.3,
+        "total_amount_payable": 113774.79,
+        "total_charge_for_credit": 24774.79,
+        "amount_of_credit": 80100,
+        "lender": "Evolution Funding"
+      }
+    ]
+  }
+]

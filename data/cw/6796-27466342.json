@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:15:39.700Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/porsche-911-30t-992-carrera-4-gts-pdk-4wd-euro-6-ss-2dr-in-west-midlands-ccbc97b1-f533-4a64-aa51-b2a400dfc264",
+    "dealer_id": "6796",
+    "car_id": "27466342",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA 4 COUPE",
+        "derivative": "GTS PDK",
+        "registration_number": "PG23JLU",
+        "registration_date": "22/04/2023",
+        "mileage": 1300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 119890,
+        "total_price": 119890,
+        "deposit": 11989,
+        "balance": 107901,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1774.94,
+        "final_payment": 56072.08,
+        "total_amount_payable": 151483.26,
+        "total_charge_for_credit": 31593.26,
+        "amount_of_credit": 107901,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 35.56,
+        "residual": 56071.08,
+        "price_to_buy": 56072.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 119890,
+        "total_price": 119890,
+        "deposit": 11989,
+        "balance": 107901,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 2662.43,
+        "final_payment": 2663.43,
+        "total_amount_payable": 139786.64,
+        "total_charge_for_credit": 19896.64,
+        "amount_of_credit": 107901,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

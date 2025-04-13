@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:35:21.830Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rjtkauto.com/omoda/used-cars/omoda-e5/comfort/6105kwh-comfort-suv-5dr-electric-auto-204-ps/23346",
+    "dealer_id": "6521",
+    "car_id": "26002906",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Omoda",
+        "model": "5",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "150KW Comfort 61kWh",
+        "registration_number": "FV74GGA",
+        "registration_date": "27/09/2024",
+        "mileage": 17,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 4799,
+        "balance": 19196,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 402.81,
+        "final_payment": 412.81,
+        "total_amount_payable": 28977.6,
+        "total_charge_for_credit": 4982.6,
+        "amount_of_credit": 19196,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 4799,
+        "balance": 19196,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 292.8,
+        "final_payment": 11287,
+        "total_amount_payable": 29847.6,
+        "total_charge_for_credit": 5852.6,
+        "amount_of_credit": 19196,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 18,
+        "residual": 11277,
+        "price_to_buy": 11287
+      }
+    ]
+  }
+]

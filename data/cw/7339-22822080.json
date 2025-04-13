@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:12:11.844Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dcglimited.com/used-bmw-x5-reading-berkshire-5668677",
+    "dealer_id": "7339",
+    "car_id": "22822080",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M Competition",
+        "registration_number": "TR04DEL",
+        "registration_date": "30/11/2021",
+        "mileage": 27500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999,
+        "balance": 71996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1207.42,
+        "final_payment": 24412.87,
+        "total_amount_payable": 103649.65,
+        "total_charge_for_credit": 23654.65,
+        "amount_of_credit": 71996,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 16.26,
+        "residual": 24412.87,
+        "price_to_buy": 24412.87
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999,
+        "balance": 71996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1511.32,
+        "final_payment": 1512.32,
+        "total_amount_payable": 98679.2,
+        "total_charge_for_credit": 18684.2,
+        "amount_of_credit": 71996,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

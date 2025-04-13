@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:31:27.710Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.authenticautosmanchester.co.uk/details/used-car-in-manchester/seat/leon/1.0-tsi-evo-se-dynamic-euro-6-ss-5dr/1163702/",
+    "dealer_id": "9079",
+    "car_id": "25061154",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "LEON",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI EVO SE Dynamic",
+        "registration_number": "DF70JRO",
+        "registration_date": "16/12/2020",
+        "mileage": 21884,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 10,
+        "balance": 8985,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 129.24,
+        "final_payment": 6721,
+        "total_amount_payable": 12934.52,
+        "total_charge_for_credit": 3939.52,
+        "amount_of_credit": 8985,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 7,
+        "residual": 6721,
+        "price_to_buy": 6721
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 10,
+        "balance": 8985,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 200.75,
+        "final_payment": 200.75,
+        "total_amount_payable": 12055,
+        "total_charge_for_credit": 3060,
+        "amount_of_credit": 8985,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

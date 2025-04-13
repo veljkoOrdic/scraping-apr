@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:56:58.342Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/skoda-fabia-1-0-tsi-monte-carlo-hatchback-5dr-petrol-manual-euro-6-s-s-110-ps-ks24deu",
+    "dealer_id": "7709",
+    "car_id": "27078221",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "FABIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 SE L DSG",
+        "registration_number": "AF68WKB",
+        "registration_date": "01/03/2018",
+        "mileage": 53638,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10190,
+        "total_price": 10190,
+        "deposit": 1019,
+        "balance": 9171,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 34,
+        "regular_payment": 314.44,
+        "final_payment": 324.44,
+        "total_amount_payable": 11719.96,
+        "total_charge_for_credit": 1529.96,
+        "amount_of_credit": 9171,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10190,
+        "total_price": 10190,
+        "deposit": 1019,
+        "balance": 9171,
+        "apr": 11.5,
+        "rate_of_interest": 11.42,
+        "term": 34,
+        "regular_payment": 201.52,
+        "final_payment": 4690,
+        "total_amount_payable": 12359.16,
+        "total_charge_for_credit": 2169.16,
+        "amount_of_credit": 9171,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 17000,
+        "excess_mileage_rate": 3,
+        "residual": 4680,
+        "price_to_buy": 4690
+      }
+    ]
+  }
+]

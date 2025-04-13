@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-12T16:06:51.702Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.swilliamscarsales.com/vehicle/mercedes-a200-16-sport-edition-euro-6-ss-5dr-in-abercarn-newport-69bcd30d-4114-4951-a266-b2b800fe9142",
+    "dealer_id": "6193",
+    "car_id": "27720959",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "HATCHBACK",
+        "derivative": "A200 Sport Edition",
+        "registration_number": "WX18TMO",
+        "registration_date": "29/03/2018",
+        "mileage": 61879,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 12.8,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 240.56,
+        "final_payment": 240.56,
+        "total_amount_payable": 15633.1,
+        "total_charge_for_credit": 3638.1,
+        "amount_of_credit": 10795.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

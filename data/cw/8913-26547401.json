@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:01:10.071Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoscout48.com/cars/bmw/4series/2.0-430i-m-sport-coupe/1338045/",
+    "dealer_id": "8913",
+    "car_id": "26547401",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "",
+        "derivative": "430i M Sport Coupe",
+        "registration_number": "AK71DLO",
+        "registration_date": "19/11/2021",
+        "mileage": 59960,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25950,
+        "total_price": 25950,
+        "deposit": 2595,
+        "balance": 23355,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 449.51,
+        "final_payment": 9165,
+        "total_amount_payable": 32886.97,
+        "total_charge_for_credit": 6936.97,
+        "amount_of_credit": 23355,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.3,
+        "residual": 9155,
+        "price_to_buy": 9165
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25950,
+        "total_price": 25950,
+        "deposit": 2595,
+        "balance": 23355,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 596.72,
+        "final_payment": 597.72,
+        "total_amount_payable": 31238.56,
+        "total_charge_for_credit": 5288.56,
+        "amount_of_credit": 23355,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

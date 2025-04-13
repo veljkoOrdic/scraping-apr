@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T00:27:02.288Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scs4vans.co.uk/used-ford-transit-eastbourne-east-sussex-4731319",
+    "dealer_id": "8181",
+    "car_id": "20929068",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL FWD",
+        "derivative": "2.0 TDCi 130ps H3 Van",
+        "registration_number": "HW69KUT",
+        "registration_date": "22/11/2019",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21588,
+        "total_price": 21588,
+        "deposit": 3598,
+        "balance": 17990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 385.59,
+        "final_payment": 395.59,
+        "total_amount_payable": 26743.4,
+        "total_charge_for_credit": 5155.4,
+        "amount_of_credit": 17990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21588,
+        "total_price": 21588,
+        "deposit": 3598,
+        "balance": 17990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 385.59,
+        "final_payment": 395.59,
+        "total_amount_payable": 26743.4,
+        "total_charge_for_credit": 5155.4,
+        "amount_of_credit": 17990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

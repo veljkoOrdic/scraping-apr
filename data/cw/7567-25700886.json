@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:43:52.561Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.enkamotorslimited.co.uk/details/used-car-in-park-lane/porsche/macan/2.9t-v6-s-pdk-4wd-euro-6-ss-5dr/1268905/",
+    "dealer_id": "7567",
+    "car_id": "25700886",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "LL71XVX",
+        "registration_date": "10/12/2021",
+        "mileage": 24360,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 758.25,
+        "final_payment": 16910.77,
+        "total_amount_payable": 66647.02,
+        "total_charge_for_credit": 16652.02,
+        "amount_of_credit": 44995.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 10.48,
+        "residual": 16910.77,
+        "price_to_buy": 16910.77
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 964.69,
+        "final_payment": 964.69,
+        "total_amount_payable": 62880.9,
+        "total_charge_for_credit": 12885.9,
+        "amount_of_credit": 44995.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

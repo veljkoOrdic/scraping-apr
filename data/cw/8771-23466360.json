@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:55:34.168Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/alfa-romeo/tonale/13-vgt-155kwh-ti-auto-q4-awd-euro-6-5dr/colchester/essex/21054176",
+    "dealer_id": "8771",
+    "car_id": "23466360",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "TONALE",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 PHEV Ti",
+        "registration_number": "EK73XHP",
+        "registration_date": "28/09/2023",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 591.68,
+        "final_payment": 13203,
+        "total_amount_payable": 44511.46,
+        "total_charge_for_credit": 9516.46,
+        "amount_of_credit": 31495.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 26,
+        "residual": 13193,
+        "price_to_buy": 13203
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 675.05,
+        "final_payment": 685.05,
+        "total_amount_payable": 44012.5,
+        "total_charge_for_credit": 9017.5,
+        "amount_of_credit": 31495.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

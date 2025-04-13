@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:41:42.905Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.crmorrow.com/used/vauxhall/corsa/12-se-premium-5dr/newry/county-down/21557847",
+    "dealer_id": "8085",
+    "car_id": "27346931",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 SE Premium",
+        "registration_number": "VE20CZR",
+        "registration_date": "31/07/2020",
+        "mileage": 33984,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 999,
+        "balance": 8991,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 181.85,
+        "final_payment": 3308,
+        "total_amount_payable": 12853.95,
+        "total_charge_for_credit": 2863.95,
+        "amount_of_credit": 8991,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 3308,
+        "price_to_buy": 3308
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 999,
+        "balance": 8991,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 233.67,
+        "final_payment": 233.67,
+        "total_amount_payable": 12215.16,
+        "total_charge_for_credit": 2225.16,
+        "amount_of_credit": 8991,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

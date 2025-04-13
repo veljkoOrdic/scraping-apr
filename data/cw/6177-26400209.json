@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:38:12.839Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.billingtonmotorgroup.co.uk/details/used-car-in-burnley/skoda/kodiaq/2.0-tsi-vrs-dsg-4wd-euro-6-ss-5dr-7-seat/1326692/",
+    "dealer_id": "6177",
+    "car_id": "26400209",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KODIAQ",
+        "variant": "ESTATE",
+        "derivative": "2.0 TSI 245 vRS 4x4 DSG [7 Seat]",
+        "registration_number": "VN71XPO",
+        "registration_date": "31/01/2022",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33950,
+        "total_price": 33950,
+        "deposit": 3395,
+        "balance": 30555,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 471.77,
+        "final_payment": 16198,
+        "total_amount_payable": 42237.96,
+        "total_charge_for_credit": 8287.96,
+        "amount_of_credit": 30555,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 16198,
+        "price_to_buy": 16198
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33950,
+        "total_price": 33950,
+        "deposit": 3395,
+        "balance": 30555,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 753.94,
+        "final_payment": 753.94,
+        "total_amount_payable": 39584.12,
+        "total_charge_for_credit": 5634.12,
+        "amount_of_credit": 30555,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

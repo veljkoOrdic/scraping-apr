@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:47:16.088Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.charterspeugeot.com/used-cars/citroen-ami-pop-rf73sxw/",
+    "dealer_id": "6758",
+    "car_id": "24319311",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "AMI",
+        "variant": "COUPE",
+        "derivative": "6kW Ami 6.3kWh",
+        "registration_number": "RF73SXW",
+        "registration_date": "30/12/2023",
+        "mileage": 339,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 6954,
+        "total_price": 6954,
+        "deposit": 1738.5,
+        "balance": 5215.5,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 48,
+        "regular_payment": 106.52,
+        "final_payment": 2048,
+        "total_amount_payable": 8837.94,
+        "total_charge_for_credit": 1883.94,
+        "amount_of_credit": 5215.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 2048,
+        "price_to_buy": 2048
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6954,
+        "total_price": 6954,
+        "deposit": 1738.5,
+        "balance": 5215.5,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 48,
+        "regular_payment": 137.41,
+        "final_payment": 137.41,
+        "total_amount_payable": 8394.18,
+        "total_charge_for_credit": 1440.18,
+        "amount_of_credit": 5215.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

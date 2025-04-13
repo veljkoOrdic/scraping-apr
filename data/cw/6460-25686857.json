@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:00:25.105Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarspecialists.com/vehicle/land-rover-range-rover-44-p615-v8-sv-suv-lwb-23-alloys-pan-roof-meridan-rear-ent-extended-windsor-leather-in-sheffield-ccc210e0-831a-4f1c-ac57-74b1e5fd2b74",
+    "dealer_id": "6460",
+    "car_id": "25686857",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "ESTATE",
+        "derivative": "4.4 P615 V8 SV LWB",
+        "registration_number": "YN74VST",
+        "registration_date": "02/09/2024",
+        "mileage": 44,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 159980,
+        "total_price": 159980,
+        "deposit": 15998,
+        "balance": 143982,
+        "apr": 9.2,
+        "rate_of_interest": 4.74,
+        "term": 48,
+        "regular_payment": 2399.75,
+        "final_payment": 69814.75,
+        "total_amount_payable": 198601,
+        "total_charge_for_credit": 38621,
+        "amount_of_credit": 143982,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 67405,
+        "price_to_buy": 69814.75
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 159980,
+        "total_price": 159980,
+        "deposit": 15998,
+        "balance": 143982,
+        "apr": 9.2,
+        "rate_of_interest": 4.74,
+        "term": 60,
+        "regular_payment": 2975.64,
+        "final_payment": 2975.64,
+        "total_amount_payable": 194536.4,
+        "total_charge_for_credit": 34556.4,
+        "amount_of_credit": 143982,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

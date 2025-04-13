@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:23:49.517Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chastonsmotorcompany.co.uk/cars/audi/a3/1.5-tfsi-cod-s-line/1366621/",
+    "dealer_id": "8540",
+    "car_id": "26897884",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "CABRIOLET",
+        "derivative": "1.5 TFSI S Line S Tronic",
+        "registration_number": "WV18OEH",
+        "registration_date": "13/03/2018",
+        "mileage": 48643,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 16.3,
+        "rate_of_interest": 16.3,
+        "term": 24,
+        "regular_payment": 410.18,
+        "final_payment": 7857,
+        "total_amount_payable": 18841.04,
+        "total_charge_for_credit": 3342.04,
+        "amount_of_credit": 13949.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 12,
+        "residual": 7847,
+        "price_to_buy": 7857
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 311.65,
+        "final_payment": 311.65,
+        "total_amount_payable": 20248.9,
+        "total_charge_for_credit": 4749.9,
+        "amount_of_credit": 13949.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

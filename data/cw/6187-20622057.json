@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:47:41.069Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.spiritmotorcompany.co.uk/used-ford-ranger-leigh-lancashire-5157110",
+    "dealer_id": "6187",
+    "car_id": "20622057",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Limited 1 2.0 EcoBlue 170",
+        "registration_number": "SO70MJY",
+        "registration_date": "16/12/2020",
+        "mileage": 83440,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22550,
+        "total_price": 22550,
+        "deposit": 2255,
+        "balance": 20295,
+        "apr": 11.4,
+        "rate_of_interest": 10.84,
+        "term": 48,
+        "regular_payment": 450.82,
+        "final_payment": 4348,
+        "total_amount_payable": 28242.36,
+        "total_charge_for_credit": 5692.36,
+        "amount_of_credit": 20295,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.14,
+        "residual": 4348,
+        "price_to_buy": 4348
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22550,
+        "total_price": 22550,
+        "deposit": 2255,
+        "balance": 20295,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 439.73,
+        "final_payment": 439.73,
+        "total_amount_payable": 28638.8,
+        "total_charge_for_credit": 6088.8,
+        "amount_of_credit": 20295,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

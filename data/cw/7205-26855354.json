@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:50:00.060Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fuscovehiclesales.com/used-land-rover-discovery-sport-county-down-northern-ireland-6623207",
+    "dealer_id": "7205",
+    "car_id": "26855354",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY SPORT",
+        "variant": "SW",
+        "derivative": "1.5 P300e R-Dynamic HSE [5 Seat]",
+        "registration_number": "SGZ6175",
+        "registration_date": "28/10/2020",
+        "mileage": 25550,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27450,
+        "total_price": 27450,
+        "deposit": 2745,
+        "balance": 24705,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 540.63,
+        "final_payment": 550.63,
+        "total_amount_payable": 35192.8,
+        "total_charge_for_credit": 7742.8,
+        "amount_of_credit": 24705,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27450,
+        "total_price": 27450,
+        "deposit": 2745,
+        "balance": 24705,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 427.34,
+        "final_payment": 13378.59,
+        "total_amount_payable": 36208.57,
+        "total_charge_for_credit": 8758.57,
+        "amount_of_credit": 24705,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12941.25,
+        "price_to_buy": 13378.59
+      }
+    ]
+  }
+]

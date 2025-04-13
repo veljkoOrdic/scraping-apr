@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:06:03.907Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/porsche-cayenne-30-v6-e-hybrid-179kwh-platinum-edition-tiptronics-4wd-euro-6-ss-5dr-72kw-charger-in-leicestershire-775d8451-8e90-40db-877d-b29100fb8b88",
+    "dealer_id": "7072",
+    "car_id": "27240405",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "COUPE SPECIAL EDITIONS",
+        "derivative": "E-Hybrid Platinum Edition Tiptronic S",
+        "registration_number": "DE72LYZ",
+        "registration_date": "24/11/2022",
+        "mileage": 20100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899.5,
+        "balance": 62095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 1046.96,
+        "final_payment": 32211,
+        "total_amount_payable": 89364.58,
+        "total_charge_for_credit": 20369.58,
+        "amount_of_credit": 62095.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 32201,
+        "price_to_buy": 32211
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899.5,
+        "balance": 62095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1331.43,
+        "final_payment": 1341.43,
+        "total_amount_payable": 86795.3,
+        "total_charge_for_credit": 17800.3,
+        "amount_of_credit": 62095.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

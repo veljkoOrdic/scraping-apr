@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:59:03.006Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.suffolkcarcentre.co.uk/used-land-rover-discovery-suffolk-6801194",
+    "dealer_id": "7894",
+    "car_id": "27484069",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL",
+        "derivative": "3.0 D300 SE Commercial",
+        "registration_number": "AV72VLB",
+        "registration_date": "29/11/2022",
+        "mileage": 38582,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599,
+        "balance": 41396,
+        "apr": 14.8,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 922.82,
+        "final_payment": 14022.82,
+        "total_amount_payable": 61994.36,
+        "total_charge_for_credit": 15999.36,
+        "amount_of_credit": 41396,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 13090,
+        "price_to_buy": 14022.82
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599,
+        "balance": 41396,
+        "apr": 14.6,
+        "rate_of_interest": 7.49,
+        "term": 60,
+        "regular_payment": 956.33,
+        "final_payment": 956.33,
+        "total_amount_payable": 61978.8,
+        "total_charge_for_credit": 15983.8,
+        "amount_of_credit": 41396,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:56:11.086Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hammondgroup.co.uk/used/ford/explorer/250kw-premium-79kwh-awd-5dr-auto/halesworth/suffolk/21538032",
+    "dealer_id": "6215",
+    "car_id": "27021018",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "EXPLORER",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "250kW Premium 79kWh",
+        "registration_number": "AU74GVK",
+        "registration_date": "02/09/2024",
+        "mileage": 6750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42878,
+        "total_price": 42878,
+        "deposit": 2500,
+        "balance": 40378,
+        "apr": 8.9,
+        "rate_of_interest": 8.55,
+        "term": 60,
+        "regular_payment": 829.38,
+        "final_payment": 839.38,
+        "total_amount_payable": 52272.8,
+        "total_charge_for_credit": 9394.8,
+        "amount_of_credit": 40378,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42878,
+        "total_price": 42878,
+        "deposit": 2500,
+        "balance": 40378,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 676.07,
+        "final_payment": 18393,
+        "total_amount_payable": 53344.36,
+        "total_charge_for_credit": 10466.36,
+        "amount_of_credit": 40378,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 18383,
+        "price_to_buy": 18393
+      }
+    ]
+  }
+]

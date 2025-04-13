@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:52:10.443Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/mercedes-benz/aclass/2.0-a35h-mhev-amg-premium-plus-7g-dct-4matic-euro-6-ss-5dr/1403670/",
+    "dealer_id": "6653",
+    "car_id": "27332193",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "AMG HATCHBACK",
+        "derivative": "A35 4Matic Premium Plus",
+        "registration_number": "KJ23WVD",
+        "registration_date": "18/08/2023",
+        "mileage": 8400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38495,
+        "total_price": 38495,
+        "deposit": 3849.5,
+        "balance": 34645.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 611.46,
+        "final_payment": 13983,
+        "total_amount_payable": 47182.58,
+        "total_charge_for_credit": 8687.58,
+        "amount_of_credit": 34645.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 13973,
+        "price_to_buy": 13983
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38495,
+        "total_price": 38495,
+        "deposit": 3849.5,
+        "balance": 34645.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 854.7,
+        "final_payment": 864.7,
+        "total_amount_payable": 44885.1,
+        "total_charge_for_credit": 6390.1,
+        "amount_of_credit": 34645.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

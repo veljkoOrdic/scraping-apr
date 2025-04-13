@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:26:27.072Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilsonsofrathkenny.co.uk/used-cars/land-rover-r-rover-velar-rdyn-hse-dmhev-20d-200ps-hse-auto/49308",
+    "dealer_id": "6510",
+    "car_id": "26718929",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D200 R-Dynamic HSE",
+        "registration_number": "gx72urr",
+        "registration_date": "09/09/2022",
+        "mileage": 29981,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39895,
+        "total_price": 39895,
+        "deposit": 5984.25,
+        "balance": 33910.75,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 592.86,
+        "final_payment": 18843,
+        "total_amount_payable": 53284.53,
+        "total_charge_for_credit": 13389.53,
+        "amount_of_credit": 33910.75,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 18833,
+        "price_to_buy": 18843
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39895,
+        "total_price": 39895,
+        "deposit": 5984.25,
+        "balance": 33910.75,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 896.09,
+        "final_payment": 906.09,
+        "total_amount_payable": 49006.57,
+        "total_charge_for_credit": 9111.57,
+        "amount_of_credit": 33910.75,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

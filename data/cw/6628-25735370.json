@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:47:21.412Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rangerworlduk.co.uk/rw/car-details/ford-ranger-wildtrak-ecoblue-40",
+    "dealer_id": "6628",
+    "car_id": "25735370",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 205",
+        "registration_number": "YS73ECW",
+        "registration_date": "31/10/2023",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48000,
+        "total_price": 48000,
+        "deposit": 12000,
+        "balance": 36000,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 763.36,
+        "final_payment": 11681,
+        "total_amount_payable": 60322.28,
+        "total_charge_for_credit": 12322.28,
+        "amount_of_credit": 36000,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 44,
+        "residual": 11681,
+        "price_to_buy": 11681
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48000,
+        "total_price": 48000,
+        "deposit": 12000,
+        "balance": 36000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 755.7,
+        "final_payment": 755.7,
+        "total_amount_payable": 57342,
+        "total_charge_for_credit": 9342,
+        "amount_of_credit": 36000,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:06:46.975Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2023-bmw-x3-m-competition-2/",
+    "dealer_id": "8959",
+    "car_id": "25357265",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 M Competition",
+        "registration_number": "WG23TXR",
+        "registration_date": "01/01/2023",
+        "mileage": 11274,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61800,
+        "total_price": 61800,
+        "deposit": 6780,
+        "balance": 55020,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1478.38,
+        "final_payment": 1479.38,
+        "total_amount_payable": 77743.24,
+        "total_charge_for_credit": 15943.24,
+        "amount_of_credit": 55020,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61800,
+        "total_price": 61800,
+        "deposit": 6780,
+        "balance": 55020,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1019.64,
+        "final_payment": 29754.62,
+        "total_amount_payable": 84457.7,
+        "total_charge_for_credit": 22657.7,
+        "amount_of_credit": 55020,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.86,
+        "residual": 29754.62,
+        "price_to_buy": 29754.62
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:19:23.901Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarfinancehub.co.uk/used/cars/audi/q4-e-tron/s-line-253",
+    "dealer_id": "7359",
+    "car_id": "26814316",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q4",
+        "variant": "E-TRON ESTATE",
+        "derivative": "150kW 40 82kWh S Line [C+S/Tech Pack]",
+        "registration_number": "VN71AUH",
+        "registration_date": "18/11/2021",
+        "mileage": 68152,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 1899.5,
+        "balance": 17095.5,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 60,
+        "regular_payment": 335.83,
+        "final_payment": 7321.16,
+        "total_amount_payable": 29034.63,
+        "total_charge_for_credit": 10039.63,
+        "amount_of_credit": 17095.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.83,
+        "residual": 7321.16,
+        "price_to_buy": 7321.16
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 1899.5,
+        "balance": 17095.5,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 60,
+        "regular_payment": 413.16,
+        "final_payment": 413.16,
+        "total_amount_payable": 26689.1,
+        "total_charge_for_credit": 7694.1,
+        "amount_of_credit": 17095.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:51:40.896Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kgomotorgroup.co.uk/cars/citroen/c3aircross/1.2-puretech-flair/1389205/",
+    "dealer_id": "7321",
+    "car_id": "27174006",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3 AIRCROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech 110 Flair [6 speed]",
+        "registration_number": "KO69NGV",
+        "registration_date": "24/02/2020",
+        "mileage": 22844,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 273.4,
+        "final_payment": 273.4,
+        "total_amount_payable": 14273.7,
+        "total_charge_for_credit": 2778.7,
+        "amount_of_credit": 10345.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 15.3,
+        "rate_of_interest": 15.3,
+        "term": 48,
+        "regular_payment": 225.08,
+        "final_payment": 4037.64,
+        "total_amount_payable": 15765.9,
+        "total_charge_for_credit": 4270.9,
+        "amount_of_credit": 10345.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.72,
+        "residual": 4037.64,
+        "price_to_buy": 4037.64
+      }
+    ]
+  }
+]

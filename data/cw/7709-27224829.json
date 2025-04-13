@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2025-04-11T20:56:30.111Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/volvo-xc60-2-4-d4-r-design-lux-nav-suv-5dr-diesel-auto-awd-euro-6-s-s-190-ps-sg17agy",
+    "dealer_id": "7709",
+    "car_id": "27224829",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=s546q8HUI002bEyFHi",
+        "https://plugins.codeweavers.net/plugins/v1/platform/finance/flexicalc",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/css/plugin.css",
+        "https://plugins.codeweavers.net/vendor/angular-i18n/1.6.0/angular-locale_en-gb.min.js",
+        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
+        "https://plugins.codeweavers.net/apps/flexicalc/js/vendor.js?v=2",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=s546q8HUI002bEyFHi&cw_psid=bf3488b5-921a-4e11-93d2-55704639d2a7",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/js/plugin.js"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-11T20:56:32.665Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/volvo-xc60-2-4-d4-r-design-lux-nav-suv-5dr-diesel-auto-awd-euro-6-s-s-190-ps-sg17agy",
+    "dealer_id": "7709",
+    "car_id": "27224829",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAMIQ",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 SE",
+        "registration_number": "BV71THF",
+        "registration_date": "01/03/2021",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12650,
+        "total_price": 12650,
+        "deposit": 1265,
+        "balance": 11385,
+        "apr": 11.3,
+        "rate_of_interest": 11.26,
+        "term": 48,
+        "regular_payment": 292.69,
+        "final_payment": 302.69,
+        "total_amount_payable": 15324.12,
+        "total_charge_for_credit": 2674.12,
+        "amount_of_credit": 11385,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12650,
+        "total_price": 12650,
+        "deposit": 1265,
+        "balance": 11385,
+        "apr": 11.3,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 195.05,
+        "final_payment": 6040,
+        "total_amount_payable": 16472.35,
+        "total_charge_for_credit": 3822.35,
+        "amount_of_credit": 11385,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 3,
+        "residual": 6030,
+        "price_to_buy": 6040
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:13:18.628Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/aston-martin/aston-martin-db12-4-0-v8-auto-euro-6-s-s-2dr/",
+    "dealer_id": "6227",
+    "car_id": "26060325",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DB12",
+        "variant": "COUPE",
+        "derivative": "V8",
+        "registration_number": "MV24YTR",
+        "registration_date": "16/03/2024",
+        "mileage": 2518,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 172475,
+        "total_price": 172475,
+        "deposit": 17247.5,
+        "balance": 155227.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 2781.93,
+        "final_payment": 67622,
+        "total_amount_payable": 215620.21,
+        "total_charge_for_credit": 43145.21,
+        "amount_of_credit": 155227.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 67612,
+        "price_to_buy": 67622
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 172475,
+        "total_price": 172475,
+        "deposit": 17247.5,
+        "balance": 155227.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 3258.34,
+        "final_payment": 3258.34,
+        "total_amount_payable": 212747.9,
+        "total_charge_for_credit": 40272.9,
+        "amount_of_credit": 155227.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

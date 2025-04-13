@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:33:06.371Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.themanchestermotorcompany.co.uk/used-land-rover-range-rover-sport-bolton-greater-manchester-6507755",
+    "dealer_id": "8064",
+    "car_id": "26324779",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 V8 S/C 575 SVR",
+        "registration_number": "M999CJB",
+        "registration_date": "15/12/2018",
+        "mileage": 56600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 44,
+        "regular_payment": 727.02,
+        "final_payment": 17721.82,
+        "total_amount_payable": 52982.68,
+        "total_charge_for_credit": 12992.68,
+        "amount_of_credit": 35991,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 36666,
+        "excess_mileage_rate": 10.98,
+        "residual": 17721.82,
+        "price_to_buy": 17721.82
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 799.3,
+        "final_payment": 799.3,
+        "total_amount_payable": 51957,
+        "total_charge_for_credit": 11967,
+        "amount_of_credit": 35991,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

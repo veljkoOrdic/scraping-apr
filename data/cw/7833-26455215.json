@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:36:42.975Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/land-rover/discovery/30-d300-r-dynamic-hse-5dr-auto/york/north-yorkshire/21483504",
+    "dealer_id": "7833",
+    "car_id": "26455215",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 D300 R-Dynamic HSE",
+        "registration_number": "YH71EEG",
+        "registration_date": "15/09/2021",
+        "mileage": 26884,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48990,
+        "total_price": 48990,
+        "deposit": 4899,
+        "balance": 44091,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1145.75,
+        "final_payment": 1155.75,
+        "total_amount_payable": 59905,
+        "total_charge_for_credit": 10915,
+        "amount_of_credit": 44091,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48990,
+        "total_price": 48990,
+        "deposit": 4899,
+        "balance": 44091,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 732.88,
+        "final_payment": 25137.5,
+        "total_amount_payable": 65214.74,
+        "total_charge_for_credit": 16224.74,
+        "amount_of_credit": 44091,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.5,
+        "residual": 25127.5,
+        "price_to_buy": 25137.5
+      }
+    ]
+  }
+]

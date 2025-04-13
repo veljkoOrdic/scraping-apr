@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:22:19.147Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.safwatcars.co.uk/used-porsche-macan-southend-on-sea-essex-6500637",
+    "dealer_id": "8738",
+    "car_id": "26297937",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "5dr PDK",
+        "registration_number": "LX23RFZ",
+        "registration_date": "28/03/2023",
+        "mileage": 12439,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 55990,
+        "total_price": 55990,
+        "deposit": 11198,
+        "balance": 44792,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 692.14,
+        "final_payment": 25329,
+        "total_amount_payable": 69749.72,
+        "total_charge_for_credit": 13759.72,
+        "amount_of_credit": 44792,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 25319,
+        "price_to_buy": 25329
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 55990,
+        "total_price": 55990,
+        "deposit": 11198,
+        "balance": 44792,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1124.83,
+        "final_payment": 1124.83,
+        "total_amount_payable": 65189.84,
+        "total_charge_for_credit": 9199.84,
+        "amount_of_credit": 44792,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

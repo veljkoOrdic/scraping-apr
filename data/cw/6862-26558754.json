@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:41:43.135Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-bmw-m3-oldham-greater-manchester-6560837",
+    "dealer_id": "6862",
+    "car_id": "26558754",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition Saloon",
+        "registration_number": "V22LMP",
+        "registration_date": "19/03/2021",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51949,
+        "total_price": 51949,
+        "deposit": 5194,
+        "balance": 46755,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 812.35,
+        "final_payment": 23440.73,
+        "total_amount_payable": 66815.18,
+        "total_charge_for_credit": 14866.18,
+        "amount_of_credit": 46755,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.58,
+        "residual": 23440.73,
+        "price_to_buy": 23440.73
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 51949,
+        "total_price": 51949,
+        "deposit": 5194,
+        "balance": 46755,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1002.42,
+        "final_payment": 1002.42,
+        "total_amount_payable": 65339.2,
+        "total_charge_for_credit": 13390.2,
+        "amount_of_credit": 46755,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

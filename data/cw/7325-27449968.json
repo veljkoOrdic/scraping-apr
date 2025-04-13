@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:53:57.815Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kingsbridgeautos.co.uk/used-jaguar-f-type-york-yorkshire-6794952",
+    "dealer_id": "7325",
+    "car_id": "27449968",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "COUPE",
+        "derivative": "5.0 P450 Supercharged V8 R-Dynamic",
+        "registration_number": "OV70BJE",
+        "registration_date": "17/09/2020",
+        "mileage": 24500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44786,
+        "total_price": 44786,
+        "deposit": 4478,
+        "balance": 40308,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 750.06,
+        "final_payment": 17316.37,
+        "total_amount_payable": 57047.19,
+        "total_charge_for_credit": 12261.19,
+        "amount_of_credit": 40308,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.5,
+        "residual": 17316.37,
+        "price_to_buy": 17316.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44786,
+        "total_price": 44786,
+        "deposit": 4478,
+        "balance": 40308,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 864.19,
+        "final_payment": 864.19,
+        "total_amount_payable": 56329.4,
+        "total_charge_for_credit": 11543.4,
+        "amount_of_credit": 40308,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

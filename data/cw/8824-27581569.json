@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-11T20:29:25.597Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarsource.co.uk/used/cars/skoda/karoq/se-tsi-142",
+    "dealer_id": "8824",
+    "car_id": "27581569",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.0 TSI SE",
+        "registration_date": "20/01/2020",
+        "mileage": 56562,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12250,
+        "total_price": 12250,
+        "deposit": 1225,
+        "balance": 11025,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 194.39,
+        "final_payment": 5362.76,
+        "total_amount_payable": 15724.09,
+        "total_charge_for_credit": 3474.09,
+        "amount_of_credit": 11025,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.86,
+        "residual": 5361.76,
+        "price_to_buy": 5362.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12250,
+        "total_price": 12250,
+        "deposit": 1225,
+        "balance": 11025,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 281.69,
+        "final_payment": 281.69,
+        "total_amount_payable": 14746.12,
+        "total_charge_for_credit": 2496.12,
+        "amount_of_credit": 11025,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

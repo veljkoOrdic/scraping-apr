@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:17:06.390Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/ferrari/ferrari-sf90-spider-4-0t-v8-7-9kwh-f1-dct-4wd-euro-6-s-s-2dr/",
+    "dealer_id": "6227",
+    "car_id": "27626003",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KE22JRO",
+        "registration_date": "22/04/2022",
+        "mileage": 4258,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 369975,
+        "total_price": 369975,
+        "deposit": 36997.5,
+        "balance": 332977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 4933,
+        "final_payment": 204115.21,
+        "total_amount_payable": 472963.71,
+        "total_charge_for_credit": 102988.71,
+        "amount_of_credit": 332977.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 369975,
+        "total_price": 369975,
+        "deposit": 36997.5,
+        "balance": 332977.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 7213.93,
+        "final_payment": 7213.93,
+        "total_amount_payable": 469833.3,
+        "total_charge_for_credit": 99858.3,
+        "amount_of_credit": 332977.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

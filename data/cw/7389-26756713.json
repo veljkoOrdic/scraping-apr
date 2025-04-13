@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:36:53.707Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/land-rover/defender/3-0-defender-hse-d-mhev-auto-4wd-3dr-786",
+    "dealer_id": "7389",
+    "car_id": "26756713",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 HSE 90",
+        "registration_number": "DF22DVY",
+        "registration_date": "29/06/2022",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50450,
+        "total_price": 50450,
+        "deposit": 5045,
+        "balance": 45405,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 723.8,
+        "final_payment": 18235.9,
+        "total_amount_payable": 65985.1,
+        "total_charge_for_credit": 15535.1,
+        "amount_of_credit": 45405,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.15,
+        "residual": 18235.9,
+        "price_to_buy": 18235.9
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50450,
+        "total_price": 50450,
+        "deposit": 5045,
+        "balance": 45405,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 953.13,
+        "final_payment": 953.13,
+        "total_amount_payable": 62232.8,
+        "total_charge_for_credit": 11782.8,
+        "amount_of_credit": 45405,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

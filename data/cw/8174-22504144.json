@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:22:21.980Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chestermotorcompany.com/cars/audi/sq7/4.0-tdi-v8-vorsprung/1033696/",
+    "dealer_id": "8174",
+    "car_id": "22504144",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "SQ7 Quattro Vorsprung Tip",
+        "registration_number": "SR18LRJ",
+        "registration_date": "09/05/2018",
+        "mileage": 92000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34999,
+        "total_price": 34999,
+        "deposit": 3499.9,
+        "balance": 31499.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 24,
+        "regular_payment": 756.25,
+        "final_payment": 19419,
+        "total_amount_payable": 40312.65,
+        "total_charge_for_credit": 5313.65,
+        "amount_of_credit": 31499.1,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 26,
+        "residual": 19419,
+        "price_to_buy": 19419
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34999,
+        "total_price": 34999,
+        "deposit": 3499.9,
+        "balance": 31499.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 804.82,
+        "final_payment": 804.82,
+        "total_amount_payable": 42131.26,
+        "total_charge_for_credit": 7132.26,
+        "amount_of_credit": 31499.1,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

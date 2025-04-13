@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:06:49.533Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bespokemotorworks.co.uk/used-audi-q7-stockton-on-tees-cleveland-6569741",
+    "dealer_id": "6268",
+    "car_id": "26578303",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "S line",
+        "derivative": "Q7 S line 55 TFSI quattro 340 PS tiptronic",
+        "registration_number": "BT22KMZ",
+        "registration_date": "15/06/2022",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40495,
+        "total_price": 40495,
+        "deposit": 4049,
+        "balance": 36446,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 612.44,
+        "final_payment": 12266.69,
+        "total_amount_payable": 52449.65,
+        "total_charge_for_credit": 11954.65,
+        "amount_of_credit": 36446,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 8.72,
+        "residual": 12266.69,
+        "price_to_buy": 12266.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40495,
+        "total_price": 40495,
+        "deposit": 4049,
+        "balance": 36446,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 765.03,
+        "final_payment": 765.03,
+        "total_amount_payable": 49950.8,
+        "total_charge_for_credit": 9455.8,
+        "amount_of_credit": 36446,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

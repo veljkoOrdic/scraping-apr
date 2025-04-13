@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:24:32.935Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.baytreecars.com/used-lamborghini-huracan-derby-derbyshire-6174539",
+    "dealer_id": "6272",
+    "car_id": "24982337",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "EVO COUPE",
+        "derivative": "5.2 V10 640 STO",
+        "registration_number": "FJ71BLK",
+        "registration_date": "03/11/2021",
+        "mileage": 5100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 272900,
+        "total_price": 272900,
+        "deposit": 27290,
+        "balance": 245610,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 4101.79,
+        "final_payment": 74475.33,
+        "total_amount_payable": 343770.94,
+        "total_charge_for_credit": 70870.94,
+        "amount_of_credit": 245610,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 63.44,
+        "residual": 74475.33,
+        "price_to_buy": 74475.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 272900,
+        "total_price": 272900,
+        "deposit": 27290,
+        "balance": 245610,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 5045.74,
+        "final_payment": 5045.74,
+        "total_amount_payable": 330034.4,
+        "total_charge_for_credit": 57134.4,
+        "amount_of_credit": 245610,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

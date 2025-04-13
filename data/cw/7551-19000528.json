@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:36:10.743Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-nissan-leaf-e-110kw-tekna-39kwh-5-dr-h-hatchback-gun-metallic-automatic-electric/id-52192547212235/",
+    "dealer_id": "7551",
+    "car_id": "19000528",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "110kW Tekna 39kWh",
+        "registration_number": "YD72LWE",
+        "registration_date": "08/09/2022",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15490,
+        "total_price": 15490,
+        "deposit": 1250,
+        "balance": 14240,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 274.54,
+        "final_payment": 5819,
+        "total_amount_payable": 20246.92,
+        "total_charge_for_credit": 4756.92,
+        "amount_of_credit": 14240,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 5819,
+        "price_to_buy": 5819
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15490,
+        "total_price": 15490,
+        "deposit": 1000,
+        "balance": 14490,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 317.19,
+        "final_payment": 317.19,
+        "total_amount_payable": 20031.4,
+        "total_charge_for_credit": 4541.4,
+        "amount_of_credit": 14490,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

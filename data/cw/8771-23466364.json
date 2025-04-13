@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:55:20.027Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/jeep/renegade/13-gse-t4-114kwh-upland-auto-4xe-euro-6-ss-5dr/colchester/essex/21055166",
+    "dealer_id": "8771",
+    "car_id": "23466364",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "RENEGADE",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 Turbo 4xe PHEV 240 Upland",
+        "registration_number": "EA73YDF",
+        "registration_date": "29/09/2023",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799.5,
+        "balance": 25195.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 477.01,
+        "final_payment": 10350,
+        "total_amount_payable": 35568.97,
+        "total_charge_for_credit": 7573.97,
+        "amount_of_credit": 25195.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 19,
+        "residual": 10340,
+        "price_to_buy": 10350
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799.5,
+        "balance": 25195.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 540.02,
+        "final_payment": 550.02,
+        "total_amount_payable": 35210.7,
+        "total_charge_for_credit": 7215.7,
+        "amount_of_credit": 25195.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:08:33.743Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.maplegarage.co.uk/vehicle-details/used-mg-mg4-x-power-for-sale-car-u38/",
+    "dealer_id": "8313",
+    "car_id": "24272142",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MGMotorUk",
+        "model": "MG4",
+        "variant": "HATCHBACK",
+        "derivative": "320kW EV XPOWER 64kWh",
+        "registration_number": "YX73LVE",
+        "registration_date": "01/09/2023",
+        "mileage": 7500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26999,
+        "total_price": 26999,
+        "deposit": 2699.9,
+        "balance": 24299.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 426.64,
+        "final_payment": 11598,
+        "total_amount_payable": 34776.62,
+        "total_charge_for_credit": 7777.62,
+        "amount_of_credit": 24299.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 11588,
+        "price_to_buy": 11598
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26999,
+        "total_price": 26999,
+        "deposit": 2699.9,
+        "balance": 24299.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 521.01,
+        "final_payment": 521.01,
+        "total_amount_payable": 33960.5,
+        "total_charge_for_credit": 6961.5,
+        "amount_of_credit": 24299.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

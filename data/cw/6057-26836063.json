@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:41:33.480Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westriding.co.uk/used-car-details/used-hyundai-tucson-16-t-gdi-138kwh-ultimate-aut-petrol-plug-in-hybrid/id-202501228277358/",
+    "dealer_id": "6057",
+    "car_id": "26836063",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "TUCSON",
+        "variant": "ESTATE",
+        "derivative": "1.6T Plug-in Hybrid Ultimate",
+        "registration_number": "PL74AZF",
+        "registration_date": "31/12/2024",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37592,
+        "total_price": 37592,
+        "deposit": 3759,
+        "balance": 33833,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 585.46,
+        "final_payment": 15931,
+        "total_amount_payable": 47206.62,
+        "total_charge_for_credit": 9614.62,
+        "amount_of_credit": 33833,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 15930,
+        "price_to_buy": 15931
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37592,
+        "total_price": 37592,
+        "deposit": 3759,
+        "balance": 33833,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 849.61,
+        "final_payment": 850.61,
+        "total_amount_payable": 44541.28,
+        "total_charge_for_credit": 6949.28,
+        "amount_of_credit": 33833,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

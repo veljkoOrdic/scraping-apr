@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "2025-04-11T20:37:28.215Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/honda/used-cars/honda-cr-v-2-0-17-7kwh-advance-tech-ecvt-euro-6-s-s-5dr-sh24jza",
+    "dealer_id": "7642",
+    "car_id": "25780991",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=qc644k6AtY68a51kSL",
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=qc644k6AtY68a51kSL",
+        "https://plugins.codeweavers.net/plugins/v1/platform/finance/flexicalc",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/css/plugin.css",
+        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
+        "https://plugins.codeweavers.net/vendor/angular-i18n/1.6.0/angular-locale_en-gb.min.js",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/js/plugin.js",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=qc644k6AtY68a51kSL&cw_psid=94f1164d-0b89-4e74-b763-3fede219ada1",
+        "https://plugins.codeweavers.net/apps/flexicalc/js/vendor.js?v=2"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-11T20:37:29.394Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/honda/used-cars/honda-cr-v-2-0-17-7kwh-advance-tech-ecvt-euro-6-s-s-5dr-sh24jza",
+    "dealer_id": "7642",
+    "car_id": "25780991",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CR-V",
+        "variant": "ESTATE",
+        "derivative": "2.0 ePHEV Advance Tech eCVT",
+        "registration_number": "SH24JZA",
+        "registration_date": "27/03/2024",
+        "mileage": 6226,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40750,
+        "total_price": 40750,
+        "deposit": 4075,
+        "balance": 36675,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 631.57,
+        "final_payment": 18725.72,
+        "total_amount_payable": 52484.51,
+        "total_charge_for_credit": 11734.51,
+        "amount_of_credit": 36675,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.53,
+        "residual": 18715.72,
+        "price_to_buy": 18725.72
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40750,
+        "total_price": 40750,
+        "deposit": 4075,
+        "balance": 36675,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 937.05,
+        "final_payment": 947.05,
+        "total_amount_payable": 49063.4,
+        "total_charge_for_credit": 8313.4,
+        "amount_of_credit": 36675,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

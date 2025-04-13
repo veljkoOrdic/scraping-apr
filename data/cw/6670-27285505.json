@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:12:21.037Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dgacars.co.uk/cars/landrover/rangerovervelar/2.0-d180-r-dynamic-s/1400049/",
+    "dealer_id": "6670",
+    "car_id": "27285505",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D180 R-Dynamic S",
+        "registration_number": "LF19DVR",
+        "registration_date": "01/03/2019",
+        "mileage": 61000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 46,
+        "regular_payment": 357.2,
+        "final_payment": 11046.7,
+        "total_amount_payable": 29420.2,
+        "total_charge_for_credit": 6425.2,
+        "amount_of_credit": 20695.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 38333,
+        "excess_mileage_rate": 6.27,
+        "residual": 11046.7,
+        "price_to_buy": 11046.7
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 462.37,
+        "final_payment": 463.37,
+        "total_amount_payable": 30042.7,
+        "total_charge_for_credit": 7047.7,
+        "amount_of_credit": 20695.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

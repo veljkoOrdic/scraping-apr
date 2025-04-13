@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:35:03.692Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarport.co.uk/vehicle-details/used-mercedes-benz-c-class-c63-v8-biturbo-amg-for-sale-u857/",
+    "dealer_id": "9393",
+    "car_id": "27076453",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "C-Class Cabriolet AMG",
+        "derivative": "AMG C 63 Cab Premium Auto 2016",
+        "registration_number": "DA18OPR",
+        "registration_date": "18/05/2018",
+        "mileage": 38000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28980,
+        "total_price": 28980,
+        "deposit": 2898,
+        "balance": 26082,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 582.63,
+        "final_payment": 592.63,
+        "total_amount_payable": 37865.8,
+        "total_charge_for_credit": 8885.8,
+        "amount_of_credit": 26082,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28980,
+        "total_price": 28980,
+        "deposit": 2898,
+        "balance": 26082,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 25,
+        "regular_payment": 618.68,
+        "final_payment": 16693,
+        "total_amount_payable": 34439.32,
+        "total_charge_for_credit": 5459.32,
+        "amount_of_credit": 26082,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 20833,
+        "excess_mileage_rate": 21,
+        "residual": 16683,
+        "price_to_buy": 16693
+      }
+    ]
+  }
+]

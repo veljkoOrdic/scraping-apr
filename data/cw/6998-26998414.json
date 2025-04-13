@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:18:30.347Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.huntermotorgroup.co.uk/vehicle/volkswagen-golf-r-tsi-4motion-semi-auto-4wd-in-billericay-essex-2a0dad59-c09b-4c92-82e2-b27b00ca3ca4",
+    "dealer_id": "6998",
+    "car_id": "26998414",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 320 R 4Motion DSG",
+        "registration_number": "ND21ORT",
+        "registration_date": "23/04/2021",
+        "mileage": 19500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30300,
+        "total_price": 30300,
+        "deposit": 3030,
+        "balance": 27270,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 453.89,
+        "final_payment": 11920.5,
+        "total_amount_payable": 41730.01,
+        "total_charge_for_credit": 11430.01,
+        "amount_of_credit": 27270,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.96,
+        "residual": 11919.5,
+        "price_to_buy": 11920.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30300,
+        "total_price": 30300,
+        "deposit": 3030,
+        "balance": 27270,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 560.21,
+        "final_payment": 561.21,
+        "total_amount_payable": 36643.6,
+        "total_charge_for_credit": 6343.6,
+        "amount_of_credit": 27270,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

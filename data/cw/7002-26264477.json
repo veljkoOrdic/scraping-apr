@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:22:31.581Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.woodleighmotorsales.co.uk/cars/audi/a1/1.0-tfsi-25-s-line/1314660/",
+    "dealer_id": "7002",
+    "car_id": "26264477",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "25 TFSI S Line",
+        "registration_number": "GK22AKO",
+        "registration_date": "30/04/2022",
+        "mileage": 33047,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 49,
+        "regular_payment": 262.97,
+        "final_payment": 8217,
+        "total_amount_payable": 22902.03,
+        "total_charge_for_credit": 4907.03,
+        "amount_of_credit": 16195.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 8207,
+        "price_to_buy": 8217
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 339.84,
+        "final_payment": 349.84,
+        "total_amount_payable": 22199.9,
+        "total_charge_for_credit": 4204.9,
+        "amount_of_credit": 16195.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

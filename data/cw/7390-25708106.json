@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:38:41.910Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theelectricvehiclecompany.com/details/car-in-london/tesla/models/dual-motor-long-range-auto-4wd-5dr/1269795/",
+    "dealer_id": "7390",
+    "car_id": "25708106",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL S",
+        "variant": "HATCHBACK",
+        "derivative": "Long Range",
+        "registration_number": "BN20EAJ",
+        "registration_date": "02/06/2020",
+        "mileage": 39500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 566.46,
+        "final_payment": 576.46,
+        "total_amount_payable": 36997.1,
+        "total_charge_for_credit": 7002.1,
+        "amount_of_credit": 26995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 49,
+        "regular_payment": 443.2,
+        "final_payment": 13398,
+        "total_amount_payable": 38114.3,
+        "total_charge_for_credit": 8119.3,
+        "amount_of_credit": 26995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 13388,
+        "price_to_buy": 13398
+      }
+    ]
+  }
+]

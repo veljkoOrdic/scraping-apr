@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:22:24.407Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/kia-sorento-16-h-t-gdi-3-auto-awd-euro-6-ss-5dr",
+    "dealer_id": "6231",
+    "car_id": "26924985",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SORENTO",
+        "variant": "STATION WAGON",
+        "derivative": "1.6 T-GDi HEV 3",
+        "registration_number": "MJ74EUZ",
+        "registration_date": "26/09/2024",
+        "mileage": 7000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41648,
+        "total_price": 41648,
+        "deposit": 1999,
+        "balance": 39649,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 657.01,
+        "final_payment": 20330.29,
+        "total_amount_payable": 53208.76,
+        "total_charge_for_credit": 11560.76,
+        "amount_of_credit": 39649,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.99,
+        "residual": 20330.29,
+        "price_to_buy": 20330.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41648,
+        "total_price": 41648,
+        "deposit": 1999,
+        "balance": 39649,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 995.68,
+        "final_payment": 995.68,
+        "total_amount_payable": 49791.64,
+        "total_charge_for_credit": 8143.64,
+        "amount_of_credit": 39649,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

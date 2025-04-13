@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:57:10.482Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-hyundai-kona-liskeard-cornwall-6437207",
+    "dealer_id": "8394",
+    "car_id": "26119932",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "KONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 GDi Hybrid Ultimate DCT",
+        "registration_number": "YF71KGN",
+        "registration_date": "19/11/2021",
+        "mileage": 8262,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19750,
+        "total_price": 19750,
+        "deposit": 1975,
+        "balance": 17775,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 312.69,
+        "final_payment": 6437.18,
+        "total_amount_payable": 26860.89,
+        "total_charge_for_credit": 7110.89,
+        "amount_of_credit": 17775,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.35,
+        "residual": 6437.18,
+        "price_to_buy": 6437.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19750,
+        "total_price": 19750,
+        "deposit": 1975,
+        "balance": 17775,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 388.98,
+        "final_payment": 398.98,
+        "total_amount_payable": 25323.8,
+        "total_charge_for_credit": 5573.8,
+        "amount_of_credit": 17775,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

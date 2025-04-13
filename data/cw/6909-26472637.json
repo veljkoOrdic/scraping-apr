@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:25:45.564Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.imcarsupermarket.co.uk/used-porsche-taycan-luton-bedfordshire-6541341",
+    "dealer_id": "6909",
+    "car_id": "26472637",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "350kW 93kWh RWD",
+        "registration_number": "GN71WTV",
+        "registration_date": "15/10/2021",
+        "mileage": 36293,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42985,
+        "total_price": 42985,
+        "deposit": 4298,
+        "balance": 38687,
+        "apr": 9,
+        "rate_of_interest": 8.65,
+        "term": 49,
+        "regular_payment": 693.96,
+        "final_payment": 15088.5,
+        "total_amount_payable": 52696.58,
+        "total_charge_for_credit": 9711.58,
+        "amount_of_credit": 38687,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13,
+        "residual": 15087.5,
+        "price_to_buy": 15088.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42985,
+        "total_price": 42985,
+        "deposit": 4298,
+        "balance": 38687,
+        "apr": 9,
+        "rate_of_interest": 8.65,
+        "term": 60,
+        "regular_payment": 796.49,
+        "final_payment": 797.49,
+        "total_amount_payable": 52088.4,
+        "total_charge_for_credit": 9103.4,
+        "amount_of_credit": 38687,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

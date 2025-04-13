@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:35:04.865Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simonbailes.co.uk/used-car-details/used-peugeot-e-308-54kwh-gt-auto-5dr-hatchback-obsession-blue-automatic-electric/id-202502048738016/#financetab",
+    "dealer_id": "7958",
+    "car_id": "26980334",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "308",
+        "variant": "E- ELECTRIC HATCHBACK",
+        "derivative": "115kW GT 54kWh",
+        "registration_number": "NX74VDT",
+        "registration_date": "30/09/2024",
+        "mileage": 684,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 4649,
+        "balance": 26346,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 501.61,
+        "final_payment": 12398,
+        "total_amount_payable": 40667.67,
+        "total_charge_for_credit": 9672.67,
+        "amount_of_credit": 26346,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 12398,
+        "price_to_buy": 12398
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 4649,
+        "balance": 26346,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 696.31,
+        "final_payment": 696.31,
+        "total_amount_payable": 38071.88,
+        "total_charge_for_credit": 7076.88,
+        "amount_of_credit": 26346,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

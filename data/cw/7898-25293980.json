@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:59:50.292Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alsautos.co.uk/vehicle/skoda-scala-10-tsi-se-l-euro-6-ss-5dr-in-ely-cambridgeshire-e97fdf60-4822-4ca1-ad9b-0681f7dafdc9",
+    "dealer_id": "7898",
+    "car_id": "25293980",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "SCALA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 SE L",
+        "registration_number": "LM20ZPV",
+        "registration_date": "21/07/2020",
+        "mileage": 97724,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8900,
+        "total_price": 8900,
+        "deposit": 890,
+        "balance": 8010,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 48,
+        "regular_payment": 152.4,
+        "final_payment": 3684,
+        "total_amount_payable": 11889.2,
+        "total_charge_for_credit": 2989.2,
+        "amount_of_credit": 8010,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 3674,
+        "price_to_buy": 3684
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8900,
+        "total_price": 8900,
+        "deposit": 890,
+        "balance": 8010,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 178.82,
+        "final_payment": 188.82,
+        "total_amount_payable": 11629.2,
+        "total_charge_for_credit": 2729.2,
+        "amount_of_credit": 8010,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

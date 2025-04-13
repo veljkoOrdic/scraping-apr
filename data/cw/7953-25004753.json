@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:32:59.529Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sonnyadam.co.uk/used-volkswagen-t-cross-watford-hertfordshire-6182845",
+    "dealer_id": "7953",
+    "car_id": "25004753",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "T-CROSS",
+        "variant": "ESTATE",
+        "derivative": "1.0 TSI SE",
+        "registration_number": "CK71DTN",
+        "registration_date": "01/09/2021",
+        "mileage": 59616,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10590,
+        "total_price": 10590,
+        "deposit": 1588,
+        "balance": 9002,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 205.1,
+        "final_payment": 215.1,
+        "total_amount_payable": 13904,
+        "total_charge_for_credit": 3314,
+        "amount_of_credit": 9002,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10590,
+        "total_price": 10590,
+        "deposit": 1588,
+        "balance": 9002,
+        "apr": 13.9,
+        "rate_of_interest": 11.16,
+        "term": 48,
+        "regular_payment": 144.98,
+        "final_payment": 6214.79,
+        "total_amount_payable": 14616.85,
+        "total_charge_for_credit": 4026.85,
+        "amount_of_credit": 9002,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.09,
+        "residual": 6204.79,
+        "price_to_buy": 6214.79
+      }
+    ]
+  }
+]

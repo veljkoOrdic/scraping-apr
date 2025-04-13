@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:02:53.964Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.directvans.uk/used/cars/alfa-romeo/giulia/2-9-v6-bi-turbo-quadrifoglio-auto-euro-6-s-s-4dr-548",
+    "dealer_id": "7720",
+    "car_id": "27232698",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "GIULIA",
+        "variant": "SALOON",
+        "derivative": "2.9 V6 BiTurbo Quadrifoglio",
+        "registration_number": "GN69FZZ",
+        "registration_date": "01/09/2019",
+        "mileage": 18170,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 52,
+        "regular_payment": 528.66,
+        "final_payment": 12756.13,
+        "total_amount_payable": 43117.29,
+        "total_charge_for_credit": 9122.29,
+        "amount_of_credit": 30595.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 43333,
+        "excess_mileage_rate": 8.73,
+        "residual": 12756.13,
+        "price_to_buy": 12756.13
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 642.25,
+        "final_payment": 642.25,
+        "total_amount_payable": 41934.5,
+        "total_charge_for_credit": 7939.5,
+        "amount_of_credit": 30595.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

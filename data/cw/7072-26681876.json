@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:05:30.260Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/porsche-taycan-performance-plus-934kwh-4s-cross-turismo-auto-4wd-5dr-11kw-charger-in-leicestershire-3c769c2f-92a3-47ee-9784-b25d00fcacde",
+    "dealer_id": "7072",
+    "car_id": "26681876",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "CROSS TURISMO",
+        "derivative": "420kW 4S 93kWh",
+        "registration_number": "LB71YLK",
+        "registration_date": "30/12/2021",
+        "mileage": 19000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 5699.5,
+        "balance": 51295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 948.87,
+        "final_payment": 21588,
+        "total_amount_payable": 72833.26,
+        "total_charge_for_credit": 15838.26,
+        "amount_of_credit": 51295.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 21578,
+        "price_to_buy": 21588
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 5699.5,
+        "balance": 51295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1099.43,
+        "final_payment": 1109.43,
+        "total_amount_payable": 71675.3,
+        "total_charge_for_credit": 14680.3,
+        "amount_of_credit": 51295.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

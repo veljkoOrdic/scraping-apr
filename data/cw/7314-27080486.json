@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:46:59.521Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magnamotorgroup.co.uk/details/used-car-in-warrington/mercedes-benz/sclass/3.0-s350d-v6-amg-line-g-tronic+-euro-6-ss-4dr/1382078/",
+    "dealer_id": "7314",
+    "car_id": "27080486",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "S-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "S350d AMG Line 9G-Tronic",
+        "registration_number": "D23BEK",
+        "registration_date": "18/11/2016",
+        "mileage": 69320,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21250,
+        "total_price": 21250,
+        "deposit": 2125,
+        "balance": 19125,
+        "apr": 12.9,
+        "rate_of_interest": 8.71,
+        "term": 43,
+        "regular_payment": 420.09,
+        "final_payment": 7447.5,
+        "total_amount_payable": 27216.28,
+        "total_charge_for_credit": 5966.28,
+        "amount_of_credit": 19125,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 24,
+        "residual": 7447.5,
+        "price_to_buy": 7447.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21250,
+        "total_price": 21250,
+        "deposit": 2125,
+        "balance": 19125,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 427.31,
+        "final_payment": 427.31,
+        "total_amount_payable": 27763.6,
+        "total_charge_for_credit": 6513.6,
+        "amount_of_credit": 19125,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

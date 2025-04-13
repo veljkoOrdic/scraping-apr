@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:01:49.485Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoscout48.com/cars/bmw/m4/3.0-m4-competition-m-xdrive-convertible/1356996/",
+    "dealer_id": "8913",
+    "car_id": "26791586",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4 Competition",
+        "variant": "",
+        "derivative": "M4 Competition M xDrive Convertible",
+        "registration_number": "NL22OPH",
+        "registration_date": "14/03/2022",
+        "mileage": 17000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53450,
+        "total_price": 53450,
+        "deposit": 5345,
+        "balance": 48105,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 878.43,
+        "final_payment": 21639,
+        "total_amount_payable": 68270.21,
+        "total_charge_for_credit": 14820.21,
+        "amount_of_credit": 48105,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.47,
+        "residual": 21629,
+        "price_to_buy": 21639
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53450,
+        "total_price": 53450,
+        "deposit": 5345,
+        "balance": 48105,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1229.09,
+        "final_payment": 1230.09,
+        "total_amount_payable": 64342.32,
+        "total_charge_for_credit": 10892.32,
+        "amount_of_credit": 48105,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

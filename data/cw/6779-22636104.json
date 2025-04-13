@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:06:55.561Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nuneatoncarsales.co.uk/used-land-rover-range-rover-sport-nuneaton-warwickshire-5987775",
+    "dealer_id": "6779",
+    "car_id": "22636104",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 P575 S/C SVR Carbon Edition",
+        "registration_number": "7PDF",
+        "registration_date": "31/01/2022",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 65500,
+        "total_price": 65500,
+        "deposit": 6550,
+        "balance": 58950,
+        "apr": 13.9,
+        "rate_of_interest": 6.76,
+        "term": 48,
+        "regular_payment": 1126.18,
+        "final_payment": 29002.5,
+        "total_amount_payable": 89609.14,
+        "total_charge_for_credit": 24109.14,
+        "amount_of_credit": 58950,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 26.9,
+        "residual": 29002.5,
+        "price_to_buy": 29002.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65500,
+        "total_price": 65500,
+        "deposit": 6550,
+        "balance": 58950,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 1583.79,
+        "final_payment": 1583.79,
+        "total_amount_payable": 82571.92,
+        "total_charge_for_credit": 17071.92,
+        "amount_of_credit": 58950,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

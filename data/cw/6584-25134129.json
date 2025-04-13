@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:19:14.004Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rockinghamcars.co.uk/used-cars/fiat-600e-54kwh-red-auto-5dr-5-door-suv-red/kj73mdn",
+    "dealer_id": "6584",
+    "car_id": "25134129",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "600",
+        "variant": "e ELECTRIC HATCHBACK",
+        "derivative": "115kW Red 54kWh",
+        "registration_number": "KJ73MDN",
+        "registration_date": "28/02/2024",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 1500,
+        "balance": 19490,
+        "apr": 9.9,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 347.46,
+        "final_payment": 8595,
+        "total_amount_payable": 26425.62,
+        "total_charge_for_credit": 5435.62,
+        "amount_of_credit": 19490,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8595,
+        "price_to_buy": 8595
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 1500,
+        "balance": 19490,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 489.44,
+        "final_payment": 489.44,
+        "total_amount_payable": 24993.12,
+        "total_charge_for_credit": 4003.12,
+        "amount_of_credit": 19490,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

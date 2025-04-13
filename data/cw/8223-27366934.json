@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:43:03.497Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.audivwforge.co.uk/vehicle-details/used-audi-a1-black-edition-35-tfsi-s-tronic-for-sale-in-aberaeron-u13507/",
+    "dealer_id": "8223",
+    "car_id": "27366934",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "35 TFSI Black Edition S Tronic",
+        "registration_number": "RK25FVB",
+        "registration_date": "06/03/2025",
+        "mileage": 12,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31830,
+        "total_price": 31830,
+        "deposit": 3183,
+        "balance": 28647,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 484.63,
+        "final_payment": 14122,
+        "total_amount_payable": 40082.61,
+        "total_charge_for_credit": 8252.61,
+        "amount_of_credit": 28647,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 14112,
+        "price_to_buy": 14122
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31830,
+        "total_price": 31830,
+        "deposit": 3183,
+        "balance": 28647,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 719.39,
+        "final_payment": 719.39,
+        "total_amount_payable": 37713.72,
+        "total_charge_for_credit": 5883.72,
+        "amount_of_credit": 28647,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

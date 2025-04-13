@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:43:28.569Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadoakmotorgroup.co.uk/used-car-details/used-volkswagen-golf-hatchback-20-tsi-333-r-black-edition-4m-grenadilla-black-automatic-petrol/id-312971274262614/",
+    "dealer_id": "6538",
+    "car_id": "26827218",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 333 R Black Edition 4Motion DSG",
+        "registration_number": "GL74ZZN",
+        "registration_date": "03/01/2025",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50970,
+        "total_price": 50970,
+        "deposit": 12992,
+        "balance": 37978,
+        "apr": 11.2,
+        "rate_of_interest": 11.15,
+        "term": 60,
+        "regular_payment": 818.43,
+        "final_payment": 828.43,
+        "total_amount_payable": 62107.8,
+        "total_charge_for_credit": 11137.8,
+        "amount_of_credit": 37978,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50970,
+        "total_price": 50970,
+        "deposit": 12992,
+        "balance": 37978,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 49,
+        "regular_payment": 636.65,
+        "final_payment": 20530,
+        "total_amount_payable": 64081.2,
+        "total_charge_for_credit": 13111.2,
+        "amount_of_credit": 37978,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9,
+        "residual": 20520,
+        "price_to_buy": 20530
+      }
+    ]
+  }
+]

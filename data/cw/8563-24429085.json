@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T17:35:01.624Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarwarehouse.com/used-car-details/used-ds-automobiles-ds-4-16-e-tense-opera-5dr-eat8-petrol-parallel-phev/id-550460/",
+    "dealer_id": "8563",
+    "car_id": "24429085",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "DS",
+        "model": "DS 4",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 E-TENSE Opera EAT8",
+        "registration_number": "CP23KUG",
+        "registration_date": "26/06/2023",
+        "mileage": 7727,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26900,
+        "total_price": 26900,
+        "deposit": 5380,
+        "balance": 21520,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 461.38,
+        "final_payment": 461.38,
+        "total_amount_payable": 33062.8,
+        "total_charge_for_credit": 6162.8,
+        "amount_of_credit": 21520,
+        "lender": "Stellantis Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26900,
+        "total_price": 26900,
+        "deposit": 5380,
+        "balance": 21520,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 329.8,
+        "final_payment": 13140,
+        "total_amount_payable": 34350.4,
+        "total_charge_for_credit": 7450.4,
+        "amount_of_credit": 21520,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 13140,
+        "price_to_buy": 13140
+      }
+    ]
+  }
+]

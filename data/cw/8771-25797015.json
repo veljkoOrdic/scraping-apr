@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:55:52.939Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/alfa-romeo/tonale/15-vgt-mhev-veloce-dct-euro-6-5dr/colchester/essex/21418475",
+    "dealer_id": "8771",
+    "car_id": "25797015",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "TONALE",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 MHEV Veloce",
+        "registration_number": "EO74XWP",
+        "registration_date": "30/09/2024",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 48,
+        "regular_payment": 601.8,
+        "final_payment": 13438,
+        "total_amount_payable": 45322.1,
+        "total_charge_for_credit": 9327.1,
+        "amount_of_credit": 32395.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 26,
+        "residual": 13428,
+        "price_to_buy": 13438
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 694.34,
+        "final_payment": 704.34,
+        "total_amount_payable": 45269.9,
+        "total_charge_for_credit": 9274.9,
+        "amount_of_credit": 32395.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

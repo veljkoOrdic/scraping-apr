@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:24:12.669Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.blackshaws.net/item/5080/SKODA-Kamiq-Monte-Carlo-Tsi.html",
+    "dealer_id": "7631",
+    "car_id": "26257529",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAMIQ",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 Monte Carlo",
+        "registration_number": "DA22 UXH",
+        "registration_date": "10/06/2022",
+        "mileage": 15693,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 3500,
+        "balance": 14000,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 231.98,
+        "final_payment": 8188,
+        "total_amount_payable": 22591.06,
+        "total_charge_for_credit": 5091.06,
+        "amount_of_credit": 14000,
+        "lender": "Suzuki FS",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.8,
+        "residual": 8178,
+        "price_to_buy": 8188
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 3500,
+        "balance": 14000,
+        "apr": 11.9,
+        "rate_of_interest": 11.27,
+        "term": 48,
+        "regular_payment": 363.86,
+        "final_payment": 363.86,
+        "total_amount_payable": 20965.28,
+        "total_charge_for_credit": 3465.28,
+        "amount_of_credit": 14000,
+        "lender": "Suzuki FS",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

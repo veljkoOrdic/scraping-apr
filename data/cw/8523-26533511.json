@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:16:09.372Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thevanhub.com/used/commercials/ford/transit-custom/300-ecoblue-trend-panel-van-2-0-swb-manual-15",
+    "dealer_id": "8523",
+    "car_id": "26533511",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps Low Roof Trend Van",
+        "registration_number": "HV71PXR",
+        "registration_date": "07/09/2021",
+        "mileage": 40249,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13745,
+        "total_price": 13745,
+        "deposit": 0,
+        "balance": 13745,
+        "apr": 12.6,
+        "rate_of_interest": 11.93,
+        "term": 48,
+        "regular_payment": 283.54,
+        "final_payment": 4813,
+        "total_amount_payable": 18422.92,
+        "total_charge_for_credit": 4677.92,
+        "amount_of_credit": 13745,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.21,
+        "residual": 4813,
+        "price_to_buy": 4813
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13745,
+        "total_price": 13745,
+        "deposit": 0,
+        "balance": 13745,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 305.25,
+        "final_payment": 305.25,
+        "total_amount_payable": 18315,
+        "total_charge_for_credit": 4570,
+        "amount_of_credit": 13745,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

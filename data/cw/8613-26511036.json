@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:21:58.856Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thedriverspaddock.co.uk/cars/volkswagen/polo/1.0-tsi-match/1335821/",
+    "dealer_id": "8613",
+    "car_id": "26511036",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 Match",
+        "registration_number": "SD20AKO",
+        "registration_date": "26/06/2020",
+        "mileage": 14400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12980,
+        "total_price": 12980,
+        "deposit": 1298,
+        "balance": 11682,
+        "apr": 10.8,
+        "rate_of_interest": 5.66,
+        "term": 60,
+        "regular_payment": 249.8,
+        "final_payment": 259.8,
+        "total_amount_payable": 16296,
+        "total_charge_for_credit": 3316,
+        "amount_of_credit": 11682,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12980,
+        "total_price": 12980,
+        "deposit": 1298,
+        "balance": 11682,
+        "apr": 10.8,
+        "rate_of_interest": 10.8,
+        "term": 60,
+        "regular_payment": 205.84,
+        "final_payment": 3647.55,
+        "total_amount_payable": 17090.11,
+        "total_charge_for_credit": 4110.11,
+        "amount_of_credit": 11682,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 2.4,
+        "residual": 3646.55,
+        "price_to_buy": 3647.55
+      }
+    ]
+  }
+]

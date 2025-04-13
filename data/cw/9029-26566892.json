@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:23:30.697Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chrender.co.uk/used-toyota-yaris-cross-york-yorkshire-6564992",
+    "dealer_id": "9029",
+    "car_id": "26566892",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "YARIS CROSS",
+        "variant": "ESTATE",
+        "derivative": "1.5 Hybrid Design CVT",
+        "registration_number": "YC72PWK",
+        "registration_date": "28/10/2022",
+        "mileage": 6513,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21899,
+        "total_price": 21899,
+        "deposit": 5474,
+        "balance": 16425,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 352.04,
+        "final_payment": 362.04,
+        "total_amount_payable": 26606.4,
+        "total_charge_for_credit": 4707.4,
+        "amount_of_credit": 16425,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21899,
+        "total_price": 21899,
+        "deposit": 5474,
+        "balance": 16425,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 262.24,
+        "final_payment": 9579.74,
+        "total_amount_payable": 27379.02,
+        "total_charge_for_credit": 5480.02,
+        "amount_of_credit": 16425,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9307.5,
+        "price_to_buy": 9579.74
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:20:36.599Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chilhamsportscars.co.uk/used/bmw/x3/xdrive20d-mht-m-sport-5dr-step-auto/canterbury/kent/21365531",
+    "dealer_id": "8795",
+    "car_id": "25299877",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive20d MHT M Sport Step",
+        "registration_number": "BP21CFV",
+        "registration_date": "15/06/2021",
+        "mileage": 47000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 0,
+        "balance": 27495,
+        "apr": 12.9,
+        "rate_of_interest": 12.2,
+        "term": 48,
+        "regular_payment": 535.86,
+        "final_payment": 11858,
+        "total_amount_payable": 37579.28,
+        "total_charge_for_credit": 10084.28,
+        "amount_of_credit": 27495,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.26,
+        "residual": 11858,
+        "price_to_buy": 11858
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 0,
+        "balance": 27495,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 614.28,
+        "final_payment": 614.28,
+        "total_amount_payable": 36856.8,
+        "total_charge_for_credit": 9361.8,
+        "amount_of_credit": 27495,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:04:40.478Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvgautomotive.co.uk/details/used-car-in-oldham/porsche/taycan/performance-plus-93.4kwh-gts-auto-4wd-4dr-11kw-charger/1381008/",
+    "dealer_id": "6560",
+    "car_id": "27081151",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "440kW GTS 93kWh",
+        "registration_number": "YY72ONB",
+        "registration_date": "31/01/2023",
+        "mileage": 18800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67994,
+        "total_price": 67994,
+        "deposit": 6799.4,
+        "balance": 61194.6,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1096.34,
+        "final_payment": 27899,
+        "total_amount_payable": 87322.72,
+        "total_charge_for_credit": 19328.72,
+        "amount_of_credit": 61194.6,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 27899,
+        "price_to_buy": 27899
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67994,
+        "total_price": 67994,
+        "deposit": 6799.4,
+        "balance": 61194.6,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1563.56,
+        "final_payment": 1563.56,
+        "total_amount_payable": 81850.28,
+        "total_charge_for_credit": 13856.28,
+        "amount_of_credit": 61194.6,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

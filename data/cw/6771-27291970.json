@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:55:35.360Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.newstreetcars.co.uk/details/used-car-in-telford/landrover/rangerovervelar/2.0-d240-r-dynamic-s-auto-4wd-euro-6-ss-5dr/1338996/",
+    "dealer_id": "6771",
+    "car_id": "27291970",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D240 R-Dynamic S",
+        "registration_number": "KC19HWW",
+        "registration_date": "15/08/2019",
+        "mileage": 38000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27684,
+        "total_price": 27684,
+        "deposit": 2768.4,
+        "balance": 24915.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 464.48,
+        "final_payment": 12392.28,
+        "total_amount_payable": 36991.24,
+        "total_charge_for_credit": 9307.24,
+        "amount_of_credit": 24915.6,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.4,
+        "residual": 12391.28,
+        "price_to_buy": 12392.28
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27684,
+        "total_price": 27684,
+        "deposit": 2768.4,
+        "balance": 24915.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 556.69,
+        "final_payment": 556.69,
+        "total_amount_payable": 36169.8,
+        "total_charge_for_credit": 8485.8,
+        "amount_of_credit": 24915.6,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

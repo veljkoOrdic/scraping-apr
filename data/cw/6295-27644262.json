@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:45:11.417Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.windmill-lr.co.uk/detail/1355054/used-land-rover-discovery-r-dynamic-se-mhev-3-0-r-dynamic-se-mhev-5dr-automatic-blackburn",
+    "dealer_id": "6295",
+    "car_id": "27644262",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 D300 R-Dynamic SE",
+        "registration_number": "PG23JWF",
+        "registration_date": "27/04/2023",
+        "mileage": 6000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 5699.5,
+        "balance": 51295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 899.6,
+        "final_payment": 25240.85,
+        "total_amount_payable": 73221.55,
+        "total_charge_for_credit": 16226.55,
+        "amount_of_credit": 51295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 24331.25,
+        "price_to_buy": 25240.85
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 5699.5,
+        "balance": 51295.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1099.43,
+        "final_payment": 1109.43,
+        "total_amount_payable": 71675.3,
+        "total_charge_for_credit": 14680.3,
+        "amount_of_credit": 51295.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

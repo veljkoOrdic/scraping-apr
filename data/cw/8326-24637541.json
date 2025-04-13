@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:22:33.038Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mbmotorgroup.com/cars/ford/focus/1.0-ecoboost-hybrid-mhev-125-st-line-edition-euro-6-ss-sat-nav/1186791/",
+    "dealer_id": "8326",
+    "car_id": "24637541",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV 125 ST-Line Edition",
+        "registration_number": "FV21USP",
+        "registration_date": "10/05/2021",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12393,
+        "total_price": 12393,
+        "deposit": 10,
+        "balance": 12383,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 263.97,
+        "final_payment": 4354.01,
+        "total_amount_payable": 17034.57,
+        "total_charge_for_credit": 4641.57,
+        "amount_of_credit": 12383,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 4354.01,
+        "price_to_buy": 4354.01
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12393,
+        "total_price": 12393,
+        "deposit": 10,
+        "balance": 12383,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 282.3,
+        "final_payment": 282.3,
+        "total_amount_payable": 16948,
+        "total_charge_for_credit": 4555,
+        "amount_of_credit": 12383,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

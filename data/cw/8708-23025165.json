@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:08:08.055Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.northdownmotors.co.uk/used-porsche-718-bangor-northern-ireland-5477201",
+    "dealer_id": "8708",
+    "car_id": "23025165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE SPECIAL EDITION",
+        "derivative": "2.0 Style Edition PDK",
+        "registration_number": "UBZ3",
+        "registration_date": "01/08/2023",
+        "mileage": 997,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 5999,
+        "balance": 53996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1133.47,
+        "final_payment": 1143.47,
+        "total_amount_payable": 74017.2,
+        "total_charge_for_credit": 14022.2,
+        "amount_of_credit": 53996,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 5999,
+        "balance": 53996,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 985.12,
+        "final_payment": 22521.37,
+        "total_amount_payable": 74821.01,
+        "total_charge_for_credit": 14826.01,
+        "amount_of_credit": 53996,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 21526.25,
+        "price_to_buy": 22521.37
+      }
+    ]
+  }
+]

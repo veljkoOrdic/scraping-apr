@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:25:52.407Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mastercarsbedfordshire.co.uk/vehicle/tesla-model-y-long-range-awd-in-sandy-bedfordshire-984839ec-967c-4982-8973-883b32a57bf7",
+    "dealer_id": "9045",
+    "car_id": "27525202",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL Y",
+        "variant": "HATCHBACK",
+        "derivative": "Long Range",
+        "registration_number": "KK22RAN",
+        "registration_date": "04/03/2022",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 559.31,
+        "final_payment": 569.31,
+        "total_amount_payable": 36468.1,
+        "total_charge_for_credit": 7473.1,
+        "amount_of_credit": 26095.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 434.85,
+        "final_payment": 14172.35,
+        "total_amount_payable": 37509.8,
+        "total_charge_for_credit": 8514.8,
+        "amount_of_credit": 26095.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 13727.5,
+        "price_to_buy": 14172.35
+      }
+    ]
+  }
+]

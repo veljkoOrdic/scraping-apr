@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:26:51.395Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkmmotorcompany.co.uk/used-bmw-x5-bishop-auckland-county-durham-6738444",
+    "dealer_id": "7371",
+    "car_id": "27209211",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "DC19FMP",
+        "registration_date": "31/05/2019",
+        "mileage": 80000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 6499,
+        "balance": 25996,
+        "apr": 10.9,
+        "rate_of_interest": 8.5,
+        "term": 48,
+        "regular_payment": 400.37,
+        "final_payment": 16020,
+        "total_amount_payable": 41336.39,
+        "total_charge_for_credit": 8841.39,
+        "amount_of_credit": 25996,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 17,
+        "residual": 16020,
+        "price_to_buy": 16020
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 6499,
+        "balance": 25996,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 557.4,
+        "final_payment": 557.4,
+        "total_amount_payable": 39943,
+        "total_charge_for_credit": 7448,
+        "amount_of_credit": 25996,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:18:49.777Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rockinghamcars.co.uk/used-cars/fiat-500-1-0-mhev-euro-6-s-s-3dr-3-door-hatchback-white/kx73rlz",
+    "dealer_id": "6584",
+    "car_id": "24008767",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 Mild Hybrid",
+        "registration_number": "KX73RLZ",
+        "registration_date": "29/09/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11490,
+        "total_price": 11490,
+        "deposit": 1500,
+        "balance": 9990,
+        "apr": 9.9,
+        "rate_of_interest": 6.78,
+        "term": 48,
+        "regular_payment": 185.9,
+        "final_payment": 3960,
+        "total_amount_payable": 14197.3,
+        "total_charge_for_credit": 2707.3,
+        "amount_of_credit": 9990,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3960,
+        "price_to_buy": 3960
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11490,
+        "total_price": 11490,
+        "deposit": 1500,
+        "balance": 9990,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 250.87,
+        "final_payment": 250.87,
+        "total_amount_payable": 13541.76,
+        "total_charge_for_credit": 2051.76,
+        "amount_of_credit": 9990,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

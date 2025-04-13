@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:20:33.884Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carnationltd.com/used-car/mercedes-benz/g-class/4-0-g63-v8-biturbo-amg-spds-9gt-4matic-euro-6-s-s-5dr/aetv79418501/",
+    "dealer_id": "6379",
+    "car_id": "25312772",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "WK19EAP",
+        "registration_date": "30/04/2019",
+        "mileage": 38000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 118995,
+        "total_price": 118995,
+        "deposit": 11899.5,
+        "balance": 107095.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1839.22,
+        "final_payment": 54950.12,
+        "total_amount_payable": 153292.96,
+        "total_charge_for_credit": 34297.96,
+        "amount_of_credit": 107095.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 28.38,
+        "residual": 54950.12,
+        "price_to_buy": 54950.12
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 118995,
+        "total_price": 118995,
+        "deposit": 18995,
+        "balance": 100000,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 2643.33,
+        "final_payment": 2644.33,
+        "total_amount_payable": 145875.84,
+        "total_charge_for_credit": 26880.84,
+        "amount_of_credit": 100000,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

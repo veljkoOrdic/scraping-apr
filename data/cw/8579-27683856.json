@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:42:25.755Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hudson-cars.co.uk/details/car-in-birchgrove/audi/a3/1.4-tfsie-40-s-line-sportback-s-tronic-euro-6-ss-5dr-13kwh/1432181/",
+    "dealer_id": "8579",
+    "car_id": "27683856",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "40 TFSI e S Line S Tronic",
+        "registration_number": "VN21LXL",
+        "registration_date": "21/05/2021",
+        "mileage": 69514,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16991,
+        "total_price": 16991,
+        "deposit": 1699.1,
+        "balance": 15291.9,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 271.09,
+        "final_payment": 7696,
+        "total_amount_payable": 22407.42,
+        "total_charge_for_credit": 5416.42,
+        "amount_of_credit": 15291.9,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.74,
+        "residual": 7696,
+        "price_to_buy": 7696
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16991,
+        "total_price": 16991,
+        "deposit": 1699.1,
+        "balance": 15291.9,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 334.77,
+        "final_payment": 334.77,
+        "total_amount_payable": 21785.3,
+        "total_charge_for_credit": 4794.3,
+        "amount_of_credit": 15291.9,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

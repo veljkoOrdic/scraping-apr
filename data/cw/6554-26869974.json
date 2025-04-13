@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:59:43.236Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.car-kingdom.co.uk/cars/mercedes-benz/aclass/2.0-a35-amg/1363126/",
+    "dealer_id": "6554",
+    "car_id": "26869974",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "A-Class 177 AMG Hatchback",
+        "derivative": "A35 AMG Premium Plus 5dr Auto 4MATIC MY20 2019",
+        "registration_number": "EK69XWG",
+        "registration_date": "30/09/2019",
+        "mileage": 24200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 2549.5,
+        "balance": 22945.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 42,
+        "regular_payment": 424.63,
+        "final_payment": 11731,
+        "total_amount_payable": 31265.7,
+        "total_charge_for_credit": 5770.7,
+        "amount_of_credit": 22945.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 18,
+        "residual": 11721,
+        "price_to_buy": 11731
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 2549.5,
+        "balance": 22945.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 481.47,
+        "final_payment": 491.47,
+        "total_amount_payable": 31447.7,
+        "total_charge_for_credit": 5952.7,
+        "amount_of_credit": 22945.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:08:29.711Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carcogroup.co.uk/used-car-details/used-renault-scenic-e-tech-160kw-esprit-alpine-87kwh-long-automatic-electric/id-210171201/",
+    "dealer_id": "7075",
+    "car_id": "26840376",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "SCENIC E-TECH",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "160kW Esprit Alpine 87kWh Long Range",
+        "registration_number": "WM24UMX",
+        "registration_date": "24/06/2024",
+        "mileage": 3993,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33490,
+        "total_price": 33490,
+        "deposit": 7448,
+        "balance": 26042,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 398.64,
+        "final_payment": 17986,
+        "total_amount_payable": 44568.72,
+        "total_charge_for_credit": 11078.72,
+        "amount_of_credit": 26042,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 17986,
+        "price_to_buy": 17986
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33490,
+        "total_price": 33490,
+        "deposit": 6698,
+        "balance": 26792,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 708.1,
+        "final_payment": 708.1,
+        "total_amount_payable": 40686.8,
+        "total_charge_for_credit": 7196.8,
+        "amount_of_credit": 26792,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

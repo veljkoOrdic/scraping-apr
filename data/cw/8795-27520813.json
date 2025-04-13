@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:20:51.066Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chilhamsportscars.co.uk/used/land-rover/discovery/30-sd6-hse-5dr-auto/canterbury/kent/21567614",
+    "dealer_id": "8795",
+    "car_id": "27520813",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 SD6 HSE",
+        "registration_number": "OV69UKR",
+        "registration_date": "05/12/2019",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 0,
+        "balance": 33995,
+        "apr": 14.8,
+        "rate_of_interest": 14.8,
+        "term": 48,
+        "regular_payment": 718.78,
+        "final_payment": 13978.65,
+        "total_amount_payable": 47761.31,
+        "total_charge_for_credit": 13766.31,
+        "amount_of_credit": 33995,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.99,
+        "residual": 13978.65,
+        "price_to_buy": 13978.65
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 0,
+        "balance": 33995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 759.5,
+        "final_payment": 759.5,
+        "total_amount_payable": 45570,
+        "total_charge_for_credit": 11575,
+        "amount_of_credit": 33995,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:43.706Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/land-rover-range-rover-sport-30-d300-mhev-se-auto-4wd-euro-6-ss-5dr",
+    "dealer_id": "6231",
+    "car_id": "27667950",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 SE",
+        "registration_number": "VX23WXN",
+        "registration_date": "11/07/2023",
+        "mileage": 9404,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 71495,
+        "total_price": 71495,
+        "deposit": 1999,
+        "balance": 69496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1180.47,
+        "final_payment": 33986.29,
+        "total_amount_payable": 91467.38,
+        "total_charge_for_credit": 19972.38,
+        "amount_of_credit": 69496,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.31,
+        "residual": 33986.29,
+        "price_to_buy": 33986.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71495,
+        "total_price": 71495,
+        "deposit": 1999,
+        "balance": 69496,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1745.2,
+        "final_payment": 1745.2,
+        "total_amount_payable": 85768.6,
+        "total_charge_for_credit": 14273.6,
+        "amount_of_credit": 69496,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:19:31.748Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.huntermotorgroup.co.uk/vehicle/land-rover-defender-se-d-mhev-auto-4wd-in-billericay-essex-7ebc2d4b-c99a-4c55-8e8f-b26700b476a1",
+    "dealer_id": "6998",
+    "car_id": "26782311",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 SE 110",
+        "registration_number": "LC72DDK",
+        "registration_date": "28/10/2022",
+        "mileage": 21800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 70000,
+        "total_price": 70000,
+        "deposit": 7000,
+        "balance": 63000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1150.2,
+        "final_payment": 19496.57,
+        "total_amount_payable": 94358.37,
+        "total_charge_for_credit": 24358.37,
+        "amount_of_credit": 63000,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.46,
+        "residual": 19495.57,
+        "price_to_buy": 19496.57
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 70000,
+        "total_price": 70000,
+        "deposit": 7000,
+        "balance": 63000,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1294.24,
+        "final_payment": 1295.24,
+        "total_amount_payable": 84655.4,
+        "total_charge_for_credit": 14655.4,
+        "amount_of_credit": 63000,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:25:47.537Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilsonsofrathkenny.co.uk/used-cars/seat-tarraco-20-tdi-xperience-lux-auto-/47750",
+    "dealer_id": "6510",
+    "car_id": "24018012",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "TARRACO",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI Xcellence Lux DSG",
+        "registration_number": "VRZ8954",
+        "registration_date": "01/01/2023",
+        "mileage": 4000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32490,
+        "total_price": 32490,
+        "deposit": 4873.5,
+        "balance": 27616.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 48,
+        "regular_payment": 527.16,
+        "final_payment": 12588,
+        "total_amount_payable": 42765.18,
+        "total_charge_for_credit": 10275.18,
+        "amount_of_credit": 27616.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 12578,
+        "price_to_buy": 12588
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32490,
+        "total_price": 32490,
+        "deposit": 5123.5,
+        "balance": 27366.5,
+        "apr": 12.7,
+        "rate_of_interest": 12.68,
+        "term": 48,
+        "regular_payment": 720.65,
+        "final_payment": 730.65,
+        "total_amount_payable": 39724.7,
+        "total_charge_for_credit": 7234.7,
+        "amount_of_credit": 27366.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

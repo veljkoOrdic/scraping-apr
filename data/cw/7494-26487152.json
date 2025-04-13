@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:11:27.770Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dvscarsales.co.uk/used/cars/mercedes-benz/gle/2-9-gle400d-amg-line-premium-g-tronic-4matic-euro-6-s-s-5dr-7-seat-109",
+    "dealer_id": "7494",
+    "car_id": "26487152",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "GLE 400d 4Matic AMG Line Prem 9G-Tronic [7 St]",
+        "registration_number": "OE22MWV",
+        "registration_date": "08/07/2022",
+        "mileage": 59780,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 542.73,
+        "final_payment": 15356.05,
+        "total_amount_payable": 51276.62,
+        "total_charge_for_credit": 12281.62,
+        "amount_of_credit": 35095.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 10.63,
+        "residual": 15356.05,
+        "price_to_buy": 15356.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 736.71,
+        "final_payment": 736.71,
+        "total_amount_payable": 48102.1,
+        "total_charge_for_credit": 9107.1,
+        "amount_of_credit": 35095.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

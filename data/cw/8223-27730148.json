@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:44:04.106Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.audivwforge.co.uk/vehicle-details/used-audi-q5-tdi-quattro-s-line-edition-1-for-sale-in-aberaeron-u13564/",
+    "dealer_id": "8223",
+    "car_id": "27730148",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI Quattro Edition 1 S Tronic",
+        "registration_number": "RO25JPU",
+        "registration_date": "27/03/2025",
+        "mileage": 6,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61710,
+        "total_price": 61710,
+        "deposit": 6171,
+        "balance": 55539,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 947.05,
+        "final_payment": 26952,
+        "total_amount_payable": 77634.35,
+        "total_charge_for_credit": 15924.35,
+        "amount_of_credit": 55539,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.6,
+        "residual": 26942,
+        "price_to_buy": 26952
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61710,
+        "total_price": 61710,
+        "deposit": 6171,
+        "balance": 55539,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1394.71,
+        "final_payment": 1394.71,
+        "total_amount_payable": 73117.08,
+        "total_charge_for_credit": 11407.08,
+        "amount_of_credit": 55539,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

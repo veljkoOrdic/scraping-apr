@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:36:46.628Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hkperformance.co.uk/details/used-car-in-manchester/bmw/8series/3.0-840d-mht-m-sport-steptronic-xdrive-euro-6-ss-4dr/1387349/",
+    "dealer_id": "6722",
+    "car_id": "27143644",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "8 Series",
+        "variant": "DIESEL GRAN COUPE",
+        "derivative": "840d xDrive MHT M Sport",
+        "registration_number": "MD21VTL",
+        "registration_date": "24/06/2021",
+        "mileage": 73000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 527.94,
+        "final_payment": 11756,
+        "total_amount_payable": 40396.62,
+        "total_charge_for_credit": 7401.62,
+        "amount_of_credit": 29695.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 11756,
+        "price_to_buy": 11756
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 732.73,
+        "final_payment": 732.73,
+        "total_amount_payable": 38470.54,
+        "total_charge_for_credit": 5475.54,
+        "amount_of_credit": 29695.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T17:25:02.493Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cameroncarsni.co.uk/used-volkswagen-tiguan-ballymoney-northern-ireland-6762378",
+    "dealer_id": "8541",
+    "car_id": "27319096",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI 4Motion R-Line DSG",
+        "registration_number": "HMZ1347",
+        "registration_date": "30/06/2021",
+        "mileage": 41255,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26895,
+        "total_price": 26895,
+        "deposit": 2689,
+        "balance": 24206,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 448.62,
+        "final_payment": 9702.37,
+        "total_amount_payable": 33476.51,
+        "total_charge_for_credit": 6581.51,
+        "amount_of_credit": 24206,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12,
+        "residual": 9243.75,
+        "price_to_buy": 9702.37
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26895,
+        "total_price": 26895,
+        "deposit": 2689,
+        "balance": 24206,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 507.92,
+        "final_payment": 517.92,
+        "total_amount_payable": 33174.2,
+        "total_charge_for_credit": 6279.2,
+        "amount_of_credit": 24206,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

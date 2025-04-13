@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:10:08.049Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.floramotors.com/used/ford/fiesta/15-ecoboost-st-performance-edition-3dr/helston/cornwall/21562865",
+    "dealer_id": "8709",
+    "car_id": "27435752",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK SPECIAL EDITIONS",
+        "derivative": "1.5 EcoBoost ST Performance Edition",
+        "registration_number": "CV70NMX",
+        "registration_date": "30/09/2020",
+        "mileage": 14274,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 4199.8,
+        "balance": 16799.2,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 436.61,
+        "final_payment": 436.61,
+        "total_amount_payable": 25157.08,
+        "total_charge_for_credit": 4158.08,
+        "amount_of_credit": 16799.2,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 4199.8,
+        "balance": 16799.2,
+        "apr": 11.9,
+        "rate_of_interest": 7.63,
+        "term": 47,
+        "regular_payment": 363.25,
+        "final_payment": 5107.5,
+        "total_amount_payable": 26016.8,
+        "total_charge_for_credit": 5017.8,
+        "amount_of_credit": 16799.2,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 39167,
+        "excess_mileage_rate": 12,
+        "residual": 5107.5,
+        "price_to_buy": 5107.5
+      }
+    ]
+  }
+]

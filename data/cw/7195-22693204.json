@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:40:23.824Z",
+    "source": "codeweavers_calculator",
+    "url": "https://roadsidemotors.com/volkswagen/used/volkswagen_id4_52kwh_style_170",
+    "dealer_id": "7195",
+    "car_id": "22693204",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.4",
+        "variant": "ESTATE",
+        "derivative": "125kW Style Pure Perform 52kWh [110kW Ch]",
+        "registration_number": "URZ5146",
+        "registration_date": "01/01/2023",
+        "mileage": 50,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 750,
+        "balance": 25245,
+        "apr": 11.3,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 429.05,
+        "final_payment": 13262.5,
+        "total_amount_payable": 34606.9,
+        "total_charge_for_credit": 8611.9,
+        "amount_of_credit": 25245,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "contract_mileage": 20416,
+        "excess_mileage_rate": 8.24,
+        "residual": 13252.5,
+        "price_to_buy": 13262.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 250,
+        "balance": 25745,
+        "apr": 11.2,
+        "rate_of_interest": 11.16,
+        "term": 60,
+        "regular_payment": 555.02,
+        "final_payment": 565.02,
+        "total_amount_payable": 33561.2,
+        "total_charge_for_credit": 7566.2,
+        "amount_of_credit": 25745,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

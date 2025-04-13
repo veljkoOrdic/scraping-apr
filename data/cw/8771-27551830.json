@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:56:07.541Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/jeep/wrangler/20-gme-overland-auto-4wd-euro-6-ss-4dr/colchester/essex/21569178",
+    "dealer_id": "8771",
+    "car_id": "27551830",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "WRANGLER",
+        "variant": "HARD TOP",
+        "derivative": "2.0 GME Overland8",
+        "registration_number": "EK22YOO",
+        "registration_date": "31/03/2022",
+        "mileage": 19160,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 627.39,
+        "final_payment": 19290,
+        "total_amount_payable": 52876.83,
+        "total_charge_for_credit": 11881.83,
+        "amount_of_credit": 36895.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 29,
+        "residual": 19280,
+        "price_to_buy": 19290
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 790.79,
+        "final_payment": 800.79,
+        "total_amount_payable": 51556.9,
+        "total_charge_for_credit": 10561.9,
+        "amount_of_credit": 36895.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

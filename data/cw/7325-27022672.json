@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:54:11.608Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kingsbridgeautos.co.uk/used-volkswagen-touareg-york-yorkshire-6686337",
+    "dealer_id": "7325",
+    "car_id": "27022672",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 V6 TDI 4Motion Black Edition Tip",
+        "registration_number": "PJ23YMK",
+        "registration_date": "05/05/2023",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48786,
+        "total_price": 48786,
+        "deposit": 4878,
+        "balance": 43908,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 773.67,
+        "final_payment": 21387.74,
+        "total_amount_payable": 62628.23,
+        "total_charge_for_credit": 13842.23,
+        "amount_of_credit": 43908,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.83,
+        "residual": 21387.74,
+        "price_to_buy": 21387.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48786,
+        "total_price": 48786,
+        "deposit": 4878,
+        "balance": 43908,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 941.38,
+        "final_payment": 941.38,
+        "total_amount_payable": 61360.8,
+        "total_charge_for_credit": 12574.8,
+        "amount_of_credit": 43908,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

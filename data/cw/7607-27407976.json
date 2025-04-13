@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-11T20:02:26.553Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.yourbestcar.co.uk/used/cars/mini/hatch/1-5-cooper-auto-5dr-3546",
+    "dealer_id": "7607",
+    "car_id": "27407976",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Cooper",
+        "registration_number": "MP65SVW",
+        "registration_date": "25/11/2015",
+        "mileage": 52939,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_bh_hp",
+        "name": "BH_HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10480,
+        "total_price": 10480,
+        "deposit": 1048,
+        "balance": 9432,
+        "apr": 10.9,
+        "rate_of_interest": 10.35,
+        "term": 48,
+        "regular_payment": 240.99,
+        "final_payment": 240.99,
+        "total_amount_payable": 12615.52,
+        "total_charge_for_credit": 2135.52,
+        "amount_of_credit": 9432,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_alphera_hp",
+        "name": "ALPHERA_HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10480,
+        "total_price": 10480,
+        "deposit": 1048,
+        "balance": 9432,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 31,
+        "regular_payment": 348.23,
+        "final_payment": 348.23,
+        "total_amount_payable": 11843.13,
+        "total_charge_for_credit": 1363.13,
+        "amount_of_credit": 9432,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

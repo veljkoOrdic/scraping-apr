@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:55:33.329Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.struans.com/used/kia/sportage/gt-line-s-16t-gdi-hybrid-auto-5dr/dundee/angus/21549421",
+    "dealer_id": "6458",
+    "car_id": "27208668",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi HEV GT-Line S",
+        "registration_number": "GJ23VRO",
+        "registration_date": "10/03/2023",
+        "mileage": 8618,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 482.76,
+        "final_payment": 16169,
+        "total_amount_payable": 42540.98,
+        "total_charge_for_credit": 10545.98,
+        "amount_of_credit": 28795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 16159,
+        "price_to_buy": 16169
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 748.44,
+        "final_payment": 748.44,
+        "total_amount_payable": 39124.62,
+        "total_charge_for_credit": 7129.62,
+        "amount_of_credit": 28795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

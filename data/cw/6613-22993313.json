@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:41:26.087Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autohausbirmingham.co.uk/used-bmw-x5-birmingham-west-midlands-5712701",
+    "dealer_id": "6613",
+    "car_id": "22993313",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d xLine",
+        "registration_number": "V10CCG",
+        "registration_date": "29/03/2019",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799,
+        "balance": 34200,
+        "apr": 10.4,
+        "rate_of_interest": 5.4,
+        "term": 48,
+        "regular_payment": 866.4,
+        "final_payment": 866.4,
+        "total_amount_payable": 45386.2,
+        "total_charge_for_credit": 7387.2,
+        "amount_of_credit": 34200,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799,
+        "balance": 34200,
+        "apr": 11.1,
+        "rate_of_interest": 11.1,
+        "term": 47,
+        "regular_payment": 629.01,
+        "final_payment": 15850.72,
+        "total_amount_payable": 48584.18,
+        "total_charge_for_credit": 10585.18,
+        "amount_of_credit": 34200,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 8.62,
+        "residual": 15850.72,
+        "price_to_buy": 15850.72
+      }
+    ]
+  }
+]

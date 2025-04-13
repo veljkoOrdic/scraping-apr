@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:18:59.542Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tyrala.co.uk/cars/audi/rs4/2.9-tfsi-v6-carbon-black/1418825/",
+    "dealer_id": "8794",
+    "car_id": "27521367",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "RS 4 AVANT",
+        "derivative": "RS 4 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "KM71LVF",
+        "registration_date": "24/01/2022",
+        "mileage": 36178,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51995,
+        "total_price": 51995,
+        "deposit": 5199.5,
+        "balance": 46795.5,
+        "apr": 10.4,
+        "rate_of_interest": 5.25,
+        "term": 48,
+        "regular_payment": 819.91,
+        "final_payment": 22313.66,
+        "total_amount_payable": 66048.93,
+        "total_charge_for_credit": 14053.93,
+        "amount_of_credit": 46795.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 21483.75,
+        "price_to_buy": 22313.66
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 51995,
+        "total_price": 51995,
+        "deposit": 5199.5,
+        "balance": 46795.5,
+        "apr": 10.4,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 992.02,
+        "final_payment": 992.02,
+        "total_amount_payable": 64720.7,
+        "total_charge_for_credit": 12725.7,
+        "amount_of_credit": 46795.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:04:50.701Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jaglandempire.co.uk/details/used-car-in-halifax/audi/q7/3.0-tdi-v6-50-sport-tiptronic-quattro-euro-6-ss-5dr/1302673/",
+    "dealer_id": "8779",
+    "car_id": "26124771",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro Sport Tiptronic",
+        "registration_number": "PN70KBO",
+        "registration_date": "30/09/2020",
+        "mileage": 26000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37795,
+        "total_price": 37795,
+        "deposit": 3779.5,
+        "balance": 34015.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 640.53,
+        "final_payment": 16051.28,
+        "total_amount_payable": 50576.22,
+        "total_charge_for_credit": 12781.22,
+        "amount_of_credit": 34015.5,
+        "lender": "Santander Consumer",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.9,
+        "residual": 16051.28,
+        "price_to_buy": 16051.28
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 37795,
+        "total_price": 37795,
+        "deposit": 3779.5,
+        "balance": 34015.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 899.02,
+        "final_payment": 899.02,
+        "total_amount_payable": 46932.46,
+        "total_charge_for_credit": 9137.46,
+        "amount_of_credit": 34015.5,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T23:40:12.477Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.smcvehicles.co.uk/used-vauxhall-combo-life-manchester-greater-manchester-5552110",
+    "dealer_id": "8077",
+    "car_id": "22316261",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "COMBO LIFE",
+        "variant": "ESTATE",
+        "derivative": "1.2 Turbo Energy",
+        "registration_number": "VU19UYY",
+        "registration_date": "01/03/2019",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149,
+        "balance": 10346,
+        "apr": 13,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 231.75,
+        "final_payment": 231.75,
+        "total_amount_payable": 15054,
+        "total_charge_for_credit": 3559,
+        "amount_of_credit": 10346,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149,
+        "balance": 10346,
+        "apr": 13,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 231.53,
+        "final_payment": 241.53,
+        "total_amount_payable": 15050.8,
+        "total_charge_for_credit": 3555.8,
+        "amount_of_credit": 10346,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

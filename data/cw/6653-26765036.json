@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:53:43.326Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/mclaren/540c/3.8t-v8-ssg-euro-6-ss-2dr/1353476/",
+    "dealer_id": "6653",
+    "car_id": "26765036",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "540",
+        "variant": "C COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "RX19BGK",
+        "registration_date": "30/08/2019",
+        "mileage": 10900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 41,
+        "regular_payment": 1284.56,
+        "final_payment": 37997,
+        "total_amount_payable": 96094.34,
+        "total_charge_for_credit": 16099.34,
+        "amount_of_credit": 71995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 34166,
+        "excess_mileage_rate": 118,
+        "residual": 37987,
+        "price_to_buy": 37997
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1776.49,
+        "final_payment": 1786.49,
+        "total_amount_payable": 93281.02,
+        "total_charge_for_credit": 13286.02,
+        "amount_of_credit": 71995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:52:20.833Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.primelondonmotors.co.uk/details/used-car-in-staines/vauxhall/crosslandx/1.2-turbo-ecotec-gpf-se-euro-6-ss-5dr/952775/",
+    "dealer_id": "8104",
+    "car_id": "21384972",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CROSSLAND X",
+        "variant": "HATCHBACK",
+        "derivative": "1.2T ecoTec [110] SE [Start Stop]",
+        "registration_number": "VX18PBY",
+        "registration_date": "02/05/2018",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7894,
+        "total_price": 7894,
+        "deposit": 789.4,
+        "balance": 7104.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 24,
+        "regular_payment": 225.16,
+        "final_payment": 3196,
+        "total_amount_payable": 9164.08,
+        "total_charge_for_credit": 1270.08,
+        "amount_of_credit": 7104.6,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 7,
+        "residual": 3186,
+        "price_to_buy": 3196
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7894,
+        "total_price": 7894,
+        "deposit": 789.4,
+        "balance": 7104.6,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 155.51,
+        "final_payment": 156.51,
+        "total_amount_payable": 10121,
+        "total_charge_for_credit": 2227,
+        "amount_of_credit": 7104.6,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

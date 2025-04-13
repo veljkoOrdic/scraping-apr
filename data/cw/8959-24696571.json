@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:04:25.460Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2023-bmw-330e-m-sport-touring-2/",
+    "dealer_id": "8959",
+    "car_id": "24696571",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "330e M Sport Touring",
+        "registration_number": "YF73ZTD",
+        "registration_date": "01/01/2023",
+        "mileage": 10211,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33400,
+        "total_price": 33400,
+        "deposit": 3940,
+        "balance": 29460,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 791.58,
+        "final_payment": 792.58,
+        "total_amount_payable": 41936.84,
+        "total_charge_for_credit": 8536.84,
+        "amount_of_credit": 29460,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33400,
+        "total_price": 33400,
+        "deposit": 3940,
+        "balance": 29460,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 543.31,
+        "final_payment": 16094.61,
+        "total_amount_payable": 45570.18,
+        "total_charge_for_credit": 12170.18,
+        "amount_of_credit": 29460,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.79,
+        "residual": 16094.61,
+        "price_to_buy": 16094.61
+      }
+    ]
+  }
+]

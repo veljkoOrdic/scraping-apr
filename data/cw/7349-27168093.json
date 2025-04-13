@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2025-04-11T18:14:39.019Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mandbautocentre.co.uk/details/used-car-in-chapel-street/bmw/3series/3.0-325d-m-sport-touring-steptronic-euro-5-5dr/1389606/",
+    "dealer_id": "7349",
+    "car_id": "27168093",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "DIESEL TOURING",
+        "derivative": "325d [204] M Sport Step",
+        "registration_number": "YC61ONJ",
+        "registration_date": "29/11/2011",
+        "mileage": 27200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs_close",
+        "name": "CS_CLOSE",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 15.9,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 399.23,
+        "final_payment": 399.23,
+        "total_amount_payable": 20762.54,
+        "total_charge_for_credit": 4767.54,
+        "amount_of_credit": 14395.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 380.52,
+        "final_payment": 380.52,
+        "total_amount_payable": 19864.46,
+        "total_charge_for_credit": 3869.46,
+        "amount_of_credit": 14395.5,
+        "lender": "Connected Car"
+      }
+    ]
+  }
+]

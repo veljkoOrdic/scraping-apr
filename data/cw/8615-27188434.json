@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:26:22.358Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/porsche-taycan-performance-plus-934kwh-4-cross-turismo-auto-4wd-5dr-11kw-charger-in-kings-lynn-norfolk-0033f94e-f5a7-4203-a2b8-238dec4be3d5",
+    "dealer_id": "8615",
+    "car_id": "27188434",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "CROSS TURISMO",
+        "derivative": "350kW 4 93kWh",
+        "registration_number": "WX73YUF",
+        "registration_date": "04/11/2023",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62895,
+        "total_price": 62895,
+        "deposit": 6289.5,
+        "balance": 56605.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1213.61,
+        "final_payment": 1213.61,
+        "total_amount_payable": 79106.1,
+        "total_charge_for_credit": 16211.1,
+        "amount_of_credit": 56605.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 62895,
+        "total_price": 62895,
+        "deposit": 6289.5,
+        "balance": 56605.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 993.14,
+        "final_payment": 18242.64,
+        "total_amount_payable": 83127.4,
+        "total_charge_for_credit": 20232.4,
+        "amount_of_credit": 56605.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 15.06,
+        "residual": 18242.64,
+        "price_to_buy": 18242.64
+      }
+    ]
+  }
+]

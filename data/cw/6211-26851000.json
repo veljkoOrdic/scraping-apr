@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:52:54.590Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walkersmotorgroup.co.uk/used-cars/peugeot/e-3008/73kwh-gt-auto-5dr/nv24swu",
+    "dealer_id": "6211",
+    "car_id": "26851000",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "E- ELECTRIC ESTATE",
+        "derivative": "157kW GT 73kWh",
+        "registration_number": "NV24SWU",
+        "registration_date": "06/06/2024",
+        "mileage": 6988,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37895,
+        "total_price": 37895,
+        "deposit": 5684.25,
+        "balance": 32210.75,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 539.74,
+        "final_payment": 17308.93,
+        "total_amount_payable": 48360.96,
+        "total_charge_for_credit": 10465.96,
+        "amount_of_credit": 32210.75,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 10.75,
+        "residual": 17308.93,
+        "price_to_buy": 17308.93
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37895,
+        "total_price": 37895,
+        "deposit": 5684.25,
+        "balance": 32210.75,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 822.72,
+        "final_payment": 832.72,
+        "total_amount_payable": 45184.81,
+        "total_charge_for_credit": 7289.81,
+        "amount_of_credit": 32210.75,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:14:37.861Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/bmw-m3-30-biturbo-competition-touring-steptronic-m-xdrive-euro-6-ss-5dr-in-west-midlands-5a7ca11a-d77f-4c8e-ba08-b2b60102465a",
+    "dealer_id": "6796",
+    "car_id": "27707782",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition M xDrive Touring",
+        "registration_number": "RO23GZR",
+        "registration_date": "17/03/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78495,
+        "total_price": 78495,
+        "deposit": 7849.5,
+        "balance": 70645.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 1262.87,
+        "final_payment": 28639,
+        "total_amount_payable": 95843.39,
+        "total_charge_for_credit": 17348.39,
+        "amount_of_credit": 70645.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22.97,
+        "residual": 28629,
+        "price_to_buy": 28639
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78495,
+        "total_price": 78495,
+        "deposit": 7849.5,
+        "balance": 70645.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 1743.15,
+        "final_payment": 1744.15,
+        "total_amount_payable": 91521.7,
+        "total_charge_for_credit": 13026.7,
+        "amount_of_credit": 70645.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

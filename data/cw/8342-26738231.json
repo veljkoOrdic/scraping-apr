@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:31:58.046Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.arunltd.com/vehicle/mclaren-570s-38t-v8-coupe-2dr-petrol-ssg-euro-6-ss-570-ps-in-west-sussex-3d361429-40fa-4530-8f62-3c05853425e7",
+    "dealer_id": "8342",
+    "car_id": "26738231",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "570",
+        "variant": "S COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "BX19CLJ",
+        "registration_date": "29/03/2019",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99995,
+        "total_price": 99995,
+        "deposit": 9999.5,
+        "balance": 89995.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1929.47,
+        "final_payment": 1930.47,
+        "total_amount_payable": 125768.7,
+        "total_charge_for_credit": 25773.7,
+        "amount_of_credit": 89995.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99995,
+        "total_price": 99995,
+        "deposit": 9999.5,
+        "balance": 89995.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 47,
+        "regular_payment": 1861.38,
+        "final_payment": 32248,
+        "total_amount_payable": 127870.98,
+        "total_charge_for_credit": 27875.98,
+        "amount_of_credit": 89995.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 18.52,
+        "residual": 32247,
+        "price_to_buy": 32248
+      }
+    ]
+  }
+]

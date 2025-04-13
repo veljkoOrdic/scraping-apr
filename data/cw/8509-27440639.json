@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T17:02:16.180Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.burnettcars.co.uk/vehicle/audi-e-tron-quattro-55-95-kwh-in-chorley-lancashire-a4e741fb-9cd4-4495-94b9-509d8e668e4a",
+    "dealer_id": "8509",
+    "car_id": "27440639",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "e-tron",
+        "variant": "ESTATE",
+        "derivative": "300kW 55 Quattro 95kWh",
+        "registration_number": "FE20PWY",
+        "registration_date": "17/06/2020",
+        "mileage": 44000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20789,
+        "total_price": 20789,
+        "deposit": 2078.9,
+        "balance": 18710.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 469.62,
+        "final_payment": 479.62,
+        "total_amount_payable": 24630.66,
+        "total_charge_for_credit": 3841.66,
+        "amount_of_credit": 18710.1,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20789,
+        "total_price": 20789,
+        "deposit": 2078.9,
+        "balance": 18710.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 322.34,
+        "final_payment": 8896.09,
+        "total_amount_payable": 26124.97,
+        "total_charge_for_credit": 5335.97,
+        "amount_of_credit": 18710.1,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8563.75,
+        "price_to_buy": 8896.09
+      }
+    ]
+  }
+]

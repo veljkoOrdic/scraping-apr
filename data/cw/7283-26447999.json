@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:11.456Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richardsanders.co.uk/used-car-details/used-renault-clio-hatchback-iconic-edition-hatchback-manual-petrol/id-18933072/",
+    "dealer_id": "7283",
+    "car_id": "26447999",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "CLIO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TCe 90 Iconic Edition",
+        "registration_number": "KY22LKV",
+        "registration_date": "17/06/2022",
+        "mileage": 10844,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1300,
+        "balance": 11695,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 209.75,
+        "final_payment": 3917.57,
+        "total_amount_payable": 17592.82,
+        "total_charge_for_credit": 4597.82,
+        "amount_of_credit": 11695,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 2.53,
+        "residual": 3917.57,
+        "price_to_buy": 3917.57
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1300,
+        "balance": 11695,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 256.01,
+        "final_payment": 256.01,
+        "total_amount_payable": 16660.6,
+        "total_charge_for_credit": 3665.6,
+        "amount_of_credit": 11695,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:01:36.635Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.db90.co.uk/details/used-car-in-doncaster/nissan/juke/1.0-dig-t-n-connecta-dct-auto-euro-6-ss-5dr/1184838/",
+    "dealer_id": "8696",
+    "car_id": "24608489",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T N-Connecta DCT",
+        "registration_number": "LS20HWL",
+        "registration_date": "24/08/2020",
+        "mileage": 9500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 218.8,
+        "final_payment": 4982.85,
+        "total_amount_payable": 19341.55,
+        "total_charge_for_credit": 4846.55,
+        "amount_of_credit": 13045.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.24,
+        "residual": 4981.85,
+        "price_to_buy": 4982.85
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 273.84,
+        "final_payment": 273.84,
+        "total_amount_payable": 17879.9,
+        "total_charge_for_credit": 3384.9,
+        "amount_of_credit": 13045.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

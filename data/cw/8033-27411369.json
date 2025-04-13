@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:18:55.648Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarvaultltd.co.uk/details/used-car-in-manchester/lamborghini/urus/4.0-v8-biturbo-auto-4wd-euro-6-5dr/1205227/",
+    "dealer_id": "8033",
+    "car_id": "27411369",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "BK20DXB",
+        "registration_date": "16/06/2020",
+        "mileage": 33000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 169995,
+        "total_price": 169995,
+        "deposit": 69995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 8.01,
+        "term": 48,
+        "regular_payment": 1372.49,
+        "final_payment": 67522.5,
+        "total_amount_payable": 202024.53,
+        "total_charge_for_credit": 32029.53,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 59,
+        "residual": 67522.5,
+        "price_to_buy": 67522.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 169995,
+        "total_price": 169995,
+        "deposit": 69995,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2099.08,
+        "final_payment": 2099.08,
+        "total_amount_payable": 195939.8,
+        "total_charge_for_credit": 25944.8,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

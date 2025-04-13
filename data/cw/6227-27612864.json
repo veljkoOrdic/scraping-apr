@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:10:24.197Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/mercedes-benz/mercedes-benz-g-class-2-9-g400d-amg-line-premium-g-tronic-4matic-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "27612864",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DF21TVL",
+        "registration_date": "14/05/2021",
+        "mileage": 34823,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 99975,
+        "total_price": 99975,
+        "deposit": 9997.5,
+        "balance": 89977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1333,
+        "final_payment": 55156.21,
+        "total_amount_payable": 127804.71,
+        "total_charge_for_credit": 27829.71,
+        "amount_of_credit": 89977.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99975,
+        "total_price": 99975,
+        "deposit": 9997.5,
+        "balance": 89977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 1888.7,
+        "final_payment": 1888.7,
+        "total_amount_payable": 123319.5,
+        "total_charge_for_credit": 23344.5,
+        "amount_of_credit": 89977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

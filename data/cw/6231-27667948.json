@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:25:24.657Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/porsche-911-38t-991-turbo-pdk-4wd-euro-6-ss-2dr",
+    "dealer_id": "6231",
+    "car_id": "27667948",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DG66BVU",
+        "registration_date": "02/09/2016",
+        "mileage": 20679,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 91995,
+        "total_price": 91995,
+        "deposit": 9199.5,
+        "balance": 82795.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1226.6,
+        "final_payment": 50753.64,
+        "total_amount_payable": 117603.34,
+        "total_charge_for_credit": 25608.34,
+        "amount_of_credit": 82795.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 91995,
+        "total_price": 91995,
+        "deposit": 1999,
+        "balance": 89996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2260.01,
+        "final_payment": 2260.01,
+        "total_amount_payable": 110479.48,
+        "total_charge_for_credit": 18484.48,
+        "amount_of_credit": 89996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

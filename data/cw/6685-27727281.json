@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:17:14.911Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.driversgallery.co.uk/details/car-in-bromsgrove/porsche/macan/3.0t-v6-s-pdk-4wd-euro-6-ss-5dr/1336317/",
+    "dealer_id": "6685",
+    "car_id": "27727281",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "B3CFX",
+        "registration_date": "28/09/2019",
+        "mileage": 60000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 693.89,
+        "final_payment": 16520.69,
+        "total_amount_payable": 53133.02,
+        "total_charge_for_credit": 13138.02,
+        "amount_of_credit": 35995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.4,
+        "residual": 16519.69,
+        "price_to_buy": 16520.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 35995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 951.35,
+        "final_payment": 951.35,
+        "total_amount_payable": 49664.3,
+        "total_charge_for_credit": 9669.3,
+        "amount_of_credit": 35995.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

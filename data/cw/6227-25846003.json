@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:12:05.465Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bentley/bentley-flying-spur-4-0-v8-mulliner-auto-4wd-euro-6-4dr/",
+    "dealer_id": "6227",
+    "car_id": "25846003",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "FLYING SPUR",
+        "variant": "SALOON",
+        "derivative": "4.0 V8 [4 Seat]",
+        "registration_number": "NC71SJV",
+        "registration_date": "08/01/2022",
+        "mileage": 17500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 127475,
+        "total_price": 127475,
+        "deposit": 12747.5,
+        "balance": 114727.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1699.67,
+        "final_payment": 70327.96,
+        "total_amount_payable": 162959.95,
+        "total_charge_for_credit": 35484.95,
+        "amount_of_credit": 114727.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 127475,
+        "total_price": 127475,
+        "deposit": 12747.5,
+        "balance": 114727.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 2408.22,
+        "final_payment": 2408.22,
+        "total_amount_payable": 157240.7,
+        "total_charge_for_credit": 29765.7,
+        "amount_of_credit": 114727.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

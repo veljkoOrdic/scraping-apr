@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:27:56.894Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wimbledoncarriage.co.uk/used-car-details/used-land-rover-defender-110-30d-x-dynamic-d300-hse-mhev-4-estate-silicon-silver-automatic-hybrid/id-8735/",
+    "dealer_id": "7527",
+    "car_id": "25135431",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 X-Dynamic HSE 110",
+        "registration_number": "gx73use",
+        "registration_date": "28/09/2023",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67500,
+        "total_price": 67500,
+        "deposit": 6750,
+        "balance": 60750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1275.19,
+        "final_payment": 1275.19,
+        "total_amount_payable": 83261.4,
+        "total_charge_for_credit": 15761.4,
+        "amount_of_credit": 60750,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67500,
+        "total_price": 67500,
+        "deposit": 6750,
+        "balance": 60750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 964.24,
+        "final_payment": 24713.62,
+        "total_amount_payable": 88353.78,
+        "total_charge_for_credit": 20853.78,
+        "amount_of_credit": 60750,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.69,
+        "residual": 24713.62,
+        "price_to_buy": 24713.62
+      }
+    ]
+  }
+]

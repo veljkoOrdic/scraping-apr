@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:39:14.876Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rs-vehiclesales.co.uk/cars/volkswagen/id.3/pro-s-77kwh-match-hatchback-5dr-electric-auto-4-seat-204-ps-exterior-pack-plus/1405896/",
+    "dealer_id": "8646",
+    "car_id": "27359083",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.3",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Match Pro S 77kWh",
+        "registration_number": "RF24LCJ",
+        "registration_date": "31/07/2024",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799.5,
+        "balance": 25195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 388.66,
+        "final_payment": 14298,
+        "total_amount_payable": 35753.18,
+        "total_charge_for_credit": 7758.18,
+        "amount_of_credit": 25195.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 14288,
+        "price_to_buy": 14298
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799.5,
+        "balance": 25195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 528.69,
+        "final_payment": 538.69,
+        "total_amount_payable": 34530.9,
+        "total_charge_for_credit": 6535.9,
+        "amount_of_credit": 25195.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

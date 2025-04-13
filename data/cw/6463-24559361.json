@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:02:22.007Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beavergarages.co.uk/cars/ford/puma/1.0-t-ecoboost-st-line/1092092/",
+    "dealer_id": "6463",
+    "car_id": "24559361",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost ST-Line",
+        "registration_number": "MT20DZG",
+        "registration_date": "09/07/2020",
+        "mileage": 19500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 15.5,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 317.29,
+        "final_payment": 317.29,
+        "total_amount_payable": 20536.9,
+        "total_charge_for_credit": 5541.9,
+        "amount_of_credit": 13495.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 15.6,
+        "rate_of_interest": 7.5,
+        "term": 48,
+        "regular_payment": 283.96,
+        "final_payment": 5832.5,
+        "total_amount_payable": 20962.08,
+        "total_charge_for_credit": 5967.08,
+        "amount_of_credit": 13495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5822.5,
+        "price_to_buy": 5832.5
+      }
+    ]
+  }
+]

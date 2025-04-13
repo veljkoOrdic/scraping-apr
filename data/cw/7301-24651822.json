@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:36:14.860Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westend-garage.co.uk/used/cars/honda/civic/2-0-civic-type-r-5dr-54",
+    "dealer_id": "7301",
+    "car_id": "24651822",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CIVIC",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 VTEC Turbo Type R",
+        "registration_number": "SV72WRT",
+        "registration_date": "20/01/2023",
+        "mileage": 3401,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 4500,
+        "balance": 40500,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 698.76,
+        "final_payment": 18623,
+        "total_amount_payable": 56663.48,
+        "total_charge_for_credit": 11663.48,
+        "amount_of_credit": 40500,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 18623,
+        "price_to_buy": 18623
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 4500,
+        "balance": 40500,
+        "apr": 10,
+        "rate_of_interest": 5.24,
+        "term": 60,
+        "regular_payment": 851.85,
+        "final_payment": 851.85,
+        "total_amount_payable": 55611,
+        "total_charge_for_credit": 10611,
+        "amount_of_credit": 40500,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -57,5 +57,64 @@
         "residual": 0
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-11T23:56:39.474Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-bentley-bentayga-reading-berkshire-6055386",
+    "dealer_id": "3150",
+    "car_id": "24473642",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "4.0 V8",
+        "registration_number": "LB67TSV",
+        "registration_date": "05/02/2018",
+        "mileage": 56000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64999,
+        "total_price": 64999,
+        "deposit": 6499,
+        "balance": 58500,
+        "apr": 13.5,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 1324.13,
+        "final_payment": 1324.13,
+        "total_amount_payable": 85946.8,
+        "total_charge_for_credit": 20947.8,
+        "amount_of_credit": 58500,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64999,
+        "total_price": 64999,
+        "deposit": 6499,
+        "balance": 58500,
+        "apr": 13.5,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 1323.9,
+        "final_payment": 1333.9,
+        "total_amount_payable": 85943,
+        "total_charge_for_credit": 20944,
+        "amount_of_credit": 58500,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]
