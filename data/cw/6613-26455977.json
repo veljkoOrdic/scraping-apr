@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:43:37.544Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autohausbirmingham.co.uk/used-audi-rs6-avant-birmingham-west-midlands-6540757",
+    "dealer_id": "6613",
+    "car_id": "26455977",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Vorsprung Tiptronic",
+        "registration_number": "PF21DBU",
+        "registration_date": "08/06/2021",
+        "mileage": 9000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84999,
+        "total_price": 84999,
+        "deposit": 8499,
+        "balance": 76500,
+        "apr": 10.4,
+        "rate_of_interest": 5.4,
+        "term": 48,
+        "regular_payment": 1938,
+        "final_payment": 1938,
+        "total_amount_payable": 101523,
+        "total_charge_for_credit": 16524,
+        "amount_of_credit": 76500,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84999,
+        "total_price": 84999,
+        "deposit": 8499,
+        "balance": 76500,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 1301.45,
+        "final_payment": 37642,
+        "total_amount_payable": 108610.6,
+        "total_charge_for_credit": 23611.6,
+        "amount_of_credit": 76500,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.89,
+        "residual": 37642,
+        "price_to_buy": 37642
+      }
+    ]
+  }
+]

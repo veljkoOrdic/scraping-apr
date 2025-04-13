@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:36:27.565Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.threewaysgarage.co.uk/used/vauxhall/crossland/griffin-turbo/abergele/conwy/20936306",
+    "dealer_id": "8072",
+    "car_id": "20959953",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CROSSLAND",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo Griffin",
+        "registration_number": "MP71MEP",
+        "registration_date": "22/10/2021",
+        "mileage": 10410,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.35,
+        "term": 48,
+        "regular_payment": 333.32,
+        "final_payment": 333.32,
+        "total_amount_payable": 17448.86,
+        "total_charge_for_credit": 2953.86,
+        "amount_of_credit": 13045.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 48,
+        "regular_payment": 277.79,
+        "final_payment": 3565,
+        "total_amount_payable": 18070.63,
+        "total_charge_for_credit": 3575.63,
+        "amount_of_credit": 13045.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 3555,
+        "price_to_buy": 3565
+      }
+    ]
+  }
+]

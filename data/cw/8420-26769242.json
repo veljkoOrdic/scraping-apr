@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T16:19:47.404Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.karlsmithcars.com/used-fiat-punto-blackpool-lancashire-6620291",
+    "dealer_id": "8420",
+    "car_id": "26769242",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "PUNTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Pop+",
+        "registration_number": "WP65ZYL",
+        "registration_date": "30/11/2015",
+        "mileage": 53978,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 399,
+        "balance": 3596,
+        "apr": 15,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 83.85,
+        "final_payment": 83.85,
+        "total_amount_payable": 5430,
+        "total_charge_for_credit": 1435,
+        "amount_of_credit": 3596,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

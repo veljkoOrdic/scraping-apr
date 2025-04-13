@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:53:28.840Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walkersmotorgroup.co.uk/used-cars/peugeot/e-5008/73kwh-gt-auto-5dr/nu74tvn",
+    "dealer_id": "6211",
+    "car_id": "26864081",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "5008",
+        "variant": "GT",
+        "derivative": "Electric 73kWh 210HP 1-speed",
+        "registration_number": "NU74TVN",
+        "registration_date": "20/09/2024",
+        "mileage": 3000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40990,
+        "total_price": 40990,
+        "deposit": 6148.5,
+        "balance": 34841.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 576.56,
+        "final_payment": 19145.39,
+        "total_amount_payable": 52392.21,
+        "total_charge_for_credit": 11402.21,
+        "amount_of_credit": 34841.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 11.51,
+        "residual": 19145.39,
+        "price_to_buy": 19145.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40990,
+        "total_price": 40990,
+        "deposit": 6148.5,
+        "balance": 34841.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 889.91,
+        "final_payment": 899.91,
+        "total_amount_payable": 48874.18,
+        "total_charge_for_credit": 7884.18,
+        "amount_of_credit": 34841.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

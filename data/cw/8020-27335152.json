@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:12:10.828Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lythamcars.co.uk/cars/bmw/1series/3.0-m140i-3-door/1404150/",
+    "dealer_id": "8020",
+    "car_id": "27335152",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "M140i 3-door",
+        "registration_number": "BX18UXY",
+        "registration_date": "28/03/2018",
+        "mileage": 45118,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18900,
+        "total_price": 18900,
+        "deposit": 1890,
+        "balance": 17010,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 23,
+        "regular_payment": 493.61,
+        "final_payment": 9240,
+        "total_amount_payable": 21989.42,
+        "total_charge_for_credit": 3089.42,
+        "amount_of_credit": 17010,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 19166,
+        "excess_mileage_rate": 13,
+        "residual": 9240,
+        "price_to_buy": 9240
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18900,
+        "total_price": 18900,
+        "deposit": 1890,
+        "balance": 17010,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 427.09,
+        "final_payment": 427.09,
+        "total_amount_payable": 22390.32,
+        "total_charge_for_credit": 3490.32,
+        "amount_of_credit": 17010,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

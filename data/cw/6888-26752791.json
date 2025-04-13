@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-12T00:14:34.289Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.towerhillgarage.com/cars/skoda/citigo/1.0-mpi-greentech-se/1354069/",
+    "dealer_id": "6888",
+    "car_id": "26752791",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "CITIGO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 MPI GreenTech SE",
+        "registration_number": "LD14UDU",
+        "registration_date": "30/05/2014",
+        "mileage": 68000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4500,
+        "total_price": 4500,
+        "deposit": 10,
+        "balance": 4490,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 96.25,
+        "final_payment": 97.25,
+        "total_amount_payable": 5786,
+        "total_charge_for_credit": 1286,
+        "amount_of_credit": 4490,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

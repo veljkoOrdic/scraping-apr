@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:54:40.619Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.barbournecarsales.com/used-fiat-500-worcester-worcestershire-6600909",
+    "dealer_id": "7697",
+    "car_id": "26890000",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Lounge",
+        "registration_number": "FN13ACU",
+        "registration_date": "22/03/2013",
+        "mileage": 66572,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3999,
+        "total_price": 3999,
+        "deposit": 399,
+        "balance": 3600,
+        "apr": 19.5,
+        "rate_of_interest": 7.75,
+        "term": 60,
+        "regular_payment": 91.34,
+        "final_payment": 91.34,
+        "total_amount_payable": 5879.4,
+        "total_charge_for_credit": 1880.4,
+        "amount_of_credit": 3600,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

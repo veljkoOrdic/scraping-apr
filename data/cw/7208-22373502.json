@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:53:51.864Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakwoodmotorcompany.com/used-audi-a3-bury-greater-manchester-5564760",
+    "dealer_id": "7208",
+    "car_id": "22373502",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "30 TFSI Sport",
+        "registration_number": "LM70UWR",
+        "registration_date": "16/11/2020",
+        "mileage": 19574,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16618,
+        "total_price": 16618,
+        "deposit": 1661,
+        "balance": 14957,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 49,
+        "regular_payment": 267.64,
+        "final_payment": 7928,
+        "total_amount_payable": 22435.72,
+        "total_charge_for_credit": 5817.72,
+        "amount_of_credit": 14957,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 7918,
+        "price_to_buy": 7928
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16618,
+        "total_price": 16618,
+        "deposit": 1661,
+        "balance": 14957,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 313.85,
+        "final_payment": 323.85,
+        "total_amount_payable": 20502,
+        "total_charge_for_credit": 3884,
+        "amount_of_credit": 14957,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

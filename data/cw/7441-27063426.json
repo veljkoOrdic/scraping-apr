@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:49:08.083Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cedarspecialistcars.co.uk/vehicle/seat-leon-15-tsi-evo-fr-sport-euro-6-ss-5dr-in-mansfield-nottinghamshire-26f5bd3c-786b-4ea5-8273-b28100b9f84d",
+    "dealer_id": "7441",
+    "car_id": "27063426",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "LEON",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 TSI EVO FR Sport",
+        "registration_number": "FL71VUE",
+        "registration_date": "05/01/2022",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 258.47,
+        "final_payment": 8773.68,
+        "total_amount_payable": 22671.27,
+        "total_charge_for_credit": 5176.27,
+        "amount_of_credit": 15745.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.78,
+        "residual": 8773.68,
+        "price_to_buy": 8773.68
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 402.31,
+        "final_payment": 402.31,
+        "total_amount_payable": 21060.38,
+        "total_charge_for_credit": 3565.38,
+        "amount_of_credit": 15745.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

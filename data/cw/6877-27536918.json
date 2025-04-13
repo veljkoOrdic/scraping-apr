@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:56:52.057Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.essexcarfleet.co.uk/cars/landrover/discoverysport/2.0-p250-mhev-r-dynamic-hse/1420419/",
+    "dealer_id": "6877",
+    "car_id": "27536918",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY SPORT",
+        "variant": "SW",
+        "derivative": "2.0 P250 R-Dynamic HSE",
+        "registration_number": "KT69OVS",
+        "registration_date": "02/01/2020",
+        "mileage": 26947,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 404.47,
+        "final_payment": 13209.17,
+        "total_amount_payable": 34918.76,
+        "total_charge_for_credit": 7923.76,
+        "amount_of_credit": 24295.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.55,
+        "residual": 13209.17,
+        "price_to_buy": 13209.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 642.01,
+        "final_payment": 643.01,
+        "total_amount_payable": 33516.98,
+        "total_charge_for_credit": 6521.98,
+        "amount_of_credit": 24295.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

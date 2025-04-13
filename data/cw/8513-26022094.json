@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:07:13.110Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dreamspec.co.uk/vehicle/land-rover-range-rover-30-sd-v6-autobiography-auto-4wd-euro-6-ss-5dr-in-cardiff-glamorgan-7029ffb2-cf01-47f8-8a79-b211009ed47f",
+    "dealer_id": "8513",
+    "car_id": "26022094",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6biography",
+        "registration_number": "KN69AZP",
+        "registration_date": "01/09/2019",
+        "mileage": 59000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34500,
+        "total_price": 34500,
+        "deposit": 3450,
+        "balance": 31050,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 40,
+        "regular_payment": 561.92,
+        "final_payment": 18589,
+        "total_amount_payable": 43953.88,
+        "total_charge_for_credit": 9453.88,
+        "amount_of_credit": 31050,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 26,
+        "residual": 18579,
+        "price_to_buy": 18589
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34500,
+        "total_price": 34500,
+        "deposit": 3450,
+        "balance": 31050,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 651.63,
+        "final_payment": 661.63,
+        "total_amount_payable": 42557.8,
+        "total_charge_for_credit": 8057.8,
+        "amount_of_credit": 31050,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

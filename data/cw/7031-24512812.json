@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:50:49.758Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scottishcommercials.com/vehicle-details/used-ford-transit-280-trend-p-v-for-sale-in-west-lothian-u2765/",
+    "dealer_id": "7031",
+    "car_id": "24512812",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "280 MWB DIESEL FWD",
+        "derivative": "Medium Roof Van Trend TDCi 125ps",
+        "registration_number": "SV62NEJ",
+        "registration_date": "04/09/2012",
+        "mileage": 141075,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 449.5,
+        "balance": 4045.5,
+        "apr": 21.1,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 121.48,
+        "final_payment": 131.48,
+        "total_amount_payable": 6290.54,
+        "total_charge_for_credit": 1795.54,
+        "amount_of_credit": 4045.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 449.5,
+        "balance": 4045.5,
+        "apr": 21.2,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 121.76,
+        "final_payment": 121.76,
+        "total_amount_payable": 6293.98,
+        "total_charge_for_credit": 1798.98,
+        "amount_of_credit": 4045.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

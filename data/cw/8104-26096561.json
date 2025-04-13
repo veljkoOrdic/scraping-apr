@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:52:50.130Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.primelondonmotors.co.uk/details/used-car-in-staines/mercedes-benz/glaclass/2.1-gla220d-sport-executive-7g-dct-4matic-euro-6-ss-5dr/1300854/",
+    "dealer_id": "8104",
+    "car_id": "26096561",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLA",
+        "variant": "GLA Class Diesel",
+        "derivative": "GLA 220d Sport Executive SUV Auto 4MATIC F/L 2017",
+        "registration_number": "BN68JXB",
+        "registration_date": "08/09/2018",
+        "mileage": 41000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15194,
+        "total_price": 15194,
+        "deposit": 1519.4,
+        "balance": 13674.6,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 28,
+        "regular_payment": 294.71,
+        "final_payment": 8954,
+        "total_amount_payable": 18430.57,
+        "total_charge_for_credit": 3236.57,
+        "amount_of_credit": 13674.6,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 23333,
+        "excess_mileage_rate": 12,
+        "residual": 8944,
+        "price_to_buy": 8954
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15194,
+        "total_price": 15194,
+        "deposit": 1519.4,
+        "balance": 13674.6,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 299.33,
+        "final_payment": 300.33,
+        "total_amount_payable": 19480.2,
+        "total_charge_for_credit": 4286.2,
+        "amount_of_credit": 13674.6,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

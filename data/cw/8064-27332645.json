@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:32:41.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.themanchestermotorcompany.co.uk/used-bmw-1-series-bolton-greater-manchester-6767473",
+    "dealer_id": "8064",
+    "car_id": "27332645",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "128ti",
+        "registration_number": "YC21RNU",
+        "registration_date": "31/03/2021",
+        "mileage": 50200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 12.4,
+        "rate_of_interest": 11.74,
+        "term": 48,
+        "regular_payment": 358.75,
+        "final_payment": 9835,
+        "total_amount_payable": 29254,
+        "total_charge_for_credit": 7264,
+        "amount_of_credit": 19791,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.39,
+        "residual": 9835,
+        "price_to_buy": 9835
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 439.53,
+        "final_payment": 439.53,
+        "total_amount_payable": 28570.8,
+        "total_charge_for_credit": 6580.8,
+        "amount_of_credit": 19791,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

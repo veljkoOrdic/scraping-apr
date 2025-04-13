@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:13:10.169Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/volkswagen-tiguan-20-tsi-r-dsg-4motion-euro-6-ss-5dr-in-west-midlands-8dbab77e-51df-4414-9cc2-b2320105ddb5",
+    "dealer_id": "6796",
+    "car_id": "26350166",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "2.0 TSI 320 4Motion R DSG",
+        "registration_number": "CP21LLA",
+        "registration_date": "07/02/2023",
+        "mileage": 26500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38999,
+        "total_price": 38999,
+        "deposit": 3899.9,
+        "balance": 35099.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 620.43,
+        "final_payment": 14621,
+        "total_amount_payable": 47681.11,
+        "total_charge_for_credit": 8682.11,
+        "amount_of_credit": 35099.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.72,
+        "residual": 14611,
+        "price_to_buy": 14621
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38999,
+        "total_price": 38999,
+        "deposit": 3899.9,
+        "balance": 35099.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 866.05,
+        "final_payment": 867.05,
+        "total_amount_payable": 45471.3,
+        "total_charge_for_credit": 6472.3,
+        "amount_of_credit": 35099.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

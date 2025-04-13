@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:11:37.554Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ucar.co.uk/cars/volkswagen/touareg/3.0-tdi-v6-black-edition/1432908/",
+    "dealer_id": "7100",
+    "car_id": "27703423",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TOUAREG",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 V6 TDI 4Motion 286 Black Edition Tip",
+        "registration_number": "AO73YTD",
+        "registration_date": "27/10/2023",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54750,
+        "total_price": 54750,
+        "deposit": 5475,
+        "balance": 49275,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 834.91,
+        "final_payment": 18168.27,
+        "total_amount_payable": 72902.96,
+        "total_charge_for_credit": 18152.96,
+        "amount_of_credit": 49275,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.37,
+        "residual": 18167.27,
+        "price_to_buy": 18168.27
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54750,
+        "total_price": 54750,
+        "deposit": 5475,
+        "balance": 49275,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1056.43,
+        "final_payment": 1057.43,
+        "total_amount_payable": 68861.8,
+        "total_charge_for_credit": 14111.8,
+        "amount_of_credit": 49275,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

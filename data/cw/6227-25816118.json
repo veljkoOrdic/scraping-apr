@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:09:44.052Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bentley/bentley-continental-6-0-w12-gt-auto-4wd-euro-6-2dr/",
+    "dealer_id": "6227",
+    "car_id": "25816118",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GT",
+        "variant": "COUPE",
+        "derivative": "6.0 W12",
+        "registration_number": "LH68AKP",
+        "registration_date": "05/11/2018",
+        "mileage": 25707,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 94975,
+        "total_price": 94975,
+        "deposit": 9497.5,
+        "balance": 85477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1266.33,
+        "final_payment": 52397.71,
+        "total_amount_payable": 121412.72,
+        "total_charge_for_credit": 26437.72,
+        "amount_of_credit": 85477.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 94975,
+        "total_price": 94975,
+        "deposit": 9497.5,
+        "balance": 85477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 1794.24,
+        "final_payment": 1794.24,
+        "total_amount_payable": 117151.9,
+        "total_charge_for_credit": 22176.9,
+        "amount_of_credit": 85477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

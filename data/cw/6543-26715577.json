@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T20:49:17.153Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.breeze.co.uk/used/volkswagen/id-buzz/77kwh-commerce-swb/portsmouth/hampshire/238976",
+    "dealer_id": "6543",
+    "car_id": "26715577",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID. BUZZ",
+        "variant": "CARGO",
+        "derivative": "150kW Commerce Plus 77kWh",
+        "registration_number": "HY74VBC",
+        "registration_date": "10/09/2024",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40776,
+        "total_price": 40776,
+        "deposit": 10444,
+        "balance": 30332,
+        "apr": 11.2,
+        "rate_of_interest": 11.16,
+        "term": 60,
+        "regular_payment": 653.91,
+        "final_payment": 663.91,
+        "total_amount_payable": 49688.6,
+        "total_charge_for_credit": 8912.6,
+        "amount_of_credit": 30332,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 40776,
+        "total_price": 40776,
+        "deposit": 10444,
+        "balance": 30332,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 49,
+        "regular_payment": 459.27,
+        "final_payment": 19361.5,
+        "total_amount_payable": 51850.46,
+        "total_charge_for_credit": 11074.46,
+        "amount_of_credit": 30332,
+        "lender": "Volkswagen Financial Services (UK) Limited"
+      }
+    ]
+  }
+]

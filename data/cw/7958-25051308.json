@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:34:30.852Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simonbailes.co.uk/used-car-details/used-peugeot-e-2008-50kwh-allure-auto-5dr-7kw-cha-suv-nera-black-automatic-electric/id-202407232067533/#financetab",
+    "dealer_id": "7958",
+    "car_id": "25051308",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "E- ELECTRIC ESTATE",
+        "derivative": "100kW Allure 50kWh",
+        "registration_number": "NY24BCK",
+        "registration_date": "28/06/2024",
+        "mileage": 5,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 3449,
+        "balance": 19546,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 385.89,
+        "final_payment": 8348,
+        "total_amount_payable": 29978.83,
+        "total_charge_for_credit": 6983.83,
+        "amount_of_credit": 19546,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 8348,
+        "price_to_buy": 8348
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 3449,
+        "balance": 19546,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 516.59,
+        "final_payment": 516.59,
+        "total_amount_payable": 28245.32,
+        "total_charge_for_credit": 5250.32,
+        "amount_of_credit": 19546,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

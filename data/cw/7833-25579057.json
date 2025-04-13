@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:36:58.314Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/porsche/cayman/20-style-edition-2dr-pdk/york/north-yorkshire/21392235",
+    "dealer_id": "7833",
+    "car_id": "25579057",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE SPECIAL EDITION",
+        "derivative": "2.0 Style Edition PDK",
+        "registration_number": "YB23OWP",
+        "registration_date": "27/06/2023",
+        "mileage": 7022,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53990,
+        "total_price": 53990,
+        "deposit": 5399,
+        "balance": 48591,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1262.7,
+        "final_payment": 1272.7,
+        "total_amount_payable": 66018.6,
+        "total_charge_for_credit": 12028.6,
+        "amount_of_credit": 48591,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53990,
+        "total_price": 53990,
+        "deposit": 5399,
+        "balance": 48591,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 878.29,
+        "final_payment": 23403.75,
+        "total_amount_payable": 70960.67,
+        "total_charge_for_credit": 16970.67,
+        "amount_of_credit": 48591,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.9,
+        "residual": 23393.75,
+        "price_to_buy": 23403.75
+      }
+    ]
+  }
+]

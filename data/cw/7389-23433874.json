@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:45.181Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/lamborghini/huracan/5-2-v10-lp-640-4-performante-spyder-ldf-4wd-euro-6-s-s-2dr-297",
+    "dealer_id": "7389",
+    "car_id": "23433874",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "SPYDER",
+        "derivative": "LP 640-4 Performante LDF",
+        "registration_number": "LJ69CRF",
+        "registration_date": "07/12/2019",
+        "mileage": 9700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 259000,
+        "total_price": 259000,
+        "deposit": 25900,
+        "balance": 233100,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 55,
+        "regular_payment": 4419.71,
+        "final_payment": 60754.51,
+        "total_amount_payable": 325318.85,
+        "total_charge_for_credit": 66318.85,
+        "amount_of_credit": 233100,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 45.24,
+        "residual": 60754.51,
+        "price_to_buy": 60754.51
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 259000,
+        "total_price": 259000,
+        "deposit": 25900,
+        "balance": 233100,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 4892.95,
+        "final_payment": 4892.95,
+        "total_amount_payable": 319477,
+        "total_charge_for_credit": 60477,
+        "amount_of_credit": 233100,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:39:28.951Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goldheartautomotive.com/cars/mercedes-benz/aclass/2.0-a35-amg/1423869/",
+    "dealer_id": "8574",
+    "car_id": "27573518",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "A-Class",
+        "variant": "A-Class 177 AMG Hatchback",
+        "derivative": "A35 4MATIC Premium Plus Auto 5dr MY20.5 2019",
+        "registration_number": "KN21RYJ",
+        "registration_date": "18/03/2021",
+        "mileage": 34808,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849.5,
+        "balance": 25645.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 451.52,
+        "final_payment": 11272.5,
+        "total_amount_payable": 35794.96,
+        "total_charge_for_credit": 7299.96,
+        "amount_of_credit": 25645.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 6,
+        "residual": 11272.5,
+        "price_to_buy": 11272.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849.5,
+        "balance": 25645.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 538.34,
+        "final_payment": 538.34,
+        "total_amount_payable": 35149.9,
+        "total_charge_for_credit": 6654.9,
+        "amount_of_credit": 25645.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

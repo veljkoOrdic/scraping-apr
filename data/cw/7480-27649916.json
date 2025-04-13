@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:00:23.023Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.normandygarage.co.uk/used-cars/mitsubishi/mirage/12-4-cvt-euro-6/rn19vff",
+    "dealer_id": "7480",
+    "car_id": "27649916",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mitsubishi",
+        "model": "MIRAGE",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 4 CVT",
+        "registration_number": "RN19VFF",
+        "registration_date": "31/07/2019",
+        "mileage": 25532,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9895,
+        "total_price": 9895,
+        "deposit": 1979,
+        "balance": 7916,
+        "apr": 10.9,
+        "rate_of_interest": 5.61,
+        "term": 39,
+        "regular_payment": 157.93,
+        "final_payment": 3946,
+        "total_amount_payable": 11926.34,
+        "total_charge_for_credit": 2031.34,
+        "amount_of_credit": 7916,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 7,
+        "residual": 3946,
+        "price_to_buy": 3946
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9895,
+        "total_price": 9895,
+        "deposit": 1979,
+        "balance": 7916,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 202.25,
+        "final_payment": 202.25,
+        "total_amount_payable": 11687,
+        "total_charge_for_credit": 1792,
+        "amount_of_credit": 7916,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

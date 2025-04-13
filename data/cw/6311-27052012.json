@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:49:36.059Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.benharrisonautomotive.co.uk/details/car-in-poole/mercedes-benz/eclass/4.0-e63-v8-biturbo-amg-s-premium-spds-mct-4matic+-euro-6-ss-4dr/847907/",
+    "dealer_id": "6311",
+    "car_id": "27052012",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6biography Dynamic",
+        "registration_number": "BM12LAD",
+        "registration_date": "05/07/2018",
+        "mileage": 48000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 27,
+        "regular_payment": 1148.95,
+        "final_payment": 19072,
+        "total_amount_payable": 52395.25,
+        "total_charge_for_credit": 6400.25,
+        "amount_of_credit": 41395.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 22500,
+        "excess_mileage_rate": 29,
+        "residual": 19062,
+        "price_to_buy": 19072
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 868.79,
+        "final_payment": 878.79,
+        "total_amount_payable": 56736.9,
+        "total_charge_for_credit": 10741.9,
+        "amount_of_credit": 41395.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

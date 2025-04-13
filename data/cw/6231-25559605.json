@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T17:22:57.111Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/ferrari-mondial-34t-cabriolet-2dr",
+    "dealer_id": "6231",
+    "car_id": "25559605",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "MONDIAL",
+        "variant": "COUPE",
+        "derivative": "3.4 t",
+        "registration_number": "G404SGT",
+        "registration_date": "03/01/1990",
+        "mileage": 42957,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 47995,
+        "total_price": 47995,
+        "deposit": 4799.5,
+        "balance": 43195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 639.93,
+        "final_payment": 26478.84,
+        "total_amount_payable": 61355.05,
+        "total_charge_for_credit": 13360.05,
+        "amount_of_credit": 43195.5,
+        "lender": "Evolution Funding"
+      }
+    ]
+  }
+]

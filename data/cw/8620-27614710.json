@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:30:07.815Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.speed-house.co.uk/vehicle/bmw-x5-m50d-auto-4wd-in-ribble-valley-lancashire-e3232951-6a79-4ee7-83b2-b2a700b63f03",
+    "dealer_id": "8620",
+    "car_id": "27614710",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M50d",
+        "registration_number": "VK70UYD",
+        "registration_date": "19/10/2020",
+        "mileage": 37878,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 678.04,
+        "final_payment": 19845,
+        "total_amount_payable": 56890.42,
+        "total_charge_for_credit": 11895.42,
+        "amount_of_credit": 40495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9,
+        "residual": 19845,
+        "price_to_buy": 19845
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 850.07,
+        "final_payment": 850.07,
+        "total_amount_payable": 55503.7,
+        "total_charge_for_credit": 10508.7,
+        "amount_of_credit": 40495.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

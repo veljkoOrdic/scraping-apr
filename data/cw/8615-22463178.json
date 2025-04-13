@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:26:12.936Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/mercedes-eqs-450-1084kwh-exclusive-luxury-saloon-5dr-electric-auto-333-ps-in-kings-lynn-norfolk-c3e563dd-6645-42f1-8df7-552c80ed2823",
+    "dealer_id": "8615",
+    "car_id": "22463178",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "EQS",
+        "variant": "SALOON",
+        "derivative": "EQS 450+ 245kW Exclusive Luxury 108kWh",
+        "registration_number": "AV22TJX",
+        "registration_date": "29/04/2022",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59895,
+        "total_price": 59895,
+        "deposit": 5989.5,
+        "balance": 53905.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1155.72,
+        "final_payment": 1155.72,
+        "total_amount_payable": 75332.7,
+        "total_charge_for_credit": 15437.7,
+        "amount_of_credit": 53905.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59895,
+        "total_price": 59895,
+        "deposit": 5989.5,
+        "balance": 53905.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 954.14,
+        "final_payment": 16726.4,
+        "total_amount_payable": 79010.16,
+        "total_charge_for_credit": 19115.16,
+        "amount_of_credit": 53905.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.01,
+        "residual": 16726.4,
+        "price_to_buy": 16726.4
+      }
+    ]
+  }
+]

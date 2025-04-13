@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:48:32.233Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.spiritmotorcompany.co.uk/used-bmw-x5-leigh-lancashire-5918555",
+    "dealer_id": "6187",
+    "car_id": "23902192",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive40d M Sport",
+        "registration_number": "WN23JHF",
+        "registration_date": "31/03/2023",
+        "mileage": 12923,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 58940,
+        "total_price": 58940,
+        "deposit": 5894,
+        "balance": 53046,
+        "apr": 11.4,
+        "rate_of_interest": 10.84,
+        "term": 48,
+        "regular_payment": 909.09,
+        "final_payment": 27598,
+        "total_amount_payable": 77128.32,
+        "total_charge_for_credit": 18188.32,
+        "amount_of_credit": 53046,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.23,
+        "residual": 27598,
+        "price_to_buy": 27598
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58940,
+        "total_price": 58940,
+        "deposit": 5894,
+        "balance": 53046,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 1149.33,
+        "final_payment": 1149.33,
+        "total_amount_payable": 74853.8,
+        "total_charge_for_credit": 15913.8,
+        "amount_of_credit": 53046,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

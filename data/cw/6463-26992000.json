@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:02:35.322Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beavergarages.co.uk/cars/ford/fiesta/1.0-fiesta-st-line-x-5-door-1.0l-ecoboost-100ps-fwd-6-speed-manual/1372156/",
+    "dealer_id": "6463",
+    "car_id": "26992000",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost ST-Line X",
+        "registration_number": "AJ72YRM",
+        "registration_date": "30/12/2022",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16695,
+        "total_price": 16695,
+        "deposit": 1669.5,
+        "balance": 15025.5,
+        "apr": 15.3,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 352.36,
+        "final_payment": 352.36,
+        "total_amount_payable": 22811.1,
+        "total_charge_for_credit": 6116.1,
+        "amount_of_credit": 15025.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16695,
+        "total_price": 16695,
+        "deposit": 1669.5,
+        "balance": 15025.5,
+        "apr": 15.5,
+        "rate_of_interest": 7.5,
+        "term": 48,
+        "regular_payment": 300.89,
+        "final_payment": 7405,
+        "total_amount_payable": 23517.22,
+        "total_charge_for_credit": 6822.22,
+        "amount_of_credit": 15025.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7395,
+        "price_to_buy": 7405
+      }
+    ]
+  }
+]

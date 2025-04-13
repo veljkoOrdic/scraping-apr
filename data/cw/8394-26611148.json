@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:02:45.252Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-ferrari-599-liskeard-cornwall-6443862",
+    "dealer_id": "8394",
+    "car_id": "26611148",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "599",
+        "variant": "COUPE",
+        "derivative": "GTB Fiorano F1",
+        "registration_number": "WA08FHP",
+        "registration_date": "18/04/2008",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 87500,
+        "total_price": 87500,
+        "deposit": 8750,
+        "balance": 78750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1166.67,
+        "final_payment": 48273.75,
+        "total_amount_payable": 111857.24,
+        "total_charge_for_credit": 24357.24,
+        "amount_of_credit": 78750,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 87500,
+        "total_price": 87500,
+        "deposit": 8750,
+        "balance": 78750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1653.02,
+        "final_payment": 1653.02,
+        "total_amount_payable": 107931.2,
+        "total_charge_for_credit": 20431.2,
+        "amount_of_credit": 78750,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

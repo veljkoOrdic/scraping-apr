@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:16:31.477Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ceirseiontcars.com/used/cars/audi/q5/3-0-sq5-tdi-quattro-auto-4wd-5dr-308",
+    "dealer_id": "7771",
+    "car_id": "25950016",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "SQ5",
+        "derivative": "SQ5 TDI 347 PS tiptronic",
+        "registration_number": "OCC486",
+        "registration_date": "13/12/2019",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 56,
+        "regular_payment": 596.63,
+        "final_payment": 11358.02,
+        "total_amount_payable": 47671.67,
+        "total_charge_for_credit": 12681.67,
+        "amount_of_credit": 31491,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 6.86,
+        "residual": 11358.02,
+        "price_to_buy": 11358.02
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 703.56,
+        "final_payment": 703.56,
+        "total_amount_payable": 45712.6,
+        "total_charge_for_credit": 10722.6,
+        "amount_of_credit": 31491,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

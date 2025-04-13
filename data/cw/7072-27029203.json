@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:05:15.108Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/hyundai-ioniq-5-84kwh-n-auto-awd-5dr-in-leicestershire-ddb548c4-4148-401d-940b-b27d00ec4e03",
+    "dealer_id": "7072",
+    "car_id": "27029203",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 5 N",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "478kW 84 kWh",
+        "registration_number": "WU74RWF",
+        "registration_date": "17/09/2024",
+        "mileage": 3800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 830.28,
+        "final_payment": 25930,
+        "total_amount_payable": 71282.94,
+        "total_charge_for_credit": 16287.94,
+        "amount_of_credit": 49495.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 25920,
+        "price_to_buy": 25930
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1060.85,
+        "final_payment": 1070.85,
+        "total_amount_payable": 69160.5,
+        "total_charge_for_credit": 14165.5,
+        "amount_of_credit": 49495.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:27:17.705Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wimbledoncarriage.co.uk/used-car-details/used-alfa-romeo-giulia-v6-29-bi-turbo-quadrifoglio-saloon-silverstone-grey-metallic-automatic-petrol/id-5310/",
+    "dealer_id": "7527",
+    "car_id": "19604528",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "GIULIA",
+        "variant": "SALOON SPECIAL EDITION",
+        "derivative": "2.9 V6 BiTurbo Quadrifoglio NRing",
+        "registration_number": "fj70hcn",
+        "registration_date": "01/09/2020",
+        "mileage": 26800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4400,
+        "balance": 39595,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 831.13,
+        "final_payment": 831.13,
+        "total_amount_payable": 54267.8,
+        "total_charge_for_credit": 10272.8,
+        "amount_of_credit": 39595,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4400,
+        "balance": 39595,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 649.14,
+        "final_payment": 20701,
+        "total_amount_payable": 55610.58,
+        "total_charge_for_credit": 11615.58,
+        "amount_of_credit": 39595,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 29,
+        "residual": 20691,
+        "price_to_buy": 20701
+      }
+    ]
+  }
+]

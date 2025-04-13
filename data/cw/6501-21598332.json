@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:19:09.279Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvhcarsales.co.uk/detail/1313922/used-land-rover-discovery-2-0-sd4-hse-5dr-automatic-birkenhead",
+    "dealer_id": "6501",
+    "car_id": "21598332",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "2.0 SD4 HSE",
+        "registration_number": "CY18BWO",
+        "registration_date": "23/05/2018",
+        "mileage": 47835,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 37,
+        "regular_payment": 503.25,
+        "final_payment": 10168.44,
+        "total_amount_payable": 30784.94,
+        "total_charge_for_credit": 5789.94,
+        "amount_of_credit": 22495.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 5.37,
+        "residual": 10167.44,
+        "price_to_buy": 10168.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 492.43,
+        "final_payment": 493.43,
+        "total_amount_payable": 32046.3,
+        "total_charge_for_credit": 7051.3,
+        "amount_of_credit": 22495.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

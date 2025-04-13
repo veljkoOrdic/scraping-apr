@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:48:52.553Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.askcarsales.co.uk/vehicle/bmw-650i-48-v8-sport-coupe-2dr-petrol-in-bristol-c1cc1939-7658-4542-8ae4-d33482f60e09",
+    "dealer_id": "7686",
+    "car_id": "27311812",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "6 Series",
+        "variant": "COUPE",
+        "derivative": "650i Sport",
+        "registration_number": "YY07XES",
+        "registration_date": "10/08/2007",
+        "mileage": 91817,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 699.5,
+        "balance": 6295.5,
+        "apr": 14.9,
+        "rate_of_interest": 7.88,
+        "term": 60,
+        "regular_payment": 146.27,
+        "final_payment": 156.27,
+        "total_amount_payable": 9485.7,
+        "total_charge_for_credit": 2490.7,
+        "amount_of_credit": 6295.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

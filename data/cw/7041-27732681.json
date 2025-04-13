@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T16:00:08.753Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.clevelandcarcentre.com/details/used-car-in-cleveland/bmw/1series/1.5-116d-sport-auto-euro-6-ss-5dr/1362825/",
+    "dealer_id": "7041",
+    "car_id": "27732681",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "116d Sport 5-door",
+        "registration_number": "FJ67ULF",
+        "registration_date": "28/09/2017",
+        "mileage": 50000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 221.08,
+        "final_payment": 221.08,
+        "total_amount_payable": 14364.3,
+        "total_charge_for_credit": 3369.3,
+        "amount_of_credit": 9895.5,
+        "lender": "Zest Motor Finance"
+      }
+    ]
+  }
+]

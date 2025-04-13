@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:08:58.357Z",
+    "source": "codeweavers_calculator",
+    "url": "https://alprestigecars.co.uk/vehicle/2023-73-reg-mercedes-benz-eqs-eqs-580-108-4kwh-business-class-auto-4matic-5dr-59722/",
+    "dealer_id": "7747",
+    "car_id": "27207708",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "EQS",
+        "variant": "ESTATE",
+        "derivative": "EQS 580 4M 400kW Business Class 108kWh",
+        "registration_number": "GF73KJV",
+        "registration_date": "31/10/2023",
+        "mileage": 15743,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 104999,
+        "total_price": 104999,
+        "deposit": 1000,
+        "balance": 103999,
+        "apr": 14.9,
+        "rate_of_interest": 7.77,
+        "term": 48,
+        "regular_payment": 2177.98,
+        "final_payment": 44432.98,
+        "total_amount_payable": 147798.04,
+        "total_charge_for_credit": 42799.04,
+        "amount_of_credit": 103999,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 42245,
+        "price_to_buy": 44432.98
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 104999,
+        "total_price": 104999,
+        "deposit": 1000,
+        "balance": 103999,
+        "apr": 14.9,
+        "rate_of_interest": 7.77,
+        "term": 48,
+        "regular_payment": 2840.04,
+        "final_payment": 2850.04,
+        "total_amount_payable": 137331.92,
+        "total_charge_for_credit": 32332.92,
+        "amount_of_credit": 103999,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T22:06:40.674Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reciprocalmotors.co.uk/vehicle/vauxhall-astra-14i-turbo-elite-nav-euro-6-5dr-in-ferndown-dorset-f43f5ff7-b566-46c5-81c1-b2b800d38fa4",
+    "dealer_id": "6662",
+    "car_id": "27720786",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.4T 16V 150 Elite Nav",
+        "registration_number": "DV67KBK",
+        "registration_date": "22/12/2017",
+        "mileage": 41023,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 12.3,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 178.76,
+        "final_payment": 178.76,
+        "total_amount_payable": 11625.1,
+        "total_charge_for_credit": 2630.1,
+        "amount_of_credit": 8095.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 12.3,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 178.55,
+        "final_payment": 188.55,
+        "total_amount_payable": 11622.5,
+        "total_charge_for_credit": 2627.5,
+        "amount_of_credit": 8095.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:33:08.079Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.easthammotors.co.uk/vehicle/t-roc-841",
+    "dealer_id": "6401",
+    "car_id": "26535721",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "T-ROC",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 TSI EVO R-Line",
+        "registration_number": "CF21UBN",
+        "registration_date": "07/06/2021",
+        "mileage": 20130,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20795,
+        "total_price": 20795,
+        "deposit": 2500,
+        "balance": 18295,
+        "apr": 11.9,
+        "rate_of_interest": 11.27,
+        "term": 60,
+        "regular_payment": 400.49,
+        "final_payment": 400.49,
+        "total_amount_payable": 26529.4,
+        "total_charge_for_credit": 5734.4,
+        "amount_of_credit": 18295,
+        "lender": "Suzuki FS",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20795,
+        "total_price": 20795,
+        "deposit": 2500,
+        "balance": 18295,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 49,
+        "regular_payment": 303.93,
+        "final_payment": 10447,
+        "total_amount_payable": 27535.64,
+        "total_charge_for_credit": 6740.64,
+        "amount_of_credit": 18295,
+        "lender": "Suzuki FS",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 4.8,
+        "residual": 10437,
+        "price_to_buy": 10447
+      }
+    ]
+  }
+]

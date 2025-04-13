@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:21:03.043Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bbcars.co.uk/used-nissan-leaf-bridport-dorset-5845087",
+    "dealer_id": "6800",
+    "car_id": "23567115",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "110kW Tekna 39kWh",
+        "registration_number": "YG24ZVC",
+        "registration_date": "01/03/2024",
+        "mileage": 50,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 354.45,
+        "final_payment": 354.45,
+        "total_amount_payable": 23066,
+        "total_charge_for_credit": 5076,
+        "amount_of_credit": 16191,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 60,
+        "regular_payment": 320.26,
+        "final_payment": 4284.94,
+        "total_amount_payable": 24979.28,
+        "total_charge_for_credit": 6989.28,
+        "amount_of_credit": 16191,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.95,
+        "residual": 4284.94,
+        "price_to_buy": 4284.94
+      }
+    ]
+  }
+]

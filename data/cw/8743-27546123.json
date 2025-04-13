@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:32:39.867Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lakesideclassics.uk.com/cars/porsche/718/2.0-t-t/1411041/",
+    "dealer_id": "8743",
+    "car_id": "27546123",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "2.0 T PDK",
+        "registration_number": "BU69VXZ",
+        "registration_date": "02/09/2019",
+        "mileage": 38278,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39991,
+        "total_price": 39991,
+        "deposit": 3999.1,
+        "balance": 35991.9,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 52,
+        "regular_payment": 642.85,
+        "final_payment": 14997.05,
+        "total_amount_payable": 51781.5,
+        "total_charge_for_credit": 11790.5,
+        "amount_of_credit": 35991.9,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 26000,
+        "excess_mileage_rate": 8.4,
+        "residual": 14996.05,
+        "price_to_buy": 14997.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39991,
+        "total_price": 39991,
+        "deposit": 3999.1,
+        "balance": 35991.9,
+        "apr": 9.4,
+        "rate_of_interest": 9.02,
+        "term": 60,
+        "regular_payment": 747.44,
+        "final_payment": 747.44,
+        "total_amount_payable": 48845.5,
+        "total_charge_for_credit": 8854.5,
+        "amount_of_credit": 35991.9,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

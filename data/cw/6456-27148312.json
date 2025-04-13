@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-11T19:52:55.922Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.humphriesandparks.net/used/cars/mitsubishi/mirage/juro-3017",
+    "dealer_id": "6456",
+    "car_id": "27148312",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mitsubishi",
+        "model": "MIRAGE",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Juro CVT",
+        "registration_date": "07/02/2018",
+        "mileage": 4026,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 21,
+        "regular_payment": 263.73,
+        "final_payment": 5248,
+        "total_amount_payable": 11522.1,
+        "total_charge_for_credit": 1527.1,
+        "amount_of_credit": 8995.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 6000,
+        "contract_mileage": 10500,
+        "excess_mileage_rate": 7,
+        "residual": 5248,
+        "price_to_buy": 5248
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.15,
+        "term": 60,
+        "regular_payment": 200.99,
+        "final_payment": 200.99,
+        "total_amount_payable": 13058.9,
+        "total_charge_for_credit": 3063.9,
+        "amount_of_credit": 8995.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:08:00.262Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2024-bmw-x7-xdrive40i-m-sport-2/",
+    "dealer_id": "8959",
+    "car_id": "27080905",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X7",
+        "variant": "",
+        "derivative": "X7 xDrive40i M Sport",
+        "registration_number": "WG24OPH",
+        "registration_date": "01/01/2024",
+        "mileage": 5921,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78900,
+        "total_price": 78900,
+        "deposit": 8490,
+        "balance": 70410,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1891.91,
+        "final_payment": 1892.91,
+        "total_amount_payable": 99302.68,
+        "total_charge_for_credit": 20402.68,
+        "amount_of_credit": 70410,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78900,
+        "total_price": 78900,
+        "deposit": 8490,
+        "balance": 70410,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1335.6,
+        "final_payment": 36181.57,
+        "total_amount_payable": 107444.77,
+        "total_charge_for_credit": 28544.77,
+        "amount_of_credit": 70410,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 19.66,
+        "residual": 36181.57,
+        "price_to_buy": 36181.57
+      }
+    ]
+  }
+]

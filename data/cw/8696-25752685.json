@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:01:52.935Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.db90.co.uk/details/used-car-in-doncaster/bmw/3series/3.0-330d-m-sport-gt-auto-xdrive-euro-6-ss-5dr/1272913/",
+    "dealer_id": "8696",
+    "car_id": "25752685",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "330d xDrive M Sport Gran Turismo",
+        "registration_number": "FX68LZS",
+        "registration_date": "26/10/2018",
+        "mileage": 30750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19350,
+        "total_price": 19350,
+        "deposit": 1935,
+        "balance": 17415,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 42,
+        "regular_payment": 386.31,
+        "final_payment": 5932.66,
+        "total_amount_payable": 23706.37,
+        "total_charge_for_credit": 4356.37,
+        "amount_of_credit": 17415,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 4.81,
+        "residual": 5931.66,
+        "price_to_buy": 5932.66
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19350,
+        "total_price": 19350,
+        "deposit": 1935,
+        "balance": 17415,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 365.55,
+        "final_payment": 365.55,
+        "total_amount_payable": 23868,
+        "total_charge_for_credit": 4518,
+        "amount_of_credit": 17415,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

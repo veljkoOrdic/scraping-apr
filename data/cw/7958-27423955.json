@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:33:26.909Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simonbailes.co.uk/used-car-details/used-peugeot-108-10-collection-euro-6-ss-5d-hatchback-obsidian-black-manual-petrol/id-202503140131504/#financetab",
+    "dealer_id": "7958",
+    "car_id": "27423955",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "108",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 72 Collection",
+        "registration_number": "NU70WEX",
+        "registration_date": "26/10/2020",
+        "mileage": 21269,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 1349,
+        "balance": 7646,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 159.92,
+        "final_payment": 2751.41,
+        "total_amount_payable": 11616.65,
+        "total_charge_for_credit": 2621.65,
+        "amount_of_credit": 7646,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 1.7,
+        "residual": 2750.41,
+        "price_to_buy": 2751.41
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 1349,
+        "balance": 7646,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 202.08,
+        "final_payment": 202.08,
+        "total_amount_payable": 11048.84,
+        "total_charge_for_credit": 2053.84,
+        "amount_of_credit": 7646,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

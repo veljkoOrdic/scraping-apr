@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:38:59.046Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rs-vehiclesales.co.uk/cars/bmw/1series/2.0-120d-m-sport-auto-euro-6-ss-5dr-harman-kardon-aero-kit/1379321/",
+    "dealer_id": "8646",
+    "car_id": "27052310",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "",
+        "derivative": "120d M Sport",
+        "registration_number": "YG70GYY",
+        "registration_date": "02/09/2020",
+        "mileage": 36000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249.5,
+        "balance": 20245.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 343.32,
+        "final_payment": 9659,
+        "total_amount_payable": 28387.86,
+        "total_charge_for_credit": 5892.86,
+        "amount_of_credit": 20245.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 9649,
+        "price_to_buy": 9659
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249.5,
+        "balance": 20245.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 424.82,
+        "final_payment": 434.82,
+        "total_amount_payable": 27748.7,
+        "total_charge_for_credit": 5253.7,
+        "amount_of_credit": 20245.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

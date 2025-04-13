@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T17:52:59.928Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autovettura.co.uk/used/cars/mercedes-benz/glc/2-0-glc300d-amg-line-premium-g-tronic-4matic-euro-6-s-s-5dr-261",
+    "dealer_id": "6258",
+    "car_id": "27711029",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLC",
+        "variant": "DIESEL ESTATE",
+        "derivative": "GLC 300d 4Matic AMG Line Premium 9G-Tronic",
+        "registration_number": "BX71YGC",
+        "registration_date": "28/10/2021",
+        "mileage": 79705,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 532.85,
+        "final_payment": 542.85,
+        "total_amount_payable": 34631,
+        "total_charge_for_credit": 8131,
+        "amount_of_credit": 23850,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

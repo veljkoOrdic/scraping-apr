@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:34:46.153Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/renault/kadjar/13-tce-160-gt-line-5dr/york/north-yorkshire/21464881",
+    "dealer_id": "7833",
+    "car_id": "26239180",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "KADJAR",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 TCE 160 GT Line",
+        "registration_number": "YT19KGK",
+        "registration_date": "18/03/2019",
+        "mileage": 48459,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12790,
+        "total_price": 12790,
+        "deposit": 1279,
+        "balance": 11511,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 299,
+        "final_payment": 309,
+        "total_amount_payable": 15641,
+        "total_charge_for_credit": 2851,
+        "amount_of_credit": 11511,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12790,
+        "total_price": 12790,
+        "deposit": 1279,
+        "balance": 11511,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 47,
+        "regular_payment": 224.29,
+        "final_payment": 4921.54,
+        "total_amount_payable": 16517.88,
+        "total_charge_for_credit": 3727.88,
+        "amount_of_credit": 11511,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 3.39,
+        "residual": 4921.54,
+        "price_to_buy": 4921.54
+      }
+    ]
+  }
+]

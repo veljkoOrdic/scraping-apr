@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:52:33.118Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mjmotorcompany.co.uk/used/cars/bmw/x4/3-0-x4-xdrive-30d-sport-mhev-auto-4wd-5dr-137",
+    "dealer_id": "7449",
+    "car_id": "27252262",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X4",
+        "variant": "",
+        "derivative": "X4 xDrive30d Sport",
+        "registration_number": "YE70ULF",
+        "registration_date": "14/01/2021",
+        "mileage": 16500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33900,
+        "total_price": 33900,
+        "deposit": 3390,
+        "balance": 30510,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 539.69,
+        "final_payment": 12196.79,
+        "total_amount_payable": 47428.5,
+        "total_charge_for_credit": 13528.5,
+        "amount_of_credit": 30510,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.87,
+        "residual": 12196.79,
+        "price_to_buy": 12196.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33900,
+        "total_price": 33900,
+        "deposit": 3390,
+        "balance": 30510,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 681.64,
+        "final_payment": 681.64,
+        "total_amount_payable": 44288.4,
+        "total_charge_for_credit": 10388.4,
+        "amount_of_credit": 30510,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

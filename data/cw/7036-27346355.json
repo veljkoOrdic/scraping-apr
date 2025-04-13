@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:55:15.478Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autocheckedvehiclesltd.co.uk/details/used-car-in-nottingham/mercedes-benz/cclass/2.0-c43-mhev-amg-premium-plus-g-tronic+-4matic-euro-6-ss-4dr/1404464/",
+    "dealer_id": "7036",
+    "car_id": "27346355",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "AMG SALOON",
+        "derivative": "C43 4Matic Premium Plus 9G-Tronic",
+        "registration_number": "KM72YVF",
+        "registration_date": "16/01/2023",
+        "mileage": 13542,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47500,
+        "total_price": 47500,
+        "deposit": 4750,
+        "balance": 42750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 778.12,
+        "final_payment": 17940,
+        "total_amount_payable": 59261.64,
+        "total_charge_for_credit": 11761.64,
+        "amount_of_credit": 42750,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.92,
+        "residual": 17930,
+        "price_to_buy": 17940
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47500,
+        "total_price": 47500,
+        "deposit": 4750,
+        "balance": 42750,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1073.53,
+        "final_payment": 1074.53,
+        "total_amount_payable": 56280.44,
+        "total_charge_for_credit": 8780.44,
+        "amount_of_credit": 42750,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

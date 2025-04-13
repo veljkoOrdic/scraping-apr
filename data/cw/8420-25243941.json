@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T16:20:13.787Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.karlsmithcars.com/used-ford-transit-bus-lwb-blackpool-lancashire-6131382",
+    "dealer_id": "8420",
+    "car_id": "25243941",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "460 L4 MINIBUS DIESEL RWD",
+        "derivative": "2.2 TDCi 125ps H3 18 Seater",
+        "registration_number": "PO15RVT",
+        "registration_date": "24/06/2015",
+        "mileage": 39387,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249,
+        "balance": 11246,
+        "apr": 11.9,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 246.42,
+        "final_payment": 246.42,
+        "total_amount_payable": 16034.2,
+        "total_charge_for_credit": 3539.2,
+        "amount_of_credit": 11246,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

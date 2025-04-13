@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:40:15.111Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-bmw-x3-oldham-greater-manchester-6520190",
+    "dealer_id": "6862",
+    "car_id": "26390545",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 xDrive20i M Sport",
+        "registration_number": "BD69FXA",
+        "registration_date": "19/09/2019",
+        "mileage": 50000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27449,
+        "total_price": 27449,
+        "deposit": 2744,
+        "balance": 24705,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 476.79,
+        "final_payment": 9618.29,
+        "total_amount_payable": 34771.42,
+        "total_charge_for_credit": 7322.42,
+        "amount_of_credit": 24705,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.96,
+        "residual": 9618.29,
+        "price_to_buy": 9618.29
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27449,
+        "total_price": 27449,
+        "deposit": 2744,
+        "balance": 24705,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 529.67,
+        "final_payment": 529.67,
+        "total_amount_payable": 34524.2,
+        "total_charge_for_credit": 7075.2,
+        "amount_of_credit": 24705,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

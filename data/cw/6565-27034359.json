@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-11T21:07:11.743Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dwleisure.co.uk/used/cars/mercedes-benz/v-class/v220-d-amg-line-ex-lwb-auto-diesel-8-seater-360-cam-sat-nav-4797",
+    "dealer_id": "6565",
+    "car_id": "27034359",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "V-Class",
+        "variant": "DIESEL ESTATE",
+        "derivative": "V220 d AMG Line [Extra Long]",
+        "registration_number": "FX19ODF",
+        "registration_date": "22/05/2019",
+        "mileage": 47000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp_blackhorse",
+        "name": "HP_BLACKHORSE",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1016.93,
+        "final_payment": 1016.93,
+        "total_amount_payable": 53312.14,
+        "total_charge_for_credit": 8317.14,
+        "amount_of_credit": 40495.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_evolution",
+        "name": "HP_EVOLUTION",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1016.76,
+        "final_payment": 1026.76,
+        "total_amount_payable": 53313.98,
+        "total_charge_for_credit": 8318.98,
+        "amount_of_credit": 40495.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

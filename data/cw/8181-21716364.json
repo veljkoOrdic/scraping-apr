@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T00:28:00.768Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scs4vans.co.uk/used-iveco-daily-eastbourne-east-sussex-5417544",
+    "dealer_id": "8181",
+    "car_id": "21716364",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Iveco",
+        "model": "DAILY",
+        "variant": "35C14 DIESEL",
+        "derivative": "2.3 Luton 3450 WB",
+        "registration_number": "CJ73VGK",
+        "registration_date": "29/12/2023",
+        "mileage": 400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39588,
+        "total_price": 39588,
+        "deposit": 6598,
+        "balance": 32990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 707.09,
+        "final_payment": 717.09,
+        "total_amount_payable": 49033.4,
+        "total_charge_for_credit": 9445.4,
+        "amount_of_credit": 32990,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39588,
+        "total_price": 39588,
+        "deposit": 6598,
+        "balance": 32990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 707.09,
+        "final_payment": 717.09,
+        "total_amount_payable": 49033.4,
+        "total_charge_for_credit": 9445.4,
+        "amount_of_credit": 32990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

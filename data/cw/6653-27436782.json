@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:52:24.466Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/bmw/x3/3.0i-competition-auto-xdrive-euro-6-ss-5dr/1412024/",
+    "dealer_id": "6653",
+    "car_id": "27436782",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 M Competition",
+        "registration_number": "WR69XVU",
+        "registration_date": "19/12/2019",
+        "mileage": 34920,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 45,
+        "regular_payment": 694.44,
+        "final_payment": 17975,
+        "total_amount_payable": 52135.42,
+        "total_charge_for_credit": 9140.42,
+        "amount_of_credit": 38695.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 29,
+        "residual": 17965,
+        "price_to_buy": 17975
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 954.49,
+        "final_payment": 964.49,
+        "total_amount_payable": 50125.02,
+        "total_charge_for_credit": 7130.02,
+        "amount_of_credit": 38695.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

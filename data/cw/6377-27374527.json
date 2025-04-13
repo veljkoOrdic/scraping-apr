@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:16:07.438Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lightcliffe.co.uk/used/skoda/enyaq/210kw-85x-sportline-plus-82kwh-4x4-5dr-auto/warrington/cheshire/21559199",
+    "dealer_id": "6377",
+    "car_id": "27374527",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "ENYAQ",
+        "variant": "COUPE",
+        "derivative": "210kW 85x Sportline Plus 82kWh 4x4",
+        "registration_number": "MK74EDF",
+        "registration_date": "03/09/2024",
+        "mileage": 7256,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37750,
+        "total_price": 37750,
+        "deposit": 4025,
+        "balance": 33725,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 726.49,
+        "final_payment": 736.49,
+        "total_amount_payable": 47624.4,
+        "total_charge_for_credit": 9874.4,
+        "amount_of_credit": 33725,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37750,
+        "total_price": 37750,
+        "deposit": 4775,
+        "balance": 32975,
+        "apr": 11.3,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 529.15,
+        "final_payment": 19202.5,
+        "total_amount_payable": 49376.7,
+        "total_charge_for_credit": 11626.7,
+        "amount_of_credit": 32975,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 8.24,
+        "residual": 19192.5,
+        "price_to_buy": 19202.5
+      }
+    ]
+  }
+]

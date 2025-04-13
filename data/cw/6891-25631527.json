@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-12T00:15:35.407Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.familycarsales.co.uk/cars/fiat/500/1.2-500-1.2-69hp-s/1263078/",
+    "dealer_id": "6891",
+    "car_id": "25631527",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 S",
+        "registration_number": "SG65CJX",
+        "registration_date": "09/09/2015",
+        "mileage": 71497,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 116.21,
+        "final_payment": 276.21,
+        "total_amount_payable": 6237.58,
+        "total_charge_for_credit": 1242.58,
+        "amount_of_credit": 4495.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

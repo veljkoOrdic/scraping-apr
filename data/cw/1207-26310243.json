@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:51:49.525Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nortreemotorcompany.co.uk/used-ford-transit-custom-camper-melksham-wiltshire-5758820",
+    "dealer_id": "1207",
+    "car_id": "26310243",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 150ps H1 Van Limited",
+        "registration_number": "WU73TNJ",
+        "registration_date": "31/01/2024",
+        "mileage": 10,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53995,
+        "total_price": 53995,
+        "deposit": 5399,
+        "balance": 48596,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1090.86,
+        "final_payment": 10025.86,
+        "total_amount_payable": 66695.28,
+        "total_charge_for_credit": 12700.28,
+        "amount_of_credit": 48596,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8925,
+        "price_to_buy": 10025.86
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 53995,
+        "total_price": 53995,
+        "deposit": 5399,
+        "balance": 48596,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1041.57,
+        "final_payment": 1051.57,
+        "total_amount_payable": 67903.2,
+        "total_charge_for_credit": 13908.2,
+        "amount_of_credit": 48596,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

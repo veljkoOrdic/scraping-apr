@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:55:21.239Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.justmotorgroup.co.uk/used/peugeot/e-3008/73kwh-gt-auto-5dr/keighley/west-yorkshire/21461016",
+    "dealer_id": "6550",
+    "car_id": "26193641",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "E- ELECTRIC ESTATE",
+        "derivative": "157kW GT 73kWh",
+        "registration_number": "YJ24DDB",
+        "registration_date": "19/06/2024",
+        "mileage": 6124,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 644.97,
+        "final_payment": 15548,
+        "total_amount_payable": 49761.09,
+        "total_charge_for_credit": 10766.09,
+        "amount_of_credit": 35095.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 15548,
+        "price_to_buy": 15548
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 752.44,
+        "final_payment": 752.44,
+        "total_amount_payable": 49045.9,
+        "total_charge_for_credit": 10050.9,
+        "amount_of_credit": 35095.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

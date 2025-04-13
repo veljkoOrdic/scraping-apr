@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:14:53.553Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mandbautocentre.co.uk/details/used-car-in-chapel-street/bmw/m4/3.0-biturbo-dct-euro-6-ss-2dr/1386890/",
+    "dealer_id": "7349",
+    "car_id": "27140728",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "",
+        "derivative": "M4 Coupe",
+        "registration_number": "YK15BBV",
+        "registration_date": "01/03/2015",
+        "mileage": 57736,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs_close",
+        "name": "CS_CLOSE",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 15.4,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 569.81,
+        "final_payment": 569.81,
+        "total_amount_payable": 29650.38,
+        "total_charge_for_credit": 6655.38,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 10.4,
+        "rate_of_interest": 5.4,
+        "term": 48,
+        "regular_payment": 524.29,
+        "final_payment": 525.29,
+        "total_amount_payable": 27466.42,
+        "total_charge_for_credit": 4471.42,
+        "amount_of_credit": 20695.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:52:25.155Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mjmotorcompany.co.uk/used/cars/ford/ecosport/1-0-ecosport-titanium-5dr-93",
+    "dealer_id": "7449",
+    "car_id": "26294196",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "ECOSPORT",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 Titanium",
+        "registration_number": "PK20LGO",
+        "registration_date": "21/03/2020",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 59,
+        "regular_payment": 201.11,
+        "final_payment": 3658.35,
+        "total_amount_payable": 16522.23,
+        "total_charge_for_credit": 4527.23,
+        "amount_of_credit": 10795.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 49166,
+        "excess_mileage_rate": 2.6,
+        "residual": 3658.35,
+        "price_to_buy": 3658.35
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 241.19,
+        "final_payment": 241.19,
+        "total_amount_payable": 15670.9,
+        "total_charge_for_credit": 3675.9,
+        "amount_of_credit": 10795.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

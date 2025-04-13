@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:05:00.480Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cornerhousegarage.co.uk/vehicle/ford-mustang-50-v8-mach-1-fastback-tremec-euro-6-2dr-in-leicestershire-b1625f3a-0f8f-4e65-aa2b-b2a700fc77db",
+    "dealer_id": "7072",
+    "car_id": "27511689",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "MUSTANG",
+        "variant": "FASTBACK SPECIAL EDITIONS",
+        "derivative": "5.0 V8 Mach 1",
+        "registration_number": "MC71ONE",
+        "registration_date": "03/03/2022",
+        "mileage": 19200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46495,
+        "total_price": 46495,
+        "deposit": 4649.5,
+        "balance": 41845.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 678.05,
+        "final_payment": 23353,
+        "total_amount_payable": 60548.9,
+        "total_charge_for_credit": 14053.9,
+        "amount_of_credit": 41845.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 23343,
+        "price_to_buy": 23353
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46495,
+        "total_price": 46495,
+        "deposit": 4649.5,
+        "balance": 41845.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 896.89,
+        "final_payment": 906.89,
+        "total_amount_payable": 58472.9,
+        "total_charge_for_credit": 11977.9,
+        "amount_of_credit": 41845.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

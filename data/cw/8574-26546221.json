@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:40:43.499Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goldheartautomotive.com/cars/ferrari/488/3.9t-v8-gtb-f1-dct-euro-6-ss-2dr/1413916/",
+    "dealer_id": "8574",
+    "car_id": "26546221",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "488 GTB",
+        "variant": "COUPE",
+        "derivative": "2dr",
+        "registration_number": "M121CCO",
+        "registration_date": "08/06/2018",
+        "mileage": 7770,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 148995,
+        "total_price": 148995,
+        "deposit": 14899.5,
+        "balance": 134095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.91,
+        "term": 37,
+        "regular_payment": 2608.47,
+        "final_payment": 70447.5,
+        "total_amount_payable": 179251.92,
+        "total_charge_for_credit": 30256.92,
+        "amount_of_credit": 134095.5,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 39.98,
+        "residual": 70447.5,
+        "price_to_buy": 70447.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 148995,
+        "total_price": 148995,
+        "deposit": 48995,
+        "balance": 100000,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 2234.3,
+        "final_payment": 2234.3,
+        "total_amount_payable": 183053,
+        "total_charge_for_credit": 34058,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

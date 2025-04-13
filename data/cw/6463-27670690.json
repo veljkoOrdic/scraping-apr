@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T20:00:55.068Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beavergarages.co.uk/cars/toyota/yaris/1.5-vvt-i-y20/1430733/",
+    "dealer_id": "6463",
+    "car_id": "27670690",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "YARIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 VVT-i Y20 [Bi-tone]",
+        "registration_number": "GU19CVM",
+        "registration_date": "01/03/2019",
+        "mileage": 37300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049.5,
+        "balance": 9445.5,
+        "apr": 16,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 224.48,
+        "final_payment": 224.48,
+        "total_amount_payable": 14518.3,
+        "total_charge_for_credit": 4023.3,
+        "amount_of_credit": 9445.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

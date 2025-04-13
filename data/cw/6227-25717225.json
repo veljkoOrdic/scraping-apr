@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:08:17.177Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/porsche/porsche-cayenne-4-0t-v8-gts-tiptronics-4wd-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "25717225",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "COUPE",
+        "derivative": "GTS Tiptronic S",
+        "registration_number": "SO72PJU",
+        "registration_date": "02/09/2022",
+        "mileage": 11986,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79975,
+        "total_price": 79975,
+        "deposit": 7997.5,
+        "balance": 71977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1169.21,
+        "final_payment": 38249,
+        "total_amount_payable": 101199.37,
+        "total_charge_for_credit": 21224.37,
+        "amount_of_credit": 71977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 38239,
+        "price_to_buy": 38249
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79975,
+        "total_price": 79975,
+        "deposit": 7997.5,
+        "balance": 71977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 1510.86,
+        "final_payment": 1510.86,
+        "total_amount_payable": 98649.1,
+        "total_charge_for_credit": 18674.1,
+        "amount_of_credit": 71977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

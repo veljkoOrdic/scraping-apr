@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:53:56.962Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/audi/rs6/4.0-tfsi-v8-vorsprung-tiptronic-quattro-euro-6-ss-5dr/1409973/",
+    "dealer_id": "6653",
+    "car_id": "27421315",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Vorsprung Tiptronic",
+        "registration_number": "RA22XBK",
+        "registration_date": "12/03/2022",
+        "mileage": 8900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89995,
+        "total_price": 89995,
+        "deposit": 8999.5,
+        "balance": 80995.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1308.4,
+        "final_payment": 39628,
+        "total_amount_payable": 111430.7,
+        "total_charge_for_credit": 21435.7,
+        "amount_of_credit": 80995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 39618,
+        "price_to_buy": 39628
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 89995,
+        "total_price": 89995,
+        "deposit": 8999.5,
+        "balance": 80995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1998.56,
+        "final_payment": 2008.56,
+        "total_amount_payable": 104940.38,
+        "total_charge_for_credit": 14945.38,
+        "amount_of_credit": 80995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

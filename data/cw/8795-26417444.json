@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:20:30.731Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chilhamsportscars.co.uk/used/ford/puma/10-ecoboost-hybrid-mhev-st-line-5dr/canterbury/kent/21479698",
+    "dealer_id": "8795",
+    "car_id": "26417444",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST-Line",
+        "registration_number": "DN22BWO",
+        "registration_date": "21/04/2022",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 0,
+        "balance": 15295,
+        "apr": 12.9,
+        "rate_of_interest": 12.2,
+        "term": 48,
+        "regular_payment": 297.23,
+        "final_payment": 6650,
+        "total_amount_payable": 20917.04,
+        "total_charge_for_credit": 5622.04,
+        "amount_of_credit": 15295,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.85,
+        "residual": 6650,
+        "price_to_buy": 6650
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 0,
+        "balance": 15295,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 341.72,
+        "final_payment": 341.72,
+        "total_amount_payable": 20503.2,
+        "total_charge_for_credit": 5208.2,
+        "amount_of_credit": 15295,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:40:45.687Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westriding.co.uk/used-car-details/used-toyota-corolla-20-vvt-h-excel-touring-sports-petrol-hybrid/id-202412026922696/",
+    "dealer_id": "6057",
+    "car_id": "26474647",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "COROLLA",
+        "variant": "TOURING SPORT",
+        "derivative": "2.0 VVT-i Hybrid Excel CVT",
+        "registration_number": "FD22ULS",
+        "registration_date": "16/08/2022",
+        "mileage": 18351,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21997,
+        "total_price": 21997,
+        "deposit": 2200,
+        "balance": 19797,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 313.17,
+        "final_payment": 10775,
+        "total_amount_payable": 28007.16,
+        "total_charge_for_credit": 6010.16,
+        "amount_of_credit": 19797,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 10765,
+        "price_to_buy": 10775
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21997,
+        "total_price": 21997,
+        "deposit": 2200,
+        "balance": 19797,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 497.13,
+        "final_payment": 498.13,
+        "total_amount_payable": 26063.24,
+        "total_charge_for_credit": 4066.24,
+        "amount_of_credit": 19797,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

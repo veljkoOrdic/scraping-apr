@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:01:35.451Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hultonmotors.co.uk/details/used-car-in-bolton/mercedes-benz/cclass/2.0-c300de-13.5kwh-amg-line-night-edition-premium-plus-g-tronic+-euro-6-ss-5dr/1237414/",
+    "dealer_id": "7712",
+    "car_id": "25328435",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "C300de AMG Line Night Ed Premium + 9G-Tronic",
+        "registration_number": "OE21WGD",
+        "registration_date": "30/06/2021",
+        "mileage": 101694,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 268.74,
+        "final_payment": 6743,
+        "total_amount_payable": 21341.52,
+        "total_charge_for_credit": 4351.52,
+        "amount_of_credit": 15291,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.66,
+        "residual": 6743,
+        "price_to_buy": 6743
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 10,
+        "rate_of_interest": 5.24,
+        "term": 60,
+        "regular_payment": 321.62,
+        "final_payment": 321.62,
+        "total_amount_payable": 20996.2,
+        "total_charge_for_credit": 4006.2,
+        "amount_of_credit": 15291,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

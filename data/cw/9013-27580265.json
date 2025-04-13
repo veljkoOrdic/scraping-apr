@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T09:54:13.140Z",
+    "source": "codeweavers_calculator",
+    "url": "https://summitvans.co.uk/vehicle/peugeot-partner-bluehdi-professional-premium-plus-l2/",
+    "dealer_id": "9013",
+    "car_id": "27580265",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "PARTNER",
+        "variant": "LONG DIESEL",
+        "derivative": "950 1.5 BlueHDi 100 Professional Premium + Van",
+        "registration_number": "YO23JWF",
+        "registration_date": "30/06/2023",
+        "mileage": 20710,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17280,
+        "total_price": 17280,
+        "deposit": 4320,
+        "balance": 12960,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 289.44,
+        "final_payment": 299.44,
+        "total_amount_payable": 21696.4,
+        "total_charge_for_credit": 4416.4,
+        "amount_of_credit": 12960,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17280,
+        "total_price": 17280,
+        "deposit": 4320,
+        "balance": 12960,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 289.44,
+        "final_payment": 299.44,
+        "total_amount_payable": 21696.4,
+        "total_charge_for_credit": 4416.4,
+        "amount_of_credit": 12960,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

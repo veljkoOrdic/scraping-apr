@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:35:16.646Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cshperformance.co.uk/details/used-car-in-elland/mclaren/600lt/3.8t-v8-ssg-euro-6-ss-2dr/1425016/",
+    "dealer_id": "7297",
+    "car_id": "27595303",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "600LT",
+        "variant": "COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "GU19LDO",
+        "registration_date": "04/05/2019",
+        "mileage": 23700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 129995,
+        "total_price": 129995,
+        "deposit": 12999.5,
+        "balance": 116995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2173.62,
+        "final_payment": 46578.31,
+        "total_amount_payable": 161737.95,
+        "total_charge_for_credit": 31742.95,
+        "amount_of_credit": 116995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 32.04,
+        "residual": 46578.31,
+        "price_to_buy": 46578.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 129995,
+        "total_price": 129995,
+        "deposit": 12999.5,
+        "balance": 116995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 2455.83,
+        "final_payment": 2455.83,
+        "total_amount_payable": 160349.3,
+        "total_charge_for_credit": 30354.3,
+        "amount_of_credit": 116995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

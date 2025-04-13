@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:57:50.730Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lancashiretrade.co.uk/details/car-in-greater-manchester/porsche/cayenne/3.0t-v6-tiptronics-4wd-euro-6-ss-5dr/937011/",
+    "dealer_id": "7600",
+    "car_id": "21062121",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "ESTATE",
+        "derivative": "5dr Tiptronic S",
+        "registration_number": "MO54SOS",
+        "registration_date": "16/11/2019",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42990,
+        "total_price": 42990,
+        "deposit": 4299,
+        "balance": 38691,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 700.63,
+        "final_payment": 17747.32,
+        "total_amount_payable": 54975.93,
+        "total_charge_for_credit": 11985.93,
+        "amount_of_credit": 38691,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.15,
+        "residual": 17747.32,
+        "price_to_buy": 17747.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42990,
+        "total_price": 42990,
+        "deposit": 4299,
+        "balance": 38691,
+        "apr": 10.9,
+        "rate_of_interest": 10.89,
+        "term": 48,
+        "regular_payment": 988.41,
+        "final_payment": 998.41,
+        "total_amount_payable": 51752.68,
+        "total_charge_for_credit": 8762.68,
+        "amount_of_credit": 38691,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:34:07.731Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarwarehouse.com/used-car-details/used-mazda-mx-30-107kw-makoto-355kwh-5dr-auto-electric/id-456983/",
+    "dealer_id": "8563",
+    "car_id": "23956756",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "107kW Makoto 35.5kWh",
+        "registration_number": "CP23SXD",
+        "registration_date": "27/07/2023",
+        "mileage": 5225,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 3300,
+        "balance": 13200,
+        "apr": 5.9,
+        "rate_of_interest": 4.48,
+        "term": 49,
+        "regular_payment": 175.74,
+        "final_payment": 7177.5,
+        "total_amount_payable": 18913.02,
+        "total_charge_for_credit": 2413.02,
+        "amount_of_credit": 13200,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 9,
+        "residual": 7177.5,
+        "price_to_buy": 7177.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 3300,
+        "balance": 13200,
+        "apr": 5.9,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 253.64,
+        "final_payment": 253.64,
+        "total_amount_payable": 18518.4,
+        "total_charge_for_credit": 2018.4,
+        "amount_of_credit": 13200,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

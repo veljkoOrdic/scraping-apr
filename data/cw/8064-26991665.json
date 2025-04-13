@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:33:31.480Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.themanchestermotorcompany.co.uk/used-bentley-continental-bolton-greater-manchester-6679159",
+    "dealer_id": "8064",
+    "car_id": "26991665",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GT",
+        "variant": "COUPE",
+        "derivative": "6.0 W12",
+        "registration_number": "LD18DXC",
+        "registration_date": "02/07/2018",
+        "mileage": 28600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84950,
+        "total_price": 84950,
+        "deposit": 8495,
+        "balance": 76455,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 38,
+        "regular_payment": 1699.58,
+        "final_payment": 37246.08,
+        "total_amount_payable": 108625.54,
+        "total_charge_for_credit": 23675.54,
+        "amount_of_credit": 76455,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 31666,
+        "excess_mileage_rate": 20.31,
+        "residual": 37246.08,
+        "price_to_buy": 37246.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84950,
+        "total_price": 84950,
+        "deposit": 8495,
+        "balance": 76455,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 1697.94,
+        "final_payment": 1697.94,
+        "total_amount_payable": 110371.4,
+        "total_charge_for_credit": 25421.4,
+        "amount_of_credit": 76455,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

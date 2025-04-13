@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:25:01.242Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/bmw-i3-422kwh-s-hatchback-5dr-electric-auto-184-ps-in-kings-lynn-norfolk-0d4c531f-e632-459c-a822-7c5cf1eb19fc",
+    "dealer_id": "8615",
+    "car_id": "22732586",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "I3",
+        "variant": "HATCHBACK",
+        "derivative": "135kW S 42kWh",
+        "registration_number": "HV70KXP",
+        "registration_date": "04/09/2020",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16895,
+        "total_price": 16895,
+        "deposit": 1689.5,
+        "balance": 15205.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 332.86,
+        "final_payment": 332.86,
+        "total_amount_payable": 21661.1,
+        "total_charge_for_credit": 4766.1,
+        "amount_of_credit": 15205.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16895,
+        "total_price": 16895,
+        "deposit": 1689.5,
+        "balance": 15205.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 280.27,
+        "final_payment": 4494.98,
+        "total_amount_payable": 22720.41,
+        "total_charge_for_credit": 5825.41,
+        "amount_of_credit": 15205.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.73,
+        "residual": 4494.98,
+        "price_to_buy": 4494.98
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:56:04.662Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rsmotorhouse.co.uk/details/used-car-in-leeds/bmw/3series/3.0-m340i-touring-auto-xdrive-euro-6-ss-5dr/1316065/",
+    "dealer_id": "7889",
+    "car_id": "26276773",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "TOURING",
+        "derivative": "M340i xDrive Step",
+        "registration_number": "FY20PDV",
+        "registration_date": "13/07/2020",
+        "mileage": 51000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 6515,
+        "balance": 29975,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 564.52,
+        "final_payment": 12024,
+        "total_amount_payable": 45635.96,
+        "total_charge_for_credit": 9145.96,
+        "amount_of_credit": 29975,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 11.06,
+        "residual": 12014,
+        "price_to_buy": 12024
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 3649,
+        "balance": 32841,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 704.1,
+        "final_payment": 704.1,
+        "total_amount_payable": 45895,
+        "total_charge_for_credit": 9405,
+        "amount_of_credit": 32841,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

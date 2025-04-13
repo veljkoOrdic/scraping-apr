@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:59:01.143Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.minis4u.co.uk/vehicle/mini-hatch-20-john-cooper-works-gp-steptronic-euro-6-ss-3dr-in-lancashire-0d33dc35-060e-4049-82ee-b20e011c4744",
+    "dealer_id": "7468",
+    "car_id": "26001805",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "John Cooper Works GP",
+        "registration_number": "YF20ARU",
+        "registration_date": "31/07/2020",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 709.19,
+        "final_payment": 709.19,
+        "total_amount_payable": 46150.9,
+        "total_charge_for_credit": 10155.9,
+        "amount_of_credit": 32395.5,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599.5,
+        "balance": 32395.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 601.49,
+        "final_payment": 14643,
+        "total_amount_payable": 47114.02,
+        "total_charge_for_credit": 11119.02,
+        "amount_of_credit": 32395.5,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 26,
+        "residual": 14643,
+        "price_to_buy": 14643
+      }
+    ]
+  }
+]

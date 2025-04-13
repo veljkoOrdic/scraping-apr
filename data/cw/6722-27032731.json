@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:37:13.597Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hkperformance.co.uk/details/used-car-in-manchester/audi/rs4/2.9-tfsi-v6-tiptronic-quattro-euro-6-ss-5dr/1377283/",
+    "dealer_id": "6722",
+    "car_id": "27032731",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "AVANT",
+        "derivative": "2.9 TFSI Quattro Tip tronic",
+        "registration_number": "GH18KHT",
+        "registration_date": "13/03/2018",
+        "mileage": 50000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 24,
+        "regular_payment": 1177.35,
+        "final_payment": 19829,
+        "total_amount_payable": 51307.55,
+        "total_charge_for_credit": 7312.55,
+        "amount_of_credit": 39595.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 20000,
+        "excess_mileage_rate": 29,
+        "residual": 19829,
+        "price_to_buy": 19829
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 977.02,
+        "final_payment": 977.02,
+        "total_amount_payable": 51296.46,
+        "total_charge_for_credit": 7301.46,
+        "amount_of_credit": 39595.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

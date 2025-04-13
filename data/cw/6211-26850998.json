@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:52:41.434Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walkersmotorgroup.co.uk/used-cars/audi/q7/30-tdi-v6-50-s-line-tiptronic-quattro-euro-6-ss-5dr/fv19vok",
+    "dealer_id": "6211",
+    "car_id": "26850998",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro S Line Tiptronic",
+        "registration_number": "FV19VOK",
+        "registration_date": "31/03/2019",
+        "mileage": 44195,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30790,
+        "total_price": 30790,
+        "deposit": 4618.5,
+        "balance": 26171.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 47,
+        "regular_payment": 463.09,
+        "final_payment": 12989.69,
+        "total_amount_payable": 38910.33,
+        "total_charge_for_credit": 8120.33,
+        "amount_of_credit": 26171.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 31333,
+        "excess_mileage_rate": 6.67,
+        "residual": 12989.69,
+        "price_to_buy": 12989.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30790,
+        "total_price": 30790,
+        "deposit": 4618.5,
+        "balance": 26171.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 668.46,
+        "final_payment": 678.46,
+        "total_amount_payable": 36714.58,
+        "total_charge_for_credit": 5924.58,
+        "amount_of_credit": 26171.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

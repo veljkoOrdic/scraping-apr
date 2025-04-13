@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:49:22.128Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.payless4acar.co.uk/used/cars/bmw/2-series/3-0-m2-auto-3dr-602",
+    "dealer_id": "8465",
+    "car_id": "27112416",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "",
+        "derivative": "M2 Coupe",
+        "registration_number": "BJ73FTO",
+        "registration_date": "30/11/2023",
+        "mileage": 10200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48949,
+        "total_price": 48949,
+        "deposit": 4894.9,
+        "balance": 44054.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 661.62,
+        "final_payment": 20756.76,
+        "total_amount_payable": 64687.24,
+        "total_charge_for_credit": 15738.24,
+        "amount_of_credit": 44054.1,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 12.17,
+        "residual": 20756.76,
+        "price_to_buy": 20756.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48949,
+        "total_price": 48949,
+        "deposit": 4894.9,
+        "balance": 44054.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 924.77,
+        "final_payment": 924.77,
+        "total_amount_payable": 60381.1,
+        "total_charge_for_credit": 11432.1,
+        "amount_of_credit": 44054.1,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

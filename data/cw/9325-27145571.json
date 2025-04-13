@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:23:32.413Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.queautomotive.co.uk/cars/bmw/4series/2.0-420d-m-sport-pro-edition-coupe/1386884/",
+    "dealer_id": "9325",
+    "car_id": "27145571",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "",
+        "derivative": "420d M Sport Pro Edition Coupe",
+        "registration_number": "HN70ZZR",
+        "registration_date": "02/12/2020",
+        "mileage": 47300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 432.59,
+        "final_payment": 9732.5,
+        "total_amount_payable": 33146.32,
+        "total_charge_for_credit": 6651.32,
+        "amount_of_credit": 23845.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.5,
+        "residual": 9732.5,
+        "price_to_buy": 9732.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 598.72,
+        "final_payment": 598.72,
+        "total_amount_payable": 31388.06,
+        "total_charge_for_credit": 4893.06,
+        "amount_of_credit": 23845.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

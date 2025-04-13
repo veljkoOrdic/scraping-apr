@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-04-11T15:09:30.289Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sinclairgroup.co.uk/used-car-details/used-bmw-i3-422kwh-s-hatchback-5dr-electr-automatic-electric/id-6864/",
+    "dealer_id": "6005",
+    "car_id": "26264886",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://services.codeweavers.net/api/action-availability/start-checkout",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/credit-check?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/reserve?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/checkout?",
+        "https://services.codeweavers.net/api/finance/quote/5fd91f26-81a3-4f29-943c-7d9738003228",
+        "https://services.codeweavers.net/api/websockets/pusher/vehicleChannelNameForQuote/5fd91f26-81a3-4f29-943c-7d9738003228",
+        "https://services.codeweavers.net/api/websockets/pusher/authenticate"
+      ]
+    }
+  }
+]

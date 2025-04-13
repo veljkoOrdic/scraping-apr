@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:46:30.424Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carlingo.co.uk/used/cars/bmw/x5/m50d-3382",
+    "dealer_id": "7573",
+    "car_id": "26887621",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive M50d",
+        "registration_number": "DE20VYV",
+        "registration_date": "18/06/2020",
+        "mileage": 69522,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44000,
+        "total_price": 44000,
+        "deposit": 4400,
+        "balance": 39600,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 710.86,
+        "final_payment": 19915.36,
+        "total_amount_payable": 57725.78,
+        "total_charge_for_credit": 13725.78,
+        "amount_of_credit": 39600,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.78,
+        "residual": 19915.36,
+        "price_to_buy": 19915.36
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44000,
+        "total_price": 44000,
+        "deposit": 4400,
+        "balance": 39600,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 60,
+        "regular_payment": 866.86,
+        "final_payment": 866.86,
+        "total_amount_payable": 56411.6,
+        "total_charge_for_credit": 12411.6,
+        "amount_of_credit": 39600,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

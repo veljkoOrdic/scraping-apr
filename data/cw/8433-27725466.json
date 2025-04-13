@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:37:41.868Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hartingtonmotors.co.uk/used-porsche-macan-standish-wigan-greater-manchester-6860430",
+    "dealer_id": "8433",
+    "car_id": "27725466",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "ST20TEV",
+        "registration_date": "12/03/2020",
+        "mileage": 41450,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299,
+        "balance": 38696,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 59,
+        "regular_payment": 612.35,
+        "final_payment": 14737.55,
+        "total_amount_payable": 54552.85,
+        "total_charge_for_credit": 11557.85,
+        "amount_of_credit": 38696,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 49166,
+        "excess_mileage_rate": 8.94,
+        "residual": 14736.55,
+        "price_to_buy": 14737.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299,
+        "balance": 38696,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 794.95,
+        "final_payment": 795.95,
+        "total_amount_payable": 51997,
+        "total_charge_for_credit": 9002,
+        "amount_of_credit": 38696,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

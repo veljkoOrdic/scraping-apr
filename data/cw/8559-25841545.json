@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:33:07.667Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.1stopcarsales.co.uk/used/cars/alfa-romeo/giulia/2-0t-lusso-ti-saloon-4dr-petrol-auto-euro-6-s-s-200-ps-1387",
+    "dealer_id": "8559",
+    "car_id": "25841545",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "GIULIA",
+        "variant": "SALOON",
+        "derivative": "2.0 TB Lusso Ti",
+        "registration_number": "HX20KXY",
+        "registration_date": "29/05/2020",
+        "mileage": 39889,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18000,
+        "total_price": 18000,
+        "deposit": 1800,
+        "balance": 16200,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 347.36,
+        "final_payment": 348.36,
+        "total_amount_payable": 22642.6,
+        "total_charge_for_credit": 4642.6,
+        "amount_of_credit": 16200,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18000,
+        "total_price": 18000,
+        "deposit": 1800,
+        "balance": 16200,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 286.62,
+        "final_payment": 5036.25,
+        "total_amount_payable": 23746.83,
+        "total_charge_for_credit": 5746.83,
+        "amount_of_credit": 16200,
+        "lender": "MK Finance Group LTD",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.08,
+        "residual": 5036.25,
+        "price_to_buy": 5036.25
+      }
+    ]
+  }
+]

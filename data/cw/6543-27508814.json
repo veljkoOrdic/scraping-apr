@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:48:19.501Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.breeze.co.uk/used/peugeot/108/72-collection/poole/dorset/21566400",
+    "dealer_id": "6543",
+    "car_id": "27508814",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "108",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 72 Collection",
+        "registration_number": "CA21WMG",
+        "registration_date": "28/05/2021",
+        "mileage": 8303,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9290,
+        "total_price": 9290,
+        "deposit": 929,
+        "balance": 8361,
+        "apr": 11.9,
+        "rate_of_interest": 11.26,
+        "term": 49,
+        "regular_payment": 170.58,
+        "final_payment": 2845,
+        "total_amount_payable": 11961.84,
+        "total_charge_for_credit": 2671.84,
+        "amount_of_credit": 8361,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 2835,
+        "price_to_buy": 2845
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9290,
+        "total_price": 9290,
+        "deposit": 929,
+        "balance": 8361,
+        "apr": 11.9,
+        "rate_of_interest": 11.24,
+        "term": 60,
+        "regular_payment": 183.03,
+        "final_payment": 183.03,
+        "total_amount_payable": 11910.8,
+        "total_charge_for_credit": 2620.8,
+        "amount_of_credit": 8361,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

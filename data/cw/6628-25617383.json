@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:47:43.010Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rangerworlduk.co.uk/rw/car-details/ford-ranger-raptor-ecoboost-6",
+    "dealer_id": "6628",
+    "car_id": "25617383",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "PETROL",
+        "derivative": "Pick Up Double Cab Raptor 3.0 EcoBoost V6 292",
+        "registration_number": "WG24YFM",
+        "registration_date": "24/05/2024",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69600,
+        "total_price": 69600,
+        "deposit": 17400,
+        "balance": 52200,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 1104.46,
+        "final_payment": 17087,
+        "total_amount_payable": 87501.08,
+        "total_charge_for_credit": 17901.08,
+        "amount_of_credit": 52200,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 118,
+        "residual": 17087,
+        "price_to_buy": 17087
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69600,
+        "total_price": 69600,
+        "deposit": 17400,
+        "balance": 52200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1095.77,
+        "final_payment": 1095.77,
+        "total_amount_payable": 83146.2,
+        "total_charge_for_credit": 13546.2,
+        "amount_of_credit": 52200,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

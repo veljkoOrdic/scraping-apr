@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:54:24.705Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.struans.com/used/mazda/mx-30/makato-e-skyactiv-107kw-355kwh-auto-5dr/perth/perthshire/21460019",
+    "dealer_id": "6458",
+    "car_id": "26182661",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "107kW Makoto 35.5kWh",
+        "registration_number": "SP73HCO",
+        "registration_date": "05/01/2024",
+        "mileage": 1650,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19495,
+        "total_price": 19495,
+        "deposit": 1949.5,
+        "balance": 17545.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 334.21,
+        "final_payment": 7413,
+        "total_amount_payable": 25404.58,
+        "total_charge_for_credit": 5909.58,
+        "amount_of_credit": 17545.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 7403,
+        "price_to_buy": 7413
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19495,
+        "total_price": 19495,
+        "deposit": 1949.5,
+        "balance": 17545.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 456.04,
+        "final_payment": 456.04,
+        "total_amount_payable": 23839.42,
+        "total_charge_for_credit": 4344.42,
+        "amount_of_credit": 17545.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

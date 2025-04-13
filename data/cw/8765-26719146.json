@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:07.725Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berrowmotors.co.uk/used/cars/mini/hatch/1-5-cooper-sport-3dr-262",
+    "dealer_id": "8765",
+    "car_id": "26719146",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "3-Door Hatch Cooper Sport",
+        "registration_number": "EK69BOV",
+        "registration_date": "06/02/2020",
+        "mileage": 14500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 1650,
+        "balance": 14850,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 57,
+        "regular_payment": 254.9,
+        "final_payment": 5846.71,
+        "total_amount_payable": 21771.11,
+        "total_charge_for_credit": 5271.11,
+        "amount_of_credit": 14850,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 47500,
+        "excess_mileage_rate": 3.89,
+        "residual": 5846.71,
+        "price_to_buy": 5846.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 1650,
+        "balance": 14850,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 318.41,
+        "final_payment": 318.41,
+        "total_amount_payable": 20754.6,
+        "total_charge_for_credit": 4254.6,
+        "amount_of_credit": 14850,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

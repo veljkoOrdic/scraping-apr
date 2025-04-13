@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:41:32.816Z",
+    "source": "codeweavers_calculator",
+    "url": "https://roadsidemotors.com/volkswagen/used/volkswagen_golf_r_2_0_tsi_320ps_dsg_4motion",
+    "dealer_id": "7195",
+    "car_id": "23164446",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 320 R 4Motion DSG",
+        "registration_number": "VRZ1224",
+        "registration_date": "01/01/2023",
+        "mileage": 1541,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 750,
+        "balance": 36245,
+        "apr": 11.3,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 635.69,
+        "final_payment": 17852.5,
+        "total_amount_payable": 49115.62,
+        "total_charge_for_credit": 12120.62,
+        "amount_of_credit": 36245,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "contract_mileage": 20416,
+        "excess_mileage_rate": 9,
+        "residual": 17842.5,
+        "price_to_buy": 17852.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 250,
+        "balance": 36745,
+        "apr": 11.2,
+        "rate_of_interest": 11.16,
+        "term": 60,
+        "regular_payment": 792.16,
+        "final_payment": 802.16,
+        "total_amount_payable": 47789.6,
+        "total_charge_for_credit": 10794.6,
+        "amount_of_credit": 36745,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

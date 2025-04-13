@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:07:18.299Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/porsche/porsche-taycan-performance-79-2kwh-auto-rwd-4dr-11kw-charger/",
+    "dealer_id": "6227",
+    "car_id": "26188885",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "300kW 79kWh RWD",
+        "registration_number": "LC72VBM",
+        "registration_date": "12/12/2022",
+        "mileage": 5015,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 55975,
+        "total_price": 55975,
+        "deposit": 5597.5,
+        "balance": 50377.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 954.17,
+        "final_payment": 19016,
+        "total_amount_payable": 69459.49,
+        "total_charge_for_credit": 13484.49,
+        "amount_of_credit": 50377.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.6,
+        "residual": 19006,
+        "price_to_buy": 19016
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 55975,
+        "total_price": 55975,
+        "deposit": 5597.5,
+        "balance": 50377.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 1057.46,
+        "final_payment": 1057.46,
+        "total_amount_payable": 69045.1,
+        "total_charge_for_credit": 13070.1,
+        "amount_of_credit": 50377.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:14:10.541Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mandbautocentre.co.uk/details/used-car-in-chapel-street/volkswagen/polo/1.2-tsi-bluemotion-tech-r-line-euro-6-ss-5dr/1243620/",
+    "dealer_id": "7349",
+    "car_id": "25390615",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 TSI R-Line",
+        "registration_number": "LT17PBX",
+        "registration_date": "16/03/2017",
+        "mileage": 68624,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs_close",
+        "name": "CS_CLOSE",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949.5,
+        "balance": 8545.5,
+        "apr": 16.9,
+        "rate_of_interest": 7.49,
+        "term": 48,
+        "regular_payment": 240.85,
+        "final_payment": 240.85,
+        "total_amount_payable": 12510.3,
+        "total_charge_for_credit": 3015.3,
+        "amount_of_credit": 8545.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp_connected",
+        "name": "HP_CONNECTED",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949.5,
+        "balance": 8545.5,
+        "apr": 10,
+        "rate_of_interest": 5.18,
+        "term": 48,
+        "regular_payment": 214.92,
+        "final_payment": 214.92,
+        "total_amount_payable": 11265.66,
+        "total_charge_for_credit": 1770.66,
+        "amount_of_credit": 8545.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:42:50.656Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadoakmotorgroup.co.uk/used-car-details/used-volkswagen-arteon-pa-r-20-tsi-320ps-7-speed-dsg-hatchback-moonstone-grey-automatic-petrol/id-31297117411152/",
+    "dealer_id": "6538",
+    "car_id": "25595809",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ARTEON",
+        "variant": "FASTBACK",
+        "derivative": "2.0 TSI R 4MOTION DSG",
+        "registration_number": "GK74KOB",
+        "registration_date": "02/09/2024",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45989,
+        "total_price": 45989,
+        "deposit": 11747,
+        "balance": 34242,
+        "apr": 11.2,
+        "rate_of_interest": 11.15,
+        "term": 60,
+        "regular_payment": 737.92,
+        "final_payment": 747.92,
+        "total_amount_payable": 56032.2,
+        "total_charge_for_credit": 10043.2,
+        "amount_of_credit": 34242,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45989,
+        "total_price": 45989,
+        "deposit": 11747,
+        "balance": 34242,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 49,
+        "regular_payment": 573.38,
+        "final_payment": 18550,
+        "total_amount_payable": 57819.24,
+        "total_charge_for_credit": 11830.24,
+        "amount_of_credit": 34242,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9,
+        "residual": 18540,
+        "price_to_buy": 18550
+      }
+    ]
+  }
+]

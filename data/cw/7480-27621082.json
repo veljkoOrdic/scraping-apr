@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:01:05.164Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.normandygarage.co.uk/used-cars/ssangyong/korando-e-motion/615kwh-ultimate-suv-5dr-electric-auto-207-ps/rk73ecn",
+    "dealer_id": "7480",
+    "car_id": "27621082",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ssangyong",
+        "model": "KORANDO",
+        "variant": "E-MOTION ELECTRIC ESTATE",
+        "derivative": "150kW Ultimate 61.5kWh",
+        "registration_number": "RK73ECN",
+        "registration_date": "13/09/2023",
+        "mileage": 766,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 4199,
+        "balance": 16796,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 286.16,
+        "final_payment": 8756,
+        "total_amount_payable": 26404.52,
+        "total_charge_for_credit": 5409.52,
+        "amount_of_credit": 16796,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 8756,
+        "price_to_buy": 8756
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 4199,
+        "balance": 16796,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 429.14,
+        "final_payment": 429.14,
+        "total_amount_payable": 24797.72,
+        "total_charge_for_credit": 3802.72,
+        "amount_of_credit": 16796,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:50:40.671Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scsautos.co.uk/used-porsche-taycan-watford-hertfordshire-6554136",
+    "dealer_id": "6433",
+    "car_id": "26515387",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "440kW GTS 93kWh",
+        "registration_number": "PK23OPG",
+        "registration_date": "29/03/2023",
+        "mileage": 8300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69999,
+        "total_price": 69999,
+        "deposit": 6999,
+        "balance": 63000,
+        "apr": 11.8,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 1166.42,
+        "final_payment": 29332.67,
+        "total_amount_payable": 91153.41,
+        "total_charge_for_credit": 21154.41,
+        "amount_of_credit": 63000,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 28156.25,
+        "price_to_buy": 29332.67
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 69999,
+        "total_price": 69999,
+        "deposit": 6999,
+        "balance": 63000,
+        "apr": 11.7,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 1372.58,
+        "final_payment": 1372.58,
+        "total_amount_payable": 89353.8,
+        "total_charge_for_credit": 19354.8,
+        "amount_of_credit": 63000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

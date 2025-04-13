@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:44:20.547Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.crmorrow.com/used/vauxhall/astra/12-design-5dr/newry/county-down/21469395",
+    "dealer_id": "8085",
+    "car_id": "26290919",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo Design",
+        "registration_number": "SXZ1455",
+        "registration_date": "07/04/2023",
+        "mileage": 21433,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14590,
+        "total_price": 14590,
+        "deposit": 1459,
+        "balance": 13131,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 239.69,
+        "final_payment": 6368,
+        "total_amount_payable": 19092.43,
+        "total_charge_for_credit": 4502.43,
+        "amount_of_credit": 13131,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 6368,
+        "price_to_buy": 6368
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14590,
+        "total_price": 14590,
+        "deposit": 1459,
+        "balance": 13131,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 341.27,
+        "final_payment": 341.27,
+        "total_amount_payable": 17839.96,
+        "total_charge_for_credit": 3249.96,
+        "amount_of_credit": 13131,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

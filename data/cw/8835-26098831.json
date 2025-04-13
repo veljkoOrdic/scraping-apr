@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:36:44.628Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-van-in-welwyn-garden-city/ford/ranger/2.2-tdci-limited-1-auto-4wd-euro-6-4dr/1300950/",
+    "dealer_id": "8835",
+    "car_id": "26098831",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL SPECIAL EDITION",
+        "derivative": "Pick Up Double Cab Black Edition 2.2 TDCi",
+        "registration_number": "RX68NZF",
+        "registration_date": "09/01/2019",
+        "mileage": 60000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16788,
+        "total_price": 16788,
+        "deposit": 2798,
+        "balance": 13990,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 32,
+        "regular_payment": 384.71,
+        "final_payment": 4704,
+        "total_amount_payable": 19428.01,
+        "total_charge_for_credit": 2640.01,
+        "amount_of_credit": 13990,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 26666,
+        "excess_mileage_rate": 12,
+        "residual": 4704,
+        "price_to_buy": 4704
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16788,
+        "total_price": 16788,
+        "deposit": 2798,
+        "balance": 13990,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 299.94,
+        "final_payment": 299.94,
+        "total_amount_payable": 20794.4,
+        "total_charge_for_credit": 4006.4,
+        "amount_of_credit": 13990,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

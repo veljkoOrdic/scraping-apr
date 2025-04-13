@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T21:04:17.278Z",
+    "source": "codeweavers_calculator",
+    "url": "https://alprestigecars.co.uk/vehicle/2008-58-reg-ford-focus-1-6-zetec-5dr-48681/",
+    "dealer_id": "7747",
+    "car_id": "24019174",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 Zetec",
+        "registration_number": "KV58TSO",
+        "registration_date": "25/09/2008",
+        "mileage": 87126,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 1000,
+        "balance": 3999,
+        "apr": 14.9,
+        "rate_of_interest": 7.73,
+        "term": 48,
+        "regular_payment": 109.07,
+        "final_payment": 119.07,
+        "total_amount_payable": 6245.36,
+        "total_charge_for_credit": 1246.36,
+        "amount_of_credit": 3999,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

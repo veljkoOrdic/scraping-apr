@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:55:01.250Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autocheckedvehiclesltd.co.uk/details/used-car-in-nottingham/audi/q3/1.5-tfsi-cod-35-s-line-s-tronic-euro-6-ss-5dr/1429941/",
+    "dealer_id": "7036",
+    "car_id": "27649719",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "ESTATE",
+        "derivative": "35 TFSI S Line S Tronic [Leather]",
+        "registration_number": "GL24UUE",
+        "registration_date": "21/06/2024",
+        "mileage": 7821,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31740,
+        "total_price": 31740,
+        "deposit": 3174,
+        "balance": 28566,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 483.86,
+        "final_payment": 14048,
+        "total_amount_payable": 39963.42,
+        "total_charge_for_credit": 8223.42,
+        "amount_of_credit": 28566,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.33,
+        "residual": 14038,
+        "price_to_buy": 14048
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31740,
+        "total_price": 31740,
+        "deposit": 3174,
+        "balance": 28566,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 717.34,
+        "final_payment": 718.34,
+        "total_amount_payable": 37607.32,
+        "total_charge_for_credit": 5867.32,
+        "amount_of_credit": 28566,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

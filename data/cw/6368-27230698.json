@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:14:07.082Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acergladecars.com/vehicle-details/used-land-rover-range-rover-sport-d300-mhev-dynamic-se-for-sale-acer-glade-cars-u2246/",
+    "dealer_id": "6368",
+    "car_id": "27230698",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 Dynamic SE",
+        "registration_number": "YY72RXT",
+        "registration_date": "31/01/2023",
+        "mileage": 47000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 61290,
+        "total_price": 61290,
+        "deposit": 15322.5,
+        "balance": 45967.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 984.25,
+        "final_payment": 984.25,
+        "total_amount_payable": 74377.5,
+        "total_charge_for_credit": 13087.5,
+        "amount_of_credit": 45967.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61290,
+        "total_price": 61290,
+        "deposit": 15322.5,
+        "balance": 45967.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 735.44,
+        "final_payment": 26734.19,
+        "total_amount_payable": 76622.37,
+        "total_charge_for_credit": 15332.37,
+        "amount_of_credit": 45967.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 25988.75,
+        "price_to_buy": 26734.19
+      }
+    ]
+  }
+]

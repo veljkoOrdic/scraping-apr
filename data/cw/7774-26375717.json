@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:20:58.738Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lodgecarsales.co.uk/details/used-car-in-wednesbury/mercedes-benz/glcclass/2.1-glc220d-amg-line-premium-g-tronic-4matic-euro-6-ss-5dr/1144143/",
+    "dealer_id": "7774",
+    "car_id": "26375717",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLC",
+        "variant": "DIESEL ESTATE",
+        "derivative": "GLC 220d 4Matic AMG Line Premium 9G-Tronic",
+        "registration_number": "YS67SVL",
+        "registration_date": "26/01/2018",
+        "mileage": 66000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849.5,
+        "balance": 16645.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 21,
+        "regular_payment": 410.05,
+        "final_payment": 11203,
+        "total_amount_payable": 21253.5,
+        "total_charge_for_credit": 2758.5,
+        "amount_of_credit": 16645.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 17500,
+        "excess_mileage_rate": 13,
+        "residual": 11203,
+        "price_to_buy": 11203
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849.5,
+        "balance": 16645.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 364.37,
+        "final_payment": 365.37,
+        "total_amount_payable": 23712.7,
+        "total_charge_for_credit": 5217.7,
+        "amount_of_credit": 16645.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

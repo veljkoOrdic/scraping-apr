@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:00:09.090Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-bentley-continental-liskeard-cornwall-6747086",
+    "dealer_id": "8394",
+    "car_id": "27249272",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL GTC",
+        "variant": "CONVERTIBLE",
+        "derivative": "6.0 W12 Speed",
+        "registration_number": "WGZ5225",
+        "registration_date": "23/01/2014",
+        "mileage": 14000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 52500,
+        "total_price": 52500,
+        "deposit": 5250,
+        "balance": 47250,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 700,
+        "final_payment": 28964.25,
+        "total_amount_payable": 67114.25,
+        "total_charge_for_credit": 14614.25,
+        "amount_of_credit": 47250,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52500,
+        "total_price": 52500,
+        "deposit": 5250,
+        "balance": 47250,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 991.68,
+        "final_payment": 1001.68,
+        "total_amount_payable": 64760.8,
+        "total_charge_for_credit": 12260.8,
+        "amount_of_credit": 47250,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

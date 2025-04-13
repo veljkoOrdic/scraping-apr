@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:17:33.855Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carsynergy.co.uk/used-jeep-compass-leeds-west-yorkshire-6717273",
+    "dealer_id": "8729",
+    "car_id": "27231186",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "Compass",
+        "variant": "S",
+        "derivative": "1.4 MultiAir II 140hp 4x2",
+        "registration_number": "YJ71PSZ",
+        "registration_date": "06/09/2021",
+        "mileage": 57035,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13695,
+        "total_price": 13695,
+        "deposit": 1369,
+        "balance": 12326,
+        "apr": 9.9,
+        "rate_of_interest": 6.95,
+        "term": 48,
+        "regular_payment": 220.76,
+        "final_payment": 5377.5,
+        "total_amount_payable": 17122.22,
+        "total_charge_for_credit": 3427.22,
+        "amount_of_credit": 12326,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 5377.5,
+        "price_to_buy": 5377.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13695,
+        "total_price": 13695,
+        "deposit": 1369,
+        "balance": 12326,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 258.73,
+        "final_payment": 258.73,
+        "total_amount_payable": 16892.8,
+        "total_charge_for_credit": 3197.8,
+        "amount_of_credit": 12326,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

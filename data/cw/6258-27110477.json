@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T17:53:12.909Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autovettura.co.uk/used/cars/bmw/x5/3-0-m50d-auto-xdrive-euro-6-s-s-5dr-198",
+    "dealer_id": "6258",
+    "car_id": "27110477",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive M50d",
+        "registration_number": "CA19KYB",
+        "registration_date": "29/03/2019",
+        "mileage": 89300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 37000,
+        "total_price": 37000,
+        "deposit": 3700,
+        "balance": 33300,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 743.98,
+        "final_payment": 753.98,
+        "total_amount_payable": 48348.8,
+        "total_charge_for_credit": 11348.8,
+        "amount_of_credit": 33300,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

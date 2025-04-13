@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:19.250Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bmw/3-series/3-0-m3-competition-m-xdrive-auto-4wd-5dr-915",
+    "dealer_id": "7389",
+    "car_id": "27726810",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3",
+        "variant": "TOURING",
+        "derivative": "M3 xDrive Competition M Step",
+        "registration_number": "SND1T",
+        "registration_date": "14/03/2023",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 95000,
+        "total_price": 95000,
+        "deposit": 9500,
+        "balance": 85500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1529.96,
+        "final_payment": 21750.4,
+        "total_amount_payable": 121518.04,
+        "total_charge_for_credit": 26518.04,
+        "amount_of_credit": 85500,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 16.03,
+        "residual": 21750.4,
+        "price_to_buy": 21750.4
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95000,
+        "total_price": 95000,
+        "deposit": 9500,
+        "balance": 85500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1794.79,
+        "final_payment": 1794.79,
+        "total_amount_payable": 117187.4,
+        "total_charge_for_credit": 22187.4,
+        "amount_of_credit": 85500,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:50:39.383Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berrowmotors.co.uk/used/cars/kia/picanto/1-0-picanto-1-5dr-232",
+    "dealer_id": "8765",
+    "car_id": "26300345",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 1",
+        "registration_number": "WP69ZGS",
+        "registration_date": "31/12/2019",
+        "mileage": 76680,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 5750,
+        "total_price": 5750,
+        "deposit": 575,
+        "balance": 5175,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 56,
+        "regular_payment": 96.2,
+        "final_payment": 1587.61,
+        "total_amount_payable": 7453.61,
+        "total_charge_for_credit": 1703.61,
+        "amount_of_credit": 5175,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 46666,
+        "excess_mileage_rate": 1.58,
+        "residual": 1587.61,
+        "price_to_buy": 1587.61
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5750,
+        "total_price": 5750,
+        "deposit": 575,
+        "balance": 5175,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 110.96,
+        "final_payment": 110.96,
+        "total_amount_payable": 7232.6,
+        "total_charge_for_credit": 1482.6,
+        "amount_of_credit": 5175,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

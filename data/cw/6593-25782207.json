@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:23:42.633Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechwoodautos.co.uk/used-land-rover-discovery-sport-nottingham-nottinghamshire-6368640",
+    "dealer_id": "6593",
+    "car_id": "25782207",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY SPORT",
+        "variant": "SW",
+        "derivative": "1.5 P300e Urban Edition [5 Seat]",
+        "registration_number": "YL22LZF",
+        "registration_date": "14/07/2022",
+        "mileage": 15200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32000,
+        "total_price": 32000,
+        "deposit": 3200,
+        "balance": 28800,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 541.15,
+        "final_payment": 14066.15,
+        "total_amount_payable": 42700.2,
+        "total_charge_for_credit": 10700.2,
+        "amount_of_credit": 28800,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 13515,
+        "price_to_buy": 14066.15
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32000,
+        "total_price": 32000,
+        "deposit": 3200,
+        "balance": 28800,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 761.04,
+        "final_payment": 771.04,
+        "total_amount_payable": 39739.92,
+        "total_charge_for_credit": 7739.92,
+        "amount_of_credit": 28800,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

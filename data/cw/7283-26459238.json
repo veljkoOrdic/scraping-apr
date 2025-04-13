@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:25.880Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richardsanders.co.uk/used-car-details/used-renault-clio-hatchback-esprit-alpine-hatchback-diamond-black-automatic-petrolele/id-18962164/",
+    "dealer_id": "7283",
+    "car_id": "26459238",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "CLIO",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 E-TECH full hybrid 145 Esprit Alpine",
+        "registration_number": "KR74JYJ",
+        "registration_date": "16/10/2024",
+        "mileage": 3898,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2150,
+        "balance": 19345,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 311.6,
+        "final_payment": 7526.32,
+        "total_amount_payable": 28060.72,
+        "total_charge_for_credit": 6565.72,
+        "amount_of_credit": 19345,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 5.63,
+        "residual": 7526.32,
+        "price_to_buy": 7526.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2150,
+        "balance": 19345,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 406.07,
+        "final_payment": 406.07,
+        "total_amount_payable": 26514.2,
+        "total_charge_for_credit": 5019.2,
+        "amount_of_credit": 19345,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:54:47.582Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autocheckedvehiclesltd.co.uk/details/used-car-in-nottingham/bmw/4seriesgrancoupe/2.0-420d-mht-m-sport-auto-euro-6-ss-5dr/1418687/",
+    "dealer_id": "7036",
+    "car_id": "27520446",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "GRAN DIESEL COUPE",
+        "derivative": "420d MHT M Sport Step",
+        "registration_number": "ST22ACZ",
+        "registration_date": "16/03/2022",
+        "mileage": 79861,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26440,
+        "total_price": 26440,
+        "deposit": 2644,
+        "balance": 23796,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 427.11,
+        "final_payment": 9975,
+        "total_amount_payable": 33120.28,
+        "total_charge_for_credit": 6680.28,
+        "amount_of_credit": 23796,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.68,
+        "residual": 9975,
+        "price_to_buy": 9975
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26440,
+        "total_price": 26440,
+        "deposit": 2644,
+        "balance": 23796,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 597.55,
+        "final_payment": 598.55,
+        "total_amount_payable": 31327.4,
+        "total_charge_for_credit": 4887.4,
+        "amount_of_credit": 23796,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

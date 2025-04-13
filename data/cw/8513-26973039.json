@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:07:55.643Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dreamspec.co.uk/vehicle/aston-martin-vantage-40-v8-auto-euro-6-2dr-in-cardiff-glamorgan-7ff770c6-aa98-43fd-a9bb-b27900ea125b",
+    "dealer_id": "8513",
+    "car_id": "26973039",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "VANTAGE",
+        "variant": "V8  COUPE",
+        "derivative": "2dr ZF 8 Speed",
+        "registration_number": "T15PKN",
+        "registration_date": "11/07/2018",
+        "mileage": 14148,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 71890,
+        "total_price": 71890,
+        "deposit": 7189,
+        "balance": 64701,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1000.09,
+        "final_payment": 39661.71,
+        "total_amount_payable": 93854.94,
+        "total_charge_for_credit": 21964.94,
+        "amount_of_credit": 64701,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71890,
+        "total_price": 71890,
+        "deposit": 7189,
+        "balance": 64701,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1416.21,
+        "final_payment": 1426.21,
+        "total_amount_payable": 92171.6,
+        "total_charge_for_credit": 20281.6,
+        "amount_of_credit": 64701,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

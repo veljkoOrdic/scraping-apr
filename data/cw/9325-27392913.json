@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:23:46.087Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.queautomotive.co.uk/cars/bmw/x4/3.0-x4-m40d/1396216/",
+    "dealer_id": "9325",
+    "car_id": "27392913",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X4",
+        "variant": "",
+        "derivative": "X4 M40d",
+        "registration_number": "RK68DSX",
+        "registration_date": "03/09/2018",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33495,
+        "total_price": 33495,
+        "deposit": 3349.5,
+        "balance": 30145.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 40,
+        "regular_payment": 579.74,
+        "final_payment": 14727.56,
+        "total_amount_payable": 40686.92,
+        "total_charge_for_credit": 7191.92,
+        "amount_of_credit": 30145.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 7.36,
+        "residual": 14727.56,
+        "price_to_buy": 14727.56
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33495,
+        "total_price": 33495,
+        "deposit": 3349.5,
+        "balance": 30145.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 756.9,
+        "final_payment": 756.9,
+        "total_amount_payable": 39680.7,
+        "total_charge_for_credit": 6185.7,
+        "amount_of_credit": 30145.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

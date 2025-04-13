@@ -1,0 +1,81 @@
+[
+  {
+    "timestamp": "2025-04-11T16:41:46.324Z",
+    "source": "codeweavers_calculator",
+    "url": "https://roadsidemotors.com/peugeot/used/peugeot_e_5008_gt",
+    "dealer_id": "7195",
+    "car_id": "27285228",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "5008",
+        "variant": "GT",
+        "derivative": "Electric 73kWh 210HP 1-speed",
+        "registration_number": "TXZ9898",
+        "registration_date": "01/01/2024",
+        "mileage": 5184,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42950,
+        "total_price": 42950,
+        "deposit": 0,
+        "balance": 42950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 901.55,
+        "final_payment": 901.55,
+        "total_amount_payable": 54093,
+        "total_charge_for_credit": 11143,
+        "amount_of_credit": 42950,
+        "lender": "Stellantis Financial Services"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42950,
+        "total_price": 42950,
+        "deposit": 0,
+        "balance": 42950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 901.55,
+        "final_payment": 901.55,
+        "total_amount_payable": 54093,
+        "total_charge_for_credit": 11143,
+        "amount_of_credit": 42950,
+        "lender": "Stellantis Financial Services"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "PCP",
+        "cash_price": 42950,
+        "total_price": 42950,
+        "deposit": 0,
+        "balance": 42950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 729.4,
+        "final_payment": 20948,
+        "total_amount_payable": 55274.8,
+        "total_charge_for_credit": 12324.8,
+        "amount_of_credit": 42950,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 20948,
+        "price_to_buy": 20948
+      }
+    ]
+  }
+]

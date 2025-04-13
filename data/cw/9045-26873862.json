@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:25:10.199Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mastercarsbedfordshire.co.uk/vehicle/vauxhall-crossland-12-petrol-automatic-elite-in-sandy-bedfordshire-59258a08-7b03-47f4-a893-472c68324722",
+    "dealer_id": "9045",
+    "car_id": "26873862",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CROSSLAND",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo [130] Elite",
+        "registration_number": "VE70ZJU",
+        "registration_date": "30/01/2021",
+        "mileage": 30954,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 240.93,
+        "final_payment": 250.93,
+        "total_amount_payable": 15715.3,
+        "total_charge_for_credit": 3220.3,
+        "amount_of_credit": 11245.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 227.62,
+        "final_payment": 3765.12,
+        "total_amount_payable": 15712.76,
+        "total_charge_for_credit": 3217.76,
+        "amount_of_credit": 11245.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3527.5,
+        "price_to_buy": 3765.12
+      }
+    ]
+  }
+]

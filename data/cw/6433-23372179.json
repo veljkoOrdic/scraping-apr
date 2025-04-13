@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:49:44.591Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scsautos.co.uk/used-subaru-solterra-watford-hertfordshire-5788279",
+    "dealer_id": "6433",
+    "car_id": "23372179",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Subaru",
+        "model": "SOLTERRA",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Limited 71.4kWh",
+        "registration_number": "GX23WNG",
+        "registration_date": "23/03/2023",
+        "mileage": 8710,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27999,
+        "total_price": 27999,
+        "deposit": 2799,
+        "balance": 25200,
+        "apr": 12.1,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 454.82,
+        "final_payment": 12747.32,
+        "total_amount_payable": 36922.86,
+        "total_charge_for_credit": 8923.86,
+        "amount_of_credit": 25200,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12282.5,
+        "price_to_buy": 12747.32
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27999,
+        "total_price": 27999,
+        "deposit": 2799,
+        "balance": 25200,
+        "apr": 12.1,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 553.58,
+        "final_payment": 553.58,
+        "total_amount_payable": 36013.8,
+        "total_charge_for_credit": 8014.8,
+        "amount_of_credit": 25200,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

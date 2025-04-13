@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:54:24.447Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kingsbridgeautos.co.uk/used-bmw-x5-york-yorkshire-6795964",
+    "dealer_id": "7325",
+    "car_id": "27449970",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M50i",
+        "registration_number": "YB72KRX",
+        "registration_date": "06/12/2022",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54286,
+        "total_price": 54286,
+        "deposit": 5428,
+        "balance": 48858,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 826.23,
+        "final_payment": 25815.84,
+        "total_amount_payable": 70076.65,
+        "total_charge_for_credit": 15790.65,
+        "amount_of_credit": 48858,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13.4,
+        "residual": 25815.84,
+        "price_to_buy": 25815.84
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54286,
+        "total_price": 54286,
+        "deposit": 5428,
+        "balance": 48858,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1047.5,
+        "final_payment": 1047.5,
+        "total_amount_payable": 68278,
+        "total_charge_for_credit": 13992,
+        "amount_of_credit": 48858,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

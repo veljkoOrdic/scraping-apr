@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:45:24.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dynamiccars.uk/details/used-car-in-dunstable/vauxhall/astra/1.4i-turbo-sri-euro-6-5dr/1313231/",
+    "dealer_id": "8651",
+    "car_id": "26248407",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "ASTRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.4T 16V 150 SRi",
+        "registration_number": "KT66EJJ",
+        "registration_date": "12/01/2017",
+        "mileage": 40100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 4391,
+        "total_price": 4391,
+        "deposit": 439.1,
+        "balance": 3951.9,
+        "apr": 9.9,
+        "rate_of_interest": 7.89,
+        "term": 45,
+        "regular_payment": 58.08,
+        "final_payment": 2565,
+        "total_amount_payable": 5559.62,
+        "total_charge_for_credit": 1168.62,
+        "amount_of_credit": 3951.9,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 12,
+        "residual": 2565,
+        "price_to_buy": 2565
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4391,
+        "total_price": 4391,
+        "deposit": 439.1,
+        "balance": 3951.9,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 82.95,
+        "final_payment": 82.95,
+        "total_amount_payable": 5416.1,
+        "total_charge_for_credit": 1025.1,
+        "amount_of_credit": 3951.9,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:05:12.789Z",
+    "source": "codeweavers_calculator",
+    "url": "https://taylorsmotorgroup.co.uk/used-cars/volvo-xc40-2-0-b4-mhev-r-design-auto-awd-euro-6-s-s-5dr-e3413b00",
+    "dealer_id": "7486",
+    "car_id": "25080762",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC40",
+        "variant": "ESTATE",
+        "derivative": "2.0 B4P R DESIGN",
+        "registration_number": "CU70JUW",
+        "registration_date": "25/09/2020",
+        "mileage": 32692,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22991,
+        "total_price": 22991,
+        "deposit": 4598.2,
+        "balance": 18392.8,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 317.05,
+        "final_payment": 10710,
+        "total_amount_payable": 30209.55,
+        "total_charge_for_credit": 7218.55,
+        "amount_of_credit": 18392.8,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 10710,
+        "price_to_buy": 10710
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22991,
+        "total_price": 22991,
+        "deposit": 4598.2,
+        "balance": 18392.8,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 486.11,
+        "final_payment": 486.11,
+        "total_amount_payable": 27931.48,
+        "total_charge_for_credit": 4940.48,
+        "amount_of_credit": 18392.8,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

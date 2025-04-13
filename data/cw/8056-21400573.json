@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:26:09.961Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dvpcars.co.uk/vehicle-details/used-aston-martin-db11-v8-for-sale-in-croydon-u1345/",
+    "dealer_id": "8056",
+    "car_id": "21400573",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DB11",
+        "variant": "COUPE",
+        "derivative": "V8 Touchtronic",
+        "registration_number": "VX20UKT",
+        "registration_date": "15/05/2020",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 7200,
+        "balance": 64800,
+        "apr": 11.9,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 1683.04,
+        "final_payment": 1683.04,
+        "total_amount_payable": 87985.92,
+        "total_charge_for_credit": 15985.92,
+        "amount_of_credit": 64800,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 7200,
+        "balance": 64800,
+        "apr": 11.8,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 1150.52,
+        "final_payment": 33056.77,
+        "total_amount_payable": 94331.21,
+        "total_charge_for_credit": 22331.21,
+        "amount_of_credit": 64800,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 31896.25,
+        "price_to_buy": 33056.77
+      }
+    ]
+  }
+]

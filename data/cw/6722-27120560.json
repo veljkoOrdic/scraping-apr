@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:36:33.405Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hkperformance.co.uk/details/used-car-in-manchester/bmw/8series/3.0-840d-steptronic-xdrive-euro-6-ss-2dr/1385326/",
+    "dealer_id": "6722",
+    "car_id": "27120560",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "8 Series",
+        "variant": "",
+        "derivative": "840d xDrive Coupe",
+        "registration_number": "YL68BXK",
+        "registration_date": "27/11/2018",
+        "mileage": 48000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 43,
+        "regular_payment": 522.87,
+        "final_payment": 13354.25,
+        "total_amount_payable": 38314.29,
+        "total_charge_for_credit": 8319.29,
+        "amount_of_credit": 26995.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 9.16,
+        "residual": 13354.25,
+        "price_to_buy": 13354.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 666.11,
+        "final_payment": 666.11,
+        "total_amount_payable": 34972.78,
+        "total_charge_for_credit": 4977.78,
+        "amount_of_credit": 26995.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

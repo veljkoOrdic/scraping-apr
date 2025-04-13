@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:43:46.524Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesnuttcars.co.uk/details/used-car-in-redditch/porsche/718/4.0-gt4-euro-6-ss-2dr/1289427/",
+    "dealer_id": "8843",
+    "car_id": "25969760",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "4.0 GT4",
+        "registration_number": "LO20URG",
+        "registration_date": "16/03/2020",
+        "mileage": 22357,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899.5,
+        "balance": 62095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 59,
+        "regular_payment": 1017.77,
+        "final_payment": 23674.76,
+        "total_amount_payable": 89604.92,
+        "total_charge_for_credit": 20609.92,
+        "amount_of_credit": 62095.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 49166,
+        "excess_mileage_rate": 13.27,
+        "residual": 23674.76,
+        "price_to_buy": 23674.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899.5,
+        "balance": 62095.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1303.49,
+        "final_payment": 1303.49,
+        "total_amount_payable": 85108.9,
+        "total_charge_for_credit": 16113.9,
+        "amount_of_credit": 62095.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

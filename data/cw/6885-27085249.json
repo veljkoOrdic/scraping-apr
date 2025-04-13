@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-12T00:08:43.268Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.anslowautos.co.uk/details/used-car-in-burton-on-trent/nissan/juke/1.0-dig-t-tekna+-dct-auto-euro-6-ss-5dr/1381652/",
+    "dealer_id": "6885",
+    "car_id": "27085249",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 DiG-T Tekna+ DCT",
+        "registration_number": "BC70VKV",
+        "registration_date": "18/12/2020",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17499,
+        "total_price": 17499,
+        "deposit": 1749.9,
+        "balance": 15749.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 296.47,
+        "final_payment": 7106.47,
+        "total_amount_payable": 22790.46,
+        "total_charge_for_credit": 5291.46,
+        "amount_of_credit": 15749.1,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6800,
+        "price_to_buy": 7106.47
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17499,
+        "total_price": 17499,
+        "deposit": 1749.9,
+        "balance": 15749.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 409.08,
+        "final_payment": 419.08,
+        "total_amount_payable": 21395.74,
+        "total_charge_for_credit": 3896.74,
+        "amount_of_credit": 15749.1,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

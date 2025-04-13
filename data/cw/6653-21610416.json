@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:54:37.698Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/lamborghini/huracan/5.2-v10-lp-640-2-tecnica-ldf-euro-6-ss-2dr/973165/",
+    "dealer_id": "6653",
+    "car_id": "21610416",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "EVO COUPE",
+        "derivative": "5.2 V10 640 Tecnica",
+        "registration_number": "BV23HVM",
+        "registration_date": "07/03/2023",
+        "mileage": 3200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 219995,
+        "total_price": 219995,
+        "deposit": 21999.5,
+        "balance": 197995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 3321.92,
+        "final_payment": 92454.42,
+        "total_amount_payable": 270584.16,
+        "total_charge_for_credit": 50589.16,
+        "amount_of_credit": 197995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 89122.5,
+        "price_to_buy": 92454.42
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 219995,
+        "total_price": 219995,
+        "deposit": 21999.5,
+        "balance": 197995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 4885.54,
+        "final_payment": 4895.54,
+        "total_amount_payable": 256515.42,
+        "total_charge_for_credit": 36520.42,
+        "amount_of_credit": 197995.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

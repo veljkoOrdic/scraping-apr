@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:49:13.903Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cedarspecialistcars.co.uk/vehicle/audi-a5-20-tfsi-40-s-line-s-tronic-euro-6-ss-2dr-in-mansfield-nottinghamshire-9403a6ad-821a-4506-9cd0-b29500a5226a",
+    "dealer_id": "7441",
+    "car_id": "27278910",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "S line",
+        "derivative": "A5 Coupé S line 40 TFSI 204 PS S tronic",
+        "registration_number": "SV21ZXR",
+        "registration_date": "31/03/2021",
+        "mileage": 23686,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23945,
+        "total_price": 23945,
+        "deposit": 2394.5,
+        "balance": 21550.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 371.72,
+        "final_payment": 10963.24,
+        "total_amount_payable": 30828.58,
+        "total_charge_for_credit": 6883.58,
+        "amount_of_credit": 21550.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.66,
+        "residual": 10963.24,
+        "price_to_buy": 10963.24
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23945,
+        "total_price": 23945,
+        "deposit": 2394.5,
+        "balance": 21550.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 550.63,
+        "final_payment": 550.63,
+        "total_amount_payable": 28824.74,
+        "total_charge_for_credit": 4879.74,
+        "amount_of_credit": 21550.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

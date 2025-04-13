@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T18:12:34.089Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkcars.co.uk/cars/ferrari/f430/4.3/1261387/",
+    "dealer_id": "6270",
+    "car_id": "25608263",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "F430",
+        "variant": "CONVERTIBLE",
+        "derivative": "Spider",
+        "registration_number": "RX05WSN",
+        "registration_date": "27/07/2005",
+        "mileage": 26000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 67500,
+        "total_price": 67500,
+        "deposit": 10,
+        "balance": 67490,
+        "apr": 13.2,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 1792.11,
+        "final_payment": 1792.11,
+        "total_amount_payable": 86031.28,
+        "total_charge_for_credit": 18531.28,
+        "amount_of_credit": 67490,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

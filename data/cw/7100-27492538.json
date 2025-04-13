@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:11:02.184Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ucar.co.uk/cars/volkswagen/tiguan/2.0-tdi-r-line/1415870/",
+    "dealer_id": "7100",
+    "car_id": "27492538",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 TDI 4Motion R-Line DSG",
+        "registration_number": "AK53NJS",
+        "registration_date": "26/01/2021",
+        "mileage": 51000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27450,
+        "total_price": 27450,
+        "deposit": 2745,
+        "balance": 24705,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 450.47,
+        "final_payment": 6646.92,
+        "total_amount_payable": 35969.65,
+        "total_charge_for_credit": 8519.65,
+        "amount_of_credit": 24705,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.94,
+        "residual": 6645.92,
+        "price_to_buy": 6646.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27450,
+        "total_price": 27450,
+        "deposit": 2745,
+        "balance": 24705,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 529.66,
+        "final_payment": 530.66,
+        "total_amount_payable": 34525.6,
+        "total_charge_for_credit": 7075.6,
+        "amount_of_credit": 24705,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

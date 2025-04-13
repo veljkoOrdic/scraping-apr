@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:12:44.273Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.grandcarmarket.co.uk/details/car-in-reading/toyota/yariscross/1.5-vvt-h-excel-e-cvt-awd-euro-6-ss-5dr/1432005/",
+    "dealer_id": "6789",
+    "car_id": "27711410",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "YARIS CROSS",
+        "variant": "ESTATE",
+        "derivative": "1.5 Hybrid Excel CVT",
+        "registration_number": "PJ23WBV",
+        "registration_date": "27/04/2023",
+        "mileage": 10975,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 405.82,
+        "final_payment": 8352.44,
+        "total_amount_payable": 34795.32,
+        "total_charge_for_credit": 9800.32,
+        "amount_of_credit": 22495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.13,
+        "residual": 8351.44,
+        "price_to_buy": 8352.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 502.6,
+        "final_payment": 503.6,
+        "total_amount_payable": 32656.5,
+        "total_charge_for_credit": 7661.5,
+        "amount_of_credit": 22495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

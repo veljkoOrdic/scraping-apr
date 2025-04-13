@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:27:10.521Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wimbledoncarriage.co.uk/used-car-details/used-volvo-xc90-b5-core-awd-mhev-20-auto-4wd-estate-thunder-grey-metallic-automatic-hybrid/id-1835/",
+    "dealer_id": "7527",
+    "car_id": "24404887",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volvo",
+        "model": "XC90",
+        "variant": "ESTATE",
+        "derivative": "2.0 B5P [250] Core Geartronic",
+        "registration_number": "wg72fme",
+        "registration_date": "31/10/2022",
+        "mileage": 17700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37995,
+        "total_price": 37995,
+        "deposit": 3800,
+        "balance": 34195,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 717.78,
+        "final_payment": 717.78,
+        "total_amount_payable": 46866.8,
+        "total_charge_for_credit": 8871.8,
+        "amount_of_credit": 34195,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37995,
+        "total_price": 37995,
+        "deposit": 3800,
+        "balance": 34195,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 566.8,
+        "final_payment": 12097.76,
+        "total_amount_payable": 49338.96,
+        "total_charge_for_credit": 11343.96,
+        "amount_of_credit": 34195,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.05,
+        "residual": 12097.76,
+        "price_to_buy": 12097.76
+      }
+    ]
+  }
+]

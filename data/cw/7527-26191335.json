@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:27:02.425Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wimbledoncarriage.co.uk/used-car-details/used-audi-q5-20-tfsie-50-s-line-sportback-suv-black-metallic-automatic-petrol-plug-in-hybrid/id-4442/",
+    "dealer_id": "7527",
+    "car_id": "26191335",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "SPORTBACK",
+        "derivative": "50 TFSI e Quattro S Line S Tronic",
+        "registration_number": "kn71cvc",
+        "registration_date": "30/09/2021",
+        "mileage": 31950,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3100,
+        "balance": 27895,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 585.54,
+        "final_payment": 585.54,
+        "total_amount_payable": 38232.4,
+        "total_charge_for_credit": 7237.4,
+        "amount_of_credit": 27895,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3100,
+        "balance": 27895,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 451.69,
+        "final_payment": 10674.36,
+        "total_amount_payable": 40424.07,
+        "total_charge_for_credit": 9429.07,
+        "amount_of_credit": 27895,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.48,
+        "residual": 10674.36,
+        "price_to_buy": 10674.36
+      }
+    ]
+  }
+]

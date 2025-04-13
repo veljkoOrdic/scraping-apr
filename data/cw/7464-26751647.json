@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:52:43.161Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derehammotorcompany.co.uk/details/used-van-in-dereham/ford/escort/1.8d-55-3dr/721098/",
+    "dealer_id": "7464",
+    "car_id": "26751647",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "ESCORT",
+        "variant": "55 DIESEL",
+        "derivative": "Plus Van",
+        "registration_number": "Y262WGK",
+        "registration_date": "19/06/2001",
+        "mileage": 78547,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5994,
+        "total_price": 5994,
+        "deposit": 999,
+        "balance": 4995,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 60,
+        "regular_payment": 109.22,
+        "final_payment": 119.22,
+        "total_amount_payable": 7562.2,
+        "total_charge_for_credit": 1568.2,
+        "amount_of_credit": 4995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5994,
+        "total_price": 5994,
+        "deposit": 999,
+        "balance": 4995,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 60,
+        "regular_payment": 109.22,
+        "final_payment": 119.22,
+        "total_amount_payable": 7562.2,
+        "total_charge_for_credit": 1568.2,
+        "amount_of_credit": 4995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

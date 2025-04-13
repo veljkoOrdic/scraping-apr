@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:26:06.715Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wimbledoncarriage.co.uk/used-car-details/used-tesla-model-3-long-range-awd-dual-motor-saloon-white-automatic-electric/id-5807/",
+    "dealer_id": "7527",
+    "car_id": "18532599",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL 3",
+        "variant": "SALOON",
+        "derivative": "Long Range",
+        "registration_number": "gf71ohk",
+        "registration_date": "12/11/2021",
+        "mileage": 30200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2300,
+        "balance": 20695,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 434.4,
+        "final_payment": 434.4,
+        "total_amount_payable": 28364,
+        "total_charge_for_credit": 5369,
+        "amount_of_credit": 20695,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2300,
+        "balance": 20695,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 349.01,
+        "final_payment": 6872.76,
+        "total_amount_payable": 29764.35,
+        "total_charge_for_credit": 6769.35,
+        "amount_of_credit": 20695,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.16,
+        "residual": 6523.75,
+        "price_to_buy": 6872.76
+      }
+    ]
+  }
+]

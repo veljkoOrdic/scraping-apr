@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:16:22.989Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/mclaren-600lt-38t-v8-ssg-euro-6-ss-2dr-in-west-midlands-67740cef-1262-4b2a-8037-b14b00e403a9",
+    "dealer_id": "6796",
+    "car_id": "26267907",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "600LT",
+        "variant": "COUPE",
+        "derivative": "V8 SSG",
+        "registration_number": "OY19NUK",
+        "registration_date": "11/05/2019",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 144999,
+        "total_price": 144999,
+        "deposit": 14499.9,
+        "balance": 130499.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2423.24,
+        "final_payment": 52025.95,
+        "total_amount_payable": 180418.13,
+        "total_charge_for_credit": 35419.13,
+        "amount_of_credit": 130499.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 32.04,
+        "residual": 52024.95,
+        "price_to_buy": 52025.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 144999,
+        "total_price": 144999,
+        "deposit": 24999,
+        "balance": 120000,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 2960.97,
+        "final_payment": 2961.97,
+        "total_amount_payable": 167126.56,
+        "total_charge_for_credit": 22127.56,
+        "amount_of_credit": 120000,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

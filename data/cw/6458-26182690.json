@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:56:24.346Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.struans.com/used/mazda/cx-60/homura-33d-254-auto-5dr-awd/perth/perthshire/21460022",
+    "dealer_id": "6458",
+    "car_id": "26182690",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-60",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.3d 254 Homura",
+        "registration_number": "SP24GZV",
+        "registration_date": "20/03/2024",
+        "mileage": 3265,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 666.44,
+        "final_payment": 17820,
+        "total_amount_payable": 53908.62,
+        "total_charge_for_credit": 12913.62,
+        "amount_of_credit": 36895.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 17810,
+        "price_to_buy": 17820
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 958.98,
+        "final_payment": 958.98,
+        "total_amount_payable": 50130.54,
+        "total_charge_for_credit": 9135.54,
+        "amount_of_credit": 36895.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

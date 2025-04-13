@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:54:13.342Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.justmotorgroup.co.uk/used/peugeot/3008/15-bluehdi-gt-eat-euro-6-ss-5dr/harrogate/north-yorkshire/21508129",
+    "dealer_id": "6550",
+    "car_id": "26635089",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 BlueHDi GT EAT8",
+        "registration_number": "KM73YGK",
+        "registration_date": "26/09/2023",
+        "mileage": 15866,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 332.38,
+        "final_payment": 10598,
+        "total_amount_payable": 28419.36,
+        "total_charge_for_credit": 6424.36,
+        "amount_of_credit": 19795.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 10598,
+        "price_to_buy": 10598
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 424.41,
+        "final_payment": 424.41,
+        "total_amount_payable": 27664.1,
+        "total_charge_for_credit": 5669.1,
+        "amount_of_credit": 19795.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

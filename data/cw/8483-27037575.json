@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:55:50.026Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brosmotors.co.uk/vehicle/mercedes-c220-20-d-amg-line-premium-g-tronic-euro-6-ss-4dr-in-manchester-lancashire-6d741d4c-27cb-4059-b547-b27e00cfb254",
+    "dealer_id": "8483",
+    "car_id": "27037575",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "C-Class Saloon",
+        "derivative": "C220d AMG Line Ed. Premium Sal Auto MY20 2019",
+        "registration_number": "BJ69MFA",
+        "registration_date": "25/09/2019",
+        "mileage": 16600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21500,
+        "total_price": 21500,
+        "deposit": 2150,
+        "balance": 19350,
+        "apr": 9.9,
+        "rate_of_interest": 7.1,
+        "term": 48,
+        "regular_payment": 335.21,
+        "final_payment": 9090,
+        "total_amount_payable": 26994.87,
+        "total_charge_for_credit": 5494.87,
+        "amount_of_credit": 19350,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9090,
+        "price_to_buy": 9090
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21500,
+        "total_price": 21500,
+        "deposit": 2150,
+        "balance": 19350,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 485.85,
+        "final_payment": 485.85,
+        "total_amount_payable": 25470.8,
+        "total_charge_for_credit": 3970.8,
+        "amount_of_credit": 19350,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

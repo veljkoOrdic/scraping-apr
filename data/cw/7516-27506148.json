@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:19:04.375Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.silsoeprestigemotors.co.uk/used/cars/mercedes-benz/c-class/4-0-amg-c-63-s-premium-auto-2dr-448",
+    "dealer_id": "7516",
+    "car_id": "27506148",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "C Class AMG Cabriolet",
+        "derivative": "C63 S AMG Prem Plus Cab Auto F/L 2018",
+        "registration_number": "RO69VUN",
+        "registration_date": "27/09/2019",
+        "mileage": 43263,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42294,
+        "total_price": 42294,
+        "deposit": 4229.4,
+        "balance": 38064.6,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 53,
+        "regular_payment": 691.32,
+        "final_payment": 13164.99,
+        "total_amount_payable": 53343.03,
+        "total_charge_for_credit": 11049.03,
+        "amount_of_credit": 38064.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 10.6,
+        "residual": 13164.99,
+        "price_to_buy": 13164.99
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42294,
+        "total_price": 42294,
+        "deposit": 4229.4,
+        "balance": 38064.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 799.04,
+        "final_payment": 799.04,
+        "total_amount_payable": 52171.8,
+        "total_charge_for_credit": 9877.8,
+        "amount_of_credit": 38064.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

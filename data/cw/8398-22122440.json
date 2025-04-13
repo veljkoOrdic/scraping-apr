@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:06:30.968Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carjoy.uk/used-nissan-nv250-aberdeen-aberdeenshire-5504094",
+    "dealer_id": "8398",
+    "car_id": "22122440",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "NV250",
+        "variant": "L1 DIESEL",
+        "derivative": "1.5 dCi 95ps Visia Van",
+        "registration_number": "SM21BUU",
+        "registration_date": "30/04/2021",
+        "mileage": 31049,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 224.05,
+        "final_payment": 1434,
+        "total_amount_payable": 13287.4,
+        "total_charge_for_credit": 2292.4,
+        "amount_of_credit": 9896,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 1424,
+        "price_to_buy": 1434
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 252.85,
+        "final_payment": 252.85,
+        "total_amount_payable": 13235.8,
+        "total_charge_for_credit": 2240.8,
+        "amount_of_credit": 9896,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

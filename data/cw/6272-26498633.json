@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:21:28.454Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.baytreecars.com/used-mercedes-benz-amg-gt-derby-derbyshire-6545206",
+    "dealer_id": "6272",
+    "car_id": "26498633",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "AMG GT",
+        "variant": "ROADSTER",
+        "derivative": "GT R",
+        "registration_number": "3SBT",
+        "registration_date": "10/10/2019",
+        "mileage": 7600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 129900,
+        "total_price": 129900,
+        "deposit": 12990,
+        "balance": 116910,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 53,
+        "regular_payment": 2105.69,
+        "final_payment": 37436.02,
+        "total_amount_payable": 159921.9,
+        "total_charge_for_credit": 30021.9,
+        "amount_of_credit": 116910,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 25.19,
+        "residual": 37436.02,
+        "price_to_buy": 37436.02
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 129900,
+        "total_price": 129900,
+        "deposit": 12990,
+        "balance": 116910,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 2401.76,
+        "final_payment": 2401.76,
+        "total_amount_payable": 157095.6,
+        "total_charge_for_credit": 27195.6,
+        "amount_of_credit": 116910,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

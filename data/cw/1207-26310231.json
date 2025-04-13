@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:50:13.657Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nortreemotorcompany.co.uk/used-ford-puma-melksham-wiltshire-6504900",
+    "dealer_id": "1207",
+    "car_id": "26310231",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV ST-Line X",
+        "registration_number": "LS23UKW",
+        "registration_date": "30/06/2023",
+        "mileage": 11190,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18712,
+        "total_price": 18712,
+        "deposit": 1871,
+        "balance": 16841,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 296.57,
+        "final_payment": 8211.57,
+        "total_amount_payable": 24021.36,
+        "total_charge_for_credit": 5309.36,
+        "amount_of_credit": 16841,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7905,
+        "price_to_buy": 8211.57
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18712,
+        "total_price": 18712,
+        "deposit": 1871,
+        "balance": 16841,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 360.96,
+        "final_payment": 370.96,
+        "total_amount_payable": 23538.6,
+        "total_charge_for_credit": 4826.6,
+        "amount_of_credit": 16841,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

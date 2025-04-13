@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:05:54.107Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesrichardscarsales.co.uk/vehicle/land-rover-range-rover-evoque-20-d180-r-dynamic-hse-auto-4wd-euro-6-ss-5dr-in-welwyn-hertfordshire-316629da-42aa-44d8-8ec5-b1e3012e38d7",
+    "dealer_id": "9253",
+    "car_id": "26049022",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D180 R-Dynamic HSE",
+        "registration_number": "LM19LRY",
+        "registration_date": "27/03/2019",
+        "mileage": 51800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 502.76,
+        "final_payment": 502.76,
+        "total_amount_payable": 26282.98,
+        "total_charge_for_credit": 4787.98,
+        "amount_of_credit": 19345.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 47,
+        "regular_payment": 341.1,
+        "final_payment": 10341.95,
+        "total_amount_payable": 28182.05,
+        "total_charge_for_credit": 6687.05,
+        "amount_of_credit": 19345.5,
+        "lender": "Car Finance Genie",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 5.64,
+        "residual": 10341.95,
+        "price_to_buy": 10341.95
+      }
+    ]
+  }
+]

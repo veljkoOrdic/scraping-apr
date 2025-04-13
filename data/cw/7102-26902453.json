@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:14:46.626Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecaragent.co.uk/used-audi-a4-avant-plymouth-devon-6654508",
+    "dealer_id": "7102",
+    "car_id": "26902453",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "DIESEL AVANT",
+        "derivative": "2.0 TDI S Line S Tronic",
+        "registration_number": "MF16VCN",
+        "registration_date": "18/03/2016",
+        "mileage": 63000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399,
+        "balance": 12596,
+        "apr": 13.2,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 283.19,
+        "final_payment": 283.19,
+        "total_amount_payable": 18390.4,
+        "total_charge_for_credit": 4395.4,
+        "amount_of_credit": 12596,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_motion_hp",
+        "name": "MOTION_HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399,
+        "balance": 12596,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 275.72,
+        "final_payment": 276.72,
+        "total_amount_payable": 17943.2,
+        "total_charge_for_credit": 3948.2,
+        "amount_of_credit": 12596,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:41:41.081Z",
+    "source": "codeweavers_calculator",
+    "url": "https://bspmotorvehicles.co.uk/used-cars/?car_data=WAUZZZ8VXLA014758",
+    "dealer_id": "7310",
+    "car_id": "26811890",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "S3 Black Edition",
+        "derivative": "S3 Saloon Black Edition TFSI 300 PS S tronic",
+        "registration_number": "BD20AOC",
+        "registration_date": "30/06/2020",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29495,
+        "total_price": 29495,
+        "deposit": 1000,
+        "balance": 28495,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 598.13,
+        "final_payment": 598.13,
+        "total_amount_payable": 36887.8,
+        "total_charge_for_credit": 7392.8,
+        "amount_of_credit": 28495,
+        "lender": "Evolution Funding",
+        "annual_mileage": 13500,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29495,
+        "total_price": 29495,
+        "deposit": 1000,
+        "balance": 28495,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 488.5,
+        "final_payment": 8861.97,
+        "total_amount_payable": 38683.47,
+        "total_charge_for_credit": 9188.47,
+        "amount_of_credit": 28495,
+        "lender": "Evolution Funding",
+        "annual_mileage": 13500,
+        "contract_mileage": 67500,
+        "excess_mileage_rate": 6.26,
+        "residual": 8861.97,
+        "price_to_buy": 8861.97
+      }
+    ]
+  }
+]

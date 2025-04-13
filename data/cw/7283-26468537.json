@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:18.150Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richardsanders.co.uk/used-car-details/used-peugeot-3008-15-bluehdi-allure-premium-suv-suv-blue-automatic-diesel/id-12882/",
+    "dealer_id": "7283",
+    "car_id": "26468537",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "3008",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 BlueHDi Allure Premium EAT8",
+        "registration_number": "BJ71VYL",
+        "registration_date": "17/11/2021",
+        "mileage": 43559,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1600,
+        "balance": 14395,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 242.45,
+        "final_payment": 6066.37,
+        "total_amount_payable": 21970.92,
+        "total_charge_for_credit": 5975.92,
+        "amount_of_credit": 14395,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 3.97,
+        "residual": 6066.37,
+        "price_to_buy": 6066.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1600,
+        "balance": 14395,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 315.11,
+        "final_payment": 315.11,
+        "total_amount_payable": 20506.6,
+        "total_charge_for_credit": 4511.6,
+        "amount_of_credit": 14395,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

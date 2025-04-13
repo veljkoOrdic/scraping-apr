@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:08:35.405Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ellisashtonmotorcompany.co.uk/cars/astonmartin/vantage/4.0-v8-f1-edition/1400515/",
+    "dealer_id": "6474",
+    "car_id": "27303554",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "VANTAGE",
+        "variant": "V8  COUPE SPECIAL EDITIONS",
+        "derivative": "F1 Edition ZF 8 Speed",
+        "registration_number": "FP22GPV",
+        "registration_date": "22/03/2022",
+        "mileage": 11335,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 112995,
+        "total_price": 112995,
+        "deposit": 11299.5,
+        "balance": 101695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1667.55,
+        "final_payment": 41788.13,
+        "total_amount_payable": 151473.08,
+        "total_charge_for_credit": 38478.08,
+        "amount_of_credit": 101695.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 23.08,
+        "residual": 41787.13,
+        "price_to_buy": 41788.13
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 112995,
+        "total_price": 112995,
+        "deposit": 11299.5,
+        "balance": 101695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2180.31,
+        "final_payment": 2181.31,
+        "total_amount_payable": 142119.1,
+        "total_charge_for_credit": 29124.1,
+        "amount_of_credit": 101695.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:43:59.294Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.junction6motors.co.uk/used/cars/mercedes-benz/gla-class/1-6-gla200-amg-line-euro-6-s-s-5dr-30",
+    "dealer_id": "7982",
+    "car_id": "25194062",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLA",
+        "variant": "HATCHBACK",
+        "derivative": "GLA 200 AMG Line",
+        "registration_number": "DT17MWF",
+        "registration_date": "31/07/2017",
+        "mileage": 53057,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 27,
+        "regular_payment": 316.69,
+        "final_payment": 6403.79,
+        "total_amount_payable": 16037.23,
+        "total_charge_for_credit": 2042.23,
+        "amount_of_credit": 12595.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 22500,
+        "excess_mileage_rate": 3.5,
+        "residual": 6403.79,
+        "price_to_buy": 6403.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 258.73,
+        "final_payment": 258.73,
+        "total_amount_payable": 16923.3,
+        "total_charge_for_credit": 2928.3,
+        "amount_of_credit": 12595.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

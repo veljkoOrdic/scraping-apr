@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:36:56.220Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.threewaysgarage.co.uk/used/hyundai/ioniq-5/5-hat-160kw-premium-73-kwh-au/abergele/conwy/20985913",
+    "dealer_id": "8072",
+    "car_id": "21389125",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 5",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "160kW Premium 73 kWh",
+        "registration_number": "CX71WFT",
+        "registration_date": "30/10/2021",
+        "mileage": 41730,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 48,
+        "regular_payment": 528.78,
+        "final_payment": 528.78,
+        "total_amount_payable": 27680.94,
+        "total_charge_for_credit": 4685.94,
+        "amount_of_credit": 20695.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 406.31,
+        "final_payment": 7657,
+        "total_amount_payable": 29053.07,
+        "total_charge_for_credit": 6058.07,
+        "amount_of_credit": 20695.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.6,
+        "residual": 7647,
+        "price_to_buy": 7657
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T21:06:02.090Z",
+    "source": "codeweavers_calculator",
+    "url": "https://alprestigecars.co.uk/vehicle/2019-69-reg-ford-ranger-3-2-tdci-wildtrak-auto-4wd-euro-6-s-s-4dr-57006/",
+    "dealer_id": "7747",
+    "car_id": "26174624",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 3.2 EcoBlue 200",
+        "registration_number": "YR69HMD",
+        "registration_date": "18/10/2019",
+        "mileage": 81727,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20400,
+        "total_price": 20400,
+        "deposit": 1000,
+        "balance": 19400,
+        "apr": 14.9,
+        "rate_of_interest": 7.76,
+        "term": 48,
+        "regular_payment": 529.62,
+        "final_payment": 539.62,
+        "total_amount_payable": 26431.76,
+        "total_charge_for_credit": 6031.76,
+        "amount_of_credit": 19400,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

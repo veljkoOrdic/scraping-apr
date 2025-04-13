@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:27:59.585Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.arunltd.com/vehicle/jaguar-xf-20d-portfolio-sportbrake-5dr-diesel-auto-awd-euro-6-ss-240-ps-in-west-sussex-2968c495-bbbf-4e65-bff4-c58c5b107998",
+    "dealer_id": "8342",
+    "car_id": "24684423",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "XF",
+        "variant": "DIESEL SPORTBRAKE",
+        "derivative": "2.0d [240] Portfolio",
+        "registration_number": "SL67FJD",
+        "registration_date": "20/10/2017",
+        "mileage": 59800,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 327.92,
+        "final_payment": 328.92,
+        "total_amount_payable": 21375.7,
+        "total_charge_for_credit": 4380.7,
+        "amount_of_credit": 15295.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 30,
+        "regular_payment": 469.83,
+        "final_payment": 4530.69,
+        "total_amount_payable": 19855.26,
+        "total_charge_for_credit": 2860.26,
+        "amount_of_credit": 15295.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 4.48,
+        "residual": 4529.69,
+        "price_to_buy": 4530.69
+      }
+    ]
+  }
+]

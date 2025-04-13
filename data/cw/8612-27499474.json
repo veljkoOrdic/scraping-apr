@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:20:29.988Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stocktoncarcentre.co.uk/used-land-rover-defender-middlesbrough-north-yorkshire-6433311",
+    "dealer_id": "8612",
+    "car_id": "27499474",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE",
+        "derivative": "5.0 P525 V8 110",
+        "registration_number": "HF71UCA",
+        "registration_date": "30/11/2021",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72990,
+        "total_price": 72990,
+        "deposit": 7299,
+        "balance": 65691,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1117,
+        "final_payment": 26845.05,
+        "total_amount_payable": 100047.05,
+        "total_charge_for_credit": 27057.05,
+        "amount_of_credit": 65691,
+        "lender": "Quorum Fleet Solutions Ltd t/a Q Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 17.33,
+        "residual": 26845.05,
+        "price_to_buy": 26845.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72990,
+        "total_price": 72990,
+        "deposit": 7299,
+        "balance": 65691,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1438.09,
+        "final_payment": 1438.09,
+        "total_amount_payable": 93584.4,
+        "total_charge_for_credit": 20594.4,
+        "amount_of_credit": 65691,
+        "lender": "Quorum Fleet Solutions Ltd t/a Q Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

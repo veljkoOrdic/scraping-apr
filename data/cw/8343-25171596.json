@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:37:21.602Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gkmotorsltd.co.uk/used-land-rover-defender-mansfield-woodhouse-nottinghamshire-6220714",
+    "dealer_id": "8343",
+    "car_id": "25171596",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 X-Dynamic HSE 110",
+        "registration_number": "KS24SZG",
+        "registration_date": "10/05/2024",
+        "mileage": 2802,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89888,
+        "total_price": 89888,
+        "deposit": 8988,
+        "balance": 80900,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1452.96,
+        "final_payment": 26938.79,
+        "total_amount_payable": 121651.43,
+        "total_charge_for_credit": 31763.43,
+        "amount_of_credit": 80900,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 15.96,
+        "residual": 26938.79,
+        "price_to_buy": 26938.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 89888,
+        "total_price": 89888,
+        "deposit": 8988,
+        "balance": 80900,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1770.94,
+        "final_payment": 1770.94,
+        "total_amount_payable": 115244.4,
+        "total_charge_for_credit": 25356.4,
+        "amount_of_credit": 80900,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

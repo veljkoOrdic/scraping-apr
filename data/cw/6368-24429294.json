@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:11:50.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acergladecars.com/vehicle-details/used-ford-transit-350-ecoblue-leader-for-sale-acer-glade-cars-u1968/",
+    "dealer_id": "6368",
+    "car_id": "24429294",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL RWD",
+        "derivative": "2.0 EcoBlue 130ps H2 Leader Double Cab Van",
+        "registration_number": "ML21ETU",
+        "registration_date": "29/03/2021",
+        "mileage": 22490,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28788,
+        "total_price": 28788,
+        "deposit": 10795.5,
+        "balance": 17992.5,
+        "apr": 11.4,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 389.78,
+        "final_payment": 389.78,
+        "total_amount_payable": 34182.3,
+        "total_charge_for_credit": 5394.3,
+        "amount_of_credit": 17992.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28788,
+        "total_price": 28788,
+        "deposit": 10795.5,
+        "balance": 17992.5,
+        "apr": 11.5,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 389.41,
+        "final_payment": 4904.41,
+        "total_amount_payable": 34002.18,
+        "total_charge_for_credit": 5214.18,
+        "amount_of_credit": 17992.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4505,
+        "price_to_buy": 4904.41
+      }
+    ]
+  }
+]

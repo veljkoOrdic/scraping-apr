@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:12:33.420Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.maperformancecars.co.uk/details/used-van-in-sutton-coldfield/ford/ranger/2.0-ecoblue-raptor-auto-4wd-euro-6-ss-4dr/1276933/",
+    "dealer_id": "8716",
+    "car_id": "25805882",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Raptor 2.0 EcoBlue 213",
+        "registration_number": "YC70JYR",
+        "registration_date": "24/09/2020",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36600,
+        "total_price": 36600,
+        "deposit": 6100,
+        "balance": 30500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 563.98,
+        "final_payment": 11826,
+        "total_amount_payable": 44997.04,
+        "total_charge_for_credit": 8397.04,
+        "amount_of_credit": 30500,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 41000,
+        "excess_mileage_rate": 6,
+        "residual": 11826,
+        "price_to_buy": 11826
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36600,
+        "total_price": 36600,
+        "deposit": 6100,
+        "balance": 30500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 640.25,
+        "final_payment": 640.25,
+        "total_amount_payable": 44515,
+        "total_charge_for_credit": 7915,
+        "amount_of_credit": 30500,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

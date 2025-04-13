@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:23:34.388Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chastonsmotorcompany.co.uk/cars/volkswagen/golf/2.0-tdi-gtd-blueline/1360991/",
+    "dealer_id": "8540",
+    "car_id": "26836706",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 TDI 184 GTD BlueLine DSG",
+        "registration_number": "MM18OWF",
+        "registration_date": "12/07/2018",
+        "mileage": 72434,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14999,
+        "total_price": 14999,
+        "deposit": 1499.9,
+        "balance": 13499.1,
+        "apr": 14.8,
+        "rate_of_interest": 14.8,
+        "term": 39,
+        "regular_payment": 337.1,
+        "final_payment": 4981.96,
+        "total_amount_payable": 19291.66,
+        "total_charge_for_credit": 4292.66,
+        "amount_of_credit": 13499.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 5.98,
+        "residual": 4981.96,
+        "price_to_buy": 4981.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14999,
+        "total_price": 14999,
+        "deposit": 1499.9,
+        "balance": 13499.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 301.59,
+        "final_payment": 301.59,
+        "total_amount_payable": 19595.3,
+        "total_charge_for_credit": 4596.3,
+        "amount_of_credit": 13499.1,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

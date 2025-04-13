@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:54:26.105Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarlocator.co.uk/vehicle/jeep-renegade-16-multijetii-longitude-suv-5dr-diesel-manual-euro-6-ss-120-ps-in-pontypool-d9c472bd-967f-4a7b-9e43-3da2ebe89375",
+    "dealer_id": "7695",
+    "car_id": "27616569",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "RENEGADE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.6 Multijet Longitude",
+        "registration_number": "RE20UKV",
+        "registration_date": "31/07/2020",
+        "mileage": 27013,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12795,
+        "total_price": 12795,
+        "deposit": 1279.5,
+        "balance": 11515.5,
+        "apr": 12.9,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 257.09,
+        "final_payment": 257.09,
+        "total_amount_payable": 16704.9,
+        "total_charge_for_credit": 3909.9,
+        "amount_of_credit": 11515.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12795,
+        "total_price": 12795,
+        "deposit": 1279.5,
+        "balance": 11515.5,
+        "apr": 12.9,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 231.45,
+        "final_payment": 4725.2,
+        "total_amount_payable": 16882.85,
+        "total_charge_for_credit": 4087.85,
+        "amount_of_credit": 11515.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4483.75,
+        "price_to_buy": 4725.2
+      }
+    ]
+  }
+]

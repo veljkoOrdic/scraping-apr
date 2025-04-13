@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:41:01.353Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westriding.co.uk/used-car-details/used-hyundai-kona-16-h-gdi-n-line-s-dct-euro-6--petrol-hybrid/id-202407282238212/",
+    "dealer_id": "6057",
+    "car_id": "25109270",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "KONA",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 GDi Hybrid N Line S DCT",
+        "registration_number": "MD24UKV",
+        "registration_date": "30/06/2024",
+        "mileage": 3154,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27792,
+        "total_price": 27792,
+        "deposit": 2779,
+        "balance": 25013,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 407.38,
+        "final_payment": 13231,
+        "total_amount_payable": 35156.86,
+        "total_charge_for_credit": 7364.86,
+        "amount_of_credit": 25013,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 13230,
+        "price_to_buy": 13231
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27792,
+        "total_price": 27792,
+        "deposit": 2779,
+        "balance": 25013,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 628.12,
+        "final_payment": 629.12,
+        "total_amount_payable": 32929.76,
+        "total_charge_for_credit": 5137.76,
+        "amount_of_credit": 25013,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:48:24.516Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.breeze.co.uk/used/ds/ds-3/puretech-bastille/poole/dorset/21528431",
+    "dealer_id": "6543",
+    "car_id": "26880486",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "DS",
+        "model": "DS 3",
+        "variant": "CROSSBACK HATCHBACK",
+        "derivative": "1.2 PureTech Bastille",
+        "registration_number": "WJ72XZZ",
+        "registration_date": "30/09/2022",
+        "mileage": 8890,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 49,
+        "regular_payment": 233.31,
+        "final_payment": 6432,
+        "total_amount_payable": 19079.88,
+        "total_charge_for_credit": 4589.88,
+        "amount_of_credit": 13041,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 6422,
+        "price_to_buy": 6432
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 11.9,
+        "rate_of_interest": 11.26,
+        "term": 60,
+        "regular_payment": 285.47,
+        "final_payment": 285.47,
+        "total_amount_payable": 18577.2,
+        "total_charge_for_credit": 4087.2,
+        "amount_of_credit": 13041,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

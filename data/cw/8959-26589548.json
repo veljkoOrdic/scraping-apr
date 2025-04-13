@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:07:25.756Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2023-bmw-x7-xdrive40d-m-sport-2/",
+    "dealer_id": "8959",
+    "car_id": "26589548",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X7",
+        "variant": "",
+        "derivative": "X7 xDrive40d M Sport",
+        "registration_number": "WF73OBG",
+        "registration_date": "01/01/2023",
+        "mileage": 8142,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 70900,
+        "total_price": 70900,
+        "deposit": 7690,
+        "balance": 63210,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1698.45,
+        "final_payment": 1699.45,
+        "total_amount_payable": 89216.6,
+        "total_charge_for_credit": 18316.6,
+        "amount_of_credit": 63210,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 70900,
+        "total_price": 70900,
+        "deposit": 7690,
+        "balance": 63210,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1181.92,
+        "final_payment": 33535.96,
+        "total_amount_payable": 96776.2,
+        "total_charge_for_credit": 25876.2,
+        "amount_of_credit": 63210,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 16.68,
+        "residual": 33535.96,
+        "price_to_buy": 33535.96
+      }
+    ]
+  }
+]

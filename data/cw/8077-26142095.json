@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T23:40:38.070Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.smcvehicles.co.uk/used-ford-transit-manchester-greater-manchester-6461206",
+    "dealer_id": "8077",
+    "car_id": "26142095",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL RWD",
+        "derivative": "2.0 EcoBlue 130ps H2 Leader Double Cab Van",
+        "registration_number": "MM70CWT",
+        "registration_date": "03/02/2021",
+        "mileage": 43000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25794,
+        "total_price": 25794,
+        "deposit": 4299,
+        "balance": 21495,
+        "apr": 12.2,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 473.31,
+        "final_payment": 473.31,
+        "total_amount_payable": 32697.6,
+        "total_charge_for_credit": 6903.6,
+        "amount_of_credit": 21495,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25794,
+        "total_price": 25794,
+        "deposit": 4299,
+        "balance": 21495,
+        "apr": 12.2,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 473.09,
+        "final_payment": 483.09,
+        "total_amount_payable": 32694.4,
+        "total_charge_for_credit": 6900.4,
+        "amount_of_credit": 21495,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

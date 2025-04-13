@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:16:58.470Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carsynergy.co.uk/used-nissan-micra-leeds-west-yorkshire-6808459",
+    "dealer_id": "8729",
+    "car_id": "27575331",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "MICRA",
+        "variant": "HATCHBACK SPECIAL EDITIONS",
+        "derivative": "0.9 IG-T Acenta Limited Edition",
+        "registration_number": "BD69AVZ",
+        "registration_date": "30/09/2019",
+        "mileage": 60805,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799,
+        "balance": 7196,
+        "apr": 9.9,
+        "rate_of_interest": 6.53,
+        "term": 48,
+        "regular_payment": 140.92,
+        "final_payment": 2452.5,
+        "total_amount_payable": 9874.74,
+        "total_charge_for_credit": 1879.74,
+        "amount_of_credit": 7196,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 2452.5,
+        "price_to_buy": 2452.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799,
+        "balance": 7196,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 151.05,
+        "final_payment": 151.05,
+        "total_amount_payable": 9862,
+        "total_charge_for_credit": 1867,
+        "amount_of_credit": 7196,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

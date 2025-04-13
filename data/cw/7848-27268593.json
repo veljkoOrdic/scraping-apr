@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:45:38.871Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ravenswoodperformance.com/used/cars/bmw/2-series/3-0-m2-competition-edition-2dr-321",
+    "dealer_id": "7848",
+    "car_id": "27268593",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "",
+        "derivative": "M2 Competition",
+        "registration_number": "LG68UAZ",
+        "registration_date": "01/10/2018",
+        "mileage": 13500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 41,
+        "regular_payment": 711.32,
+        "final_payment": 14883.45,
+        "total_amount_payable": 47235.75,
+        "total_charge_for_credit": 8240.75,
+        "amount_of_credit": 35095.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 34166,
+        "excess_mileage_rate": 6.98,
+        "residual": 14882.45,
+        "price_to_buy": 14883.45
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 736.67,
+        "final_payment": 737.67,
+        "total_amount_payable": 48100.7,
+        "total_charge_for_credit": 9105.7,
+        "amount_of_credit": 35095.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

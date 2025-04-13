@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T21:09:32.617Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kentvehicles.co.uk/details/car-in-herne-common/landrover/rangerover/4.4-sd-v8-autobiography-auto-4wd-euro-6-ss-5dr/1407522/",
+    "dealer_id": "6570",
+    "car_id": "27393811",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "4.4 SDV8biography",
+        "registration_number": "HG19JYJ",
+        "registration_date": "08/03/2019",
+        "mileage": 100000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33870,
+        "total_price": 33870,
+        "deposit": 3387,
+        "balance": 30483,
+        "apr": 12.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 680.67,
+        "final_payment": 690.67,
+        "total_amount_payable": 44237.2,
+        "total_charge_for_credit": 10367.2,
+        "amount_of_credit": 30483,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 33870,
+        "total_price": 33870,
+        "deposit": 3387,
+        "balance": 30483,
+        "apr": 12.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 680.9,
+        "final_payment": 680.9,
+        "total_amount_payable": 44241,
+        "total_charge_for_credit": 10371,
+        "amount_of_credit": 30483,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

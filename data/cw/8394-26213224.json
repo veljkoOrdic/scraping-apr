@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:00:57.463Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-porsche-macan-liskeard-cornwall-6455613",
+    "dealer_id": "8394",
+    "car_id": "26213224",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "5dr PDK",
+        "registration_number": "PJ74UKW",
+        "registration_date": "07/11/2024",
+        "mileage": 300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64999,
+        "total_price": 64999,
+        "deposit": 6499,
+        "balance": 58500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 961.96,
+        "final_payment": 21278.11,
+        "total_amount_payable": 84532.75,
+        "total_charge_for_credit": 19533.75,
+        "amount_of_credit": 58500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.97,
+        "residual": 21278.11,
+        "price_to_buy": 21278.11
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64999,
+        "total_price": 64999,
+        "deposit": 6499,
+        "balance": 58500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1228.01,
+        "final_payment": 1238.01,
+        "total_amount_payable": 80189.6,
+        "total_charge_for_credit": 15190.6,
+        "amount_of_credit": 58500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

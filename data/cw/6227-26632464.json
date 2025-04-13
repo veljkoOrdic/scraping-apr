@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:04:00.266Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/mercedes-benz/mercedes-benz-b-class-1-5-b180d-sport-executive-7g-dct-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "26632464",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "B-Class",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "B180d Sport Executive",
+        "registration_number": "YS19ZCU",
+        "registration_date": "29/03/2019",
+        "mileage": 45378,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14975,
+        "total_price": 14975,
+        "deposit": 1497.5,
+        "balance": 13477.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 47,
+        "regular_payment": 253.3,
+        "final_payment": 5848.7,
+        "total_amount_payable": 18998,
+        "total_charge_for_credit": 4023,
+        "amount_of_credit": 13477.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 23500,
+        "excess_mileage_rate": 3.62,
+        "residual": 5848.7,
+        "price_to_buy": 5848.7
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14975,
+        "total_price": 14975,
+        "deposit": 1497.5,
+        "balance": 13477.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.26,
+        "term": 60,
+        "regular_payment": 295.03,
+        "final_payment": 295.03,
+        "total_amount_payable": 19199.3,
+        "total_charge_for_credit": 4224.3,
+        "amount_of_credit": 13477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:39:42.525Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-car-in-welwyn-garden-city/porsche/911/3.0t-992-carrera-gts-euro-6-ss-2dr/1385249/",
+    "dealer_id": "8835",
+    "car_id": "27120068",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA CABRIOLET",
+        "derivative": "GTS PDK",
+        "registration_number": "YOS5Y",
+        "registration_date": "10/06/2022",
+        "mileage": 16000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 109900,
+        "total_price": 109900,
+        "deposit": 10990,
+        "balance": 98910,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1626.5,
+        "final_payment": 40286.43,
+        "total_amount_payable": 147239.93,
+        "total_charge_for_credit": 37339.93,
+        "amount_of_credit": 98910,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 30.23,
+        "residual": 40286.43,
+        "price_to_buy": 40286.43
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 109900,
+        "total_price": 109900,
+        "deposit": 10990,
+        "balance": 98910,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2120.61,
+        "final_payment": 2120.61,
+        "total_amount_payable": 138226.6,
+        "total_charge_for_credit": 28326.6,
+        "amount_of_credit": 98910,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:14:52.420Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/audi-r8-52-fsi-v10-performance-carbon-black-s-tronic-quattro-euro-6-ss-2dr-in-west-midlands-5c47a4f5-bc73-4c9e-b4e7-b1f9012f3ea7",
+    "dealer_id": "6796",
+    "car_id": "25775484",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "R8",
+        "variant": "COUPE",
+        "derivative": "5.2 FSI V10 Quattro Perform Carbon Bk S Tronic",
+        "registration_number": "DP69OGJ",
+        "registration_date": "31/01/2020",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 103949,
+        "total_price": 103949,
+        "deposit": 10394.9,
+        "balance": 93554.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1542.42,
+        "final_payment": 48417.59,
+        "total_amount_payable": 131306.23,
+        "total_charge_for_credit": 27357.23,
+        "amount_of_credit": 93554.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 33,
+        "residual": 48416.59,
+        "price_to_buy": 48417.59
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 103949,
+        "total_price": 103949,
+        "deposit": 10394.9,
+        "balance": 93554.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 2308.42,
+        "final_payment": 2309.42,
+        "total_amount_payable": 121200.06,
+        "total_charge_for_credit": 17251.06,
+        "amount_of_credit": 93554.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

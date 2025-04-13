@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:00:37.220Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.normandygarage.co.uk/used-cars/ssangyong/tivoli/12-ventura/re22tgn",
+    "dealer_id": "7480",
+    "car_id": "27473343",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ssangyong",
+        "model": "TIVOLI",
+        "variant": "HATCHBACK",
+        "derivative": "1.2P Ventura",
+        "registration_number": "RE22TGN",
+        "registration_date": "21/05/2022",
+        "mileage": 33410,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11795,
+        "total_price": 11795,
+        "deposit": 2359,
+        "balance": 9436,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 165.08,
+        "final_payment": 4668,
+        "total_amount_payable": 14785.76,
+        "total_charge_for_credit": 2990.76,
+        "amount_of_credit": 9436,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7,
+        "residual": 4668,
+        "price_to_buy": 4668
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11795,
+        "total_price": 11795,
+        "deposit": 2359,
+        "balance": 9436,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 241.09,
+        "final_payment": 241.09,
+        "total_amount_payable": 13931.32,
+        "total_charge_for_credit": 2136.32,
+        "amount_of_credit": 9436,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

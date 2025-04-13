@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:13:33.582Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/lamborghini/lamborghini-urus-4-0-v8-biturbo-auto-4wd-euro-6-5dr-3/",
+    "dealer_id": "6227",
+    "car_id": "27048353",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "LJ71AKU",
+        "registration_date": "01/10/2021",
+        "mileage": 19050,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 177475,
+        "total_price": 177475,
+        "deposit": 17747.5,
+        "balance": 159727.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2544.57,
+        "final_payment": 93509.6,
+        "total_amount_payable": 230851.89,
+        "total_charge_for_credit": 53376.89,
+        "amount_of_credit": 159727.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 43.51,
+        "residual": 93509.6,
+        "price_to_buy": 93509.6
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 177475,
+        "total_price": 177475,
+        "deposit": 17747.5,
+        "balance": 159727.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 3352.8,
+        "final_payment": 3352.8,
+        "total_amount_payable": 218915.5,
+        "total_charge_for_credit": 41440.5,
+        "amount_of_credit": 159727.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

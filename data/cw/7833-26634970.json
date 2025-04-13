@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:36:07.420Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/jaguar/f-type/20-p300-r-dynamic-2dr-auto/york/north-yorkshire/21508215",
+    "dealer_id": "7833",
+    "car_id": "26634970",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "COUPE",
+        "derivative": "2.0 P300 R-Dynamic",
+        "registration_number": "YG73VJO",
+        "registration_date": "31/10/2023",
+        "mileage": 5736,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43990,
+        "total_price": 43990,
+        "deposit": 4399,
+        "balance": 39591,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1028.79,
+        "final_payment": 1038.79,
+        "total_amount_payable": 53790.92,
+        "total_charge_for_credit": 9800.92,
+        "amount_of_credit": 39591,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43990,
+        "total_price": 43990,
+        "deposit": 4399,
+        "balance": 39591,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 698.27,
+        "final_payment": 20126.25,
+        "total_amount_payable": 58042.21,
+        "total_charge_for_credit": 14052.21,
+        "amount_of_credit": 39591,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.7,
+        "residual": 20116.25,
+        "price_to_buy": 20126.25
+      }
+    ]
+  }
+]

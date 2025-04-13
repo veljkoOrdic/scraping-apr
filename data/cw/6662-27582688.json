@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T22:08:08.262Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reciprocalmotors.co.uk/vehicle/porsche-macan-30t-v6-gts-pdk-4wd-euro-6-ss-5dr-in-ferndown-dorset-6c5f0abf-27a2-4ba0-ae99-b2ad00793175",
+    "dealer_id": "6662",
+    "car_id": "27582688",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "GTS PDK",
+        "registration_number": "M70KLO",
+        "registration_date": "05/07/2017",
+        "mileage": 56153,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 607.39,
+        "final_payment": 607.39,
+        "total_amount_payable": 39592.9,
+        "total_charge_for_credit": 8097.9,
+        "amount_of_credit": 28345.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 607.18,
+        "final_payment": 617.18,
+        "total_amount_payable": 39590.3,
+        "total_charge_for_credit": 8095.3,
+        "amount_of_credit": 28345.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:34:42.792Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dr-cc.co.uk/details/used-car-in-sheffield/seat/ibiza/1.0-mpi-se-technology-euro-6-ss-5dr-gpf/1398015/",
+    "dealer_id": "6125",
+    "car_id": "27267785",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "IBIZA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 SE Technology [EZ]",
+        "registration_number": "DF68RNV",
+        "registration_date": "09/02/2019",
+        "mileage": 60363,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9600,
+        "total_price": 9600,
+        "deposit": 960,
+        "balance": 8640,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 185.26,
+        "final_payment": 185.26,
+        "total_amount_payable": 12075.6,
+        "total_charge_for_credit": 2475.6,
+        "amount_of_credit": 8640,
+        "lender": "Eurodrive"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9600,
+        "total_price": 9600,
+        "deposit": 960,
+        "balance": 8640,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 45,
+        "regular_payment": 168.81,
+        "final_payment": 3663.21,
+        "total_amount_payable": 12050.85,
+        "total_charge_for_credit": 2450.85,
+        "amount_of_credit": 8640,
+        "lender": "Eurodrive",
+        "annual_mileage": 8000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 2.59,
+        "residual": 3663.21,
+        "price_to_buy": 3663.21
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:47:45.817Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakdenecollection.co.uk/details/car-in-alfreton/bmw/x5/3.0-30d-m-sport-auto-xdrive-euro-6-ss-5dr/1328196/",
+    "dealer_id": "6874",
+    "car_id": "26420606",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "YH69SMU",
+        "registration_date": "25/09/2019",
+        "mileage": 45000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36940,
+        "total_price": 36940,
+        "deposit": 3694,
+        "balance": 33246,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 53,
+        "regular_payment": 564.4,
+        "final_payment": 15312.16,
+        "total_amount_payable": 48354.96,
+        "total_charge_for_credit": 11414.96,
+        "amount_of_credit": 33246,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 44166,
+        "excess_mileage_rate": 9.49,
+        "residual": 15312.16,
+        "price_to_buy": 15312.16
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36940,
+        "total_price": 36940,
+        "deposit": 3694,
+        "balance": 33246,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 712.66,
+        "final_payment": 722.66,
+        "total_amount_payable": 46463.6,
+        "total_charge_for_credit": 9523.6,
+        "amount_of_credit": 33246,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

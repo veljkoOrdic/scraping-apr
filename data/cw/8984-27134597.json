@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:14:20.972Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/mazda-cx-60-vf23jgy/",
+    "dealer_id": "8984",
+    "car_id": "27134597",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-60",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.3d 200 Exclusive-Line",
+        "registration_number": "VF23 JGY",
+        "registration_date": "31/03/2023",
+        "mileage": 7982,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099.5,
+        "balance": 27895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 504.12,
+        "final_payment": 16635.26,
+        "total_amount_payable": 37378.96,
+        "total_charge_for_credit": 6383.96,
+        "amount_of_credit": 27895.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 9.55,
+        "residual": 16635.26,
+        "price_to_buy": 16635.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099.5,
+        "balance": 27895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 893.28,
+        "final_payment": 893.28,
+        "total_amount_payable": 35257.58,
+        "total_charge_for_credit": 4262.58,
+        "amount_of_credit": 27895.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

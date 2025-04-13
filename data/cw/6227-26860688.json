@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:06:10.598Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/audi/audi-rs4-avant-2-9-tfsi-v6-carbon-black-tiptronic-quattro-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "26860688",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "RS 4 AVANT",
+        "derivative": "RS 4 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "AK20DGO",
+        "registration_date": "28/07/2020",
+        "mileage": 75803,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41975,
+        "total_price": 41975,
+        "deposit": 4197.5,
+        "balance": 37777.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 705.16,
+        "final_payment": 16102,
+        "total_amount_payable": 53442.02,
+        "total_charge_for_credit": 11467.02,
+        "amount_of_credit": 37777.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.6,
+        "residual": 16092,
+        "price_to_buy": 16102
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41975,
+        "total_price": 41975,
+        "deposit": 4197.5,
+        "balance": 37777.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 809.94,
+        "final_payment": 809.94,
+        "total_amount_payable": 52793.9,
+        "total_charge_for_credit": 10818.9,
+        "amount_of_credit": 37777.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

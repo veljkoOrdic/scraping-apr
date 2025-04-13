@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:15:21.911Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.automotive-cars.co.uk/used/cars/bmw/4-series/2-0-420i-m-sport-auto-euro-6-s-s-2dr-74",
+    "dealer_id": "8787",
+    "car_id": "26741239",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "COUPE",
+        "derivative": "420i M Sport Step",
+        "registration_number": "LA21DVJ",
+        "registration_date": "13/05/2021",
+        "mileage": 28125,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25490,
+        "total_price": 25490,
+        "deposit": 2549,
+        "balance": 22941,
+        "apr": 9.9,
+        "rate_of_interest": 7.08,
+        "term": 48,
+        "regular_payment": 398.99,
+        "final_payment": 10687.5,
+        "total_amount_payable": 31989.03,
+        "total_charge_for_credit": 6499.03,
+        "amount_of_credit": 22941,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14,
+        "residual": 10687.5,
+        "price_to_buy": 10687.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25490,
+        "total_price": 25490,
+        "deposit": 2549,
+        "balance": 22941,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 576.1,
+        "final_payment": 576.1,
+        "total_amount_payable": 30201.8,
+        "total_charge_for_credit": 4711.8,
+        "amount_of_credit": 22941,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

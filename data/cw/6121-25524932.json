@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:33:47.817Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fcrosscars.co.uk/used-cars/doncaster-south-yorkshire-skoda-kodiaq-sportline-tsi-dsg-547/",
+    "dealer_id": "6121",
+    "car_id": "25524932",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KODIAQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI Sport Line DSG [7 Seat]",
+        "registration_number": "YL21LGN",
+        "registration_date": "09/07/2021",
+        "mileage": 26002,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 443.44,
+        "final_payment": 11609.69,
+        "total_amount_payable": 35050.87,
+        "total_charge_for_credit": 9055.87,
+        "amount_of_credit": 23395.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 11156.25,
+        "price_to_buy": 11609.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 623.3,
+        "final_payment": 633.3,
+        "total_amount_payable": 32527.9,
+        "total_charge_for_credit": 6532.9,
+        "amount_of_credit": 23395.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:54:50.277Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/jeep/renegade/13-gse-t4-night-eagle-ddct-euro-6-ss-5dr/colchester/essex/21556156",
+    "dealer_id": "8771",
+    "car_id": "27325826",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "RENEGADE",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "1.3 T4 GSE Night Eagle II DDCT",
+        "registration_number": "EF70NWV",
+        "registration_date": "31/12/2020",
+        "mileage": 33660,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 264.57,
+        "final_payment": 6372,
+        "total_amount_payable": 20406.29,
+        "total_charge_for_credit": 4411.29,
+        "amount_of_credit": 14395.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6362,
+        "price_to_buy": 6372
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 308.54,
+        "final_payment": 318.54,
+        "total_amount_payable": 20121.9,
+        "total_charge_for_credit": 4126.9,
+        "amount_of_credit": 14395.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

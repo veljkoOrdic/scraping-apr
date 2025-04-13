@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:36:27.089Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-nissan-qashqai-13-dig-t-140ps-n-connecta-hatchback-pearl-black-manual-petrol/id-5219253731636/",
+    "dealer_id": "7551",
+    "car_id": "23224110",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 DiG-T MH N-Connecta",
+        "registration_number": "YC73PCF",
+        "registration_date": "27/09/2023",
+        "mileage": 9500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23490,
+        "total_price": 23490,
+        "deposit": 1250,
+        "balance": 22240,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 414.47,
+        "final_payment": 9959,
+        "total_amount_payable": 31103.56,
+        "total_charge_for_credit": 7613.56,
+        "amount_of_credit": 22240,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 9959,
+        "price_to_buy": 9959
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23490,
+        "total_price": 23490,
+        "deposit": 1000,
+        "balance": 22490,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 492.32,
+        "final_payment": 492.32,
+        "total_amount_payable": 30539.2,
+        "total_charge_for_credit": 7049.2,
+        "amount_of_credit": 22490,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:45:37.382Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tjhamiltonvolkswagen.com/used/volkswagen/taigo/10-tsi-110-style-5dr/cookstown/county-tyrone/21518667",
+    "dealer_id": "7436",
+    "car_id": "24111574",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TAIGO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 Style",
+        "registration_number": "AVZ5062",
+        "registration_date": "30/03/2023",
+        "mileage": 5424,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21450,
+        "total_price": 21450,
+        "deposit": 2895,
+        "balance": 18555,
+        "apr": 13.3,
+        "rate_of_interest": 13.31,
+        "term": 48,
+        "regular_payment": 333.83,
+        "final_payment": 10247.5,
+        "total_amount_payable": 28832.51,
+        "total_charge_for_credit": 7382.51,
+        "amount_of_credit": 18555,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.98,
+        "residual": 10237.5,
+        "price_to_buy": 10247.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21450,
+        "total_price": 21450,
+        "deposit": 2395,
+        "balance": 19055,
+        "apr": 13.3,
+        "rate_of_interest": 13.29,
+        "term": 48,
+        "regular_payment": 506.86,
+        "final_payment": 516.86,
+        "total_amount_payable": 26734.28,
+        "total_charge_for_credit": 5284.28,
+        "amount_of_credit": 19055,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:48:00.731Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakdenecollection.co.uk/details/car-in-alfreton/audi/rs4/2.9-tfsi-v6-carbon-black-tiptronic-quattro-euro-6-ss-5dr/1382142/",
+    "dealer_id": "6874",
+    "car_id": "27090468",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "RS 4 AVANT",
+        "derivative": "RS 4 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "YC71ONS",
+        "registration_date": "21/01/2022",
+        "mileage": 72000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42280,
+        "total_price": 42280,
+        "deposit": 4228,
+        "balance": 38052,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 660.28,
+        "final_payment": 19129,
+        "total_amount_payable": 54390.16,
+        "total_charge_for_credit": 12110.16,
+        "amount_of_credit": 38052,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 29,
+        "residual": 19109,
+        "price_to_buy": 19129
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42280,
+        "total_price": 42280,
+        "deposit": 4228,
+        "balance": 38052,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 815.7,
+        "final_payment": 825.7,
+        "total_amount_payable": 53180,
+        "total_charge_for_credit": 10900,
+        "amount_of_credit": 38052,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

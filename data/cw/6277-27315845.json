@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T18:33:42.973Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.unitonecars.co.uk/vehicle/used-land-rover-range-rover-sport-sd-v6-hse-for-sale-in-warnham-west-sussex-u2608/",
+    "dealer_id": "6277",
+    "car_id": "27315845",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6 HSE",
+        "registration_number": "DE20YEJ",
+        "registration_date": "29/06/2020",
+        "mileage": 26116,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36000,
+        "total_price": 36000,
+        "deposit": 7200,
+        "balance": 28800,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 498.7,
+        "final_payment": 13146.02,
+        "total_amount_payable": 44283.62,
+        "total_charge_for_credit": 8283.62,
+        "amount_of_credit": 28800,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 13146.02,
+        "price_to_buy": 13146.02
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36000,
+        "total_price": 36000,
+        "deposit": 7200,
+        "balance": 28800,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 604.53,
+        "final_payment": 604.53,
+        "total_amount_payable": 43471.8,
+        "total_charge_for_credit": 7471.8,
+        "amount_of_credit": 28800,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

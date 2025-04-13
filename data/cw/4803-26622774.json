@@ -39,5 +39,46 @@
         "residual": 0
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-12T06:52:06.545Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handsautosales.co.uk/details/used-car-in-chertsey/mini/hatch/2.0-john-cooper-works-steptronic-euro-6-ss-3dr/1343722/",
+    "dealer_id": "4803",
+    "car_id": "26622774",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 JCW II [GP Pack] [Nav] [8 Spd]",
+        "registration_number": "M20FMB",
+        "registration_date": "29/11/2019",
+        "mileage": 14500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 424.13,
+        "final_payment": 424.13,
+        "total_amount_payable": 27622.8,
+        "total_charge_for_credit": 5872.8,
+        "amount_of_credit": 19575,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

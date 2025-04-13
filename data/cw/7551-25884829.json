@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:36:34.402Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-alfa-romeo-stelvio-20-tb-280-veloce-suv-alfa-white-automatic-petrol/id-5783/",
+    "dealer_id": "7551",
+    "car_id": "25884829",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "STELVIO",
+        "variant": "ESTATE",
+        "derivative": "2.0 Turbo 280 Veloce [DAP+]",
+        "registration_number": "WN70YRE",
+        "registration_date": "30/09/2020",
+        "mileage": 30250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29295,
+        "total_price": 29295,
+        "deposit": 1000,
+        "balance": 28295,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 541.22,
+        "final_payment": 12262,
+        "total_amount_payable": 38699.34,
+        "total_charge_for_credit": 9404.34,
+        "amount_of_credit": 28295,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 21,
+        "residual": 12252,
+        "price_to_buy": 12262
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29295,
+        "total_price": 29295,
+        "deposit": 1000,
+        "balance": 28295,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 619.19,
+        "final_payment": 629.19,
+        "total_amount_payable": 38161.4,
+        "total_charge_for_credit": 8866.4,
+        "amount_of_credit": 28295,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

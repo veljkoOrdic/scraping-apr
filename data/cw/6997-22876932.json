@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:13:52.939Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.samperformance.co.uk/cars/mercedes-benz/cla/1.3-cla180-amg-line/1059272/",
+    "dealer_id": "6997",
+    "car_id": "22876932",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "CLA Coupe",
+        "variant": "CLA 118 Coupe",
+        "derivative": "CLA 180 AMG Line Premium Plus Auto Cpe MY20.5 2019",
+        "registration_number": "MT20VNF",
+        "registration_date": "14/07/2020",
+        "mileage": 35500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 462.1,
+        "final_payment": 472.1,
+        "total_amount_payable": 30235.5,
+        "total_charge_for_credit": 5240.5,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 345.66,
+        "final_payment": 12276.91,
+        "total_amount_payable": 31022.43,
+        "total_charge_for_credit": 6027.43,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 11921.25,
+        "price_to_buy": 12276.91
+      }
+    ]
+  }
+]

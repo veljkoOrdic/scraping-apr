@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:37:12.651Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-van-in-welwyn-garden-city/volkswagen/crafter/2.0-tdi-cr35-startline-fwd-lwb-high-roof-euro-6-ss-5dr/1169347/",
+    "dealer_id": "8835",
+    "car_id": "24407663",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "CRAFTER",
+        "variant": "CR35 LWB DIESEL FWD",
+        "derivative": "2.0 TDI 102PS Startline High Roof Van",
+        "registration_number": "FN20LUP",
+        "registration_date": "12/08/2020",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26400,
+        "total_price": 26400,
+        "deposit": 4400,
+        "balance": 22000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 493.07,
+        "final_payment": 4123,
+        "total_amount_payable": 32190.36,
+        "total_charge_for_credit": 5790.36,
+        "amount_of_credit": 22000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 19,
+        "residual": 4123,
+        "price_to_buy": 4123
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26400,
+        "total_price": 26400,
+        "deposit": 4400,
+        "balance": 22000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 471.67,
+        "final_payment": 471.67,
+        "total_amount_payable": 32700.2,
+        "total_charge_for_credit": 6300.2,
+        "amount_of_credit": 22000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T18:53:30.318Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.derehammotorcompany.co.uk/details/used-car-in-dereham/honda/s2000/2.0-roadster-2dr/1422933/",
+    "dealer_id": "7464",
+    "car_id": "27559862",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "S2000",
+        "variant": "ROADSTER",
+        "derivative": "2.0i",
+        "registration_number": "KV58PNN",
+        "registration_date": "23/09/2008",
+        "mileage": 64329,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 344.56,
+        "final_payment": 354.56,
+        "total_amount_payable": 22433.1,
+        "total_charge_for_credit": 4938.1,
+        "amount_of_credit": 15745.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 344.56,
+        "final_payment": 354.56,
+        "total_amount_payable": 22433.1,
+        "total_charge_for_credit": 4938.1,
+        "amount_of_credit": 15745.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

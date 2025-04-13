@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:33:54.700Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gkmotorsltd.co.uk/used-mercedes-benz-glc-class-mansfield-woodhouse-nottinghamshire-6270940",
+    "dealer_id": "8343",
+    "car_id": "25356991",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Unknown",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YX68VAK",
+        "registration_date": "03/09/2018",
+        "mileage": 89724,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17111,
+        "total_price": 17111,
+        "deposit": 1711,
+        "balance": 15400,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 28,
+        "regular_payment": 353.12,
+        "final_payment": 9120,
+        "total_amount_payable": 20365.24,
+        "total_charge_for_credit": 3254.24,
+        "amount_of_credit": 15400,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 23333,
+        "excess_mileage_rate": 13,
+        "residual": 9120,
+        "price_to_buy": 9120
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17111,
+        "total_price": 17111,
+        "deposit": 1711,
+        "balance": 15400,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 337.11,
+        "final_payment": 337.11,
+        "total_amount_payable": 21937.6,
+        "total_charge_for_credit": 4826.6,
+        "amount_of_credit": 15400,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

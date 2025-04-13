@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:11:35.072Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rjtkauto.com/kia/used-cars/e-niro/3/64kwh-3-suv-5dr-electric-auto-201-bhp/25047",
+    "dealer_id": "6477",
+    "car_id": "26928152",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "E-NIRO",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "150kW 3 64kWh",
+        "registration_number": "RE71AXW",
+        "registration_date": "18/01/2022",
+        "mileage": 74536,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13663,
+        "total_price": 13663,
+        "deposit": 2732.6,
+        "balance": 10930.4,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 229.31,
+        "final_payment": 239.31,
+        "total_amount_payable": 16501.2,
+        "total_charge_for_credit": 2838.2,
+        "amount_of_credit": 10930.4,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13663,
+        "total_price": 13663,
+        "deposit": 2732.6,
+        "balance": 10930.4,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 179.02,
+        "final_payment": 5725,
+        "total_amount_payable": 16871.54,
+        "total_charge_for_credit": 3208.54,
+        "amount_of_credit": 10930.4,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 7,
+        "residual": 5715,
+        "price_to_buy": 5725
+      }
+    ]
+  }
+]

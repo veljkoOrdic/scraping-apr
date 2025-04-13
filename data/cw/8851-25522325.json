@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:49:18.066Z",
+    "source": "codeweavers_calculator",
+    "url": "https://mervynstewart.com/used-cars/skoda-enyaq-coupe-85-edition-82-kwh-286-ps-single-speed-2024/39118/",
+    "dealer_id": "8851",
+    "car_id": "25522325",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "ENYAQ",
+        "variant": "COUPE",
+        "derivative": "210kW 85 Edition 82kWh",
+        "registration_number": "ISZ2399",
+        "registration_date": "29/05/2024",
+        "mileage": 6500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp_northridge",
+        "name": "PCP_NORTHRIDGE",
+        "finance_type": "PCP",
+        "cash_price": 34595,
+        "total_price": 34595,
+        "deposit": 6919,
+        "balance": 27676,
+        "apr": 12.4,
+        "rate_of_interest": 11.75,
+        "term": 48,
+        "regular_payment": 480.57,
+        "final_payment": 15063,
+        "total_amount_payable": 45049.36,
+        "total_charge_for_credit": 10454.36,
+        "amount_of_credit": 27676,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 15053,
+        "price_to_buy": 15063
+      },
+      {
+        "type": "finance_hp_northridge",
+        "name": "HP_NORTHRIDGE",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34595,
+        "total_price": 34595,
+        "deposit": 6919,
+        "balance": 27676,
+        "apr": 12.4,
+        "rate_of_interest": 6.44,
+        "term": 48,
+        "regular_payment": 725.11,
+        "final_payment": 735.11,
+        "total_amount_payable": 41734.28,
+        "total_charge_for_credit": 7139.28,
+        "amount_of_credit": 27676,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

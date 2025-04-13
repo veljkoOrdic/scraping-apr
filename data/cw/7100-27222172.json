@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:10:13.863Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ucar.co.uk/vans/nissan/navara/2.3-dci-n-guard/1393883/",
+    "dealer_id": "7100",
+    "car_id": "27222172",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "NAVARA",
+        "variant": "SPECIAL EDITION",
+        "derivative": "Double Cab Pick Up N-Guard 2.3dCi 190 TT",
+        "registration_number": "DL69FSA",
+        "registration_date": "31/10/2019",
+        "mileage": 76000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23340,
+        "total_price": 23340,
+        "deposit": 3890,
+        "balance": 19450,
+        "apr": 13.9,
+        "rate_of_interest": 7.3,
+        "term": 54,
+        "regular_payment": 423.21,
+        "final_payment": 4460.71,
+        "total_amount_payable": 30780.84,
+        "total_charge_for_credit": 7440.84,
+        "amount_of_credit": 19450,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 1.61,
+        "residual": 4037.5,
+        "price_to_buy": 4460.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23340,
+        "total_price": 23340,
+        "deposit": 3890,
+        "balance": 19450,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 416.99,
+        "final_payment": 417.99,
+        "total_amount_payable": 28910.4,
+        "total_charge_for_credit": 5570.4,
+        "amount_of_credit": 19450,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

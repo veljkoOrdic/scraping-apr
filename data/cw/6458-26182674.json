@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:54:38.942Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.struans.com/used/mazda/cx-5/sport-20-skyactiv-g-5dr/perth/perthshire/21460002",
+    "dealer_id": "6458",
+    "car_id": "26182674",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-5",
+        "variant": "ESTATE",
+        "derivative": "2.0 Sport",
+        "registration_number": "SP22HDC",
+        "registration_date": "04/03/2022",
+        "mileage": 11357,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23495,
+        "total_price": 23495,
+        "deposit": 2349.5,
+        "balance": 21145.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 352.74,
+        "final_payment": 11984,
+        "total_amount_payable": 31265.02,
+        "total_charge_for_credit": 7770.02,
+        "amount_of_credit": 21145.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 15,
+        "residual": 11974,
+        "price_to_buy": 11984
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23495,
+        "total_price": 23495,
+        "deposit": 2349.5,
+        "balance": 21145.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 549.61,
+        "final_payment": 549.61,
+        "total_amount_payable": 28730.78,
+        "total_charge_for_credit": 5235.78,
+        "amount_of_credit": 21145.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

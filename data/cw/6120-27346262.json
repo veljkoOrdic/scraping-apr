@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:29:50.663Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.moyautoservices.com/used-land-rover-defender-dungannon-county-tyrone-6388470",
+    "dealer_id": "6120",
+    "car_id": "27346262",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic SE 110",
+        "registration_number": "AVZ6873",
+        "registration_date": "24/01/2023",
+        "mileage": 46500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 58995,
+        "total_price": 58995,
+        "deposit": 5899,
+        "balance": 53096,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 49,
+        "regular_payment": 950.8,
+        "final_payment": 22398.5,
+        "total_amount_payable": 73935.9,
+        "total_charge_for_credit": 14940.9,
+        "amount_of_credit": 53096,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 22397.5,
+        "price_to_buy": 22398.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58995,
+        "total_price": 58995,
+        "deposit": 5899,
+        "balance": 53096,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 1114.51,
+        "final_payment": 1115.51,
+        "total_amount_payable": 72770.6,
+        "total_charge_for_credit": 13775.6,
+        "amount_of_credit": 53096,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

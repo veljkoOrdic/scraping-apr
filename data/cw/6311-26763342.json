@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:47:49.404Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.benharrisonautomotive.co.uk/details/car-in-poole/bmw/1series/3.0-m140i-shadow-edition-auto-euro-6-ss-5dr/1354049/",
+    "dealer_id": "6311",
+    "car_id": "26763342",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "M140i Shadow Edition Step",
+        "registration_number": "GV68LHJ",
+        "registration_date": "17/01/2019",
+        "mileage": 64000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 34,
+        "regular_payment": 298.1,
+        "final_payment": 9010,
+        "total_amount_payable": 20248.7,
+        "total_charge_for_credit": 3253.7,
+        "amount_of_credit": 15295.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 28333,
+        "excess_mileage_rate": 13,
+        "residual": 9000,
+        "price_to_buy": 9010
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 320.93,
+        "final_payment": 330.93,
+        "total_amount_payable": 20965.3,
+        "total_charge_for_credit": 3970.3,
+        "amount_of_credit": 15295.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

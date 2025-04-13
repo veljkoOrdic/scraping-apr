@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:08:18.032Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carjoy.uk/used-ford-ranger-aberdeen-aberdeenshire-6361200",
+    "dealer_id": "8398",
+    "car_id": "25744830",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Raptor 2.0 EcoBlue 213",
+        "registration_number": "GX22MZZ",
+        "registration_date": "01/03/2022",
+        "mileage": 28752,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599,
+        "balance": 32396,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 635.9,
+        "final_payment": 10401,
+        "total_amount_payable": 44523.2,
+        "total_charge_for_credit": 8528.2,
+        "amount_of_credit": 32396,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 10391,
+        "price_to_buy": 10401
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599,
+        "balance": 32396,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 827.74,
+        "final_payment": 827.74,
+        "total_amount_payable": 43330.52,
+        "total_charge_for_credit": 7335.52,
+        "amount_of_credit": 32396,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

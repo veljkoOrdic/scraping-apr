@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:16:28.770Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ceirseiontcars.com/used/commercials/ford/transit-custom/2-0-transit-custom-320-limited-ecoblue-auto-743",
+    "dealer_id": "7771",
+    "car_id": "27732667",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "320 L2 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 185ps Low Roof D/Cab Limited Van",
+        "registration_number": "N2DYL",
+        "registration_date": "20/10/2021",
+        "mileage": 41852,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 514.02,
+        "final_payment": 6470,
+        "total_amount_payable": 33741.96,
+        "total_charge_for_credit": 7751.96,
+        "amount_of_credit": 23391,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 19,
+        "residual": 6470,
+        "price_to_buy": 6470
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 522.59,
+        "final_payment": 522.59,
+        "total_amount_payable": 33954.4,
+        "total_charge_for_credit": 7964.4,
+        "amount_of_credit": 23391,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

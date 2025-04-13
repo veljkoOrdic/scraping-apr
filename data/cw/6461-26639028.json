@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:00:36.603Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.browningsuzuki.co.uk/used/cars/ford/fiesta/trend-426",
+    "dealer_id": "6461",
+    "car_id": "26639028",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.1 Trend",
+        "registration_number": "NU69XGD",
+        "registration_date": "20/11/2019",
+        "mileage": 18196,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10812,
+        "total_price": 10812,
+        "deposit": 2162.4,
+        "balance": 8649.6,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 174.68,
+        "final_payment": 3791.32,
+        "total_amount_payable": 14163.68,
+        "total_charge_for_credit": 3351.68,
+        "amount_of_credit": 8649.6,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 2.57,
+        "residual": 3791.32,
+        "price_to_buy": 3791.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10812,
+        "total_price": 10812,
+        "deposit": 2162.4,
+        "balance": 8649.6,
+        "apr": 8.4,
+        "rate_of_interest": 8.03,
+        "term": 48,
+        "regular_payment": 211.54,
+        "final_payment": 211.54,
+        "total_amount_payable": 12316.32,
+        "total_charge_for_credit": 1504.32,
+        "amount_of_credit": 8649.6,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

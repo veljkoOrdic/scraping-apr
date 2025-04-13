@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-04-11T19:52:59.885Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.humphriesandparks.net/used/cars/nissan/leaf/e-plus-n-connecta-2904",
+    "dealer_id": "6456",
+    "car_id": "26742261",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "160kW e+ N-Connecta 62kWh",
+        "registration_date": "02/11/2021",
+        "mileage": 9231,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13249,
+        "total_price": 13249,
+        "deposit": 1324.9,
+        "balance": 11924.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 49,
+        "regular_payment": 225.66,
+        "final_payment": 5557,
+        "total_amount_payable": 17713.58,
+        "total_charge_for_credit": 4464.58,
+        "amount_of_credit": 11924.1,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 9.6,
+        "residual": 5547,
+        "price_to_buy": 5557
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13249,
+        "total_price": 13249,
+        "deposit": 1324.9,
+        "balance": 11924.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.16,
+        "term": 60,
+        "regular_payment": 266.42,
+        "final_payment": 266.42,
+        "total_amount_payable": 17310.1,
+        "total_charge_for_credit": 4061.1,
+        "amount_of_credit": 11924.1,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

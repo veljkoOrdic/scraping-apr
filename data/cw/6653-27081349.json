@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:54:10.706Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/mclaren/720s/4.0t-v8-spider-ssg-euro-6-ss-2dr/1381486/",
+    "dealer_id": "6653",
+    "car_id": "27081349",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mclaren",
+        "model": "720",
+        "variant": "S SPIDER",
+        "derivative": "V8 SSG",
+        "registration_number": "HF71SPX",
+        "registration_date": "06/12/2021",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 164995,
+        "total_price": 164995,
+        "deposit": 16499.5,
+        "balance": 148495.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 2469.53,
+        "final_payment": 73045,
+        "total_amount_payable": 203142.88,
+        "total_charge_for_credit": 38147.88,
+        "amount_of_credit": 148495.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 118,
+        "residual": 73035,
+        "price_to_buy": 73045
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 164995,
+        "total_price": 164995,
+        "deposit": 16499.5,
+        "balance": 148495.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 3664.13,
+        "final_payment": 3674.13,
+        "total_amount_payable": 192387.74,
+        "total_charge_for_credit": 27392.74,
+        "amount_of_credit": 148495.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

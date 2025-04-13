@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:45:07.123Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tjhamiltonvolkswagen.com/used/volkswagen/polo/10-tsi-95-match-5dr/cookstown/county-tyrone/21518671",
+    "dealer_id": "7436",
+    "car_id": "23273577",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "POLO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 95 Match",
+        "registration_number": "YHZ1261",
+        "registration_date": "03/03/2021",
+        "mileage": 17173,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 2199.5,
+        "balance": 12295.5,
+        "apr": 13.3,
+        "rate_of_interest": 13.31,
+        "term": 48,
+        "regular_payment": 232.11,
+        "final_payment": 6130,
+        "total_amount_payable": 19238.67,
+        "total_charge_for_credit": 4743.67,
+        "amount_of_credit": 12295.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.98,
+        "residual": 6120,
+        "price_to_buy": 6130
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 13.3,
+        "rate_of_interest": 13.25,
+        "term": 48,
+        "regular_payment": 346.79,
+        "final_payment": 356.79,
+        "total_amount_payable": 18105.42,
+        "total_charge_for_credit": 3610.42,
+        "amount_of_credit": 13045.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

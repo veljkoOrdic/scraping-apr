@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:06:36.532Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bespokemotorworks.co.uk/used-bmw-x1-stockton-on-tees-cleveland-6661788",
+    "dealer_id": "6268",
+    "car_id": "26924856",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X1",
+        "variant": "",
+        "derivative": "X1 sDrive20i M Sport",
+        "registration_number": "RO23TBX",
+        "registration_date": "24/03/2023",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 3549,
+        "balance": 31946,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 528.82,
+        "final_payment": 11355.64,
+        "total_amount_payable": 46105.02,
+        "total_charge_for_credit": 10610.02,
+        "amount_of_credit": 31946,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 8.35,
+        "residual": 11355.64,
+        "price_to_buy": 11355.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 3549,
+        "balance": 31946,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 670.57,
+        "final_payment": 670.57,
+        "total_amount_payable": 43783.2,
+        "total_charge_for_credit": 8288.2,
+        "amount_of_credit": 31946,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

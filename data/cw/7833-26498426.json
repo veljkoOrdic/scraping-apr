@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:35:21.550Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/renault/austral/e-tech-fhev-techno-esprit-alpine-5dr-auto/york/north-yorkshire/21486332",
+    "dealer_id": "7833",
+    "car_id": "26498426",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "AUSTRAL",
+        "variant": "ESTATE",
+        "derivative": "E-Tech FHEV Techno Esprit Alpine",
+        "registration_number": "YP73ZMO",
+        "registration_date": "12/09/2023",
+        "mileage": 5345,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27490,
+        "total_price": 27490,
+        "deposit": 2749,
+        "balance": 24741,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 642.85,
+        "final_payment": 652.85,
+        "total_amount_payable": 33615.8,
+        "total_charge_for_credit": 6125.8,
+        "amount_of_credit": 24741,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27490,
+        "total_price": 27490,
+        "deposit": 2749,
+        "balance": 24741,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 427.12,
+        "final_payment": 13143.75,
+        "total_amount_payable": 36394.51,
+        "total_charge_for_credit": 8904.51,
+        "amount_of_credit": 24741,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.67,
+        "residual": 13133.75,
+        "price_to_buy": 13143.75
+      }
+    ]
+  }
+]

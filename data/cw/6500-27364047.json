@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:16:08.736Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.littlewick-green.co.uk/mazda-cx-5-2-0-e-skyactiv-g-mhev-exclusive-line-auto-euro-6-s-s-5dr-in-maidenhead-3acdd102-7ac3-4fd9-a26a-b29c00d08f0e",
+    "dealer_id": "6500",
+    "car_id": "27364047",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-5",
+        "variant": "ESTATE",
+        "derivative": "2.0 e-Skyactiv G MHEV Exclusive-Line",
+        "registration_number": "NC23WGW",
+        "registration_date": "17/07/2023",
+        "mileage": 4128,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 655.32,
+        "final_payment": 655.32,
+        "total_amount_payable": 34354.86,
+        "total_charge_for_credit": 5359.86,
+        "amount_of_credit": 26095.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 452.36,
+        "final_payment": 12242,
+        "total_amount_payable": 36402.42,
+        "total_charge_for_credit": 7407.42,
+        "amount_of_credit": 26095.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.6,
+        "residual": 12232,
+        "price_to_buy": 12242
+      }
+    ]
+  }
+]

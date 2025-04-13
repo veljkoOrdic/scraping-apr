@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T22:51:21.774Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.garrowhillcarsales.co.uk/details/used-car-in-glasgow/bmw/x3/2.0-20d-m-sport-auto-xdrive-euro-6-ss-5dr/896458/",
+    "dealer_id": "6765",
+    "car_id": "26954412",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive20d M Sport Step",
+        "registration_number": "SC64YPL",
+        "registration_date": "16/01/2015",
+        "mileage": 90000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11695,
+        "total_price": 11695,
+        "deposit": 1169.5,
+        "balance": 10525.5,
+        "apr": 15.4,
+        "rate_of_interest": 8.16,
+        "term": 60,
+        "regular_payment": 247,
+        "final_payment": 257,
+        "total_amount_payable": 15999.5,
+        "total_charge_for_credit": 4304.5,
+        "amount_of_credit": 10525.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

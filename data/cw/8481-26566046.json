@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:50:32.191Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rogeryoung.co.uk/used-car-details/used-seat-ibiza-10-tsi-fr-hatchback-automatic-petrol/id-13293/",
+    "dealer_id": "8481",
+    "car_id": "26566046",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "IBIZA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 FR DSG",
+        "registration_number": "WJ22JVX",
+        "registration_date": "25/04/2022",
+        "mileage": 18123,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14695,
+        "total_price": 14695,
+        "deposit": 5878,
+        "balance": 8817,
+        "apr": 8.9,
+        "rate_of_interest": 8.5,
+        "term": 48,
+        "regular_payment": 217.56,
+        "final_payment": 217.56,
+        "total_amount_payable": 16320.88,
+        "total_charge_for_credit": 1625.88,
+        "amount_of_credit": 8817,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14695,
+        "total_price": 14695,
+        "deposit": 5878,
+        "balance": 8817,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 48,
+        "regular_payment": 92.3,
+        "final_payment": 7232,
+        "total_amount_payable": 17448.1,
+        "total_charge_for_credit": 2753.1,
+        "amount_of_credit": 8817,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 4.8,
+        "residual": 7222,
+        "price_to_buy": 7232
+      }
+    ]
+  }
+]

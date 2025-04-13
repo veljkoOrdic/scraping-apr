@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:44:19.019Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autospecuk.co.uk/cars/audi/q7/3.0-tdi-v6-45-black-edition/1431029/",
+    "dealer_id": "8751",
+    "car_id": "27673887",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "45 TDI Quattro S Line Tiptronic",
+        "registration_number": "W7HEC",
+        "registration_date": "30/06/2020",
+        "mileage": 47600,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 10,
+        "balance": 40985,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 878.71,
+        "final_payment": 878.71,
+        "total_amount_payable": 52732.6,
+        "total_charge_for_credit": 11737.6,
+        "amount_of_credit": 40985,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 10,
+        "balance": 40985,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 734.9,
+        "final_payment": 11986.56,
+        "total_amount_payable": 55355.66,
+        "total_charge_for_credit": 14360.66,
+        "amount_of_credit": 40985,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.43,
+        "residual": 11986.56,
+        "price_to_buy": 11986.56
+      }
+    ]
+  }
+]

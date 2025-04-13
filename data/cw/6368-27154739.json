@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:13:54.047Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acergladecars.com/vehicle-details/used-audi-rs3-tfsi-vorsprung-for-sale-acer-glade-cars-u2239/",
+    "dealer_id": "6368",
+    "car_id": "27154739",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SPORTBACK",
+        "derivative": "RS 3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "YY23VAU",
+        "registration_date": "19/05/2023",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 50990,
+        "total_price": 50990,
+        "deposit": 12747.5,
+        "balance": 38242.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 820.09,
+        "final_payment": 820.09,
+        "total_amount_payable": 61952.9,
+        "total_charge_for_credit": 10962.9,
+        "amount_of_credit": 38242.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50990,
+        "total_price": 50990,
+        "deposit": 12747.5,
+        "balance": 38242.5,
+        "apr": 11,
+        "rate_of_interest": 5.5,
+        "term": 48,
+        "regular_payment": 564.37,
+        "final_payment": 25075.62,
+        "total_amount_payable": 64348.51,
+        "total_charge_for_credit": 13358.51,
+        "amount_of_credit": 38242.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 24501.25,
+        "price_to_buy": 25075.62
+      }
+    ]
+  }
+]

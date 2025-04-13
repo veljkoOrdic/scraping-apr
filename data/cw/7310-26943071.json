@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:42:43.537Z",
+    "source": "codeweavers_calculator",
+    "url": "https://bspmotorvehicles.co.uk/used-cars/?car_data=WBS4Y92090FJ73887",
+    "dealer_id": "7310",
+    "car_id": "26943071",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "",
+        "derivative": "M4 Coupe Competition Package",
+        "registration_number": "MJ20KUF",
+        "registration_date": "29/06/2020",
+        "mileage": 25313,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36690,
+        "total_price": 36690,
+        "deposit": 1000,
+        "balance": 35690,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 749.16,
+        "final_payment": 749.16,
+        "total_amount_payable": 45949.6,
+        "total_charge_for_credit": 9259.6,
+        "amount_of_credit": 35690,
+        "lender": "Evolution Funding",
+        "annual_mileage": 25313,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36690,
+        "total_price": 36690,
+        "deposit": 1000,
+        "balance": 35690,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 59,
+        "regular_payment": 675.77,
+        "final_payment": 6907.74,
+        "total_amount_payable": 47102.4,
+        "total_charge_for_credit": 10412.4,
+        "amount_of_credit": 35690,
+        "lender": "Evolution Funding",
+        "annual_mileage": 25313,
+        "contract_mileage": 124455,
+        "excess_mileage_rate": 6.89,
+        "residual": 6907.74,
+        "price_to_buy": 6907.74
+      }
+    ]
+  }
+]

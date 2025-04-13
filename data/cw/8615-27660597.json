@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:26:36.883Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jctprestigecars.co.uk/vehicle/land-rover-defender-90-30-d250-mhev-x-dynamic-se-suv-3dr-diesel-auto-4wd-euro-6-ss-250-ps-in-kings-lynn-norfolk-32ac2483-7d99-4feb-8129-d9a0236880e7",
+    "dealer_id": "8615",
+    "car_id": "27660597",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic SE 90",
+        "registration_number": "LD25RKZ",
+        "registration_date": "26/03/2025",
+        "mileage": 300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68895,
+        "total_price": 68895,
+        "deposit": 6889.5,
+        "balance": 62005.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1329.38,
+        "final_payment": 1329.38,
+        "total_amount_payable": 86652.3,
+        "total_charge_for_credit": 17757.3,
+        "amount_of_credit": 62005.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68895,
+        "total_price": 68895,
+        "deposit": 6889.5,
+        "balance": 62005.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1045.41,
+        "final_payment": 23264.19,
+        "total_amount_payable": 91832.88,
+        "total_charge_for_credit": 22937.88,
+        "amount_of_credit": 62005.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.08,
+        "residual": 23264.19,
+        "price_to_buy": 23264.19
+      }
+    ]
+  }
+]

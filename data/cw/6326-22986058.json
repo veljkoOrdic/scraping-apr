@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:56:02.217Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.charltonsofboroughbridge.co.uk/vehicle/ford-ecosport-15-ecoblue-titanium-euro-6-ss-5dr-in-north-yorkshire-4e198e61-d3d2-45cb-9d66-b0f601098f28",
+    "dealer_id": "6326",
+    "car_id": "22986058",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "ECOSPORT",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.5 EcoBlue Titanium",
+        "registration_number": "MX70UBD",
+        "registration_date": "15/09/2020",
+        "mileage": 27750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 211.08,
+        "final_payment": 4232,
+        "total_amount_payable": 15563.34,
+        "total_charge_for_credit": 3568.34,
+        "amount_of_credit": 10795.5,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 4232,
+        "price_to_buy": 4232
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 280.57,
+        "final_payment": 280.57,
+        "total_amount_payable": 14666.86,
+        "total_charge_for_credit": 2671.86,
+        "amount_of_credit": 10795.5,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

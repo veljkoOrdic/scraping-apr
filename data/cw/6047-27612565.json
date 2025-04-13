@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:37:51.785Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mbmperth.co.uk/vehicle/kia-optima-phev-in-perth-perthshire-88f0f9f0-54ad-472f-aa3a-312dad024a07",
+    "dealer_id": "6047",
+    "car_id": "27612565",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "OPTIMA",
+        "variant": "SPORTSWAGON",
+        "derivative": "2.0 GDi PHEV",
+        "registration_number": "SN67BWP",
+        "registration_date": "30/11/2017",
+        "mileage": 72418,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10888,
+        "total_price": 10888,
+        "deposit": 1088.8,
+        "balance": 9799.2,
+        "apr": 9.9,
+        "rate_of_interest": 6.38,
+        "term": 48,
+        "regular_payment": 197.58,
+        "final_payment": 3015,
+        "total_amount_payable": 13390.06,
+        "total_charge_for_credit": 2502.06,
+        "amount_of_credit": 9799.2,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 3015,
+        "price_to_buy": 3015
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10888,
+        "total_price": 10888,
+        "deposit": 1088.8,
+        "balance": 9799.2,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 218.93,
+        "final_payment": 218.93,
+        "total_amount_payable": 14224.6,
+        "total_charge_for_credit": 3336.6,
+        "amount_of_credit": 9799.2,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

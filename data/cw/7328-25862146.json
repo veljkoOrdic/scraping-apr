@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:01:15.896Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoprestigecars.co.uk/used/bmw/m4/cs-2dr-dct-track-edition-drw-stage-3-hybrid-turbos-ceramic-brakes-carbon-light-weight-1-of-186/bradford/west-yorkshire/21423330",
+    "dealer_id": "7328",
+    "car_id": "25862146",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M4",
+        "variant": "COUPE SPECIAL EDITIONS",
+        "derivative": "M4 CS DCT",
+        "registration_number": "RV68FFZ",
+        "registration_date": "08/09/2018",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 40,
+        "regular_payment": 674.63,
+        "final_payment": 18386.15,
+        "total_amount_payable": 48695.72,
+        "total_charge_for_credit": 8705.72,
+        "amount_of_credit": 35991,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 12.03,
+        "residual": 18386.15,
+        "price_to_buy": 18386.15
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 755.51,
+        "final_payment": 756.51,
+        "total_amount_payable": 49330.6,
+        "total_charge_for_credit": 9340.6,
+        "amount_of_credit": 35991,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

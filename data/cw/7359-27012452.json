@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:18:50.544Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarfinancehub.co.uk/used/cars/vauxhall/corsa/sri-8120",
+    "dealer_id": "7359",
+    "car_id": "27012452",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "INSIGNIA",
+        "variant": "DIESEL GRAND SPORT",
+        "derivative": "1.6 Turbo D ecoTec Tech Line Nav",
+        "registration_number": "BK69LUE",
+        "registration_date": "06/12/2019",
+        "mileage": 72259,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8695,
+        "total_price": 8695,
+        "deposit": 869.5,
+        "balance": 7825.5,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 55,
+        "regular_payment": 185.26,
+        "final_payment": 1403.63,
+        "total_amount_payable": 12277.17,
+        "total_charge_for_credit": 3582.17,
+        "amount_of_credit": 7825.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 1.78,
+        "residual": 1403.63,
+        "price_to_buy": 1403.63
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8695,
+        "total_price": 8695,
+        "deposit": 869.5,
+        "balance": 7825.5,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 60,
+        "regular_payment": 189.13,
+        "final_payment": 189.13,
+        "total_amount_payable": 12217.3,
+        "total_charge_for_credit": 3522.3,
+        "amount_of_credit": 7825.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

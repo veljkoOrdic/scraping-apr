@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:18:12.012Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rydersofwarrington.co.uk/used/hyundai/ioniq-6/239kw-ultimate-77kwh-4dr-awd-auto/warrington/cheshire/21489914",
+    "dealer_id": "7112",
+    "car_id": "26542374",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IONIQ 6",
+        "variant": "ELECTRIC SALOON",
+        "derivative": "239kW Ultimate 77kWh",
+        "registration_number": "MH73VPT",
+        "registration_date": "26/01/2024",
+        "mileage": 1056,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31980,
+        "total_price": 31980,
+        "deposit": 3198,
+        "balance": 28782,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 735.4,
+        "final_payment": 735.4,
+        "total_amount_payable": 38497.2,
+        "total_charge_for_credit": 6517.2,
+        "amount_of_credit": 28782,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31980,
+        "total_price": 31980,
+        "deposit": 3198,
+        "balance": 28782,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 459.42,
+        "final_payment": 16479.38,
+        "total_amount_payable": 41729.54,
+        "total_charge_for_credit": 9749.54,
+        "amount_of_credit": 28782,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 7.5,
+        "residual": 16479.38,
+        "price_to_buy": 16479.38
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:53:02.698Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aceprestigeautos.co.uk/used-audi-rs5-leeds-west-yorkshire-6633356",
+    "dealer_id": "9223",
+    "car_id": "26836695",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "RS 5",
+        "derivative": "RS 5 Coupé 2.9 TFSI quattro 450 PS tiptronic",
+        "registration_number": "X30RDW",
+        "registration_date": "25/07/2018",
+        "mileage": 50311,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449,
+        "balance": 31046,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 27,
+        "regular_payment": 806.88,
+        "final_payment": 16675,
+        "total_amount_payable": 41102.88,
+        "total_charge_for_credit": 6607.88,
+        "amount_of_credit": 31046,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 22500,
+        "excess_mileage_rate": 26,
+        "residual": 16675,
+        "price_to_buy": 16675
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449,
+        "balance": 31046,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 651.71,
+        "final_payment": 651.71,
+        "total_amount_payable": 42551.6,
+        "total_charge_for_credit": 8056.6,
+        "amount_of_credit": 31046,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

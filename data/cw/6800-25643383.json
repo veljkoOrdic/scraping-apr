@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:21:30.107Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bbcars.co.uk/used-mercedes-benz-e-class-bridport-dorset-6338993",
+    "dealer_id": "6800",
+    "car_id": "25643383",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "E-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "E220d AMG Line Night Edition Prem + 9G-Tronic",
+        "registration_number": "KJ69GSV",
+        "registration_date": "12/02/2020",
+        "mileage": 57880,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 512.07,
+        "final_payment": 512.07,
+        "total_amount_payable": 33323.2,
+        "total_charge_for_credit": 7333.2,
+        "amount_of_credit": 23391,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 58,
+        "regular_payment": 467.65,
+        "final_payment": 6586.93,
+        "total_amount_payable": 35841.98,
+        "total_charge_for_credit": 9851.98,
+        "amount_of_credit": 23391,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 48333,
+        "excess_mileage_rate": 5.86,
+        "residual": 6586.93,
+        "price_to_buy": 6586.93
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-04-11T15:08:52.740Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sinclairgroup.co.uk/used-car-details/used-smart-forfour-smart-eq-forfour-pulse-premium-automatic-electric/id-202501238310142/",
+    "dealer_id": "6005",
+    "car_id": "26856599",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://services.codeweavers.net/api/action-availability/start-checkout",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/credit-check?",
+        "https://services.codeweavers.net/api/finance/quote/1cd414a5-019f-44a8-8274-5e79ce8da6fd",
+        "https://services.codeweavers.net/api/websockets/pusher/vehicleChannelNameForQuote/1cd414a5-019f-44a8-8274-5e79ce8da6fd",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/checkout?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/reserve?",
+        "https://services.codeweavers.net/api/websockets/pusher/authenticate"
+      ]
+    }
+  }
+]

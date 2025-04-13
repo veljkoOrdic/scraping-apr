@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:05:38.772Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-ferrari-f8-spider-liskeard-cornwall-6649777",
+    "dealer_id": "8394",
+    "car_id": "26885130",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "F8 Spider",
+        "variant": "",
+        "derivative": "3.9T V8 Convertible 2dr Petrol F1 DCT Euro 6 (s/s) (720 ps)",
+        "registration_number": "FJ22XUN",
+        "registration_date": "01/03/2022",
+        "mileage": 5700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 235000,
+        "total_price": 235000,
+        "deposit": 23500,
+        "balance": 211500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 3133.33,
+        "final_payment": 129649.5,
+        "total_amount_payable": 300416.01,
+        "total_charge_for_credit": 65416.01,
+        "amount_of_credit": 211500,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 235000,
+        "total_price": 235000,
+        "deposit": 23500,
+        "balance": 211500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 4439.55,
+        "final_payment": 4439.55,
+        "total_amount_payable": 289873,
+        "total_charge_for_credit": 54873,
+        "amount_of_credit": 211500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

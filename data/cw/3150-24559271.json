@@ -57,5 +57,64 @@
         "residual": 0
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-11T23:55:40.224Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.transauto.co.uk/used-land-rover-range-rover-velar-reading-berkshire-6076496",
+    "dealer_id": "3150",
+    "car_id": "24559271",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D180 R-Dynamic SE",
+        "registration_number": "YN19HJT",
+        "registration_date": "15/08/2019",
+        "mileage": 85000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21999,
+        "total_price": 21999,
+        "deposit": 2199,
+        "balance": 19800,
+        "apr": 14.1,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 453.38,
+        "final_payment": 453.38,
+        "total_amount_payable": 29401.8,
+        "total_charge_for_credit": 7402.8,
+        "amount_of_credit": 19800,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21999,
+        "total_price": 21999,
+        "deposit": 2199,
+        "balance": 19800,
+        "apr": 14.1,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 453.15,
+        "final_payment": 463.15,
+        "total_amount_payable": 29398,
+        "total_charge_for_credit": 7399,
+        "amount_of_credit": 19800,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

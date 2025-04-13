@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:11:13.016Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/ferrari/ferrari-458-4-5-italia-f1-dct-euro-5-2dr/",
+    "dealer_id": "6227",
+    "car_id": "27037963",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "458",
+        "variant": "COUPE",
+        "derivative": "Italia",
+        "registration_number": "EU60DZD",
+        "registration_date": "12/10/2010",
+        "mileage": 29261,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 112475,
+        "total_price": 112475,
+        "deposit": 11247.5,
+        "balance": 101227.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1499.67,
+        "final_payment": 62052.46,
+        "total_amount_payable": 143784.45,
+        "total_charge_for_credit": 31309.45,
+        "amount_of_credit": 101227.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 112475,
+        "total_price": 112475,
+        "deposit": 11247.5,
+        "balance": 101227.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 2193.09,
+        "final_payment": 2193.09,
+        "total_amount_payable": 142832.9,
+        "total_charge_for_credit": 30357.9,
+        "amount_of_credit": 101227.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

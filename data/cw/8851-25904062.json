@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:48:01.011Z",
+    "source": "codeweavers_calculator",
+    "url": "https://mervynstewart.com/used-cars/skoda-karoq-sportline-15-tsi-dsg/39053/",
+    "dealer_id": "8851",
+    "car_id": "25904062",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI Sportline DSG",
+        "registration_number": "KY24ZWS",
+        "registration_date": "27/03/2024",
+        "mileage": 9382,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp_northridge",
+        "name": "PCP_NORTHRIDGE",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 5599,
+        "balance": 22396,
+        "apr": 12.4,
+        "rate_of_interest": 11.73,
+        "term": 48,
+        "regular_payment": 358.4,
+        "final_payment": 14053,
+        "total_amount_payable": 36855.2,
+        "total_charge_for_credit": 8860.2,
+        "amount_of_credit": 22396,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 14043,
+        "price_to_buy": 14053
+      },
+      {
+        "type": "finance_hp_northridge",
+        "name": "HP_NORTHRIDGE",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 5599,
+        "balance": 22396,
+        "apr": 12.4,
+        "rate_of_interest": 6.44,
+        "term": 48,
+        "regular_payment": 586.78,
+        "final_payment": 596.78,
+        "total_amount_payable": 33774.44,
+        "total_charge_for_credit": 5779.44,
+        "amount_of_credit": 22396,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

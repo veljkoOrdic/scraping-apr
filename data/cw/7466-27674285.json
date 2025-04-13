@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:55:53.016Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autohandler.co.uk/used/cars/volkswagen/golf/2-0-tdi-r-line-euro-6-s-s-3dr-46",
+    "dealer_id": "7466",
+    "car_id": "27674285",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 TDI R-Line",
+        "registration_number": "KN67AUY",
+        "registration_date": "17/10/2017",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp_octane",
+        "name": "PCP_OCTANE",
+        "finance_type": "PCP",
+        "cash_price": 15922,
+        "total_price": 15922,
+        "deposit": 1592.2,
+        "balance": 14329.8,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 30,
+        "regular_payment": 386.93,
+        "final_payment": 6302.49,
+        "total_amount_payable": 19115.66,
+        "total_charge_for_credit": 3193.66,
+        "amount_of_credit": 14329.8,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 5.2,
+        "residual": 6302.49,
+        "price_to_buy": 6302.49
+      },
+      {
+        "type": "finance_hp_octane",
+        "name": "HP_OCTANE",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15922,
+        "total_price": 15922,
+        "deposit": 1592.2,
+        "balance": 14329.8,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 378.78,
+        "final_payment": 378.78,
+        "total_amount_payable": 19773.64,
+        "total_charge_for_credit": 3851.64,
+        "amount_of_credit": 14329.8,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

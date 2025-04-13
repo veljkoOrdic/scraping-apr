@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:51:47.546Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lmc-cars.co.uk/used/cars/ford/tourneo-connect/2-0-tourneo-connect-titanium-ecoblue-a-5dr-178",
+    "dealer_id": "6436",
+    "car_id": "24823871",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TOURNEO CONNECT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue Titanium",
+        "registration_number": "BJ72EAO",
+        "registration_date": "31/10/2022",
+        "mileage": 6361,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24099,
+        "total_price": 24099,
+        "deposit": 2409.9,
+        "balance": 21689.1,
+        "apr": 11.9,
+        "rate_of_interest": 5.8,
+        "term": 48,
+        "regular_payment": 380.02,
+        "final_payment": 11182.5,
+        "total_amount_payable": 31833.36,
+        "total_charge_for_credit": 7734.36,
+        "amount_of_credit": 21689.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.7,
+        "residual": 11182.5,
+        "price_to_buy": 11182.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24099,
+        "total_price": 24099,
+        "deposit": 2409.9,
+        "balance": 21689.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 474.81,
+        "final_payment": 475.81,
+        "total_amount_payable": 30899.5,
+        "total_charge_for_credit": 6800.5,
+        "amount_of_credit": 21689.1,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

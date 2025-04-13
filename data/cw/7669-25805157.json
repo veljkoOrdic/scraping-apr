@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:44:08.313Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.leada-motors.co.uk/used-mini-hatch-ripon-north-yorkshire-6375612",
+    "dealer_id": "7669",
+    "car_id": "25805157",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Hatch",
+        "variant": "",
+        "derivative": "Hatch John Cooper Works",
+        "registration_number": "FM19WTE",
+        "registration_date": "26/06/2019",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17250,
+        "total_price": 17250,
+        "deposit": 1725,
+        "balance": 15525,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 39,
+        "regular_payment": 293.64,
+        "final_payment": 8339,
+        "total_amount_payable": 20928.68,
+        "total_charge_for_credit": 3678.68,
+        "amount_of_credit": 15525,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 13,
+        "residual": 8329,
+        "price_to_buy": 8339
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17250,
+        "total_price": 17250,
+        "deposit": 1725,
+        "balance": 15525,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 325.77,
+        "final_payment": 335.77,
+        "total_amount_payable": 21281.2,
+        "total_charge_for_credit": 4031.2,
+        "amount_of_credit": 15525,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

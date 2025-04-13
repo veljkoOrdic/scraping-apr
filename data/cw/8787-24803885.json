@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:15:35.375Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.automotive-cars.co.uk/used/cars/audi/sq5/3-0-tdi-v6-vorsprung-tiptronic-quattro-euro-6-s-s-5dr-2",
+    "dealer_id": "8787",
+    "car_id": "24803885",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "SQ5 TDI Quattro Vorsprung Tiptronic",
+        "registration_number": "EF69EUO",
+        "registration_date": "18/12/2019",
+        "mileage": 77621,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31990,
+        "total_price": 31990,
+        "deposit": 3199,
+        "balance": 28791,
+        "apr": 9.9,
+        "rate_of_interest": 7.2,
+        "term": 48,
+        "regular_payment": 487.38,
+        "final_payment": 14175,
+        "total_amount_payable": 40280.86,
+        "total_charge_for_credit": 8290.86,
+        "amount_of_credit": 28791,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14,
+        "residual": 14175,
+        "price_to_buy": 14175
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31990,
+        "total_price": 31990,
+        "deposit": 3199,
+        "balance": 28791,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 723.01,
+        "final_payment": 723.01,
+        "total_amount_payable": 37903.48,
+        "total_charge_for_credit": 5913.48,
+        "amount_of_credit": 28791,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

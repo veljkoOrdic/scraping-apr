@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:23:56.648Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechwoodautos.co.uk/used-vauxhall-vivaro-nottingham-nottinghamshire-5397775",
+    "dealer_id": "6593",
+    "car_id": "21629852",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "VIVARO",
+        "variant": "L2 DIESEL",
+        "derivative": "3100 2.0d 145PS Elite H1 D/Cab",
+        "registration_number": "FH22ABN",
+        "registration_date": "30/08/2022",
+        "mileage": 12900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42000,
+        "total_price": 42000,
+        "deposit": 7000,
+        "balance": 35000,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 846.39,
+        "final_payment": 5680.14,
+        "total_amount_payable": 52460.47,
+        "total_charge_for_credit": 10460.47,
+        "amount_of_credit": 35000,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4823.75,
+        "price_to_buy": 5680.14
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42000,
+        "total_price": 42000,
+        "deposit": 7000,
+        "balance": 35000,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 924.88,
+        "final_payment": 934.88,
+        "total_amount_payable": 51404.24,
+        "total_charge_for_credit": 9404.24,
+        "amount_of_credit": 35000,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

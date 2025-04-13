@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:00:17.865Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alsautos.co.uk/vehicle/skoda-kamiq-10-tsi-se-suv-5dr-petrol-dsg-euro-6-ss-110-ps-in-ely-cambridgeshire-f468b3d0-6037-46ba-83e0-eaa6bec2a8c1",
+    "dealer_id": "7898",
+    "car_id": "26764426",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAMIQ",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 SE DSG",
+        "registration_number": "BF72CUK",
+        "registration_date": "04/10/2022",
+        "mileage": 26429,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 48,
+        "regular_payment": 245.76,
+        "final_payment": 6892,
+        "total_amount_payable": 20188.48,
+        "total_charge_for_credit": 5188.48,
+        "amount_of_credit": 13500,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 6882,
+        "price_to_buy": 6892
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 301.5,
+        "final_payment": 311.5,
+        "total_amount_payable": 19600,
+        "total_charge_for_credit": 4600,
+        "amount_of_credit": 13500,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

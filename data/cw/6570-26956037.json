@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T21:07:58.574Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kentvehicles.co.uk/details/car-in-herne-common/bmw/4series/3.0-435d-m-sport-auto-xdrive-euro-6-ss-2dr/1370975/",
+    "dealer_id": "6570",
+    "car_id": "26956037",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "DIESEL COUPE",
+        "derivative": "435d xDrive M Sport",
+        "registration_number": "YB64ERY",
+        "registration_date": "16/01/2015",
+        "mileage": 156000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7250,
+        "total_price": 7250,
+        "deposit": 725,
+        "balance": 6525,
+        "apr": 14.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 151.6,
+        "final_payment": 161.6,
+        "total_amount_payable": 9831,
+        "total_charge_for_credit": 2581,
+        "amount_of_credit": 6525,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7250,
+        "total_price": 7250,
+        "deposit": 725,
+        "balance": 6525,
+        "apr": 14.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 151.82,
+        "final_payment": 151.82,
+        "total_amount_payable": 9834.2,
+        "total_charge_for_credit": 2584.2,
+        "amount_of_credit": 6525,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

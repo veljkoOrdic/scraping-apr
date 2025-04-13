@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:58.087Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/bentley-continental-68-mulliner-r-2dr",
+    "dealer_id": "6231",
+    "car_id": "26777496",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "CONTINENTAL R",
+        "variant": "COUPE",
+        "derivative": "Mulliner",
+        "registration_number": "C3OYN",
+        "registration_date": "04/09/2000",
+        "mileage": 39511,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 74995,
+        "total_price": 74995,
+        "deposit": 7499.5,
+        "balance": 67495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 999.93,
+        "final_payment": 41374.74,
+        "total_amount_payable": 95870.95,
+        "total_charge_for_credit": 20875.95,
+        "amount_of_credit": 67495.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 74995,
+        "total_price": 74995,
+        "deposit": 1999,
+        "balance": 72996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1833.1,
+        "final_payment": 1833.1,
+        "total_amount_payable": 89987.8,
+        "total_charge_for_credit": 14992.8,
+        "amount_of_credit": 72996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

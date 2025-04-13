@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:17:54.806Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lakesidemotorco.co.uk/cars/bmw/x2/2.0-x2-sdrive20i-m-sport/1323763/",
+    "dealer_id": "6892",
+    "car_id": "26368078",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X2",
+        "variant": "",
+        "derivative": "X2 sDrive20i M Sport",
+        "registration_number": "DE21UHL",
+        "registration_date": "31/03/2021",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 0,
+        "balance": 22495,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 415.43,
+        "final_payment": 6586.99,
+        "total_amount_payable": 31097.36,
+        "total_charge_for_credit": 8602.36,
+        "amount_of_credit": 22495,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.66,
+        "residual": 6586.99,
+        "price_to_buy": 6586.99
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 0,
+        "balance": 22495,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 492.43,
+        "final_payment": 492.43,
+        "total_amount_payable": 29545.8,
+        "total_charge_for_credit": 7050.8,
+        "amount_of_credit": 22495,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

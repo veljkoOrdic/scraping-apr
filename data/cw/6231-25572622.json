@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:20:49.996Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/kia-niro-16h-gdi-2-dct-euro-6-ss-5dr-3",
+    "dealer_id": "6231",
+    "car_id": "25572622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi Hybrid 2 DCT",
+        "registration_number": "DC73FJU",
+        "registration_date": "24/01/2024",
+        "mileage": 6596,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22499,
+        "total_price": 22499,
+        "deposit": 1999,
+        "balance": 20500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 323.92,
+        "final_payment": 11412.45,
+        "total_amount_payable": 28635.69,
+        "total_charge_for_credit": 6136.69,
+        "amount_of_credit": 20500,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.38,
+        "residual": 11412.45,
+        "price_to_buy": 11412.45
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22499,
+        "total_price": 22499,
+        "deposit": 1999,
+        "balance": 20500,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 514.8,
+        "final_payment": 514.8,
+        "total_amount_payable": 26709.4,
+        "total_charge_for_credit": 4210.4,
+        "amount_of_credit": 20500,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:43:58.970Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autospecuk.co.uk/cars/audi/rs3/2.5-tfsi-audi-sport-edition/1395149/",
+    "dealer_id": "8751",
+    "car_id": "27237904",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SALOON",
+        "derivative": "RS 3 TFSI 400 Quattro Audi Sport Ed S Tronic",
+        "registration_number": "SW69OLU",
+        "registration_date": "31/10/2019",
+        "mileage": 24389,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38495,
+        "total_price": 38495,
+        "deposit": 10,
+        "balance": 38485,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 825.11,
+        "final_payment": 825.11,
+        "total_amount_payable": 49516.6,
+        "total_charge_for_credit": 11021.6,
+        "amount_of_credit": 38485,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38495,
+        "total_price": 38495,
+        "deposit": 10,
+        "balance": 38485,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 54,
+        "regular_payment": 703.36,
+        "final_payment": 13844.01,
+        "total_amount_payable": 51132.09,
+        "total_charge_for_credit": 12637.09,
+        "amount_of_credit": 38485,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 7.93,
+        "residual": 13844.01,
+        "price_to_buy": 13844.01
+      }
+    ]
+  }
+]

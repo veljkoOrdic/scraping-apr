@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:22:09.515Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/audi-s3-20-tfsi-black-edition-sportback-s-tronic-quattro-euro-6-ss-5dr",
+    "dealer_id": "6231",
+    "car_id": "26762957",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "S3 TFSI Black Edition Quattro S Tronic",
+        "registration_number": "DC73BZL",
+        "registration_date": "24/01/2024",
+        "mileage": 4050,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36295,
+        "total_price": 36295,
+        "deposit": 1999,
+        "balance": 34296,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 555.66,
+        "final_payment": 18307.35,
+        "total_amount_payable": 46422.37,
+        "total_charge_for_credit": 10127.37,
+        "amount_of_credit": 34296,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.18,
+        "residual": 18307.35,
+        "price_to_buy": 18307.35
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36295,
+        "total_price": 36295,
+        "deposit": 1999,
+        "balance": 34296,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 861.25,
+        "final_payment": 861.25,
+        "total_amount_payable": 43339,
+        "total_charge_for_credit": 7044,
+        "amount_of_credit": 34296,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

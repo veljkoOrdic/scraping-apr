@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:49:03.079Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.breeze.co.uk/used/volkswagen/id5/pro-performance-77kwh-style/poole/dorset/21380661",
+    "dealer_id": "6543",
+    "car_id": "24949505",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.5",
+        "variant": "COUPE",
+        "derivative": "150kW Style Pro Performance 77kWh",
+        "registration_number": "HF24XCH",
+        "registration_date": "26/03/2024",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 3999,
+        "balance": 25991,
+        "apr": 9.8,
+        "rate_of_interest": 9.81,
+        "term": 49,
+        "regular_payment": 415.25,
+        "final_payment": 13825,
+        "total_amount_payable": 37756,
+        "total_charge_for_credit": 7766,
+        "amount_of_credit": 25991,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 8.24,
+        "residual": 13815,
+        "price_to_buy": 13825
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 3249,
+        "balance": 26741,
+        "apr": 11.2,
+        "rate_of_interest": 11.15,
+        "term": 60,
+        "regular_payment": 576.27,
+        "final_payment": 586.27,
+        "total_amount_payable": 37835.2,
+        "total_charge_for_credit": 7845.2,
+        "amount_of_credit": 26741,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

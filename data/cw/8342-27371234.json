@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:31:18.034Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.arunltd.com/vehicle/aston-martin-vantage-47-v8-amr-coupe-2dr-petrol-sportshift-euro-6-430-bhp-in-west-sussex-3d67f6d3-808c-4d60-b14c-224d7226ca20",
+    "dealer_id": "8342",
+    "car_id": "27371234",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "VANTAGE",
+        "variant": "V8  COUPE SPECIAL EDITIONS",
+        "derivative": "AMR Sportshift II",
+        "registration_number": "X30BLS",
+        "registration_date": "31/05/2018",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1254.12,
+        "final_payment": 1255.12,
+        "total_amount_payable": 81747.7,
+        "total_charge_for_credit": 16752.7,
+        "amount_of_credit": 58495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 37,
+        "regular_payment": 1313.52,
+        "final_payment": 26230.05,
+        "total_amount_payable": 80016.27,
+        "total_charge_for_credit": 15021.27,
+        "amount_of_credit": 58495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 13.71,
+        "residual": 26229.05,
+        "price_to_buy": 26230.05
+      }
+    ]
+  }
+]

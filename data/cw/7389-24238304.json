@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:37:35.705Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/ferrari/488/3-9t-v8-spider-f1-dct-euro-6-s-s-2dr-386",
+    "dealer_id": "7389",
+    "car_id": "24238304",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "488",
+        "variant": "CONVERTIBLE",
+        "derivative": "Spider",
+        "registration_number": "MK18WCN",
+        "registration_date": "30/04/2018",
+        "mileage": 12500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 168950,
+        "total_price": 168950,
+        "deposit": 16895,
+        "balance": 152055,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 3312.99,
+        "final_payment": 67818.33,
+        "total_amount_payable": 200667.98,
+        "total_charge_for_credit": 31717.98,
+        "amount_of_credit": 152055,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 44.22,
+        "residual": 67818.33,
+        "price_to_buy": 67818.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 168950,
+        "total_price": 168950,
+        "deposit": 16895,
+        "balance": 152055,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 3191.89,
+        "final_payment": 3191.89,
+        "total_amount_payable": 208408.4,
+        "total_charge_for_credit": 39458.4,
+        "amount_of_credit": 152055,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

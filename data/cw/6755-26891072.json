@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:46:31.454Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bkgeneralandprestigecars.co.uk/used/cars/land-rover/range-rover-velar/2-0-p250-se-auto-4wd-euro-6-s-s-5dr-711",
+    "dealer_id": "6755",
+    "car_id": "26891072",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "ESTATE",
+        "derivative": "2.0 P250 SE",
+        "registration_number": "GN67PYZ",
+        "registration_date": "22/09/2017",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23795,
+        "total_price": 23795,
+        "deposit": 2379.5,
+        "balance": 21415.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 29,
+        "regular_payment": 463.05,
+        "final_payment": 12771.31,
+        "total_amount_payable": 28116.21,
+        "total_charge_for_credit": 4321.21,
+        "amount_of_credit": 21415.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 24166,
+        "excess_mileage_rate": 6.52,
+        "residual": 12771.31,
+        "price_to_buy": 12771.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23795,
+        "total_price": 23795,
+        "deposit": 2379.5,
+        "balance": 21415.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 459.18,
+        "final_payment": 459.18,
+        "total_amount_payable": 29930.3,
+        "total_charge_for_credit": 6135.3,
+        "amount_of_credit": 21415.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

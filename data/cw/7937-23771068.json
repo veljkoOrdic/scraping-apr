@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:12:21.058Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hshmotorgroup.co.uk/used-cars/honda-eny1-e-204ps-advance-5-door-hatchback-blue/wr73ggk",
+    "dealer_id": "7937",
+    "car_id": "23771068",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "E NY1",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Advance 69kWh",
+        "registration_number": "WR73GGK",
+        "registration_date": "17/10/2023",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32490,
+        "total_price": 32490,
+        "deposit": 9747,
+        "balance": 22743,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 482.28,
+        "final_payment": 12377.5,
+        "total_amount_payable": 39004.3,
+        "total_charge_for_credit": 6514.3,
+        "amount_of_credit": 22743,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 6.15,
+        "residual": 12367.5,
+        "price_to_buy": 12377.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32490,
+        "total_price": 32490,
+        "deposit": 9747,
+        "balance": 22743,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 36,
+        "regular_payment": 757.22,
+        "final_payment": 767.22,
+        "total_amount_payable": 37016.92,
+        "total_charge_for_credit": 4526.92,
+        "amount_of_credit": 22743,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

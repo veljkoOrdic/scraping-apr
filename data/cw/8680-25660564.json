@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:53:32.994Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoaksmotorcompany.co.uk/details/used-car-in-worcester/landrover/discoverysport/2.0-td4-landmark-auto-4wd-euro-6-ss-5dr/1263852/",
+    "dealer_id": "8680",
+    "car_id": "25660564",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY SPORT",
+        "variant": "DIESEL SW",
+        "derivative": "2.0 TD4 180 Landmark",
+        "registration_number": "BP68NBG",
+        "registration_date": "21/12/2018",
+        "mileage": 57000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17895,
+        "total_price": 17895,
+        "deposit": 1789.5,
+        "balance": 16105.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 32,
+        "regular_payment": 375.17,
+        "final_payment": 7832,
+        "total_amount_payable": 21251.77,
+        "total_charge_for_credit": 3356.77,
+        "amount_of_credit": 16105.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 26666,
+        "excess_mileage_rate": 13,
+        "residual": 7832,
+        "price_to_buy": 7832
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17895,
+        "total_price": 17895,
+        "deposit": 1789.5,
+        "balance": 16105.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 345.3,
+        "final_payment": 345.3,
+        "total_amount_payable": 22507.5,
+        "total_charge_for_credit": 4612.5,
+        "amount_of_credit": 16105.5,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

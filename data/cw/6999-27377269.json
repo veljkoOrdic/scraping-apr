@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T15:21:12.902Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autozonepeterborough.co.uk/audi-rs6-avant-4-0-tfsi-v8-carbon-black-tiptronic-quattro-euro-6-s-s-5dr-in-peterborough-cambridgeshire-32d2ef56-b551-4931-b1f6-b29d00d95da8",
+    "dealer_id": "6999",
+    "car_id": "27377269",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Carbon Black Tiptronic",
+        "registration_number": "LY73TVM",
+        "registration_date": "27/12/2023",
+        "mileage": 2500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 91000,
+        "total_price": 91000,
+        "deposit": 9100,
+        "balance": 81900,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1482.06,
+        "final_payment": 40507.06,
+        "total_amount_payable": 119263.88,
+        "total_charge_for_credit": 28263.88,
+        "amount_of_credit": 81900,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 39015,
+        "price_to_buy": 40507.06
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 91000,
+        "total_price": 91000,
+        "deposit": 9100,
+        "balance": 81900,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1792.93,
+        "final_payment": 1802.93,
+        "total_amount_payable": 116685.8,
+        "total_charge_for_credit": 25685.8,
+        "amount_of_credit": 81900,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

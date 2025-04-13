@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:33:55.956Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarport.co.uk/vehicle-details/used-honda-jazz-h-i-mmd-sr-for-sale-u832/",
+    "dealer_id": "9393",
+    "car_id": "27041503",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "JAZZ",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 i-MMD Hybrid SR eCVT",
+        "registration_number": "DY22MYD",
+        "registration_date": "28/03/2022",
+        "mileage": 9000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15980,
+        "total_price": 15980,
+        "deposit": 1598,
+        "balance": 14382,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 321.22,
+        "final_payment": 331.22,
+        "total_amount_payable": 20881.2,
+        "total_charge_for_credit": 4901.2,
+        "amount_of_credit": 14382,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15980,
+        "total_price": 15980,
+        "deposit": 1598,
+        "balance": 14382,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 232.42,
+        "final_payment": 7532.65,
+        "total_amount_payable": 22843.43,
+        "total_charge_for_credit": 6863.43,
+        "amount_of_credit": 14382,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.31,
+        "residual": 7532.65,
+        "price_to_buy": 7532.65
+      }
+    ]
+  }
+]

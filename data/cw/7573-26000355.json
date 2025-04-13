@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:46:12.159Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carlingo.co.uk/used/cars/abarth/595/595-pista-2919",
+    "dealer_id": "7573",
+    "car_id": "26000355",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Abarth",
+        "model": "595",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "1.4 T-Jet 160 Trofeo",
+        "registration_number": "GL20DYX",
+        "registration_date": "17/07/2020",
+        "mileage": 27325,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 1200,
+        "balance": 10800,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 213.6,
+        "final_payment": 4261.08,
+        "total_amount_payable": 15500.28,
+        "total_charge_for_credit": 3500.28,
+        "amount_of_credit": 10800,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.73,
+        "residual": 4261.08,
+        "price_to_buy": 4261.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 1200,
+        "balance": 10800,
+        "apr": 11.9,
+        "rate_of_interest": 11.27,
+        "term": 60,
+        "regular_payment": 236.42,
+        "final_payment": 236.42,
+        "total_amount_payable": 15385.2,
+        "total_charge_for_credit": 3385.2,
+        "amount_of_credit": 10800,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

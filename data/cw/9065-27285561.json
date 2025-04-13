@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:30:20.254Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carhubnewport.co.uk/details/used-car-in-newport/volkswagen/golf/2.0-tsi-r-dsg-4motion-euro-6-ss-5dr/1400323/",
+    "dealer_id": "9065",
+    "car_id": "27285561",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 300 R 4MOTION DSG",
+        "registration_number": "FN20EKG",
+        "registration_date": "02/03/2020",
+        "mileage": 58584,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 15.9,
+        "rate_of_interest": 15.9,
+        "term": 58,
+        "regular_payment": 439.43,
+        "final_payment": 5630.23,
+        "total_amount_payable": 32972.74,
+        "total_charge_for_credit": 10022.74,
+        "amount_of_credit": 20655,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 48333,
+        "excess_mileage_rate": 5.62,
+        "residual": 5629.23,
+        "price_to_buy": 5630.23
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 470.86,
+        "final_payment": 471.86,
+        "total_amount_payable": 30547.6,
+        "total_charge_for_credit": 7597.6,
+        "amount_of_credit": 20655,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

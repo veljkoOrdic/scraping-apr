@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:52:51.896Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tgmcars.co.uk/used-skoda-superb-darlington-county-durham-6472979",
+    "dealer_id": "8767",
+    "car_id": "26194167",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "SUPERB",
+        "variant": "ESTATE",
+        "derivative": "2.0 TSI 280 Sport Line 4X4 DSG",
+        "registration_number": "YJ18BUP",
+        "registration_date": "01/06/2018",
+        "mileage": 35754,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299,
+        "balance": 20696,
+        "apr": 15.3,
+        "rate_of_interest": 15.3,
+        "term": 26,
+        "regular_payment": 651.43,
+        "final_payment": 9103,
+        "total_amount_payable": 27687.75,
+        "total_charge_for_credit": 4692.75,
+        "amount_of_credit": 20696,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 16,
+        "residual": 9093,
+        "price_to_buy": 9103
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299,
+        "balance": 20696,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 453.07,
+        "final_payment": 453.07,
+        "total_amount_payable": 29483.2,
+        "total_charge_for_credit": 6488.2,
+        "amount_of_credit": 20696,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

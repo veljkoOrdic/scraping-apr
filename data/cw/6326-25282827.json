@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:56:18.002Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.charltonsofboroughbridge.co.uk/vehicle/ford-puma-10t-ecoboost-titanium-dct-euro-6-ss-5dr-in-north-yorkshire-c6a1ec85-015d-4dfb-a750-b1cb00c25593",
+    "dealer_id": "6326",
+    "car_id": "25282827",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Titanium",
+        "registration_number": "SD21WHC",
+        "registration_date": "26/04/2021",
+        "mileage": 18000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15795,
+        "total_price": 15795,
+        "deposit": 1579.5,
+        "balance": 14215.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 245.57,
+        "final_payment": 7544,
+        "total_amount_payable": 20910.86,
+        "total_charge_for_credit": 5115.86,
+        "amount_of_credit": 14215.5,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 7544,
+        "price_to_buy": 7544
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15795,
+        "total_price": 15795,
+        "deposit": 1579.5,
+        "balance": 14215.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 369.46,
+        "final_payment": 369.46,
+        "total_amount_payable": 19313.58,
+        "total_charge_for_credit": 3518.58,
+        "amount_of_credit": 14215.5,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

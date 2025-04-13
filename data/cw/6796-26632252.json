@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:13:43.890Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/bmw-x1-20-m35i-dct-xdrive-euro-6-ss-5dr-in-west-midlands-1b5401ae-2ded-48b5-b676-b254011c8bf1",
+    "dealer_id": "6796",
+    "car_id": "26632252",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X1",
+        "variant": "",
+        "derivative": "X1 M35i xDrive",
+        "registration_number": "BD74JZC",
+        "registration_date": "30/10/2024",
+        "mileage": 100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 754.11,
+        "final_payment": 20449,
+        "total_amount_payable": 61646.18,
+        "total_charge_for_credit": 11647.18,
+        "amount_of_credit": 44999.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.75,
+        "residual": 20449,
+        "price_to_buy": 20449
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 1110.33,
+        "final_payment": 1111.33,
+        "total_amount_payable": 58296.74,
+        "total_charge_for_credit": 8297.74,
+        "amount_of_credit": 44999.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

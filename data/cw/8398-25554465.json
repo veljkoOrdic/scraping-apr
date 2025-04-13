@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:07:31.449Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carjoy.uk/used-bmw-3-series-aberdeen-aberdeenshire-6319058",
+    "dealer_id": "8398",
+    "car_id": "25554465",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "320i M Sport Saloon",
+        "registration_number": "YF73RSU",
+        "registration_date": "31/10/2023",
+        "mileage": 12106,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099,
+        "balance": 27896,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 468.81,
+        "final_payment": 13568,
+        "total_amount_payable": 39169.88,
+        "total_charge_for_credit": 8174.88,
+        "amount_of_credit": 27896,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 13558,
+        "price_to_buy": 13568
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099,
+        "balance": 27896,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 700.53,
+        "final_payment": 700.53,
+        "total_amount_payable": 36724.44,
+        "total_charge_for_credit": 5729.44,
+        "amount_of_credit": 27896,
+        "lender": "Motor Finance Scotland Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

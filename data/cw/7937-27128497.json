@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:12:27.971Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hshmotorgroup.co.uk/used-cars/honda-cr-v-2-0-i-mmd-184ps-awd-advance-hybrid-ecvt-5-door-estate-white/rv24hwl",
+    "dealer_id": "7937",
+    "car_id": "27128497",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CR-V",
+        "variant": "ESTATE",
+        "derivative": "2.0 eHEV Advance eCVT",
+        "registration_number": "RV24HWL",
+        "registration_date": "13/03/2024",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37460,
+        "total_price": 37460,
+        "deposit": 11238,
+        "balance": 26222,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 421.02,
+        "final_payment": 19967.5,
+        "total_amount_payable": 45941.2,
+        "total_charge_for_credit": 8481.2,
+        "amount_of_credit": 26222,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 10.58,
+        "residual": 19957.5,
+        "price_to_buy": 19967.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37460,
+        "total_price": 37460,
+        "deposit": 11238,
+        "balance": 26222,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 36,
+        "regular_payment": 873.05,
+        "final_payment": 883.05,
+        "total_amount_payable": 42677.8,
+        "total_charge_for_credit": 5217.8,
+        "amount_of_credit": 26222,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

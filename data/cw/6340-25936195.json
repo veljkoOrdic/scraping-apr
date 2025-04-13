@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:02:38.717Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.audi-technik.com/vehicle-details/used-porsche-macan-t-v6-s-for-sale-in-glasgow-u1321/",
+    "dealer_id": "6340",
+    "car_id": "25936195",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "G14ATC",
+        "registration_date": "27/05/2020",
+        "mileage": 29200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42481,
+        "total_price": 42481,
+        "deposit": 4248.1,
+        "balance": 38232.9,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 48,
+        "regular_payment": 656.89,
+        "final_payment": 18920.64,
+        "total_amount_payable": 54042.57,
+        "total_charge_for_credit": 11561.57,
+        "amount_of_credit": 38232.9,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 18253.75,
+        "price_to_buy": 18920.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42481,
+        "total_price": 42481,
+        "deposit": 4248.1,
+        "balance": 38232.9,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 48,
+        "regular_payment": 968.25,
+        "final_payment": 978.25,
+        "total_amount_payable": 50734.1,
+        "total_charge_for_credit": 8253.1,
+        "amount_of_credit": 38232.9,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

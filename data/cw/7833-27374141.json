@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:35:52.694Z",
+    "source": "codeweavers_calculator",
+    "url": "http://www.drakesgarage.co.uk/used/renault/scenic-e-tech/160kw-iconic-87kwh-long-range-5dr-auto/york/north-yorkshire/21559692",
+    "dealer_id": "7833",
+    "car_id": "27374141",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "SCENIC E-TECH",
+        "variant": "ELECTRIC ESTATE",
+        "derivative": "160kW Iconic 87kWh Long Range",
+        "registration_number": "HT73XPC",
+        "registration_date": "06/02/2024",
+        "mileage": 8884,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35490,
+        "total_price": 35490,
+        "deposit": 3549,
+        "balance": 31941,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 829.97,
+        "final_payment": 839.97,
+        "total_amount_payable": 43397.56,
+        "total_charge_for_credit": 7907.56,
+        "amount_of_credit": 31941,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35490,
+        "total_price": 35490,
+        "deposit": 3549,
+        "balance": 31941,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 579.27,
+        "final_payment": 15713.5,
+        "total_amount_payable": 46488.19,
+        "total_charge_for_credit": 10998.19,
+        "amount_of_credit": 31941,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.11,
+        "residual": 15713.5,
+        "price_to_buy": 15713.5
+      }
+    ]
+  }
+]

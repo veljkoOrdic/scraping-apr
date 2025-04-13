@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:32:32.419Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pearsoncars.com/pre-owned/suzuki-s-cross-1-4-b-jet-ultra-all-grip-kx73tvk",
+    "dealer_id": "7807",
+    "car_id": "27593239",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 Boosterjet 48V Hybrid Ultra ALLGRIP",
+        "registration_number": "KX73TVK",
+        "registration_date": "01/03/2023",
+        "mileage": 7493,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23885,
+        "total_price": 23885,
+        "deposit": 2388.5,
+        "balance": 21496.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 539.83,
+        "final_payment": 539.83,
+        "total_amount_payable": 28300.34,
+        "total_charge_for_credit": 4415.34,
+        "amount_of_credit": 21496.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23885,
+        "total_price": 23885,
+        "deposit": 2388.5,
+        "balance": 21496.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 406.42,
+        "final_payment": 8156,
+        "total_amount_payable": 29646.24,
+        "total_charge_for_credit": 5761.24,
+        "amount_of_credit": 21496.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 8146,
+        "price_to_buy": 8156
+      }
+    ]
+  }
+]

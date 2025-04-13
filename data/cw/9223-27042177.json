@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:52:49.545Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aceprestigeautos.co.uk/used-audi-q7-leeds-west-yorkshire-6685974",
+    "dealer_id": "9223",
+    "car_id": "27042177",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro S Line Tiptronic",
+        "registration_number": "MC68ZHH",
+        "registration_date": "24/01/2019",
+        "mileage": 69911,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26295,
+        "total_price": 26295,
+        "deposit": 2629,
+        "balance": 23666,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 45,
+        "regular_payment": 429.97,
+        "final_payment": 11023.32,
+        "total_amount_payable": 32571,
+        "total_charge_for_credit": 6276,
+        "amount_of_credit": 23666,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 6.53,
+        "residual": 11023.32,
+        "price_to_buy": 11023.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26295,
+        "total_price": 26295,
+        "deposit": 2629,
+        "balance": 23666,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 496.79,
+        "final_payment": 496.79,
+        "total_amount_payable": 32436.4,
+        "total_charge_for_credit": 6141.4,
+        "amount_of_credit": 23666,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

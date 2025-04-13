@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:22:28.180Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.avon-automotive.com/details/used-car-in-bristol/nissan/qashqai/1.5-dci-n-connecta-euro-6-ss-5dr/1393671/",
+    "dealer_id": "9015",
+    "car_id": "27217782",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.5 dCi 115 N-Connecta",
+        "registration_number": "HG68JSZ",
+        "registration_date": "21/11/2018",
+        "mileage": 61320,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10749,
+        "total_price": 10749,
+        "deposit": 1074.9,
+        "balance": 9674.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 43,
+        "regular_payment": 191.18,
+        "final_payment": 4297.95,
+        "total_amount_payable": 13402.41,
+        "total_charge_for_credit": 2653.41,
+        "amount_of_credit": 9674.1,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 2.83,
+        "residual": 4297.95,
+        "price_to_buy": 4297.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10749,
+        "total_price": 10749,
+        "deposit": 1074.9,
+        "balance": 9674.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 207.41,
+        "final_payment": 207.41,
+        "total_amount_payable": 13519.5,
+        "total_charge_for_credit": 2770.5,
+        "amount_of_credit": 9674.1,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

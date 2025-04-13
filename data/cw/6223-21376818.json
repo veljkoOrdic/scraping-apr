@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-04-11T17:00:09.058Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkcmotors.co.uk/details/used-car-in-worksop/mercedes-benz/amggt/4.0-v8-biturbo-premium-spds-dct-euro-6-ss-2dr/958061/",
+    "dealer_id": "6223",
+    "car_id": "21376818",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "AMG GT",
+        "variant": "COUPE",
+        "derivative": "GT 476 Premium",
+        "registration_number": "FH17FCU",
+        "registration_date": "07/07/2017",
+        "mileage": 22073,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57900,
+        "total_price": 57900,
+        "deposit": 5790,
+        "balance": 52110,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1093.88,
+        "final_payment": 1094.88,
+        "total_amount_payable": 71423.8,
+        "total_charge_for_credit": 13523.8,
+        "amount_of_credit": 52110,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp_santander",
+        "name": "HP_SANTANDER",
+        "finance_type": "Conditional Sale",
+        "cash_price": 57900,
+        "total_price": 57900,
+        "deposit": 5790,
+        "balance": 52110,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 1152.49,
+        "final_payment": 1152.49,
+        "total_amount_payable": 74939.4,
+        "total_charge_for_credit": 17039.4,
+        "amount_of_credit": 52110,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 57900,
+        "total_price": 57900,
+        "deposit": 5790,
+        "balance": 52110,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 772,
+        "final_payment": 31943.43,
+        "total_amount_payable": 74017.43,
+        "total_charge_for_credit": 16117.43,
+        "amount_of_credit": 52110,
+        "lender": "Evolution Funding"
+      }
+    ]
+  }
+]

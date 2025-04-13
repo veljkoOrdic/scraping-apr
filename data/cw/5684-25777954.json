@@ -62,5 +62,69 @@
         "price_to_buy": 9801.4
       }
     ]
+  },
+  {
+    "timestamp": "2025-04-12T12:22:18.560Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.halliwelljones.co.uk/vehicle-details/mini-countryman-2-0-cooper-s-classic-steptronic-euro-6-s-s-5dr-ro70cpy-2",
+    "dealer_id": "5684",
+    "car_id": "25777954",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "Countryman",
+        "variant": "",
+        "derivative": "Countryman Cooper S Classic",
+        "registration_number": "RO70CPY",
+        "registration_date": "25/09/2020",
+        "mileage": 16078,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20678,
+        "total_price": 20678,
+        "deposit": 3501.7,
+        "balance": 17176.3,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 446.39,
+        "final_payment": 447.39,
+        "total_amount_payable": 24929.42,
+        "total_charge_for_credit": 4251.42,
+        "amount_of_credit": 17176.3,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20678,
+        "total_price": 20678,
+        "deposit": 3501.7,
+        "balance": 17176.3,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 288.5,
+        "final_payment": 9814.76,
+        "total_amount_payable": 26875.96,
+        "total_charge_for_credit": 6197.96,
+        "amount_of_credit": 17176.3,
+        "lender": "MINI Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 5.44,
+        "residual": 9814.76,
+        "price_to_buy": 9814.76
+      }
+    ]
   }
 ]

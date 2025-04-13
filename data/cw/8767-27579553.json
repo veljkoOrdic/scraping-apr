@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:53:27.307Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tgmcars.co.uk/used-land-rover-defender-darlington-county-durham-6826024",
+    "dealer_id": "8767",
+    "car_id": "27579553",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D240 SE 110",
+        "registration_number": "SL20OAC",
+        "registration_date": "03/06/2020",
+        "mileage": 60778,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42495,
+        "total_price": 42495,
+        "deposit": 4249,
+        "balance": 38246,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 60,
+        "regular_payment": 721.12,
+        "final_payment": 13048.44,
+        "total_amount_payable": 59843.52,
+        "total_charge_for_credit": 17348.52,
+        "amount_of_credit": 38246,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.51,
+        "residual": 13048.44,
+        "price_to_buy": 13048.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42495,
+        "total_price": 42495,
+        "deposit": 4249,
+        "balance": 38246,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 837.27,
+        "final_payment": 837.27,
+        "total_amount_payable": 54485.2,
+        "total_charge_for_credit": 11990.2,
+        "amount_of_credit": 38246,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:13:29.860Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/volkswagen-golf-20-tsi-r-20-years-dsg-4motion-euro-6-ss-5dr-in-west-midlands-4ba9bbbc-6504-4804-893c-b2af01274916",
+    "dealer_id": "6796",
+    "car_id": "27612610",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "2.0 TSI 333 R 20 Years 4Motion DSG",
+        "registration_number": "LD24EKK",
+        "registration_date": "28/03/2024",
+        "mileage": 4000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44999,
+        "total_price": 44999,
+        "deposit": 4499.9,
+        "balance": 40499.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 671.89,
+        "final_payment": 19334,
+        "total_amount_payable": 55412.73,
+        "total_charge_for_credit": 10413.73,
+        "amount_of_credit": 40499.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.98,
+        "residual": 19324,
+        "price_to_buy": 19334
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44999,
+        "total_price": 44999,
+        "deposit": 4499.9,
+        "balance": 40499.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 999.29,
+        "final_payment": 1000.29,
+        "total_amount_payable": 52466.82,
+        "total_charge_for_credit": 7467.82,
+        "amount_of_credit": 40499.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

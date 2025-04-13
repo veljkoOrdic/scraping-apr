@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:51:25.040Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walkersmotorgroup.co.uk/used-cars/toyota/aygo-x/10-vvt-i-exclusive-euro-6-ss-5dr/yt22fku",
+    "dealer_id": "6211",
+    "car_id": "26016759",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "AYGO X",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 VVT-i Exclusive",
+        "registration_number": "YT22FKU",
+        "registration_date": "03/05/2022",
+        "mileage": 5486,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13650,
+        "total_price": 13650,
+        "deposit": 2047.5,
+        "balance": 11602.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 186.33,
+        "final_payment": 6705.73,
+        "total_amount_payable": 17510.74,
+        "total_charge_for_credit": 3860.74,
+        "amount_of_credit": 11602.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.14,
+        "residual": 6705.73,
+        "price_to_buy": 6705.73
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13650,
+        "total_price": 13650,
+        "deposit": 2047.5,
+        "balance": 11602.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 296.25,
+        "final_payment": 306.25,
+        "total_amount_payable": 16277.5,
+        "total_charge_for_credit": 2627.5,
+        "amount_of_credit": 11602.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

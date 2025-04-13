@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:18:50.433Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/porsche-911-40-992-gt3-rs-pdk-euro-6-ss-2dr-in-west-midlands-0aed2085-329c-408b-9fb8-b20301610d2c",
+    "dealer_id": "6796",
+    "car_id": "27213449",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] GT COUPE",
+        "derivative": "GT3 RS PDK",
+        "registration_number": "VN73FFW",
+        "registration_date": "09/12/2023",
+        "mileage": 3650,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 274999,
+        "total_price": 274999,
+        "deposit": 74999,
+        "balance": 200000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 3288.95,
+        "final_payment": 103989.08,
+        "total_amount_payable": 333568.73,
+        "total_charge_for_credit": 58569.73,
+        "amount_of_credit": 200000,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 66.69,
+        "residual": 103988.08,
+        "price_to_buy": 103989.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 274999,
+        "total_price": 274999,
+        "deposit": 154999,
+        "balance": 120000,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 2960.97,
+        "final_payment": 2961.97,
+        "total_amount_payable": 297126.56,
+        "total_charge_for_credit": 22127.56,
+        "amount_of_credit": 120000,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:09:48.822Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.floramotors.com/used/ford/kuga/20-ecoblue-mhev-st-line-x-5dr/helston/cornwall/21515690",
+    "dealer_id": "8709",
+    "car_id": "26732462",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue mHEV ST-Line X",
+        "registration_number": "WK70WYD",
+        "registration_date": "04/11/2020",
+        "mileage": 25934,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19499,
+        "total_price": 19499,
+        "deposit": 3899.8,
+        "balance": 15599.2,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 405.42,
+        "final_payment": 405.42,
+        "total_amount_payable": 23359.96,
+        "total_charge_for_credit": 3860.96,
+        "amount_of_credit": 15599.2,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19499,
+        "total_price": 19499,
+        "deposit": 3899.8,
+        "balance": 15599.2,
+        "apr": 11.9,
+        "rate_of_interest": 8.37,
+        "term": 48,
+        "regular_payment": 295.06,
+        "final_payment": 6952.5,
+        "total_amount_payable": 24720.12,
+        "total_charge_for_credit": 5221.12,
+        "amount_of_credit": 15599.2,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6952.5,
+        "price_to_buy": 6952.5
+      }
+    ]
+  }
+]

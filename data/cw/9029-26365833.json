@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T21:23:15.301Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chrender.co.uk/used-vauxhall-corsa-york-yorkshire-6505109",
+    "dealer_id": "9029",
+    "car_id": "26365833",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo Ultimate",
+        "registration_number": "AX23TVP",
+        "registration_date": "21/08/2023",
+        "mileage": 5177,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17899,
+        "total_price": 17899,
+        "deposit": 4474,
+        "balance": 13425,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 287.74,
+        "final_payment": 297.74,
+        "total_amount_payable": 21748.4,
+        "total_charge_for_credit": 3849.4,
+        "amount_of_credit": 13425,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17899,
+        "total_price": 17899,
+        "deposit": 4474,
+        "balance": 13425,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 217.22,
+        "final_payment": 7664.72,
+        "total_amount_payable": 22348.06,
+        "total_charge_for_credit": 4449.06,
+        "amount_of_credit": 13425,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 7437.5,
+        "price_to_buy": 7664.72
+      }
+    ]
+  }
+]

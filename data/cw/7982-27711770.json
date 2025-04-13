@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:45:34.863Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.junction6motors.co.uk/used/cars/audi/rs3/2-5-tfsi-s-tronic-quattro-euro-6-s-s-4dr-213",
+    "dealer_id": "7982",
+    "car_id": "27711770",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SALOON",
+        "derivative": "2.5 TFSI RS 3 Quattro S Tronic",
+        "registration_number": "X12FYY",
+        "registration_date": "27/07/2018",
+        "mileage": 36899,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 27,
+        "regular_payment": 758.71,
+        "final_payment": 18114,
+        "total_amount_payable": 41289.96,
+        "total_charge_for_credit": 6794.96,
+        "amount_of_credit": 31045.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 22500,
+        "excess_mileage_rate": 26,
+        "residual": 18114,
+        "price_to_buy": 18114
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34495,
+        "total_price": 34495,
+        "deposit": 3449.5,
+        "balance": 31045.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 637.73,
+        "final_payment": 637.73,
+        "total_amount_payable": 41713.3,
+        "total_charge_for_credit": 7218.3,
+        "amount_of_credit": 31045.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

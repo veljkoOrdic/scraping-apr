@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:23:57.641Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ancamotorgroup.co.uk/used-car-details/used-suzuki-sx4-s-cross-14-boosterjet-mhev-sz4-euro-6-suv-blue-manual-petrol-hybrid/id-202410285667175/",
+    "dealer_id": "6112",
+    "car_id": "26074171",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SX4 S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 Boosterjet 48V Hybrid SZ4",
+        "registration_number": "LN71MKV",
+        "registration_date": "12/10/2021",
+        "mileage": 21000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1300,
+        "balance": 11699,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 49,
+        "regular_payment": 288.86,
+        "final_payment": 288.86,
+        "total_amount_payable": 15454.14,
+        "total_charge_for_credit": 2455.14,
+        "amount_of_credit": 11699,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1300,
+        "balance": 11699,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 49,
+        "regular_payment": 201.22,
+        "final_payment": 5420,
+        "total_amount_payable": 16378.56,
+        "total_charge_for_credit": 3379.56,
+        "amount_of_credit": 11699,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 4.8,
+        "residual": 5410,
+        "price_to_buy": 5420
+      }
+    ]
+  }
+]

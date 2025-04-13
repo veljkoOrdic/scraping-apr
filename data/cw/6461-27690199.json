@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:00:49.186Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.browningsuzuki.co.uk/used/cars/suzuki/jimny/sz5-544",
+    "dealer_id": "6461",
+    "car_id": "27690199",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "JIMNY",
+        "variant": "ESTATE",
+        "derivative": "1.5 SZ5 ALLGRIP",
+        "registration_number": "FA19XNS",
+        "registration_date": "08/07/2019",
+        "mileage": 7948,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31983,
+        "total_price": 31983,
+        "deposit": 6396.6,
+        "balance": 25586.4,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 509.43,
+        "final_payment": 11663.71,
+        "total_amount_payable": 42003.52,
+        "total_charge_for_credit": 10020.52,
+        "amount_of_credit": 25586.4,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 6.15,
+        "residual": 11663.71,
+        "price_to_buy": 11663.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31983,
+        "total_price": 31983,
+        "deposit": 6396.6,
+        "balance": 25586.4,
+        "apr": 8.4,
+        "rate_of_interest": 8.07,
+        "term": 48,
+        "regular_payment": 625.76,
+        "final_payment": 625.76,
+        "total_amount_payable": 36433.08,
+        "total_charge_for_credit": 4450.08,
+        "amount_of_credit": 25586.4,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

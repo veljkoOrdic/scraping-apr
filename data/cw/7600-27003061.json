@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:55:54.455Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lancashiretrade.co.uk/details/car-in-greater-manchester/bmw/3series/2.0-318d-m-sport-shadow-edition-touring-auto-euro-6-ss-5dr/1374716/",
+    "dealer_id": "7600",
+    "car_id": "27003061",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "318d M Sport Shadow Edition Touring",
+        "registration_number": "YB19AHY",
+        "registration_date": "26/04/2019",
+        "mileage": 67000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 327.35,
+        "final_payment": 7055,
+        "total_amount_payable": 20211.25,
+        "total_charge_for_credit": 3221.25,
+        "amount_of_credit": 15291,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 13,
+        "residual": 7045,
+        "price_to_buy": 7055
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 10.9,
+        "rate_of_interest": 10.87,
+        "term": 48,
+        "regular_payment": 390.52,
+        "final_payment": 400.52,
+        "total_amount_payable": 20453.96,
+        "total_charge_for_credit": 3463.96,
+        "amount_of_credit": 15291,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

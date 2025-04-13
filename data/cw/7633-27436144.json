@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:25:49.845Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.selectmotorsgb.co.uk/details/used-car-in-kingsbury/fiat/500/1.2-pop-euro-6-ss-3dr/1411845/",
+    "dealer_id": "7633",
+    "car_id": "27436144",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Pop",
+        "registration_number": "GN18ONV",
+        "registration_date": "14/03/2018",
+        "mileage": 61000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 4989,
+        "total_price": 4989,
+        "deposit": 498.9,
+        "balance": 4490.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.89,
+        "term": 35,
+        "regular_payment": 107.86,
+        "final_payment": 1791.96,
+        "total_amount_payable": 5958.1,
+        "total_charge_for_credit": 969.1,
+        "amount_of_credit": 4490.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 29166,
+        "excess_mileage_rate": 1.37,
+        "residual": 1790.96,
+        "price_to_buy": 1791.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4989,
+        "total_price": 4989,
+        "deposit": 498.9,
+        "balance": 4490.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 96.25,
+        "final_payment": 97.25,
+        "total_amount_payable": 6274.9,
+        "total_charge_for_credit": 1285.9,
+        "amount_of_credit": 4490.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:40:33.202Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rs-vehiclesales.co.uk/cars/jaguar/f-pace/5.0-p550-v8-svr/1398445/",
+    "dealer_id": "8646",
+    "car_id": "27271874",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-PACE",
+        "variant": "ESTATE",
+        "derivative": "5.0 V8 550 SVR [Panoramic roof]",
+        "registration_number": "MC23CFC",
+        "registration_date": "15/06/2023",
+        "mileage": 22500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 5999.5,
+        "balance": 53995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 856.31,
+        "final_payment": 29259,
+        "total_amount_payable": 76361.38,
+        "total_charge_for_credit": 16366.38,
+        "amount_of_credit": 53995.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 29249,
+        "price_to_buy": 29259
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 5999.5,
+        "balance": 53995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1133.46,
+        "final_payment": 1143.46,
+        "total_amount_payable": 74017.1,
+        "total_charge_for_credit": 14022.1,
+        "amount_of_credit": 53995.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

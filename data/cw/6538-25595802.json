@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:40:57.702Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadoakmotorgroup.co.uk/used-car-details/used-volkswagen-t-cross-15-tsi-150ps-r-line-dsg-estate-deep-black-automatic-petrol/id-31297117411154/",
+    "dealer_id": "6538",
+    "car_id": "25595802",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "T-CROSS",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI EVO R-Line DSG",
+        "registration_number": "GK74KOD",
+        "registration_date": "03/09/2024",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27989,
+        "total_price": 27989,
+        "deposit": 7247,
+        "balance": 20742,
+        "apr": 11.2,
+        "rate_of_interest": 11.14,
+        "term": 60,
+        "regular_payment": 446.99,
+        "final_payment": 456.99,
+        "total_amount_payable": 34076.4,
+        "total_charge_for_credit": 6087.4,
+        "amount_of_credit": 20742,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27989,
+        "total_price": 27989,
+        "deposit": 7247,
+        "balance": 20742,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 49,
+        "regular_payment": 332.43,
+        "final_payment": 12137.5,
+        "total_amount_payable": 35341.14,
+        "total_charge_for_credit": 7352.14,
+        "amount_of_credit": 20742,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 6,
+        "residual": 12127.5,
+        "price_to_buy": 12137.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:04:06.146Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cameronsportscars.com/vehicle-details/used-porsche-911-992-carrera-4s-pdk-coupe-for-sale-in-chippenham-south-gloucestershire-u1811/",
+    "dealer_id": "8603",
+    "car_id": "27094269",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA 4 COUPE",
+        "derivative": "S PDK",
+        "registration_number": "WV19OGZ",
+        "registration_date": "23/04/2019",
+        "mileage": 29500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79990,
+        "total_price": 79990,
+        "deposit": 7999,
+        "balance": 71991,
+        "apr": 10.8,
+        "rate_of_interest": 10.8,
+        "term": 48,
+        "regular_payment": 1298.36,
+        "final_payment": 33082.09,
+        "total_amount_payable": 102104.01,
+        "total_charge_for_credit": 22114.01,
+        "amount_of_credit": 71991,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 20.53,
+        "residual": 33081.09,
+        "price_to_buy": 33082.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79990,
+        "total_price": 79990,
+        "deposit": 7999,
+        "balance": 71991,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 1511.15,
+        "final_payment": 1511.15,
+        "total_amount_payable": 98668,
+        "total_charge_for_credit": 18678,
+        "amount_of_credit": 71991,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

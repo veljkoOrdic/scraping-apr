@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:25:11.800Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/porsche-911-30t-992-carrera-4-pdk-4wd-euro-6-ss-2dr",
+    "dealer_id": "6231",
+    "car_id": "27346620",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA 4 CABRIOLET",
+        "derivative": "2dr PDK",
+        "registration_number": "LL70FKP",
+        "registration_date": "23/12/2020",
+        "mileage": 11295,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 86795,
+        "total_price": 86795,
+        "deposit": 1999,
+        "balance": 84796,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1418.25,
+        "final_payment": 42730.42,
+        "total_amount_payable": 111387.17,
+        "total_charge_for_credit": 24592.17,
+        "amount_of_credit": 84796,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 25.11,
+        "residual": 42730.42,
+        "price_to_buy": 42730.42
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 86795,
+        "total_price": 86795,
+        "deposit": 1999,
+        "balance": 84796,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2129.42,
+        "final_payment": 2129.42,
+        "total_amount_payable": 104211.16,
+        "total_charge_for_credit": 17416.16,
+        "amount_of_credit": 84796,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

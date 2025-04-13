@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:42.543Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richardsanders.co.uk/used-car-details/used-peugeot-e-308-gt-hatchback-white-automatic-electric/id-6685/",
+    "dealer_id": "7283",
+    "car_id": "23701598",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "308",
+        "variant": "E- ELECTRIC HATCHBACK",
+        "derivative": "115kW GT 54kWh",
+        "registration_number": "KS73OKE",
+        "registration_date": "31/10/2023",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2650,
+        "balance": 23845,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 421.35,
+        "final_payment": 8486.37,
+        "total_amount_payable": 35996.02,
+        "total_charge_for_credit": 9501.02,
+        "amount_of_credit": 23845,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 6.6,
+        "residual": 8486.37,
+        "price_to_buy": 8486.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2650,
+        "balance": 23845,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 521.98,
+        "final_payment": 521.98,
+        "total_amount_payable": 33968.8,
+        "total_charge_for_credit": 7473.8,
+        "amount_of_credit": 23845,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

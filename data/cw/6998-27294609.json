@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:19:02.834Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.huntermotorgroup.co.uk/vehicle/porsche-macan-t-semi-auto-4wd-in-billericay-essex-d268a82b-2fc6-469a-b7ba-b2960121c5e3",
+    "dealer_id": "6998",
+    "car_id": "27294609",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "Turbo PDK",
+        "registration_number": "PL69YOM",
+        "registration_date": "06/11/2019",
+        "mileage": 52000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 54,
+        "regular_payment": 674.82,
+        "final_payment": 19136.6,
+        "total_amount_payable": 59301.56,
+        "total_charge_for_credit": 15306.56,
+        "amount_of_credit": 39595.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 12.24,
+        "residual": 19135.6,
+        "price_to_buy": 19136.6
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 813.42,
+        "final_payment": 814.42,
+        "total_amount_payable": 53205.7,
+        "total_charge_for_credit": 9210.7,
+        "amount_of_credit": 39595.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

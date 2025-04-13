@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T23:40:02.856Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-jaguar-f-pace-oldham-greater-manchester-6554590",
+    "dealer_id": "6862",
+    "car_id": "26527851",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-PACE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0d R-Sport",
+        "registration_number": "GN68YFV",
+        "registration_date": "14/09/2018",
+        "mileage": 55000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20449,
+        "total_price": 20449,
+        "deposit": 2044,
+        "balance": 18405,
+        "apr": 10.9,
+        "rate_of_interest": 5.63,
+        "term": 41,
+        "regular_payment": 407.67,
+        "final_payment": 6655.92,
+        "total_amount_payable": 25006.72,
+        "total_charge_for_credit": 4557.72,
+        "amount_of_credit": 18405,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 34166,
+        "excess_mileage_rate": 4.2,
+        "residual": 6655.92,
+        "price_to_buy": 6655.92
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20449,
+        "total_price": 20449,
+        "deposit": 2044,
+        "balance": 18405,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 394.6,
+        "final_payment": 394.6,
+        "total_amount_payable": 25720,
+        "total_charge_for_credit": 5271,
+        "amount_of_credit": 18405,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

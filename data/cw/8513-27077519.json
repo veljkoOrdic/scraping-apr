@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:06:04.901Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dreamspec.co.uk/vehicle/nissan-navara-23-dci-tekna-auto-4wd-euro-6-4dr-in-cardiff-glamorgan-fbaea040-c7fd-4ebe-b48f-b28201056e32",
+    "dealer_id": "8513",
+    "car_id": "27077519",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "NAVARA",
+        "variant": "DIESEL",
+        "derivative": "Double Cab Pick Up Tekna 2.3dCi 190 TT",
+        "registration_number": "YA21ECB",
+        "registration_date": "25/06/2021",
+        "mileage": 134639,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17148,
+        "total_price": 17148,
+        "deposit": 4287,
+        "balance": 12861,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 257.09,
+        "final_payment": 3856,
+        "total_amount_payable": 20483.32,
+        "total_charge_for_credit": 3335.32,
+        "amount_of_credit": 12861,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 3846,
+        "price_to_buy": 3856
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17148,
+        "total_price": 17148,
+        "deposit": 4287,
+        "balance": 12861,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 269.83,
+        "final_payment": 279.83,
+        "total_amount_payable": 20486.8,
+        "total_charge_for_credit": 3338.8,
+        "amount_of_credit": 12861,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

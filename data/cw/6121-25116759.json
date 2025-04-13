@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T16:33:35.691Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fcrosscars.co.uk/used-cars/doncaster-south-yorkshire-ford-focus-st-line-x-5426/",
+    "dealer_id": "6121",
+    "car_id": "25116759",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 ST-Line X",
+        "registration_number": "NL63RAW",
+        "registration_date": "26/08/2021",
+        "mileage": 3464,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19295,
+        "total_price": 19295,
+        "deposit": 1929.5,
+        "balance": 17365.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 365.35,
+        "final_payment": 6410.35,
+        "total_amount_payable": 25511.3,
+        "total_charge_for_credit": 6216.3,
+        "amount_of_credit": 17365.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 6035,
+        "price_to_buy": 6410.35
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19295,
+        "total_price": 19295,
+        "deposit": 1929.5,
+        "balance": 17365.5,
+        "apr": 13.4,
+        "rate_of_interest": 6.97,
+        "term": 48,
+        "regular_payment": 462.65,
+        "final_payment": 472.65,
+        "total_amount_payable": 24146.7,
+        "total_charge_for_credit": 4851.7,
+        "amount_of_credit": 17365.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

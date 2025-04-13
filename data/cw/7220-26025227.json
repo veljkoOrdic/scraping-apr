@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:58:57.450Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.walmersleytradecentre.co.uk/used-land-rover-range-rover-velar-bury-greater-manchester-6430359",
+    "dealer_id": "7220",
+    "car_id": "26025227",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D240 R-Dynamic S",
+        "registration_number": "SE18XPX",
+        "registration_date": "15/08/2018",
+        "mileage": 68000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21950,
+        "total_price": 21950,
+        "deposit": 2195,
+        "balance": 19755,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 40,
+        "regular_payment": 368.74,
+        "final_payment": 10722.27,
+        "total_amount_payable": 27298.13,
+        "total_charge_for_credit": 5348.13,
+        "amount_of_credit": 19755,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 6.26,
+        "residual": 10721.27,
+        "price_to_buy": 10722.27
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21950,
+        "total_price": 21950,
+        "deposit": 2195,
+        "balance": 19755,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 504.73,
+        "final_payment": 505.73,
+        "total_amount_payable": 26423.04,
+        "total_charge_for_credit": 4473.04,
+        "amount_of_credit": 19755,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

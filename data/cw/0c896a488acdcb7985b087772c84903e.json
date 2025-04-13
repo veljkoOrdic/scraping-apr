@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-04-11T16:36:59.666Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motors-hub.co.uk/get-car-details?stockId=714",
+    "dealer_id": null,
+    "car_id": null,
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "80kW Acenta 24kWh",
+        "registration_number": "SL64ODT",
+        "registration_date": "31/10/2014",
+        "mileage": 81300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3295,
+        "total_price": 3295,
+        "deposit": 330,
+        "balance": 2965,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 36,
+        "regular_payment": 98.72,
+        "final_payment": 98.72,
+        "total_amount_payable": 3884.92,
+        "total_charge_for_credit": 589.92,
+        "amount_of_credit": 2965,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

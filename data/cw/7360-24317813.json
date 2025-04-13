@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:21:19.811Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.enzocarsandvans.co.uk/vehicle/mercedes-sprinter-20-315-cdi-progressive-panel-van-5dr-diesel-manual-rwd-l3-h2-euro-6-ss-150-ps-in-blackburn-lancashire-283ea240-c6f6-43d1-ab60-85051564e386",
+    "dealer_id": "7360",
+    "car_id": "24317813",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SPRINTER",
+        "variant": "315CDI L3 DIESEL RWD",
+        "derivative": "3.5t H2 Progressive Van",
+        "registration_number": "LM21EUL",
+        "registration_date": "26/07/2021",
+        "mileage": 117000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 4399,
+        "balance": 15995,
+        "apr": 13.9,
+        "rate_of_interest": 13.09,
+        "term": 60,
+        "regular_payment": 364.64,
+        "final_payment": 364.64,
+        "total_amount_payable": 26277.4,
+        "total_charge_for_credit": 5883.4,
+        "amount_of_credit": 15995,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 4399,
+        "balance": 15995,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 372.76,
+        "final_payment": 3611,
+        "total_amount_payable": 25902.48,
+        "total_charge_for_credit": 5508.48,
+        "amount_of_credit": 15995,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 3611,
+        "price_to_buy": 3611
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:37:01.959Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alexandersmotorgroup.co.uk/used-car-details/used-nissan-x-trail-15-e-power-204ps-tekna-xtro-universal-silver-automatic-hybrid/id-521925117423410/",
+    "dealer_id": "7551",
+    "car_id": "26258583",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "X-TRAIL",
+        "variant": "STATION WAGON",
+        "derivative": "1.5 E-Power 204 Tekna Xtronic",
+        "registration_number": "YK74WDJ",
+        "registration_date": "30/10/2024",
+        "mileage": 10,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 1250,
+        "balance": 35745,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 653.2,
+        "final_payment": 16795.39,
+        "total_amount_payable": 49398.99,
+        "total_charge_for_credit": 12403.99,
+        "amount_of_credit": 35745,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32008,
+        "excess_mileage_rate": 8,
+        "residual": 16795.39,
+        "price_to_buy": 16795.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 1000,
+        "balance": 35995,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 787.95,
+        "final_payment": 787.95,
+        "total_amount_payable": 48277,
+        "total_charge_for_credit": 11282,
+        "amount_of_credit": 35995,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

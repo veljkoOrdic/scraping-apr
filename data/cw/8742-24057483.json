@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:31:20.819Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aimautos.co.uk/details/used-car-in-tockwith/audi/rs3/2.5-tfsi-launch-edition-s-tronic-quattro-euro-6-ss-4dr/1142997/",
+    "dealer_id": "8742",
+    "car_id": "24057483",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SALOON SPECIAL EDITIONS",
+        "derivative": "RS 3 TFSI Quattro Launch Edition S Tronic",
+        "registration_number": "WG71UPK",
+        "registration_date": "31/12/2021",
+        "mileage": 7650,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48000,
+        "total_price": 48000,
+        "deposit": 4800,
+        "balance": 43200,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 680.49,
+        "final_payment": 23675,
+        "total_amount_payable": 61138.52,
+        "total_charge_for_credit": 13138.52,
+        "amount_of_credit": 43200,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 13.41,
+        "residual": 23665,
+        "price_to_buy": 23675
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48000,
+        "total_price": 48000,
+        "deposit": 4800,
+        "balance": 43200,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 926.2,
+        "final_payment": 926.2,
+        "total_amount_payable": 60372,
+        "total_charge_for_credit": 12372,
+        "amount_of_credit": 43200,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

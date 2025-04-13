@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T23:14:11.395Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakmoorecarcompany.co.uk/vehicle/audi-rs3-25-tfsi-vorsprung-s-tronic-quattro-euro-6-ss-4dr-in-west-midlands-a346de44-7a63-4edb-9aa0-b164011178b4",
+    "dealer_id": "6796",
+    "car_id": "26350165",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "RS 3 SALOON",
+        "derivative": "RS 3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "EX73MYB",
+        "registration_date": "06/09/2023",
+        "mileage": 2000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 63999,
+        "total_price": 63999,
+        "deposit": 6399.9,
+        "balance": 57599.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 959.67,
+        "final_payment": 27269,
+        "total_amount_payable": 78773.39,
+        "total_charge_for_credit": 14774.39,
+        "amount_of_credit": 57599.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 16.49,
+        "residual": 27259,
+        "price_to_buy": 27269
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 63999,
+        "total_price": 63999,
+        "deposit": 6399.9,
+        "balance": 57599.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 48,
+        "regular_payment": 1421.24,
+        "final_payment": 1422.24,
+        "total_amount_payable": 74620.42,
+        "total_charge_for_credit": 10621.42,
+        "amount_of_credit": 57599.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

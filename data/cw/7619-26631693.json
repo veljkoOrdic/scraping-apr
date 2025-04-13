@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:11:29.613Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redlionmotors.co.uk/details/used-car-in-epping/mercedes-benz/gclass/4.0-g63-v8-biturbo-amg-edition-1-spds+9gt-4matic-euro-6-ss-5dr/1344339/",
+    "dealer_id": "7619",
+    "car_id": "26631693",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON SPECIAL EDITIONS",
+        "derivative": "G63 Edition 1 Tip",
+        "registration_number": "EJ68DBX",
+        "registration_date": "31/10/2018",
+        "mileage": 43500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 123299,
+        "total_price": 123299,
+        "deposit": 12329.9,
+        "balance": 110969.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 42,
+        "regular_payment": 1899.88,
+        "final_payment": 58805.3,
+        "total_amount_payable": 149030.28,
+        "total_charge_for_credit": 25731.28,
+        "amount_of_credit": 110969.1,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 31.05,
+        "residual": 58804.3,
+        "price_to_buy": 58805.3
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 123299,
+        "total_price": 123299,
+        "deposit": 12329.9,
+        "balance": 110969.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 2279.7,
+        "final_payment": 2280.7,
+        "total_amount_payable": 149112.9,
+        "total_charge_for_credit": 25813.9,
+        "amount_of_credit": 110969.1,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

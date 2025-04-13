@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:57:44.288Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.castlemotors.com/used-ford-tourneo-connect-liskeard-cornwall-6265836",
+    "dealer_id": "8394",
+    "car_id": "25391079",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TOURNEO CONNECT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue Titanium",
+        "registration_number": "WH73BKG",
+        "registration_date": "08/02/2024",
+        "mileage": 1575,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23750,
+        "total_price": 23750,
+        "deposit": 2375,
+        "balance": 21375,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 357.68,
+        "final_payment": 9192.7,
+        "total_amount_payable": 32670.82,
+        "total_charge_for_credit": 8920.82,
+        "amount_of_credit": 21375,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 6.7,
+        "residual": 9192.7,
+        "price_to_buy": 9192.7
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23750,
+        "total_price": 23750,
+        "deposit": 2375,
+        "balance": 21375,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 467.76,
+        "final_payment": 477.76,
+        "total_amount_payable": 30450.6,
+        "total_charge_for_credit": 6700.6,
+        "amount_of_credit": 21375,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

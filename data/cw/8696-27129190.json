@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:06:06.840Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.db90.co.uk/details/used-car-in-doncaster/astonmartin/db11/4.0-v8-auto-euro-6-ss-2dr/1385584/",
+    "dealer_id": "8696",
+    "car_id": "27129190",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DB11",
+        "variant": "COUPE",
+        "derivative": "V8 Touchtronic",
+        "registration_number": "343SM",
+        "registration_date": "28/03/2019",
+        "mileage": 14688,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 75250,
+        "total_price": 75250,
+        "deposit": 7525,
+        "balance": 67725,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 47,
+        "regular_payment": 1079.32,
+        "final_payment": 40363.51,
+        "total_amount_payable": 97537.23,
+        "total_charge_for_credit": 22287.23,
+        "amount_of_credit": 67725,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 26.47,
+        "residual": 40362.51,
+        "price_to_buy": 40363.51
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75250,
+        "total_price": 75250,
+        "deposit": 7525,
+        "balance": 67725,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 1421.6,
+        "final_payment": 1421.6,
+        "total_amount_payable": 92821,
+        "total_charge_for_credit": 17571,
+        "amount_of_credit": 67725,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

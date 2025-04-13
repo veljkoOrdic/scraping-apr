@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:10:32.270Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theprelovedcarcompany.com/details/used-car-in-manningtree/vauxhall/grandlandx/1.2-turbo-sport-nav-euro-6-ss-5dr/1340093/",
+    "dealer_id": "6475",
+    "car_id": "26570976",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "GRANDLAND X",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo Sport Nav",
+        "registration_number": "YF18KKW",
+        "registration_date": "23/04/2018",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10600,
+        "total_price": 10600,
+        "deposit": 1060,
+        "balance": 9540,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 211.64,
+        "final_payment": 4328.04,
+        "total_amount_payable": 12795.44,
+        "total_charge_for_credit": 2195.44,
+        "amount_of_credit": 9540,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 2.83,
+        "residual": 4328.04,
+        "price_to_buy": 4328.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10600,
+        "total_price": 10600,
+        "deposit": 1060,
+        "balance": 9540,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 252.09,
+        "final_payment": 253.09,
+        "total_amount_payable": 13161.32,
+        "total_charge_for_credit": 2561.32,
+        "amount_of_credit": 9540,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

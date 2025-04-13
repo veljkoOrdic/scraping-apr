@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:11:50.777Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ucar.co.uk/cars/bmw/x5/3.0-x5-xdrive30d-m-sport/1432894/",
+    "dealer_id": "7100",
+    "car_id": "27703422",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 xDrive30d M Sport",
+        "registration_number": "EG23ZDT",
+        "registration_date": "30/06/2023",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64750,
+        "total_price": 64750,
+        "deposit": 6475,
+        "balance": 58275,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 978.69,
+        "final_payment": 22159.93,
+        "total_amount_payable": 86377.64,
+        "total_charge_for_credit": 21627.64,
+        "amount_of_credit": 58275,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.27,
+        "residual": 22158.93,
+        "price_to_buy": 22159.93
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64750,
+        "total_price": 64750,
+        "deposit": 6475,
+        "balance": 58275,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1249.39,
+        "final_payment": 1250.39,
+        "total_amount_payable": 81439.4,
+        "total_charge_for_credit": 16689.4,
+        "amount_of_credit": 58275,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

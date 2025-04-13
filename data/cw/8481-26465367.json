@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:52:45.922Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rogeryoung.co.uk/used-car-details/used-jaguar-f-pace-p400e-r-dynamic-hse-black-suv-automatic-petrol-plug-in-hybrid/id-4486293016/",
+    "dealer_id": "8481",
+    "car_id": "26465367",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-PACE",
+        "variant": "ESTATE",
+        "derivative": "2.0 P400e R-Dynamic HSE Black",
+        "registration_number": "WJ73CPV",
+        "registration_date": "08/01/2024",
+        "mileage": 7719,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50000,
+        "total_price": 50000,
+        "deposit": 20000,
+        "balance": 30000,
+        "apr": 8.9,
+        "rate_of_interest": 8.55,
+        "term": 48,
+        "regular_payment": 298.73,
+        "final_payment": 25464,
+        "total_amount_payable": 59504.31,
+        "total_charge_for_credit": 9504.31,
+        "amount_of_credit": 30000,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 16.8,
+        "residual": 25454,
+        "price_to_buy": 25464
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50000,
+        "total_price": 50000,
+        "deposit": 20000,
+        "balance": 30000,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 740.25,
+        "final_payment": 740.25,
+        "total_amount_payable": 55532,
+        "total_charge_for_credit": 5532,
+        "amount_of_credit": 30000,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

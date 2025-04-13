@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:02:28.486Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoscout48.com/cars/bmw/8series/m8-competition/682182/",
+    "dealer_id": "8913",
+    "car_id": "24259042",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M8",
+        "variant": "",
+        "derivative": "M8 Competition Coupe",
+        "registration_number": "F9LES",
+        "registration_date": "29/11/2019",
+        "mileage": 18500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64495,
+        "total_price": 64495,
+        "deposit": 6449.5,
+        "balance": 58045.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1181.14,
+        "final_payment": 20934.95,
+        "total_amount_payable": 82898.03,
+        "total_charge_for_credit": 18403.03,
+        "amount_of_credit": 58045.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.35,
+        "residual": 20933.95,
+        "price_to_buy": 20934.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64495,
+        "total_price": 64495,
+        "deposit": 6449.5,
+        "balance": 58045.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1483.08,
+        "final_payment": 1484.08,
+        "total_amount_payable": 77638.34,
+        "total_charge_for_credit": 13143.34,
+        "amount_of_credit": 58045.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

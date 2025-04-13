@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-12T09:54:49.170Z",
+    "source": "codeweavers_calculator",
+    "url": "https://summitvans.co.uk/vehicle/ford-ranger-wildtrak-ecoblue/",
+    "dealer_id": "9013",
+    "car_id": "27596558",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 205",
+        "registration_number": "HN73CNZ",
+        "registration_date": "25/09/2023",
+        "mileage": 7779,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42597.6,
+        "total_price": 42597.6,
+        "deposit": 10649.4,
+        "balance": 31948.2,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 713.78,
+        "final_payment": 723.78,
+        "total_amount_payable": 53486.2,
+        "total_charge_for_credit": 10888.6,
+        "amount_of_credit": 31948.2,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42597.6,
+        "total_price": 42597.6,
+        "deposit": 10649.4,
+        "balance": 31948.2,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 713.78,
+        "final_payment": 723.78,
+        "total_amount_payable": 53486.2,
+        "total_charge_for_credit": 10888.6,
+        "amount_of_credit": 31948.2,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

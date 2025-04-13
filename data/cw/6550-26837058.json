@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T20:53:07.535Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.justmotorgroup.co.uk/used/citroen/ami/pop/keighley/west-yorkshire/100003981",
+    "dealer_id": "6550",
+    "car_id": "26837058",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "AMI",
+        "variant": "COUPE",
+        "derivative": "6kW Ami 6.3kWh",
+        "registration_number": "YG74XRA",
+        "registration_date": "24/09/2024",
+        "mileage": 10,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 649.5,
+        "balance": 5845.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 110.55,
+        "final_payment": 2408,
+        "total_amount_payable": 8253.35,
+        "total_charge_for_credit": 1758.35,
+        "amount_of_credit": 5845.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 12.5,
+        "residual": 2408,
+        "price_to_buy": 2408
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 649.5,
+        "balance": 5845.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 125.33,
+        "final_payment": 125.33,
+        "total_amount_payable": 8169.3,
+        "total_charge_for_credit": 1674.3,
+        "amount_of_credit": 5845.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

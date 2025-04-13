@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:49:38.255Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fivebellscarsales.co.uk/details/used-car-in-stanford-le-hope/nissan/juke/1.6-bose-personal-edition-euro-6-5dr/1242148/",
+    "dealer_id": "6198",
+    "car_id": "25380721",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "JUKE",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 [112] Bose Personal Edition",
+        "registration_number": "LS68BKL",
+        "registration_date": "20/09/2018",
+        "mileage": 62352,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7975,
+        "total_price": 7975,
+        "deposit": 797.5,
+        "balance": 7177.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 30,
+        "regular_payment": 187.49,
+        "final_payment": 3560,
+        "total_amount_payable": 9607.22,
+        "total_charge_for_credit": 1632.22,
+        "amount_of_credit": 7177.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 7,
+        "residual": 3550,
+        "price_to_buy": 3560
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7975,
+        "total_price": 7975,
+        "deposit": 797.5,
+        "balance": 7177.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 160.25,
+        "final_payment": 170.25,
+        "total_amount_payable": 10422.5,
+        "total_charge_for_credit": 2447.5,
+        "amount_of_credit": 7177.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

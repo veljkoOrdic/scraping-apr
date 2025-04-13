@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:29:09.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.taurusautos.co.uk/details/used-car-in-colsterworth/landrover/rangerovervelar/2.0-d180-r-dynamic-s-auto-4wd-euro-6-ss-5dr/1400490/",
+    "dealer_id": "8543",
+    "car_id": "27304919",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER VELAR",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D180 R-Dynamic S",
+        "registration_number": "DX69OPM",
+        "registration_date": "11/10/2019",
+        "mileage": 58300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23295,
+        "total_price": 23295,
+        "deposit": 2329.5,
+        "balance": 20965.5,
+        "apr": 9.5,
+        "rate_of_interest": 9.5,
+        "term": 54,
+        "regular_payment": 341.87,
+        "final_payment": 9167.82,
+        "total_amount_payable": 29616.43,
+        "total_charge_for_credit": 6321.43,
+        "amount_of_credit": 20965.5,
+        "lender": "Forward Asset Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 6.02,
+        "residual": 9167.82,
+        "price_to_buy": 9167.82
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23295,
+        "total_price": 23295,
+        "deposit": 2329.5,
+        "balance": 20965.5,
+        "apr": 9.5,
+        "rate_of_interest": 9.5,
+        "term": 60,
+        "regular_payment": 436.33,
+        "final_payment": 436.33,
+        "total_amount_payable": 28509.3,
+        "total_charge_for_credit": 5214.3,
+        "amount_of_credit": 20965.5,
+        "lender": "Forward Asset Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

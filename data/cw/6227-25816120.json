@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:06:25.393Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/mercedes-benz/mercedes-benz-v-class-2-0-v220d-sport-g-tronic-euro-6-s-s-5dr-8-seat-lwb/",
+    "dealer_id": "6227",
+    "car_id": "25816120",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "V-Class",
+        "variant": "V-Class Estate",
+        "derivative": "V220d Long Sport Auto 2019",
+        "registration_number": "KS21DNN",
+        "registration_date": "08/07/2021",
+        "mileage": 41100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49975,
+        "total_price": 49975,
+        "deposit": 4997.5,
+        "balance": 44977.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 789.76,
+        "final_payment": 22069,
+        "total_amount_payable": 64185.22,
+        "total_charge_for_credit": 14210.22,
+        "amount_of_credit": 44977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.6,
+        "residual": 22059,
+        "price_to_buy": 22069
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49975,
+        "total_price": 49975,
+        "deposit": 4997.5,
+        "balance": 44977.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 964.31,
+        "final_payment": 964.31,
+        "total_amount_payable": 62856.1,
+        "total_charge_for_credit": 12881.1,
+        "amount_of_credit": 44977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

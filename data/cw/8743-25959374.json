@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:36:46.629Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lakesideclassics.uk.com/cars/porsche/911/3.0-t-992-carrera-s/1283037/",
+    "dealer_id": "8743",
+    "car_id": "25959374",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] CARRERA COUPE",
+        "derivative": "S PDK",
+        "registration_number": "FG23AVW",
+        "registration_date": "30/06/2023",
+        "mileage": 9979,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99991,
+        "total_price": 99991,
+        "deposit": 9999.1,
+        "balance": 89991.9,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1440.23,
+        "final_payment": 39713.69,
+        "total_amount_payable": 134686.36,
+        "total_charge_for_credit": 34695.36,
+        "amount_of_credit": 89991.9,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 26.83,
+        "residual": 39712.69,
+        "price_to_buy": 39713.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99991,
+        "total_price": 99991,
+        "deposit": 9999.1,
+        "balance": 89991.9,
+        "apr": 9.4,
+        "rate_of_interest": 9.02,
+        "term": 60,
+        "regular_payment": 1868.86,
+        "final_payment": 1868.86,
+        "total_amount_payable": 122130.7,
+        "total_charge_for_credit": 22139.7,
+        "amount_of_credit": 89991.9,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

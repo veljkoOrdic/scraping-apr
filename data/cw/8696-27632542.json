@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:05:31.955Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.db90.co.uk/details/used-car-in-doncaster/landrover/discovery/3.0-d300-mhev-metropolitan-edition-auto-4wd-euro-6-ss-5dr/1427835/",
+    "dealer_id": "8696",
+    "car_id": "27632542",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 D300 Metropolitan Edition",
+        "registration_number": "GX23USC",
+        "registration_date": "22/06/2023",
+        "mileage": 23500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57795,
+        "total_price": 57795,
+        "deposit": 5779.5,
+        "balance": 52015.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 860.3,
+        "final_payment": 20804.06,
+        "total_amount_payable": 77341.26,
+        "total_charge_for_credit": 19546.26,
+        "amount_of_credit": 52015.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 12.87,
+        "residual": 20803.06,
+        "price_to_buy": 20804.06
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57795,
+        "total_price": 57795,
+        "deposit": 5779.5,
+        "balance": 52015.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 60,
+        "regular_payment": 1091.85,
+        "final_payment": 1091.85,
+        "total_amount_payable": 71290.5,
+        "total_charge_for_credit": 13495.5,
+        "amount_of_credit": 52015.5,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

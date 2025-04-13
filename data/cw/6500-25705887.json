@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T20:15:06.692Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.littlewick-green.co.uk/vauxhall-corsa-1-2-se-euro-6-5dr-in-maidenhead-8d379f82-9a16-4598-a67c-b206010cfe9b",
+    "dealer_id": "6500",
+    "car_id": "25705887",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 SE",
+        "registration_number": "WR71PTZ",
+        "registration_date": "10/11/2021",
+        "mileage": 16757,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.43,
+        "term": 48,
+        "regular_payment": 259.8,
+        "final_payment": 259.8,
+        "total_amount_payable": 13619.9,
+        "total_charge_for_credit": 2124.9,
+        "amount_of_credit": 10345.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 198.61,
+        "final_payment": 3753,
+        "total_amount_payable": 14237.17,
+        "total_charge_for_credit": 2742.17,
+        "amount_of_credit": 10345.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 3743,
+        "price_to_buy": 3753
+      }
+    ]
+  }
+]

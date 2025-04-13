@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T16:14:00.015Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecaragent.co.uk/used-citroen-ds4-plymouth-devon-6423582",
+    "dealer_id": "7102",
+    "car_id": "27508532",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "DS4",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 HDi DStyle",
+        "registration_number": "WJ63GKX",
+        "registration_date": "22/10/2013",
+        "mileage": 75500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 449,
+        "balance": 4046,
+        "apr": 16,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 96.16,
+        "final_payment": 96.16,
+        "total_amount_payable": 6218.6,
+        "total_charge_for_credit": 1723.6,
+        "amount_of_credit": 4046,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_motion_hp",
+        "name": "MOTION_HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 449,
+        "balance": 4046,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 88.56,
+        "final_payment": 89.56,
+        "total_amount_payable": 5763.6,
+        "total_charge_for_credit": 1268.6,
+        "amount_of_credit": 4046,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

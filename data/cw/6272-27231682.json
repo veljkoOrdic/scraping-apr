@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:21:42.164Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.baytreecars.com/used-porsche-911-derby-derbyshire-6744995",
+    "dealer_id": "6272",
+    "car_id": "27231682",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] TURBO CABRIOLET",
+        "derivative": "S PDK",
+        "registration_number": "LL70FVS",
+        "registration_date": "24/12/2020",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 144900,
+        "total_price": 144900,
+        "deposit": 14490,
+        "balance": 130410,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 2145.81,
+        "final_payment": 41904.12,
+        "total_amount_payable": 182996.91,
+        "total_charge_for_credit": 38096.91,
+        "amount_of_credit": 130410,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 27,
+        "residual": 41904.12,
+        "price_to_buy": 41904.12
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 144900,
+        "total_price": 144900,
+        "deposit": 14490,
+        "balance": 130410,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 2679.1,
+        "final_payment": 2679.1,
+        "total_amount_payable": 175236,
+        "total_charge_for_credit": 30336,
+        "amount_of_credit": 130410,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

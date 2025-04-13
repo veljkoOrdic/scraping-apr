@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:17:56.779Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.huntermotorgroup.co.uk/vehicle/bmw-x1-xdrive-20i-xline-auto-4wd-in-billericay-essex-972b7c44-697e-48e8-afbc-b1b600f36fcb",
+    "dealer_id": "6998",
+    "car_id": "23931865",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X1",
+        "variant": "ESTATE",
+        "derivative": "xDrive 20i [178] xLine Step",
+        "registration_number": "BK21ZXG",
+        "registration_date": "12/03/2021",
+        "mileage": 15300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24495,
+        "total_price": 24495,
+        "deposit": 2449.5,
+        "balance": 22045.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 389.61,
+        "final_payment": 7841.92,
+        "total_amount_payable": 33278.41,
+        "total_charge_for_credit": 8783.41,
+        "amount_of_credit": 22045.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.5,
+        "residual": 7840.92,
+        "price_to_buy": 7841.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24495,
+        "total_price": 24495,
+        "deposit": 2449.5,
+        "balance": 22045.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 452.88,
+        "final_payment": 453.88,
+        "total_amount_payable": 29623.3,
+        "total_charge_for_credit": 5128.3,
+        "amount_of_credit": 22045.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

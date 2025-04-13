@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:21:17.648Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jtcmotors.co.uk/cars/suzuki/ignis/1.2-dualjet-12v-hybrid-sz5-5dr-man-petrol-black-+-top-of-the-range/1317030/",
+    "dealer_id": "8539",
+    "car_id": "26289648",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "IGNIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet 12V Hybrid SZ5",
+        "registration_number": "YC70LTK",
+        "registration_date": "05/10/2020",
+        "mileage": 31402,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 226.46,
+        "final_payment": 227.46,
+        "total_amount_payable": 14738.1,
+        "total_charge_for_credit": 3243.1,
+        "amount_of_credit": 10345.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 181.82,
+        "final_payment": 4231.66,
+        "total_amount_payable": 16108.54,
+        "total_charge_for_credit": 4613.54,
+        "amount_of_credit": 10345.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.07,
+        "residual": 4230.66,
+        "price_to_buy": 4231.66
+      }
+    ]
+  }
+]

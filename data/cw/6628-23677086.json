@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:46:59.612Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rangerworlduk.co.uk/rw/car-details/ford-ranger-wildtrak-4x4-dcb-tdci-107",
+    "dealer_id": "6628",
+    "car_id": "23677086",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 3.2 TDCi 200",
+        "registration_number": "YT19RPL",
+        "registration_date": "29/06/2019",
+        "mileage": 54265,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27600,
+        "total_price": 27600,
+        "deposit": 6900,
+        "balance": 20700,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 39,
+        "regular_payment": 517.82,
+        "final_payment": 6593,
+        "total_amount_payable": 33170.16,
+        "total_charge_for_credit": 5570.16,
+        "amount_of_credit": 20700,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 19,
+        "residual": 6593,
+        "price_to_buy": 6593
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27600,
+        "total_price": 27600,
+        "deposit": 6900,
+        "balance": 20700,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 434.51,
+        "final_payment": 434.51,
+        "total_amount_payable": 32970.6,
+        "total_charge_for_credit": 5370.6,
+        "amount_of_credit": 20700,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

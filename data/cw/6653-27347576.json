@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:53:29.573Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/bmw/x5/4.4i-v8-competition-auto-xdrive-euro-6-ss-5dr/1404818/",
+    "dealer_id": "6653",
+    "car_id": "27347576",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M Competition",
+        "registration_number": "PX70XHD",
+        "registration_date": "21/09/2020",
+        "mileage": 26500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299.5,
+        "balance": 65695.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1139.47,
+        "final_payment": 27654,
+        "total_amount_payable": 89648.06,
+        "total_charge_for_credit": 16653.06,
+        "amount_of_credit": 65695.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 27644,
+        "price_to_buy": 27654
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299.5,
+        "balance": 65695.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1621.04,
+        "final_payment": 1631.04,
+        "total_amount_payable": 85119.42,
+        "total_charge_for_credit": 12124.42,
+        "amount_of_credit": 65695.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

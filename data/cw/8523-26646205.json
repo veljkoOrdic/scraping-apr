@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:17:09.739Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thevanhub.com/used/commercials/mercedes-benz/sprinter/315-2-0-cdi-premium-panel-van-5dr-diesel-manual-rwd-3",
+    "dealer_id": "8523",
+    "car_id": "26646205",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "SPRINTER",
+        "variant": "315CDI L3 DIESEL RWD",
+        "derivative": "3.5t H2 Premium Van",
+        "registration_number": "WN22VFL",
+        "registration_date": "04/05/2022",
+        "mileage": 42798,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26595,
+        "total_price": 26595,
+        "deposit": 0,
+        "balance": 26595,
+        "apr": 12.6,
+        "rate_of_interest": 11.93,
+        "term": 48,
+        "regular_payment": 596.26,
+        "final_payment": 6371,
+        "total_amount_payable": 34991.48,
+        "total_charge_for_credit": 8396.48,
+        "amount_of_credit": 26595,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.21,
+        "residual": 6371,
+        "price_to_buy": 6371
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26595,
+        "total_price": 26595,
+        "deposit": 0,
+        "balance": 26595,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 590.63,
+        "final_payment": 590.63,
+        "total_amount_payable": 35437.8,
+        "total_charge_for_credit": 8842.8,
+        "amount_of_credit": 26595,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

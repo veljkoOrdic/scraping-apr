@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:48:51.215Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.charterspeugeot.com/used-cars/peugeot-2008-1-2-puretech-mhev-gt-e-dsc-euro-6-s-s-5dr-rv24chc/",
+    "dealer_id": "6758",
+    "car_id": "26855103",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "ESTATE",
+        "derivative": "1.2 Hybrid 136 GT e-DSC6",
+        "registration_number": "RV24CHC",
+        "registration_date": "30/04/2024",
+        "mileage": 6109,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22655,
+        "total_price": 22655,
+        "deposit": 2265.5,
+        "balance": 20389.5,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 48,
+        "regular_payment": 385.97,
+        "final_payment": 10080,
+        "total_amount_payable": 30531.09,
+        "total_charge_for_credit": 7876.09,
+        "amount_of_credit": 20389.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 10080,
+        "price_to_buy": 10080
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22655,
+        "total_price": 22655,
+        "deposit": 2265.5,
+        "balance": 20389.5,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 48,
+        "regular_payment": 541.79,
+        "final_payment": 541.79,
+        "total_amount_payable": 28331.42,
+        "total_charge_for_credit": 5676.42,
+        "amount_of_credit": 20389.5,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

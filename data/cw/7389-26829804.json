@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T18:36:50.251Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/audi/q8/3-0-q8-vorsprung-50-tdi-quattro-auto-4wd-5dr-794",
+    "dealer_id": "7389",
+    "car_id": "26829804",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q8",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro Vorsprung Tiptronic",
+        "registration_number": "RJ19VME",
+        "registration_date": "29/03/2019",
+        "mileage": 48000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43950,
+        "total_price": 43950,
+        "deposit": 4395,
+        "balance": 39555,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 47,
+        "regular_payment": 660.89,
+        "final_payment": 20476.05,
+        "total_amount_payable": 55271.99,
+        "total_charge_for_credit": 11321.99,
+        "amount_of_credit": 39555,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 39166,
+        "excess_mileage_rate": 11,
+        "residual": 20476.05,
+        "price_to_buy": 20476.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43950,
+        "total_price": 43950,
+        "deposit": 4395,
+        "balance": 39555,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 830.33,
+        "final_payment": 830.33,
+        "total_amount_payable": 54214.8,
+        "total_charge_for_credit": 10264.8,
+        "amount_of_credit": 39555,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

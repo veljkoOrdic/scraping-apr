@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:29:59.793Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aimautos.co.uk/details/used-car-in-tockwith/bmw/2series/2.0-m235i-auto-xdrive-euro-6-ss-4dr/1400632/",
+    "dealer_id": "8742",
+    "car_id": "27305880",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "2 Series",
+        "variant": "GRAN COUPE",
+        "derivative": "M235i xDrive Step",
+        "registration_number": "YF21VVW",
+        "registration_date": "02/03/2021",
+        "mileage": 24900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24000,
+        "total_price": 24000,
+        "deposit": 2400,
+        "balance": 21600,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 352.94,
+        "final_payment": 11094,
+        "total_amount_payable": 30435.12,
+        "total_charge_for_credit": 6435.12,
+        "amount_of_credit": 21600,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.57,
+        "residual": 11084,
+        "price_to_buy": 11094
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24000,
+        "total_price": 24000,
+        "deposit": 2400,
+        "balance": 21600,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 463.1,
+        "final_payment": 463.1,
+        "total_amount_payable": 30186,
+        "total_charge_for_credit": 6186,
+        "amount_of_credit": 21600,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T22:48:19.471Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.charterspeugeot.com/used-cars/citroen-c3-aircross-1-2-puretech-max-eat6-euro-6-s-s-5dr-rj24hsc/",
+    "dealer_id": "6758",
+    "car_id": "26095179",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C3 AIRCROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 PureTech 130 Max EAT6",
+        "registration_number": "RJ24HSC",
+        "registration_date": "26/04/2024",
+        "mileage": 3788,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19590,
+        "total_price": 19590,
+        "deposit": 1959,
+        "balance": 17631,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 48,
+        "regular_payment": 328.94,
+        "final_payment": 9000,
+        "total_amount_payable": 26464.18,
+        "total_charge_for_credit": 6874.18,
+        "amount_of_credit": 17631,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 9000,
+        "price_to_buy": 9000
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19590,
+        "total_price": 19590,
+        "deposit": 1959,
+        "balance": 17631,
+        "apr": 13.4,
+        "rate_of_interest": 13.4,
+        "term": 48,
+        "regular_payment": 468.28,
+        "final_payment": 468.28,
+        "total_amount_payable": 24496.44,
+        "total_charge_for_credit": 4906.44,
+        "amount_of_credit": 17631,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

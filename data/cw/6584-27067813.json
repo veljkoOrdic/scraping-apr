@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:18:33.531Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rockinghamcars.co.uk/used-cars/toyota-aygo-1-0-vvt-i-x-press-euro-6-5dr-5-door-hatchback-black/kp67wzn",
+    "dealer_id": "6584",
+    "car_id": "27067813",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "AYGO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 VVT-i X-Press",
+        "registration_number": "KP67WZN",
+        "registration_date": "28/09/2017",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8950,
+        "total_price": 8950,
+        "deposit": 1500,
+        "balance": 7450,
+        "apr": 9.9,
+        "rate_of_interest": 6.51,
+        "term": 48,
+        "regular_payment": 146.62,
+        "final_payment": 2497.5,
+        "total_amount_payable": 10888.64,
+        "total_charge_for_credit": 1938.64,
+        "amount_of_credit": 7450,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 2497.5,
+        "price_to_buy": 2497.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8950,
+        "total_price": 8950,
+        "deposit": 1500,
+        "balance": 7450,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 187.09,
+        "final_payment": 187.09,
+        "total_amount_payable": 10480.32,
+        "total_charge_for_credit": 1530.32,
+        "amount_of_credit": 7450,
+        "lender": "Mazda Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

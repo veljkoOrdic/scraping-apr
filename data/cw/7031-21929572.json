@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:51:32.611Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.scottishcommercials.com/vehicle-details/used-land-rover-range-rover-sport-svr-for-sale-in-west-lothian-u2425/",
+    "dealer_id": "7031",
+    "car_id": "21929572",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 V8 S/C 575 SVR",
+        "registration_number": "PK68VMR",
+        "registration_date": "31/10/2018",
+        "mileage": 41843,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 55000,
+        "total_price": 55000,
+        "deposit": 5500,
+        "balance": 49500,
+        "apr": 16.2,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 1380.57,
+        "final_payment": 1390.57,
+        "total_amount_payable": 71777.36,
+        "total_charge_for_credit": 16777.36,
+        "amount_of_credit": 49500,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 55000,
+        "total_price": 55000,
+        "deposit": 5500,
+        "balance": 49500,
+        "apr": 16.2,
+        "rate_of_interest": 8.24,
+        "term": 48,
+        "regular_payment": 1380.85,
+        "final_payment": 1380.85,
+        "total_amount_payable": 71780.8,
+        "total_charge_for_credit": 16780.8,
+        "amount_of_credit": 49500,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

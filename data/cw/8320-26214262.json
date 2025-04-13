@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:20:56.536Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.glasshoughtoncarsales.co.uk/used/vauxhall/vivaro-life/15-turbo-d-120ps-edition-m-5dr-9-seats-/castleford/west-yorkshire/21462953",
+    "dealer_id": "8320",
+    "car_id": "26214262",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "VIVARO LIFE",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 Turbo D 120PS Edition M",
+        "registration_number": "DE71TCJ",
+        "registration_date": "12/10/2021",
+        "mileage": 35000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 2149,
+        "balance": 19341,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 337.51,
+        "final_payment": 7220.11,
+        "total_amount_payable": 29282.2,
+        "total_charge_for_credit": 7792.2,
+        "amount_of_credit": 19341,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.51,
+        "residual": 7219.11,
+        "price_to_buy": 7220.11
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 2149,
+        "balance": 19341,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 414.65,
+        "final_payment": 415.65,
+        "total_amount_payable": 27029,
+        "total_charge_for_credit": 5539,
+        "amount_of_credit": 19341,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

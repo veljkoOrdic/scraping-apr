@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:35:59.843Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westend-garage.co.uk/used/cars/ford/focus/1-0-focus-titanium-edition-mhev-5dr-25",
+    "dealer_id": "7301",
+    "car_id": "23417508",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV 125 Titanium Edition",
+        "registration_number": "LD21NRN",
+        "registration_date": "30/03/2021",
+        "mileage": 10100,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 1600,
+        "balance": 14400,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 271,
+        "final_payment": 5301,
+        "total_amount_payable": 19909,
+        "total_charge_for_credit": 3909,
+        "amount_of_credit": 14400,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.13,
+        "residual": 5301,
+        "price_to_buy": 5301
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 1600,
+        "balance": 14400,
+        "apr": 10,
+        "rate_of_interest": 5.24,
+        "term": 60,
+        "regular_payment": 302.88,
+        "final_payment": 302.88,
+        "total_amount_payable": 19772.8,
+        "total_charge_for_credit": 3772.8,
+        "amount_of_credit": 14400,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

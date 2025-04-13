@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T17:07:32.963Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bmw/bmw-x6-m-4-4i-v8-competition-auto-xdrive-euro-6-s-s-5dr/",
+    "dealer_id": "6227",
+    "car_id": "27352937",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X6",
+        "variant": "",
+        "derivative": "X6 M Competition",
+        "registration_number": "CN70VLX",
+        "registration_date": "17/09/2020",
+        "mileage": 27700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 63975,
+        "total_price": 63975,
+        "deposit": 6397.5,
+        "balance": 57577.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1055.36,
+        "final_payment": 23742,
+        "total_amount_payable": 79741.42,
+        "total_charge_for_credit": 15766.42,
+        "amount_of_credit": 57577.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 23732,
+        "price_to_buy": 23742
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 63975,
+        "total_price": 63975,
+        "deposit": 6397.5,
+        "balance": 57577.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 1208.6,
+        "final_payment": 1208.6,
+        "total_amount_payable": 78913.5,
+        "total_charge_for_credit": 14938.5,
+        "amount_of_credit": 57577.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

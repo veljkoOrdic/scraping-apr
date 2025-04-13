@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T22:44:56.373Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.yourperfectcar.co.uk/cars/porsche/911/carrera/758772/",
+    "dealer_id": "6751",
+    "car_id": "19486601",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[996] CARRERA COUPE",
+        "derivative": "2dr",
+        "registration_number": "R4NCD",
+        "registration_date": "01/01/1998",
+        "mileage": 0,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22750,
+        "total_price": 22750,
+        "deposit": 2275,
+        "balance": 20475,
+        "apr": 11.3,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 442.53,
+        "final_payment": 442.53,
+        "total_amount_payable": 28826.8,
+        "total_charge_for_credit": 6076.8,
+        "amount_of_credit": 20475,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T15:39:14.468Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.middlesexandsurreycommercials.co.uk/vehicle/iveco-daily-23td-35-140-3750wb-13ft6-dropwell-luton-in-chertsey-surrey-d7652d3b-69a8-41b4-a006-afe500fd547a",
+    "dealer_id": "8351",
+    "car_id": "21583427",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Iveco",
+        "model": "DAILY",
+        "variant": "35S14 DIESEL",
+        "derivative": "2.3 Luton 3450 WB",
+        "registration_number": "GK23UCM",
+        "registration_date": "14/04/2023",
+        "mileage": 300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38388,
+        "total_price": 38388,
+        "deposit": 6398,
+        "balance": 31990,
+        "apr": 13.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 727.43,
+        "final_payment": 737.43,
+        "total_amount_payable": 50053.8,
+        "total_charge_for_credit": 11665.8,
+        "amount_of_credit": 31990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 38388,
+        "total_price": 38388,
+        "deposit": 6398,
+        "balance": 31990,
+        "apr": 13.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 727.65,
+        "final_payment": 727.65,
+        "total_amount_payable": 50057,
+        "total_charge_for_credit": 11669,
+        "amount_of_credit": 31990,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

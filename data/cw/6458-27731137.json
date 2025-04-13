@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:56:40.297Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.struans.com/used/bmw/x5/m50d-xdrive-auto-5dr/dundee/angus/21579333",
+    "dealer_id": "6458",
+    "car_id": "27731137",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "DIESEL ESTATE",
+        "derivative": "xDrive M50d",
+        "registration_number": "DF70TCU",
+        "registration_date": "29/01/2021",
+        "mileage": 35787,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 677.65,
+        "final_payment": 24237,
+        "total_amount_payable": 61363.7,
+        "total_charge_for_credit": 15368.7,
+        "amount_of_credit": 41395.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 24227,
+        "price_to_buy": 24237
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1075.94,
+        "final_payment": 1075.94,
+        "total_amount_payable": 56244.62,
+        "total_charge_for_credit": 10249.62,
+        "amount_of_credit": 41395.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

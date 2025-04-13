@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T19:50:55.632Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-108-10-collection-euro-6-ss-5d-hatchback-zircon-silver-manual-petrol/id-202503270630264/",
+    "dealer_id": "7584",
+    "car_id": "27576815",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "108",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 72 Collection",
+        "registration_number": "MD21KLL",
+        "registration_date": "28/05/2021",
+        "mileage": 19434,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9575,
+        "total_price": 9575,
+        "deposit": 1915,
+        "balance": 7660,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 152.8,
+        "final_payment": 3083,
+        "total_amount_payable": 12332.4,
+        "total_charge_for_credit": 2757.4,
+        "amount_of_credit": 7660,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 3083,
+        "price_to_buy": 3083
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9575,
+        "total_price": 9575,
+        "deposit": 1915,
+        "balance": 7660,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 171.15,
+        "final_payment": 171.15,
+        "total_amount_payable": 12184,
+        "total_charge_for_credit": 2609,
+        "amount_of_credit": 7660,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

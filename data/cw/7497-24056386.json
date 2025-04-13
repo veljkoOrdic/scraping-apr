@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T19:12:28.928Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.alphacarsales.co.uk/cars-for-sale/newcastle/car/663/mercedes-benz-cl-500",
+    "dealer_id": "7497",
+    "car_id": "24056386",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "CL",
+        "variant": "COUPE",
+        "derivative": "CL 500",
+        "registration_number": "NJT638H",
+        "registration_date": "12/03/2007",
+        "mileage": 105000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 650,
+        "balance": 5845,
+        "apr": 16.2,
+        "rate_of_interest": 6.99,
+        "term": 60,
+        "regular_payment": 139.34,
+        "final_payment": 139.34,
+        "total_amount_payable": 9010.4,
+        "total_charge_for_credit": 2515.4,
+        "amount_of_credit": 5845,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

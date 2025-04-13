@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:46:15.603Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carlingo.co.uk/used/cars/vauxhall/crossland/ultimate-2144",
+    "dealer_id": "7573",
+    "car_id": "24436013",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CROSSLAND",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo [130] Ultimate",
+        "registration_number": "YS72XMO",
+        "registration_date": "10/02/2023",
+        "mileage": 7667,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 1650,
+        "balance": 14850,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 290.17,
+        "final_payment": 6067.96,
+        "total_amount_payable": 21355.95,
+        "total_charge_for_credit": 4855.95,
+        "amount_of_credit": 14850,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.78,
+        "residual": 6067.96,
+        "price_to_buy": 6067.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 1650,
+        "balance": 14850,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 60,
+        "regular_payment": 325.07,
+        "final_payment": 325.07,
+        "total_amount_payable": 21154.2,
+        "total_charge_for_credit": 4654.2,
+        "amount_of_credit": 14850,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

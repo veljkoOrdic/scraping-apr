@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-12T00:12:30.630Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dn-trading.co.uk/details/used-van-in-sheffield/volkswagen/transporter/2.0-tdi-t30-highline-dsg-fwd-swb-euro-6-ss-5dr/1108141/",
+    "dealer_id": "6886",
+    "car_id": "27272276",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T30 SWB DIESEL",
+        "derivative": "2.0 TDI 150 Highline Van DSG",
+        "registration_number": "YS22NWF",
+        "registration_date": "24/06/2022",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41940,
+        "total_price": 41940,
+        "deposit": 6990,
+        "balance": 34950,
+        "apr": 12.9,
+        "rate_of_interest": 12.2,
+        "term": 48,
+        "regular_payment": 779.29,
+        "final_payment": 8978,
+        "total_amount_payable": 53373.92,
+        "total_charge_for_credit": 11433.92,
+        "amount_of_credit": 34950,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 8978,
+        "price_to_buy": 8978
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41940,
+        "total_price": 41940,
+        "deposit": 6990,
+        "balance": 34950,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 780.89,
+        "final_payment": 780.89,
+        "total_amount_payable": 53843.4,
+        "total_charge_for_credit": 11903.4,
+        "amount_of_credit": 34950,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

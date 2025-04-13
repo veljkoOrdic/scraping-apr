@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:53:16.436Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berkeleyperformance.co.uk/details/car-in-tamworth/audi/rsq3/2.5-tfsi-vorsprung-s-tronic-quattro-euro-6-ss-5dr/1412206/",
+    "dealer_id": "6653",
+    "car_id": "27444674",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "ESTATE",
+        "derivative": "RS Q3 TFSI Quattro Vorsprung S Tronic",
+        "registration_number": "WR72VWA",
+        "registration_date": "20/01/2023",
+        "mileage": 12665,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54795,
+        "total_price": 54795,
+        "deposit": 5479.5,
+        "balance": 49315.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 801.72,
+        "final_payment": 23841,
+        "total_amount_payable": 67803.06,
+        "total_charge_for_credit": 13008.06,
+        "amount_of_credit": 49315.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 23831,
+        "price_to_buy": 23841
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54795,
+        "total_price": 54795,
+        "deposit": 5479.5,
+        "balance": 49315.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1216.86,
+        "final_payment": 1226.86,
+        "total_amount_payable": 63898.78,
+        "total_charge_for_credit": 9103.78,
+        "amount_of_credit": 49315.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

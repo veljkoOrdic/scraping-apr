@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-04-11T22:51:07.940Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.garrowhillcarsales.co.uk/details/used-car-in-glasgow/mini/hatch/1.5-cooper-euro-6-ss-3dr/1288065/",
+    "dealer_id": "6765",
+    "car_id": "25946676",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Cooper",
+        "registration_number": "SF65VBW",
+        "registration_date": "22/10/2015",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749.5,
+        "balance": 6745.5,
+        "apr": 15.4,
+        "rate_of_interest": 8.16,
+        "term": 60,
+        "regular_payment": 158.29,
+        "final_payment": 168.29,
+        "total_amount_payable": 10256.9,
+        "total_charge_for_credit": 2761.9,
+        "amount_of_credit": 6745.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

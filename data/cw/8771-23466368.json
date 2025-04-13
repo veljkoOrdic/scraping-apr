@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T19:55:05.643Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/jeep/renegade/13-gse-t4-114kwh-s-auto-4wd-euro-6-ss-5dr/colchester/essex/20914849",
+    "dealer_id": "8771",
+    "car_id": "23466368",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "RENEGADE",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 Turbo 4xe PHEV 240 S",
+        "registration_number": "EK23FRP",
+        "registration_date": "01/03/2023",
+        "mileage": 25000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 403.09,
+        "final_payment": 9208,
+        "total_amount_payable": 30552.73,
+        "total_charge_for_credit": 6557.73,
+        "amount_of_credit": 21595.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 18,
+        "residual": 9198,
+        "price_to_buy": 9208
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 462.86,
+        "final_payment": 472.86,
+        "total_amount_payable": 30181.1,
+        "total_charge_for_credit": 6186.1,
+        "amount_of_credit": 21595.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

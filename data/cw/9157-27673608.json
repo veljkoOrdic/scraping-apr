@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T21:44:55.962Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carscierge.co.uk/used/cars/land-rover/range-rover-evoque/2-0-range-rover-evoque-r-dynamic-s-d-mhev-auto-4wd-5dr-89",
+    "dealer_id": "9157",
+    "car_id": "27673608",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D165 R-Dynamic S",
+        "registration_number": "AE21PWF",
+        "registration_date": "26/03/2021",
+        "mileage": 21570,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25100,
+        "total_price": 25100,
+        "deposit": 2510,
+        "balance": 22590,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 367.74,
+        "final_payment": 8497.55,
+        "total_amount_payable": 32704.21,
+        "total_charge_for_credit": 7604.21,
+        "amount_of_credit": 22590,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.91,
+        "residual": 8497.55,
+        "price_to_buy": 8497.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25100,
+        "total_price": 25100,
+        "deposit": 2510,
+        "balance": 22590,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 474.2,
+        "final_payment": 474.2,
+        "total_amount_payable": 30962,
+        "total_charge_for_credit": 5862,
+        "amount_of_credit": 22590,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

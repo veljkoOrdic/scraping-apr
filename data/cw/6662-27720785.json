@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T22:07:06.660Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reciprocalmotors.co.uk/vehicle/mercedes-c220-21-d-amg-line-premium-7g-tronic-euro-6-ss-4dr-in-ferndown-dorset-a7cd32b7-3887-43e1-97b5-b2b800dc36f6",
+    "dealer_id": "6662",
+    "car_id": "27720785",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "DIESEL SALOON",
+        "derivative": "C220d AMG Line Premium",
+        "registration_number": "RF66NZH",
+        "registration_date": "30/11/2016",
+        "mileage": 41553,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.4,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 331.16,
+        "final_payment": 331.16,
+        "total_amount_payable": 21569.1,
+        "total_charge_for_credit": 4574.1,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699.5,
+        "balance": 15295.5,
+        "apr": 11.4,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 330.95,
+        "final_payment": 340.95,
+        "total_amount_payable": 21566.5,
+        "total_charge_for_credit": 4571.5,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

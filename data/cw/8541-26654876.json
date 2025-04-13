@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-04-11T17:24:49.766Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cameroncarsni.co.uk/used-audi-a4-avant-ballymoney-northern-ireland-6586422",
+    "dealer_id": "8541",
+    "car_id": "26654876",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "DIESEL AVANT",
+        "derivative": "35 TDI Black Edition S Tronic",
+        "registration_number": "RE21LGX",
+        "registration_date": "14/06/2021",
+        "mileage": 43570,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24945,
+        "total_price": 24945,
+        "deposit": 2494,
+        "balance": 22451,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 382.6,
+        "final_payment": 10911.35,
+        "total_amount_payable": 31387.55,
+        "total_charge_for_credit": 6442.55,
+        "amount_of_credit": 22451,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12,
+        "residual": 10518.75,
+        "price_to_buy": 10911.35
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24945,
+        "total_price": 24945,
+        "deposit": 2494,
+        "balance": 22451,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 471.1,
+        "final_payment": 481.1,
+        "total_amount_payable": 30770,
+        "total_charge_for_credit": 5825,
+        "amount_of_credit": 22451,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

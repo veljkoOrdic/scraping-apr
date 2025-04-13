@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T22:23:17.961Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.queautomotive.co.uk/cars/bmw/4series/3.0-435d-xdrive-m-sport-coupe/1431901/",
+    "dealer_id": "9325",
+    "car_id": "27703213",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "4 Series",
+        "variant": "DIESEL COUPE",
+        "derivative": "435d xDrive M Sport",
+        "registration_number": "LC17VKR",
+        "registration_date": "19/05/2017",
+        "mileage": 49700,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 25,
+        "regular_payment": 559.46,
+        "final_payment": 7617.89,
+        "total_amount_payable": 23094.43,
+        "total_charge_for_credit": 2599.43,
+        "amount_of_credit": 18445.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 20833,
+        "excess_mileage_rate": 6.79,
+        "residual": 7617.89,
+        "price_to_buy": 7617.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 463.14,
+        "final_payment": 463.14,
+        "total_amount_payable": 24280.22,
+        "total_charge_for_credit": 3785.22,
+        "amount_of_credit": 18445.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

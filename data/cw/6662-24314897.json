@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T22:07:19.803Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reciprocalmotors.co.uk/vehicle/rover-mini-13-cooper-2dr-in-ferndown-dorset-5dd63851-fdbe-4fc8-9c33-b16f00b00a98",
+    "dealer_id": "6662",
+    "car_id": "24314897",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Rover",
+        "model": "MINI",
+        "variant": "COOPER SALOON",
+        "derivative": "1.3i",
+        "registration_number": "M381LYP",
+        "registration_date": "29/09/1994",
+        "mileage": 42121,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 11,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 483.56,
+        "final_payment": 483.56,
+        "total_amount_payable": 31513.1,
+        "total_charge_for_credit": 6518.1,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 11,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 483.35,
+        "final_payment": 493.35,
+        "total_amount_payable": 31510.5,
+        "total_charge_for_credit": 6515.5,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

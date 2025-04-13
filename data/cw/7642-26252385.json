@@ -1,0 +1,88 @@
+[
+  {
+    "timestamp": "2025-04-11T20:35:22.336Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/skoda/used-cars/skoda-kamiq-1-0-tsi-110ps-se-l-executive-auto-dsg-suv-lez-compliant-fd73txo",
+    "dealer_id": "7642",
+    "car_id": "26252385",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=qc644k6AtY68a51kSL",
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=qc644k6AtY68a51kSL",
+        "https://region1.google-analytics.com/g/collect?v=2&tid=G-QG87YSHKZG&gtm=45je5490v9188555269za200&_p=1744403717442&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=102509683~102803279~102813109~102887800~102926062~103021830~103027016~103050889~103051953~103055465&cid=1124780276.1744403718&ul=en-us&sr=1920x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&are=1&frm=0&pscdl=&_eu=AEE&_s=2&sid=1744403718&sct=1&seg=0&dl=https%3A%2F%2Fwww.henrys-cars.com%2Fskoda%2Fused-cars%2Fskoda-kamiq-1-0-tsi-110ps-se-l-executive-auto-dsg-suv-lez-compliant-fd73txo&dr=https%3A%2F%2Fwww.henrys-cars.com%2Fskoda%2Fused-cars%2Fskoda-kamiq-1-0-tsi-110ps-se-l-executive-auto-dsg-suv-lez-compliant-fd73txo&dt=Used%20SKODA%20Kamiq%201.0%20TSI%20(110ps)%20SE%20L%20Executive%20Auto%2FDSG%20SUV%20*LEZ%20Compliant*%20-%20FD73TXO%20Glasgow%20%7C%20Approved%20SKODA%20Kamiq%201.0%20TSI%20(110ps)%20SE%20L%20Executive%20Auto%2FDSG%20SUV%20*LEZ%20Compliant*%20-%20FD73TXO%20Glasgow&en=form_start&ep.form_id=a0a99e0d-afaa-e5d2-36d9-427de115c04b-plugin-form&ep.form_name=&ep.form_destination=https%3A%2F%2Fplugins.codeweavers.net%2Fplugins%2Fv1%2Fplatform%2Ffinance%2Fflexicalc&epn.form_length=9&tfd=6399",
+        "https://plugins.codeweavers.net/plugins/v1/platform/finance/flexicalc",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/css/plugin.css",
+        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
+        "https://plugins.codeweavers.net/vendor/angular-i18n/1.6.0/angular-locale_en-gb.min.js",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/js/plugin.js",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=qc644k6AtY68a51kSL&cw_psid=880f7a9c-2116-4ef0-86c9-b69a323d0a80",
+        "https://plugins.codeweavers.net/apps/flexicalc/js/vendor.js?v=2"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-11T20:35:23.370Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/skoda/used-cars/skoda-kamiq-1-0-tsi-110ps-se-l-executive-auto-dsg-suv-lez-compliant-fd73txo",
+    "dealer_id": "7642",
+    "car_id": "26252385",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAMIQ",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 SE L Executive DSG",
+        "registration_number": "FD73TXO",
+        "registration_date": "31/12/2023",
+        "mileage": 18498,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 2149.5,
+        "balance": 16845.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 48,
+        "regular_payment": 289.39,
+        "final_payment": 8897.5,
+        "total_amount_payable": 24648.33,
+        "total_charge_for_credit": 5653.33,
+        "amount_of_credit": 16845.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3,
+        "residual": 8887.5,
+        "price_to_buy": 8897.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 2149.5,
+        "balance": 16845.5,
+        "apr": 11.3,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 433.21,
+        "final_payment": 443.21,
+        "total_amount_payable": 22953.58,
+        "total_charge_for_credit": 3958.58,
+        "amount_of_credit": 16845.5,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

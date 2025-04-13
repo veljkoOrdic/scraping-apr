@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T15:18:43.997Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thamesvalleycars.co.uk/vehicle/peugeot-108-10-allure-hatchback-5dr-petrol-manual-euro-6-ss-72-ps-in-wokingham-berkshire-35dc9ff8-b442-4061-a645-bfa8dc6d6fe2",
+    "dealer_id": "6385",
+    "car_id": "26395448",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "108",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 72 Allure",
+        "registration_number": "RV69CVA",
+        "registration_date": "11/11/2019",
+        "mileage": 30436,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7795,
+        "total_price": 7795,
+        "deposit": 779.5,
+        "balance": 7015.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 55,
+        "regular_payment": 141.82,
+        "final_payment": 1729.94,
+        "total_amount_payable": 10167.72,
+        "total_charge_for_credit": 2372.72,
+        "amount_of_credit": 7015.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 1.32,
+        "residual": 1728.94,
+        "price_to_buy": 1729.94
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7795,
+        "total_price": 7795,
+        "deposit": 779.5,
+        "balance": 7015.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 150.4,
+        "final_payment": 151.4,
+        "total_amount_payable": 9804.5,
+        "total_charge_for_credit": 2009.5,
+        "amount_of_credit": 7015.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

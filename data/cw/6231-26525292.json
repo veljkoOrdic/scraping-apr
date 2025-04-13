@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-04-11T17:23:11.498Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/bentley-flying-spur-40-v8-s-auto-4wd-euro-6-4dr",
+    "dealer_id": "6231",
+    "car_id": "26525292",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "FLYING SPUR",
+        "variant": "SALOON",
+        "derivative": "4.0 V8 S",
+        "registration_number": "DG67UAN",
+        "registration_date": "19/09/2017",
+        "mileage": 17071,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 733.27,
+        "final_payment": 30340.74,
+        "total_amount_payable": 70303.93,
+        "total_charge_for_credit": 15308.93,
+        "amount_of_credit": 49495.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 1999,
+        "balance": 52996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1330.85,
+        "final_payment": 1330.85,
+        "total_amount_payable": 65879.8,
+        "total_charge_for_credit": 10884.8,
+        "amount_of_credit": 52996,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

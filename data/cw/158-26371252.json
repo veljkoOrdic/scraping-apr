@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-04-11T16:16:33.007Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aldridgevehicleservices.co.uk/used-cars/18923403-ford-transit-custom-2.0-320-eco-blue-trail-crew-van-l2-h1-euro-6-s-s-5dr/",
+    "dealer_id": "158",
+    "car_id": "26371252",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "320 L2 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps Low Roof D/Cab Trail Van",
+        "registration_number": "RV71UEU",
+        "registration_date": "26/10/2021",
+        "mileage": 37000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41994,
+        "total_price": 41994,
+        "deposit": 10498.5,
+        "balance": 31495.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.55,
+        "term": 48,
+        "regular_payment": 666.94,
+        "final_payment": 6318,
+        "total_amount_payable": 48829.62,
+        "total_charge_for_credit": 6835.62,
+        "amount_of_credit": 31495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 2.82,
+        "residual": 6318,
+        "price_to_buy": 6318
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41994,
+        "total_price": 41994,
+        "deposit": 10498.5,
+        "balance": 31495.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 647.02,
+        "final_payment": 648.02,
+        "total_amount_payable": 49320.7,
+        "total_charge_for_credit": 7326.7,
+        "amount_of_credit": 31495.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]
