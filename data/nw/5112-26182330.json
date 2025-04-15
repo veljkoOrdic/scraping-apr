@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:04:32.306Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.campbelltradesalesltd.com/used-volkswagen-beetle-armagh-armagh-6467275",
+    "dealer_id": "5112",
+    "car_id": "26182330",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM16BXV",
+        "registration_date": "25/05/2016",
+        "mileage": 74224,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 0,
+        "balance": 11995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 257.16,
+        "final_payment": 258.16,
+        "total_amount_payable": 15430.6,
+        "total_charge_for_credit": 3435.6,
+        "amount_of_credit": 11995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

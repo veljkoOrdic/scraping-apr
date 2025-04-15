@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T03:11:24.902Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.elderwoodmotors.co.uk/used-volkswagen-tiguan-peterborough-cambridgeshire-6679826",
+    "dealer_id": "6834",
+    "car_id": "26994776",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HD21GPO",
+        "registration_date": "16/07/2021",
+        "mileage": 44023,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 990,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 24400.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 10,
+        "balance": 15980,
+        "apr": 13.4,
+        "rate_of_interest": 6.98,
+        "term": 48,
+        "regular_payment": 307.374883955076,
+        "final_payment": 7669.87,
+        "total_amount_payable": 22126.49,
+        "total_charge_for_credit": 6136.49,
+        "amount_of_credit": 15980,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.12,
+        "residual": 7352.5,
+        "price_to_buy": 7669.87
+      }
+    ]
+  }
+]

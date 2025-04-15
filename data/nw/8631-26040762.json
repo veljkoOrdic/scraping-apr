@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:47:18.732Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thecar-collection.co.uk/cars/mercedes-benz/eclass/2.0-e220d-amg-line/1295912/",
+    "dealer_id": "8631",
+    "car_id": "26040762",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS66NYO",
+        "registration_date": "10/01/2017",
+        "mileage": 90600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 99,
+        "balance": 14396,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 321.53,
+        "final_payment": 331.53,
+        "total_amount_payable": 19400.8,
+        "total_charge_for_credit": 4905.8,
+        "amount_of_credit": 14396,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:07:35.098Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belgravecommercials.co.uk/used-ford-transit-plympton-devon-6712851",
+    "dealer_id": "3456",
+    "car_id": "27173273",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BG22OHR",
+        "registration_date": "27/07/2022",
+        "mileage": 26195,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22200,
+        "total_price": 22200,
+        "deposit": 3700,
+        "balance": 18500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 388.33,
+        "final_payment": 388.33,
+        "total_amount_payable": 26999.8,
+        "total_charge_for_credit": 4799.8,
+        "amount_of_credit": 18500,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

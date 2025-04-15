@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:27:43.665Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bowkermotorgroup.co.uk/bmw-used-cars/asset/2024-bmw-m340d-xdrive-saloon-2",
+    "dealer_id": "6025",
+    "car_id": "25592765",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YL73LNO",
+        "registration_date": "16/01/2024",
+        "mileage": 10912,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44740,
+        "total_price": 44740,
+        "deposit": 5074,
+        "balance": 39666,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 996.1,
+        "final_payment": 996.1,
+        "total_amount_payable": 52886.8,
+        "total_charge_for_credit": 8146.8,
+        "amount_of_credit": 39666,
+        "lender": "BMW Financial Services (GB) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44740,
+        "total_price": 44740,
+        "deposit": 5074,
+        "balance": 39666,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 652.55,
+        "final_payment": 20609.5,
+        "total_amount_payable": 56353.35,
+        "total_charge_for_credit": 11613.35,
+        "amount_of_credit": 39666,
+        "lender": "BMW Financial Services (GB) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.11,
+        "residual": 20609.5,
+        "price_to_buy": 20609.5
+      }
+    ]
+  }
+]

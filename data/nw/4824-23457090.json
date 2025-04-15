@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:00:26.831Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkilkennycars.co.uk/used-ford-focus-edinburgh-scotland-4507377",
+    "dealer_id": "4824",
+    "car_id": "23457090",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK59PFY",
+        "registration_date": "30/09/2009",
+        "mileage": 69000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4495,
+        "total_price": 4495,
+        "deposit": 0,
+        "balance": 4495,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 119.01,
+        "final_payment": 119.01,
+        "total_amount_payable": 7140.6,
+        "total_charge_for_credit": 2645.6,
+        "amount_of_credit": 4495,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

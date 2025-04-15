@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:57:37.080Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmallinggarage.co.uk/used/cars/skoda/citigo/se-mpi-asg-only-21-000-miles-from-new-1737",
+    "dealer_id": "5098",
+    "car_id": "23978210",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AY18XDH",
+        "registration_date": "17/03/2018",
+        "mileage": 21000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 0,
+        "balance": 9495,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 207.85,
+        "final_payment": 207.85,
+        "total_amount_payable": 12471,
+        "total_charge_for_credit": 2976,
+        "amount_of_credit": 9495,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

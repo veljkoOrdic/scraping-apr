@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:22:15.741Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carterandhaines.co.uk/used/cars/land-rover/defender/110-3-0-d300-mhev-x-dynamic-hse-suv-5dr-diesel-auto-4wd-euro-6-s-s-300ps-307",
+    "dealer_id": "7028",
+    "car_id": "27690153",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM72LFD",
+        "registration_date": "20/10/2022",
+        "mileage": 15693,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 29995,
+        "balance": 50000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1049.54,
+        "final_payment": 1050.54,
+        "total_amount_payable": 92968.4,
+        "total_charge_for_credit": 12973.4,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

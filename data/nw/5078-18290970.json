@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:44:05.804Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heartysofpeterborough.co.uk/used-skoda-superb-peterborough-cambridgeshire-4603110",
+    "dealer_id": "5078",
+    "car_id": "18290970",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HY68WVW",
+        "registration_date": "18/12/2018",
+        "mileage": 91411,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13690,
+        "total_price": 13690,
+        "deposit": 1369,
+        "balance": 12321,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 320.2,
+        "final_payment": 321.2,
+        "total_amount_payable": 16739.6,
+        "total_charge_for_credit": 3049.6,
+        "amount_of_credit": 12321,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

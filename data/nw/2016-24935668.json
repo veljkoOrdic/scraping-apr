@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": "2025-04-14T21:39:26.788Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/bmw/4series/3.0-435d-m-sport-auto-xdrive-euro-6-ss-2dr/1208815/",
+    "dealer_id": "2016",
+    "car_id": "24935668",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG66SDY",
+        "registration_date": "21/09/2016",
+        "mileage": 51000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 1699.9,
+        "balance": 15299.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 321.14,
+        "final_payment": 322.14,
+        "total_amount_payable": 20969.3,
+        "total_charge_for_credit": 3970.3,
+        "amount_of_credit": 15299.1,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-14T21:39:26.853Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/bmw/4series/3.0-435d-m-sport-auto-xdrive-euro-6-ss-2dr/1208815/",
+    "dealer_id": "2016",
+    "car_id": "24935668",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG66SDY",
+        "registration_date": "21/09/2016",
+        "mileage": 51000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 0,
+        "balance": 16999,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 356.82,
+        "final_payment": 357.82,
+        "total_amount_payable": 21410.2,
+        "total_charge_for_credit": 4411.2,
+        "amount_of_credit": 16999,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

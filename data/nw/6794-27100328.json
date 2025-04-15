@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:46:54.227Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gycars.co.uk/cars/skoda/kodiaq/2.0-tsi-se-l-**7-seater**-**automatic**-**15-months-warranty-**-full-service-history-**/1383259/",
+    "dealer_id": "6794",
+    "car_id": "27100328",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN22RUH",
+        "registration_date": "24/05/2022",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 1349.75,
+        "balance": 25645.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 549.81,
+        "final_payment": 550.81,
+        "total_amount_payable": 34339.35,
+        "total_charge_for_credit": 7344.35,
+        "amount_of_credit": 25645.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 1349.75,
+        "balance": 25645.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.35,
+        "term": 49,
+        "regular_payment": 456.19,
+        "final_payment": 11886.82,
+        "total_amount_payable": 35133.69,
+        "total_charge_for_credit": 8138.69,
+        "amount_of_credit": 25645.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 11885.82,
+        "price_to_buy": 11886.82
+      }
+    ]
+  }
+]

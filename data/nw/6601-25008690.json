@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:59:12.149Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.winfordroadgarages.co.uk/used-car-details/used-ford-fiesta-10-100ps-titanium-vignale-hatchback-moondust-silver-manual-petrol/id-10445/",
+    "dealer_id": "6601",
+    "car_id": "25008690",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN22PNZ",
+        "registration_date": "20/06/2022",
+        "mileage": 9094,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15500,
+        "total_price": 15500,
+        "deposit": 3100,
+        "balance": 12400,
+        "apr": 10.4,
+        "rate_of_interest": 5.45,
+        "term": 60,
+        "regular_payment": 262.94,
+        "final_payment": 272.94,
+        "total_amount_payable": 18886.4,
+        "total_charge_for_credit": 3386.4,
+        "amount_of_credit": 12400,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15500,
+        "total_price": 15500,
+        "deposit": 3100,
+        "balance": 12400,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 49,
+        "regular_payment": 185.32,
+        "final_payment": 7615,
+        "total_amount_payable": 19610.36,
+        "total_charge_for_credit": 4110.36,
+        "amount_of_credit": 12400,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0,
+        "residual": 7605,
+        "price_to_buy": 7615
+      }
+    ]
+  }
+]

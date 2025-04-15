@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:46:22.381Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ntrcars.co.uk/used-ford-ranger-haverfordwest-pembrokeshire-4247957",
+    "dealer_id": "6914",
+    "car_id": "20036063",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YW66KNM",
+        "registration_date": "28/09/2016",
+        "mileage": 84625,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299,
+        "balance": 29696,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 650.05,
+        "final_payment": 651.05,
+        "total_amount_payable": 42303,
+        "total_charge_for_credit": 9308,
+        "amount_of_credit": 29696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

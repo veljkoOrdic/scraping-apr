@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:37:22.957Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehertfordcarcompany.co.uk/used-tesla-model-x-hertford-hertfordshire-6218953",
+    "dealer_id": "3137",
+    "car_id": "25151038",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MW70XXN",
+        "registration_date": "16/12/2020",
+        "mileage": 72183,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29989,
+        "total_price": 29989,
+        "deposit": 2998,
+        "balance": 26991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.55,
+        "final_payment": 567.55,
+        "total_amount_payable": 36992,
+        "total_charge_for_credit": 7003,
+        "amount_of_credit": 26991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

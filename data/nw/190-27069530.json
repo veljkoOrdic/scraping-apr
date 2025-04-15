@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:43:53.631Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.scottmotorcompany.co.uk/used-nissan-qashqai-tamworth-staffordshire-6698059",
+    "dealer_id": "190",
+    "car_id": "27069530",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WM70XPH",
+        "registration_date": "26/01/2021",
+        "mileage": 65833,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11799,
+        "total_price": 11799,
+        "deposit": 1179,
+        "balance": 10620,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 222.91,
+        "final_payment": 223.91,
+        "total_amount_payable": 14554.6,
+        "total_charge_for_credit": 2755.6,
+        "amount_of_credit": 10620,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11799,
+        "total_price": 11799,
+        "deposit": 1179,
+        "balance": 10620,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 182.07,
+        "final_payment": 4954.56,
+        "total_amount_payable": 14872.92,
+        "total_charge_for_credit": 3073.92,
+        "amount_of_credit": 10620,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 4953.56,
+        "price_to_buy": 4954.56
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:35:04.103Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.primemotorsessex.co.uk/used-audi-q7-harlow-essex-6394214",
+    "dealer_id": "8352",
+    "car_id": "25972084",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY68XGX",
+        "registration_date": "04/01/2019",
+        "mileage": 82000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31749,
+        "total_price": 31749,
+        "deposit": 3174,
+        "balance": 28575,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 586.9,
+        "final_payment": 596.9,
+        "total_amount_payable": 38398,
+        "total_charge_for_credit": 6649,
+        "amount_of_credit": 28575,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

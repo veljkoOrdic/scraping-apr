@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:27:42.215Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehighlinecargroup.co.uk/used/cars/land-rover/range-rover-sport/5-0-range-rover-sport-svr-carbon-edition-auto-4wd-5dr-212",
+    "dealer_id": "7922",
+    "car_id": "23289796",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BU71NDD",
+        "registration_date": "15/10/2021",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1322.32,
+        "final_payment": 1322.32,
+        "total_amount_payable": 86338.7,
+        "total_charge_for_credit": 16343.7,
+        "amount_of_credit": 62995.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999.5,
+        "balance": 62995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 1120.3,
+        "final_payment": 27030,
+        "total_amount_payable": 87803.9,
+        "total_charge_for_credit": 17808.9,
+        "amount_of_credit": 62995.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 27020,
+        "price_to_buy": 27030
+      }
+    ]
+  }
+]

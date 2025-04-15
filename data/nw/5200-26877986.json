@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:32:38.651Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.britanniamotorcompany.com/used-mercedes-benz-vito-newport-gwent-6648675",
+    "dealer_id": "5200",
+    "car_id": "26877986",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK69JSU",
+        "registration_date": "23/12/2019",
+        "mileage": 44000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 578.68,
+        "final_payment": 578.68,
+        "total_amount_payable": 37719.8,
+        "total_charge_for_credit": 7729.8,
+        "amount_of_credit": 26991,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

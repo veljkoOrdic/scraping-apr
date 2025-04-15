@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:09.850Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-mercedes-benz-v-class-chelmsford-essex-6770144",
+    "dealer_id": "6414",
+    "car_id": "27349072",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU65MVC",
+        "registration_date": "07/09/2015",
+        "mileage": 97399,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24495,
+        "total_price": 24495,
+        "deposit": 2449,
+        "balance": 22046,
+        "apr": 16.9,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 532.69,
+        "final_payment": 542.69,
+        "total_amount_payable": 34420.4,
+        "total_charge_for_credit": 9925.4,
+        "amount_of_credit": 22046,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

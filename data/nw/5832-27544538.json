@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:28:15.497Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.themotorfamily.co.uk/vehicle-details/used-vauxhall-vivaro-life-1-5-turbo-d-120ps-edition-l-5dr-9-seat-for-sale-u1621/",
+    "dealer_id": "5832",
+    "car_id": "27544538",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF71UXR",
+        "registration_date": "04/02/2022",
+        "mileage": 17537,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 250,
+        "balance": 24745,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 519.4,
+        "final_payment": 520.4,
+        "total_amount_payable": 31415,
+        "total_charge_for_credit": 6420,
+        "amount_of_credit": 24745,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

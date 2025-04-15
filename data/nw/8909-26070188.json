@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:37:33.049Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.broadlandsvehicles.com/details/used-car-in-romsey/landrover/rangerover/3.0-d350-mhev-hse-auto-4wd-euro-6-ss-5dr/1298378/",
+    "dealer_id": "8909",
+    "car_id": "26070188",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY72XJK",
+        "registration_date": "17/12/2022",
+        "mileage": 20701,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 80995,
+        "total_price": 80995,
+        "deposit": 10995,
+        "balance": 70000,
+        "apr": 11.1,
+        "rate_of_interest": 5.83,
+        "term": 60,
+        "regular_payment": 1506.96,
+        "final_payment": 1516.96,
+        "total_amount_payable": 101422.6,
+        "total_charge_for_credit": 20427.6,
+        "amount_of_credit": 70000,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 80995,
+        "total_price": 80995,
+        "deposit": 0,
+        "balance": 80995,
+        "apr": 11.1,
+        "rate_of_interest": 5.77,
+        "term": 49,
+        "regular_payment": 1443.61,
+        "final_payment": 37945,
+        "total_amount_payable": 107238.28,
+        "total_charge_for_credit": 26243.28,
+        "amount_of_credit": 80995,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 37935,
+        "price_to_buy": 37945
+      }
+    ]
+  }
+]

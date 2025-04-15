@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:56:16.539Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ktcarsltd.com/used-citroen-c3-aircross-weldon-northamptonshire-6571544",
+    "dealer_id": "3256",
+    "car_id": "26599507",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NU22VFH",
+        "registration_date": "29/04/2022",
+        "mileage": 56916,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9795,
+        "total_price": 9795,
+        "deposit": 0,
+        "balance": 9795,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 258.86,
+        "final_payment": 259.86,
+        "total_amount_payable": 12426.28,
+        "total_charge_for_credit": 2631.28,
+        "amount_of_credit": 9795,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9795,
+        "total_price": 9795,
+        "deposit": 0,
+        "balance": 9795,
+        "apr": 12.9,
+        "rate_of_interest": 6.3,
+        "term": 49,
+        "regular_payment": 185.67,
+        "final_payment": 4546.26,
+        "total_amount_payable": 13458.42,
+        "total_charge_for_credit": 3663.42,
+        "amount_of_credit": 9795,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 4545.26,
+        "price_to_buy": 4546.26
+      }
+    ]
+  }
+]

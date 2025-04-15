@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:44:05.278Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belmontautos.co.uk/used-vauxhall-corsa-glasgow-scotland-4222425",
+    "dealer_id": "6045",
+    "car_id": "16755688",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG19XNK",
+        "registration_date": "12/03/2019",
+        "mileage": 19175,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7999,
+        "total_price": 7999,
+        "deposit": 300,
+        "balance": 7699,
+        "apr": 12.4,
+        "rate_of_interest": 6.52,
+        "term": 60,
+        "regular_payment": 170.15,
+        "final_payment": 180.15,
+        "total_amount_payable": 10519,
+        "total_charge_for_credit": 2520,
+        "amount_of_credit": 7699,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

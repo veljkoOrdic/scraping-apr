@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:14:53.528Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.piccadillymotors.co.uk/used-car-details/used-kia-sportage-16-t-gdi-mhev-gt-line-suv-5dr-suv-red-automatic-petrol-hybrid/id-1147/",
+    "dealer_id": "8759",
+    "car_id": "27218015",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG72CYX",
+        "registration_date": "31/01/2023",
+        "mileage": 17505,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 3899,
+        "balance": 22096,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 554.71,
+        "final_payment": 564.71,
+        "total_amount_payable": 30535.08,
+        "total_charge_for_credit": 4540.08,
+        "amount_of_credit": 22096,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 3899,
+        "balance": 22096,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 363.68,
+        "final_payment": 11194.5,
+        "total_amount_payable": 32550.14,
+        "total_charge_for_credit": 6555.14,
+        "amount_of_credit": 22096,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 11194.5,
+        "price_to_buy": 11194.5
+      }
+    ]
+  }
+]

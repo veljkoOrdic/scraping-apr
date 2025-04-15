@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:53:05.004Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rmfisher.co.uk/used-car-details/used-cupra-ateca-15-ecotsi-v1-dsg-euro-6-ss-suv-black-automatic-petrol/id-202404088417498/",
+    "dealer_id": "5083",
+    "car_id": "23952041",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DF73NUK",
+        "registration_date": "28/12/2023",
+        "mileage": 7300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 4049,
+        "balance": 22946,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 60,
+        "regular_payment": 496.97,
+        "final_payment": 506.97,
+        "total_amount_payable": 33877.2,
+        "total_charge_for_credit": 6882.2,
+        "amount_of_credit": 22946,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 4049,
+        "balance": 22946,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 49,
+        "regular_payment": 392.22,
+        "final_payment": 12002.5,
+        "total_amount_payable": 34878.06,
+        "total_charge_for_credit": 7883.06,
+        "amount_of_credit": 22946,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.06,
+        "residual": 11992.5,
+        "price_to_buy": 12002.5
+      }
+    ]
+  }
+]

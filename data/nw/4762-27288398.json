@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:45:19.715Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.west-motors.co.uk/used/cars/nissan/qashqai/dci-tekna-2954",
+    "dealer_id": "4762",
+    "car_id": "27288398",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DW16DAU",
+        "registration_date": "15/08/2016",
+        "mileage": 128938,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4800,
+        "total_price": 4800,
+        "deposit": 0,
+        "balance": 4800,
+        "apr": 12.1,
+        "rate_of_interest": 6.34,
+        "term": 60,
+        "regular_payment": 105.38,
+        "final_payment": 115.38,
+        "total_amount_payable": 6332.8,
+        "total_charge_for_credit": 1532.8,
+        "amount_of_credit": 4800,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

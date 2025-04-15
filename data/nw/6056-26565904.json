@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:46:12.638Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dinnages.co.uk/used-car-details/used-renault-captur-16-e-tech-e-tech-engineered-s-suv-diamond-black-automatic-petrol-hybrid/id-7023457870083063725/",
+    "dealer_id": "6056",
+    "car_id": "26565904",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GL73YWD",
+        "registration_date": "19/02/2024",
+        "mileage": 5980,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 4000,
+        "balance": 16000,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 532.9,
+        "final_payment": 533.9,
+        "total_amount_payable": 23185.4,
+        "total_charge_for_credit": 3185.4,
+        "amount_of_credit": 16000,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 4000,
+        "balance": 16000,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 50,
+        "regular_payment": 275.92,
+        "final_payment": 8939.25,
+        "total_amount_payable": 26459.33,
+        "total_charge_for_credit": 6459.33,
+        "amount_of_credit": 16000,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 0.05,
+        "residual": 8939.25,
+        "price_to_buy": 8939.25
+      }
+    ]
+  }
+]

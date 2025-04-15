@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:25:08.712Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/ferrari/ferrari-portofino-gt-2dr-auto/",
+    "dealer_id": "7286",
+    "car_id": "26550076",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV19LLJ",
+        "registration_date": "25/04/2019",
+        "mileage": 7000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 124995,
+        "total_price": 124995,
+        "deposit": 0,
+        "balance": 124995,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 3221.11,
+        "final_payment": 3222.11,
+        "total_amount_payable": 154614.28,
+        "total_charge_for_credit": 29619.28,
+        "amount_of_credit": 124995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

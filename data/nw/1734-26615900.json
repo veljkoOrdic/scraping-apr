@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:03:13.592Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-land-rover-discovery-sport-fareham-hampshire-6576320",
+    "dealer_id": "1734",
+    "car_id": "26615900",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BW68GVK",
+        "registration_date": "22/12/2018",
+        "mileage": 80953,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13485,
+        "total_price": 13485,
+        "deposit": 1348,
+        "balance": 12137,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 271.16,
+        "final_payment": 272.16,
+        "total_amount_payable": 17618.6,
+        "total_charge_for_credit": 4133.6,
+        "amount_of_credit": 12137,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13485,
+        "total_price": 13485,
+        "deposit": 1348,
+        "balance": 12137,
+        "apr": 13.5,
+        "rate_of_interest": 6.91,
+        "term": 33,
+        "regular_payment": 281.18,
+        "final_payment": 6433,
+        "total_amount_payable": 16778.76,
+        "total_charge_for_credit": 3293.76,
+        "amount_of_credit": 12137,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 27500,
+        "excess_mileage_rate": 0.09,
+        "residual": 6423,
+        "price_to_buy": 6433
+      }
+    ]
+  }
+]

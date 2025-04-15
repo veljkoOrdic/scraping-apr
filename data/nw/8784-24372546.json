@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:21:49.407Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/mercedes-benz/g-series/g-400-d-4matic-amg-line-premium-plus-178",
+    "dealer_id": "8784",
+    "car_id": "24372546",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MR04JWS",
+        "registration_date": "11/11/2022",
+        "mileage": 13750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 114950,
+        "total_price": 114950,
+        "deposit": 11495,
+        "balance": 103455,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 2125.33,
+        "final_payment": 2126.33,
+        "total_amount_payable": 139015.8,
+        "total_charge_for_credit": 24065.8,
+        "amount_of_credit": 103455,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 114950,
+        "total_price": 114950,
+        "deposit": 11495,
+        "balance": 103455,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1525.16,
+        "final_payment": 46270.3,
+        "total_amount_payable": 147749.74,
+        "total_charge_for_credit": 32799.74,
+        "amount_of_credit": 103455,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 0.21,
+        "residual": 46269.3,
+        "price_to_buy": 46270.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:31:44.552Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-ioniq-5-77kwh-namsan-edition-5dr-electric-automatic-5-door-hatchback-blue/ck24kng",
+    "dealer_id": "7164",
+    "car_id": "27710173",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK24KNG",
+        "registration_date": "02/03/2024",
+        "mileage": 8033,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35899,
+        "total_price": 35899,
+        "deposit": 0,
+        "balance": 35899,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 802.09,
+        "final_payment": 802.09,
+        "total_amount_payable": 48125.4,
+        "total_charge_for_credit": 12226.4,
+        "amount_of_credit": 35899,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35899,
+        "total_price": 35899,
+        "deposit": 0,
+        "balance": 35899,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 725.19,
+        "final_payment": 13885.11,
+        "total_amount_payable": 48694.23,
+        "total_charge_for_credit": 12795.23,
+        "amount_of_credit": 35899,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.149,
+        "residual": 13885.11,
+        "price_to_buy": 13885.11
+      }
+    ]
+  }
+]

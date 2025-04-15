@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:59:16.235Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fontain.co.uk/vehicle/used-bmw-4-series-435i-m-sport-for-sale-in-iver-buckinghamshire-u12916/",
+    "dealer_id": "7355",
+    "car_id": "18927206",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "B18RDS",
+        "registration_date": "07/12/2013",
+        "mileage": 11500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 9748.5,
+        "balance": 22746.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 43,
+        "regular_payment": 635.81,
+        "final_payment": 636.81,
+        "total_amount_payable": 37089.33,
+        "total_charge_for_credit": 4594.33,
+        "amount_of_credit": 22746.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

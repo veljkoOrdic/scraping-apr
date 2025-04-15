@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:37:47.365Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.avantiautomotive.co.uk/vehicle-details/used-citroen-dispatch-bluehdi-1400-enterprise-m-for-sale-in-bristol-gloucestershire-u3748/",
+    "dealer_id": "5434",
+    "car_id": "23296576",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AX70APO",
+        "registration_date": "31/01/2021",
+        "mileage": 80879,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11400,
+        "total_price": 11400,
+        "deposit": 1900,
+        "balance": 9500,
+        "apr": 12.7,
+        "rate_of_interest": 6.72,
+        "term": 60,
+        "regular_payment": 211.56,
+        "final_payment": 212.56,
+        "total_amount_payable": 14594.6,
+        "total_charge_for_credit": 3194.6,
+        "amount_of_credit": 9500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:54:25.406Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.donnellyautomotive.co.uk/used-bmw-3-series-clady-county-antrim-6590793",
+    "dealer_id": "7857",
+    "car_id": "26668348",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO70DUJ",
+        "registration_date": "21/12/2020",
+        "mileage": 47700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23749,
+        "total_price": 23749,
+        "deposit": 2374,
+        "balance": 21375,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 448.68,
+        "final_payment": 448.68,
+        "total_amount_payable": 29294.8,
+        "total_charge_for_credit": 5545.8,
+        "amount_of_credit": 21375,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23749,
+        "total_price": 23749,
+        "deposit": 2374,
+        "balance": 21375,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 384.83,
+        "final_payment": 8896,
+        "total_amount_payable": 29741.84,
+        "total_charge_for_credit": 5992.84,
+        "amount_of_credit": 21375,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 8896,
+        "price_to_buy": 8896
+      }
+    ]
+  }
+]

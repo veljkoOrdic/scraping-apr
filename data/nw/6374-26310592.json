@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:02:50.154Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.norwichmc.co.uk/used-volkswagen-caddy-maxi-norwich-norfolk-6336209",
+    "dealer_id": "6374",
+    "car_id": "26310592",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD68WKX",
+        "registration_date": "31/10/2018",
+        "mileage": 31500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 1699,
+        "balance": 15300,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 321.15,
+        "final_payment": 322.15,
+        "total_amount_payable": 20969,
+        "total_charge_for_credit": 3970,
+        "amount_of_credit": 15300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

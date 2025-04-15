@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:28:32.023Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-mercedes-benz-s-class-bayford-hertfordshire-5267154",
+    "dealer_id": "3049",
+    "car_id": "21087964",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB18KNN",
+        "registration_date": "22/03/2018",
+        "mileage": 46000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30950,
+        "total_price": 30950,
+        "deposit": 3095,
+        "balance": 27855,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 572.23,
+        "final_payment": 573.23,
+        "total_amount_payable": 37429.8,
+        "total_charge_for_credit": 6479.8,
+        "amount_of_credit": 27855,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

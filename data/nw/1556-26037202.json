@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:33:34.161Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajautos.com/details/used-car-in-bournemouth/citroen/c5aircross/1.2-puretech-flair-plus-euro-6-ss-5dr/1295550/",
+    "dealer_id": "1556",
+    "car_id": "26037202",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS68BVG",
+        "registration_date": "02/01/2019",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13950,
+        "total_price": 13950,
+        "deposit": 1395,
+        "balance": 12555,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 309.78,
+        "final_payment": 310.78,
+        "total_amount_payable": 16265.44,
+        "total_charge_for_credit": 2315.44,
+        "amount_of_credit": 12555,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

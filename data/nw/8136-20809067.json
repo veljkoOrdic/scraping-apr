@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:29:38.418Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.commercialvans.co.uk/vans/peugeot/boxer/2.2-bluehdi-335-professional/854065/",
+    "dealer_id": "8136",
+    "car_id": "20809067",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD71UNV",
+        "registration_date": "02/09/2021",
+        "mileage": 79308,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15594,
+        "total_price": 15594,
+        "deposit": 649.75,
+        "balance": 12345.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 315.41,
+        "final_payment": 316.41,
+        "total_amount_payable": 18389.43,
+        "total_charge_for_credit": 2795.43,
+        "amount_of_credit": 12345.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T21:43:43.248Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/used-cars/peugeot-508-1-6-12-4kwh-gt-premium-e-eat-euro-6-s-s-5dr-5-door-estate-black/hj73ety",
+    "dealer_id": "5667",
+    "car_id": "23900993",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ73ETY",
+        "registration_date": "31/01/2024",
+        "mileage": 150,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30969,
+        "total_price": 30969,
+        "deposit": 3097,
+        "balance": 27872,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 503.52,
+        "final_payment": 10125,
+        "total_amount_payable": 36887.44,
+        "total_charge_for_credit": 5918.44,
+        "amount_of_credit": 27872,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.125,
+        "residual": 10125,
+        "price_to_buy": 10125
+      }
+    ]
+  }
+]

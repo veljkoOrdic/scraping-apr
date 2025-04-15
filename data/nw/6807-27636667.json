@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:50:54.964Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-renault-zoe-ampthill-bedfordshire-6812490",
+    "dealer_id": "6807",
+    "car_id": "27636667",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU15KGZ",
+        "registration_date": "31/03/2015",
+        "mileage": 82000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3789,
+        "total_price": 3789,
+        "deposit": 378,
+        "balance": 3411,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 59,
+        "regular_payment": 72.54,
+        "final_payment": 73.54,
+        "total_amount_payable": 4658.86,
+        "total_charge_for_credit": 869.86,
+        "amount_of_credit": 3411,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:06:26.779Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eagleshamgarage.co.uk/vehicle-details/used-dodge-challenger-r-t-shaker-for-sale-in-eaglesham-glasgow-u146/",
+    "dealer_id": "4562",
+    "car_id": "25065130",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF73CXZ",
+        "registration_date": "31/08/2023",
+        "mileage": 786,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 2499.75,
+        "balance": 47495.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 996.95,
+        "final_payment": 997.95,
+        "total_amount_payable": 62317.75,
+        "total_charge_for_credit": 12322.75,
+        "amount_of_credit": 47495.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

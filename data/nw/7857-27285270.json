@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:54:59.552Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.donnellyautomotive.co.uk/used-volkswagen-touareg-clady-county-antrim-6755580",
+    "dealer_id": "7857",
+    "car_id": "27285270",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CP18OUV",
+        "registration_date": "28/06/2018",
+        "mileage": 69900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849,
+        "balance": 25646,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 538.33,
+        "final_payment": 538.33,
+        "total_amount_payable": 35148.8,
+        "total_charge_for_credit": 6653.8,
+        "amount_of_credit": 25646,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

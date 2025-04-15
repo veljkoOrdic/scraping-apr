@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-04-14T20:39:05.635Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seniorcars.co.uk/details/used-car-in-market-harborough/astonmartin/dbx/4.0-v8-auto-4wd-euro-6-ss-5dr/1394195/",
+    "dealer_id": "5450",
+    "car_id": "27218899",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MM21UTK",
+        "registration_date": "04/03/2021",
+        "mileage": 17000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 92000,
+        "total_price": 92000,
+        "deposit": 9200,
+        "balance": 82800,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 1303.39,
+        "final_payment": 45428.5,
+        "balloon": 45427.5,
+        "total_amount_payable": 117191.22,
+        "total_charge_for_credit": 25191.22,
+        "amount_of_credit": 82800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 45427.5,
+        "price_to_buy": 45428.5
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 92000,
+        "total_price": 92000,
+        "deposit": 9200,
+        "balance": 82800,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 1303.86,
+        "final_payment": 45401.27,
+        "total_amount_payable": 117186.55,
+        "total_charge_for_credit": 25186.55,
+        "amount_of_credit": 82800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.44,
+        "residual": 45400.27,
+        "price_to_buy": 45401.27
+      }
+    ]
+  }
+]

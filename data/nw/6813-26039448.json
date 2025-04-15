@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:57:23.248Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cars4youltd.co.uk/used-mercedes-benz-vito-broxburn-west-lothian-6433714",
+    "dealer_id": "6813",
+    "car_id": "26039448",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ19RKU",
+        "registration_date": "30/04/2019",
+        "mileage": 61100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999,
+        "balance": 26996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.65,
+        "final_payment": 567.65,
+        "total_amount_payable": 36999,
+        "total_charge_for_credit": 7004,
+        "amount_of_credit": 26996,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

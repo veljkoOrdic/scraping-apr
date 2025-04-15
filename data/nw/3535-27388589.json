@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:11:00.203Z",
+    "source": "new_vehicle_finance",
+    "url": "https://keeperscars.co.uk/vehicle/name/land-rover-discovery-3-0-sdv6-hse-luxury-automatic-4wd-5dr-2/",
+    "dealer_id": "3535",
+    "car_id": "27388589",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WH19DWK",
+        "registration_date": "15/08/2019",
+        "mileage": 63000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35000,
+        "total_price": 35000,
+        "deposit": 500,
+        "balance": 34500,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 755.22,
+        "final_payment": 755.22,
+        "total_amount_payable": 45813.2,
+        "total_charge_for_credit": 10813.2,
+        "amount_of_credit": 34500,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35000,
+        "total_price": 35000,
+        "deposit": 500,
+        "balance": 34500,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 652.37,
+        "final_payment": 14875.5,
+        "total_amount_payable": 46689.26,
+        "total_charge_for_credit": 11689.26,
+        "amount_of_credit": 34500,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.07,
+        "residual": 14875.5,
+        "price_to_buy": 14875.5
+      }
+    ]
+  }
+]

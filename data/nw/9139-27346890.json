@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:05:01.297Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hynesmotors.com/used-bmw-m3-rathfriland-county-down-6770974",
+    "dealer_id": "9139",
+    "car_id": "27346890",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FN16UFM",
+        "registration_date": "01/03/2016",
+        "mileage": 71000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999,
+        "balance": 26996,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 603.16,
+        "final_payment": 604.16,
+        "total_amount_payable": 39189.6,
+        "total_charge_for_credit": 9194.6,
+        "amount_of_credit": 26996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

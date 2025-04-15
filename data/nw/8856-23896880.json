@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:32:52.481Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtsixtyseven.com/cars/renault/megane/2.0t-team-f1-team-r26-3dr/1060747/",
+    "dealer_id": "8856",
+    "car_id": "23896880",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "L8OMH",
+        "registration_date": "31/07/2008",
+        "mileage": 70800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349.5,
+        "balance": 12145.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.62,
+        "term": 39,
+        "regular_payment": 368.29,
+        "final_payment": 368.29,
+        "total_amount_payable": 15712.81,
+        "total_charge_for_credit": 2217.81,
+        "amount_of_credit": 12145.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

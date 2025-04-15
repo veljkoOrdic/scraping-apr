@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:33:38.832Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gerryhillcars.com/our-cars/aberdare-toyota-rav-4-vvt-i-excel-awd-7169/",
+    "dealer_id": "4441",
+    "car_id": "25429099",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ66VXO",
+        "registration_date": "30/09/2016",
+        "mileage": 64320,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 285.46,
+        "final_payment": 286.46,
+        "total_amount_payable": 18577.6,
+        "total_charge_for_credit": 4087.6,
+        "amount_of_credit": 13041,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

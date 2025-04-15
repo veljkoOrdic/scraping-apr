@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:28:01.499Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kennymurraycarsltd.co.uk/used-bmw-x1-fraserburgh-aberdeenshire-6281182",
+    "dealer_id": "4914",
+    "car_id": "25400793",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN69TNK",
+        "registration_date": "21/10/2019",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18250,
+        "total_price": 18250,
+        "deposit": 1825,
+        "balance": 16425,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 352.14,
+        "final_payment": 353.14,
+        "total_amount_payable": 22954.4,
+        "total_charge_for_credit": 4704.4,
+        "amount_of_credit": 16425,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

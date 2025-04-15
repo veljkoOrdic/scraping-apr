@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:07:55.087Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-vauxhall-insignia-gateshead-tyne-and-wear-6807087",
+    "dealer_id": "5142",
+    "car_id": "27536064",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX65COU",
+        "registration_date": "03/12/2015",
+        "mileage": 80592,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4990,
+        "total_price": 4990,
+        "deposit": 249,
+        "balance": 4741,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 99.5,
+        "final_payment": 100.5,
+        "total_amount_payable": 6220,
+        "total_charge_for_credit": 1230,
+        "amount_of_credit": 4741,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

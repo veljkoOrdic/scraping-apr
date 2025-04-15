@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:39:17.822Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-mercedes-benz-s-class-hatfield-hertfordshire-6845960",
+    "dealer_id": "4492",
+    "car_id": "27676583",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO73OYZ",
+        "registration_date": "13/12/2023",
+        "mileage": 12950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 102500,
+        "total_price": 102500,
+        "deposit": 20500,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 121958.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 102500,
+        "total_price": 102500,
+        "deposit": 20500,
+        "balance": 82000,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 1358.09,
+        "final_payment": 41049.7,
+        "total_amount_payable": 126738.02,
+        "total_charge_for_credit": 24238.02,
+        "amount_of_credit": 82000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.52,
+        "residual": 41048.7,
+        "price_to_buy": 41049.7
+      }
+    ]
+  }
+]

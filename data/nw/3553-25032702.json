@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:14:02.792Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seankearneycars.com/car-details/audi-a4-346785324",
+    "dealer_id": "3553",
+    "car_id": "25032702",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM67FTD",
+        "registration_date": "31/01/2018",
+        "mileage": 69000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12300,
+        "total_price": 12300,
+        "deposit": 2460,
+        "balance": 9840,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 255.57,
+        "final_payment": 265.57,
+        "total_amount_payable": 14737.36,
+        "total_charge_for_credit": 2437.36,
+        "amount_of_credit": 9840,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

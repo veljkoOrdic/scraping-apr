@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:06:40.494Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-maserati-grancabrio-fareham-hampshire-6640848",
+    "dealer_id": "1734",
+    "car_id": "26850037",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LN65NKX",
+        "registration_date": "16/12/2015",
+        "mileage": 36622,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42000,
+        "total_price": 42000,
+        "deposit": 4200,
+        "balance": 37800,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 844.55,
+        "final_payment": 845.55,
+        "total_amount_payable": 54874,
+        "total_charge_for_credit": 12874,
+        "amount_of_credit": 37800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

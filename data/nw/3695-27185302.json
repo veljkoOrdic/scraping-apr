@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:40:45.261Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/bmw/8-series/3-0-840i-m-sport-auto-2dr-76",
+    "dealer_id": "3695",
+    "car_id": "27185302",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD71XEF",
+        "registration_date": "04/10/2021",
+        "mileage": 11000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36985,
+        "total_price": 36985,
+        "deposit": 0,
+        "balance": 36985,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 760.46,
+        "final_payment": 761.46,
+        "total_amount_payable": 45628.6,
+        "total_charge_for_credit": 8643.6,
+        "amount_of_credit": 36985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36985,
+        "total_price": 36985,
+        "deposit": 0,
+        "balance": 36985,
+        "apr": 8.9,
+        "rate_of_interest": 4.41,
+        "term": 49,
+        "regular_payment": 649.68,
+        "final_payment": 15092.65,
+        "total_amount_payable": 46277.29,
+        "total_charge_for_credit": 9292.29,
+        "amount_of_credit": 36985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 15091.65,
+        "price_to_buy": 15092.65
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:21:10.600Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jeffwhitemotors.co.uk/used-land-rover-range-rover-sport-cardiff-glamorgan-6762655",
+    "dealer_id": "5624",
+    "car_id": "27346828",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS24WBG",
+        "registration_date": "03/06/2024",
+        "mileage": 3129,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78988,
+        "total_price": 78988,
+        "deposit": 0,
+        "balance": 78988,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1693.35,
+        "final_payment": 1703.35,
+        "total_amount_payable": 101611,
+        "total_charge_for_credit": 22623,
+        "amount_of_credit": 78988,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78988,
+        "total_price": 78988,
+        "deposit": 0,
+        "balance": 78988,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 1450.56,
+        "final_payment": 33895.17,
+        "total_amount_payable": 103522.05,
+        "total_charge_for_credit": 24534.05,
+        "amount_of_credit": 78988,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 33895.17,
+        "price_to_buy": 33895.17
+      }
+    ]
+  }
+]

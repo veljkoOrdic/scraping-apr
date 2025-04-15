@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:18:59.301Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thurlownunn.co.uk/used-cars/vauxhall-corsa-1-2-turbo-griffin-hatchback-5dr-petrol-manual-euro-6-s-s-100-ps-5-door-hatchback-power-orange/kn71jxw",
+    "dealer_id": "5356",
+    "car_id": "25079447",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN71JXW",
+        "registration_date": "11/09/2021",
+        "mileage": 17500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12712,
+        "total_price": 12712,
+        "deposit": 1272,
+        "balance": 11440,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 307.23,
+        "final_payment": 317.23,
+        "total_amount_payable": 16029.04,
+        "total_charge_for_credit": 3317.04,
+        "amount_of_credit": 11440,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12712,
+        "total_price": 12712,
+        "deposit": 1272,
+        "balance": 11440,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 236.81,
+        "final_payment": 4658,
+        "total_amount_payable": 17060.07,
+        "total_charge_for_credit": 4348.07,
+        "amount_of_credit": 11440,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.125,
+        "residual": 4658,
+        "price_to_buy": 4658
+      }
+    ]
+  }
+]

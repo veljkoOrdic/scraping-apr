@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:43:33.997Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-seat-leon-newry-northern-ireland-6181998",
+    "dealer_id": "9001",
+    "car_id": "24998379",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FX70VKG",
+        "registration_date": "28/09/2020",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10750,
+        "total_price": 10750,
+        "deposit": 1075,
+        "balance": 9675,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 207.42,
+        "final_payment": 208.42,
+        "total_amount_payable": 13521.2,
+        "total_charge_for_credit": 2771.2,
+        "amount_of_credit": 9675,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

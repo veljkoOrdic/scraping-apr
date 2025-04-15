@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:37:08.806Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcar.co.uk/used-cars/renault/scenic-e-tech-electric-matte-shadow-grey-black-hatchback-YY24XLG",
+    "dealer_id": "5433",
+    "car_id": "27186952",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YY24XLG",
+        "registration_date": "19/06/2024",
+        "mileage": 7250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34999,
+        "total_price": 34999,
+        "deposit": 999,
+        "balance": 34000,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 883.48,
+        "final_payment": 893.48,
+        "total_amount_payable": 43416.04,
+        "total_charge_for_credit": 8417.04,
+        "amount_of_credit": 34000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34999,
+        "total_price": 34999,
+        "deposit": 999,
+        "balance": 34000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 611.35,
+        "final_payment": 17038.5,
+        "total_amount_payable": 46770.95,
+        "total_charge_for_credit": 11771.95,
+        "amount_of_credit": 34000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.08,
+        "residual": 17037.5,
+        "price_to_buy": 17038.5
+      }
+    ]
+  }
+]

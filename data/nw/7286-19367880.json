@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:24:55.400Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/land-rover/land-rover-range-rover-5-0-v8-sc-565-svautobiography-dynamic-4dr-auto/",
+    "dealer_id": "7286",
+    "car_id": "19367880",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FL69BEJ",
+        "registration_date": "29/11/2019",
+        "mileage": 29135,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 0,
+        "balance": 59995,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 1546.06,
+        "final_payment": 1547.06,
+        "total_amount_payable": 74211.88,
+        "total_charge_for_credit": 14216.88,
+        "amount_of_credit": 59995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

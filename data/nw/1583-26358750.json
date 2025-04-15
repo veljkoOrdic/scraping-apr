@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:38:33.245Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetsalesleicester.co.uk/used-volvo-xc60-cosby-leicestershire-6474682",
+    "dealer_id": "1583",
+    "car_id": "26358750",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK71LSX",
+        "registration_date": "09/10/2021",
+        "mileage": 21740,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32250,
+        "total_price": 32250,
+        "deposit": 2500,
+        "balance": 29750,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 611.18,
+        "final_payment": 612.18,
+        "total_amount_payable": 39171.8,
+        "total_charge_for_credit": 6921.8,
+        "amount_of_credit": 29750,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32250,
+        "total_price": 32250,
+        "deposit": 2500,
+        "balance": 29750,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 505.3,
+        "final_payment": 13546,
+        "total_amount_payable": 39795.1,
+        "total_charge_for_credit": 7545.1,
+        "amount_of_credit": 29750,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.15,
+        "residual": 13545,
+        "price_to_buy": 13546
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:14:30.544Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.burford-carsales.co.uk/used-bentley-bentayga-hoddesdon-hertfordshire-6588454",
+    "dealer_id": "119",
+    "car_id": "26661871",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SN69USX",
+        "registration_date": "21/10/2019",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69790,
+        "total_price": 69790,
+        "deposit": 6979,
+        "balance": 62811,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1318.44,
+        "final_payment": 1319.44,
+        "total_amount_payable": 86086.4,
+        "total_charge_for_credit": 16296.4,
+        "amount_of_credit": 62811,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69790,
+        "total_price": 69790,
+        "deposit": 6979,
+        "balance": 62811,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 1141.61,
+        "final_payment": 32195,
+        "total_amount_payable": 93971.28,
+        "total_charge_for_credit": 24181.28,
+        "amount_of_credit": 62811,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.13,
+        "residual": 32195,
+        "price_to_buy": 32195
+      }
+    ]
+  }
+]

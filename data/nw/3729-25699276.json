@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:46:47.806Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yournextcarltd.co.uk/used-bmw-5-series-nottingham-nottinghamshire-6350143",
+    "dealer_id": "3729",
+    "car_id": "25699276",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU70WVT",
+        "registration_date": "03/09/2020",
+        "mileage": 74037,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20991,
+        "total_price": 20991,
+        "deposit": 0,
+        "balance": 20991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 440.6,
+        "final_payment": 441.6,
+        "total_amount_payable": 26437,
+        "total_charge_for_credit": 5446,
+        "amount_of_credit": 20991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20991,
+        "total_price": 20991,
+        "deposit": 0,
+        "balance": 20991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 374.16,
+        "final_payment": 6311.38,
+        "total_amount_payable": 28386.82,
+        "total_charge_for_credit": 7395.82,
+        "amount_of_credit": 20991,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.04,
+        "residual": 6310.38,
+        "price_to_buy": 6311.38
+      }
+    ]
+  }
+]

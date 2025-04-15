@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:45:46.687Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-bmw-x7-newry-northern-ireland-6766256",
+    "dealer_id": "9001",
+    "car_id": "27331871",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YY23KTX",
+        "registration_date": "30/06/2023",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 73500,
+        "total_price": 73500,
+        "deposit": 7350,
+        "balance": 66150,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1418.23,
+        "final_payment": 1419.23,
+        "total_amount_payable": 92444.8,
+        "total_charge_for_credit": 18944.8,
+        "amount_of_credit": 66150,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 73500,
+        "total_price": 73500,
+        "deposit": 7350,
+        "balance": 66150,
+        "apr": 10.9,
+        "rate_of_interest": 5.35,
+        "term": 49,
+        "regular_payment": 1164.39,
+        "final_payment": 31396,
+        "total_amount_payable": 94636.72,
+        "total_charge_for_credit": 21136.72,
+        "amount_of_credit": 66150,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 31395,
+        "price_to_buy": 31396
+      }
+    ]
+  }
+]

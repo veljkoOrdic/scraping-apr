@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:51:04.196Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/hyundai--santa-fe/sd71whp",
+    "dealer_id": "210",
+    "car_id": "27170008",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD71WHP",
+        "registration_date": "06/01/2022",
+        "mileage": 26598,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30899,
+        "total_price": 30899,
+        "deposit": 3089,
+        "balance": 27810,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 686.19,
+        "final_payment": 687.19,
+        "total_amount_payable": 36027.12,
+        "total_charge_for_credit": 5128.12,
+        "amount_of_credit": 27810,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30899,
+        "total_price": 30899,
+        "deposit": 3089,
+        "balance": 27810,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 458.68,
+        "final_payment": 13061.06,
+        "total_amount_payable": 38166.7,
+        "total_charge_for_credit": 7267.7,
+        "amount_of_credit": 27810,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 13060.06,
+        "price_to_buy": 13061.06
+      }
+    ]
+  }
+]

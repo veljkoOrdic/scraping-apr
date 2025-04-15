@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:27:35.694Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.logomotors.co.uk/used-cars/audi-q3-2-0-tdi-35-sport-s-tronic-euro-6-s-s-5dr/?returnUrl=L3BhZ2UvMi8/ZiU1Qm1pbnByaWNlJTVEPTAmZiU1Qm1heHByaWNlJTVEPTEwMDAwMDA=",
+    "dealer_id": "7724",
+    "car_id": "27038781",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK20BKD",
+        "registration_date": "13/03/2020",
+        "mileage": 114000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 0,
+        "balance": 14499,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 317.27,
+        "final_payment": 327.27,
+        "total_amount_payable": 19046.2,
+        "total_charge_for_credit": 4547.2,
+        "amount_of_credit": 14499,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 0,
+        "balance": 14499,
+        "apr": 11.9,
+        "rate_of_interest": 6.11,
+        "term": 36,
+        "regular_payment": 312.2,
+        "final_payment": 7323,
+        "total_amount_payable": 18250,
+        "total_charge_for_credit": 3751,
+        "amount_of_credit": 14499,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 0,
+        "residual": 7313,
+        "price_to_buy": 7323
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:51:50.139Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sykesvansales.co.uk/Used-Van-Details/used-ford-transit-tipper-new-alloy-body-130ps-tipper-white-manual-diesel/id-12308/",
+    "dealer_id": "8176",
+    "car_id": "20920828",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU71DOA",
+        "registration_date": "24/12/2021",
+        "mileage": 7482,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25188,
+        "total_price": 25188,
+        "deposit": 0,
+        "balance": 20990,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 536.29,
+        "final_payment": 537.29,
+        "total_amount_payable": 29940.92,
+        "total_charge_for_credit": 4752.92,
+        "amount_of_credit": 20990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

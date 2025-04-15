@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:33:25.673Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtsixtyseven.com/cars/lotus/evora/3.5-v6-s-sports-racer-euro-5-2dr/986223/",
+    "dealer_id": "8856",
+    "car_id": "23896868",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX13CYC",
+        "registration_date": "26/04/2013",
+        "mileage": 20300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599.5,
+        "balance": 41395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 887.51,
+        "final_payment": 887.51,
+        "total_amount_payable": 57850.1,
+        "total_charge_for_credit": 11855.1,
+        "amount_of_credit": 41395.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

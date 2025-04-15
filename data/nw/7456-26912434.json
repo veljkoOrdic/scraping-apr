@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:23:52.034Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sckltd.co.uk/details/car-in-kingswinford/mercedes-benz/cclass/6.3-c63-v8-amg-edition-125-spds-mct-euro-5-2dr/1366998/",
+    "dealer_id": "7456",
+    "car_id": "26912434",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ13VFZ",
+        "registration_date": "22/05/2013",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27000,
+        "total_price": 27000,
+        "deposit": 2700,
+        "balance": 24300,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 37,
+        "regular_payment": 759.93,
+        "final_payment": 760.93,
+        "total_amount_payable": 30818.41,
+        "total_charge_for_credit": 3818.41,
+        "amount_of_credit": 24300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

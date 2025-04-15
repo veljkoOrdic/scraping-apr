@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:25:31.247Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.irvinecarcentre.co.uk/cars/bmw/3series/2.0-320d-m-sport-euro-6-ss-4dr/1216969/",
+    "dealer_id": "1887",
+    "car_id": "21649051",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL67BVR",
+        "registration_date": "28/09/2017",
+        "mileage": 63775,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 281.41,
+        "final_payment": 282.41,
+        "total_amount_payable": 18285.1,
+        "total_charge_for_credit": 4290.1,
+        "amount_of_credit": 12595.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:35:19.705Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tollcrossgarage.com/vehicle-details/used-ferrari-f12-berlinetta-v12-for-sale-in-rutherglen-glasgow-u6091/",
+    "dealer_id": "6482",
+    "car_id": "24265125",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MNG1V",
+        "registration_date": "18/07/2014",
+        "mileage": 26000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 150000,
+        "total_price": 150000,
+        "deposit": 15000,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 2369.5,
+        "final_payment": 2370.5,
+        "total_amount_payable": 160303,
+        "total_charge_for_credit": 10303,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:39:31.602Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/audi/s8/4.0-tfsi-v8-tiptronic-quattro-euro-5-4dr/1424481/",
+    "dealer_id": "2016",
+    "car_id": "27578299",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WV63HLA",
+        "registration_date": "09/09/2013",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 2099.9,
+        "balance": 18899.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 396.71,
+        "final_payment": 397.71,
+        "total_amount_payable": 25903.5,
+        "total_charge_for_credit": 4904.5,
+        "amount_of_credit": 18899.1,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

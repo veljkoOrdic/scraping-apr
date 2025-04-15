@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:07:57.389Z",
+    "source": "new_vehicle_finance",
+    "url": "https://centralcarsuk.com/used-cars/peugeot/108/10-108-active-top-3dr-2051/",
+    "dealer_id": "6624",
+    "car_id": "25884816",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU64VHF",
+        "registration_date": "08/09/2014",
+        "mileage": 70452,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 94.36,
+        "final_payment": 95.36,
+        "total_amount_payable": 6162.1,
+        "total_charge_for_credit": 1167.1,
+        "amount_of_credit": 4495.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

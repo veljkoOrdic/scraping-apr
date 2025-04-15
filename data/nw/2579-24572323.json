@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:48:12.467Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abbeygatecars.co.uk/used/volkswagen/caddy-maxi/20-tdi-102ps-diesel-maxi-c20-commerce-pro-van/wymondham/norfolk/226051",
+    "dealer_id": "2579",
+    "car_id": "24572323",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RF23EFT",
+        "registration_date": "03/07/2023",
+        "mileage": 10785,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28198.8,
+        "total_price": 28198.8,
+        "deposit": 2349.9,
+        "balance": 21149.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.97,
+        "term": 61,
+        "regular_payment": 477.32,
+        "final_payment": 478.32,
+        "total_amount_payable": 35689.9,
+        "total_charge_for_credit": 7491.1,
+        "amount_of_credit": 21149.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

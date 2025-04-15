@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:02:12.841Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aberdeenautos.co.uk/vans/ford/ranger/2.0-ecoblue-wildtrak/1191180/",
+    "dealer_id": "9128",
+    "car_id": "25241614",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW21VNL",
+        "registration_date": "16/08/2021",
+        "mileage": 44000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28794,
+        "total_price": 28794,
+        "deposit": 2399.5,
+        "balance": 26394.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 554.03,
+        "final_payment": 555.03,
+        "total_amount_payable": 35642.3,
+        "total_charge_for_credit": 6848.3,
+        "amount_of_credit": 26394.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

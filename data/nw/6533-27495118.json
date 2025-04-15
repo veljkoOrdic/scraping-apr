@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:45:26.789Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sourceanycar.com/used-seat-leon-leeds-west-yorkshire-6806338",
+    "dealer_id": "6533",
+    "car_id": "27495118",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DG69BGU",
+        "registration_date": "19/12/2019",
+        "mileage": 22416,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15900,
+        "total_price": 15900,
+        "deposit": 1590,
+        "balance": 14310,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 300.36,
+        "final_payment": 301.36,
+        "total_amount_payable": 19612.6,
+        "total_charge_for_credit": 3712.6,
+        "amount_of_credit": 14310,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15900,
+        "total_price": 15900,
+        "deposit": 1590,
+        "balance": 14310,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 56,
+        "regular_payment": 259.29,
+        "final_payment": 4317.55,
+        "total_amount_payable": 20168.5,
+        "total_charge_for_credit": 4268.5,
+        "amount_of_credit": 14310,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 37333,
+        "excess_mileage_rate": 0.03,
+        "residual": 4316.55,
+        "price_to_buy": 4317.55
+      }
+    ]
+  }
+]

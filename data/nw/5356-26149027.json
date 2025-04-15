@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:19:31.871Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thurlownunn.co.uk/used-cars/hyundai-ioniq-6-77-4kwh-ultimate-saloon-4dr-electric-auto-228-ps-reserve-online-for-%C2%A3199-4-door-saloon-curated-silver/ap24rku",
+    "dealer_id": "5356",
+    "car_id": "26149027",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP24RKU",
+        "registration_date": "14/08/2024",
+        "mileage": 11500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3150,
+        "balance": 28345,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 711.64,
+        "final_payment": 721.64,
+        "total_amount_payable": 37318.72,
+        "total_charge_for_credit": 5823.72,
+        "amount_of_credit": 28345,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3150,
+        "balance": 28345,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 471.26,
+        "final_payment": 14445,
+        "total_amount_payable": 39744.22,
+        "total_charge_for_credit": 8249.22,
+        "amount_of_credit": 28345,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.125,
+        "residual": 14445,
+        "price_to_buy": 14445
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:21:04.401Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.paulmorriscars.co.uk/used-ford-kuga-chelmsford-essex-6633136",
+    "dealer_id": "1334",
+    "car_id": "26818811",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ22MYP",
+        "registration_date": "25/03/2022",
+        "mileage": 18200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22500,
+        "total_price": 22500,
+        "deposit": 500,
+        "balance": 22000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 451.95,
+        "final_payment": 452.95,
+        "total_amount_payable": 27618,
+        "total_charge_for_credit": 5118,
+        "amount_of_credit": 22000,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22500,
+        "total_price": 22500,
+        "deposit": 500,
+        "balance": 22000,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 368.39,
+        "final_payment": 6599.16,
+        "total_amount_payable": 28834.17,
+        "total_charge_for_credit": 6334.17,
+        "amount_of_credit": 22000,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.04,
+        "residual": 6598.16,
+        "price_to_buy": 6599.16
+      }
+    ]
+  }
+]

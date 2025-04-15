@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:26:10.450Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.avalonmotorco.com/used/cars/nissan/x-trail/dig-t-tekna-dct-3547",
+    "dealer_id": "8112",
+    "car_id": "26887445",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DY20JBE",
+        "registration_date": "01/03/2020",
+        "mileage": 56310,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16250,
+        "total_price": 16250,
+        "deposit": 0,
+        "balance": 16250,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 348.4,
+        "final_payment": 348.4,
+        "total_amount_payable": 20904,
+        "total_charge_for_credit": 4654,
+        "amount_of_credit": 16250,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

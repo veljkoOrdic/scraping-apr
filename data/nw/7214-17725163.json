@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:43.916Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinfranciscars.com/used-cars/mitsubishi-outlander-di-d-3-4wd/33221",
+    "dealer_id": "7214",
+    "car_id": "17725163",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WUI9500",
+        "registration_date": "28/09/2018",
+        "mileage": 54000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15950,
+        "total_price": 15950,
+        "deposit": 1595,
+        "balance": 14355,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 301.19,
+        "final_payment": 311.19,
+        "total_amount_payable": 19676.4,
+        "total_charge_for_credit": 3726.4,
+        "amount_of_credit": 14355,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

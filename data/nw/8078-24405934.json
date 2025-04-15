@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:11:29.107Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-citroen-berlingo-stalybridge-greater-manchester-6040292",
+    "dealer_id": "8078",
+    "car_id": "24405934",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YF20MBU",
+        "registration_date": "20/07/2020",
+        "mileage": 79000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12594,
+        "total_price": 12594,
+        "deposit": 2099,
+        "balance": 10495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 220.3,
+        "final_payment": 220.3,
+        "total_amount_payable": 15317,
+        "total_charge_for_credit": 2723,
+        "amount_of_credit": 10495,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

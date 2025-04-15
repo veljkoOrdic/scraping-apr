@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:26:32.947Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.banchorycarcentre.co.uk/used-cupra-formentor-banchory-aberdeenshire-6732869",
+    "dealer_id": "3012",
+    "car_id": "27193610",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST71MHO",
+        "registration_date": "26/01/2022",
+        "mileage": 23200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299,
+        "balance": 20696,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 434.42,
+        "final_payment": 434.42,
+        "total_amount_payable": 28364.2,
+        "total_charge_for_credit": 5369.2,
+        "amount_of_credit": 20696,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299,
+        "balance": 20696,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 336.49,
+        "final_payment": 10728.25,
+        "total_amount_payable": 29178.77,
+        "total_charge_for_credit": 6183.77,
+        "amount_of_credit": 20696,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.15,
+        "residual": 10718.25,
+        "price_to_buy": 10728.25
+      }
+    ]
+  }
+]

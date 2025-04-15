@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:30:30.186Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vineautos.co.uk/details/used-van-in-axminster/mercedes-benz/sprinter/2.1-311-cdi-blueefficiency-rwd-l3-h3-5dr/1149648/",
+    "dealer_id": "4217",
+    "car_id": "24145716",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB66EZS",
+        "registration_date": "31/12/2016",
+        "mileage": 124850,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9600,
+        "total_price": 9600,
+        "deposit": 2400,
+        "balance": 7200,
+        "apr": 10.4,
+        "rate_of_interest": 5.44,
+        "term": 60,
+        "regular_payment": 152.62,
+        "final_payment": 162.62,
+        "total_amount_payable": 11567.2,
+        "total_charge_for_credit": 1967.2,
+        "amount_of_credit": 7200,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

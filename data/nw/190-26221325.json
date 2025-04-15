@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:43:37.715Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.scottmotorcompany.co.uk/used-citroen-c3-tamworth-staffordshire-6481217",
+    "dealer_id": "190",
+    "car_id": "26221325",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN18CMX",
+        "registration_date": "31/03/2018",
+        "mileage": 25544,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9299,
+        "total_price": 9299,
+        "deposit": 929,
+        "balance": 8370,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 175.68,
+        "final_payment": 176.68,
+        "total_amount_payable": 11470.8,
+        "total_charge_for_credit": 2171.8,
+        "amount_of_credit": 8370,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:27:28.455Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.logomotors.co.uk/used-cars/bmw-3-series-gran-turismo-2-0-318d-m-sport-gt-euro-6-s-s-5dr-2/?returnUrl=L3BhZ2UvMi8/ZiU1Qm1pbnByaWNlJTVEPTAmZiU1Qm1heHByaWNlJTVEPTEwMDAwMDA=",
+    "dealer_id": "7724",
+    "car_id": "27141686",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN66PUA",
+        "registration_date": "28/09/2016",
+        "mileage": 120000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7299,
+        "total_price": 7299,
+        "deposit": 0,
+        "balance": 7299,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 159.65,
+        "final_payment": 169.65,
+        "total_amount_payable": 9589,
+        "total_charge_for_credit": 2290,
+        "amount_of_credit": 7299,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:04:42.543Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/volkswagen/golf/14-tsi-150-gt-5dr/cheltenham/gloucestershire/21458649",
+    "dealer_id": "6614",
+    "car_id": "26165607",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VX15NGG",
+        "registration_date": "02/03/2015",
+        "mileage": 85000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8750,
+        "total_price": 8750,
+        "deposit": 875,
+        "balance": 7875,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 58,
+        "regular_payment": 166.24,
+        "final_payment": 167.24,
+        "total_amount_payable": 10517.92,
+        "total_charge_for_credit": 1767.92,
+        "amount_of_credit": 7875,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

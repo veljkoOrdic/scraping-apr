@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:43:01.570Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ntrcars.co.uk/used-hyundai-i30-haverfordwest-pembrokeshire-3490014",
+    "dealer_id": "6914",
+    "car_id": "24872863",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EN12KBY",
+        "registration_date": "18/06/2012",
+        "mileage": 116227,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4295,
+        "total_price": 4295,
+        "deposit": 429,
+        "balance": 3866,
+        "apr": 11.9,
+        "rate_of_interest": 6.08,
+        "term": 26,
+        "regular_payment": 168.29,
+        "final_payment": 169.29,
+        "total_amount_payable": 4805.54,
+        "total_charge_for_credit": 510.54,
+        "amount_of_credit": 3866,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

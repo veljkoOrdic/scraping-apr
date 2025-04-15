@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T22:10:19.527Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hawkins.co.uk/used-car-details/used-kia-sportage-16-t-gdi-mhev-3-suv-5dr-petro-suv-penta-metal-manual-petrol-hybrid/id-13028/",
+    "dealer_id": "5724",
+    "car_id": "25835323",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK74UNM",
+        "registration_date": "30/09/2024",
+        "mileage": 100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199,
+        "balance": 28796,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 540.28,
+        "final_payment": 12673.86,
+        "total_amount_payable": 41806.3,
+        "total_charge_for_credit": 9811.3,
+        "amount_of_credit": 28796,
+        "lender": "Kia Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 12673.86,
+        "price_to_buy": 12673.86
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T01:43:53.430Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sbwakefield.co.uk/used/citroen/e-berlingo/100kw-plus-m-52kwh-5dr-auto/wakefield/west-yorkshire/21530840",
+    "dealer_id": "6504",
+    "car_id": "26900178",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ24HEB",
+        "registration_date": "28/06/2024",
+        "mileage": 500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 500.37,
+        "final_payment": 8483,
+        "total_amount_payable": 34649.89,
+        "total_charge_for_credit": 8154.89,
+        "amount_of_credit": 23845.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 8483,
+        "price_to_buy": 8483
+      }
+    ]
+  }
+]

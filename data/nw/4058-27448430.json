@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:20:10.116Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/lexus/ux250h/2.0-250h-f-sport-e-cvt-euro-6-ss-5dr/1412749/",
+    "dealer_id": "4058",
+    "car_id": "27448430",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RK72ZMX",
+        "registration_date": "08/10/2022",
+        "mileage": 19905,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25000,
+        "total_price": 25000,
+        "deposit": 5000,
+        "balance": 20000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 419.8,
+        "final_payment": 420.8,
+        "total_amount_payable": 30189,
+        "total_charge_for_credit": 5189,
+        "amount_of_credit": 20000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25000,
+        "total_price": 25000,
+        "deposit": 5000,
+        "balance": 20000,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 311.8,
+        "final_payment": 11150.42,
+        "total_amount_payable": 31116.82,
+        "total_charge_for_credit": 6116.82,
+        "amount_of_credit": 20000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 11149.42,
+        "price_to_buy": 11150.42
+      }
+    ]
+  }
+]

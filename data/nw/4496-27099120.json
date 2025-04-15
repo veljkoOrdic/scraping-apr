@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:45:08.057Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dalesautomotive.co.uk/used-porsche-taycan-kelbrook-lancashire-6703190",
+    "dealer_id": "4496",
+    "car_id": "27099120",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA23VGM",
+        "registration_date": "13/07/2023",
+        "mileage": 15362,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499,
+        "balance": 58496,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1443.37,
+        "final_payment": 1444.37,
+        "total_amount_payable": 75781.76,
+        "total_charge_for_credit": 10786.76,
+        "amount_of_credit": 58496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499,
+        "balance": 58496,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 894.7,
+        "final_payment": 31496.5,
+        "total_amount_payable": 80941.1,
+        "total_charge_for_credit": 15946.1,
+        "amount_of_credit": 58496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.38,
+        "residual": 31495.5,
+        "price_to_buy": 31496.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:27:27.040Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bowkermotorgroup.co.uk/bmw-used-cars/asset/2023-bmw-ix3-m-sport",
+    "dealer_id": "6025",
+    "car_id": "24826351",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YL23LDF",
+        "registration_date": "31/07/2023",
+        "mileage": 14538,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 4349,
+        "balance": 32141,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 779.05,
+        "final_payment": 779.05,
+        "total_amount_payable": 41743.4,
+        "total_charge_for_credit": 5253.4,
+        "amount_of_credit": 32141,
+        "lender": "BMW Financial Services (GB) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 4349,
+        "balance": 32141,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 488.8,
+        "final_payment": 16720,
+        "total_amount_payable": 44042.6,
+        "total_charge_for_credit": 7552.6,
+        "amount_of_credit": 32141,
+        "lender": "BMW Financial Services (GB) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.08,
+        "residual": 16720,
+        "price_to_buy": 16720
+      }
+    ]
+  }
+]

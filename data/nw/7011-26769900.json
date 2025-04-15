@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:20:50.065Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.martinmcaleenanmotors.co.uk/used-cars/jan-2022-nissan-juke-2",
+    "dealer_id": "7011",
+    "car_id": "26769900",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PXZ9434",
+        "registration_date": "10/01/2022",
+        "mileage": 58111,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 0,
+        "balance": 10990,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 240.45,
+        "final_payment": 250.45,
+        "total_amount_payable": 14437,
+        "total_charge_for_credit": 3447,
+        "amount_of_credit": 10990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 0,
+        "balance": 10990,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 193.74,
+        "final_payment": 3947.56,
+        "total_amount_payable": 15378.22,
+        "total_charge_for_credit": 4388.22,
+        "amount_of_credit": 10990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.03,
+        "residual": 3946.56,
+        "price_to_buy": 3947.56
+      }
+    ]
+  }
+]

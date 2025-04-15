@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:45:31.485Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.madeleyheathmotors.co.uk/car/8a42a39c9146f11d01914a9237490f0c",
+    "dealer_id": "4269",
+    "car_id": "25287659",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY21NPX",
+        "registration_date": "08/03/2021",
+        "mileage": 61929,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8482,
+        "total_price": 8482,
+        "deposit": 848.2,
+        "balance": 7633.8,
+        "apr": 7.9,
+        "rate_of_interest": 7.59,
+        "term": 60,
+        "regular_payment": 153.43,
+        "final_payment": 153.43,
+        "total_amount_payable": 10054,
+        "total_charge_for_credit": 1572,
+        "amount_of_credit": 7633.8,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

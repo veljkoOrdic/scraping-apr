@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:45:47.423Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yournextcarltd.co.uk/used-mercedes-benz-e-class-nottingham-nottinghamshire-5681668",
+    "dealer_id": "3729",
+    "car_id": "22877247",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FL13FPO",
+        "registration_date": "19/03/2013",
+        "mileage": 63070,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8791,
+        "total_price": 8791,
+        "deposit": 0,
+        "balance": 8791,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 35,
+        "regular_payment": 288.44,
+        "final_payment": 289.44,
+        "total_amount_payable": 10096.4,
+        "total_charge_for_credit": 1305.4,
+        "amount_of_credit": 8791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

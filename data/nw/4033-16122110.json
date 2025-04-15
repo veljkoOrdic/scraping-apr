@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:14:31.497Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newforestcarsales.co.uk/used-bmw-m3-southampton-hampshire-3765104",
+    "dealer_id": "4033",
+    "car_id": "16122110",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GF11VMR",
+        "registration_date": "17/06/2011",
+        "mileage": 81000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 14,
+        "regular_payment": 1377.96,
+        "final_payment": 1378.96,
+        "total_amount_payable": 21291.44,
+        "total_charge_for_credit": 1296.44,
+        "amount_of_credit": 17996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

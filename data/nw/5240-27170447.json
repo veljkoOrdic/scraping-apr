@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:54:13.231Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ronlee.co.uk/used/fiat/500/10-mild-hybrid-dolcevita-part-leather-3dr/halifax/west-yorkshire/21547192",
+    "dealer_id": "5240",
+    "car_id": "27170447",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ72OWX",
+        "registration_date": "29/12/2022",
+        "mileage": 28101,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 218.78,
+        "final_payment": 219.78,
+        "total_amount_payable": 13127.8,
+        "total_charge_for_credit": 3132.8,
+        "amount_of_credit": 9995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 11.9,
+        "rate_of_interest": 5.88,
+        "term": 49,
+        "regular_payment": 198.76,
+        "final_payment": 3715.35,
+        "total_amount_payable": 13255.83,
+        "total_charge_for_credit": 3260.83,
+        "amount_of_credit": 9995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 3714.35,
+        "price_to_buy": 3715.35
+      }
+    ]
+  }
+]

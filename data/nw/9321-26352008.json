@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:16:59.752Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorworldofkent.com/cars/mercedes-benz/cl/4.7-cl500-v8-blueefficiency/930966/",
+    "dealer_id": "9321",
+    "car_id": "26352008",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP13KFO",
+        "registration_date": "26/03/2013",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 240.27,
+        "final_payment": 240.27,
+        "total_amount_payable": 15715.7,
+        "total_charge_for_credit": 2720.7,
+        "amount_of_credit": 11695.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

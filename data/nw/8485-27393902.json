@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:15:17.666Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarsayrshirescotland.co.uk/used/bmw/x3/xdrive20d-m-sport-5dr-step-auto/saltcoats/ayrshire/21560482",
+    "dealer_id": "8485",
+    "car_id": "27393902",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SC19HEJ",
+        "registration_date": "28/05/2019",
+        "mileage": 53000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249.5,
+        "balance": 20245.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 443.17,
+        "final_payment": 444.17,
+        "total_amount_payable": 28840.7,
+        "total_charge_for_credit": 6345.7,
+        "amount_of_credit": 20245.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

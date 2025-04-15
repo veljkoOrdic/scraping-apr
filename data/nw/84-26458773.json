@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:34:50.004Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lesrayner-foxhunters.co.uk/used-land-rover-range-rover-evoque-whitley-bay-tyne-and-wear-6541059",
+    "dealer_id": "84",
+    "car_id": "26458773",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ70WWN",
+        "registration_date": "28/10/2020",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 2099,
+        "balance": 18900,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 405.21,
+        "final_payment": 406.21,
+        "total_amount_payable": 26412.6,
+        "total_charge_for_credit": 5413.6,
+        "amount_of_credit": 18900,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 2099,
+        "balance": 18900,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 315.29,
+        "final_payment": 10239,
+        "total_amount_payable": 27156.63,
+        "total_charge_for_credit": 6157.63,
+        "amount_of_credit": 18900,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "contract_mileage": 48000,
+        "excess_mileage_rate": 0.15,
+        "residual": 10238,
+        "price_to_buy": 10239
+      }
+    ]
+  }
+]

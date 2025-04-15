@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:45:48.800Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-jaguar-e-pace-2-0-d180-r-dynamic-s-awd-5dr-5-door-suv-caldera-red/oy70yaw",
+    "dealer_id": "5502",
+    "car_id": "27302669",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY70YAW",
+        "registration_date": "12/10/2020",
+        "mileage": 52610,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17750,
+        "total_price": 17750,
+        "deposit": 1775,
+        "balance": 15975,
+        "apr": 10.9,
+        "rate_of_interest": 10.36,
+        "term": 36,
+        "regular_payment": 518.4,
+        "final_payment": 518.4,
+        "total_amount_payable": 20437.4,
+        "total_charge_for_credit": 2687.4,
+        "amount_of_credit": 15975,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17750,
+        "total_price": 17750,
+        "deposit": 1775,
+        "balance": 15975,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 36,
+        "regular_payment": 322.71,
+        "final_payment": 8548,
+        "total_amount_payable": 21617.85,
+        "total_charge_for_credit": 3867.85,
+        "amount_of_credit": 15975,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.08,
+        "residual": 8538,
+        "price_to_buy": 8548
+      }
+    ]
+  }
+]

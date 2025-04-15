@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:20:31.941Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/land-rover/defender/v8-150",
+    "dealer_id": "8784",
+    "car_id": "23593560",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GL22NWG",
+        "registration_date": "22/07/2022",
+        "mileage": 14500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 86450,
+        "total_price": 86450,
+        "deposit": 8645,
+        "balance": 77805,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1598.39,
+        "final_payment": 1599.39,
+        "total_amount_payable": 104549.4,
+        "total_charge_for_credit": 18099.4,
+        "amount_of_credit": 77805,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 86450,
+        "total_price": 86450,
+        "deposit": 8645,
+        "balance": 77805,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1157.89,
+        "final_payment": 33998.97,
+        "total_amount_payable": 110959.48,
+        "total_charge_for_credit": 24509.48,
+        "amount_of_credit": 77805,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 0.15,
+        "residual": 33997.97,
+        "price_to_buy": 33998.97
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:21:39.405Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.paulmorriscars.co.uk/used-mercedes-benz-a-class-chelmsford-essex-6802613",
+    "dealer_id": "1334",
+    "car_id": "27478256",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK24NYR",
+        "registration_date": "11/03/2024",
+        "mileage": 5201,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28000,
+        "total_price": 28000,
+        "deposit": 500,
+        "balance": 27500,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 564.94,
+        "final_payment": 565.94,
+        "total_amount_payable": 34397.4,
+        "total_charge_for_credit": 6397.4,
+        "amount_of_credit": 27500,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28000,
+        "total_price": 28000,
+        "deposit": 500,
+        "balance": 27500,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 443.23,
+        "final_payment": 9517.96,
+        "total_amount_payable": 36168.53,
+        "total_charge_for_credit": 8168.53,
+        "amount_of_credit": 27500,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.06,
+        "residual": 9516.96,
+        "price_to_buy": 9517.96
+      }
+    ]
+  }
+]

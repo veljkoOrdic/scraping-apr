@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:45:13.587Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prestigedieselsportsmouth.co.uk/used/cars/toyota/hilux/invincible-x-4wd-d-4d-dcb-85",
+    "dealer_id": "6514",
+    "car_id": "27669885",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD73UDS",
+        "registration_date": "26/09/2023",
+        "mileage": 11000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41990,
+        "total_price": 41990,
+        "deposit": 4199,
+        "balance": 37791,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 793.13,
+        "final_payment": 803.13,
+        "total_amount_payable": 51796.8,
+        "total_charge_for_credit": 9806.8,
+        "amount_of_credit": 37791,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

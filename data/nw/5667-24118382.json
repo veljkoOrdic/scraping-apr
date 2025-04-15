@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T21:43:38.369Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/electric-hybrid/peugeot-e-308-54kwh-gt-auto-5dr-5-door-hatchback-white/hd73gje",
+    "dealer_id": "5667",
+    "car_id": "24118382",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HD73GJE",
+        "registration_date": "29/02/2024",
+        "mileage": 2500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28969,
+        "total_price": 28969,
+        "deposit": 2897,
+        "balance": 26072,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 432.88,
+        "final_payment": 11565,
+        "total_amount_payable": 34807.36,
+        "total_charge_for_credit": 5838.36,
+        "amount_of_credit": 26072,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.125,
+        "residual": 11565,
+        "price_to_buy": 11565
+      }
+    ]
+  }
+]

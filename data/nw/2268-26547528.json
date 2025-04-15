@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:21:07.047Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.roddenroadcars.co.uk/details/used-car-in-frome/mercedes-benz/aclass/2.0-a35-amg-edition-premium-7g-dct-4matic-euro-6-ss-5dr/1338064/",
+    "dealer_id": "2268",
+    "car_id": "26547528",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST71RAU",
+        "registration_date": "03/09/2021",
+        "mileage": 27697,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 1299.75,
+        "balance": 24695.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 630.96,
+        "final_payment": 631.96,
+        "total_amount_payable": 31586.83,
+        "total_charge_for_credit": 5591.83,
+        "amount_of_credit": 24695.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 1299.75,
+        "balance": 24695.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.39,
+        "term": 49,
+        "regular_payment": 470.67,
+        "final_payment": 9572.5,
+        "total_amount_payable": 33464.41,
+        "total_charge_for_credit": 7469.41,
+        "amount_of_credit": 24695.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 9571.5,
+        "price_to_buy": 9572.5
+      }
+    ]
+  }
+]

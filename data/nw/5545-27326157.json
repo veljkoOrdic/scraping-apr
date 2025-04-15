@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:02:05.431Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/porsche-911-3-0t-992-carrera-gts-coupe-petrol-manual-euro-6-s-s-in-kent-cadd9ec9-6722-41cb-bd77-b29800c28038",
+    "dealer_id": "5545",
+    "car_id": "27326157",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV22MYF",
+        "registration_date": "19/05/2022",
+        "mileage": 6734,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 103990,
+        "total_price": 103990,
+        "deposit": 15598.5,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 117819.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 103990,
+        "total_price": 103990,
+        "deposit": 15598.5,
+        "balance": 88391.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 49,
+        "regular_payment": 1304.54,
+        "final_payment": 50315.24,
+        "total_amount_payable": 128531.66,
+        "total_charge_for_credit": 24541.66,
+        "amount_of_credit": 88391.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.52,
+        "residual": 50314.24,
+        "price_to_buy": 50315.24
+      }
+    ]
+  }
+]

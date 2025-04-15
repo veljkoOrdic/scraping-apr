@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:49:22.597Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yournextcarltd.co.uk/used-bmw-x7-nottingham-nottinghamshire-6848112",
+    "dealer_id": "3729",
+    "car_id": "27668446",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT72NVE",
+        "registration_date": "31/10/2022",
+        "mileage": 20616,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67991,
+        "total_price": 67991,
+        "deposit": 0,
+        "balance": 67991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1427.17,
+        "final_payment": 1428.17,
+        "total_amount_payable": 85631.2,
+        "total_charge_for_credit": 17640.2,
+        "amount_of_credit": 67991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67991,
+        "total_price": 67991,
+        "deposit": 0,
+        "balance": 67991,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 1177,
+        "final_payment": 31055.24,
+        "total_amount_payable": 87551.24,
+        "total_charge_for_credit": 19560.24,
+        "amount_of_credit": 67991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.26,
+        "residual": 31054.24,
+        "price_to_buy": 31055.24
+      }
+    ]
+  }
+]

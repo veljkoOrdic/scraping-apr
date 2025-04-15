@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:33:14.632Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashridgevehicles.co.uk/used-jaguar-i-pace-little-gaddesden-hertfordshire-6678608",
+    "dealer_id": "7750",
+    "car_id": "26989345",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR71EWC",
+        "registration_date": "17/12/2021",
+        "mileage": 28100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 2299,
+        "balance": 20700,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 528.88,
+        "final_payment": 529.88,
+        "total_amount_payable": 27686.24,
+        "total_charge_for_credit": 4687.24,
+        "amount_of_credit": 20700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 2299,
+        "balance": 20700,
+        "apr": 10.9,
+        "rate_of_interest": 5.31,
+        "term": 49,
+        "regular_payment": 332.3,
+        "final_payment": 11739.7,
+        "total_amount_payable": 29989.1,
+        "total_charge_for_credit": 6990.1,
+        "amount_of_credit": 20700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 11738.7,
+        "price_to_buy": 11739.7
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:32:19.435Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newburghmotors.co.uk/cars/audi/q2/1.0-tfsi-sport/1381929/",
+    "dealer_id": "7941",
+    "car_id": "27086832",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP18YPZ",
+        "registration_date": "04/04/2018",
+        "mileage": 48000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349.5,
+        "balance": 12145.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 260.27,
+        "final_payment": 270.27,
+        "total_amount_payable": 16975.7,
+        "total_charge_for_credit": 3480.7,
+        "amount_of_credit": 12145.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:15:19.960Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.piccadillymotors.co.uk/used-car-details/used-kia-ev9-998kwh-gt-line-s-suv-5dr-elec-suv-pacific-blue-automatic-electric/id-5918/",
+    "dealer_id": "8759",
+    "car_id": "27108363",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YA73NFM",
+        "registration_date": "11/01/2024",
+        "mileage": 10869,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57495,
+        "total_price": 57495,
+        "deposit": 8624,
+        "balance": 48871,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1227.09,
+        "final_payment": 1237.09,
+        "total_amount_payable": 67534.32,
+        "total_charge_for_credit": 10039.32,
+        "amount_of_credit": 48871,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57495,
+        "total_price": 57495,
+        "deposit": 8624,
+        "balance": 48871,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 745.28,
+        "final_payment": 28219.64,
+        "total_amount_payable": 72617.08,
+        "total_charge_for_credit": 15122.08,
+        "amount_of_credit": 48871,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 28219.64,
+        "price_to_buy": 28219.64
+      }
+    ]
+  }
+]

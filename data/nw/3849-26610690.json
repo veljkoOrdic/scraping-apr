@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:01:18.141Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.randsperformancenwltd.co.uk/used/cars/bentley/continental/6-0-gt-2dr-836",
+    "dealer_id": "3849",
+    "car_id": "26610690",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RYD190",
+        "registration_date": "05/05/2011",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399.5,
+        "balance": 30595.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 24,
+        "regular_payment": 1430.17,
+        "final_payment": 1431.17,
+        "total_amount_payable": 37724.58,
+        "total_charge_for_credit": 3729.58,
+        "amount_of_credit": 30595.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

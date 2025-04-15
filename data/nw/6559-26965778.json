@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:49:00.446Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-bmw-6-series-gran-coupe-30-640d-m-sport-auto-euro-6-saloon-glacier-silver-automatic-diesel/id-202501308584020/",
+    "dealer_id": "6559",
+    "car_id": "26965778",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "A18MXY",
+        "registration_date": "25/01/2016",
+        "mileage": 65000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15695,
+        "total_price": 15695,
+        "deposit": 5493,
+        "balance": 10202,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 214.13,
+        "final_payment": 215.13,
+        "total_amount_payable": 18341.8,
+        "total_charge_for_credit": 2646.8,
+        "amount_of_credit": 10202,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

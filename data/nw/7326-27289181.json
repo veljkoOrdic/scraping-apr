@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:47:05.195Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.apexcarsdirect.co.uk/used-land-rover-discovery-wiltshire-wiltshire-6746886",
+    "dealer_id": "7326",
+    "car_id": "27289181",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF69VPG",
+        "registration_date": "18/11/2019",
+        "mileage": 48500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33750,
+        "total_price": 33750,
+        "deposit": 3375,
+        "balance": 30375,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 637.59,
+        "final_payment": 638.59,
+        "total_amount_payable": 41631.4,
+        "total_charge_for_credit": 7881.4,
+        "amount_of_credit": 30375,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33750,
+        "total_price": 33750,
+        "deposit": 3375,
+        "balance": 30375,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 55,
+        "regular_payment": 535.47,
+        "final_payment": 11820.12,
+        "total_amount_payable": 44110.5,
+        "total_charge_for_credit": 10360.5,
+        "amount_of_credit": 30375,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 0.06,
+        "residual": 11819.12,
+        "price_to_buy": 11820.12
+      }
+    ]
+  }
+]

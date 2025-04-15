@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:20:54.395Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.martinmcaleenanmotors.co.uk/used-cars/2020-volkswagen-tiguan",
+    "dealer_id": "7011",
+    "car_id": "27018499",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY70AGV",
+        "registration_date": "04/09/2020",
+        "mileage": 49959,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 0,
+        "balance": 17990,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 393.69,
+        "final_payment": 403.69,
+        "total_amount_payable": 23631.4,
+        "total_charge_for_credit": 5641.4,
+        "amount_of_credit": 17990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 0,
+        "balance": 17990,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 335.15,
+        "final_payment": 5036.98,
+        "total_amount_payable": 24810.83,
+        "total_charge_for_credit": 6820.83,
+        "amount_of_credit": 17990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.03,
+        "residual": 5035.98,
+        "price_to_buy": 5036.98
+      }
+    ]
+  }
+]

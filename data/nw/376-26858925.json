@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:43:57.304Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.orwellmotors.co.uk/used-citroen-ds3-dunfermline-scotland-6643722",
+    "dealer_id": "376",
+    "car_id": "26858925",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP15FKV",
+        "registration_date": "28/03/2015",
+        "mileage": 54463,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5450,
+        "total_price": 5450,
+        "deposit": 545,
+        "balance": 4905,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 59,
+        "regular_payment": 102.12,
+        "final_payment": 103.12,
+        "total_amount_payable": 6571.08,
+        "total_charge_for_credit": 1121.08,
+        "amount_of_credit": 4905,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

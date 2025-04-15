@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:26:11.329Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ccs-carsales.co.uk/used/cars/citroen/c1/flair-3293",
+    "dealer_id": "5778",
+    "car_id": "27132346",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY64TYS",
+        "registration_date": "22/11/2014",
+        "mileage": 54028,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4619,
+        "total_price": 4619,
+        "deposit": 0,
+        "balance": 4619,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 60,
+        "regular_payment": 100.99,
+        "final_payment": 110.99,
+        "total_amount_payable": 6069.4,
+        "total_charge_for_credit": 1450.4,
+        "amount_of_credit": 4619,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

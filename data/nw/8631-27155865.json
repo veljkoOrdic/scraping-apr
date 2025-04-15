@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:47:15.472Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thecar-collection.co.uk/cars/seat/ibiza/1.0-mpi-se-technology/1387548/",
+    "dealer_id": "8631",
+    "car_id": "27155865",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VO18HKJ",
+        "registration_date": "16/04/2018",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 99,
+        "balance": 9896,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 220.98,
+        "final_payment": 230.98,
+        "total_amount_payable": 13367.8,
+        "total_charge_for_credit": 3372.8,
+        "amount_of_credit": 9896,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

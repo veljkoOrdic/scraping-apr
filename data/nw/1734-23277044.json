@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:10:08.621Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-bentley-continental-fareham-hampshire-5773201",
+    "dealer_id": "1734",
+    "car_id": "23277044",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN68WUR",
+        "registration_date": "24/12/2018",
+        "mileage": 54636,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 85985,
+        "total_price": 85985,
+        "deposit": 8598,
+        "balance": 75000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1675.71,
+        "final_payment": 1676.71,
+        "total_amount_payable": 111528.6,
+        "total_charge_for_credit": 25543.6,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 85985,
+        "total_price": 85985,
+        "deposit": 8598,
+        "balance": 77387,
+        "apr": 13.5,
+        "rate_of_interest": 6.92,
+        "term": 33,
+        "regular_payment": 1853.6,
+        "final_payment": 38692,
+        "total_amount_payable": 106605.2,
+        "total_charge_for_credit": 20620.2,
+        "amount_of_credit": 77387,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 27500,
+        "excess_mileage_rate": 0.12,
+        "residual": 38682,
+        "price_to_buy": 38692
+      }
+    ]
+  }
+]

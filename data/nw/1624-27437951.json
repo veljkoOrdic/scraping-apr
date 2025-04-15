@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:49:26.694Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.monarchcarsales.co.uk/used-mercedes-benz-a-class-worcester-worcestershire-6789847",
+    "dealer_id": "1624",
+    "car_id": "27437951",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE21FMF",
+        "registration_date": "23/04/2021",
+        "mileage": 40987,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17445,
+        "total_price": 17445,
+        "deposit": 1000,
+        "balance": 16445,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 345.18,
+        "final_payment": 346.18,
+        "total_amount_payable": 21711.8,
+        "total_charge_for_credit": 4266.8,
+        "amount_of_credit": 16445,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17445,
+        "total_price": 17445,
+        "deposit": 1000,
+        "balance": 16445,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 294.63,
+        "final_payment": 6928.63,
+        "total_amount_payable": 22070.87,
+        "total_charge_for_credit": 4625.87,
+        "amount_of_credit": 16445,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.1,
+        "residual": 6927.63,
+        "price_to_buy": 6928.63
+      }
+    ]
+  }
+]

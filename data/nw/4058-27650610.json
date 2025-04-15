@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:20:36.710Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/mercedes-benz/glcclass/3.0-glc43-v6-amg-premium-plus-g-tronic+-4matic-euro-6-ss-5dr/1429557/",
+    "dealer_id": "4058",
+    "car_id": "27650610",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AY22OCJ",
+        "registration_date": "26/04/2022",
+        "mileage": 56020,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 7399,
+        "balance": 29596,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 621.23,
+        "final_payment": 622.23,
+        "total_amount_payable": 44673.8,
+        "total_charge_for_credit": 7678.8,
+        "amount_of_credit": 29596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 7399,
+        "balance": 29596,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 506.85,
+        "final_payment": 13839.56,
+        "total_amount_payable": 45567.36,
+        "total_charge_for_credit": 8572.36,
+        "amount_of_credit": 29596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 13838.56,
+        "price_to_buy": 13839.56
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:03:11.081Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandjcars.co.uk/used-volkswagen-amarok-ely-cambridgeshire-6259916",
+    "dealer_id": "8220",
+    "car_id": "25324259",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE66DFK",
+        "registration_date": "29/09/2016",
+        "mileage": 120000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16200,
+        "total_price": 16200,
+        "deposit": 0,
+        "balance": 16200,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 406.8,
+        "final_payment": 407.8,
+        "total_amount_payable": 19527.4,
+        "total_charge_for_credit": 3327.4,
+        "amount_of_credit": 16200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

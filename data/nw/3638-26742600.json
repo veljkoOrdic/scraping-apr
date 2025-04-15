@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:29:30.980Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.totalautomobiles.co.uk/details/used-car-in-hale/bmw/3series/2.0-320d-sport-auto-euro-6-ss-4dr/1353389/",
+    "dealer_id": "3638",
+    "car_id": "26742600",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BP17UAL",
+        "registration_date": "08/06/2017",
+        "mileage": 103122,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7990,
+        "total_price": 7990,
+        "deposit": 799,
+        "balance": 7191,
+        "apr": 12.1,
+        "rate_of_interest": 6.36,
+        "term": 60,
+        "regular_payment": 157.94,
+        "final_payment": 167.94,
+        "total_amount_payable": 10285.4,
+        "total_charge_for_credit": 2295.4,
+        "amount_of_credit": 7191,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

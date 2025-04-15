@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:36:03.150Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.clubclasscarsyork.com/used-seat-leon-dunnington-north-yorkshire-6456336",
+    "dealer_id": "6887",
+    "car_id": "26193864",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU63OSP",
+        "registration_date": "01/09/2013",
+        "mileage": 82636,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799,
+        "balance": 7196,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 147.83,
+        "final_payment": 148.83,
+        "total_amount_payable": 9669.8,
+        "total_charge_for_credit": 1674.8,
+        "amount_of_credit": 7196,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

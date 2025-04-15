@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:51:38.497Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rmfisher.co.uk/used-car-details/used-seat-mii-368-kwh-auto-5dr-hatchback-red-automatic-electric/id-202406271179861/",
+    "dealer_id": "5083",
+    "car_id": "24776181",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NU21BHP",
+        "registration_date": "04/03/2021",
+        "mileage": 19036,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1619,
+        "balance": 9176,
+        "apr": 11.4,
+        "rate_of_interest": 11.36,
+        "term": 60,
+        "regular_payment": 198.66,
+        "final_payment": 208.66,
+        "total_amount_payable": 13548.6,
+        "total_charge_for_credit": 2753.6,
+        "amount_of_credit": 9176,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1619,
+        "balance": 9176,
+        "apr": 11.4,
+        "rate_of_interest": 11.36,
+        "term": 49,
+        "regular_payment": 173.58,
+        "final_payment": 3790,
+        "total_amount_payable": 13740.84,
+        "total_charge_for_credit": 2945.84,
+        "amount_of_credit": 9176,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0,
+        "residual": 3780,
+        "price_to_buy": 3790
+      }
+    ]
+  }
+]

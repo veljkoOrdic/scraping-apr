@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:27:17.496Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.braidwoodmotors.com/used-porsche-cayenne-livingston-west-lothian-6572714",
+    "dealer_id": "1142",
+    "car_id": "26600241",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS20JBU",
+        "registration_date": "27/08/2020",
+        "mileage": 22388,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59990,
+        "total_price": 59990,
+        "deposit": 5999,
+        "balance": 53991,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1109.16,
+        "final_payment": 1110.16,
+        "total_amount_payable": 72549.6,
+        "total_charge_for_credit": 12559.6,
+        "amount_of_credit": 53991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59990,
+        "total_price": 59990,
+        "deposit": 5999,
+        "balance": 53991,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 829.18,
+        "final_payment": 28876.89,
+        "total_amount_payable": 74676.53,
+        "total_charge_for_credit": 14686.53,
+        "amount_of_credit": 53991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 28875.89,
+        "price_to_buy": 28876.89
+      }
+    ]
+  }
+]

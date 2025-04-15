@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:38:29.315Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.oakleyprestige.co.uk/used/cars/mg/zs/44-5kwh-exclusive-auto-5dr-58",
+    "dealer_id": "6260",
+    "car_id": "27377780",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LM70BFN",
+        "registration_date": "30/09/2020",
+        "mileage": 19500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11990,
+        "total_price": 11990,
+        "deposit": 1199,
+        "balance": 10791,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 270.97,
+        "final_payment": 271.97,
+        "total_amount_payable": 14206.56,
+        "total_charge_for_credit": 2216.56,
+        "amount_of_credit": 10791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11990,
+        "total_price": 11990,
+        "deposit": 1199,
+        "balance": 10791,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 174.68,
+        "final_payment": 5638.68,
+        "total_amount_payable": 15222.32,
+        "total_charge_for_credit": 3232.32,
+        "amount_of_credit": 10791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 5637.68,
+        "price_to_buy": 5638.68
+      }
+    ]
+  }
+]

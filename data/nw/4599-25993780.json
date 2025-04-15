@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:20:02.927Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-bentley-continental-liverpool-merseyside-6400601",
+    "dealer_id": "4599",
+    "car_id": "25993780",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR19LMK",
+        "registration_date": "29/03/2019",
+        "mileage": 13669,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95994,
+        "total_price": 95994,
+        "deposit": 1000,
+        "balance": 94994,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1993.87,
+        "final_payment": 2003.87,
+        "total_amount_payable": 120642.2,
+        "total_charge_for_credit": 24648.2,
+        "amount_of_credit": 94994,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 95994,
+        "total_price": 95994,
+        "deposit": 1000,
+        "balance": 94994,
+        "apr": 12.5,
+        "rate_of_interest": 6.43,
+        "term": 36,
+        "regular_payment": 2064.57,
+        "final_payment": 48607,
+        "total_amount_payable": 121866.95,
+        "total_charge_for_credit": 25872.95,
+        "amount_of_credit": 94994,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "contract_mileage": 18000,
+        "excess_mileage_rate": 0.12,
+        "residual": 48597,
+        "price_to_buy": 48607
+      }
+    ]
+  }
+]

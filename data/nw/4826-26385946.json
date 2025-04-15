@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:04:37.111Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caldermotor.co.uk/used-maserati-levante-west-lothian-scotland-6524646",
+    "dealer_id": "4826",
+    "car_id": "26385946",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX18FDJ",
+        "registration_date": "04/04/2018",
+        "mileage": 43800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25750,
+        "total_price": 25750,
+        "deposit": 2575,
+        "balance": 23175,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 476.09,
+        "final_payment": 477.09,
+        "total_amount_payable": 31141.4,
+        "total_charge_for_credit": 5391.4,
+        "amount_of_credit": 23175,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25750,
+        "total_price": 25750,
+        "deposit": 2575,
+        "balance": 23175,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 35,
+        "regular_payment": 490.49,
+        "final_payment": 10787.5,
+        "total_amount_payable": 30039.16,
+        "total_charge_for_credit": 4289.16,
+        "amount_of_credit": 23175,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 29167,
+        "excess_mileage_rate": 0.05,
+        "residual": 10786.5,
+        "price_to_buy": 10787.5
+      }
+    ]
+  }
+]

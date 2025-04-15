@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:57:04.811Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.peterscottcars.co.uk/used-audi-q3-widnes-cheshire-6496392",
+    "dealer_id": "1662",
+    "car_id": "26282504",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CY68GHU",
+        "registration_date": "08/02/2019",
+        "mileage": 28579,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21980,
+        "total_price": 21980,
+        "deposit": 2198,
+        "balance": 19782,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 423.99,
+        "final_payment": 433.99,
+        "total_amount_payable": 27647.4,
+        "total_charge_for_credit": 5667.4,
+        "amount_of_credit": 19782,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21980,
+        "total_price": 21980,
+        "deposit": 2198,
+        "balance": 19782,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 45,
+        "regular_payment": 373.77,
+        "final_payment": 9072,
+        "total_amount_payable": 27715.88,
+        "total_charge_for_credit": 5735.88,
+        "amount_of_credit": 19782,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 0.04,
+        "residual": 9071,
+        "price_to_buy": 9072
+      }
+    ]
+  }
+]

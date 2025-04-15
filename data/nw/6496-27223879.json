@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:41:56.524Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.asmotoruk.com/cars/audi/tt/2.0-tfsi-40-s-line/1394204/",
+    "dealer_id": "6496",
+    "car_id": "27223879",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BC19JOA",
+        "registration_date": "31/05/2019",
+        "mileage": 52047,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16450,
+        "total_price": 16450,
+        "deposit": 1645,
+        "balance": 14805,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 324.09,
+        "final_payment": 324.09,
+        "total_amount_payable": 21090.4,
+        "total_charge_for_credit": 4640.4,
+        "amount_of_credit": 14805,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16450,
+        "total_price": 16450,
+        "deposit": 1645,
+        "balance": 14805,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 263,
+        "final_payment": 7966.5,
+        "total_amount_payable": 22235.5,
+        "total_charge_for_credit": 5785.5,
+        "amount_of_credit": 14805,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 7966.5,
+        "price_to_buy": 7966.5
+      }
+    ]
+  }
+]

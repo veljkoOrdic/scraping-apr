@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:01.531Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/porsche--taycan/sj23dvy",
+    "dealer_id": "210",
+    "car_id": "25739058",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ23DVY",
+        "registration_date": "15/03/2023",
+        "mileage": 17128,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59999,
+        "total_price": 59999,
+        "deposit": 5999,
+        "balance": 54000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1332.43,
+        "final_payment": 1333.43,
+        "total_amount_payable": 69956.64,
+        "total_charge_for_credit": 9957.64,
+        "amount_of_credit": 54000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59999,
+        "total_price": 59999,
+        "deposit": 5999,
+        "balance": 54000,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 907.14,
+        "final_payment": 24414.4,
+        "total_amount_payable": 73956.12,
+        "total_charge_for_credit": 13957.12,
+        "amount_of_credit": 54000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.32,
+        "residual": 24413.4,
+        "price_to_buy": 24414.4
+      }
+    ]
+  }
+]

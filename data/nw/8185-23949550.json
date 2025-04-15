@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:55:28.246Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gvcvansdirect.co.uk/vehicles/ford-transit-custom-ford-transit-custom-20-tdci-170-ps-g-sport-limited-ecoblue-swb-l1-fully-loaded-with-extras-286",
+    "dealer_id": "8185",
+    "car_id": "23949550",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL18AWV",
+        "registration_date": "08/06/2018",
+        "mileage": 91000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19188,
+        "total_price": 19188,
+        "deposit": 0,
+        "balance": 15990,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 364.51,
+        "final_payment": 365.51,
+        "total_amount_payable": 25069.6,
+        "total_charge_for_credit": 5881.6,
+        "amount_of_credit": 15990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

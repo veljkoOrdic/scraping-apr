@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:27:32.748Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-tesla-model-3-bayford-hertfordshire-6373726",
+    "dealer_id": "3049",
+    "car_id": "25811969",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GL71EVH",
+        "registration_date": "09/12/2021",
+        "mileage": 55000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17450,
+        "total_price": 17450,
+        "deposit": 1745,
+        "balance": 15705,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 322.63,
+        "final_payment": 323.63,
+        "total_amount_payable": 21103.8,
+        "total_charge_for_credit": 3653.8,
+        "amount_of_credit": 15705,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17450,
+        "total_price": 17450,
+        "deposit": 1745,
+        "balance": 15705,
+        "apr": 8.9,
+        "rate_of_interest": 4.4,
+        "term": 49,
+        "regular_payment": 272.56,
+        "final_payment": 6599.12,
+        "total_amount_payable": 21427,
+        "total_charge_for_credit": 3977,
+        "amount_of_credit": 15705,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 6598.12,
+        "price_to_buy": 6599.12
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:14:40.722Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.piccadillymotors.co.uk/used-car-details/used-kia-sportage-16-t-gdi-3-suv-5dr-petrol-man-suv-fusion-white-manual-petrol/id-4257/",
+    "dealer_id": "8759",
+    "car_id": "27346893",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH22UVV",
+        "registration_date": "31/03/2022",
+        "mileage": 24660,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 3374,
+        "balance": 19121,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 480,
+        "final_payment": 490,
+        "total_amount_payable": 26424,
+        "total_charge_for_credit": 3929,
+        "amount_of_credit": 19121,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 3374,
+        "balance": 19121,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 311.5,
+        "final_payment": 9875.5,
+        "total_amount_payable": 28201.5,
+        "total_charge_for_credit": 5706.5,
+        "amount_of_credit": 19121,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 9875.5,
+        "price_to_buy": 9875.5
+      }
+    ]
+  }
+]

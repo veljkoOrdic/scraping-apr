@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:30:21.486Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newmacharmotors.co.uk/vehicle-details/used-ford-ranger-tdci-wildtrak-for-sale-in-newmachar-aberdeenshire-u1444/",
+    "dealer_id": "5870",
+    "car_id": "26813672",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV18YXC",
+        "registration_date": "31/07/2018",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25194,
+        "total_price": 25194,
+        "deposit": 99,
+        "balance": 25095,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 538.02,
+        "final_payment": 539.02,
+        "total_amount_payable": 32381.2,
+        "total_charge_for_credit": 7187.2,
+        "amount_of_credit": 25095,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

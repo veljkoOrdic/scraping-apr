@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:56:25.190Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carbuyersdirectuk.co.uk/used-bmw-m2-knaresborough-north-yorkshire-6801744",
+    "dealer_id": "4296",
+    "car_id": "27474691",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST24HJN",
+        "registration_date": "28/03/2024",
+        "mileage": 5000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54950,
+        "total_price": 54950,
+        "deposit": 5495,
+        "balance": 49455,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1263.59,
+        "final_payment": 1264.59,
+        "total_amount_payable": 66148.32,
+        "total_charge_for_credit": 11198.32,
+        "amount_of_credit": 49455,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54950,
+        "total_price": 54950,
+        "deposit": 5495,
+        "balance": 49455,
+        "apr": 10.9,
+        "rate_of_interest": 5.31,
+        "term": 49,
+        "regular_payment": 796.54,
+        "final_payment": 27889.75,
+        "total_amount_payable": 71618.67,
+        "total_charge_for_credit": 16668.67,
+        "amount_of_credit": 49455,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.26,
+        "residual": 27888.75,
+        "price_to_buy": 27889.75
+      }
+    ]
+  }
+]

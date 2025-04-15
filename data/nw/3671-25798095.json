@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:33:23.175Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shukercars.co.uk/details/used-car-in-bromsgrove/mercedes-benz/aclass/2.0-a250-engineered-by-amg-7g-dct-4matic-euro-6-ss-5dr/1275699/",
+    "dealer_id": "3671",
+    "car_id": "25798095",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK15OUP",
+        "registration_date": "02/03/2015",
+        "mileage": 41700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 58,
+        "regular_payment": 282.8,
+        "final_payment": 283.8,
+        "total_amount_payable": 17802.9,
+        "total_charge_for_credit": 3807.9,
+        "amount_of_credit": 12595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

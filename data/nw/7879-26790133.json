@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:57:15.268Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bsbautomotive.co.uk/used-tesla-model-3-belvedere-london-6624754",
+    "dealer_id": "7879",
+    "car_id": "26790133",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BT69SYU",
+        "registration_date": "21/11/2019",
+        "mileage": 65000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 295.51,
+        "final_payment": 305.51,
+        "total_amount_payable": 19339.6,
+        "total_charge_for_credit": 3349.6,
+        "amount_of_credit": 14391,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 10.9,
+        "rate_of_interest": 5.63,
+        "term": 44,
+        "regular_payment": 272.83,
+        "final_payment": 6767,
+        "total_amount_payable": 20097.69,
+        "total_charge_for_credit": 4107.69,
+        "amount_of_credit": 14391,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 36667,
+        "excess_mileage_rate": 0.16,
+        "residual": 6757,
+        "price_to_buy": 6767
+      }
+    ]
+  }
+]

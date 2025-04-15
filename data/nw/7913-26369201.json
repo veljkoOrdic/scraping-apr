@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:25:37.879Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.platts.co.uk/used-cars/audi/q3/s-line-35-tfsi-hybrid-1.5i-automatic-13506",
+    "dealer_id": "7913",
+    "car_id": "26369201",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL71KRV",
+        "registration_date": "19/11/2021",
+        "mileage": 29384,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 7648.5,
+        "balance": 17846.5,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 423.12,
+        "final_payment": 424.12,
+        "total_amount_payable": 33036.7,
+        "total_charge_for_credit": 7541.7,
+        "amount_of_credit": 17846.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 7648.5,
+        "balance": 17846.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.28,
+        "term": 49,
+        "regular_payment": 268.84,
+        "final_payment": 11174.95,
+        "total_amount_payable": 31727.77,
+        "total_charge_for_credit": 6232.77,
+        "amount_of_credit": 17846.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.1,
+        "residual": 11173.95,
+        "price_to_buy": 11174.95
+      }
+    ]
+  }
+]

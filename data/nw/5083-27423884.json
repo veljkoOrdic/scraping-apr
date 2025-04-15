@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:52:49.969Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rmfisher.co.uk/used-car-details/used-cupra-formentor-15-tsi-v1-euro-6-ss-5dr-suv-white-manual-petrol/id-202503140138763/",
+    "dealer_id": "5083",
+    "car_id": "27423884",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DF72LNJ",
+        "registration_date": "31/01/2023",
+        "mileage": 17104,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21295,
+        "total_price": 21295,
+        "deposit": 3194,
+        "balance": 18101,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 60,
+        "regular_payment": 392.04,
+        "final_payment": 402.04,
+        "total_amount_payable": 26726.4,
+        "total_charge_for_credit": 5431.4,
+        "amount_of_credit": 18101,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21295,
+        "total_price": 21295,
+        "deposit": 3194,
+        "balance": 18101,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 49,
+        "regular_payment": 292.03,
+        "final_payment": 10517.5,
+        "total_amount_payable": 27728.94,
+        "total_charge_for_credit": 6433.94,
+        "amount_of_credit": 18101,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.06,
+        "residual": 10507.5,
+        "price_to_buy": 10517.5
+      }
+    ]
+  }
+]

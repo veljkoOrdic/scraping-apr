@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:17:04.820Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.germanmotorstore.com/cars/bmw/1series/2.0-120d-m-sport-3-door/1371118/",
+    "dealer_id": "9354",
+    "car_id": "26957278",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB65FOP",
+        "registration_date": "30/11/2015",
+        "mileage": 102634,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 200.97,
+        "final_payment": 201.97,
+        "total_amount_payable": 13058.7,
+        "total_charge_for_credit": 3063.7,
+        "amount_of_credit": 8995.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

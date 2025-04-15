@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:02:26.327Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autotradecentreni.com/cars/jaguar/f-type/2.0-i-r-dynamic/1385165/",
+    "dealer_id": "6925",
+    "car_id": "27118559",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ISZ7681",
+        "registration_date": "30/10/2020",
+        "mileage": 32011,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 663.36,
+        "final_payment": 673.36,
+        "total_amount_payable": 43111.1,
+        "total_charge_for_credit": 10116.1,
+        "amount_of_credit": 29695.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 549.3,
+        "final_payment": 15028.95,
+        "total_amount_payable": 44145.55,
+        "total_charge_for_credit": 11150.55,
+        "amount_of_credit": 29695.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.0887045744444444,
+        "residual": 15018.95,
+        "price_to_buy": 15028.95
+      }
+    ]
+  }
+]

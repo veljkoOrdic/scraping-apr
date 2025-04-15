@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:44:56.992Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belmontautos.co.uk/used-mercedes-benz-gle-class-glasgow-scotland-5072548",
+    "dealer_id": "6045",
+    "car_id": "23534513",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "M5JRR",
+        "registration_date": "23/07/2020",
+        "mileage": 54700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39999,
+        "total_price": 39999,
+        "deposit": 300,
+        "balance": 39699,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 877.88,
+        "final_payment": 887.88,
+        "total_amount_payable": 52982.8,
+        "total_charge_for_credit": 12983.8,
+        "amount_of_credit": 39699,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39999,
+        "total_price": 39999,
+        "deposit": 300,
+        "balance": 39699,
+        "apr": 12.4,
+        "rate_of_interest": 6.45,
+        "term": 48,
+        "regular_payment": 784.62,
+        "final_payment": 16366.68,
+        "total_amount_payable": 53543.82,
+        "total_charge_for_credit": 13544.82,
+        "amount_of_credit": 39699,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.22,
+        "residual": 16356.68,
+        "price_to_buy": 16366.68
+      }
+    ]
+  }
+]

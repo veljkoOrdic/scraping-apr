@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:52:47.535Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoparkuk.co.uk/used-toyota-c-hr-meadowfield-county-durham-6417114",
+    "dealer_id": "2061",
+    "car_id": "25973307",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV67LNR",
+        "registration_date": "04/09/2017",
+        "mileage": 13000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15795,
+        "total_price": 15795,
+        "deposit": 1579,
+        "balance": 14216,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 317.62,
+        "final_payment": 318.62,
+        "total_amount_payable": 20637.2,
+        "total_charge_for_credit": 4842.2,
+        "amount_of_credit": 14216,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

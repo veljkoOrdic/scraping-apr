@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:14:37.735Z",
+    "source": "new_vehicle_finance",
+    "url": "https://birstallmotorvillage.co.uk/vehicle/name/volkswagen-polo-style-tsi/",
+    "dealer_id": "2794",
+    "car_id": "27580312",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK22NVH",
+        "registration_date": "20/04/2022",
+        "mileage": 10639,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 36,
+        "regular_payment": 360.08,
+        "final_payment": 361.08,
+        "total_amount_payable": 14213.38,
+        "total_charge_for_credit": 1718.38,
+        "amount_of_credit": 11245.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.78,
+        "term": 37,
+        "regular_payment": 167.67,
+        "final_payment": 8039.8,
+        "total_amount_payable": 15325.42,
+        "total_charge_for_credit": 2830.42,
+        "amount_of_credit": 11245.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 0.08,
+        "residual": 8038.8,
+        "price_to_buy": 8039.8
+      }
+    ]
+  }
+]

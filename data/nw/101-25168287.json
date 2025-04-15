@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:41:21.765Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reynoldsmotorgroup.co.uk/used-peugeot-rcz-southend-on-sea-essex-6204539",
+    "dealer_id": "101",
+    "car_id": "25168287",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL12LHJ",
+        "registration_date": "30/05/2012",
+        "mileage": 93000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3000,
+        "total_price": 3000,
+        "deposit": 0,
+        "balance": 3000,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 75.34,
+        "final_payment": 76.34,
+        "total_amount_payable": 3617.32,
+        "total_charge_for_credit": 617.32,
+        "amount_of_credit": 3000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:12:04.447Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradecarsandcommercials.co.uk/used-honda-civic-prudhoe-northumberland-6802823",
+    "dealer_id": "6641",
+    "car_id": "27482589",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AE74RCO",
+        "registration_date": "11/10/2024",
+        "mileage": 1000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 1000,
+        "balance": 44000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 923.59,
+        "final_payment": 924.59,
+        "total_amount_payable": 56416.4,
+        "total_charge_for_credit": 11416.4,
+        "amount_of_credit": 44000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 1000,
+        "balance": 44000,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 769.8,
+        "final_payment": 19622.5,
+        "total_amount_payable": 57572.9,
+        "total_charge_for_credit": 12572.9,
+        "amount_of_credit": 44000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.28,
+        "residual": 19621.5,
+        "price_to_buy": 19622.5
+      }
+    ]
+  }
+]

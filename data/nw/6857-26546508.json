@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:26:09.797Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorcityplymouth.co.uk/used-vauxhall-corsa-plymouth-devon-6561839",
+    "dealer_id": "6857",
+    "car_id": "26546508",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG16PEL",
+        "registration_date": "29/07/2016",
+        "mileage": 55211,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 1799,
+        "balance": 7200,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 147.91,
+        "final_payment": 148.91,
+        "total_amount_payable": 10674.6,
+        "total_charge_for_credit": 1675.6,
+        "amount_of_credit": 7200,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:32:41.561Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bulfordgarage.co.uk/vehicle-details/used-volkswagen-golf-tdi-se-nav-for-sale-in-wellington-somerset-u1337/",
+    "dealer_id": "1986",
+    "car_id": "27542397",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AX18HSU",
+        "registration_date": "26/07/2018",
+        "mileage": 26000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15290,
+        "total_price": 15290,
+        "deposit": 1529,
+        "balance": 13761,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 301.22,
+        "final_payment": 302.22,
+        "total_amount_payable": 19603.2,
+        "total_charge_for_credit": 4313.2,
+        "amount_of_credit": 13761,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

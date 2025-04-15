@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:17:34.018Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beehivecars.co.uk/used-volkswagen-golf-bolton-lancashire-6761542",
+    "dealer_id": "7230",
+    "car_id": "27407289",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV20WPJ",
+        "registration_date": "09/03/2020",
+        "mileage": 36965,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23450,
+        "total_price": 23450,
+        "deposit": 2345,
+        "balance": 21105,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 530,
+        "final_payment": 530,
+        "total_amount_payable": 27785,
+        "total_charge_for_credit": 4335,
+        "amount_of_credit": 21105,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23450,
+        "total_price": 23450,
+        "deposit": 2345,
+        "balance": 21105,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 45,
+        "regular_payment": 400.03,
+        "final_payment": 8956,
+        "total_amount_payable": 28902.32,
+        "total_charge_for_credit": 5452.32,
+        "amount_of_credit": 21105,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 0.15,
+        "residual": 8955,
+        "price_to_buy": 8956
+      }
+    ]
+  }
+]

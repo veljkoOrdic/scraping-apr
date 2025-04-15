@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:33:59.587Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.verdicars.com/details/used-car-in-redhill/porsche/taycan/performance-plus-93.4kwh-turbo-s-auto-4wd-4dr/1435144/",
+    "dealer_id": "7178",
+    "car_id": "27724690",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HK70LZO",
+        "registration_date": "30/11/2020",
+        "mileage": 29000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57989,
+        "total_price": 57989,
+        "deposit": 2899.45,
+        "balance": 55089.55,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1383.41,
+        "final_payment": 1384.41,
+        "total_amount_payable": 69304.13,
+        "total_charge_for_credit": 11315.13,
+        "amount_of_credit": 55089.55,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57989,
+        "total_price": 57989,
+        "deposit": 2899.45,
+        "balance": 55089.55,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 972.52,
+        "final_payment": 24058,
+        "total_amount_payable": 73638.41,
+        "total_charge_for_credit": 15649.41,
+        "amount_of_credit": 55089.55,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 24057,
+        "price_to_buy": 24058
+      }
+    ]
+  }
+]

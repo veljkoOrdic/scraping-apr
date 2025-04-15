@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:57:29.093Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hcl-ltd.com/details/used-car-in-ashford/hyundai/tucson/1.6-t-gdi-mhev-premium-dct-euro-6-ss-5dr/1291318/",
+    "dealer_id": "3275",
+    "car_id": "25993650",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV71BWW",
+        "registration_date": "03/12/2021",
+        "mileage": 19350,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 2149,
+        "balance": 19341,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 397.32,
+        "final_payment": 398.32,
+        "total_amount_payable": 25989.2,
+        "total_charge_for_credit": 4499.2,
+        "amount_of_credit": 19341,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 2149,
+        "balance": 19341,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 324.87,
+        "final_payment": 8746.3,
+        "total_amount_payable": 26489.06,
+        "total_charge_for_credit": 4999.06,
+        "amount_of_credit": 19341,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8745.3,
+        "price_to_buy": 8746.3
+      }
+    ]
+  }
+]

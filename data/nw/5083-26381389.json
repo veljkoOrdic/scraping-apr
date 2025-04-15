@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:53:40.375Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rmfisher.co.uk/used-car-details/used-seat-tarraco-15-ecotsi-evo-fr-sport-dsg-eu-suv-green-automatic-petrol/id-202411286807591/",
+    "dealer_id": "5083",
+    "car_id": "26381389",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP24WZN",
+        "registration_date": "05/04/2024",
+        "mileage": 4199,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33495,
+        "total_price": 33495,
+        "deposit": 5024,
+        "balance": 28471,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 60,
+        "regular_payment": 616.63,
+        "final_payment": 626.63,
+        "total_amount_payable": 42031.8,
+        "total_charge_for_credit": 8536.8,
+        "amount_of_credit": 28471,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33495,
+        "total_price": 33495,
+        "deposit": 5024,
+        "balance": 28471,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 49,
+        "regular_payment": 500.6,
+        "final_payment": 14050,
+        "total_amount_payable": 43102.8,
+        "total_charge_for_credit": 9607.8,
+        "amount_of_credit": 28471,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.06,
+        "residual": 14040,
+        "price_to_buy": 14050
+      }
+    ]
+  }
+]

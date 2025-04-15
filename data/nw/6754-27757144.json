@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:37:44.530Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/audi/rs4/2.9-tfsi-v6-bronze-edition-tiptronic-quattro-euro-6-ss-5dr/1438313/",
+    "dealer_id": "6754",
+    "car_id": "27757144",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DY70ATO",
+        "registration_date": "09/09/2020",
+        "mileage": 30500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53999,
+        "total_price": 53999,
+        "deposit": 2699.95,
+        "balance": 51299.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 1423.7,
+        "final_payment": 1424.7,
+        "total_amount_payable": 71038.55,
+        "total_charge_for_credit": 17039.55,
+        "amount_of_credit": 51299.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

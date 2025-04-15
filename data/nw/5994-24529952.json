@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:55:02.188Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.specialistcarsofswansea.com/used-cars/swansea-wales-toyota-iq-vvt-i-iq2-1599/",
+    "dealer_id": "5994",
+    "car_id": "24529952",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG63OXF",
+        "registration_date": "30/09/2013",
+        "mileage": 52000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5995,
+        "total_price": 5995,
+        "deposit": 599.5,
+        "balance": 5395.5,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 142.85,
+        "final_payment": 142.85,
+        "total_amount_payable": 9170.5,
+        "total_charge_for_credit": 3175.5,
+        "amount_of_credit": 5395.5,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

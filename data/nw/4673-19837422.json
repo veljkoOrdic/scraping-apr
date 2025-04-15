@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:26:13.105Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hcs-cars.com/vehicle/name/iveco-daily-35s11/",
+    "dealer_id": "4673",
+    "car_id": "19837422",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BW15LDU",
+        "registration_date": "06/07/2015",
+        "mileage": 115000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 1999.83,
+        "balance": 9999.17,
+        "apr": 14.5,
+        "rate_of_interest": 7.68,
+        "term": 60,
+        "regular_payment": 230.67,
+        "final_payment": 231.67,
+        "total_amount_payable": 15841.03,
+        "total_charge_for_credit": 3842.03,
+        "amount_of_credit": 9999.17,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

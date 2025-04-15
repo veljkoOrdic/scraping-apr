@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:21:48.636Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carterandhaines.co.uk/used/cars/audi/q5/2-0-tfsie-50-edition-1-suv-5dr-petrol-plug-in-hybrid-s-tronic-quattro-299ps-282",
+    "dealer_id": "7028",
+    "car_id": "27318734",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE71VMM",
+        "registration_date": "19/11/2021",
+        "mileage": 76464,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 2749.5,
+        "balance": 24745.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 519.43,
+        "final_payment": 520.43,
+        "total_amount_payable": 33916.3,
+        "total_charge_for_credit": 6421.3,
+        "amount_of_credit": 24745.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

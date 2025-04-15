@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:38:50.155Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-land-rover-range-rover-30-d300-mhev-se-suv-5dr-diese-suv-black-automatic-diesel/id-5805/",
+    "dealer_id": "7985",
+    "car_id": "27714673",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO24HUV",
+        "registration_date": "01/03/2024",
+        "mileage": 14800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 92000,
+        "total_price": 92000,
+        "deposit": 13800,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 111458.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 92000,
+        "total_price": 92000,
+        "deposit": 13800,
+        "balance": 78200,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 1236.58,
+        "final_payment": 42577,
+        "total_amount_payable": 115732.84,
+        "total_charge_for_credit": 23732.84,
+        "amount_of_credit": 78200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.4,
+        "residual": 42576,
+        "price_to_buy": 42577
+      }
+    ]
+  }
+]

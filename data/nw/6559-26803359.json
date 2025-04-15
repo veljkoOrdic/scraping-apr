@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:51:32.140Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-bentley-mulsanne-675-v8-speed-auto-euro-6-4dr-saloon-sequin-blue-automatic-petrol/id-202501178135242/",
+    "dealer_id": "6559",
+    "car_id": "26803359",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FG64ENX",
+        "registration_date": "02/01/2015",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57948,
+        "total_price": 57948,
+        "deposit": 20281,
+        "balance": 37667,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 56,
+        "regular_payment": 834.89,
+        "final_payment": 835.89,
+        "total_amount_payable": 67035.84,
+        "total_charge_for_credit": 9087.84,
+        "amount_of_credit": 37667,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

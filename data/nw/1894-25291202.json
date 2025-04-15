@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:29:12.131Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuegarageltd.co.uk/used-bentley-flying-spur-dunstable-bedfordshire-5291866",
+    "dealer_id": "1894",
+    "car_id": "25291202",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE63DVC",
+        "registration_date": "19/09/2013",
+        "mileage": 37678,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35999,
+        "total_price": 35999,
+        "deposit": 3599,
+        "balance": 32400,
+        "apr": 11.9,
+        "rate_of_interest": 6.15,
+        "term": 41,
+        "regular_payment": 956.18,
+        "final_payment": 957.18,
+        "total_amount_payable": 42803.38,
+        "total_charge_for_credit": 6804.38,
+        "amount_of_credit": 32400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

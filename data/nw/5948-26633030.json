@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:38:55.608Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.harperscumbria.co.uk/carsearch/viewcar.php?viewcar=ME19LXL",
+    "dealer_id": "5948",
+    "car_id": "26633030",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ME19LXL",
+        "registration_date": "25/07/2019",
+        "mileage": 39740,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 3799,
+        "balance": 15196,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 318.96,
+        "final_payment": 319.96,
+        "total_amount_payable": 22937.6,
+        "total_charge_for_credit": 3942.6,
+        "amount_of_credit": 15196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 3799,
+        "balance": 15196,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 51,
+        "regular_payment": 281.37,
+        "final_payment": 6475.83,
+        "total_amount_payable": 24343.33,
+        "total_charge_for_credit": 5348.33,
+        "amount_of_credit": 15196,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 42500,
+        "excess_mileage_rate": 0.04,
+        "residual": 6474.83,
+        "price_to_buy": 6475.83
+      }
+    ]
+  }
+]

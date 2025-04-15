@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:49:14.214Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abbeygatecars.co.uk/used/ford/ranger/platinum-30l-ecoblue-v6-240ps-10-speed-automatic-double-cab-4wd-ft/wymondham/norfolk/238828",
+    "dealer_id": "2579",
+    "car_id": "26690911",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU74HCH",
+        "registration_date": "31/12/2024",
+        "mileage": 20,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65998.8,
+        "total_price": 65998.8,
+        "deposit": 5499.9,
+        "balance": 49499.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.97,
+        "term": 61,
+        "regular_payment": 1117.19,
+        "final_payment": 1118.19,
+        "total_amount_payable": 83532.1,
+        "total_charge_for_credit": 17533.3,
+        "amount_of_credit": 49499.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

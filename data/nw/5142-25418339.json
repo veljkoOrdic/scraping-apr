@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:09:40.387Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-jaguar-xf-gateshead-tyne-and-wear-6286822",
+    "dealer_id": "5142",
+    "car_id": "25418339",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SC19CCF",
+        "registration_date": "24/04/2019",
+        "mileage": 27607,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 899,
+        "balance": 17091,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 358.74,
+        "final_payment": 359.74,
+        "total_amount_payable": 22424.4,
+        "total_charge_for_credit": 4434.4,
+        "amount_of_credit": 17091,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

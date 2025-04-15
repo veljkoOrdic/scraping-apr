@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T11:13:37.017Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dcc-cars.co.uk/details/used-car-in-radcliffe/ford/focus/1.0t-ecoboost-titanium-x-euro-5-ss-5dr/1161895/",
+    "dealer_id": "71",
+    "car_id": "24309486",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK62EUL",
+        "registration_date": "28/09/2012",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4500,
+        "total_price": 4500,
+        "deposit": 450,
+        "balance": 4050,
+        "apr": 11.9,
+        "rate_of_interest": 6.01,
+        "term": 29,
+        "regular_payment": 159.93,
+        "final_payment": 169.93,
+        "total_amount_payable": 5097.97,
+        "total_charge_for_credit": 597.97,
+        "amount_of_credit": 4050,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

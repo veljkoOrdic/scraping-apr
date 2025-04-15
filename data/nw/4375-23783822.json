@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:25:22.083Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotorcompany.co.uk/details/car-in-glasgow/ford/c-max/1.5-tdci-zetec-euro-6-ss-5dr/1123159/",
+    "dealer_id": "4375",
+    "car_id": "23783822",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PY66AWA",
+        "registration_date": "16/12/2016",
+        "mileage": 71000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6690,
+        "total_price": 6690,
+        "deposit": 0,
+        "balance": 6690,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 140.42,
+        "final_payment": 141.42,
+        "total_amount_payable": 8426.2,
+        "total_charge_for_credit": 1736.2,
+        "amount_of_credit": 6690,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

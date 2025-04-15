@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:22:47.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sckltd.co.uk/details/car-in-kingswinford/mini/hatch/1.5-cooper-euro-6-ss-3dr/1379867/",
+    "dealer_id": "7456",
+    "car_id": "27052892",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YA66VMU",
+        "registration_date": "22/12/2016",
+        "mileage": 64000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7000,
+        "total_price": 7000,
+        "deposit": 700,
+        "balance": 6300,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 158.19,
+        "final_payment": 159.19,
+        "total_amount_payable": 8294.12,
+        "total_charge_for_credit": 1294.12,
+        "amount_of_credit": 6300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

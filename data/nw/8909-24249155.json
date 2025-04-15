@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:37:14.582Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.broadlandsvehicles.com/details/used-car-in-romsey/audi/a5/2.0-tdi-s-line-sportback-s-tronic-quattro-euro-6-ss-5dr/1073200/",
+    "dealer_id": "8909",
+    "car_id": "24249155",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "TOB21Y",
+        "registration_date": "04/08/2018",
+        "mileage": 64911,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 0,
+        "balance": 18495,
+        "apr": 11.1,
+        "rate_of_interest": 5.83,
+        "term": 60,
+        "regular_payment": 398.07,
+        "final_payment": 408.07,
+        "total_amount_payable": 23894.2,
+        "total_charge_for_credit": 5399.2,
+        "amount_of_credit": 18495,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

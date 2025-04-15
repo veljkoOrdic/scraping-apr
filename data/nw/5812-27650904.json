@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:27:49.196Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pilgrimsofmarch.co.uk/used/ford/ranger/pick-up-double-cab-limited-1-20-ecoblue-170/march/cambridgeshire/244674",
+    "dealer_id": "5812",
+    "car_id": "27650904",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV72BYU",
+        "registration_date": "12/10/2022",
+        "mileage": 19888,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25536,
+        "total_price": 25536,
+        "deposit": 300,
+        "balance": 20980,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 468.74,
+        "final_payment": 469.74,
+        "total_amount_payable": 32681.4,
+        "total_charge_for_credit": 7145.4,
+        "amount_of_credit": 20980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

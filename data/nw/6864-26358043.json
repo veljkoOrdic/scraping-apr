@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:38:15.760Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.theroxburghegroup.com/used-peugeot-5008-birmingham-west-midlands-6508033",
+    "dealer_id": "6864",
+    "car_id": "26358043",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LK71CZX",
+        "registration_date": "31/12/2021",
+        "mileage": 23279,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23499,
+        "total_price": 23499,
+        "deposit": 2349,
+        "balance": 21150,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 443.95,
+        "final_payment": 443.95,
+        "total_amount_payable": 28986,
+        "total_charge_for_credit": 5487,
+        "amount_of_credit": 21150,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:33:04.615Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stirling-cars.com/used-mercedes-benz-s-class-hoddesdon-hertfordshire-6488689",
+    "dealer_id": "4225",
+    "car_id": "26248745",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OP15HEP",
+        "registration_date": "04/10/2018",
+        "mileage": 90000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29979,
+        "total_price": 29979,
+        "deposit": 2997,
+        "balance": 26982,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 677.58,
+        "final_payment": 678.58,
+        "total_amount_payable": 35521.84,
+        "total_charge_for_credit": 5542.84,
+        "amount_of_credit": 26982,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29979,
+        "total_price": 29979,
+        "deposit": 2997,
+        "balance": 26982,
+        "apr": 10.9,
+        "rate_of_interest": 5.58,
+        "term": 30,
+        "regular_payment": 610.36,
+        "final_payment": 14750,
+        "total_amount_payable": 35447.44,
+        "total_charge_for_credit": 5468.44,
+        "amount_of_credit": 26982,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 0.12,
+        "residual": 14740,
+        "price_to_buy": 14750
+      }
+    ]
+  }
+]

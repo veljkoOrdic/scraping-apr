@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:41:21.255Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.djautos.com/used-jaguar-f-pace-leighton-buzzard-bedfordshire-6747540",
+    "dealer_id": "2495",
+    "car_id": "27244947",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV18VYO",
+        "registration_date": "10/03/2018",
+        "mileage": 45000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16795,
+        "total_price": 16795,
+        "deposit": 1679,
+        "balance": 15116,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 330.88,
+        "final_payment": 331.88,
+        "total_amount_payable": 21532.8,
+        "total_charge_for_credit": 4737.8,
+        "amount_of_credit": 15116,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

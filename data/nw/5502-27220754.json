@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:47:16.591Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-land-rover-defender-90-3-0-d250-x-dynamic-se-5dr-3-door-suv-santorini-black/ko23nwl",
+    "dealer_id": "5502",
+    "car_id": "27220754",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KO23NWL",
+        "registration_date": "07/07/2023",
+        "mileage": 18725,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53495,
+        "total_price": 53495,
+        "deposit": 5349,
+        "balance": 48146,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 1562.38,
+        "final_payment": 1562.38,
+        "total_amount_payable": 61594.68,
+        "total_charge_for_credit": 8099.68,
+        "amount_of_credit": 48146,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53495,
+        "total_price": 53495,
+        "deposit": 5349,
+        "balance": 48146,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 928.89,
+        "final_payment": 27555,
+        "total_amount_payable": 65415.15,
+        "total_charge_for_credit": 11920.15,
+        "amount_of_credit": 48146,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.12,
+        "residual": 27545,
+        "price_to_buy": 27555
+      }
+    ]
+  }
+]

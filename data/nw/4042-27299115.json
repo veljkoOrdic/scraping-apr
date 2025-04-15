@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:16:03.469Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wirralcarsales.com/used-porsche-cayenne-ellesmere-port-cheshire-6759956",
+    "dealer_id": "4042",
+    "car_id": "27299115",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO67XGV",
+        "registration_date": "13/11/2017",
+        "mileage": 48909,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28500,
+        "total_price": 28500,
+        "deposit": 2850,
+        "balance": 25650,
+        "apr": 11.5,
+        "rate_of_interest": 6.05,
+        "term": 60,
+        "regular_payment": 556.74,
+        "final_payment": 566.74,
+        "total_amount_payable": 36264.4,
+        "total_charge_for_credit": 7764.4,
+        "amount_of_credit": 25650,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

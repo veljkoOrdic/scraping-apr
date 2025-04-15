@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:14:02.055Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.piccadillymotors.co.uk/used-car-details/used-kia-picanto-10-dpi-1-hatchback-5dr-petrol-hatchback-yellow-manual-petrol/id-14522/",
+    "dealer_id": "8759",
+    "car_id": "27668238",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG71CFL",
+        "registration_date": "01/09/2021",
+        "mileage": 17946,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 1424,
+        "balance": 8071,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 48,
+        "regular_payment": 202.51,
+        "final_payment": 212.51,
+        "total_amount_payable": 11154.48,
+        "total_charge_for_credit": 1659.48,
+        "amount_of_credit": 8071,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 1424,
+        "balance": 8071,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 144.44,
+        "final_payment": 3409.78,
+        "total_amount_payable": 11766.9,
+        "total_charge_for_credit": 2271.9,
+        "amount_of_credit": 8071,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 3409.78,
+        "price_to_buy": 3409.78
+      }
+    ]
+  }
+]

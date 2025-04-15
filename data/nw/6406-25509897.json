@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:15:40.489Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yorkshirevehiclesolutions.co.uk/used/audi/r8/52-fsi-v10-plus-s-tronic-quattro-euro-5-2dr/york/north-yorkshire/21386221",
+    "dealer_id": "6406",
+    "car_id": "25509897",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "R80GMJ",
+        "registration_date": "09/05/2013",
+        "mileage": 22200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58495,
+        "total_price": 58495,
+        "deposit": 5849.5,
+        "balance": 52645.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 36,
+        "regular_payment": 1685.81,
+        "final_payment": 1686.81,
+        "total_amount_payable": 66539.66,
+        "total_charge_for_credit": 8044.66,
+        "amount_of_credit": 52645.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:38:02.764Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.avantiautomotive.co.uk/vehicle-details/used-land-rover-range-rover-sd-v8-autobiography-for-sale-in-bristol-gloucestershire-u2327/",
+    "dealer_id": "5434",
+    "car_id": "18669447",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY15FCG",
+        "registration_date": "13/03/2015",
+        "mileage": 49454,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28000,
+        "total_price": 28000,
+        "deposit": 1000,
+        "balance": 27000,
+        "apr": 12.7,
+        "rate_of_interest": 6.71,
+        "term": 58,
+        "regular_payment": 616.44,
+        "final_payment": 617.44,
+        "total_amount_payable": 36754.52,
+        "total_charge_for_credit": 8754.52,
+        "amount_of_credit": 27000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:48:01.120Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-land-rover-range-rover-3-0-d300-se-5dr-5-door-suv-silicon-silver/kr23hjg",
+    "dealer_id": "5502",
+    "car_id": "27606658",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR23HJG",
+        "registration_date": "31/03/2023",
+        "mileage": 16720,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 81495,
+        "total_price": 81495,
+        "deposit": 8149,
+        "balance": 73346,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 2380.14,
+        "final_payment": 2380.14,
+        "total_amount_payable": 93834.04,
+        "total_charge_for_credit": 12339.04,
+        "amount_of_credit": 73346,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 81495,
+        "total_price": 81495,
+        "deposit": 8149,
+        "balance": 73346,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 36,
+        "regular_payment": 1438.63,
+        "final_payment": 41011,
+        "total_amount_payable": 99512.05,
+        "total_charge_for_credit": 18017.05,
+        "amount_of_credit": 73346,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.12,
+        "residual": 41001,
+        "price_to_buy": 41011
+      }
+    ]
+  }
+]

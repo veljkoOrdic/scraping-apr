@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:17:18.624Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jrrcars.co.uk/used/cars/land-rover/defender/3-0-defender-se-d-mhev-auto-4wd-3dr-338",
+    "dealer_id": "8299",
+    "car_id": "26656349",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF21MVP",
+        "registration_date": "27/04/2021",
+        "mileage": 93000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39000,
+        "total_price": 39000,
+        "deposit": 3900,
+        "balance": 35100,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 736.76,
+        "final_payment": 737.76,
+        "total_amount_payable": 48106.6,
+        "total_charge_for_credit": 9106.6,
+        "amount_of_credit": 35100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

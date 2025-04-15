@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:31:16.422Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tollcrossgarage.com/vehicle-details/used-audi-rs3-tfsi-vorsprung-for-sale-in-rutherglen-glasgow-u6197/",
+    "dealer_id": "6482",
+    "car_id": "27220081",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VG88",
+        "registration_date": "23/08/2023",
+        "mileage": 7500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61000,
+        "total_price": 61000,
+        "deposit": 6100,
+        "balance": 54900,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 1734.47,
+        "final_payment": 1735.47,
+        "total_amount_payable": 68541.92,
+        "total_charge_for_credit": 7541.92,
+        "amount_of_credit": 54900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61000,
+        "total_price": 61000,
+        "deposit": 6100,
+        "balance": 54900,
+        "apr": 8.9,
+        "rate_of_interest": 4.35,
+        "term": 37,
+        "regular_payment": 997.31,
+        "final_payment": 30349,
+        "total_amount_payable": 72352.16,
+        "total_charge_for_credit": 11352.16,
+        "amount_of_credit": 54900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 0.28,
+        "residual": 30348,
+        "price_to_buy": 30349
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:34:58.481Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.batemanlynchcars.co.uk/used-bmw-x3-liskeard-cornwall-6587030",
+    "dealer_id": "4973",
+    "car_id": "26651675",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FC19LFC",
+        "registration_date": "25/05/2019",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399,
+        "balance": 21596,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 453.3,
+        "final_payment": 454.3,
+        "total_amount_payable": 29598,
+        "total_charge_for_credit": 5603,
+        "amount_of_credit": 21596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399,
+        "balance": 21596,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 412.95,
+        "final_payment": 9800.5,
+        "total_amount_payable": 32021.1,
+        "total_charge_for_credit": 8026.1,
+        "amount_of_credit": 21596,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.05,
+        "residual": 9799.5,
+        "price_to_buy": 9800.5
+      }
+    ]
+  }
+]

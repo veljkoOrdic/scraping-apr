@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:50:31.082Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebbsfleetspecialistcars.co.uk/used-jaguar-xe-gravesend-kent-6659044",
+    "dealer_id": "103",
+    "car_id": "26913962",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC67OJH",
+        "registration_date": "29/09/2017",
+        "mileage": 29000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 301.62,
+        "final_payment": 302.62,
+        "total_amount_payable": 19598.2,
+        "total_charge_for_credit": 4598.2,
+        "amount_of_credit": 13500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

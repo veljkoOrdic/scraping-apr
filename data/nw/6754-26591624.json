@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:38:07.326Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/rolls-royce/ghost/6.6-v12-auto-euro-6-4dr/954091/",
+    "dealer_id": "6754",
+    "car_id": "26591624",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJM9S",
+        "registration_date": "02/05/2014",
+        "mileage": 26544,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 96999,
+        "total_price": 96999,
+        "deposit": 4849.95,
+        "balance": 92149.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 2557.41,
+        "final_payment": 2558.41,
+        "total_amount_payable": 127606.63,
+        "total_charge_for_credit": 30607.63,
+        "amount_of_credit": 92149.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

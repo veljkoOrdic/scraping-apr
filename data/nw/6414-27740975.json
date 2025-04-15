@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:49.157Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-mercedes-benz-c-class-chelmsford-essex-6865100",
+    "dealer_id": "6414",
+    "car_id": "27740975",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY23LSN",
+        "registration_date": "29/03/2023",
+        "mileage": 13239,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599,
+        "balance": 41396,
+        "apr": 16.9,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 1000.34,
+        "final_payment": 1010.34,
+        "total_amount_payable": 64629.4,
+        "total_charge_for_credit": 18634.4,
+        "amount_of_credit": 41396,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 4599,
+        "balance": 41396,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 816.27,
+        "final_payment": 17251.03,
+        "total_amount_payable": 61030.99,
+        "total_charge_for_credit": 15035.99,
+        "amount_of_credit": 41396,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 17251.03,
+        "price_to_buy": 17251.03
+      }
+    ]
+  }
+]

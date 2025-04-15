@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:40:34.244Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.djautos.com/used-volkswagen-golf-leighton-buzzard-bedfordshire-4789986",
+    "dealer_id": "2495",
+    "car_id": "19117791",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP12KYF",
+        "registration_date": "21/05/2012",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5995,
+        "total_price": 5995,
+        "deposit": 599,
+        "balance": 5396,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 25,
+        "regular_payment": 243.21,
+        "final_payment": 244.21,
+        "total_amount_payable": 6680.25,
+        "total_charge_for_credit": 685.25,
+        "amount_of_credit": 5396,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

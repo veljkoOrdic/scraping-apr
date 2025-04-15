@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T22:56:54.310Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.smvcommercials.co.uk/vehicle-details/used-porsche-macan-t-v6-gts-for-sale-smv-car-lcv-u390/",
+    "dealer_id": "2612",
+    "car_id": "26823043",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NA70XPL",
+        "registration_date": "21/11/2020",
+        "mileage": 18324,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53950,
+        "total_price": 53950,
+        "deposit": 5395,
+        "balance": 48555,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 935.224811290465,
+        "final_payment": 24086.47,
+        "total_amount_payable": 73437.04,
+        "total_charge_for_credit": 19487.04,
+        "amount_of_credit": 48555,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.12,
+        "residual": 23141.25,
+        "price_to_buy": 24086.47
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:11:07.938Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.davideddowesltd.co.uk/used-iveco-daily-huddersfield-west-yorkshire-6099292",
+    "dealer_id": "7227",
+    "car_id": "24644616",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD72WPV",
+        "registration_date": "01/09/2022",
+        "mileage": 31000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 0,
+        "balance": 21995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 471.55,
+        "final_payment": 472.55,
+        "total_amount_payable": 32693,
+        "total_charge_for_credit": 6299,
+        "amount_of_credit": 21995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

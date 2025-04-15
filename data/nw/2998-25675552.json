@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:24:07.148Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.webbsofealing.co.uk/vans/ford/tourneocustom/2.0-transit-custom-m1-320-l1-2.0l-ecoblue-130ps-fwd-9-seater/1266997/",
+    "dealer_id": "2998",
+    "car_id": "25675552",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CV71LXB",
+        "registration_date": "11/10/2021",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25194,
+        "total_price": 25194,
+        "deposit": 4199,
+        "balance": 20995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 450.13,
+        "final_payment": 450.13,
+        "total_amount_payable": 31206.8,
+        "total_charge_for_credit": 6012.8,
+        "amount_of_credit": 20995,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

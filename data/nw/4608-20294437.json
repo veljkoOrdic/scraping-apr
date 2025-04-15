@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:22:03.290Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ascarsltd.co.uk/details/used-car-in-lu6-1nx/bmw/7series/3.0-740li-m-sport-auto-euro-6-ss-4dr/874479/",
+    "dealer_id": "4608",
+    "car_id": "20294437",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD69XCO",
+        "registration_date": "16/10/2019",
+        "mileage": 69000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 0,
+        "balance": 29990,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 753.1,
+        "final_payment": 754.1,
+        "total_amount_payable": 36149.8,
+        "total_charge_for_credit": 6159.8,
+        "amount_of_credit": 29990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

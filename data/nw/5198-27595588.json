@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:29:27.900Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sprysoflaunceston.co.uk/details/used-car-in-launceston/mini/convertible/1.5-cooper-auto-euro-6-ss-2dr/1425585/",
+    "dealer_id": "5198",
+    "car_id": "27595588",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF17OGN",
+        "registration_date": "31/03/2017",
+        "mileage": 14116,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 264.38,
+        "final_payment": 265.38,
+        "total_amount_payable": 17263.3,
+        "total_charge_for_credit": 3268.3,
+        "amount_of_credit": 12595.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

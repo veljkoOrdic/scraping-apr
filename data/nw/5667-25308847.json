@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:44:11.914Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/used-cars/land-rover-defender-110-3-0-d300-mhev-75th-limited-edition-auto-4wd-euro-6-s-s-5dr-5-door-suv-green/pl23cby",
+    "dealer_id": "5667",
+    "car_id": "25308847",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PL23CBY",
+        "registration_date": "30/06/2023",
+        "mileage": 12032,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72989,
+        "total_price": 72989,
+        "deposit": 7299,
+        "balance": 65690,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 1592.23,
+        "final_payment": 1592.23,
+        "total_amount_payable": 83726.04,
+        "total_charge_for_credit": 10737.04,
+        "amount_of_credit": 65690,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72989,
+        "total_price": 72989,
+        "deposit": 7299,
+        "balance": 65690,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 913.5,
+        "final_payment": 38869,
+        "total_amount_payable": 89102.5,
+        "total_charge_for_credit": 16113.5,
+        "amount_of_credit": 65690,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.17,
+        "residual": 38869,
+        "price_to_buy": 38869
+      }
+    ]
+  }
+]

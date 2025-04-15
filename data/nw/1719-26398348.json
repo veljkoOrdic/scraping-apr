@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:01:29.028Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mccabeautos.co.uk/used-audi-a3-belfast-county-down-6526869",
+    "dealer_id": "1719",
+    "car_id": "26398348",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CMZ6386",
+        "registration_date": "28/11/2023",
+        "mileage": 14750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22450,
+        "total_price": 22450,
+        "deposit": 3367,
+        "balance": 19083,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 495.8,
+        "final_payment": 505.8,
+        "total_amount_payable": 27175.4,
+        "total_charge_for_credit": 4725.4,
+        "amount_of_credit": 19083,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22450,
+        "total_price": 22450,
+        "deposit": 3367,
+        "balance": 19083,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 304.9,
+        "final_payment": 11635,
+        "total_amount_payable": 29637.2,
+        "total_charge_for_credit": 7187.2,
+        "amount_of_credit": 19083,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.15,
+        "residual": 11625,
+        "price_to_buy": 11635
+      }
+    ]
+  }
+]

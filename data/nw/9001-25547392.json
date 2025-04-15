@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:43:47.460Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-bmw-1-series-newry-northern-ireland-6315940",
+    "dealer_id": "9001",
+    "car_id": "25547392",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR20FDN",
+        "registration_date": "20/08/2020",
+        "mileage": 26000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16750,
+        "total_price": 16750,
+        "deposit": 1675,
+        "balance": 15075,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 323.19,
+        "final_payment": 324.19,
+        "total_amount_payable": 21067.4,
+        "total_charge_for_credit": 4317.4,
+        "amount_of_credit": 15075,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16750,
+        "total_price": 16750,
+        "deposit": 1675,
+        "balance": 15075,
+        "apr": 10.9,
+        "rate_of_interest": 5.32,
+        "term": 49,
+        "regular_payment": 250.98,
+        "final_payment": 8013.25,
+        "total_amount_payable": 21735.29,
+        "total_charge_for_credit": 4985.29,
+        "amount_of_credit": 15075,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8012.25,
+        "price_to_buy": 8013.25
+      }
+    ]
+  }
+]

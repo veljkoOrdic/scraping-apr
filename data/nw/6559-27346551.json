@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:53:40.272Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-rolls-royce-ghost-66-v12-auto-euro-6-4dr-saloon-midnight-sapphire-automatic-petrol/id-202503079881262/",
+    "dealer_id": "6559",
+    "car_id": "27346551",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RRZ5449",
+        "registration_date": "30/07/2015",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104948,
+        "total_price": 104948,
+        "deposit": 36731,
+        "balance": 68217,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1431.91,
+        "final_payment": 1432.91,
+        "total_amount_payable": 122646.6,
+        "total_charge_for_credit": 17698.6,
+        "amount_of_credit": 68217,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

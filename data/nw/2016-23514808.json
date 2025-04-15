@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:39:17.282Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/ford/fiesta/1.6t-ecoboost-st-3-euro-6-3dr/1105059/",
+    "dealer_id": "2016",
+    "car_id": "23514808",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU16JHV",
+        "registration_date": "23/03/2016",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8000,
+        "total_price": 8000,
+        "deposit": 800,
+        "balance": 7200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 151.13,
+        "final_payment": 152.13,
+        "total_amount_payable": 9868.8,
+        "total_charge_for_credit": 1868.8,
+        "amount_of_credit": 7200,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

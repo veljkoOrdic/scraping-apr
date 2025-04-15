@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:47:01.257Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yournextcarltd.co.uk/used-bmw-x3-nottingham-nottinghamshire-6342993",
+    "dealer_id": "3729",
+    "car_id": "25657653",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VF21EZH",
+        "registration_date": "24/08/2021",
+        "mileage": 74278,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26991,
+        "total_price": 26991,
+        "deposit": 0,
+        "balance": 26991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.55,
+        "final_payment": 567.55,
+        "total_amount_payable": 33994,
+        "total_charge_for_credit": 7003,
+        "amount_of_credit": 26991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26991,
+        "total_price": 26991,
+        "deposit": 0,
+        "balance": 26991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 477.85,
+        "final_payment": 8366.88,
+        "total_amount_payable": 36560.03,
+        "total_charge_for_credit": 9569.03,
+        "amount_of_credit": 26991,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.06,
+        "residual": 8365.88,
+        "price_to_buy": 8366.88
+      }
+    ]
+  }
+]

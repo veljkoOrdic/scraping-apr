@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:23.447Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grantspecialistcars.co.uk/used-porsche-panamera-redditch-worcestershire-6371236",
+    "dealer_id": "1184",
+    "car_id": "25786761",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "JR72",
+        "registration_date": "20/05/2017",
+        "mileage": 7918,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499,
+        "balance": 49496,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1061.17,
+        "final_payment": 1062.17,
+        "total_amount_payable": 69170.2,
+        "total_charge_for_credit": 14175.2,
+        "amount_of_credit": 49496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:25:13.342Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/vauxhall/vivaro-panel/gs/20-turbo-d-3100-gs-panel-van-6dr-diesel-auto-l1-euro-6-ss-180-ps/27650",
+    "dealer_id": "8107",
+    "car_id": "23911960",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FG23XUC",
+        "registration_date": "31/03/2023",
+        "mileage": 12999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35994,
+        "total_price": 35994,
+        "deposit": 0,
+        "balance": 29995,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 766.37,
+        "final_payment": 767.37,
+        "total_amount_payable": 42785.76,
+        "total_charge_for_credit": 6791.76,
+        "amount_of_credit": 29995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

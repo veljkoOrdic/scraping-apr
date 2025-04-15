@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:23:48.700Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.braidwoodmotors.com/used-audi-a4-livingston-west-lothian-6759555",
+    "dealer_id": "1142",
+    "car_id": "27300115",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MC16WXY",
+        "registration_date": "10/08/2016",
+        "mileage": 45350,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11790,
+        "total_price": 11790,
+        "deposit": 1179,
+        "balance": 10611,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 217.98,
+        "final_payment": 218.98,
+        "total_amount_payable": 14258.8,
+        "total_charge_for_credit": 2468.8,
+        "amount_of_credit": 10611,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

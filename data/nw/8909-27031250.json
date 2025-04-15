@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:37:19.072Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.broadlandsvehicles.com/details/used-car-in-romsey/mercedes-benz/cla/2.0-cla220-amg-line-premium-plus-coupe-7g-dct-euro-6-ss-4dr/1377218/",
+    "dealer_id": "8909",
+    "car_id": "27031250",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF19BWX",
+        "registration_date": "31/07/2019",
+        "mileage": 39901,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22595,
+        "total_price": 22595,
+        "deposit": 0,
+        "balance": 22595,
+        "apr": 11.1,
+        "rate_of_interest": 5.83,
+        "term": 60,
+        "regular_payment": 486.34,
+        "final_payment": 496.34,
+        "total_amount_payable": 29190.4,
+        "total_charge_for_credit": 6595.4,
+        "amount_of_credit": 22595,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

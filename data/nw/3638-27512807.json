@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:29:35.539Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.totalautomobiles.co.uk/details/used-car-in-hale/nissan/qashqai/1.5-dci-n-connecta-euro-6-ss-5dr/1417846/",
+    "dealer_id": "3638",
+    "car_id": "27512807",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BT68WHK",
+        "registration_date": "30/11/2018",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11990,
+        "total_price": 11990,
+        "deposit": 1199,
+        "balance": 10791,
+        "apr": 12.1,
+        "rate_of_interest": 6.36,
+        "term": 60,
+        "regular_payment": 237.07,
+        "final_payment": 247.07,
+        "total_amount_payable": 15433.2,
+        "total_charge_for_credit": 3443.2,
+        "amount_of_credit": 10791,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:44:43.824Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belmontautos.co.uk/used-volvo-s90-glasgow-scotland-5597002",
+    "dealer_id": "6045",
+    "car_id": "22594453",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WA70LGJ",
+        "registration_date": "01/09/2020",
+        "mileage": 28256,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23999,
+        "total_price": 23999,
+        "deposit": 300,
+        "balance": 23699,
+        "apr": 12.4,
+        "rate_of_interest": 6.53,
+        "term": 60,
+        "regular_payment": 524.02,
+        "final_payment": 534.02,
+        "total_amount_payable": 31751.2,
+        "total_charge_for_credit": 7752.2,
+        "amount_of_credit": 23699,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23999,
+        "total_price": 23999,
+        "deposit": 300,
+        "balance": 23699,
+        "apr": 12.4,
+        "rate_of_interest": 6.45,
+        "term": 48,
+        "regular_payment": 467.23,
+        "final_payment": 9840.25,
+        "total_amount_payable": 32100.06,
+        "total_charge_for_credit": 8101.06,
+        "amount_of_credit": 23699,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 9830.25,
+        "price_to_buy": 9840.25
+      }
+    ]
+  }
+]

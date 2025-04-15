@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:01:46.385Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.randsperformancenwltd.co.uk/used/cars/audi/r8/5-2-fsi-v10-spyder-r-tronic-quattro-euro-4-2dr-730",
+    "dealer_id": "3849",
+    "car_id": "24810791",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "R80OXR",
+        "registration_date": "17/05/2010",
+        "mileage": 46000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42950,
+        "total_price": 42950,
+        "deposit": 4295,
+        "balance": 38655,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 13,
+        "regular_payment": 3173,
+        "final_payment": 3174,
+        "total_amount_payable": 45545,
+        "total_charge_for_credit": 2595,
+        "amount_of_credit": 38655,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

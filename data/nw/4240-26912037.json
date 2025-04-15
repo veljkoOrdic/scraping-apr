@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:37:19.822Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stratuscars.co.uk/used-cars/mercedes-e-class-20-e350e-64kwh-se-premium-plus-g-tronic-euro-6-s-s-V4637",
+    "dealer_id": "4240",
+    "car_id": "26912037",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC67KWX",
+        "registration_date": "14/12/2017",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20990,
+        "total_price": 20990,
+        "deposit": 2099,
+        "balance": 18891,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 405.01,
+        "final_payment": 406.01,
+        "total_amount_payable": 26400.6,
+        "total_charge_for_credit": 5410.6,
+        "amount_of_credit": 18891,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

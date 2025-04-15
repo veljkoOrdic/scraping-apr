@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:07:54.772Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prestigecarsupermarket.co.uk/used-porsche-macan-york-north-yorkshire-6683914",
+    "dealer_id": "3870",
+    "car_id": "27005598",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV70YFS",
+        "registration_date": "18/12/2020",
+        "mileage": 75694,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33299,
+        "total_price": 33299,
+        "deposit": 500,
+        "balance": 32799,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 881.3,
+        "final_payment": 882.3,
+        "total_amount_payable": 42803.4,
+        "total_charge_for_credit": 9504.4,
+        "amount_of_credit": 32799,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33299,
+        "total_price": 33299,
+        "deposit": 500,
+        "balance": 32799,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 630.15,
+        "final_payment": 16362,
+        "total_amount_payable": 46479.05,
+        "total_charge_for_credit": 13180.05,
+        "amount_of_credit": 32799,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.09,
+        "residual": 16352,
+        "price_to_buy": 16362
+      }
+    ]
+  }
+]

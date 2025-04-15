@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:12:07.701Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-porsche-911-fareham-hampshire-5303410",
+    "dealer_id": "1734",
+    "car_id": "21241140",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ23UBO",
+        "registration_date": "06/07/2023",
+        "mileage": 39,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 299950,
+        "total_price": 299950,
+        "deposit": 29995,
+        "balance": 75000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1675.71,
+        "final_payment": 1676.71,
+        "total_amount_payable": 325493.6,
+        "total_charge_for_credit": 25543.6,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 299950,
+        "total_price": 299950,
+        "deposit": 99950,
+        "balance": 200000,
+        "apr": 13.8,
+        "rate_of_interest": 7.15,
+        "term": 48,
+        "regular_payment": 3844.47,
+        "final_payment": 98948.22,
+        "total_amount_payable": 379588.31,
+        "total_charge_for_credit": 79638.31,
+        "amount_of_credit": 200000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.12,
+        "residual": 95093.75,
+        "price_to_buy": 98948.22
+      }
+    ]
+  }
+]

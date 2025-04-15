@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:19:09.800Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thurlownunn.co.uk/used-cars/peugeot-e-2008-54kwh-gt-suv-5dr-electric-auto-7kw-charger-156-ps-5-door-suv-selenium-grey/ad23hch",
+    "dealer_id": "5356",
+    "car_id": "24021089",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AD23HCH",
+        "registration_date": "31/08/2023",
+        "mileage": 15000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23500,
+        "total_price": 23500,
+        "deposit": 2350,
+        "balance": 21150,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 568.14,
+        "final_payment": 578.14,
+        "total_amount_payable": 29630.72,
+        "total_charge_for_credit": 6130.72,
+        "amount_of_credit": 21150,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23500,
+        "total_price": 23500,
+        "deposit": 2350,
+        "balance": 21150,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 437.96,
+        "final_payment": 8602,
+        "total_amount_payable": 31536.12,
+        "total_charge_for_credit": 8036.12,
+        "amount_of_credit": 21150,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.05,
+        "residual": 8601,
+        "price_to_buy": 8602
+      }
+    ]
+  }
+]

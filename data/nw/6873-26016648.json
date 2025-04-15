@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T03:40:23.313Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aylesbury-tradecentre.co.uk/details/used-car-in-aston-clinton/mercedes-benz/cclass/2.0-c43-mhev-amg-premium-plus-g-tronic+-4matic-euro-6-ss-4dr/1294399/",
+    "dealer_id": "6873",
+    "car_id": "26016648",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS73LFK",
+        "registration_date": "27/10/2023",
+        "mileage": 8017,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51599,
+        "total_price": 51599,
+        "deposit": 5159.9,
+        "balance": 46439.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1037.58,
+        "final_payment": 1038.58,
+        "total_amount_payable": 67415.7,
+        "total_charge_for_credit": 15816.7,
+        "amount_of_credit": 46439.1,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51599,
+        "total_price": 51599,
+        "deposit": 5159.9,
+        "balance": 46439.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 867.439627951061,
+        "final_payment": 19768.69,
+        "total_amount_payable": 65698.25,
+        "total_charge_for_credit": 14099.25,
+        "amount_of_credit": 46439.1,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.12,
+        "residual": 18891.25,
+        "price_to_buy": 19768.69
+      }
+    ]
+  }
+]

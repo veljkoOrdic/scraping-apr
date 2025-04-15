@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:47:15.761Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gdmotors.co.uk/details/used-car-in-armadale/mercedes-benz/glaclass/2.0-gla45-amg-premium-spds-dct-4matic-euro-6-ss-5dr/1427303/",
+    "dealer_id": "7791",
+    "car_id": "27623996",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FE17BVV",
+        "registration_date": "06/03/2017",
+        "mileage": 20012,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 2549.5,
+        "balance": 22945.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 491.93,
+        "final_payment": 492.93,
+        "total_amount_payable": 32066.3,
+        "total_charge_for_credit": 6571.3,
+        "amount_of_credit": 22945.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

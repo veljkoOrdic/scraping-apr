@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:21:50.619Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macsonscars.co.uk/cars/astonmartin/vantage/4.0-v8/1153443/",
+    "dealer_id": "4350",
+    "car_id": "24191372",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "N5MAC",
+        "registration_date": "31/10/2024",
+        "mileage": 15282,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 77990,
+        "total_price": 77990,
+        "deposit": 7799,
+        "balance": 70191,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1473.23,
+        "final_payment": 1483.23,
+        "total_amount_payable": 96202.8,
+        "total_charge_for_credit": 18212.8,
+        "amount_of_credit": 70191,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 77990,
+        "total_price": 77990,
+        "deposit": 7799,
+        "balance": 70191,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 1261.07,
+        "final_payment": 29367.5,
+        "total_amount_payable": 97697.86,
+        "total_charge_for_credit": 19707.86,
+        "amount_of_credit": 70191,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 29367.5,
+        "price_to_buy": 29367.5
+      }
+    ]
+  }
+]

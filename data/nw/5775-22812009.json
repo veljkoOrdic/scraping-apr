@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:24:19.325Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.windmillmotorsltd.co.uk/used/cars/citroen/berlingo/1-6-bluehdi-flair-multispace-euro-6-5dr-1299",
+    "dealer_id": "5775",
+    "car_id": "22812009",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK17DFA",
+        "registration_date": "07/04/2017",
+        "mileage": 41144,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7950,
+        "total_price": 7950,
+        "deposit": 795,
+        "balance": 7155,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 159.85,
+        "final_payment": 160.85,
+        "total_amount_payable": 10387,
+        "total_charge_for_credit": 2437,
+        "amount_of_credit": 7155,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:36:09.975Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aandaautosales.uk/details/used-car-in-peterborough/mercedes-benz/gleclass/5.5-gle63-v8-amg-s-premium-spds+7gt-4matic-euro-6-ss-5dr/1286412/",
+    "dealer_id": "7763",
+    "car_id": "25931497",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WA17RYC",
+        "registration_date": "16/03/2017",
+        "mileage": 64431,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30695,
+        "total_price": 30695,
+        "deposit": 10,
+        "balance": 30685,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 671.7,
+        "final_payment": 672.7,
+        "total_amount_payable": 40313,
+        "total_charge_for_credit": 9618,
+        "amount_of_credit": 30685,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

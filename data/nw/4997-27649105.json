@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:42:08.063Z",
+    "source": "new_vehicle_finance",
+    "url": "https://dunecht4x4garage.co.uk/ford/2015-15-ford-ranger-2-0-limited-no-vat-30-04-2015/",
+    "dealer_id": "4997",
+    "car_id": "27649105",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY15YSW",
+        "registration_date": "30/04/2015",
+        "mileage": 12000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 10662.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 36,
+        "regular_payment": 341.41,
+        "final_payment": 342.41,
+        "total_amount_payable": 15624.26,
+        "total_charge_for_credit": 1629.26,
+        "amount_of_credit": 10662.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

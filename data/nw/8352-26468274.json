@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:34:36.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.primemotorsessex.co.uk/used-land-rover-range-rover-harlow-essex-6251920",
+    "dealer_id": "8352",
+    "car_id": "26468274",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD65PXV",
+        "registration_date": "25/11/2015",
+        "mileage": 85000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21749,
+        "total_price": 21749,
+        "deposit": 2174,
+        "balance": 19575,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 402.01,
+        "final_payment": 412.01,
+        "total_amount_payable": 26304.6,
+        "total_charge_for_credit": 4555.6,
+        "amount_of_credit": 19575,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

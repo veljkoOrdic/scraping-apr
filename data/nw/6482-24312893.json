@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:31:03.506Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tollcrossgarage.com/vehicle-details/used-bmw-m2-biturbo-for-sale-in-rutherglen-glasgow-u6096/",
+    "dealer_id": "6482",
+    "car_id": "24312893",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PX23KFZ",
+        "registration_date": "19/06/2023",
+        "mileage": 14000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52000,
+        "total_price": 52000,
+        "deposit": 5200,
+        "balance": 46800,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 1478.56,
+        "final_payment": 1479.56,
+        "total_amount_payable": 58429.16,
+        "total_charge_for_credit": 6429.16,
+        "amount_of_credit": 46800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52000,
+        "total_price": 52000,
+        "deposit": 5200,
+        "balance": 46800,
+        "apr": 8.9,
+        "rate_of_interest": 4.34,
+        "term": 37,
+        "regular_payment": 777.76,
+        "final_payment": 28852,
+        "total_amount_payable": 62051.36,
+        "total_charge_for_credit": 10051.36,
+        "amount_of_credit": 46800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 0.26,
+        "residual": 28851,
+        "price_to_buy": 28852
+      }
+    ]
+  }
+]

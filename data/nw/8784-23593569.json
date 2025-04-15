@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:16:36.529Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/mercedes-benz/glc/glc-220-d-4matic-amg-night-edition-premium-plus-159",
+    "dealer_id": "8784",
+    "car_id": "23593569",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KK19LHY",
+        "registration_date": "22/05/2019",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27750,
+        "total_price": 27750,
+        "deposit": 2775,
+        "balance": 24975,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 513.07,
+        "final_payment": 514.07,
+        "total_amount_payable": 33560.2,
+        "total_charge_for_credit": 5810.2,
+        "amount_of_credit": 24975,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:28:17.387Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.noylandrhodes.com/cars/toyota/auris/1.2-vvt-i-excel/1372271/",
+    "dealer_id": "7924",
+    "car_id": "26977483",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DC18XFY",
+        "registration_date": "31/07/2018",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10695,
+        "total_price": 10695,
+        "deposit": 534.75,
+        "balance": 10160.25,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 227,
+        "final_payment": 228,
+        "total_amount_payable": 14155.75,
+        "total_charge_for_credit": 3460.75,
+        "amount_of_credit": 10160.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

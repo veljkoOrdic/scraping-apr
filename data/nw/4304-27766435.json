@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:59:31.705Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tonesusedcars.com/used-land-rover-range-rover-hartlepool-county-durham-6867607",
+    "dealer_id": "4304",
+    "car_id": "27766435",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "D18SPD",
+        "registration_date": "26/09/2022",
+        "mileage": 18650,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84995,
+        "total_price": 84995,
+        "deposit": 0,
+        "balance": 75000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1641.78,
+        "final_payment": 1642.78,
+        "total_amount_payable": 108502.8,
+        "total_charge_for_credit": 23507.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84995,
+        "total_price": 84995,
+        "deposit": 0,
+        "balance": 84995,
+        "apr": 11.9,
+        "rate_of_interest": 5.84,
+        "term": 49,
+        "regular_payment": 1582.24,
+        "final_payment": 38166.82,
+        "total_amount_payable": 114114.34,
+        "total_charge_for_credit": 29119.34,
+        "amount_of_credit": 84995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.34,
+        "residual": 38165.82,
+        "price_to_buy": 38166.82
+      }
+    ]
+  }
+]

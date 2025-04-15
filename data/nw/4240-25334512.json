@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:36:52.683Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stratuscars.co.uk/used-cars/seat-ibiza-10-tsi-xcellence-dsg-euro-6-s-s-5dr-V4116",
+    "dealer_id": "4240",
+    "car_id": "25334512",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MW21ZDR",
+        "registration_date": "21/05/2021",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 260.29,
+        "final_payment": 261.29,
+        "total_amount_payable": 16967.4,
+        "total_charge_for_credit": 3477.4,
+        "amount_of_credit": 12141,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13490,
+        "total_price": 13490,
+        "deposit": 1349,
+        "balance": 12141,
+        "apr": 10.9,
+        "rate_of_interest": 5.32,
+        "term": 49,
+        "regular_payment": 202.96,
+        "final_payment": 6404.02,
+        "total_amount_payable": 17495.1,
+        "total_charge_for_credit": 4005.1,
+        "amount_of_credit": 12141,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 6403.02,
+        "price_to_buy": 6404.02
+      }
+    ]
+  }
+]

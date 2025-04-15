@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:45:35.667Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.west-motors.co.uk/used/cars/mercedes-benz/c-class/c-220-d-amg-line-premium-2500",
+    "dealer_id": "4762",
+    "car_id": "25782670",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ19MGO",
+        "registration_date": "30/04/2019",
+        "mileage": 62687,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16000,
+        "total_price": 16000,
+        "deposit": 0,
+        "balance": 16000,
+        "apr": 12.1,
+        "rate_of_interest": 6.37,
+        "term": 60,
+        "regular_payment": 351.57,
+        "final_payment": 361.57,
+        "total_amount_payable": 21104.2,
+        "total_charge_for_credit": 5104.2,
+        "amount_of_credit": 16000,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

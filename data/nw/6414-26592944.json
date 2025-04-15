@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:18:44.275Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-audi-s3-chelmsford-essex-6372351",
+    "dealer_id": "6414",
+    "car_id": "26592944",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KF15DVZ",
+        "registration_date": "03/07/2015",
+        "mileage": 93594,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199,
+        "balance": 10796,
+        "apr": 16.9,
+        "rate_of_interest": 8.99,
+        "term": 60,
+        "regular_payment": 260.81,
+        "final_payment": 270.81,
+        "total_amount_payable": 16857.6,
+        "total_charge_for_credit": 4862.6,
+        "amount_of_credit": 10796,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

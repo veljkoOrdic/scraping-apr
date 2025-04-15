@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:50:34.692Z",
+    "source": "new_vehicle_finance",
+    "url": "https://northparkcarsales.co.uk/vehicle/name/nissan-micra-vibe-balance-after-1000-minimum-px-allowance-3990-tc-apply/",
+    "dealer_id": "1632",
+    "car_id": "27391867",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NV65VSJ",
+        "registration_date": "29/01/2016",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3990,
+        "total_price": 3990,
+        "deposit": 0,
+        "balance": 3990,
+        "apr": 12,
+        "rate_of_interest": 6.29,
+        "term": 60,
+        "regular_payment": 87.4,
+        "final_payment": 97.4,
+        "total_amount_payable": 5254,
+        "total_charge_for_credit": 1264,
+        "amount_of_credit": 3990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

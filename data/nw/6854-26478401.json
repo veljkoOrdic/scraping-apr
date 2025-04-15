@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:25:35.406Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mhmotorsltd.com/used-ford-transit-minibus-glengormly-county-antrim-6546439",
+    "dealer_id": "6854",
+    "car_id": "26478401",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MXZ2197",
+        "registration_date": "01/03/2018",
+        "mileage": 39209,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21594,
+        "total_price": 21594,
+        "deposit": 0,
+        "balance": 17995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 402.05,
+        "final_payment": 403.05,
+        "total_amount_payable": 27723,
+        "total_charge_for_credit": 6129,
+        "amount_of_credit": 17995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

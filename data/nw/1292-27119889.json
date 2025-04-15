@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:09:41.022Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gammers.net/cars/ford/puma/1.0-puma-st-5-door-1.0l-ecoboost-170ps-mhev-7-speed-automatic/1384859/",
+    "dealer_id": "1292",
+    "car_id": "27119889",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA73DSZ",
+        "registration_date": "26/09/2023",
+        "mileage": 11000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26699,
+        "total_price": 26699,
+        "deposit": 2669.9,
+        "balance": 24029.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 624.49,
+        "final_payment": 625.49,
+        "total_amount_payable": 32646.42,
+        "total_charge_for_credit": 5947.42,
+        "amount_of_credit": 24029.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26699,
+        "total_price": 26699,
+        "deposit": 2669.9,
+        "balance": 24029.1,
+        "apr": 11.9,
+        "rate_of_interest": 5.82,
+        "term": 49,
+        "regular_payment": 437.43,
+        "final_payment": 11392.3,
+        "total_amount_payable": 35058.84,
+        "total_charge_for_credit": 8359.84,
+        "amount_of_credit": 24029.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 11391.3,
+        "price_to_buy": 11392.3
+      }
+    ]
+  }
+]

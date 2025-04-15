@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:45:50.072Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heartysofpeterborough.co.uk/used-audi-a4-peterborough-cambridgeshire-3914200",
+    "dealer_id": "5078",
+    "car_id": "15542495",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN70UZH",
+        "registration_date": "28/09/2020",
+        "mileage": 18816,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 607.91,
+        "final_payment": 608.91,
+        "total_amount_payable": 31779.68,
+        "total_charge_for_credit": 5789.68,
+        "amount_of_credit": 23391,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 11.9,
+        "rate_of_interest": 5.83,
+        "term": 49,
+        "regular_payment": 432.82,
+        "final_payment": 10663.14,
+        "total_amount_payable": 34037.5,
+        "total_charge_for_credit": 8047.5,
+        "amount_of_credit": 23391,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 10662.14,
+        "price_to_buy": 10663.14
+      }
+    ]
+  }
+]

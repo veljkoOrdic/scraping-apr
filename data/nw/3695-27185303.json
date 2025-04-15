@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:40:33.464Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/bmw/3-series/3-0-m340d-xdrive-mhev-auto-4wd-4dr-73",
+    "dealer_id": "3695",
+    "car_id": "27185303",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG22YEE",
+        "registration_date": "02/03/2022",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33585,
+        "total_price": 33585,
+        "deposit": 0,
+        "balance": 33585,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 690.55,
+        "final_payment": 691.55,
+        "total_amount_payable": 41434,
+        "total_charge_for_credit": 7849,
+        "amount_of_credit": 33585,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33585,
+        "total_price": 33585,
+        "deposit": 0,
+        "balance": 33585,
+        "apr": 8.9,
+        "rate_of_interest": 4.41,
+        "term": 49,
+        "regular_payment": 588.16,
+        "final_payment": 13808.58,
+        "total_amount_payable": 42040.26,
+        "total_charge_for_credit": 8455.26,
+        "amount_of_credit": 33585,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 13807.58,
+        "price_to_buy": 13808.58
+      }
+    ]
+  }
+]

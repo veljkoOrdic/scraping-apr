@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:03:54.414Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.redburnmotorcompany.co.uk/used-volvo-v40-blyth-northumberland-5780743",
+    "dealer_id": "250",
+    "car_id": "23305163",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NX63FSY",
+        "registration_date": "09/09/2013",
+        "mileage": 42500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8191,
+        "total_price": 8191,
+        "deposit": 1638,
+        "balance": 6553,
+        "apr": 9.9,
+        "rate_of_interest": 5.1,
+        "term": 40,
+        "regular_payment": 191.68,
+        "final_payment": 192.68,
+        "total_amount_payable": 9306.2,
+        "total_charge_for_credit": 1115.2,
+        "amount_of_credit": 6553,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

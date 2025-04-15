@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:39:45.635Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prosportscars.co.uk/used-volkswagen-polo-hull-north-humberside-5686341",
+    "dealer_id": "5463",
+    "car_id": "26239097",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FG60HZU",
+        "registration_date": "09/10/2010",
+        "mileage": 44923,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5800,
+        "total_price": 5800,
+        "deposit": 0,
+        "balance": 5800,
+        "apr": 9.9,
+        "rate_of_interest": 5.08,
+        "term": 28,
+        "regular_payment": 231.7,
+        "final_payment": 232.7,
+        "total_amount_payable": 6488.6,
+        "total_charge_for_credit": 688.6,
+        "amount_of_credit": 5800,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

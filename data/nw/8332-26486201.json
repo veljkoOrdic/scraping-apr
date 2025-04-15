@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:28:31.065Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cmcarsni.co.uk/used-jaguar-e-pace-ballymoney-northern-ireland-6535918",
+    "dealer_id": "8332",
+    "car_id": "26486201",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE19EYA",
+        "registration_date": "27/03/2019",
+        "mileage": 63752,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16475,
+        "total_price": 16475,
+        "deposit": 1647,
+        "balance": 14828,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 324.58,
+        "final_payment": 325.58,
+        "total_amount_payable": 21122.8,
+        "total_charge_for_credit": 4647.8,
+        "amount_of_credit": 14828,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

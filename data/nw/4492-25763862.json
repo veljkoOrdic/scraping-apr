@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:34:38.399Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-porsche-cayenne-hatfield-hertfordshire-6365609",
+    "dealer_id": "4492",
+    "car_id": "25763862",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KC21FVG",
+        "registration_date": "19/03/2021",
+        "mileage": 44500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52000,
+        "total_price": 52000,
+        "deposit": 10400,
+        "balance": 41600,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 873.2,
+        "final_payment": 874.2,
+        "total_amount_payable": 62793,
+        "total_charge_for_credit": 10793,
+        "amount_of_credit": 41600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52000,
+        "total_price": 52000,
+        "deposit": 10400,
+        "balance": 41600,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 49,
+        "regular_payment": 617.94,
+        "final_payment": 24984.77,
+        "total_amount_payable": 65045.89,
+        "total_charge_for_credit": 13045.89,
+        "amount_of_credit": 41600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 24983.77,
+        "price_to_buy": 24984.77
+      }
+    ]
+  }
+]

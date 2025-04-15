@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:32:58.001Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverpoolcarcentre.com/used-bmw-5-series-bootle-merseyside-6872357",
+    "dealer_id": "1549",
+    "car_id": "27770443",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV22TZL",
+        "registration_date": "22/03/2022",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 5399,
+        "balance": 21596,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 502.15,
+        "final_payment": 503.15,
+        "total_amount_payable": 35529,
+        "total_charge_for_credit": 8534,
+        "amount_of_credit": 21596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 5399,
+        "balance": 21596,
+        "apr": 14.9,
+        "rate_of_interest": 7.22,
+        "term": 49,
+        "regular_payment": 421.26,
+        "final_payment": 10882,
+        "total_amount_payable": 36501.48,
+        "total_charge_for_credit": 9506.48,
+        "amount_of_credit": 21596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.14,
+        "residual": 10881,
+        "price_to_buy": 10882
+      }
+    ]
+  }
+]

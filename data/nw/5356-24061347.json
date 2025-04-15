@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:19:17.188Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thurlownunn.co.uk/used-cars/vauxhall-astra-electric-54kwh-ultimate-hatchback-5dr-electric-auto-156-ps-5-door-hatchback-cobalt-blue/kv23xen",
+    "dealer_id": "5356",
+    "car_id": "24061347",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV23XEN",
+        "registration_date": "17/08/2023",
+        "mileage": 9552,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29159,
+        "total_price": 29159,
+        "deposit": 2916,
+        "balance": 26243,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 704.99,
+        "final_payment": 714.99,
+        "total_amount_payable": 36765.52,
+        "total_charge_for_credit": 7606.52,
+        "amount_of_credit": 26243,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29159,
+        "total_price": 29159,
+        "deposit": 2916,
+        "balance": 26243,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 547.68,
+        "final_payment": 10411.5,
+        "total_amount_payable": 39068.46,
+        "total_charge_for_credit": 9909.46,
+        "amount_of_credit": 26243,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.07,
+        "residual": 10410.5,
+        "price_to_buy": 10411.5
+      }
+    ]
+  }
+]

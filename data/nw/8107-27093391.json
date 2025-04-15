@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:23:04.817Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/ford/transit-connect/leader/10-210-ecoboost-leader-panel-van-5dr-petrol-manual-l2-euro-6-ss-100-ps/54885",
+    "dealer_id": "8107",
+    "car_id": "27093391",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ19ZJD",
+        "registration_date": "30/08/2019",
+        "mileage": 41694,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11394,
+        "total_price": 11394,
+        "deposit": 0,
+        "balance": 9495,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 242.59,
+        "final_payment": 243.59,
+        "total_amount_payable": 13544.32,
+        "total_charge_for_credit": 2150.32,
+        "amount_of_credit": 9495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

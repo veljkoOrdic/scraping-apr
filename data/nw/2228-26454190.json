@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:05:59.682Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandles.co.uk/used-cars/porsche/macan/29t-v6-gts-pdk-4wd-euro-6-ss-5dr/gl70wtd",
+    "dealer_id": "2228",
+    "car_id": "26454190",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GL70WTD",
+        "registration_date": "03/12/2020",
+        "mileage": 55300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43899,
+        "total_price": 43899,
+        "deposit": 4389.9,
+        "balance": 39509.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 829.2,
+        "final_payment": 839.2,
+        "total_amount_payable": 54151.9,
+        "total_charge_for_credit": 10252.9,
+        "amount_of_credit": 39509.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

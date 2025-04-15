@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:11:24.988Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.binleywoodsapproved.co.uk/cars/mercedes-benz/cclass/4.0-c63-v8-biturbo-amg-s/994057/",
+    "dealer_id": "7897",
+    "car_id": "21928119",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM17MKN",
+        "registration_date": "14/07/2017",
+        "mileage": 36457,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799.9,
+        "balance": 34199.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 717.85,
+        "final_payment": 718.85,
+        "total_amount_payable": 46871.9,
+        "total_charge_for_credit": 8872.9,
+        "amount_of_credit": 34199.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:27:44.943Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-planet.co.uk/used-mini-countryman-watford-hertfordshire-5923495",
+    "dealer_id": "7472",
+    "car_id": "23928904",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD70JVY",
+        "registration_date": "18/09/2020",
+        "mileage": 29207,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17050,
+        "total_price": 17050,
+        "deposit": 1705,
+        "balance": 15345,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 342.85,
+        "final_payment": 343.85,
+        "total_amount_payable": 22277,
+        "total_charge_for_credit": 5227,
+        "amount_of_credit": 15345,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17050,
+        "total_price": 17050,
+        "deposit": 1705,
+        "balance": 15345,
+        "apr": 12.9,
+        "rate_of_interest": 6.3,
+        "term": 49,
+        "regular_payment": 291.85,
+        "final_payment": 7061.5,
+        "total_amount_payable": 22775.3,
+        "total_charge_for_credit": 5725.3,
+        "amount_of_credit": 15345,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7060.5,
+        "price_to_buy": 7061.5
+      }
+    ]
+  }
+]

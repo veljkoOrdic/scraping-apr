@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:10:16.601Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.elderwoodmotors.co.uk/used-bmw-5-series-peterborough-cambridgeshire-6080568",
+    "dealer_id": "6834",
+    "car_id": "19973518",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL10NWG",
+        "registration_date": "10/03/2010",
+        "mileage": 102000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5590,
+        "total_price": 5590,
+        "deposit": 10,
+        "balance": 5580,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 147.73,
+        "final_payment": 147.73,
+        "total_amount_payable": 8873.8,
+        "total_charge_for_credit": 3283.8,
+        "amount_of_credit": 5580,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

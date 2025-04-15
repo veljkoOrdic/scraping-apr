@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:37:12.317Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sidegatemotorpark.com/details/used-car-in-great-yarmouth/peugeot/3008/1.2-puretech-gt-line-euro-6-ss-5dr/739775/",
+    "dealer_id": "5215",
+    "car_id": "18270585",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU67XDR",
+        "registration_date": "22/12/2017",
+        "mileage": 20526,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13250,
+        "total_price": 13250,
+        "deposit": 0,
+        "balance": 13250,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 296.03,
+        "final_payment": 297.03,
+        "total_amount_payable": 17762.8,
+        "total_charge_for_credit": 4512.8,
+        "amount_of_credit": 13250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

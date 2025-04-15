@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:03:56.725Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1348653/used-kia-ev9-gt-line-s-5dr-automatic-rochdale",
+    "dealer_id": "6611",
+    "car_id": "26607530",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF24WMV",
+        "registration_date": "07/03/2024",
+        "mileage": 7501,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59994,
+        "total_price": 59994,
+        "deposit": 20997.9,
+        "balance": 38996.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 962.23,
+        "final_payment": 962.23,
+        "total_amount_payable": 67184.94,
+        "total_charge_for_credit": 7190.94,
+        "amount_of_credit": 38996.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59994,
+        "total_price": 59994,
+        "deposit": 20997.9,
+        "balance": 38996.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 450.83,
+        "final_payment": 29356.17,
+        "total_amount_payable": 71993.91,
+        "total_charge_for_credit": 11999.91,
+        "amount_of_credit": 38996.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 29356.17,
+        "price_to_buy": 29356.17
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:42:46.104Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bcperformance.co.uk/cars/ford/focus/2.3-t-ecoboost-rs/1407119/",
+    "dealer_id": "6901",
+    "car_id": "27373758",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "R70JRJ",
+        "registration_date": "01/09/2017",
+        "mileage": 44957,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25756,
+        "total_price": 25756,
+        "deposit": 2575.6,
+        "balance": 23180.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 496.97,
+        "final_payment": 497.97,
+        "total_amount_payable": 32394.8,
+        "total_charge_for_credit": 6638.8,
+        "amount_of_credit": 23180.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

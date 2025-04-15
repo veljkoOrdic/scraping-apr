@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:55:59.483Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ns-cars.co.uk/used-ford-mondeo-liverpool-merseyside-6749203",
+    "dealer_id": "8202",
+    "car_id": "27262352",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA11EYL",
+        "registration_date": "12/03/2011",
+        "mileage": 44500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4499,
+        "total_price": 4499,
+        "deposit": 899,
+        "balance": 3600,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 83.75,
+        "final_payment": 83.75,
+        "total_amount_payable": 5421.5,
+        "total_charge_for_credit": 922.5,
+        "amount_of_credit": 3600,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

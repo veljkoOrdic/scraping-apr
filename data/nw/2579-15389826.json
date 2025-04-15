@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:48:26.686Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abbeygatecars.co.uk/used/ford/transit-custom/custom-300-l1h1-20-ecoblue-130ps-limited-auto/wymondham/norfolk/163011",
+    "dealer_id": "2579",
+    "car_id": "15389826",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BL21HHJ",
+        "registration_date": "18/04/2021",
+        "mileage": 14538,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32394,
+        "total_price": 32394,
+        "deposit": 2699.5,
+        "balance": 24295.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.97,
+        "term": 61,
+        "regular_payment": 548.34,
+        "final_payment": 549.34,
+        "total_amount_payable": 40999.9,
+        "total_charge_for_credit": 8605.9,
+        "amount_of_credit": 24295.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

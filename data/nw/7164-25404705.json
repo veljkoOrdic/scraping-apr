@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:31:21.391Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-i20-1-0t-gdi-advance-5dr-automatic-5-door-hatchback-grey/wp73kyn",
+    "dealer_id": "7164",
+    "car_id": "25404705",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WP73KYN",
+        "registration_date": "30/10/2023",
+        "mileage": 4549,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16375,
+        "total_price": 16375,
+        "deposit": 0,
+        "balance": 16375,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 365.87,
+        "final_payment": 365.87,
+        "total_amount_payable": 21952.2,
+        "total_charge_for_credit": 5577.2,
+        "amount_of_credit": 16375,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16375,
+        "total_price": 16375,
+        "deposit": 0,
+        "balance": 16375,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 315.37,
+        "final_payment": 7291.3,
+        "total_amount_payable": 22429.06,
+        "total_charge_for_credit": 6054.06,
+        "amount_of_credit": 16375,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.149,
+        "residual": 7291.3,
+        "price_to_buy": 7291.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:08:41.485Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xways.co.uk/used-ford-fiesta-halstead-essex-6421563",
+    "dealer_id": "1035",
+    "car_id": "25992628",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ11KGZ",
+        "registration_date": "14/05/2011",
+        "mileage": 37500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6850,
+        "total_price": 6850,
+        "deposit": 685,
+        "balance": 6165,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 154.82,
+        "final_payment": 154.82,
+        "total_amount_payable": 8116.36,
+        "total_charge_for_credit": 1266.36,
+        "amount_of_credit": 6165,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:28:56.989Z",
+    "source": "new_vehicle_finance",
+    "url": "https://brockhammotorcompany.co.uk/usedetail?v=RJ70FFP",
+    "dealer_id": "5867",
+    "car_id": "27259953",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ70FFP",
+        "registration_date": "05/01/2021",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9980,
+        "total_price": 9980,
+        "deposit": 998,
+        "balance": 8982,
+        "apr": 17.9,
+        "rate_of_interest": 9.55,
+        "term": 60,
+        "regular_payment": 221.19,
+        "final_payment": 222.19,
+        "total_amount_payable": 14270.4,
+        "total_charge_for_credit": 4290.4,
+        "amount_of_credit": 8982,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9980,
+        "total_price": 9980,
+        "deposit": 998,
+        "balance": 8982,
+        "apr": 12.9,
+        "rate_of_interest": 6.33,
+        "term": 49,
+        "regular_payment": 177.45,
+        "final_payment": 3722.27,
+        "total_amount_payable": 13237.87,
+        "total_charge_for_credit": 3257.87,
+        "amount_of_credit": 8982,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.04,
+        "residual": 3721.27,
+        "price_to_buy": 3722.27
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:47:37.495Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carcart.co.uk/used-tesla-model-s-birmingham-west-midlands-6693442",
+    "dealer_id": "6798",
+    "car_id": "27072053",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF15UTP",
+        "registration_date": "26/03/2015",
+        "mileage": 65904,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16690,
+        "total_price": 16690,
+        "deposit": 3338,
+        "balance": 13352,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 292.16,
+        "final_payment": 302.16,
+        "total_amount_payable": 20877.6,
+        "total_charge_for_credit": 4187.6,
+        "amount_of_credit": 13352,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

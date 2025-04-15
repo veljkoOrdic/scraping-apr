@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:02:39.186Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/bentley-bentayga-v8-auto-4wd-in-kent-6e6b7339-5d99-472f-aa28-b2ab00e403bc",
+    "dealer_id": "5545",
+    "car_id": "27558846",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ22NCE",
+        "registration_date": "03/03/2022",
+        "mileage": 27187,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 149000,
+        "total_price": 149000,
+        "deposit": 22350,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 162829.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 149000,
+        "total_price": 149000,
+        "deposit": 22350,
+        "balance": 100000,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 49,
+        "regular_payment": 1497.11,
+        "final_payment": 55703.58,
+        "total_amount_payable": 176564.86,
+        "total_charge_for_credit": 27564.86,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.5,
+        "residual": 55702.58,
+        "price_to_buy": 55703.58
+      }
+    ]
+  }
+]

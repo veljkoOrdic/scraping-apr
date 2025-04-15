@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:38:44.681Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-audi-rs6-avant-40-tfsi-v8-carbon-black-estat-estate-grey-automatic-petrol/id-4971/",
+    "dealer_id": "7985",
+    "car_id": "27069205",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE72MXH",
+        "registration_date": "26/10/2022",
+        "mileage": 22400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 76500,
+        "total_price": 76500,
+        "deposit": 11475,
+        "balance": 65025,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1364.91,
+        "final_payment": 1365.91,
+        "total_amount_payable": 93370.6,
+        "total_charge_for_credit": 16870.6,
+        "amount_of_credit": 65025,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 76500,
+        "total_price": 76500,
+        "deposit": 11475,
+        "balance": 65025,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 1005.21,
+        "final_payment": 36752.5,
+        "total_amount_payable": 96477.58,
+        "total_charge_for_credit": 19977.58,
+        "amount_of_credit": 65025,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.32,
+        "residual": 36751.5,
+        "price_to_buy": 36752.5
+      }
+    ]
+  }
+]

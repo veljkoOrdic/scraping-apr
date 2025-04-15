@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:55:39.485Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sdautomotiveltd.co.uk/used-audi-a6-avant-sutton-in-ashfield-nottinghamshire-6502637",
+    "dealer_id": "6299",
+    "car_id": "26298872",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV70ZTS",
+        "registration_date": "14/10/2020",
+        "mileage": 51783,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24795,
+        "total_price": 24795,
+        "deposit": 2479,
+        "balance": 22316,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 478.44,
+        "final_payment": 479.44,
+        "total_amount_payable": 31186.4,
+        "total_charge_for_credit": 6391.4,
+        "amount_of_credit": 22316,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24795,
+        "total_price": 24795,
+        "deposit": 2479,
+        "balance": 22316,
+        "apr": 10.9,
+        "rate_of_interest": 5.34,
+        "term": 49,
+        "regular_payment": 390.26,
+        "final_payment": 10743.72,
+        "total_amount_payable": 31955.2,
+        "total_charge_for_credit": 7160.2,
+        "amount_of_credit": 22316,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 10742.72,
+        "price_to_buy": 10743.72
+      }
+    ]
+  }
+]

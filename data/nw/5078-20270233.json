@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:43:31.300Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heartysofpeterborough.co.uk/used-nissan-leaf-peterborough-cambridgeshire-5073203",
+    "dealer_id": "5078",
+    "car_id": "20270233",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "Y23YNG",
+        "registration_date": "31/03/2016",
+        "mileage": 18179,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6490,
+        "total_price": 6490,
+        "deposit": 649,
+        "balance": 5841,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 151.79,
+        "final_payment": 152.79,
+        "total_amount_payable": 7935.92,
+        "total_charge_for_credit": 1445.92,
+        "amount_of_credit": 5841,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

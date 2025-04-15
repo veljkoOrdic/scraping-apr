@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:28:18.535Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtautomotivegroup.co.uk/used-cars/YT18BFP",
+    "dealer_id": "7734",
+    "car_id": "26204808",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT18BFP",
+        "registration_date": "29/03/2018",
+        "mileage": 81295,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9000,
+        "total_price": 9000,
+        "deposit": 900,
+        "balance": 8100,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 255.91,
+        "final_payment": 256.91,
+        "total_amount_payable": 10113.76,
+        "total_charge_for_credit": 1113.76,
+        "amount_of_credit": 8100,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

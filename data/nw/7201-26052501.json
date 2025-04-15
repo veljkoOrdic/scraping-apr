@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:39:26.529Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstar.co.uk/used-volkswagen-transporter-leeds-yorkshire-6394003",
+    "dealer_id": "7201",
+    "car_id": "26052501",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FL72NEJ",
+        "registration_date": "20/09/2022",
+        "mileage": 8000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42989,
+        "total_price": 42989,
+        "deposit": 8597,
+        "balance": 34392,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 752.85,
+        "final_payment": 753.85,
+        "total_amount_payable": 53769,
+        "total_charge_for_credit": 10780,
+        "amount_of_credit": 34392,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

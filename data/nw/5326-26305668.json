@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:13:29.708Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverydole.co.uk/used/mitsubishi/l200/double-cab-di-d-181-challenger-4wd-auto/exeter/devon/236051",
+    "dealer_id": "5326",
+    "car_id": "26305668",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN69XTW",
+        "registration_date": "31/10/2019",
+        "mileage": 46858,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20398.8,
+        "total_price": 20398.8,
+        "deposit": 6799.6,
+        "balance": 10199.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.68,
+        "term": 48,
+        "regular_payment": 260.76,
+        "final_payment": 261.76,
+        "total_amount_payable": 22716.88,
+        "total_charge_for_credit": 2318.08,
+        "amount_of_credit": 10199.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

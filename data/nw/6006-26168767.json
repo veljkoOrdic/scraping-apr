@@ -1,0 +1,99 @@
+[
+  {
+    "timestamp": "2025-04-14T23:01:35.379Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/maserati-granturismo-trofeo-2doors-coupe-automatic-petrol?id=1396310",
+    "dealer_id": "6006",
+    "car_id": "26168767",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV24VNG",
+        "registration_date": "01/08/2024",
+        "mileage": 50,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 129950,
+        "total_price": 129950,
+        "deposit": 25000,
+        "balance": 104950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 3405.72,
+        "final_payment": 3405.72,
+        "total_amount_payable": 147605.92,
+        "total_charge_for_credit": 17655.92,
+        "amount_of_credit": 104950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 129950,
+        "total_price": 129950,
+        "deposit": 25000,
+        "balance": 104950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 1815.18,
+        "final_payment": 68667,
+        "total_amount_payable": 157198.3,
+        "total_charge_for_credit": 27248.3,
+        "amount_of_credit": 104950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 0.38,
+        "residual": 68667,
+        "price_to_buy": 68667
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-14T23:01:35.449Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/maserati-granturismo-trofeo-2doors-coupe-automatic-petrol?id=1396310",
+    "dealer_id": "6006",
+    "car_id": "26168767",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV24VNG",
+        "registration_date": "01/08/2024",
+        "mileage": 50,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 129950,
+        "total_price": 129950,
+        "deposit": 0,
+        "balance": 129950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 3320.3,
+        "final_payment": 3320.3,
+        "total_amount_payable": 159374.4,
+        "total_charge_for_credit": 29424.4,
+        "amount_of_credit": 129950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:38:36.870Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seniorcars.co.uk/details/used-car-in-market-harborough/mini/convertible/2.0-john-cooper-works-steptronic-euro-6-ss-2dr/1337519/",
+    "dealer_id": "5450",
+    "car_id": "26536724",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE19VRM",
+        "registration_date": "27/07/2019",
+        "mileage": 14250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20500,
+        "total_price": 20500,
+        "deposit": 2050,
+        "balance": 18450,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 387.27,
+        "final_payment": 388.27,
+        "total_amount_payable": 25287.2,
+        "total_charge_for_credit": 4787.2,
+        "amount_of_credit": 18450,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

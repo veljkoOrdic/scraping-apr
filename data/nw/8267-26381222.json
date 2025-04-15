@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:06:29.880Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.roadlinkltd.co.uk/used-volvo-xc90-hayes-middlesex-6520646",
+    "dealer_id": "8267",
+    "car_id": "26381222",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BSZ5323",
+        "registration_date": "20/12/2017",
+        "mileage": 65945,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 482.19,
+        "final_payment": 483.19,
+        "total_amount_payable": 31431.4,
+        "total_charge_for_credit": 6441.4,
+        "amount_of_credit": 22491,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

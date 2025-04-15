@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:42:52.207Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yourcargroup.co.uk/details/used-car-in-newport/bmw/x5/3.0-30d-m-sport-auto-xdrive-euro-6-ss-5dr/1359819/",
+    "dealer_id": "8148",
+    "car_id": "26814319",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF70XJZ",
+        "registration_date": "01/09/2020",
+        "mileage": 57000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 4499,
+        "balance": 40491,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 849.94,
+        "final_payment": 850.94,
+        "total_amount_payable": 55496.4,
+        "total_charge_for_credit": 10506.4,
+        "amount_of_credit": 40491,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 4499,
+        "balance": 40491,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 715,
+        "final_payment": 18249,
+        "total_amount_payable": 56353,
+        "total_charge_for_credit": 11363,
+        "amount_of_credit": 40491,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 18248,
+        "price_to_buy": 18249
+      }
+    ]
+  }
+]

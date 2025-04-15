@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:50:38.380Z",
+    "source": "new_vehicle_finance",
+    "url": "https://northparkcarsales.co.uk/vehicle/name/mazda-cx-3-sport-nav-balance-after-1000-minimum-px-allowance-9990-tc/",
+    "dealer_id": "1632",
+    "car_id": "26326293",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK15DBF",
+        "registration_date": "31/07/2015",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 0,
+        "balance": 9990,
+        "apr": 12,
+        "rate_of_interest": 6.31,
+        "term": 60,
+        "regular_payment": 219.01,
+        "final_payment": 229.01,
+        "total_amount_payable": 13150.6,
+        "total_charge_for_credit": 3160.6,
+        "amount_of_credit": 9990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

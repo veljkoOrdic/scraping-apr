@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:36:28.776Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.a1carriages.co.uk/used-cars/nissan/qashqai/13-dig-t-n-connecta-euro-6-ss-5dr/de70frk",
+    "dealer_id": "98",
+    "car_id": "25954593",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE70FRK",
+        "registration_date": "21/01/2021",
+        "mileage": 10156,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14938,
+        "total_price": 14938,
+        "deposit": 0,
+        "balance": 14938,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 401.37,
+        "final_payment": 402.37,
+        "total_amount_payable": 19266.76,
+        "total_charge_for_credit": 4328.76,
+        "amount_of_credit": 14938,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

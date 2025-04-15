@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:10:33.804Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.selectiveautos.co.uk/cars/volvo/v40crosscountry/1.6-d2-lux/1372982/",
+    "dealer_id": "8075",
+    "car_id": "26975607",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YY63WBF",
+        "registration_date": "10/01/2014",
+        "mileage": 38800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 0,
+        "balance": 8995,
+        "apr": 11.9,
+        "rate_of_interest": 6.16,
+        "term": 44,
+        "regular_payment": 250.61,
+        "final_payment": 251.61,
+        "total_amount_payable": 11027.84,
+        "total_charge_for_credit": 2032.84,
+        "amount_of_credit": 8995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

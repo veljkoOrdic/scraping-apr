@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:51:23.053Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/audi/sq7/4.0-tdi-v8-vorsprungmassive-specificationlovely-service-portfoliocared-for-exampleloaded-with-op/1425743/",
+    "dealer_id": "6287",
+    "car_id": "27611544",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ18WJC",
+        "registration_date": "29/08/2018",
+        "mileage": 37913,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46170,
+        "total_price": 46170,
+        "deposit": 4617,
+        "balance": 41553,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 890.87,
+        "final_payment": 891.87,
+        "total_amount_payable": 58070.2,
+        "total_charge_for_credit": 11900.2,
+        "amount_of_credit": 41553,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

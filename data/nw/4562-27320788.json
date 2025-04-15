@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:07:32.562Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eagleshamgarage.co.uk/vehicle-details/used-porsche-911-t-992-carrera-t-for-sale-in-eaglesham-glasgow-u376/",
+    "dealer_id": "4562",
+    "car_id": "27320788",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SH73KAA",
+        "registration_date": "20/11/2023",
+        "mileage": 2998,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 94995,
+        "total_price": 94995,
+        "deposit": 4749.75,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 114453.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 94995,
+        "total_price": 94995,
+        "deposit": 4749.75,
+        "balance": 90245.25,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 1469.12,
+        "final_payment": 46672,
+        "total_amount_payable": 121939.51,
+        "total_charge_for_credit": 26944.51,
+        "amount_of_credit": 90245.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.5,
+        "residual": 46671,
+        "price_to_buy": 46672
+      }
+    ]
+  }
+]

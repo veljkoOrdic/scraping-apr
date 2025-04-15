@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:23:57.796Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sckltd.co.uk/details/car-in-kingswinford/bmw/3series/3.0-m340i-mht-auto-xdrive-euro-6-ss-4dr/1363463/",
+    "dealer_id": "7456",
+    "car_id": "26864765",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG71VUC",
+        "registration_date": "01/09/2021",
+        "mileage": 27900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 3250,
+        "balance": 29250,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 734.52,
+        "final_payment": 735.52,
+        "total_amount_payable": 38507.96,
+        "total_charge_for_credit": 6007.96,
+        "amount_of_credit": 29250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 3250,
+        "balance": 29250,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 500.51,
+        "final_payment": 13701.7,
+        "total_amount_payable": 40976.18,
+        "total_charge_for_credit": 8476.18,
+        "amount_of_credit": 29250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.18,
+        "residual": 13700.7,
+        "price_to_buy": 13701.7
+      }
+    ]
+  }
+]

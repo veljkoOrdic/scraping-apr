@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:37:58.923Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sidegatemotorpark.com/details/used-car-in-great-yarmouth/landrover/discoverysport/2.0-d240-mhev-r-dynamic-hse-auto-4wd-euro-6-ss-5dr/1420942/",
+    "dealer_id": "5215",
+    "car_id": "27544501",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM70CWY",
+        "registration_date": "25/09/2020",
+        "mileage": 27439,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29999,
+        "total_price": 29999,
+        "deposit": 0,
+        "balance": 29999,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 670.26,
+        "final_payment": 671.26,
+        "total_amount_payable": 40216.6,
+        "total_charge_for_credit": 10217.6,
+        "amount_of_credit": 29999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29999,
+        "total_price": 29999,
+        "deposit": 0,
+        "balance": 29999,
+        "apr": 12.9,
+        "rate_of_interest": 6.27,
+        "term": 49,
+        "regular_payment": 537.6,
+        "final_payment": 15851.22,
+        "total_amount_payable": 41656.02,
+        "total_charge_for_credit": 11657.02,
+        "amount_of_credit": 29999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 15850.22,
+        "price_to_buy": 15851.22
+      }
+    ]
+  }
+]

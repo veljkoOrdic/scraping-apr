@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:06.268Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/aston-martin/vanquish/v12-103",
+    "dealer_id": "8784",
+    "car_id": "23593561",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MK64OLR",
+        "registration_date": "02/09/2014",
+        "mileage": 23000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72950,
+        "total_price": 72950,
+        "deposit": 7295,
+        "balance": 65655,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1348.78,
+        "final_payment": 1349.78,
+        "total_amount_payable": 88222.8,
+        "total_charge_for_credit": 15272.8,
+        "amount_of_credit": 65655,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

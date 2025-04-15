@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:20:59.404Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-audi-a3-peterborough-cambridgeshire-6050524",
+    "dealer_id": "6437",
+    "car_id": "24451810",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE70HJK",
+        "registration_date": "29/10/2020",
+        "mileage": 24500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18499,
+        "total_price": 18499,
+        "deposit": 1849,
+        "balance": 16650,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 364.46,
+        "final_payment": 365.46,
+        "total_amount_payable": 23717.6,
+        "total_charge_for_credit": 5218.6,
+        "amount_of_credit": 16650,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

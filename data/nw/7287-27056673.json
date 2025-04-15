@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:26:01.944Z",
+    "source": "new_vehicle_finance",
+    "url": "https://richlee.co.uk/stocklist/21310/jaguar-xf-22-xf-premium-luxury-d-auto-4dr",
+    "dealer_id": "7287",
+    "car_id": "27056673",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV12XBZ",
+        "registration_date": "23/05/2012",
+        "mileage": 27000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.58,
+        "term": 25,
+        "regular_payment": 361.49,
+        "final_payment": 362.49,
+        "total_amount_payable": 9937.75,
+        "total_charge_for_credit": 942.75,
+        "amount_of_credit": 8095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

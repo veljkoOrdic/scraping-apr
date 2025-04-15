@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:29.645Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinfranciscars.com/used-cars/nissan-juke-16-visia/33141",
+    "dealer_id": "7214",
+    "car_id": "17724980",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT17OUN",
+        "registration_date": "30/04/2017",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8950,
+        "total_price": 8950,
+        "deposit": 895,
+        "balance": 8055,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 168.95,
+        "final_payment": 178.95,
+        "total_amount_payable": 11042,
+        "total_charge_for_credit": 2092,
+        "amount_of_credit": 8055,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

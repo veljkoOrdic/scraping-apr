@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:35:56.821Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.a1carriages.co.uk/used-cars/fiat/500/12-lounge-euro-6-ss-3dr/nd65ubz",
+    "dealer_id": "98",
+    "car_id": "27130663",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ND65UBZ",
+        "registration_date": "27/02/2016",
+        "mileage": 46692,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5799,
+        "total_price": 5799,
+        "deposit": 0,
+        "balance": 5799,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 155.8,
+        "final_payment": 156.8,
+        "total_amount_payable": 7479.4,
+        "total_charge_for_credit": 1680.4,
+        "amount_of_credit": 5799,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

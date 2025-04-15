@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:43:05.284Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yourcargroup.co.uk/details/used-car-in-newport/nissan/gt-r/3.8-v6-prestige-auto-4wd-euro-6-2dr/1019897/",
+    "dealer_id": "8148",
+    "car_id": "21586610",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ68PHX",
+        "registration_date": "22/10/2018",
+        "mileage": 18990,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84990,
+        "total_price": 84990,
+        "deposit": 34990,
+        "balance": 50000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1049.54,
+        "final_payment": 1050.54,
+        "total_amount_payable": 97963.4,
+        "total_charge_for_credit": 12973.4,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

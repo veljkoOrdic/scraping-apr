@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:27:47.043Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hcs-cars.com/vehicle/name/porsche-911-carrera-s-pdk/",
+    "dealer_id": "4673",
+    "car_id": "27449385",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE12VRV",
+        "registration_date": "11/07/2012",
+        "mileage": 95000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39999,
+        "total_price": 39999,
+        "deposit": 0,
+        "balance": 39999,
+        "apr": 14.5,
+        "rate_of_interest": 7.47,
+        "term": 38,
+        "regular_payment": 1301.66,
+        "final_payment": 1302.66,
+        "total_amount_payable": 49464.08,
+        "total_charge_for_credit": 9465.08,
+        "amount_of_credit": 39999,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

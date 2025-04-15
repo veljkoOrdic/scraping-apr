@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:06:31.258Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1stchoicemotors.co.uk/used/audi/rs6/40t-fsi-quattro-rs-6-performance-5dr-tip-auto/london/greater-london/21523555",
+    "dealer_id": "7884",
+    "car_id": "26814433",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY67WBT",
+        "registration_date": "25/09/2017",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39495,
+        "total_price": 39495,
+        "deposit": 2500,
+        "balance": 36995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 776.54,
+        "final_payment": 777.54,
+        "total_amount_payable": 49093.4,
+        "total_charge_for_credit": 9598.4,
+        "amount_of_credit": 36995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

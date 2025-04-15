@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:48:27.254Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shadow-automotive.co.uk/used-audi-s3-stamford-rutland-6765116",
+    "dealer_id": "8665",
+    "car_id": "27315453",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ17GFV",
+        "registration_date": "28/04/2017",
+        "mileage": 33362,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399,
+        "balance": 21596,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 551.77,
+        "final_payment": 552.77,
+        "total_amount_payable": 28884.96,
+        "total_charge_for_credit": 4889.96,
+        "amount_of_credit": 21596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

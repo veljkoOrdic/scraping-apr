@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T03:31:56.690Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.royhannamotors.com/used-volvo-xc90-county-antrim-county-antrim-6781143",
+    "dealer_id": "6858",
+    "car_id": "27458728",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FR21DVC",
+        "registration_date": "23/07/2021",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37950,
+        "total_price": 37950,
+        "deposit": 3795,
+        "balance": 34155,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 716.93,
+        "final_payment": 717.93,
+        "total_amount_payable": 46811.8,
+        "total_charge_for_credit": 8861.8,
+        "amount_of_credit": 34155,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37950,
+        "total_price": 37950,
+        "deposit": 3795,
+        "balance": 34155,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 595.61,
+        "final_payment": 15345.77,
+        "total_amount_payable": 47730.05,
+        "total_charge_for_credit": 9780.05,
+        "amount_of_credit": 34155,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.16,
+        "residual": 15344.77,
+        "price_to_buy": 15345.77
+      }
+    ]
+  }
+]

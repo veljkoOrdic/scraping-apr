@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:41:03.446Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kcsofsurrey.co.uk/used-skoda-kodiaq-addlestone-surrey-6216610",
+    "dealer_id": "6776",
+    "car_id": "25255439",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BV69PXN",
+        "registration_date": "18/12/2019",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20690,
+        "total_price": 20690,
+        "deposit": 4138,
+        "balance": 16552,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 354.86,
+        "final_payment": 355.86,
+        "total_amount_payable": 25430.6,
+        "total_charge_for_credit": 4740.6,
+        "amount_of_credit": 16552,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

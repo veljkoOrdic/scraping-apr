@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:25:54.217Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.banchorycarcentre.co.uk/used-hyundai-i10-banchory-aberdeenshire-6582111",
+    "dealer_id": "3012",
+    "car_id": "26634990",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW16OAV",
+        "registration_date": "24/06/2016",
+        "mileage": 28500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799,
+        "balance": 7196,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 38,
+        "regular_payment": 219.94,
+        "final_payment": 219.94,
+        "total_amount_payable": 9156.72,
+        "total_charge_for_credit": 1161.72,
+        "amount_of_credit": 7196,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:23:12.498Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.my1stmotorcar.co.uk/used-cars/audi/tt-petrol-blue-hatchback-NJ69DLO",
+    "dealer_id": "4354",
+    "car_id": "26755118",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NJ69DLO",
+        "registration_date": "30/10/2019",
+        "mileage": 75775,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19989,
+        "total_price": 19989,
+        "deposit": 0,
+        "balance": 19989,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 519.34,
+        "final_payment": 529.34,
+        "total_amount_payable": 24938.32,
+        "total_charge_for_credit": 4949.32,
+        "amount_of_credit": 19989,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19989,
+        "total_price": 19989,
+        "deposit": 0,
+        "balance": 19989,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 373.37,
+        "final_payment": 9189.5,
+        "total_amount_payable": 26737.89,
+        "total_charge_for_credit": 6748.89,
+        "amount_of_credit": 19989,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.04,
+        "residual": 9188.5,
+        "price_to_buy": 9189.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:04:07.239Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandles.co.uk/used-cars/hyundai/tucson/16-t-gdi-premium-euro-6-ss-5dr/mh21tzv",
+    "dealer_id": "2228",
+    "car_id": "25241896",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MH21TZV",
+        "registration_date": "27/07/2021",
+        "mileage": 13200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19299,
+        "total_price": 19299,
+        "deposit": 1929.9,
+        "balance": 17369.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 387.96,
+        "final_payment": 397.96,
+        "total_amount_payable": 25217.5,
+        "total_charge_for_credit": 5918.5,
+        "amount_of_credit": 17369.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19299,
+        "total_price": 19299,
+        "deposit": 1929.9,
+        "balance": 17369.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 49,
+        "regular_payment": 321.49,
+        "final_payment": 8542.75,
+        "total_amount_payable": 25904.17,
+        "total_charge_for_credit": 6605.17,
+        "amount_of_credit": 17369.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.15,
+        "residual": 8532.75,
+        "price_to_buy": 8542.75
+      }
+    ]
+  }
+]

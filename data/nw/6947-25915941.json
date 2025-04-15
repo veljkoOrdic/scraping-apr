@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:07:12.929Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dpipermotors.co.uk/details/used-car-in-clacton-on-sea/hyundai/i20/1.0-t-gdi-active-euro-6-5dr/1284820/",
+    "dealer_id": "6947",
+    "car_id": "25915941",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK67HJN",
+        "registration_date": "30/09/2017",
+        "mileage": 31000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9295,
+        "total_price": 9295,
+        "deposit": 929.5,
+        "balance": 8365.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 179.34,
+        "final_payment": 180.34,
+        "total_amount_payable": 11690.9,
+        "total_charge_for_credit": 2395.9,
+        "amount_of_credit": 8365.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

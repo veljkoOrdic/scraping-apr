@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:41:29.801Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.asmotoruk.com/cars/infiniti/ex/3.7-37-v6/1371707/",
+    "dealer_id": "6496",
+    "car_id": "26970243",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX10DXS",
+        "registration_date": "08/04/2010",
+        "mileage": 95178,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4750,
+        "total_price": 4750,
+        "deposit": 475,
+        "balance": 4275,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 113.18,
+        "final_payment": 113.18,
+        "total_amount_payable": 7265.8,
+        "total_charge_for_credit": 2515.8,
+        "amount_of_credit": 4275,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

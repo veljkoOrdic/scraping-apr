@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T03:19:17.736Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lutontradecentre.com/used-fiat-500-luton-bedfordshire-6362555",
+    "dealer_id": "6846",
+    "car_id": "25751416",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV70PMO",
+        "registration_date": "09/10/2020",
+        "mileage": 34976,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9275,
+        "total_price": 9275,
+        "deposit": 927,
+        "balance": 8348,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 153.79,
+        "final_payment": 3399,
+        "total_amount_payable": 11554.13,
+        "total_charge_for_credit": 2279.13,
+        "amount_of_credit": 8348,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.15,
+        "residual": 3398,
+        "price_to_buy": 3399
+      }
+    ]
+  }
+]

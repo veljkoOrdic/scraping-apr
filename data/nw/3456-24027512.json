@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:07:08.124Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belgravecommercials.co.uk/used-vauxhall-combo-plympton-devon-5947358",
+    "dealer_id": "3456",
+    "car_id": "24027512",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DN20HAO",
+        "registration_date": "30/06/2020",
+        "mileage": 74658,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8400,
+        "total_price": 8400,
+        "deposit": 1400,
+        "balance": 7000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 146.94,
+        "final_payment": 146.94,
+        "total_amount_payable": 10216.4,
+        "total_charge_for_credit": 1816.4,
+        "amount_of_credit": 7000,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:18:16.495Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fitzroymotorco.co.uk/details/specialist-car-in-ringwood/bmw/5series/3.0-530d-m-sport-auto-euro-5-ss-4dr/1341797/",
+    "dealer_id": "9375",
+    "car_id": "27041101",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ14DRV",
+        "registration_date": "10/06/2014",
+        "mileage": 53274,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349.5,
+        "balance": 12145.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 271.35,
+        "final_payment": 272.35,
+        "total_amount_payable": 17631.5,
+        "total_charge_for_credit": 4136.5,
+        "amount_of_credit": 12145.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

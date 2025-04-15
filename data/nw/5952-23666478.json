@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:47:13.302Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chapelhouse.co.uk/used/view/hyundai-i20-t-edition-tgdi-10/ft66jpx/",
+    "dealer_id": "5952",
+    "car_id": "23666478",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FT66JPX",
+        "registration_date": "05/01/2017",
+        "mileage": 16893,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9569,
+        "total_price": 9569,
+        "deposit": 1000,
+        "balance": 8569,
+        "apr": 12.9,
+        "rate_of_interest": 6.66,
+        "term": 44,
+        "regular_payment": 242.31,
+        "final_payment": 252.31,
+        "total_amount_payable": 11671.64,
+        "total_charge_for_credit": 2102.64,
+        "amount_of_credit": 8569,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

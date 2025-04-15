@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:18:08.429Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fiveacresgarage.uk/used-car-details/used-seat-leon-14-ecotsi-fr-technology-sport-hatchback-grey-manual-petrol/id-3295884282220828290/",
+    "dealer_id": "6673",
+    "car_id": "27435132",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BP17CLJ",
+        "registration_date": "13/06/2017",
+        "mileage": 49835,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 197,
+        "final_payment": 198,
+        "total_amount_payable": 12820,
+        "total_charge_for_credit": 2821,
+        "amount_of_credit": 9000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

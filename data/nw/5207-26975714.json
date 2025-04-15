@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:33:48.251Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pitstopmotorsni.co.uk/used-audi-a5-lisburn-northern-ireland-6674696",
+    "dealer_id": "5207",
+    "car_id": "26975714",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CP65RYY",
+        "registration_date": "10/02/2016",
+        "mileage": 95059,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11990,
+        "total_price": 11990,
+        "deposit": 1199,
+        "balance": 10791,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 226.5,
+        "final_payment": 227.5,
+        "total_amount_payable": 14790,
+        "total_charge_for_credit": 2800,
+        "amount_of_credit": 10791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

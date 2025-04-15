@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:58:02.763Z",
+    "source": "new_vehicle_finance",
+    "url": "https://janautos.co.uk/vehicle/name/toyota-prius-1-8-vvt-h-active-cvt-euro-6-s-s-5dr/",
+    "dealer_id": "3285",
+    "car_id": "22080610",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR68EOG",
+        "registration_date": "18/10/2018",
+        "mileage": 117769,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12990,
+        "total_price": 12990,
+        "deposit": 0,
+        "balance": 12990,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 290.11,
+        "final_payment": 300.11,
+        "total_amount_payable": 17416.6,
+        "total_charge_for_credit": 4426.6,
+        "amount_of_credit": 12990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

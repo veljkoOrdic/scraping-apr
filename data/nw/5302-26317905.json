@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:03:47.558Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorcars.co.uk/used/cars/fiat/500e/42kwh-la-prima-hatchback-3dr-electric-motor-auto-118-ps-3345",
+    "dealer_id": "5302",
+    "car_id": "26317905",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX22ORJ",
+        "registration_date": "24/05/2022",
+        "mileage": 16700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 337.72,
+        "final_payment": 338.72,
+        "total_amount_payable": 17211.56,
+        "total_charge_for_credit": 3216.56,
+        "amount_of_credit": 12995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 5.83,
+        "term": 49,
+        "regular_payment": 240,
+        "final_payment": 5951.58,
+        "total_amount_payable": 18471.58,
+        "total_charge_for_credit": 4476.58,
+        "amount_of_credit": 12995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.08,
+        "residual": 5950.58,
+        "price_to_buy": 5951.58
+      }
+    ]
+  }
+]

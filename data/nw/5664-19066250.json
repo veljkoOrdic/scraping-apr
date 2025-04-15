@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:40:34.866Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fairleecarsales.co.uk/cars/bmw/4series/430d-luxury/801791/",
+    "dealer_id": "5664",
+    "car_id": "19066250",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YA15RWU",
+        "registration_date": "22/07/2015",
+        "mileage": 49000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 269.92,
+        "final_payment": 279.92,
+        "total_amount_payable": 17604.7,
+        "total_charge_for_credit": 3609.7,
+        "amount_of_credit": 12595.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

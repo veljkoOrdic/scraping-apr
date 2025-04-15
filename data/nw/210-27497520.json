@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:38.695Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/audi--rs6-avant/wu71cxe",
+    "dealer_id": "210",
+    "car_id": "27497520",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WU71CXE",
+        "registration_date": "03/09/2021",
+        "mileage": 24046,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 80999,
+        "total_price": 80999,
+        "deposit": 8099,
+        "balance": 72900,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1798.78,
+        "final_payment": 1799.78,
+        "total_amount_payable": 94441.44,
+        "total_charge_for_credit": 13442.44,
+        "amount_of_credit": 72900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 80999,
+        "total_price": 80999,
+        "deposit": 8099,
+        "balance": 72900,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 49,
+        "regular_payment": 1183.94,
+        "final_payment": 35295.4,
+        "total_amount_payable": 100223.52,
+        "total_charge_for_credit": 19224.52,
+        "amount_of_credit": 72900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 35294.4,
+        "price_to_buy": 35295.4
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:35:58.744Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aandaautosales.uk/details/used-car-in-peterborough/jaguar/e-pace/2.0-d180-chequered-flag-auto-awd-euro-6-ss-5dr/1239707/",
+    "dealer_id": "7763",
+    "car_id": "25342865",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU70UYO",
+        "registration_date": "06/10/2020",
+        "mileage": 46110,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20595,
+        "total_price": 20595,
+        "deposit": 10,
+        "balance": 20585,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 450.6,
+        "final_payment": 451.6,
+        "total_amount_payable": 27047,
+        "total_charge_for_credit": 6452,
+        "amount_of_credit": 20585,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20595,
+        "total_price": 20595,
+        "deposit": 10,
+        "balance": 20585,
+        "apr": 11.9,
+        "rate_of_interest": 5.82,
+        "term": 49,
+        "regular_payment": 372.78,
+        "final_payment": 9878.71,
+        "total_amount_payable": 27782.15,
+        "total_charge_for_credit": 7187.15,
+        "amount_of_credit": 20585,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 9877.71,
+        "price_to_buy": 9878.71
+      }
+    ]
+  }
+]

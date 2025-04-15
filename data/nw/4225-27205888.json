@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:33:17.875Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stirling-cars.com/used-bmw-x5-hoddesdon-hertfordshire-6736802",
+    "dealer_id": "4225",
+    "car_id": "27205888",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA69XZM",
+        "registration_date": "30/09/2019",
+        "mileage": 70128,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34979,
+        "total_price": 34979,
+        "deposit": 3497,
+        "balance": 31482,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 790.59,
+        "final_payment": 791.59,
+        "total_amount_payable": 41446.32,
+        "total_charge_for_credit": 6467.32,
+        "amount_of_credit": 31482,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34979,
+        "total_price": 34979,
+        "deposit": 3497,
+        "balance": 31482,
+        "apr": 10.9,
+        "rate_of_interest": 5.63,
+        "term": 42,
+        "regular_payment": 594.57,
+        "final_payment": 15851,
+        "total_amount_payable": 43725.37,
+        "total_charge_for_credit": 8746.37,
+        "amount_of_credit": 31482,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 0.12,
+        "residual": 15841,
+        "price_to_buy": 15851
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:24:29.617Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.russellham.co.uk/used-hyundai-i30-plymouth-devon-6775208",
+    "dealer_id": "4120",
+    "car_id": "27372865",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG13LSK",
+        "registration_date": "16/08/2013",
+        "mileage": 80734,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 249,
+        "balance": 4746,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 40,
+        "regular_payment": 144.97,
+        "final_payment": 145.97,
+        "total_amount_payable": 6048.8,
+        "total_charge_for_credit": 1053.8,
+        "amount_of_credit": 4746,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:16:10.140Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adamsandsons.co.uk/details/used-car-in-oakham/audi/a8/3.0-tdi-v6-50-tiptronic-quattro-euro-6-ss-4dr/1438962/",
+    "dealer_id": "2852",
+    "car_id": "27774615",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO18HMK",
+        "registration_date": "29/03/2018",
+        "mileage": 29220,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26000,
+        "total_price": 26000,
+        "deposit": 2600,
+        "balance": 23400,
+        "apr": 10.6,
+        "rate_of_interest": 5.56,
+        "term": 60,
+        "regular_payment": 498.4,
+        "final_payment": 508.4,
+        "total_amount_payable": 32514,
+        "total_charge_for_credit": 6514,
+        "amount_of_credit": 23400,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 60000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

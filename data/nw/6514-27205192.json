@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:44:33.848Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prestigedieselsportsmouth.co.uk/used/cars/mercedes-benz/gls/gls-350-d-4matic-amg-line-69",
+    "dealer_id": "6514",
+    "car_id": "27205192",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY67ACU",
+        "registration_date": "31/10/2017",
+        "mileage": 46633,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33649,
+        "total_price": 33649,
+        "deposit": 3364.9,
+        "balance": 30284.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 635.56,
+        "final_payment": 645.56,
+        "total_amount_payable": 41508.5,
+        "total_charge_for_credit": 7859.5,
+        "amount_of_credit": 30284.1,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

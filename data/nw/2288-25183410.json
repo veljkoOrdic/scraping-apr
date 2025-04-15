@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:23:22.459Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillagebristol.com/used-ford-mustang-bristol-somerset-6225300",
+    "dealer_id": "2288",
+    "car_id": "25183410",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN63DXW",
+        "registration_date": "01/01/2014",
+        "mileage": 37460,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 56,
+        "regular_payment": 406.76,
+        "final_payment": 416.76,
+        "total_amount_payable": 24787.56,
+        "total_charge_for_credit": 4792.56,
+        "amount_of_credit": 17996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

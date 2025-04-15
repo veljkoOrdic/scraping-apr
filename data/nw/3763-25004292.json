@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:55:47.916Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.windmillautosltd.co.uk/used-bmw-4-series-bedfordshire-bedfordshire-6184992",
+    "dealer_id": "3763",
+    "car_id": "25004292",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GF17LYD",
+        "registration_date": "24/03/2017",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16950,
+        "total_price": 16950,
+        "deposit": 1695,
+        "balance": 15255,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 338.79,
+        "final_payment": 388.79,
+        "total_amount_payable": 22122.4,
+        "total_charge_for_credit": 5172.4,
+        "amount_of_credit": 15255,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

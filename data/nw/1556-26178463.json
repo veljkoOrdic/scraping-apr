@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:33:46.444Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajautos.com/details/used-car-in-bournemouth/mercedes-benz/aclass/2.0-a45-amg-s-8g-dct-4matic+-euro-6-ss-5dr/1307196/",
+    "dealer_id": "1556",
+    "car_id": "26178463",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF20OTN",
+        "registration_date": "23/03/2020",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 666.09,
+        "final_payment": 667.09,
+        "total_amount_payable": 34972.82,
+        "total_charge_for_credit": 4977.82,
+        "amount_of_credit": 26995.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:23.150Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-volkswagen-amarok-chelmsford-essex-6336922",
+    "dealer_id": "6414",
+    "car_id": "26592945",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF70NFZ",
+        "registration_date": "02/09/2020",
+        "mileage": 53000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999,
+        "balance": 26996,
+        "apr": 16.9,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 652.33,
+        "final_payment": 662.33,
+        "total_amount_payable": 42148.8,
+        "total_charge_for_credit": 12153.8,
+        "amount_of_credit": 26996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

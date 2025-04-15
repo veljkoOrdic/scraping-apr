@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:01:13.771Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/porsche-911-carrera-auto-in-kent-7c829e98-3cda-41cd-8ebb-b29d00e84151",
+    "dealer_id": "5545",
+    "car_id": "27382982",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ73WHR",
+        "registration_date": "14/10/2023",
+        "mileage": 522,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 91990,
+        "total_price": 91990,
+        "deposit": 13798.5,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 105819.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 91990,
+        "total_price": 91990,
+        "deposit": 13798.5,
+        "balance": 78191.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.35,
+        "term": 49,
+        "regular_payment": 1130.13,
+        "final_payment": 45879.4,
+        "total_amount_payable": 113924.14,
+        "total_charge_for_credit": 21934.14,
+        "amount_of_credit": 78191.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.48,
+        "residual": 45878.4,
+        "price_to_buy": 45879.4
+      }
+    ]
+  }
+]

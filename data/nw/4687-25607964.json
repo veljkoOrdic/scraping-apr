@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:29:12.655Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lakesidecarsales.co.uk/used-ford-galaxy-redditch-worcestershire-6681724",
+    "dealer_id": "4687",
+    "car_id": "25607964",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FN15OBD",
+        "registration_date": "23/03/2015",
+        "mileage": 30261,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11499,
+        "total_price": 11499,
+        "deposit": 0,
+        "balance": 11499,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 59,
+        "regular_payment": 260.08,
+        "final_payment": 261.08,
+        "total_amount_payable": 15345.72,
+        "total_charge_for_credit": 3846.72,
+        "amount_of_credit": 11499,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

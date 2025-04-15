@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:31:52.599Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thecarbazaar.co.uk/details/used-car-in-sheffield/bmw/5series/2.0-520d-mht-m-sport-touring-auto-euro-6-ss-5dr/1377666/",
+    "dealer_id": "7933",
+    "car_id": "27039078",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ69ADC",
+        "registration_date": "31/01/2020",
+        "mileage": 113560,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15493,
+        "total_price": 15493,
+        "deposit": 1549.3,
+        "balance": 13943.7,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 298.94,
+        "final_payment": 299.94,
+        "total_amount_payable": 19486.7,
+        "total_charge_for_credit": 3993.7,
+        "amount_of_credit": 13943.7,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

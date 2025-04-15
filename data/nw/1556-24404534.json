@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:34:02.926Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajautos.com/details/used-car-in-bournemouth/landrover/rangerover/5.0-p525-v8-autobiography-auto-4wd-euro-6-ss-5dr/1168918/",
+    "dealer_id": "1556",
+    "car_id": "24404534",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ19XMF",
+        "registration_date": "30/03/2019",
+        "mileage": 62740,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44950,
+        "total_price": 44950,
+        "deposit": 4495,
+        "balance": 40455,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 998.21,
+        "final_payment": 999.21,
+        "total_amount_payable": 52410.08,
+        "total_charge_for_credit": 7460.08,
+        "amount_of_credit": 40455,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

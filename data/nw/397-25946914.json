@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:49:25.095Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitethorcars.co.uk/details/used-car-in-leicester/bmw/5series/2.0-520d-m-sport-auto-euro-6-ss-4dr/1287592/",
+    "dealer_id": "397",
+    "car_id": "25946914",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YF67XHC",
+        "registration_date": "23/11/2017",
+        "mileage": 44000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18500,
+        "total_price": 18500,
+        "deposit": 0,
+        "balance": 18500,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 396.62,
+        "final_payment": 397.62,
+        "total_amount_payable": 23798.2,
+        "total_charge_for_credit": 5298.2,
+        "amount_of_credit": 18500,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

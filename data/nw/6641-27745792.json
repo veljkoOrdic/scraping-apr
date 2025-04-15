@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:10:33.549Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradecarsandcommercials.co.uk/used-mercedes-benz-vito-prudhoe-northumberland-6744785",
+    "dealer_id": "6641",
+    "car_id": "27745792",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR71UTB",
+        "registration_date": "21/12/2021",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 1000,
+        "balance": 18000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 377.82,
+        "final_payment": 378.82,
+        "total_amount_payable": 23670.2,
+        "total_charge_for_credit": 4670.2,
+        "amount_of_credit": 18000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

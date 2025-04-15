@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:51:25.149Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkeeble.co.uk/used-kia-picanto-ipswich-suffolk-6614760",
+    "dealer_id": "1634",
+    "car_id": "26768883",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AX17KOB",
+        "registration_date": "30/06/2017",
+        "mileage": 58213,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6500,
+        "total_price": 6500,
+        "deposit": 650,
+        "balance": 5850,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 125.41,
+        "final_payment": 126.41,
+        "total_amount_payable": 8175.6,
+        "total_charge_for_credit": 1675.6,
+        "amount_of_credit": 5850,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

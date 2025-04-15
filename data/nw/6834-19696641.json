@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:09:42.622Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.elderwoodmotors.co.uk/used-bmw-3-series-peterborough-cambridgeshire-6086733",
+    "dealer_id": "6834",
+    "car_id": "19696641",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP11ZNU",
+        "registration_date": "18/06/2011",
+        "mileage": 120000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3990,
+        "total_price": 3990,
+        "deposit": 10,
+        "balance": 3980,
+        "apr": 22.9,
+        "rate_of_interest": 12.33,
+        "term": 60,
+        "regular_payment": 107.22,
+        "final_payment": 107.22,
+        "total_amount_payable": 6443.2,
+        "total_charge_for_credit": 2453.2,
+        "amount_of_credit": 3980,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

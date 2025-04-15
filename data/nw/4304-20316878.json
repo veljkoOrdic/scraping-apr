@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:56:42.482Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tonesusedcars.com/used-kia-ceed-hartlepool-county-durham-5065184",
+    "dealer_id": "4304",
+    "car_id": "20316878",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WV68ZYL",
+        "registration_date": "17/09/2018",
+        "mileage": 40850,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 218.78,
+        "final_payment": 219.78,
+        "total_amount_payable": 13127.8,
+        "total_charge_for_credit": 3132.8,
+        "amount_of_credit": 9995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

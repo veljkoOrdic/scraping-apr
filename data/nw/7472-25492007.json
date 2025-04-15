@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:26:32.791Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-planet.co.uk/used-citroen-c1-watford-hertfordshire-6301731",
+    "dealer_id": "7472",
+    "car_id": "25492007",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MC21YVR",
+        "registration_date": "30/06/2021",
+        "mileage": 10894,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9200,
+        "total_price": 9200,
+        "deposit": 920,
+        "balance": 8280,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 185,
+        "final_payment": 186,
+        "total_amount_payable": 12021,
+        "total_charge_for_credit": 2821,
+        "amount_of_credit": 8280,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9200,
+        "total_price": 9200,
+        "deposit": 920,
+        "balance": 8280,
+        "apr": 12.9,
+        "rate_of_interest": 6.37,
+        "term": 49,
+        "regular_payment": 170.99,
+        "final_payment": 2971.48,
+        "total_amount_payable": 12099,
+        "total_charge_for_credit": 2899,
+        "amount_of_credit": 8280,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 2970.48,
+        "price_to_buy": 2971.48
+      }
+    ]
+  }
+]

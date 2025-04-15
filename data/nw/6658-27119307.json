@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:17:25.462Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-volkswagen-golf-20-tsi-r-hatchback-5dr-petrol-hatchback-deep-black-pearl-effect-automatic-petrol/id-6911/",
+    "dealer_id": "6658",
+    "car_id": "27119307",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS73EFL",
+        "registration_date": "19/09/2023",
+        "mileage": 8970,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 10798,
+        "balance": 25197,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 671.29,
+        "final_payment": 681.29,
+        "total_amount_payable": 43029.92,
+        "total_charge_for_credit": 7034.92,
+        "amount_of_credit": 25197,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 10798,
+        "balance": 25197,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 393.9,
+        "final_payment": 17605,
+        "total_amount_payable": 46916.3,
+        "total_charge_for_credit": 10921.3,
+        "amount_of_credit": 25197,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.108,
+        "residual": 17595,
+        "price_to_buy": 17605
+      }
+    ]
+  }
+]

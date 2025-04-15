@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:48:56.244Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yournextcarltd.co.uk/used-audi-a8-nottingham-nottinghamshire-6704134",
+    "dealer_id": "3729",
+    "car_id": "27080505",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW23PGE",
+        "registration_date": "31/05/2023",
+        "mileage": 3357,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49991,
+        "total_price": 49991,
+        "deposit": 0,
+        "balance": 49991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1049.34,
+        "final_payment": 1050.34,
+        "total_amount_payable": 62961.4,
+        "total_charge_for_credit": 12970.4,
+        "amount_of_credit": 49991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49991,
+        "total_price": 49991,
+        "deposit": 0,
+        "balance": 49991,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 911.71,
+        "final_payment": 20122,
+        "total_amount_payable": 63884.08,
+        "total_charge_for_credit": 13893.08,
+        "amount_of_credit": 49991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.2,
+        "residual": 20121,
+        "price_to_buy": 20122
+      }
+    ]
+  }
+]

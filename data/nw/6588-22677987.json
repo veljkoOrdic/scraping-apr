@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:57:58.541Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.streetcars-crewe.co.uk/cars/vauxhall/corsa/1.4-i-ecotec-sri-vx-line-nav-black/1298009/",
+    "dealer_id": "6588",
+    "car_id": "22677987",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DH19YDM",
+        "registration_date": "31/07/2019",
+        "mileage": 24570,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8790,
+        "total_price": 8790,
+        "deposit": 879,
+        "balance": 7911,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 166.06,
+        "final_payment": 166.06,
+        "total_amount_payable": 10842.6,
+        "total_charge_for_credit": 2052.6,
+        "amount_of_credit": 7911,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

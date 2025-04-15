@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:45:19.781Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kaimparkgarage.co.uk/used-land-rover-defender-90-bathgate-west-lothian-6858787",
+    "dealer_id": "2056",
+    "car_id": "27765568",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S70AHG",
+        "registration_date": "04/11/2017",
+        "mileage": 4000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 6999,
+        "balance": 62996,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1294.16,
+        "final_payment": 1295.16,
+        "total_amount_payable": 84649.6,
+        "total_charge_for_credit": 14654.6,
+        "amount_of_credit": 62996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

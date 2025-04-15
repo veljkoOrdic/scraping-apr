@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:42:47.744Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cullodencarsales.co.uk/used/cars/audi/a3/2-0-s3-tfsi-quattro-semi-auto-4wd-3dr-1552",
+    "dealer_id": "374",
+    "car_id": "26667558",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PY66FTF",
+        "registration_date": "09/12/2016",
+        "mileage": 40413,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 0,
+        "balance": 17995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 385.81,
+        "final_payment": 386.81,
+        "total_amount_payable": 23149.6,
+        "total_charge_for_credit": 5154.6,
+        "amount_of_credit": 17995,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

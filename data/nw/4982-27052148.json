@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:41:33.619Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vehicletradecentre.com/used-mercedes-benz-glc-kilwinning-ayrshire-6695675",
+    "dealer_id": "4982",
+    "car_id": "27052148",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP16LGE",
+        "registration_date": "25/03/2016",
+        "mileage": 63429,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16998,
+        "total_price": 16998,
+        "deposit": 1699,
+        "balance": 15299,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 355.7,
+        "final_payment": 365.7,
+        "total_amount_payable": 23051,
+        "total_charge_for_credit": 6053,
+        "amount_of_credit": 15299,
+        "lender": "Tandem",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

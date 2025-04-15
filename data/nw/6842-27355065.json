@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:16:52.772Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.atlanticmotors.co.uk/cars/seat/leon/1.6-tdi-cr-se/1405354/",
+    "dealer_id": "6842",
+    "car_id": "27355065",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE63BVC",
+        "registration_date": "17/12/2013",
+        "mileage": 99880,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 0,
+        "balance": 4995,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 44,
+        "regular_payment": 134.81,
+        "final_payment": 135.81,
+        "total_amount_payable": 5932.64,
+        "total_charge_for_credit": 937.64,
+        "amount_of_credit": 4995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

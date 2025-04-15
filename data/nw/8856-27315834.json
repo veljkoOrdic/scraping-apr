@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:33:02.950Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtsixtyseven.com/cars/mini/clubman/2.0-clubman-john-cooper-works-306hp/1399864/",
+    "dealer_id": "8856",
+    "car_id": "27315834",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BA69PXT",
+        "registration_date": "06/12/2019",
+        "mileage": 16700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 482.3,
+        "final_payment": 482.3,
+        "total_amount_payable": 31437.5,
+        "total_charge_for_credit": 6442.5,
+        "amount_of_credit": 22495.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 407.12,
+        "final_payment": 10011,
+        "total_amount_payable": 32052.26,
+        "total_charge_for_credit": 7057.26,
+        "amount_of_credit": 22495.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 10011,
+        "price_to_buy": 10011
+      }
+    ]
+  }
+]

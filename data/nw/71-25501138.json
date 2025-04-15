@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:31:46.162Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dcc-cars.co.uk/details/used-car-in-radcliffe/mercedes-benz/aclass/1.5-a180d-se-7g-dct-euro-6-ss-5dr/1252519/",
+    "dealer_id": "71",
+    "car_id": "25501138",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA70YFC",
+        "registration_date": "14/09/2020",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 1499,
+        "balance": 13491,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 350.46,
+        "final_payment": 360.46,
+        "total_amount_payable": 18331.08,
+        "total_charge_for_credit": 3341.08,
+        "amount_of_credit": 13491,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 1499,
+        "balance": 13491,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 49,
+        "regular_payment": 253.28,
+        "final_payment": 5928,
+        "total_amount_payable": 19584.44,
+        "total_charge_for_credit": 4594.44,
+        "amount_of_credit": 13491,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 5918,
+        "price_to_buy": 5928
+      }
+    ]
+  }
+]

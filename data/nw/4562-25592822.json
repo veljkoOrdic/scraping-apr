@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:05:57.202Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eagleshamgarage.co.uk/vehicle-details/used-subaru-outback-i-touring-x-for-sale-in-eaglesham-glasgow-u308/",
+    "dealer_id": "4562",
+    "car_id": "25592822",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF74PZB",
+        "registration_date": "06/09/2024",
+        "mileage": 1646,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 1949.75,
+        "balance": 37045.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 777.6,
+        "final_payment": 778.6,
+        "total_amount_payable": 48606.75,
+        "total_charge_for_credit": 9611.75,
+        "amount_of_credit": 37045.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 1949.75,
+        "balance": 37045.25,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 666.8,
+        "final_payment": 15427,
+        "total_amount_payable": 49383.15,
+        "total_charge_for_credit": 10388.15,
+        "amount_of_credit": 37045.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.18,
+        "residual": 15426,
+        "price_to_buy": 15427
+      }
+    ]
+  }
+]

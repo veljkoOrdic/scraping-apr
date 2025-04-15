@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:27:57.449Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.noylandrhodes.com/cars/ssangyong/korando/2.0-d-elx4/1402277/",
+    "dealer_id": "7924",
+    "car_id": "27332726",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE64DWY",
+        "registration_date": "20/11/2014",
+        "mileage": 75000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4895,
+        "total_price": 4895,
+        "deposit": 244.75,
+        "balance": 4650.25,
+        "apr": 12.9,
+        "rate_of_interest": 6.77,
+        "term": 55,
+        "regular_payment": 110.77,
+        "final_payment": 111.77,
+        "total_amount_payable": 6338.1,
+        "total_charge_for_credit": 1443.1,
+        "amount_of_credit": 4650.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

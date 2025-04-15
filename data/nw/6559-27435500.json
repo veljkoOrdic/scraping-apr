@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:55:48.988Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-rolls-royce-cullinan-675-v12-auto-4wd-euro-6-5dr-suv-midnight-sapphire-automatic-petrol/id-202503140162584/",
+    "dealer_id": "6559",
+    "car_id": "27435500",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OJA55Y",
+        "registration_date": "28/10/2022",
+        "mileage": 7000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 239948,
+        "total_price": 239948,
+        "deposit": 83981,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 259406.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 239948,
+        "total_price": 239948,
+        "deposit": 83981,
+        "balance": 155967,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 2000.94686140733,
+        "final_payment": 113297.2,
+        "total_amount_payable": 291322.7,
+        "total_charge_for_credit": 51374.7,
+        "amount_of_credit": 155967,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.12,
+        "residual": 111286.25,
+        "price_to_buy": 113297.2
+      }
+    ]
+  }
+]

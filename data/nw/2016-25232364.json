@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:39:12.549Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/seat/alteaxl/1.9-tdi-stylance-euro-4-5dr/1230793/",
+    "dealer_id": "2016",
+    "car_id": "25232364",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR57ZKK",
+        "registration_date": "17/12/2007",
+        "mileage": 109000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 1999,
+        "total_price": 1999,
+        "deposit": 199.9,
+        "balance": 1799.1,
+        "apr": 22.9,
+        "rate_of_interest": 12.33,
+        "term": 60,
+        "regular_payment": 48.47,
+        "final_payment": 48.47,
+        "total_amount_payable": 3108.1,
+        "total_charge_for_credit": 1109.1,
+        "amount_of_credit": 1799.1,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:33:39.410Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lesrayner-foxhunters.co.uk/used-skoda-fabia-whitley-bay-tyne-and-wear-6155684",
+    "dealer_id": "84",
+    "car_id": "24887055",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ71VZZ",
+        "registration_date": "22/09/2021",
+        "mileage": 51000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099,
+        "balance": 9900,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 212.25,
+        "final_payment": 213.25,
+        "total_amount_payable": 13835,
+        "total_charge_for_credit": 2836,
+        "amount_of_credit": 9900,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099,
+        "balance": 9900,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 183.84,
+        "final_payment": 4276,
+        "total_amount_payable": 14015.48,
+        "total_charge_for_credit": 3016.48,
+        "amount_of_credit": 9900,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "contract_mileage": 48000,
+        "excess_mileage_rate": 0.15,
+        "residual": 4275,
+        "price_to_buy": 4276
+      }
+    ]
+  }
+]

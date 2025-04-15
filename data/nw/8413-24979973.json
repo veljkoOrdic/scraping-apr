@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:53:29.621Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanza.co.uk/used-ford-ranger-cardiff-glamorgan-5805867",
+    "dealer_id": "8413",
+    "car_id": "24979973",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ69ZNB",
+        "registration_date": "24/10/2019",
+        "mileage": 63000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21354,
+        "total_price": 21354,
+        "deposit": 3559,
+        "balance": 17795,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 381.39,
+        "final_payment": 391.39,
+        "total_amount_payable": 26452.4,
+        "total_charge_for_credit": 5098.4,
+        "amount_of_credit": 17795,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

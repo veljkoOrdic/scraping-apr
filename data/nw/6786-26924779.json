@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:44:09.717Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carpointuk.co.uk/details/used-car-in-newport/kia/sportage/1.7-crdi-4-euro-6-ss-5dr/1368538/",
+    "dealer_id": "6786",
+    "car_id": "26924779",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FH16BDZ",
+        "registration_date": "16/05/2016",
+        "mileage": 77263,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9699,
+        "total_price": 9699,
+        "deposit": 500,
+        "balance": 9199,
+        "apr": 12.9,
+        "rate_of_interest": 6.59,
+        "term": 60,
+        "regular_payment": 203.82,
+        "final_payment": 253.82,
+        "total_amount_payable": 12829.2,
+        "total_charge_for_credit": 3130.2,
+        "amount_of_credit": 9199,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

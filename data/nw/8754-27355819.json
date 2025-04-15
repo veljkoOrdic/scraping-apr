@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:11:47.282Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjonesltd.co.uk/cars-for-sale/bournemouth/car/1177/tesla-model-3-long-range-autopilot-18in-aero-wheels-premium-black-interior-immersive-sound-system",
+    "dealer_id": "8754",
+    "car_id": "27355819",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF70MVA",
+        "registration_date": "18/09/2020",
+        "mileage": 53188,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 1750,
+        "balance": 15750,
+        "apr": 14.9,
+        "rate_of_interest": 7.77,
+        "term": 48,
+        "regular_payment": 430.14,
+        "final_payment": 431.14,
+        "total_amount_payable": 22397.72,
+        "total_charge_for_credit": 4897.72,
+        "amount_of_credit": 15750,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 1750,
+        "balance": 15750,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 282.31,
+        "final_payment": 6628.28,
+        "total_amount_payable": 21929.16,
+        "total_charge_for_credit": 4429.16,
+        "amount_of_credit": 15750,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 6627.28,
+        "price_to_buy": 6628.28
+      }
+    ]
+  }
+]

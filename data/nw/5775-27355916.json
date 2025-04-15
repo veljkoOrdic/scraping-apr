@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:24:06.439Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.windmillmotorsltd.co.uk/used/cars/renault/megane/1-5-dci-dynamique-tomtom-euro-5-5dr-2216",
+    "dealer_id": "5775",
+    "car_id": "27355916",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML13TXV",
+        "registration_date": "26/07/2013",
+        "mileage": 87000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3250,
+        "total_price": 3250,
+        "deposit": 325,
+        "balance": 2925,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 39,
+        "regular_payment": 91.2,
+        "final_payment": 92.2,
+        "total_amount_payable": 3882.8,
+        "total_charge_for_credit": 632.8,
+        "amount_of_credit": 2925,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

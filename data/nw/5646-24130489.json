@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:35:08.417Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jjmotors.co.uk/used/kia/picanto/125-gt-line-s-5dr/llanelli/carmarthenshire/21236350",
+    "dealer_id": "5646",
+    "car_id": "24130489",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE68FDA",
+        "registration_date": "01/09/2018",
+        "mileage": 22866,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9595,
+        "total_price": 9595,
+        "deposit": 959.5,
+        "balance": 8635.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.85,
+        "term": 61,
+        "regular_payment": 186.73,
+        "final_payment": 187.73,
+        "total_amount_payable": 12164.3,
+        "total_charge_for_credit": 2569.3,
+        "amount_of_credit": 8635.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

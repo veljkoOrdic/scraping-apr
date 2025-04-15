@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:51:56.008Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-peugeot-e-2008-ampthill-bedfordshire-6749410",
+    "dealer_id": "6807",
+    "car_id": "27274509",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BK73WWY",
+        "registration_date": "18/09/2023",
+        "mileage": 13620,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16989,
+        "total_price": 16989,
+        "deposit": 1698,
+        "balance": 15291,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 320.96,
+        "final_payment": 321.96,
+        "total_amount_payable": 20956.6,
+        "total_charge_for_credit": 3967.6,
+        "amount_of_credit": 15291,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16989,
+        "total_price": 16989,
+        "deposit": 1698,
+        "balance": 15291,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 246.68,
+        "final_payment": 8039.8,
+        "total_amount_payable": 21578.44,
+        "total_charge_for_credit": 4589.44,
+        "amount_of_credit": 15291,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8038.8,
+        "price_to_buy": 8039.8
+      }
+    ]
+  }
+]

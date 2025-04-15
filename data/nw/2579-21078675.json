@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:47:58.652Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abbeygatecars.co.uk/used/ford/kuga/15-ecoblue-120ps-st-line-x-first-edition-6-speed-manual/wymondham/norfolk/20947508",
+    "dealer_id": "2579",
+    "car_id": "21078675",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP70SWZ",
+        "registration_date": "30/10/2020",
+        "mileage": 35038,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 1999.9,
+        "balance": 17999.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.97,
+        "term": 61,
+        "regular_payment": 406.23,
+        "final_payment": 407.23,
+        "total_amount_payable": 26374.7,
+        "total_charge_for_credit": 6375.7,
+        "amount_of_credit": 17999.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 1999.9,
+        "balance": 17999.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.34,
+        "term": 49,
+        "regular_payment": 357.08,
+        "final_payment": 7366.63,
+        "total_amount_payable": 26506.37,
+        "total_charge_for_credit": 6507.37,
+        "amount_of_credit": 17999.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.08,
+        "residual": 7365.63,
+        "price_to_buy": 7366.63
+      }
+    ]
+  }
+]

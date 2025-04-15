@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:23:37.736Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.southlandsmotorcompany.co.uk/used-land-rover-range-rover-sport-whitley-bay-tyne-and-wear-6245430",
+    "dealer_id": "3610",
+    "car_id": "25368283",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BU67VXP",
+        "registration_date": "15/12/2017",
+        "mileage": 48905,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27494,
+        "total_price": 27494,
+        "deposit": 5498,
+        "balance": 21996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 461.7,
+        "final_payment": 462.7,
+        "total_amount_payable": 33201,
+        "total_charge_for_credit": 5707,
+        "amount_of_credit": 21996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

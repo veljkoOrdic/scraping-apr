@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:36:14.900Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetsalesleicester.co.uk/used-peugeot-208-cosby-leicestershire-6714455",
+    "dealer_id": "1583",
+    "car_id": "27199577",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT22YBA",
+        "registration_date": "30/06/2022",
+        "mileage": 62918,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11750,
+        "total_price": 11750,
+        "deposit": 2500,
+        "balance": 9250,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 190.03,
+        "final_payment": 191.03,
+        "total_amount_payable": 13902.8,
+        "total_charge_for_credit": 2152.8,
+        "amount_of_credit": 9250,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11750,
+        "total_price": 11750,
+        "deposit": 2500,
+        "balance": 9250,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 148.33,
+        "final_payment": 4704,
+        "total_amount_payable": 14175.51,
+        "total_charge_for_credit": 2425.51,
+        "amount_of_credit": 9250,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.15,
+        "residual": 4703,
+        "price_to_buy": 4704
+      }
+    ]
+  }
+]

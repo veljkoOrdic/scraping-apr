@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:58:27.905Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotors.co.uk/details/car-in-westlothian/jaguar/xf/2.0d-prestige-auto-awd-euro-6-ss-4dr/1227495/",
+    "dealer_id": "6595",
+    "car_id": "25192081",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG16AGW",
+        "registration_date": "06/06/2016",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8190,
+        "total_price": 8190,
+        "deposit": 0,
+        "balance": 8190,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 171.9,
+        "final_payment": 172.9,
+        "total_amount_payable": 10315,
+        "total_charge_for_credit": 2125,
+        "amount_of_credit": 8190,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:37:27.561Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nathanielcars.co.uk/cars/fiat-e-ducato-35-p-v-tecnico/",
+    "dealer_id": "7300",
+    "car_id": "21653579",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU71FUT",
+        "registration_date": "08/11/2021",
+        "mileage": 3500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23994,
+        "total_price": 23994,
+        "deposit": 5998.5,
+        "balance": 17995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 377.61,
+        "final_payment": 387.61,
+        "total_amount_payable": 28665.1,
+        "total_charge_for_credit": 4671.1,
+        "amount_of_credit": 17995.5,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

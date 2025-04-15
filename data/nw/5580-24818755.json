@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:08:36.849Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pdnagington.co.uk/vehicle-details/used-fiat-ducato-chausson-welcome-85-motorhome-manual-diesel-for-sale-u1526/",
+    "dealer_id": "5580",
+    "car_id": "24818755",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HX58FJD",
+        "registration_date": "01/09/2008",
+        "mileage": 55221,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 13995,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 37405.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

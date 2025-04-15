@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:47:47.967Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bordercityautos.co.uk/used-volkswagen-up!-carlisle-cumbria-6564197",
+    "dealer_id": "8000",
+    "car_id": "26581584",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH62PZV",
+        "registration_date": "05/10/2012",
+        "mileage": 68113,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 0,
+        "balance": 3995,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 29,
+        "regular_payment": 158.03,
+        "final_payment": 159.03,
+        "total_amount_payable": 4583.87,
+        "total_charge_for_credit": 588.87,
+        "amount_of_credit": 3995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

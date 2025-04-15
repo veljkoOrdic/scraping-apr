@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:37:09.612Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstar.co.uk/used-ford-transit-connect-leeds-yorkshire-5267046",
+    "dealer_id": "7201",
+    "car_id": "21220991",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FX19MDE",
+        "registration_date": "13/03/2019",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14386.8,
+        "total_price": 14386.8,
+        "deposit": 0,
+        "balance": 11989,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 262.43,
+        "final_payment": 263.43,
+        "total_amount_payable": 18144.6,
+        "total_charge_for_credit": 3757.8,
+        "amount_of_credit": 11989,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

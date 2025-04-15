@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:48:30.158Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/audi/tt/2.0-tfsi-45-black-edition-s-tronic-quattro-euro-6-ss-3dr/1273714/",
+    "dealer_id": "7543",
+    "car_id": "25771995",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PE19UXG",
+        "registration_date": "12/07/2019",
+        "mileage": 25500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 472.18,
+        "final_payment": 473.18,
+        "total_amount_payable": 30831.3,
+        "total_charge_for_credit": 5836.3,
+        "amount_of_credit": 22495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

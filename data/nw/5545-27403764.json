@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:00:07.819Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/audi-q8-rs-vorsprung-tfsi-mhev-quattro-auto-4wd-in-kent-a6bf6284-988f-4078-9e2a-b29f00be38b0",
+    "dealer_id": "5545",
+    "car_id": "27403764",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC71HFX",
+        "registration_date": "20/01/2022",
+        "mileage": 34250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78490,
+        "total_price": 78490,
+        "deposit": 11773.5,
+        "balance": 66716.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1646.21,
+        "final_payment": 1647.21,
+        "total_amount_payable": 90792.58,
+        "total_charge_for_credit": 12302.58,
+        "amount_of_credit": 66716.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78490,
+        "total_price": 78490,
+        "deposit": 11773.5,
+        "balance": 66716.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.35,
+        "term": 49,
+        "regular_payment": 968.85,
+        "final_payment": 38883.92,
+        "total_amount_payable": 97162.22,
+        "total_charge_for_credit": 18672.22,
+        "amount_of_credit": 66716.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.36,
+        "residual": 38882.92,
+        "price_to_buy": 38883.92
+      }
+    ]
+  }
+]

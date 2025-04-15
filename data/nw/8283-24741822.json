@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:11:49.518Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vansco.co.uk/vehicle-details/used-volkswagen-transporter-tdi-t28-startline-panel-van-2-0-manual-diesel-for-sale-vansco-333-showroom-u10560/",
+    "dealer_id": "8283",
+    "car_id": "24741822",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FN73SFF",
+        "registration_date": "29/09/2023",
+        "mileage": 14364,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 4399,
+        "balance": 21995,
+        "apr": 12.8,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 488.47,
+        "final_payment": 538.47,
+        "total_amount_payable": 33807.2,
+        "total_charge_for_credit": 7413.2,
+        "amount_of_credit": 21995,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 4399,
+        "balance": 21995,
+        "apr": 13.9,
+        "rate_of_interest": 7.25,
+        "term": 49,
+        "regular_payment": 466.98,
+        "final_payment": 7853.5,
+        "balloon": 7852.5,
+        "total_amount_payable": 34667.54,
+        "total_charge_for_credit": 8273.54,
+        "amount_of_credit": 21995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 7852.5,
+        "price_to_buy": 7853.5
+      }
+    ]
+  }
+]

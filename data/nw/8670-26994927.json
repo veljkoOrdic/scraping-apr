@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:55:29.405Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/lamborghini/huracan/5.2-v10-lp-640-4-evo-spyder-ldf-4wd-euro-6-ss-2dr/1373791/",
+    "dealer_id": "8670",
+    "car_id": "26994927",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FJ24WVL",
+        "registration_date": "09/04/2024",
+        "mileage": 2514,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 242495,
+        "total_price": 242495,
+        "deposit": 24249.5,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 256324.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 242495,
+        "total_price": 242495,
+        "deposit": 62495,
+        "balance": 180000,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 2634.69,
+        "final_payment": 112165.5,
+        "total_amount_payable": 298490.93,
+        "total_charge_for_credit": 55995.93,
+        "amount_of_credit": 180000,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.63,
+        "residual": 112165.5,
+        "price_to_buy": 112165.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:06:16.266Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dowstorey.co.uk/cars/landrover/rangeroverevoque/2.0-d180-mhev-first-edition-auto-4wd-euro-6-ss-5dr/1396591/",
+    "dealer_id": "6110",
+    "car_id": "27230651",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE20UCS",
+        "registration_date": "25/06/2020",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 453.29,
+        "final_payment": 454.29,
+        "total_amount_payable": 29597.9,
+        "total_charge_for_credit": 5602.9,
+        "amount_of_credit": 21595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

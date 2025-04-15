@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:38:33.818Z",
+    "source": "new_vehicle_finance",
+    "url": "http://www.mcmullinmotors.co.uk/used/land-rover/defender/hard-top-tdci-22/plymouth/devon/219386",
+    "dealer_id": "4974",
+    "car_id": "23489642",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF62YML",
+        "registration_date": "22/02/2013",
+        "mileage": 98658,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16500,
+        "total_price": 16500,
+        "deposit": 2750,
+        "balance": 13750,
+        "apr": 20.9,
+        "rate_of_interest": 10.96,
+        "term": 48,
+        "regular_payment": 412.07,
+        "final_payment": 412.07,
+        "total_amount_payable": 22529.36,
+        "total_charge_for_credit": 6029.36,
+        "amount_of_credit": 13750,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

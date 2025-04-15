@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:38:58.302Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bridgendvans.co.uk/vehicle-details/used-ford-transit-custom-290-ecoblue-sport-for-sale-in-bridgend-mid-glamorgan-u633/",
+    "dealer_id": "8985",
+    "car_id": "26719169",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WG71DFZ",
+        "registration_date": "17/12/2021",
+        "mileage": 13458,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29994,
+        "total_price": 29994,
+        "deposit": 4999,
+        "balance": 19996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 419.72,
+        "final_payment": 420.72,
+        "total_amount_payable": 35182.2,
+        "total_charge_for_credit": 5188.2,
+        "amount_of_credit": 19996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

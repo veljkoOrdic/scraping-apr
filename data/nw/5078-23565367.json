@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:48:44.748Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heartysofpeterborough.co.uk/used-aston-martin-vantage-peterborough-cambridgeshire-5843731",
+    "dealer_id": "5078",
+    "car_id": "23565367",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KT66KSE",
+        "registration_date": "01/01/2017",
+        "mileage": 10473,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62950,
+        "total_price": 62950,
+        "deposit": 6295,
+        "balance": 56655,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1472.43,
+        "final_payment": 1473.43,
+        "total_amount_payable": 76972.64,
+        "total_charge_for_credit": 14022.64,
+        "amount_of_credit": 56655,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

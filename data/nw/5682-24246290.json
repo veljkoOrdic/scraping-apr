@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:46:22.784Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-cars/vauxhall/astra-electric/ultimate/54kwh-ultimate-hatchback-5dr-electric-auto-156-ps/43198",
+    "dealer_id": "5682",
+    "car_id": "24246290",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FD73HZK",
+        "registration_date": "27/11/2023",
+        "mileage": 12999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30195,
+        "total_price": 30195,
+        "deposit": 1000,
+        "balance": 29195,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 745.93,
+        "final_payment": 746.93,
+        "total_amount_payable": 36805.64,
+        "total_charge_for_credit": 6610.64,
+        "amount_of_credit": 29195,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30195,
+        "total_price": 30195,
+        "deposit": 1000,
+        "balance": 29195,
+        "apr": 10.9,
+        "rate_of_interest": 5.39,
+        "term": 49,
+        "regular_payment": 559.64,
+        "final_payment": 11125,
+        "total_amount_payable": 38987.72,
+        "total_charge_for_credit": 8792.72,
+        "amount_of_credit": 29195,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 11124,
+        "price_to_buy": 11125
+      }
+    ]
+  }
+]

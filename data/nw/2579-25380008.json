@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:49:01.571Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abbeygatecars.co.uk/used/ford/kuga/25-225ps-phev-st-line-5-door-auto/wymondham/norfolk/21375325",
+    "dealer_id": "2579",
+    "car_id": "25380008",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP24VPD",
+        "registration_date": "31/07/2024",
+        "mileage": 100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33699,
+        "total_price": 33699,
+        "deposit": 3369.9,
+        "balance": 30329.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.97,
+        "term": 61,
+        "regular_payment": 684.52,
+        "final_payment": 685.52,
+        "total_amount_payable": 44442.1,
+        "total_charge_for_credit": 10743.1,
+        "amount_of_credit": 30329.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33699,
+        "total_price": 33699,
+        "deposit": 3369.9,
+        "balance": 30329.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.36,
+        "term": 49,
+        "regular_payment": 619.79,
+        "final_payment": 11289.36,
+        "total_amount_payable": 44409.18,
+        "total_charge_for_credit": 10710.18,
+        "amount_of_credit": 30329.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.12,
+        "residual": 11288.36,
+        "price_to_buy": 11289.36
+      }
+    ]
+  }
+]

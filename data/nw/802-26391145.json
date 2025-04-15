@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:04:06.269Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.timhaywardcarsales.co.uk/used-volvo-v70-cardiff-south-glamorgan-5903954",
+    "dealer_id": "802",
+    "car_id": "26391145",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM11YCT",
+        "registration_date": "30/06/2011",
+        "mileage": 88000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5980,
+        "total_price": 5980,
+        "deposit": 598,
+        "balance": 5382,
+        "apr": 11.9,
+        "rate_of_interest": 6.16,
+        "term": 14,
+        "regular_payment": 412.05,
+        "final_payment": 413.05,
+        "total_amount_payable": 6367.7,
+        "total_charge_for_credit": 387.7,
+        "amount_of_credit": 5382,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

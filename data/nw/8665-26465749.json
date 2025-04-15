@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:48:40.480Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shadow-automotive.co.uk/used-bmw-m6-stamford-rutland-6521266",
+    "dealer_id": "8665",
+    "car_id": "26465749",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE17ORF",
+        "registration_date": "20/04/2017",
+        "mileage": 39582,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999,
+        "balance": 26996,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 689.75,
+        "final_payment": 690.75,
+        "total_amount_payable": 36108,
+        "total_charge_for_credit": 6113,
+        "amount_of_credit": 26996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

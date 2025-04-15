@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp": "2025-04-14T22:13:46.257Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-ford-transit-custom-stalybridge-greater-manchester-4267137",
+    "dealer_id": "8078",
+    "car_id": "20576603",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.manchestervansales.com&quoteeUid=6a0b902087a24e24ba65c89dc3a26989&class=lcv&condition=used&vrm=MCRDCAB&registrationDate=11%2F11%2F2021&capCode=&capId=&cashPrice=39995&currentOdometerReading=10000&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F4267%2F4267137%2Ffull%2F107227520.jpg&term=60&cashDeposit=&cashDepositType=flatRate&vatIncluded=false&vatQualifying=true&annualDistance=10000&dateOnForecourt=05%2F04%2F2022&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-04-14T22:13:57.916Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-ford-transit-custom-stalybridge-greater-manchester-4267137",
+    "dealer_id": "8078",
+    "car_id": "20576603",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MCRDCAB",
+        "registration_date": "11/11/2021",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47994,
+        "total_price": 47994,
+        "deposit": 7999,
+        "balance": 39995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 839.53,
+        "final_payment": 839.53,
+        "total_amount_payable": 58370.8,
+        "total_charge_for_credit": 10376.8,
+        "amount_of_credit": 39995,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:27:13.663Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mfimotorgroup.com/used/bmw/3-series/335d-xdrive-m-sport-5dr-step-auto-business-media/london/greater-london/21552746",
+    "dealer_id": "7079",
+    "car_id": "27258707",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CP66LXG",
+        "registration_date": "30/11/2016",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13790,
+        "total_price": 13790,
+        "deposit": 1379,
+        "balance": 12411,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 266.08,
+        "final_payment": 267.08,
+        "total_amount_payable": 17344.8,
+        "total_charge_for_credit": 3554.8,
+        "amount_of_credit": 12411,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

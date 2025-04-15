@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:31:15.952Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-bayon-se-connect-t-gdi-mhev-5-door-blue/cj71kkf",
+    "dealer_id": "7164",
+    "car_id": "26093635",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CJ71KKF",
+        "registration_date": "22/02/2022",
+        "mileage": 57441,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10997,
+        "total_price": 10997,
+        "deposit": 0,
+        "balance": 10997,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 245.58,
+        "final_payment": 255.58,
+        "total_amount_payable": 14744.8,
+        "total_charge_for_credit": 3747.8,
+        "amount_of_credit": 10997,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10997,
+        "total_price": 10997,
+        "deposit": 0,
+        "balance": 10997,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 216.49,
+        "final_payment": 4775.09,
+        "total_amount_payable": 14950.12,
+        "total_charge_for_credit": 3953.12,
+        "amount_of_credit": 10997,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 4765.09,
+        "price_to_buy": 4775.09
+      }
+    ]
+  }
+]

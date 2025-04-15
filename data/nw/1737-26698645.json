@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:13:32.017Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.centralgarageford.co.uk/used/cars/mg/hs/1-5-t-gdi-exclusive-dct-euro-6-s-s-5dr-91",
+    "dealer_id": "1737",
+    "car_id": "26698645",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY21NLC",
+        "registration_date": "08/03/2021",
+        "mileage": 39746,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 9.9,
+        "rate_of_interest": 9.45,
+        "term": 48,
+        "regular_payment": 339.02,
+        "final_payment": 339.02,
+        "total_amount_payable": 17772.96,
+        "total_charge_for_credit": 2772.96,
+        "amount_of_credit": 13500,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 242.96,
+        "final_payment": 5823,
+        "total_amount_payable": 18742.12,
+        "total_charge_for_credit": 3742.12,
+        "amount_of_credit": 13500,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.04,
+        "residual": 5813,
+        "price_to_buy": 5823
+      }
+    ]
+  }
+]

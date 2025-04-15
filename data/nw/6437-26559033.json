@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:22:14.317Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-porsche-718-cayman-peterborough-cambridgeshire-6560710",
+    "dealer_id": "6437",
+    "car_id": "26559033",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LB17AVT",
+        "registration_date": "09/06/2017",
+        "mileage": 19132,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39890,
+        "total_price": 39890,
+        "deposit": 3989,
+        "balance": 35901,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 785.88,
+        "final_payment": 786.88,
+        "total_amount_payable": 51142.8,
+        "total_charge_for_credit": 11252.8,
+        "amount_of_credit": 35901,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

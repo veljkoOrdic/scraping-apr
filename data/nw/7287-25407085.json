@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:26:20.428Z",
+    "source": "new_vehicle_finance",
+    "url": "https://richlee.co.uk/stocklist/20685/renault-trafic-20-trafic-ll30-sport-blue-dci",
+    "dealer_id": "7287",
+    "car_id": "25407085",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT23XCN",
+        "registration_date": "18/05/2023",
+        "mileage": 49851,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21594,
+        "total_price": 21594,
+        "deposit": 2159.4,
+        "balance": 19434.6,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 416.66,
+        "final_payment": 417.66,
+        "total_amount_payable": 27160,
+        "total_charge_for_credit": 5566,
+        "amount_of_credit": 19434.6,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

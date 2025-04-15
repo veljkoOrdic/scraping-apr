@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:43:16.234Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jw-autos.co.uk/used/cars/audi/a1/tfsi-s-line-black-edition-nav-3720",
+    "dealer_id": "8558",
+    "car_id": "25062379",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA67YCD",
+        "registration_date": "11/01/2018",
+        "mileage": 39099,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11300,
+        "total_price": 11300,
+        "deposit": 500,
+        "balance": 10800,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 246.2,
+        "final_payment": 247.2,
+        "total_amount_payable": 15273,
+        "total_charge_for_credit": 3973,
+        "amount_of_credit": 10800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2025-04-15T02:03:28.964Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1333689/used-suzuki-s-cross-1-5-ultra-allgrip-5dr-automatic-rochdale",
+    "dealer_id": "6611",
+    "car_id": "24580027",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA24CJZ",
+        "registration_date": "27/03/2024",
+        "mileage": 230,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24494,
+        "total_price": 24494,
+        "deposit": 8572.9,
+        "balance": 15921.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 48,
+        "regular_payment": 392.85,
+        "final_payment": 392.85,
+        "total_amount_payable": 27429.7,
+        "total_charge_for_credit": 2935.7,
+        "amount_of_credit": 15921.1,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24494,
+        "total_price": 24494,
+        "deposit": 8572.9,
+        "balance": 15921.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 193.27,
+        "final_payment": 11569,
+        "total_amount_payable": 29225.59,
+        "total_charge_for_credit": 4731.59,
+        "amount_of_credit": 15921.1,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.04,
+        "residual": 11559,
+        "price_to_buy": 11569
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-15T02:03:29.065Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1333689/used-suzuki-s-cross-1-5-ultra-allgrip-5dr-automatic-rochdale",
+    "dealer_id": "6611",
+    "car_id": "24580027",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA24CJZ",
+        "registration_date": "27/03/2024",
+        "mileage": 230,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24494,
+        "total_price": 24494,
+        "deposit": 8572.9,
+        "balance": 15921.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 48,
+        "regular_payment": 392.85,
+        "final_payment": 392.85,
+        "total_amount_payable": 27429.7,
+        "total_charge_for_credit": 2935.7,
+        "amount_of_credit": 15921.1,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24494,
+        "total_price": 24494,
+        "deposit": 8572.9,
+        "balance": 15921.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 193.27,
+        "final_payment": 11569,
+        "total_amount_payable": 29225.59,
+        "total_charge_for_credit": 4731.59,
+        "amount_of_credit": 15921.1,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.04,
+        "residual": 11559,
+        "price_to_buy": 11569
+      }
+    ]
+  }
+]

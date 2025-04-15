@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:31:10.109Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/citroen-c1-1-0vti-shine-5dr-5-door-hatchback-green/cj71ayd",
+    "dealer_id": "7164",
+    "car_id": "27358675",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CJ71AYD",
+        "registration_date": "25/01/2022",
+        "mileage": 17462,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9781,
+        "total_price": 9781,
+        "deposit": 0,
+        "balance": 9781,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 218.54,
+        "final_payment": 218.54,
+        "total_amount_payable": 13112.4,
+        "total_charge_for_credit": 3331.4,
+        "amount_of_credit": 9781,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9781,
+        "total_price": 9781,
+        "deposit": 0,
+        "balance": 9781,
+        "apr": 12.9,
+        "rate_of_interest": 6.68,
+        "term": 43,
+        "regular_payment": 223.69,
+        "final_payment": 3343.84,
+        "total_amount_payable": 12738.82,
+        "total_charge_for_credit": 2957.82,
+        "amount_of_credit": 9781,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 28667,
+        "excess_mileage_rate": 0.149,
+        "residual": 3343.84,
+        "price_to_buy": 3343.84
+      }
+    ]
+  }
+]

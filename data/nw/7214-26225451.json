@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:54:12.183Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinfranciscars.com/used-cars/mercedes-benz-glc-300-amg-line-premium-d-4matic-auto/37298",
+    "dealer_id": "7214",
+    "car_id": "26225451",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE22UNF",
+        "registration_date": "21/07/2022",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33450,
+        "total_price": 33450,
+        "deposit": 3345,
+        "balance": 30105,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 631.8,
+        "final_payment": 641.8,
+        "total_amount_payable": 41263,
+        "total_charge_for_credit": 7813,
+        "amount_of_credit": 30105,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33450,
+        "total_price": 33450,
+        "deposit": 3345,
+        "balance": 30105,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 511.62,
+        "final_payment": 14308.75,
+        "total_amount_payable": 42211.51,
+        "total_charge_for_credit": 8761.51,
+        "amount_of_credit": 30105,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.22,
+        "residual": 14298.75,
+        "price_to_buy": 14308.75
+      }
+    ]
+  }
+]

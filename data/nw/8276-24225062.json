@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:06:48.969Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tynevehiclebuyer.co.uk/used/cars/mercedes-benz/m-class/5-0-ml-500-sport-automatic-4wd-lpg-converted-5dr-national-delivery-200",
+    "dealer_id": "8276",
+    "car_id": "24225062",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ06ONU",
+        "registration_date": "16/06/2006",
+        "mileage": 115703,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 100,
+        "balance": 4895,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 129.6,
+        "final_payment": 129.6,
+        "total_amount_payable": 7876,
+        "total_charge_for_credit": 2881,
+        "amount_of_credit": 4895,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

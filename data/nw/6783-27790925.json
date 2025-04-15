@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:43:39.550Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tvscars.co.uk/details/used-car-in-bridgnorth/landrover/defender110/2.0-sd4-first-edition-auto-4wd-euro-6-ss-5dr/1441427/",
+    "dealer_id": "6783",
+    "car_id": "27790925",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BL21AKK",
+        "registration_date": "08/03/2021",
+        "mileage": 46500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45984,
+        "total_price": 45984,
+        "deposit": 4598.4,
+        "balance": 41385.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1039.27,
+        "final_payment": 1040.27,
+        "total_amount_payable": 54484.36,
+        "total_charge_for_credit": 8500.36,
+        "amount_of_credit": 41385.6,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45984,
+        "total_price": 45984,
+        "deposit": 4598.4,
+        "balance": 41385.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 677.09,
+        "final_payment": 21206.38,
+        "total_amount_payable": 58305.1,
+        "total_charge_for_credit": 12321.1,
+        "amount_of_credit": 41385.6,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 21206.38,
+        "price_to_buy": 21206.38
+      }
+    ]
+  }
+]

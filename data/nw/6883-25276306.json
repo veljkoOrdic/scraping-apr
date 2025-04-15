@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:35:33.699Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mortonparkmotorcompany.co.uk/details/car-in-darlington/audi/tt/2.0-tfsi-black-edition-s-tronic-quattro-euro-5-ss-3dr/1233666/",
+    "dealer_id": "6883",
+    "car_id": "25276306",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WW12WBW",
+        "registration_date": "11/05/2012",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11299,
+        "total_price": 11299,
+        "deposit": 0,
+        "balance": 11299,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 24,
+        "regular_payment": 528.14,
+        "final_payment": 529.14,
+        "total_amount_payable": 12676.36,
+        "total_charge_for_credit": 1377.36,
+        "amount_of_credit": 11299,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

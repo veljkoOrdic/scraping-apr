@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:07:43.578Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1stchoicemotors.co.uk/used/porsche/cayenne/e-hybrid-5dr-tiptronic-s/london/greater-london/21472104",
+    "dealer_id": "7884",
+    "car_id": "26323590",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AS14FCH",
+        "registration_date": "02/12/2019",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 2500,
+        "balance": 60495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1269.82,
+        "final_payment": 1270.82,
+        "total_amount_payable": 78690.2,
+        "total_charge_for_credit": 15695.2,
+        "amount_of_credit": 60495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 2500,
+        "balance": 60495,
+        "apr": 12.4,
+        "rate_of_interest": 12.4,
+        "term": 55,
+        "regular_payment": 1173.33,
+        "final_payment": 19589.92,
+        "total_amount_payable": 85449.74,
+        "total_charge_for_credit": 22454.74,
+        "amount_of_credit": 60495,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 0.1,
+        "residual": 19588.92,
+        "price_to_buy": 19589.92
+      }
+    ]
+  }
+]

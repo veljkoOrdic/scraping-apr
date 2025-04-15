@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:02:46.085Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoinfusion.co.uk/used-porsche-panamera-bristol-avon-6176150",
+    "dealer_id": "6607",
+    "car_id": "24970526",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "J17OUM",
+        "registration_date": "20/09/2013",
+        "mileage": 48000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32000,
+        "total_price": 32000,
+        "deposit": 3200,
+        "balance": 28800,
+        "apr": 8.9,
+        "rate_of_interest": 4.59,
+        "term": 41,
+        "regular_payment": 812.57,
+        "final_payment": 813.57,
+        "total_amount_payable": 36516.37,
+        "total_charge_for_credit": 4516.37,
+        "amount_of_credit": 28800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

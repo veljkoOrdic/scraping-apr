@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:21:25.914Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.simpsonmotors.co.uk/used-audi-q3-fife-scotland-6358645",
+    "dealer_id": "8322",
+    "car_id": "25741769",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW67HHB",
+        "registration_date": "30/11/2017",
+        "mileage": 51421,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 2624,
+        "balance": 14871,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 312.14,
+        "final_payment": 313.14,
+        "total_amount_payable": 21353.4,
+        "total_charge_for_credit": 3858.4,
+        "amount_of_credit": 14871,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

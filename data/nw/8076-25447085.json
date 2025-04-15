@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:11:06.389Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/used-vans/citroen-relay-2-2-bluehdi-35-enterprise-l3-h2-euro-6-s-s-5dr-5-door-panel-van-icy-white/wd24utv",
+    "dealer_id": "8076",
+    "car_id": "25447085",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD24UTV",
+        "registration_date": "31/07/2024",
+        "mileage": 2000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29988,
+        "total_price": 29988,
+        "deposit": 7497,
+        "balance": 22491,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 545.15,
+        "final_payment": 545.15,
+        "total_amount_payable": 33664.2,
+        "total_charge_for_credit": 3676.2,
+        "amount_of_credit": 22491,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

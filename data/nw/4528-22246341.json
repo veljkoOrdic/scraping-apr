@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:50:00.224Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.atlasautos.co.uk/used-seat-ibiza-manningtree-essex-5534591",
+    "dealer_id": "4528",
+    "car_id": "22246341",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CY69HFW",
+        "registration_date": "18/02/2020",
+        "mileage": 26000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13500,
+        "total_price": 13500,
+        "deposit": 0,
+        "balance": 13500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 283.36,
+        "final_payment": 284.36,
+        "total_amount_payable": 17002.6,
+        "total_charge_for_credit": 3502.6,
+        "amount_of_credit": 13500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

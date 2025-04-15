@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:55:51.923Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lotus-emira-first-edition-v6-2doors-coupe-manual-petrol?id=1369835",
+    "dealer_id": "6006",
+    "car_id": "25557393",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO73VJV",
+        "registration_date": "30/09/2023",
+        "mileage": 3500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59450,
+        "total_price": 59450,
+        "deposit": 0,
+        "balance": 59450,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1518.98,
+        "final_payment": 1518.98,
+        "total_amount_payable": 72911.04,
+        "total_charge_for_credit": 13461.04,
+        "amount_of_credit": 59450,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

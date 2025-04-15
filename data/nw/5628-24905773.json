@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:22:14.972Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.denburydiesels.co.uk/vehicle-details/used-ford-transit-custom-l1h1-340-ecoblue-for-sale-u18089/",
+    "dealer_id": "5628",
+    "car_id": "24905773",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD19ZBR",
+        "registration_date": "20/05/2019",
+        "mileage": 71960,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13794,
+        "total_price": 13794,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 268.86,
+        "final_payment": 269.86,
+        "total_amount_payable": 16354.78,
+        "total_charge_for_credit": 2560.78,
+        "amount_of_credit": 10345.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

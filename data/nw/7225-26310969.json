@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:04:45.687Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carandcaravanco.co.uk/used-peugeot-boxer-brigg-lincolnshire-6314897",
+    "dealer_id": "7225",
+    "car_id": "26310969",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV22KOH",
+        "registration_date": "31/03/2022",
+        "mileage": 27209,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20340,
+        "total_price": 20340,
+        "deposit": 0,
+        "balance": 16950,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 394.12,
+        "final_payment": 395.12,
+        "total_amount_payable": 27038.2,
+        "total_charge_for_credit": 6698.2,
+        "amount_of_credit": 16950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

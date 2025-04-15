@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:43:29.495Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.monarchmotorco.co.uk/used-bmw-3-series-redditch-worcestershire-6709470",
+    "dealer_id": "2530",
+    "car_id": "27109020",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH21HVM",
+        "registration_date": "19/03/2021",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 1000,
+        "balance": 20490,
+        "apr": 9.6,
+        "rate_of_interest": 5.03,
+        "term": 60,
+        "regular_payment": 427.34,
+        "final_payment": 428.34,
+        "total_amount_payable": 26641.4,
+        "total_charge_for_credit": 5151.4,
+        "amount_of_credit": 20490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21490,
+        "total_price": 21490,
+        "deposit": 1000,
+        "balance": 20490,
+        "apr": 9.6,
+        "rate_of_interest": 4.75,
+        "term": 49,
+        "regular_payment": 374.98,
+        "final_payment": 7966.71,
+        "total_amount_payable": 26965.75,
+        "total_charge_for_credit": 5475.75,
+        "amount_of_credit": 20490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.1,
+        "residual": 7965.71,
+        "price_to_buy": 7966.71
+      }
+    ]
+  }
+]

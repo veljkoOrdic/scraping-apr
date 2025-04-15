@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:10:46.391Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.llanellimotorcompany.co.uk/used-vehicle-details/Mercedes-Benz-A-Class-U8287/",
+    "dealer_id": "7446",
+    "car_id": "20704284",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD69HHT",
+        "registration_date": "31/01/2020",
+        "mileage": 27964,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 395.41,
+        "final_payment": 396.41,
+        "total_amount_payable": 20730.18,
+        "total_charge_for_credit": 3235.18,
+        "amount_of_credit": 15745.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

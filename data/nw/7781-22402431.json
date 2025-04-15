@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:46:05.829Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.moravianmotors.co.uk/used/bmw/m3/competition-auto/buckie/aberdeenshire/21080463",
+    "dealer_id": "7781",
+    "car_id": "22402431",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN22BYA",
+        "registration_date": "22/04/2022",
+        "mileage": 20801,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53995,
+        "total_price": 53995,
+        "deposit": 5399.5,
+        "balance": 48595.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 1085.77,
+        "final_payment": 1085.77,
+        "total_amount_payable": 70545.7,
+        "total_charge_for_credit": 16550.7,
+        "amount_of_credit": 48595.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53995,
+        "total_price": 53995,
+        "deposit": 5399.5,
+        "balance": 48595.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 871.77,
+        "final_payment": 26235,
+        "total_amount_payable": 72607.69,
+        "total_charge_for_credit": 18612.69,
+        "amount_of_credit": 48595.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 26235,
+        "price_to_buy": 26235
+      }
+    ]
+  }
+]

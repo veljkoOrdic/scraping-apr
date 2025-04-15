@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:53:32.020Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.platinumcarsalesltd.co.uk/used-cars/merthyr-tydfil-ford-fiesta-st-2-turbo-mountune-stage-220bhp/",
+    "dealer_id": "8180",
+    "car_id": "21054531",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "K99OJM",
+        "registration_date": "31/03/2016",
+        "mileage": 94000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 180.7,
+        "final_payment": 180.7,
+        "total_amount_payable": 9473.1,
+        "total_charge_for_credit": 1478.1,
+        "amount_of_credit": 7195.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

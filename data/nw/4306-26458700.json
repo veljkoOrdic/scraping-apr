@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:59:46.157Z",
+    "source": "new_vehicle_finance",
+    "url": "https://jpmotortrade.co.uk/vehicle/name/peugeot-partner-bluehdi-asphalt-l1/",
+    "dealer_id": "4306",
+    "car_id": "26458700",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN69GBO",
+        "registration_date": "31/01/2020",
+        "mileage": 79471,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9000,
+        "total_price": 9000,
+        "deposit": 0,
+        "balance": 9000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 201.07,
+        "final_payment": 202.07,
+        "total_amount_payable": 12065.2,
+        "total_charge_for_credit": 3065.2,
+        "amount_of_credit": 9000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:44:08.092Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westcountrycarsyeovil.co.uk/used-audi-a7-yeovil-somerset-5560999",
+    "dealer_id": "3717",
+    "car_id": "22480391",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD68XYB",
+        "registration_date": "15/01/2019",
+        "mileage": 70700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22500,
+        "total_price": 22500,
+        "deposit": 2250,
+        "balance": 20250,
+        "apr": 9.4,
+        "rate_of_interest": 4.86,
+        "term": 48,
+        "regular_payment": 503.92,
+        "final_payment": 513.92,
+        "total_amount_payable": 26448.16,
+        "total_charge_for_credit": 3948.16,
+        "amount_of_credit": 20250,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

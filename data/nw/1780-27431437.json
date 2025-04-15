@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:15:28.089Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hewaswatergarage.com/details/used-car-in-pl26-7jf/jaguar/f-type/3.0-v6-s-auto-euro-5-ss-2dr/1411195/",
+    "dealer_id": "1780",
+    "car_id": "27431437",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ64XSR",
+        "registration_date": "22/09/2014",
+        "mileage": 45000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.16,
+        "term": 53,
+        "regular_payment": 521.09,
+        "final_payment": 522.09,
+        "total_amount_payable": 30118.27,
+        "total_charge_for_credit": 5123.27,
+        "amount_of_credit": 22495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

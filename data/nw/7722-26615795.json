@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:26:29.030Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.szmotorgroup.co.uk/details/used-car-in-nottingham/mercedes-benz/gleclass/2.0-gle300d-amg-line-premium-g-tronic-4matic-euro-6-ss-5dr/1343276/",
+    "dealer_id": "7722",
+    "car_id": "26615795",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK69LJC",
+        "registration_date": "30/09/2019",
+        "mileage": 109779,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849.5,
+        "balance": 25645.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 538.19,
+        "final_payment": 548.19,
+        "total_amount_payable": 35150.9,
+        "total_charge_for_credit": 6655.9,
+        "amount_of_credit": 25645.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

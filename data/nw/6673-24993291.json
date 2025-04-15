@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:18:21.878Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fiveacresgarage.uk/used-car-details/used-vauxhall-grandland-x-12-turbo-sri-nav-5dr-hatchback-white-manual-petrol/id-3436/",
+    "dealer_id": "6673",
+    "car_id": "24993291",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CP21KNH",
+        "registration_date": "28/06/2021",
+        "mileage": 20946,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13499,
+        "total_price": 13499,
+        "deposit": 1349,
+        "balance": 12150,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 265.96,
+        "final_payment": 266.96,
+        "total_amount_payable": 17307.6,
+        "total_charge_for_credit": 3808.6,
+        "amount_of_credit": 12150,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13499,
+        "total_price": 13499,
+        "deposit": 1349,
+        "balance": 12150,
+        "apr": 11.9,
+        "rate_of_interest": 5.82,
+        "term": 49,
+        "regular_payment": 221.28,
+        "final_payment": 5754.13,
+        "total_amount_payable": 17724.57,
+        "total_charge_for_credit": 4225.57,
+        "amount_of_credit": 12150,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 5753.13,
+        "price_to_buy": 5754.13
+      }
+    ]
+  }
+]

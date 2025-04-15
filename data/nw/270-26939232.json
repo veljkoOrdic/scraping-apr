@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:14:20.512Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorland2008ltd.co.uk/used-audi-a4-walsall-west-midlands-6666300",
+    "dealer_id": "270",
+    "car_id": "26939232",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV20VUN",
+        "registration_date": "24/07/2020",
+        "mileage": 77000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 2000,
+        "balance": 18000,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 410.34,
+        "final_payment": 411.34,
+        "total_amount_payable": 26621.4,
+        "total_charge_for_credit": 6621.4,
+        "amount_of_credit": 18000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

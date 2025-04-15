@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:29:14.388Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-tesla-model-y-long-range-for-sale-grm-autos-grange-road-u1033/",
+    "dealer_id": "6238",
+    "car_id": "22001170",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ22EOA",
+        "registration_date": "31/03/2022",
+        "mileage": 9542,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.67,
+        "term": 60,
+        "regular_payment": 750.73,
+        "final_payment": 760.73,
+        "total_amount_payable": 48953.3,
+        "total_charge_for_credit": 9958.3,
+        "amount_of_credit": 35095.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899.5,
+        "balance": 35095.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.61,
+        "term": 49,
+        "regular_payment": 621.28,
+        "final_payment": 16323,
+        "total_amount_payable": 50043.94,
+        "total_charge_for_credit": 11048.94,
+        "amount_of_credit": 35095.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 16313,
+        "price_to_buy": 16323
+      }
+    ]
+  }
+]

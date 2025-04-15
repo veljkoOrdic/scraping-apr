@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:49:11.966Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caledoniavehiclesolutions.co.uk/used-land-rover-range-rover-sport-ayr-ayrshire-6842273",
+    "dealer_id": "3208",
+    "car_id": "27652180",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "V81SAL",
+        "registration_date": "16/01/2020",
+        "mileage": 42942,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999,
+        "balance": 44996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 944.49,
+        "final_payment": 945.49,
+        "total_amount_payable": 61669.4,
+        "total_charge_for_credit": 11674.4,
+        "amount_of_credit": 44996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999,
+        "balance": 44996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 57,
+        "regular_payment": 745.07,
+        "final_payment": 17822.19,
+        "total_amount_payable": 64545.11,
+        "total_charge_for_credit": 14550.11,
+        "amount_of_credit": 44996,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 47500,
+        "excess_mileage_rate": 0.09,
+        "residual": 17821.19,
+        "price_to_buy": 17822.19
+      }
+    ]
+  }
+]

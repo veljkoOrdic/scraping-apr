@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:24:30.963Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.paulmorriscars.co.uk/used-land-rover-range-rover-chelmsford-essex-6492512",
+    "dealer_id": "1334",
+    "car_id": "26265128",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DK73WNX",
+        "registration_date": "29/09/2023",
+        "mileage": 12400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95000,
+        "total_price": 95000,
+        "deposit": 500,
+        "balance": 94500,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1941.37,
+        "final_payment": 1942.37,
+        "total_amount_payable": 116983.2,
+        "total_charge_for_credit": 21983.2,
+        "amount_of_credit": 94500,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 95000,
+        "total_price": 95000,
+        "deposit": 500,
+        "balance": 94500,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1542.42,
+        "final_payment": 31285.71,
+        "total_amount_payable": 122788.49,
+        "total_charge_for_credit": 27788.49,
+        "amount_of_credit": 94500,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.16,
+        "residual": 31284.71,
+        "price_to_buy": 31285.71
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:23:27.262Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.simpsonmotors.co.uk/used-porsche-macan-fife-scotland-6787518",
+    "dealer_id": "8322",
+    "car_id": "27424147",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD72CVY",
+        "registration_date": "31/01/2023",
+        "mileage": 14168,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 8999,
+        "balance": 50996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1070.43,
+        "final_payment": 1071.43,
+        "total_amount_payable": 73225.8,
+        "total_charge_for_credit": 13230.8,
+        "amount_of_credit": 50996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 8999,
+        "balance": 50996,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 831.75,
+        "final_payment": 26281.64,
+        "total_amount_payable": 75204.64,
+        "total_charge_for_credit": 15209.64,
+        "amount_of_credit": 50996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.24,
+        "residual": 26280.64,
+        "price_to_buy": 26281.64
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:57:46.946Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hcl-ltd.com/details/used-car-in-ashford/bmw/x7/3.0-30d-m-sport-auto-xdrive-euro-6-ss-5dr/1414836/",
+    "dealer_id": "3275",
+    "car_id": "27476501",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY70HXH",
+        "registration_date": "28/09/2020",
+        "mileage": 52000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49490,
+        "total_price": 49490,
+        "deposit": 4949,
+        "balance": 44541,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 915.02,
+        "final_payment": 916.02,
+        "total_amount_payable": 59851.2,
+        "total_charge_for_credit": 10361.2,
+        "amount_of_credit": 44541,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49490,
+        "total_price": 49490,
+        "deposit": 4949,
+        "balance": 44541,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 740.04,
+        "final_payment": 20608.14,
+        "total_amount_payable": 61079.06,
+        "total_charge_for_credit": 11589.06,
+        "amount_of_credit": 44541,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 20607.14,
+        "price_to_buy": 20608.14
+      }
+    ]
+  }
+]

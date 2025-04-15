@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:47:34.221Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.greenawayautos.co.uk/details/car-in-pontypridd/mercedes-benz/glcclass/2.0-glc220d-amg-line-premium-coupe-g-tronic+-4matic-euro-6-ss-5dr/1406858/",
+    "dealer_id": "7997",
+    "car_id": "27376750",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LN69GPU",
+        "registration_date": "18/09/2019",
+        "mileage": 69999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25991,
+        "total_price": 25991,
+        "deposit": 2599.1,
+        "balance": 23391.9,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 533.25,
+        "final_payment": 534.25,
+        "total_amount_payable": 34595.1,
+        "total_charge_for_credit": 8604.1,
+        "amount_of_credit": 23391.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

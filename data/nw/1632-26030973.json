@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:50:41.974Z",
+    "source": "new_vehicle_finance",
+    "url": "https://northparkcarsales.co.uk/vehicle/name/jaguar-xe-r-dynamic-s-balance-after-1000-minimum-px-allowance-14990-tc-apply/",
+    "dealer_id": "1632",
+    "car_id": "26030973",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FJ69XLN",
+        "registration_date": "30/09/2019",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 0,
+        "balance": 14990,
+        "apr": 12,
+        "rate_of_interest": 6.31,
+        "term": 60,
+        "regular_payment": 328.69,
+        "final_payment": 338.69,
+        "total_amount_payable": 19731.4,
+        "total_charge_for_credit": 4741.4,
+        "amount_of_credit": 14990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

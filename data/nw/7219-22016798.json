@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:55:39.088Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.saveonusedcars.co.uk/used/bmw/4-series/420d-190-m-sport-5dr-auto-professional-media/scunthorpe/lincolnshire/21048001",
+    "dealer_id": "7219",
+    "car_id": "22016798",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK66AUN",
+        "registration_date": "02/11/2016",
+        "mileage": 71564,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13985,
+        "total_price": 13985,
+        "deposit": 2000,
+        "balance": 11985,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 316.74,
+        "final_payment": 317.74,
+        "total_amount_payable": 17204.52,
+        "total_charge_for_credit": 3219.52,
+        "amount_of_credit": 11985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

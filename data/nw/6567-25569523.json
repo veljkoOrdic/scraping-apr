@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:57:10.356Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.victoriamotorsltd.co.uk/used-honda-cr-v-nr-gillingham-dorset-6198593",
+    "dealer_id": "6567",
+    "car_id": "25569523",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN71XVA",
+        "registration_date": "21/10/2021",
+        "mileage": 32327,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 1074,
+        "balance": 20421,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 442.29,
+        "final_payment": 452.29,
+        "total_amount_payable": 27621.4,
+        "total_charge_for_credit": 6126.4,
+        "amount_of_credit": 20421,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 1074,
+        "balance": 20421,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 49,
+        "regular_payment": 368.25,
+        "final_payment": 9528,
+        "total_amount_payable": 28278,
+        "total_charge_for_credit": 6783,
+        "amount_of_credit": 20421,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 9518,
+        "price_to_buy": 9528
+      }
+    ]
+  }
+]

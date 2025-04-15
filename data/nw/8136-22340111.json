@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:30:21.225Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.commercialvans.co.uk/vans/volkswagen/transporter/t32-2.0-tdi-highline-bluemotion-swb/1021747/",
+    "dealer_id": "8136",
+    "car_id": "22340111",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VN69NCA",
+        "registration_date": "18/11/2019",
+        "mileage": 44031,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32394,
+        "total_price": 32394,
+        "deposit": 1349.75,
+        "balance": 25645.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 655.23,
+        "final_payment": 656.23,
+        "total_amount_payable": 38200.79,
+        "total_charge_for_credit": 5806.79,
+        "amount_of_credit": 25645.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:10:18.718Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellacars.co.uk/used-bmw-3-series-huddersfield-west-yorkshire-6760101",
+    "dealer_id": "253",
+    "car_id": "27299234",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SN21ZLL",
+        "registration_date": "12/03/2021",
+        "mileage": 41400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28990,
+        "total_price": 28990,
+        "deposit": 1000,
+        "balance": 27990,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 574.88,
+        "final_payment": 584.88,
+        "total_amount_payable": 35502.8,
+        "total_charge_for_credit": 6512.8,
+        "amount_of_credit": 27990,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28990,
+        "total_price": 28990,
+        "deposit": 1000,
+        "balance": 27990,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 473.33,
+        "final_payment": 12475,
+        "total_amount_payable": 36194.84,
+        "total_charge_for_credit": 7204.84,
+        "amount_of_credit": 27990,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 12465,
+        "price_to_buy": 12475
+      }
+    ]
+  }
+]

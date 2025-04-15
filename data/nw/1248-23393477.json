@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:50:31.004Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.iandsmotorswrexham.co.uk/used-mini-hatch-cooper-wrexham-clwyd-5804357",
+    "dealer_id": "1248",
+    "car_id": "23393477",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ70DPU",
+        "registration_date": "29/09/2020",
+        "mileage": 19677,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16795,
+        "total_price": 16795,
+        "deposit": 0,
+        "balance": 16795,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 352.53,
+        "final_payment": 353.53,
+        "total_amount_payable": 21152.8,
+        "total_charge_for_credit": 4357.8,
+        "amount_of_credit": 16795,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16795,
+        "total_price": 16795,
+        "deposit": 0,
+        "balance": 16795,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 289.81,
+        "final_payment": 7725.66,
+        "total_amount_payable": 21636.54,
+        "total_charge_for_credit": 4841.54,
+        "amount_of_credit": 16795,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7724.66,
+        "price_to_buy": 7725.66
+      }
+    ]
+  }
+]

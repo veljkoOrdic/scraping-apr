@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:25:42.772Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillagebristol.com/used-audi-sq7-bristol-somerset-6392571",
+    "dealer_id": "2288",
+    "car_id": "25884617",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ18WHZ",
+        "registration_date": "22/06/2018",
+        "mileage": 82000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699,
+        "balance": 33296,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 698.91,
+        "final_payment": 699.91,
+        "total_amount_payable": 45634.6,
+        "total_charge_for_credit": 8639.6,
+        "amount_of_credit": 33296,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

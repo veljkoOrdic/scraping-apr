@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:35:55.060Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcar.co.uk/used-cars/renault/captur-hybrid-electric-highland-grey-black-hatchback-CMZ4372",
+    "dealer_id": "5433",
+    "car_id": "25400725",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CMZ4372",
+        "registration_date": "27/11/2023",
+        "mileage": 3200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 999,
+        "balance": 19000,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 493.64,
+        "final_payment": 503.64,
+        "total_amount_payable": 24703.72,
+        "total_charge_for_credit": 4704.72,
+        "amount_of_credit": 19000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 999,
+        "balance": 19000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 324.66,
+        "final_payment": 10529,
+        "total_amount_payable": 26787.02,
+        "total_charge_for_credit": 6788.02,
+        "amount_of_credit": 19000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.05,
+        "residual": 10528,
+        "price_to_buy": 10529
+      }
+    ]
+  }
+]

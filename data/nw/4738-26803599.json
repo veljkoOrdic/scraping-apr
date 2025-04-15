@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:44:54.668Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.spirecarsltd.co.uk/details/used-car-in-middlesex/porsche/macan/2.0t-pdk-4wd-euro-6-ss-5dr/1358524/",
+    "dealer_id": "4738",
+    "car_id": "26803599",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV19MGX",
+        "registration_date": "01/03/2019",
+        "mileage": 49246,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32990,
+        "total_price": 32990,
+        "deposit": 3299,
+        "balance": 29691,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 609.95,
+        "final_payment": 610.95,
+        "total_amount_payable": 39897,
+        "total_charge_for_credit": 6907,
+        "amount_of_credit": 29691,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32990,
+        "total_price": 32990,
+        "deposit": 3299,
+        "balance": 29691,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 46,
+        "regular_payment": 506.65,
+        "final_payment": 16169,
+        "total_amount_payable": 42267.25,
+        "total_charge_for_credit": 9277.25,
+        "amount_of_credit": 29691,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 38333,
+        "excess_mileage_rate": 0.07,
+        "residual": 16168,
+        "price_to_buy": 16169
+      }
+    ]
+  }
+]

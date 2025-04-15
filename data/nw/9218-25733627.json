@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:12:24.916Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.norwichcarstore.co.uk/used-audi-a1-norwich-norfolk-6060667",
+    "dealer_id": "9218",
+    "car_id": "25733627",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO14XZU",
+        "registration_date": "31/07/2014",
+        "mileage": 21676,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949,
+        "balance": 8546,
+        "apr": 9.9,
+        "rate_of_interest": 5.15,
+        "term": 51,
+        "regular_payment": 204.21,
+        "final_payment": 205.21,
+        "total_amount_payable": 11364.71,
+        "total_charge_for_credit": 1869.71,
+        "amount_of_credit": 8546,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

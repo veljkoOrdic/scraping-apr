@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:27:05.184Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hewsonmotorhub.co.uk/vehicle-details/used-caterham-seven-roadsport-125-1-6-140-bhp-for-sale-in-market-harborough-leicestershire-u1479/",
+    "dealer_id": "6690",
+    "car_id": "24619874",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU60CDO",
+        "registration_date": "23/11/2010",
+        "mileage": 30908,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 0,
+        "balance": 19000,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 43,
+        "regular_payment": 514.62,
+        "final_payment": 514.62,
+        "total_amount_payable": 22128.66,
+        "total_charge_for_credit": 3128.66,
+        "amount_of_credit": 19000,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:03:47.235Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1344744/used-kia-sportage-1-6-gt-line-s-phev-5dr-automatic-rochdale",
+    "dealer_id": "6611",
+    "car_id": "26089964",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD73VXF",
+        "registration_date": "10/01/2024",
+        "mileage": 10593,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35494,
+        "total_price": 35494,
+        "deposit": 12422.9,
+        "balance": 23071.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 569.28,
+        "final_payment": 569.28,
+        "total_amount_payable": 39748.34,
+        "total_charge_for_credit": 4254.34,
+        "amount_of_credit": 23071.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35494,
+        "total_price": 35494,
+        "deposit": 12422.9,
+        "balance": 23071.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 269.48,
+        "final_payment": 17209.31,
+        "total_amount_payable": 42567.25,
+        "total_charge_for_credit": 7073.25,
+        "amount_of_credit": 23071.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 17209.31,
+        "price_to_buy": 17209.31
+      }
+    ]
+  }
+]

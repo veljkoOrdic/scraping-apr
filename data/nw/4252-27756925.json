@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:44:25.085Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.alphacarsonlinenyorks.co.uk/used-volkswagen-california-catterick-garrison-north-yorkshire-6868345",
+    "dealer_id": "4252",
+    "car_id": "27756925",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GU16VGC",
+        "registration_date": "28/04/2016",
+        "mileage": 63016,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 0,
+        "balance": 43995,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1143.4,
+        "final_payment": 1144.4,
+        "total_amount_payable": 54884.2,
+        "total_charge_for_credit": 10889.2,
+        "amount_of_credit": 43995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:58:39.036Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jmmotorsltd.co.uk/used-volkswagen-caddy-maxi-harefield-middlesex-4770252",
+    "dealer_id": "4821",
+    "car_id": "20896253",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RF66DVA",
+        "registration_date": "12/12/2016",
+        "mileage": 56569,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17340,
+        "total_price": 17340,
+        "deposit": 0,
+        "balance": 14450,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 55,
+        "regular_payment": 337.78,
+        "final_payment": 338.78,
+        "total_amount_payable": 21468.9,
+        "total_charge_for_credit": 4128.9,
+        "amount_of_credit": 14450,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

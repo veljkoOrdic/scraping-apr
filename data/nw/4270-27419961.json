@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:50:23.388Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mdpatrickmotors.co.uk/details/used-van-in-chester-le-street/volkswagen/transportershuttle/2.0-tdi-s-fwd-swb-euro-6-ss-5dr/1410551/",
+    "dealer_id": "4270",
+    "car_id": "27419961",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP69CTZ",
+        "registration_date": "16/10/2019",
+        "mileage": 48717,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 0,
+        "balance": 19995.83,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 419.71,
+        "final_payment": 420.71,
+        "total_amount_payable": 29182.77,
+        "total_charge_for_credit": 5187.77,
+        "amount_of_credit": 19995.83,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

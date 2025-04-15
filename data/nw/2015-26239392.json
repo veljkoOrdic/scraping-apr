@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:37:29.811Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.goodautos.co.uk/used-land-rover-range-rover-evoque-saintfield-county-down-6483830",
+    "dealer_id": "2015",
+    "car_id": "26239392",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PY14RUH",
+        "registration_date": "01/03/2014",
+        "mileage": 54592,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299,
+        "balance": 11696,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 46,
+        "regular_payment": 309.32,
+        "final_payment": 310.32,
+        "total_amount_payable": 15528.72,
+        "total_charge_for_credit": 2533.72,
+        "amount_of_credit": 11696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

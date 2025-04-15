@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:08:36.915Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartsofhoniton.co.uk/used/nissan/micra/15-acenta-dci-turbo-diesel-5dr/honiton/devon/21558968",
+    "dealer_id": "8739",
+    "car_id": "27404329",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN18JYV",
+        "registration_date": "31/03/2018",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749.5,
+        "balance": 6745.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 150.7,
+        "final_payment": 151.7,
+        "total_amount_payable": 9792.5,
+        "total_charge_for_credit": 2297.5,
+        "amount_of_credit": 6745.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

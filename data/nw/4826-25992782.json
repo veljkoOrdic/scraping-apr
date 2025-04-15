@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:03:41.087Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caldermotor.co.uk/used-bmw-x1-west-lothian-scotland-6370683",
+    "dealer_id": "4826",
+    "car_id": "25992782",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SN19SRD",
+        "registration_date": "28/06/2019",
+        "mileage": 53500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 332.71,
+        "final_payment": 333.71,
+        "total_amount_payable": 21762.6,
+        "total_charge_for_credit": 3767.6,
+        "amount_of_credit": 16196,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 39,
+        "regular_payment": 336.32,
+        "final_payment": 7057,
+        "total_amount_payable": 21636.16,
+        "total_charge_for_credit": 3641.16,
+        "amount_of_credit": 16196,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 32500,
+        "excess_mileage_rate": 0.09,
+        "residual": 7047,
+        "price_to_buy": 7057
+      }
+    ]
+  }
+]

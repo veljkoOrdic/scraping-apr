@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:20:23.539Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/audi/s3/2.0-tfsi-sportback-s-tronic-quattro-euro-6-ss-5dr/1435013/",
+    "dealer_id": "4058",
+    "car_id": "27724920",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ22EPK",
+        "registration_date": "01/03/2022",
+        "mileage": 15500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31500,
+        "total_price": 31500,
+        "deposit": 6300,
+        "balance": 25200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 528.95,
+        "final_payment": 529.95,
+        "total_amount_payable": 38038,
+        "total_charge_for_credit": 6538,
+        "amount_of_credit": 25200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31500,
+        "total_price": 31500,
+        "deposit": 6300,
+        "balance": 25200,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 390.3,
+        "final_payment": 14200.08,
+        "total_amount_payable": 39234.48,
+        "total_charge_for_credit": 7734.48,
+        "amount_of_credit": 25200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 14199.08,
+        "price_to_buy": 14200.08
+      }
+    ]
+  }
+]

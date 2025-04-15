@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:19:43.031Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.simpsonmotors.co.uk/used-vauxhall-corsa-fife-scotland-6821672",
+    "dealer_id": "8322",
+    "car_id": "27636567",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD65FDV",
+        "registration_date": "11/09/2015",
+        "mileage": 56023,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 749,
+        "balance": 4246,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 89.11,
+        "final_payment": 90.11,
+        "total_amount_payable": 6096.6,
+        "total_charge_for_credit": 1101.6,
+        "amount_of_credit": 4246,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

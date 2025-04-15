@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:12:57.029Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuevehicles.co.uk/used/cars/volkswagen/golf/2-0-golf-gtd-semi-automatic-5dr-national-delivery-284",
+    "dealer_id": "2792",
+    "car_id": "25738068",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN66RXP",
+        "registration_date": "28/09/2016",
+        "mileage": 54682,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 100,
+        "balance": 12895,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 270.68,
+        "final_payment": 271.68,
+        "total_amount_payable": 16341.8,
+        "total_charge_for_credit": 3346.8,
+        "amount_of_credit": 12895,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

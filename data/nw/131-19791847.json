@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:20:39.943Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rdmdirect.co.uk/used-mercedes-benz-c-class-burton-on-trent-staffordshire-4960727",
+    "dealer_id": "131",
+    "car_id": "19791847",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS14FVH",
+        "registration_date": "27/03/2014",
+        "mileage": 75508,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8500,
+        "total_price": 8500,
+        "deposit": 300,
+        "balance": 8200,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 216.71,
+        "final_payment": 217.71,
+        "total_amount_payable": 10703.08,
+        "total_charge_for_credit": 2203.08,
+        "amount_of_credit": 8200,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

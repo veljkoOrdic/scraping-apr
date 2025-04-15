@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:24:52.976Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.haslucksgreenmotor.co.uk/used-mini-countryman-solihull-west-midlands-6652875",
+    "dealer_id": "4356",
+    "car_id": "26887703",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD67LNU",
+        "registration_date": "31/01/2018",
+        "mileage": 48603,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1299,
+        "balance": 11700,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 261.4,
+        "final_payment": 262.4,
+        "total_amount_payable": 16984,
+        "total_charge_for_credit": 3985,
+        "amount_of_credit": 11700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

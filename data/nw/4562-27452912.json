@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:05:11.862Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eagleshamgarage.co.uk/vehicle-details/used-subaru-forester-i-e-boxer-xe-premium-for-sale-in-eaglesham-glasgow-u381/",
+    "dealer_id": "4562",
+    "car_id": "27452912",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BW69OCB",
+        "registration_date": "27/12/2019",
+        "mileage": 19002,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 1099.75,
+        "balance": 20895.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 438.59,
+        "final_payment": 439.59,
+        "total_amount_payable": 27416.15,
+        "total_charge_for_credit": 5421.15,
+        "amount_of_credit": 20895.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

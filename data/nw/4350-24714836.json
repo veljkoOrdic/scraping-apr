@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:20:09.270Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macsonscars.co.uk/cars/isuzu/forward/0/1192888/",
+    "dealer_id": "4350",
+    "car_id": "24714836",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LT73EWS",
+        "registration_date": "02/01/2024",
+        "mileage": 600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43200,
+        "total_price": 43200,
+        "deposit": 0,
+        "balance": 36000,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 771.82,
+        "final_payment": 772.82,
+        "total_amount_payable": 53510.2,
+        "total_charge_for_credit": 10310.2,
+        "amount_of_credit": 36000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

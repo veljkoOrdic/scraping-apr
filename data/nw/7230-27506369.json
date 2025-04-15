@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:18:09.315Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beehivecars.co.uk/used-audi-s3-bolton-lancashire-6713907",
+    "dealer_id": "7230",
+    "car_id": "27506369",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX20CWR",
+        "registration_date": "01/03/2020",
+        "mileage": 16068,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26450,
+        "total_price": 26450,
+        "deposit": 2645,
+        "balance": 23805,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 597.8,
+        "final_payment": 597.8,
+        "total_amount_payable": 31339.4,
+        "total_charge_for_credit": 4889.4,
+        "amount_of_credit": 23805,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26450,
+        "total_price": 26450,
+        "deposit": 2645,
+        "balance": 23805,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 45,
+        "regular_payment": 406.83,
+        "final_payment": 12444,
+        "total_amount_payable": 32989.52,
+        "total_charge_for_credit": 6539.52,
+        "amount_of_credit": 23805,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 0.15,
+        "residual": 12443,
+        "price_to_buy": 12444
+      }
+    ]
+  }
+]

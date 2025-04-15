@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:14:23.849Z",
+    "source": "new_vehicle_finance",
+    "url": "https://birstallmotorvillage.co.uk/vehicle/name/ford-fiesta-titanium-x-5/",
+    "dealer_id": "2794",
+    "car_id": "26405635",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX63SNZ",
+        "registration_date": "11/09/2013",
+        "mileage": 55825,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5495,
+        "total_price": 5495,
+        "deposit": 549.5,
+        "balance": 4945.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 36,
+        "regular_payment": 158.34,
+        "final_payment": 159.34,
+        "total_amount_payable": 6250.74,
+        "total_charge_for_credit": 755.74,
+        "amount_of_credit": 4945.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

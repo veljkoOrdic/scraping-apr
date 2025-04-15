@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:36:54.566Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.parklandmotors.co.uk/used-land-rover-range-rover-sport-costock-leicestershire-6653351",
+    "dealer_id": "3677",
+    "car_id": "26914941",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GU21RUR",
+        "registration_date": "04/03/2021",
+        "mileage": 23403,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399,
+        "balance": 39596,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 866.65,
+        "final_payment": 876.65,
+        "total_amount_payable": 56408,
+        "total_charge_for_credit": 12413,
+        "amount_of_credit": 39596,
+        "lender": "Tandem",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399,
+        "balance": 39596,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 676.12,
+        "final_payment": 18632,
+        "total_amount_payable": 55484.76,
+        "total_charge_for_credit": 11489.76,
+        "amount_of_credit": 39596,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 18632,
+        "price_to_buy": 18632
+      }
+    ]
+  }
+]

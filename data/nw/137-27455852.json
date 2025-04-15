@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:26:01.486Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.danielmaxwellcarsales.co.uk/detail/1353993/used-bmw-1-series-2-0-120d-se-5dr-stockport",
+    "dealer_id": "137",
+    "car_id": "27455852",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY61CZD",
+        "registration_date": "20/10/2011",
+        "mileage": 115290,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3981,
+        "total_price": 3981,
+        "deposit": 200,
+        "balance": 3781,
+        "apr": 10.9,
+        "rate_of_interest": 5.6,
+        "term": 18,
+        "regular_payment": 227.7,
+        "final_payment": 228.7,
+        "total_amount_payable": 4299.6,
+        "total_charge_for_credit": 318.6,
+        "amount_of_credit": 3781,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:00:17.072Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.find-me-a-car.co.uk/used-toyota-rav4-devon-devon-6324198",
+    "dealer_id": "6921",
+    "car_id": "25583429",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WU69ZZE",
+        "registration_date": "10/09/2019",
+        "mileage": 44521,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 949,
+        "balance": 18046,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 403.19,
+        "final_payment": 404.19,
+        "total_amount_payable": 25141.4,
+        "total_charge_for_credit": 6146.4,
+        "amount_of_credit": 18046,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

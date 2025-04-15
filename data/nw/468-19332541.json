@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:54:40.928Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmotorcompany.co.uk/used-jaguar-i-pace-stoke-on-trent-staffordshire-4490389",
+    "dealer_id": "468",
+    "car_id": "19332541",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "434VAR",
+        "registration_date": "18/11/2020",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999,
+        "balance": 35996,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 723.46,
+        "final_payment": 724.46,
+        "total_amount_payable": 47407.6,
+        "total_charge_for_credit": 7412.6,
+        "amount_of_credit": 35996,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

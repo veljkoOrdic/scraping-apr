@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:23:15.558Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jtvehiclessouthlakes.co.uk/details/used-car-in-barrow-in-furness/mercedes-benz/aclass/1.3-a250e-15.6kwh-amg-line-edition-8g-dct-euro-6-ss-4dr/1286774/",
+    "dealer_id": "7033",
+    "car_id": "25937753",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BF71VKM",
+        "registration_date": "25/10/2021",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21991,
+        "total_price": 21991,
+        "deposit": 2199.1,
+        "balance": 19791.9,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 415.43,
+        "final_payment": 416.43,
+        "total_amount_payable": 27125.9,
+        "total_charge_for_credit": 5134.9,
+        "amount_of_credit": 19791.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21991,
+        "total_price": 21991,
+        "deposit": 2199.1,
+        "balance": 19791.9,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 332.68,
+        "final_payment": 9622,
+        "total_amount_payable": 27789.74,
+        "total_charge_for_credit": 5798.74,
+        "amount_of_credit": 19791.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 9621,
+        "price_to_buy": 9622
+      }
+    ]
+  }
+]

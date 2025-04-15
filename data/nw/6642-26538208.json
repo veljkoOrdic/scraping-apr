@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:15:57.485Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebonyandivorymotors-scunthorpe.co.uk/used-porsche-taycan-scunthorpe-lincolnshire-6558408",
+    "dealer_id": "6642",
+    "car_id": "26538208",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV71SWW",
+        "registration_date": "24/11/2021",
+        "mileage": 7858,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 199,
+        "balance": 54791,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1423.98,
+        "final_payment": 1424.98,
+        "total_amount_payable": 68551.04,
+        "total_charge_for_credit": 13561.04,
+        "amount_of_credit": 54791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 199,
+        "balance": 54791,
+        "apr": 11.9,
+        "rate_of_interest": 5.86,
+        "term": 49,
+        "regular_payment": 1057.38,
+        "final_payment": 22325.5,
+        "total_amount_payable": 73278.74,
+        "total_charge_for_credit": 18288.74,
+        "amount_of_credit": 54791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.24,
+        "residual": 22324.5,
+        "price_to_buy": 22325.5
+      }
+    ]
+  }
+]

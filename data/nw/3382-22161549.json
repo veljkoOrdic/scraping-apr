@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:04:02.218Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/astonmartin/dbs/5.2-v12-biturbo-superleggera-auto-euro-6-ss-2dr/1265167/",
+    "dealer_id": "3382",
+    "car_id": "22161549",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RWL3Y",
+        "registration_date": "01/03/2021",
+        "mileage": 8400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 149950,
+        "total_price": 149950,
+        "deposit": 134950,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 158360.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

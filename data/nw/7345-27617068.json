@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:50:03.879Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.overton-garage.co.uk/vehicle-details/used-skoda-fabia-1-2-tsi-s-for-sale-in-aberdeen-scotland-u293/",
+    "dealer_id": "7345",
+    "car_id": "27617068",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY61KGZ",
+        "registration_date": "12/10/2011",
+        "mileage": 72937,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3850,
+        "total_price": 3850,
+        "deposit": 385,
+        "balance": 3465,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 17,
+        "regular_payment": 217.1,
+        "final_payment": 218.1,
+        "total_amount_payable": 4076.7,
+        "total_charge_for_credit": 226.7,
+        "amount_of_credit": 3465,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

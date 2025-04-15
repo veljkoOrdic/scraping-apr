@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:39:33.057Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.clubclasscarsyork.com/used-audi-s6-saloon-dunnington-north-yorkshire-6596873",
+    "dealer_id": "6887",
+    "car_id": "26684634",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF22OSY",
+        "registration_date": "30/03/2022",
+        "mileage": 53150,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35295,
+        "total_price": 35295,
+        "deposit": 3529,
+        "balance": 31766,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 652.59,
+        "final_payment": 653.59,
+        "total_amount_payable": 42685.4,
+        "total_charge_for_credit": 7390.4,
+        "amount_of_credit": 31766,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35295,
+        "total_price": 35295,
+        "deposit": 3529,
+        "balance": 31766,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 559.15,
+        "final_payment": 13366,
+        "total_amount_payable": 43175.05,
+        "total_charge_for_credit": 7880.05,
+        "amount_of_credit": 31766,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 13365,
+        "price_to_buy": 13366
+      }
+    ]
+  }
+]

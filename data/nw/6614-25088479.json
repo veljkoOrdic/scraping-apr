@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:07:22.570Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/morgan/plus-four/euro-6-ss-258ps-huge-spec/cheltenham/gloucestershire/21348058",
+    "dealer_id": "6614",
+    "car_id": "25088479",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MK20YMJ",
+        "registration_date": "18/05/2020",
+        "mileage": 5000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49990,
+        "total_price": 49990,
+        "deposit": 4999,
+        "balance": 44991,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 924.27,
+        "final_payment": 925.27,
+        "total_amount_payable": 60456.2,
+        "total_charge_for_credit": 10466.2,
+        "amount_of_credit": 44991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

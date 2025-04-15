@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:52:23.938Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/porsche/cayenne/2.9t-v6-s-tiptronics-4wd-euro-6-ss-5dr/1438001/",
+    "dealer_id": "8670",
+    "car_id": "27760455",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK69KBE",
+        "registration_date": "15/10/2019",
+        "mileage": 51360,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39495,
+        "total_price": 39495,
+        "deposit": 3949.5,
+        "balance": 35545.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 876.91,
+        "final_payment": 886.91,
+        "total_amount_payable": 46051.18,
+        "total_charge_for_credit": 6556.18,
+        "amount_of_credit": 35545.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39495,
+        "total_price": 39495,
+        "deposit": 3949.5,
+        "balance": 35545.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 542.33,
+        "final_payment": 20891.5,
+        "total_amount_payable": 50330.51,
+        "total_charge_for_credit": 10835.51,
+        "amount_of_credit": 35545.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.09,
+        "residual": 20891.5,
+        "price_to_buy": 20891.5
+      }
+    ]
+  }
+]

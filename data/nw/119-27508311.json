@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:13:20.447Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.burford-carsales.co.uk/used-bmw-8-series-gran-coupe-hoddesdon-hertfordshire-6793671",
+    "dealer_id": "119",
+    "car_id": "27508311",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA22ZPO",
+        "registration_date": "25/08/2022",
+        "mileage": 13000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41790,
+        "total_price": 41790,
+        "deposit": 4179,
+        "balance": 37611,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 789.47,
+        "final_payment": 790.47,
+        "total_amount_payable": 51548.2,
+        "total_charge_for_credit": 9758.2,
+        "amount_of_credit": 37611,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41790,
+        "total_price": 41790,
+        "deposit": 4179,
+        "balance": 37611,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 636.05,
+        "final_payment": 18059.24,
+        "total_amount_payable": 52768.64,
+        "total_charge_for_credit": 10978.64,
+        "amount_of_credit": 37611,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.2,
+        "residual": 18058.24,
+        "price_to_buy": 18059.24
+      }
+    ]
+  }
+]

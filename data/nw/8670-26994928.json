@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:53:57.974Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/porsche/911/3.0t-991-carrera-4s-pdk-4wd-euro-6-ss-2dr/1374177/",
+    "dealer_id": "8670",
+    "car_id": "26994928",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG67CGO",
+        "registration_date": "01/09/2017",
+        "mileage": 17342,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71995,
+        "total_price": 71995,
+        "deposit": 7199.5,
+        "balance": 64795.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1598.65,
+        "final_payment": 1608.65,
+        "total_amount_payable": 83944.7,
+        "total_charge_for_credit": 11949.7,
+        "amount_of_credit": 64795.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

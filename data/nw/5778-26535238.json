@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:26:22.216Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ccs-carsales.co.uk/used/cars/seat/leon/tsi-evo-xcellence-lux-3219",
+    "dealer_id": "5778",
+    "car_id": "26535238",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MB19FZW",
+        "registration_date": "15/08/2019",
+        "mileage": 46268,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12499,
+        "total_price": 12499,
+        "deposit": 0,
+        "balance": 12499,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 273.48,
+        "final_payment": 283.48,
+        "total_amount_payable": 16418.8,
+        "total_charge_for_credit": 3919.8,
+        "amount_of_credit": 12499,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12499,
+        "total_price": 12499,
+        "deposit": 0,
+        "balance": 12499,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 51,
+        "regular_payment": 256.48,
+        "final_payment": 3721.46,
+        "total_amount_payable": 16545.46,
+        "total_charge_for_credit": 4046.46,
+        "amount_of_credit": 12499,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 42500,
+        "excess_mileage_rate": 0.03,
+        "residual": 3720.46,
+        "price_to_buy": 3721.46
+      }
+    ]
+  }
+]

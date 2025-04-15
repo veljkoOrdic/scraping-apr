@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:57:32.488Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hcl-ltd.com/details/used-car-in-ashford/tesla/modely/dual-motor-long-range-auto-4wde-5dr/1398167/",
+    "dealer_id": "3275",
+    "car_id": "27268195",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF72OVY",
+        "registration_date": "14/09/2022",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29490,
+        "total_price": 29490,
+        "deposit": 2949,
+        "balance": 26541,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 545.24,
+        "final_payment": 546.24,
+        "total_amount_payable": 35664.4,
+        "total_charge_for_credit": 6174.4,
+        "amount_of_credit": 26541,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29490,
+        "total_price": 29490,
+        "deposit": 2949,
+        "balance": 26541,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 406.83,
+        "final_payment": 14239.79,
+        "total_amount_payable": 36716.63,
+        "total_charge_for_credit": 7226.63,
+        "amount_of_credit": 26541,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 14238.79,
+        "price_to_buy": 14239.79
+      }
+    ]
+  }
+]

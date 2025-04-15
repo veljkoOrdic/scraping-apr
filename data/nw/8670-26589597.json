@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:54:11.403Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/ferrari/california/3.8-v8-t-f1-dct-euro-6-ss-2dr/1341362/",
+    "dealer_id": "8670",
+    "car_id": "26589597",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RK66KRD",
+        "registration_date": "30/11/2016",
+        "mileage": 8902,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 87995,
+        "total_price": 87995,
+        "deposit": 8799.5,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 101824.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:25:03.435Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carshunt.co.uk/details/used-car-in-havering/toyota/c-hr/1.8-vvt-h-dynamic-cvt-euro-6-ss-5dr/1347987/",
+    "dealer_id": "4643",
+    "car_id": "26676678",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO19BAN",
+        "registration_date": "20/03/2019",
+        "mileage": 55486,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 749.75,
+        "balance": 14245.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 299.01,
+        "final_payment": 300.01,
+        "total_amount_payable": 18691.35,
+        "total_charge_for_credit": 3696.35,
+        "amount_of_credit": 14245.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

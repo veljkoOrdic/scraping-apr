@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:32:19.151Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-tesla-model-x-hatfield-hertfordshire-6155780",
+    "dealer_id": "4492",
+    "car_id": "24887013",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD20LJX",
+        "registration_date": "22/05/2020",
+        "mileage": 37100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34750,
+        "total_price": 34750,
+        "deposit": 6950,
+        "balance": 27800,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 583.53,
+        "final_payment": 584.53,
+        "total_amount_payable": 41962.8,
+        "total_charge_for_credit": 7212.8,
+        "amount_of_credit": 27800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34750,
+        "total_price": 34750,
+        "deposit": 6950,
+        "balance": 27800,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 419.78,
+        "final_payment": 16296.72,
+        "total_amount_payable": 43396.16,
+        "total_charge_for_credit": 8646.16,
+        "amount_of_credit": 27800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 16295.72,
+        "price_to_buy": 16296.72
+      }
+    ]
+  }
+]

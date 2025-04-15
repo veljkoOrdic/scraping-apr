@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:30:39.470Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.oaktreemotorcompany.com/details/used-car-in-cwmbran/audi/a5/2.0-tfsi-s-line-sportback-s-tronic-euro-6-ss-5dr/1299187/",
+    "dealer_id": "4707",
+    "car_id": "26075315",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LN18WFE",
+        "registration_date": "01/03/2018",
+        "mileage": 118598,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 235.92,
+        "final_payment": 245.92,
+        "total_amount_payable": 15414.7,
+        "total_charge_for_credit": 2919.7,
+        "amount_of_credit": 11245.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

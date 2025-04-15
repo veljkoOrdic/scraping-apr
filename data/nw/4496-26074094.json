@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:42:58.373Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dalesautomotive.co.uk/used-subaru-forester-kelbrook-lancashire-6433833",
+    "dealer_id": "4496",
+    "car_id": "26074094",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YY73SNU",
+        "registration_date": "15/12/2023",
+        "mileage": 6151,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999,
+        "balance": 26996,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 666.11,
+        "final_payment": 667.11,
+        "total_amount_payable": 34973.28,
+        "total_charge_for_credit": 4978.28,
+        "amount_of_credit": 26996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999,
+        "balance": 26996,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 454.55,
+        "final_payment": 12145,
+        "total_amount_payable": 36962.4,
+        "total_charge_for_credit": 6967.4,
+        "amount_of_credit": 26996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.12,
+        "residual": 12144,
+        "price_to_buy": 12145
+      }
+    ]
+  }
+]

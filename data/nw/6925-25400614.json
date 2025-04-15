@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:01:56.180Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autotradecentreni.com/cars/peugeot/3008/1.5-bluehdi-allure-premium-+/1244411/",
+    "dealer_id": "6925",
+    "car_id": "25400614",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB72UFW",
+        "registration_date": "31/01/2023",
+        "mileage": 6898,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 442.17,
+        "final_payment": 452.17,
+        "total_amount_payable": 28739.7,
+        "total_charge_for_credit": 6744.7,
+        "amount_of_credit": 19795.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 368.72,
+        "final_payment": 9864.25,
+        "total_amount_payable": 29393.59,
+        "total_charge_for_credit": 7398.59,
+        "amount_of_credit": 19795.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.07481425,
+        "residual": 9854.25,
+        "price_to_buy": 9864.25
+      }
+    ]
+  }
+]

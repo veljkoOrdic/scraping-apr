@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:59:55.166Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carquay.co.uk/used/cars/bmw/z4/z4-2-0-20i-m-sport-sdrive-euro-6-s-s-2dr-5470",
+    "dealer_id": "5286",
+    "car_id": "25812250",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FN64NBJ",
+        "registration_date": "26/02/2015",
+        "mileage": 104000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7595,
+        "total_price": 7595,
+        "deposit": 759.5,
+        "balance": 6835.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 180.64,
+        "final_payment": 181.64,
+        "total_amount_payable": 9431.22,
+        "total_charge_for_credit": 1836.22,
+        "amount_of_credit": 6835.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

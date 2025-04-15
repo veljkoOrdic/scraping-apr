@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:27:22.378Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/jaguar/xk/r-s-gt-5-0-supercharged-v8-3043",
+    "dealer_id": "5631",
+    "car_id": "25579921",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AD15TRX",
+        "registration_date": "27/06/2015",
+        "mileage": 4010,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 179990,
+        "total_price": 179990,
+        "deposit": 10,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2099.06,
+        "final_payment": 2100.06,
+        "total_amount_payable": 205934.6,
+        "total_charge_for_credit": 25944.6,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

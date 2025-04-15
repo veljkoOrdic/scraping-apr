@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:34:09.411Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jsvans.co.uk/used-ford-transit-connect-stockport-cheshire-5520405",
+    "dealer_id": "8141",
+    "car_id": "22180506",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO20ONG",
+        "registration_date": "18/03/2020",
+        "mileage": 123000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8394,
+        "total_price": 8394,
+        "deposit": 0,
+        "balance": 6995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 153.11,
+        "final_payment": 154.11,
+        "total_amount_payable": 10586.6,
+        "total_charge_for_credit": 2192.6,
+        "amount_of_credit": 6995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

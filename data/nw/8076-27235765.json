@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:10:50.098Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/used-vans/citroen-berlingo-1-5-bluehdi-1000-enterprise-m-swb-euro-6-s-s-5dr-5-door-panel-van-grey/ca21ffr",
+    "dealer_id": "8076",
+    "car_id": "27235765",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CA21FFR",
+        "registration_date": "31/05/2021",
+        "mileage": 56124,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11874,
+        "total_price": 11874,
+        "deposit": 2969,
+        "balance": 8905,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 215.84,
+        "final_payment": 215.84,
+        "total_amount_payable": 13329.32,
+        "total_charge_for_credit": 1455.32,
+        "amount_of_credit": 8905,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

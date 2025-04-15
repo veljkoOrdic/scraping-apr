@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:28:38.826Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motormill.co.uk/used-hyundai-i30-warrington-cheshire-6522626",
+    "dealer_id": "6691",
+    "car_id": "26379278",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK67JXS",
+        "registration_date": "12/10/2017",
+        "mileage": 53172,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7999,
+        "total_price": 7999,
+        "deposit": 799,
+        "balance": 7200,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 154.24,
+        "final_payment": 164.24,
+        "total_amount_payable": 10063.4,
+        "total_charge_for_credit": 2064.4,
+        "amount_of_credit": 7200,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

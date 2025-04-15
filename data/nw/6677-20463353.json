@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:23:55.434Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aintreegarages.co.uk/used-land-rover-range-rover-sport-liverpool-mersyside-5112479",
+    "dealer_id": "6677",
+    "car_id": "20463353",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PE70YDW",
+        "registration_date": "11/09/2020",
+        "mileage": 5000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 4500,
+        "balance": 40500,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 831.89,
+        "final_payment": 841.89,
+        "total_amount_payable": 54423.4,
+        "total_charge_for_credit": 9423.4,
+        "amount_of_credit": 40500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

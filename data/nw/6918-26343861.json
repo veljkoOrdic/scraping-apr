@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:54:26.094Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtheritage.com/used-land-rover-discovery-sport-henley-on-thames-oxfordshire-6514311",
+    "dealer_id": "6918",
+    "car_id": "26343861",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS68JXM",
+        "registration_date": "29/11/2018",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22247,
+        "total_price": 22247,
+        "deposit": 2224,
+        "balance": 20023,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 420.29,
+        "final_payment": 421.29,
+        "total_amount_payable": 27442.4,
+        "total_charge_for_credit": 5195.4,
+        "amount_of_credit": 20023,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:27:05.240Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pilgrimsofmarch.co.uk/used/volkswagen/golf-sv/16-tdi-110-se-5dr-dsg/march/cambridgeshire/21533679",
+    "dealer_id": "5812",
+    "car_id": "27018507",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DL15MWC",
+        "registration_date": "13/07/2015",
+        "mileage": 34966,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9390,
+        "total_price": 9390,
+        "deposit": 300,
+        "balance": 9090,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 203.09,
+        "final_payment": 204.09,
+        "total_amount_payable": 12486.4,
+        "total_charge_for_credit": 3096.4,
+        "amount_of_credit": 9090,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

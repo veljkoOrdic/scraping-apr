@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:35:14.962Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcar.co.uk/used-cars/peugeot/108-petrol-red-hatchback-FD19GYP",
+    "dealer_id": "5433",
+    "car_id": "26732605",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FD19GYP",
+        "registration_date": "25/05/2019",
+        "mileage": 31309,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7999,
+        "total_price": 7999,
+        "deposit": 999,
+        "balance": 7000,
+        "apr": 11.9,
+        "rate_of_interest": 6.16,
+        "term": 48,
+        "regular_payment": 181.76,
+        "final_payment": 191.76,
+        "total_amount_payable": 9733.48,
+        "total_charge_for_credit": 1734.48,
+        "amount_of_credit": 7000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7999,
+        "total_price": 7999,
+        "deposit": 999,
+        "balance": 7000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 145.37,
+        "final_payment": 2351,
+        "total_amount_payable": 10182.39,
+        "total_charge_for_credit": 2183.39,
+        "amount_of_credit": 7000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.01,
+        "residual": 2350,
+        "price_to_buy": 2351
+      }
+    ]
+  }
+]

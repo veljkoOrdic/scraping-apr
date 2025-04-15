@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:29:50.532Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.unicornautomobiles.co.uk/cars/abarth/595/1.4-abarth-595-competizione-1.4-tjet-180hp-mta/1170685/",
+    "dealer_id": "6469",
+    "car_id": "27130259",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD67SNX",
+        "registration_date": "16/09/2017",
+        "mileage": 20000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15490,
+        "total_price": 15490,
+        "deposit": 1549,
+        "balance": 13941,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 292.63,
+        "final_payment": 292.63,
+        "total_amount_payable": 19106.8,
+        "total_charge_for_credit": 3616.8,
+        "amount_of_credit": 13941,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

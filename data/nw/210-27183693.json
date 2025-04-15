@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:55.369Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/land-rover--range-rover/ye73jzf",
+    "dealer_id": "210",
+    "car_id": "27183693",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE73JZF",
+        "registration_date": "04/10/2023",
+        "mileage": 6416,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95299,
+        "total_price": 95299,
+        "deposit": 9529,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 109128.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 95299,
+        "total_price": 95299,
+        "deposit": 9529,
+        "balance": 85770,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 1319.71,
+        "final_payment": 45731.2,
+        "total_amount_payable": 118606.28,
+        "total_charge_for_credit": 23307.28,
+        "amount_of_credit": 85770,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.4,
+        "residual": 45730.2,
+        "price_to_buy": 45731.2
+      }
+    ]
+  }
+]

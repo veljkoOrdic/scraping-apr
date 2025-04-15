@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:27:18.339Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorcityplymouth.co.uk/used-audi-a4-avant-plymouth-devon-6455332",
+    "dealer_id": "6857",
+    "car_id": "26128538",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KO19TVF",
+        "registration_date": "20/05/2019",
+        "mileage": 47121,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 3799,
+        "balance": 15200,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 312.26,
+        "final_payment": 313.26,
+        "total_amount_payable": 22535.6,
+        "total_charge_for_credit": 3536.6,
+        "amount_of_credit": 15200,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

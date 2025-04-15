@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:06.658Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-audi-a5-sportback-tdi-quattro-black-edition-plus-55/",
+    "dealer_id": "7512",
+    "car_id": "26421641",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV15PXD",
+        "registration_date": "26/03/2015",
+        "mileage": 61000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11795,
+        "total_price": 11795,
+        "deposit": 0,
+        "balance": 11795,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 59,
+        "regular_payment": 245.59,
+        "final_payment": 246.59,
+        "total_amount_payable": 14490.81,
+        "total_charge_for_credit": 2695.81,
+        "amount_of_credit": 11795,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

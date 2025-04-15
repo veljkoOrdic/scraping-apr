@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:05:21.544Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1br.co.uk/used-mercedes-benz-sl-petersfield-hampshire-6716961",
+    "dealer_id": "8693",
+    "car_id": "27142384",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GM15WSL",
+        "registration_date": "30/06/2015",
+        "mileage": 43100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 0,
+        "balance": 26990,
+        "apr": 10.9,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 579.13,
+        "final_payment": 580.13,
+        "total_amount_payable": 34748.8,
+        "total_charge_for_credit": 7758.8,
+        "amount_of_credit": 26990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

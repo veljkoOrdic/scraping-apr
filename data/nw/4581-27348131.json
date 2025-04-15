@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:09:07.133Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.parkwaymotorgroup.com/vehicle-details/used-audi-s4-avant-tfsi-v6-for-sale-in-edwinstowe-nottinghamshire-u14704/",
+    "dealer_id": "4581",
+    "car_id": "27348131",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF17UPT",
+        "registration_date": "04/03/2017",
+        "mileage": 51968,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24750,
+        "total_price": 24750,
+        "deposit": 2475,
+        "balance": 22275,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 477.56,
+        "final_payment": 478.56,
+        "total_amount_payable": 31129.6,
+        "total_charge_for_credit": 6379.6,
+        "amount_of_credit": 22275,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

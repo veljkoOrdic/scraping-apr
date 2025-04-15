@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:40:51.515Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bettercar.co.uk/used-ford-fiesta-henfield-west-sussex-6812046",
+    "dealer_id": "5666",
+    "car_id": "27666858",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AY63ZGF",
+        "registration_date": "06/11/2013",
+        "mileage": 47536,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4790,
+        "total_price": 4790,
+        "deposit": 1000,
+        "balance": 3790,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 54,
+        "regular_payment": 88.02,
+        "final_payment": 98.02,
+        "total_amount_payable": 5763.08,
+        "total_charge_for_credit": 973.08,
+        "amount_of_credit": 3790,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

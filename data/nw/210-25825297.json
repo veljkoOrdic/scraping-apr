@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:48:37.089Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/dacia--duster/yl21lnf",
+    "dealer_id": "210",
+    "car_id": "25825297",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YL21LNF",
+        "registration_date": "30/06/2021",
+        "mileage": 37737,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8799,
+        "total_price": 8799,
+        "deposit": 879,
+        "balance": 7920,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 209.31,
+        "final_payment": 210.31,
+        "total_amount_payable": 10926.88,
+        "total_charge_for_credit": 2127.88,
+        "amount_of_credit": 7920,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8799,
+        "total_price": 8799,
+        "deposit": 879,
+        "balance": 7920,
+        "apr": 12.9,
+        "rate_of_interest": 6.31,
+        "term": 49,
+        "regular_payment": 152.81,
+        "final_payment": 3509.34,
+        "total_amount_payable": 11723.22,
+        "total_charge_for_credit": 2924.22,
+        "amount_of_credit": 7920,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 3508.34,
+        "price_to_buy": 3509.34
+      }
+    ]
+  }
+]

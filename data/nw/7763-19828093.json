@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:35:40.742Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aandaautosales.uk/details/used-car-in-peterborough/fiat/500/0.9-twinair-gq-euro-6-ss-3dr/842982/",
+    "dealer_id": "7763",
+    "car_id": "19828093",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ64CVR",
+        "registration_date": "30/09/2014",
+        "mileage": 47907,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6395,
+        "total_price": 6395,
+        "deposit": 10,
+        "balance": 6385,
+        "apr": 11.9,
+        "rate_of_interest": 6.22,
+        "term": 53,
+        "regular_payment": 153.55,
+        "final_payment": 154.55,
+        "total_amount_payable": 8149.15,
+        "total_charge_for_credit": 1754.15,
+        "amount_of_credit": 6385,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

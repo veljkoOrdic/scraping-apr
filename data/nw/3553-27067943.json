@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:14:41.340Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seankearneycars.com/car-details/ford-transit_custom-367111891",
+    "dealer_id": "3553",
+    "car_id": "27067943",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR24EGU",
+        "registration_date": "19/03/2024",
+        "mileage": 14000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 5800,
+        "balance": 23200,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 602.8,
+        "final_payment": 612.8,
+        "total_amount_payable": 34744.4,
+        "total_charge_for_credit": 5744.4,
+        "amount_of_credit": 23200,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

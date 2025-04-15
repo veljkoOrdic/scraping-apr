@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:10:15.070Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-alfa-romeo-stelvio-gateshead-tyne-and-wear-6549496",
+    "dealer_id": "5142",
+    "car_id": "26501959",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RN21NKM",
+        "registration_date": "29/05/2021",
+        "mileage": 54832,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24590,
+        "total_price": 24590,
+        "deposit": 1229,
+        "balance": 23361,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 490.35,
+        "final_payment": 491.35,
+        "total_amount_payable": 30651,
+        "total_charge_for_credit": 6061,
+        "amount_of_credit": 23361,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24590,
+        "total_price": 24590,
+        "deposit": 1229,
+        "balance": 23361,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 424.1,
+        "final_payment": 9517.31,
+        "total_amount_payable": 31103.11,
+        "total_charge_for_credit": 6513.11,
+        "amount_of_credit": 23361,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 9516.31,
+        "price_to_buy": 9517.31
+      }
+    ]
+  }
+]

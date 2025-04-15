@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:00:11.288Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carquay.co.uk/used/cars/bmw/4-series/4-series-gran-coupe-2-0-420d-m-sport-auto-euro-6-s-s-5dr-5502",
+    "dealer_id": "5286",
+    "car_id": "25619923",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP17EVW",
+        "registration_date": "31/03/2017",
+        "mileage": 100000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 273.41,
+        "final_payment": 274.41,
+        "total_amount_payable": 14274.18,
+        "total_charge_for_credit": 2779.18,
+        "amount_of_credit": 10345.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

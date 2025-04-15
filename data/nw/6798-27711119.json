@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:47:50.984Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carcart.co.uk/used-mercedes-benz-cla-birmingham-west-midlands-6850771",
+    "dealer_id": "6798",
+    "car_id": "27711119",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV71YFA",
+        "registration_date": "23/09/2021",
+        "mileage": 26034,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 4998,
+        "balance": 19992,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 437.51,
+        "final_payment": 447.51,
+        "total_amount_payable": 31258.6,
+        "total_charge_for_credit": 6268.6,
+        "amount_of_credit": 19992,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 4998,
+        "balance": 19992,
+        "apr": 11.8,
+        "rate_of_interest": 6.13,
+        "term": 48,
+        "regular_payment": 280.143508857339,
+        "final_payment": 14655.14,
+        "total_amount_payable": 32819.88,
+        "total_charge_for_credit": 7829.88,
+        "amount_of_credit": 19992,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.12,
+        "residual": 14365,
+        "price_to_buy": 14655.14
+      }
+    ]
+  }
+]

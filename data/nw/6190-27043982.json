@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:15:05.336Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suprenocars.com/details/used-car-in-ashford/ford/kuga/2.0-tdci-st-line-powershift-awd-euro-6-ss-5dr/1378766/",
+    "dealer_id": "6190",
+    "car_id": "27043982",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WP19DWU",
+        "registration_date": "30/06/2019",
+        "mileage": 66000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13474,
+        "total_price": 13474,
+        "deposit": 1347.4,
+        "balance": 12126.6,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 249.11,
+        "final_payment": 250.11,
+        "total_amount_payable": 16295,
+        "total_charge_for_credit": 2821,
+        "amount_of_credit": 12126.6,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13474,
+        "total_price": 13474,
+        "deposit": 1347.4,
+        "balance": 12126.6,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 239.4,
+        "final_payment": 4206.5,
+        "total_amount_payable": 17045.1,
+        "total_charge_for_credit": 3571.1,
+        "amount_of_credit": 12126.6,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 4206.5,
+        "price_to_buy": 4206.5
+      }
+    ]
+  }
+]

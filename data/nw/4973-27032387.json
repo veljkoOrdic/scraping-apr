@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:36:07.983Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.batemanlynchcars.co.uk/used-audi-sq7-liskeard-cornwall-6689321",
+    "dealer_id": "4973",
+    "car_id": "27032387",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RF17ATV",
+        "registration_date": "30/06/2017",
+        "mileage": 49000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299,
+        "balance": 29696,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 623.33,
+        "final_payment": 624.33,
+        "total_amount_payable": 40699.8,
+        "total_charge_for_credit": 7704.8,
+        "amount_of_credit": 29696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

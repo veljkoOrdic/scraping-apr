@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:26:35.717Z",
+    "source": "new_vehicle_finance",
+    "url": "https://richlee.co.uk/stocklist/21450/mini-countryman-20-countryman-john-cooper-works-auto-4wd-5dr",
+    "dealer_id": "7287",
+    "car_id": "27222199",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM70JOJ",
+        "registration_date": "22/12/2020",
+        "mileage": 24052,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 559.47,
+        "final_payment": 560.47,
+        "total_amount_payable": 36468.7,
+        "total_charge_for_credit": 7473.7,
+        "amount_of_credit": 26095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.37,
+        "term": 49,
+        "regular_payment": 485.63,
+        "final_payment": 10815.72,
+        "total_amount_payable": 37025.46,
+        "total_charge_for_credit": 8030.46,
+        "amount_of_credit": 26095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 10814.72,
+        "price_to_buy": 10815.72
+      }
+    ]
+  }
+]

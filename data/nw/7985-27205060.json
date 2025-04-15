@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:38:39.028Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-bentley-continental-40-v8-gtc-s-convertible-2dr-p-convertible-ice-automatic-petrol/id-12519/",
+    "dealer_id": "7985",
+    "car_id": "27205060",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN66UTH",
+        "registration_date": "03/10/2016",
+        "mileage": 11300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 66500,
+        "total_price": 66500,
+        "deposit": 9975,
+        "balance": 56525,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1186.49,
+        "final_payment": 1187.49,
+        "total_amount_payable": 81165.4,
+        "total_charge_for_credit": 14665.4,
+        "amount_of_credit": 56525,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

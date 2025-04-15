@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:31:07.341Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.northernmotorhouse.co.uk/details/used-car-in-shipley/mercedes-benz/aclass/2.0-a35-amg-premium-plus-spds-dct-4matic-euro-6-ss-5dr/1201751/",
+    "dealer_id": "6713",
+    "car_id": "24845653",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN69LSU",
+        "registration_date": "13/11/2019",
+        "mileage": 41500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 609.25,
+        "final_payment": 610.25,
+        "total_amount_payable": 31894.5,
+        "total_charge_for_credit": 5399.5,
+        "amount_of_credit": 23845.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 479.22,
+        "final_payment": 8178,
+        "total_amount_payable": 33350.84,
+        "total_charge_for_credit": 6855.84,
+        "amount_of_credit": 23845.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 12000,
+        "contract_mileage": 48000,
+        "excess_mileage_rate": 0.04,
+        "residual": 8178,
+        "price_to_buy": 8178
+      }
+    ]
+  }
+]

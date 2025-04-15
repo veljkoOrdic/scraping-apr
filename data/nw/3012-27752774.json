@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:25:40.031Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.banchorycarcentre.co.uk/used-fiat-panda-banchory-aberdeenshire-6850970",
+    "dealer_id": "3012",
+    "car_id": "27752774",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA63PLV",
+        "registration_date": "28/11/2013",
+        "mileage": 40300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4795,
+        "total_price": 4795,
+        "deposit": 479,
+        "balance": 4316,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 43,
+        "regular_payment": 118.75,
+        "final_payment": 119.75,
+        "total_amount_payable": 5586.25,
+        "total_charge_for_credit": 791.25,
+        "amount_of_credit": 4316,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

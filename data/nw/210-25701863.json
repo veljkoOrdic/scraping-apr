@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:48:42.407Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/volkswagen--t-roc/ej69hnt",
+    "dealer_id": "210",
+    "car_id": "25701863",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ69HNT",
+        "registration_date": "06/12/2019",
+        "mileage": 127841,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11199,
+        "total_price": 11199,
+        "deposit": 1119,
+        "balance": 10080,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 266.39,
+        "final_payment": 267.39,
+        "total_amount_payable": 13906.72,
+        "total_charge_for_credit": 2707.72,
+        "amount_of_credit": 10080,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

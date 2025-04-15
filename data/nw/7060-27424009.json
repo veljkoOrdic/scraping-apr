@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:25:19.749Z",
+    "source": "new_vehicle_finance",
+    "url": "https://xenonautomotive.co.uk/vehicle/name/audi-a3-1-6-tdi-ultra-se-euro-6-s-s-3dr/",
+    "dealer_id": "7060",
+    "car_id": "27424009",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA16SMB",
+        "registration_date": "28/04/2016",
+        "mileage": 128018,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 449,
+        "balance": 4041,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 99.69,
+        "final_payment": 100.69,
+        "total_amount_payable": 5235.12,
+        "total_charge_for_credit": 745.12,
+        "amount_of_credit": 4041,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

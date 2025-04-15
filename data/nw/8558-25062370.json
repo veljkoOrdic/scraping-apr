@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:43:21.041Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jw-autos.co.uk/used/cars/bmw/x1/xdrive20i-se-3712",
+    "dealer_id": "8558",
+    "car_id": "25062370",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD69XTA",
+        "registration_date": "31/10/2019",
+        "mileage": 11179,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18500,
+        "total_price": 18500,
+        "deposit": 500,
+        "balance": 18000,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 410.34,
+        "final_payment": 411.34,
+        "total_amount_payable": 25121.4,
+        "total_charge_for_credit": 6621.4,
+        "amount_of_credit": 18000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

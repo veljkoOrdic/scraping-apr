@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:56:41.071Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bsbautomotive.co.uk/used-jaguar-e-pace-belvedere-london-6836045",
+    "dealer_id": "7879",
+    "car_id": "27625863",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE68WZC",
+        "registration_date": "07/12/2018",
+        "mileage": 63907,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 267.78,
+        "final_payment": 277.78,
+        "total_amount_payable": 17525.8,
+        "total_charge_for_credit": 3035.8,
+        "amount_of_credit": 13041,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 10.9,
+        "rate_of_interest": 5.58,
+        "term": 32,
+        "regular_payment": 298.23,
+        "final_payment": 6540,
+        "total_amount_payable": 17234.13,
+        "total_charge_for_credit": 2744.13,
+        "amount_of_credit": 13041,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 26667,
+        "excess_mileage_rate": 0.09,
+        "residual": 6530,
+        "price_to_buy": 6540
+      }
+    ]
+  }
+]

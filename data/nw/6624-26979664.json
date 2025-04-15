@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:09:36.877Z",
+    "source": "new_vehicle_finance",
+    "url": "https://centralcarsuk.com/used-cars/ford/ranger/20-ranger-wildtrak-ecoblue-4x4-a-4wd-2249/",
+    "dealer_id": "6624",
+    "car_id": "26979664",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA23OLT",
+        "registration_date": "28/03/2023",
+        "mileage": 25515,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41994,
+        "total_price": 41994,
+        "deposit": 4199.4,
+        "balance": 37794.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 793.32,
+        "final_payment": 794.32,
+        "total_amount_payable": 51799.6,
+        "total_charge_for_credit": 9805.6,
+        "amount_of_credit": 37794.6,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

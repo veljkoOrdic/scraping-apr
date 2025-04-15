@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:43:33.894Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premiermotors.co.uk/ford/used/mg/mg-zs/10t-gdi-exclusive-5dr/newport/isle-of-wight/21526652",
+    "dealer_id": "8165",
+    "car_id": "25927789",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HW73JWK",
+        "registration_date": "01/09/2023",
+        "mileage": 9000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15890,
+        "total_price": 15890,
+        "deposit": 3178,
+        "balance": 12712,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 319.21,
+        "final_payment": 320.21,
+        "total_amount_payable": 18501.08,
+        "total_charge_for_credit": 2611.08,
+        "amount_of_credit": 12712,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15890,
+        "total_price": 15890,
+        "deposit": 3178,
+        "balance": 12712,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 49,
+        "regular_payment": 185.31,
+        "final_payment": 7840.9,
+        "total_amount_payable": 19913.78,
+        "total_charge_for_credit": 4023.78,
+        "amount_of_credit": 12712,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.08,
+        "residual": 7839.9,
+        "price_to_buy": 7840.9
+      }
+    ]
+  }
+]
