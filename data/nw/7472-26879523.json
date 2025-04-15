@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:31:29.329Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-planet.co.uk/used-lamborghini-urus-watford-hertfordshire-6648851",
+    "dealer_id": "7472",
+    "car_id": "26879523",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "UG11RUS",
+        "registration_date": "16/07/2020",
+        "mileage": 22700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 168500,
+        "total_price": 168500,
+        "deposit": 118500,
+        "balance": 50000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1117.15,
+        "final_payment": 1118.15,
+        "total_amount_payable": 185530,
+        "total_charge_for_credit": 17030,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 168500,
+        "total_price": 168500,
+        "deposit": 16850,
+        "balance": 100000,
+        "apr": 12.9,
+        "rate_of_interest": 6.15,
+        "term": 49,
+        "regular_payment": 1382.05,
+        "final_payment": 78299.78,
+        "total_amount_payable": 213138.18,
+        "total_charge_for_credit": 44638.18,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.66,
+        "residual": 78298.78,
+        "price_to_buy": 78299.78
+      }
+    ]
+  }
+]

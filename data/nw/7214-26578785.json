@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:54:06.245Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinfranciscars.com/used-cars/audi-a5-s-line-35-20tdi-mhev-s-auto/37373",
+    "dealer_id": "7214",
+    "car_id": "26578785",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS71XWE",
+        "registration_date": "15/01/2022",
+        "mileage": 55000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25750,
+        "total_price": 25750,
+        "deposit": 2575,
+        "balance": 23175,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 486.33,
+        "final_payment": 496.33,
+        "total_amount_payable": 31764.8,
+        "total_charge_for_credit": 6014.8,
+        "amount_of_credit": 23175,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25750,
+        "total_price": 25750,
+        "deposit": 2575,
+        "balance": 23175,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 398.74,
+        "final_payment": 10728.25,
+        "total_amount_payable": 32442.77,
+        "total_charge_for_credit": 6692.77,
+        "amount_of_credit": 23175,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.15,
+        "residual": 10718.25,
+        "price_to_buy": 10728.25
+      }
+    ]
+  }
+]

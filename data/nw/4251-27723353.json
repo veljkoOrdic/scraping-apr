@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:41:34.138Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-aston-martin-dbx-sidcup-kent-6860664",
+    "dealer_id": "4251",
+    "car_id": "27723353",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "F1CDB",
+        "registration_date": "04/12/2020",
+        "mileage": 39010,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 81999,
+        "total_price": 81999,
+        "deposit": 31999,
+        "balance": 50000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1027.18,
+        "final_payment": 1028.18,
+        "total_amount_payable": 93630.8,
+        "total_charge_for_credit": 11631.8,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 81999,
+        "total_price": 81999,
+        "deposit": 16399,
+        "balance": 65600,
+        "apr": 8.9,
+        "rate_of_interest": 4.35,
+        "term": 49,
+        "regular_payment": 927.4,
+        "final_payment": 39682,
+        "total_amount_payable": 100596.2,
+        "total_charge_for_credit": 18597.2,
+        "amount_of_credit": 65600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.4,
+        "residual": 39681,
+        "price_to_buy": 39682
+      }
+    ]
+  }
+]

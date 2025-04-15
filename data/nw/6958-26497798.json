@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:13:23.102Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-adviser.co.uk/details/used-car-in-fareham/lotus/elise/1.6-cr-euro-5-2dr/1334523/",
+    "dealer_id": "6958",
+    "car_id": "26497798",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ16EWM",
+        "registration_date": "18/08/2016",
+        "mileage": 43114,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28500,
+        "total_price": 28500,
+        "deposit": 2500,
+        "balance": 26000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 545.75,
+        "final_payment": 546.75,
+        "total_amount_payable": 35246,
+        "total_charge_for_credit": 6746,
+        "amount_of_credit": 26000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

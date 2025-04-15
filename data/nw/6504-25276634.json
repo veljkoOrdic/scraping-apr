@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T01:42:38.116Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sbwakefield.co.uk/used/citroen/c3-aircross/12-puretech-110-flair-5dr-6-speed/wakefield/west-yorkshire/21363714",
+    "dealer_id": "6504",
+    "car_id": "25276634",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AK20MFF",
+        "registration_date": "16/07/2020",
+        "mileage": 38499,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9820,
+        "total_price": 9820,
+        "deposit": 982,
+        "balance": 8838,
+        "apr": 12.9,
+        "rate_of_interest": 6.66,
+        "term": 40,
+        "regular_payment": 174.93,
+        "final_payment": 4838,
+        "total_amount_payable": 12642.27,
+        "total_charge_for_credit": 2822.27,
+        "amount_of_credit": 8838,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 26667,
+        "excess_mileage_rate": 0.125,
+        "residual": 4838,
+        "price_to_buy": 4838
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:45:41.047Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.west-motors.co.uk/used/cars/land-rover/range-rover/tdv6-autobiography-2961",
+    "dealer_id": "4762",
+    "car_id": "27302385",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN17UBO",
+        "registration_date": "01/03/2017",
+        "mileage": 84610,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22050,
+        "total_price": 22050,
+        "deposit": 0,
+        "balance": 22050,
+        "apr": 12.1,
+        "rate_of_interest": 6.37,
+        "term": 60,
+        "regular_payment": 484.55,
+        "final_payment": 494.55,
+        "total_amount_payable": 29083,
+        "total_charge_for_credit": 7033,
+        "amount_of_credit": 22050,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

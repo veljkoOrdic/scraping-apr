@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T22:11:10.967Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/electric-hybrid/peugeot-e-traveller-50kwh-business-vip-long-mpv-auto-lwb-5dr-8-seat-7-4kw-charger-5-door-mpv-black/kw23oua",
+    "dealer_id": "8076",
+    "car_id": "26633624",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW23OUA",
+        "registration_date": "26/05/2023",
+        "mileage": 3007,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28289,
+        "total_price": 28289,
+        "deposit": 2829,
+        "balance": 25460,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 397.69,
+        "final_payment": 12668,
+        "total_amount_payable": 34188.43,
+        "total_charge_for_credit": 5899.43,
+        "amount_of_credit": 25460,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.125,
+        "residual": 12668,
+        "price_to_buy": 12668
+      }
+    ]
+  }
+]

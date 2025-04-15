@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:39:55.811Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kcsofsurrey.co.uk/used-mini-hatch-addlestone-surrey-6255159",
+    "dealer_id": "6776",
+    "car_id": "25379836",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO20ZGG",
+        "registration_date": "28/06/2020",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14550,
+        "total_price": 14550,
+        "deposit": 2910,
+        "balance": 11640,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 249.55,
+        "final_payment": 250.55,
+        "total_amount_payable": 17884,
+        "total_charge_for_credit": 3334,
+        "amount_of_credit": 11640,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14550,
+        "total_price": 14550,
+        "deposit": 2910,
+        "balance": 11640,
+        "apr": 10.9,
+        "rate_of_interest": 5.27,
+        "term": 49,
+        "regular_payment": 167.81,
+        "final_payment": 7738.96,
+        "total_amount_payable": 18703.84,
+        "total_charge_for_credit": 4153.84,
+        "amount_of_credit": 11640,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.08,
+        "residual": 7737.96,
+        "price_to_buy": 7738.96
+      }
+    ]
+  }
+]

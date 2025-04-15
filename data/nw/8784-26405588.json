@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:16:22.059Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/porsche/macan/d-s-pdk-242",
+    "dealer_id": "8784",
+    "car_id": "26405588",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EG65CAX",
+        "registration_date": "29/09/2015",
+        "mileage": 66000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 424.32,
+        "final_payment": 425.32,
+        "total_amount_payable": 27755.2,
+        "total_charge_for_credit": 4805.2,
+        "amount_of_credit": 20655,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

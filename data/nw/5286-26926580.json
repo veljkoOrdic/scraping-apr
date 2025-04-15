@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:01:02.852Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carquay.co.uk/used/cars/porsche/718-cayman/718-cayman-2-0t-pdk-euro-6-s-s-2dr-5424",
+    "dealer_id": "5286",
+    "car_id": "26926580",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VU68KHA",
+        "registration_date": "27/09/2018",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 832.4,
+        "final_payment": 833.4,
+        "total_amount_payable": 43455.7,
+        "total_charge_for_credit": 8460.7,
+        "amount_of_credit": 31495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

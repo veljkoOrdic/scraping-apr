@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:58:11.725Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.streetcars-crewe.co.uk/cars/mini/hatch/1.5-5-door-hatch-cooper/1301583/",
+    "dealer_id": "6588",
+    "car_id": "25295383",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DF17JUK",
+        "registration_date": "01/06/2017",
+        "mileage": 8000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11990,
+        "total_price": 11990,
+        "deposit": 1199,
+        "balance": 10791,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 226.51,
+        "final_payment": 226.51,
+        "total_amount_payable": 14789.6,
+        "total_charge_for_credit": 2799.6,
+        "amount_of_credit": 10791,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

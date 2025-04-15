@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:40:22.949Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.clubclasscarsyork.com/used-porsche-macan-dunnington-north-yorkshire-6564367",
+    "dealer_id": "6887",
+    "car_id": "26568192",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ND70RHZ",
+        "registration_date": "31/12/2020",
+        "mileage": 27700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51795,
+        "total_price": 51795,
+        "deposit": 5179,
+        "balance": 46616,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 957.67,
+        "final_payment": 958.67,
+        "total_amount_payable": 62640.2,
+        "total_charge_for_credit": 10845.2,
+        "amount_of_credit": 46616,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51795,
+        "total_price": 51795,
+        "deposit": 5179,
+        "balance": 46616,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 748.89,
+        "final_payment": 23626,
+        "total_amount_payable": 64002.83,
+        "total_charge_for_credit": 12207.83,
+        "amount_of_credit": 46616,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 23625,
+        "price_to_buy": 23626
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:27:39.938Z",
+    "source": "new_vehicle_finance",
+    "url": "https://richlee.co.uk/stocklist/20545/renault-trafic-20-trafic-ll30-extra-blue-dci",
+    "dealer_id": "7287",
+    "car_id": "25139360",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML24LHZ",
+        "registration_date": "14/03/2024",
+        "mileage": 44,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53994,
+        "total_price": 53994,
+        "deposit": 5399.4,
+        "balance": 48594.6,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1041.84,
+        "final_payment": 1042.84,
+        "total_amount_payable": 67910.8,
+        "total_charge_for_credit": 13916.8,
+        "amount_of_credit": 48594.6,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

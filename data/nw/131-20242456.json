@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:23:02.935Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rdmdirect.co.uk/used-maserati-granturismo-burton-on-trent-staffordshire-5064185",
+    "dealer_id": "131",
+    "car_id": "20242456",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MX13JLU",
+        "registration_date": "03/05/2013",
+        "mileage": 59846,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25000,
+        "total_price": 25000,
+        "deposit": 300,
+        "balance": 24700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 652.79,
+        "final_payment": 653.79,
+        "total_amount_payable": 31634.92,
+        "total_charge_for_credit": 6634.92,
+        "amount_of_credit": 24700,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

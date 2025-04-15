@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:35:37.969Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mortonparkmotorcompany.co.uk/details/car-in-darlington/mercedes-benz/cclass/2.1-c250d-amg-line-premium-plus-g-tronic+-4matic-euro-6-ss-4dr/1346814/",
+    "dealer_id": "6883",
+    "car_id": "26657423",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WU18ZRF",
+        "registration_date": "06/03/2018",
+        "mileage": 42863,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18990,
+        "total_price": 18990,
+        "deposit": 0,
+        "balance": 18990,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 415.69,
+        "final_payment": 416.69,
+        "total_amount_payable": 24942.4,
+        "total_charge_for_credit": 5952.4,
+        "amount_of_credit": 18990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

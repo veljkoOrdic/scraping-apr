@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:13:23.307Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjonesltd.co.uk/cars-for-sale/bournemouth/car/1140/porsche-taycan-4s-my24-performance-battery-plus-volcano-grey-metallic-passenger-display-sport-chrono-package-pano-roof-4-1-seats-150kw-on-board-booster-bose-sound-system",
+    "dealer_id": "8754",
+    "car_id": "27715586",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC24ZNE",
+        "registration_date": "12/04/2024",
+        "mileage": 6922,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 7200,
+        "balance": 64800,
+        "apr": 14.9,
+        "rate_of_interest": 7.77,
+        "term": 48,
+        "regular_payment": 1769.76,
+        "final_payment": 1770.76,
+        "total_amount_payable": 92149.48,
+        "total_charge_for_credit": 20149.48,
+        "amount_of_credit": 64800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 7200,
+        "balance": 64800,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 1153.61,
+        "final_payment": 27733,
+        "total_amount_payable": 90306.28,
+        "total_charge_for_credit": 18306.28,
+        "amount_of_credit": 64800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.34,
+        "residual": 27732,
+        "price_to_buy": 27733
+      }
+    ]
+  }
+]

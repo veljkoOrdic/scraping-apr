@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:04:59.078Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashmotorsltd.co.uk/cars/mercedes-benz/cclass/4.0-c63-v8-biturbo-amg-s---driving-assistance-package---carbon-interior-package---full-mb-history/1025987/",
+    "dealer_id": "6930",
+    "car_id": "22405421",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ66XYR",
+        "registration_date": "02/09/2016",
+        "mileage": 16000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 831.91,
+        "final_payment": 832.91,
+        "total_amount_payable": 54415.1,
+        "total_charge_for_credit": 9420.1,
+        "amount_of_credit": 40495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

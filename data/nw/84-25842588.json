@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:33:04.850Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lesrayner-foxhunters.co.uk/used-renault-clio-whitley-bay-tyne-and-wear-6380556",
+    "dealer_id": "84",
+    "car_id": "25842588",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG70YYH",
+        "registration_date": "03/09/2020",
+        "mileage": 45000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 192.96,
+        "final_payment": 193.96,
+        "total_amount_payable": 12577.6,
+        "total_charge_for_credit": 2578.6,
+        "amount_of_credit": 9000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 174.37,
+        "final_payment": 3466,
+        "total_amount_payable": 12660.39,
+        "total_charge_for_credit": 2661.39,
+        "amount_of_credit": 9000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "contract_mileage": 48000,
+        "excess_mileage_rate": 0.15,
+        "residual": 3465,
+        "price_to_buy": 3466
+      }
+    ]
+  }
+]

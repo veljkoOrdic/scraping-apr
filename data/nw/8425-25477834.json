@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:58:22.323Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.we-sell-any-car.com/used-audi-a4-peterborough-cambridgeshire-6301041",
+    "dealer_id": "8425",
+    "car_id": "25477834",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VO67RZJ",
+        "registration_date": "06/11/2017",
+        "mileage": 95213,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11957,
+        "total_price": 11957,
+        "deposit": 1195,
+        "balance": 10762,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 240.44,
+        "final_payment": 241.44,
+        "total_amount_payable": 15622.4,
+        "total_charge_for_credit": 3665.4,
+        "amount_of_credit": 10762,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

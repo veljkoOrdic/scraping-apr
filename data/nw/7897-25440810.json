@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:10:42.530Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.binleywoodsapproved.co.uk/cars/audi/tt/2.0-tfsi-sport/1248423/",
+    "dealer_id": "7897",
+    "car_id": "25440810",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ11GCX",
+        "registration_date": "27/05/2011",
+        "mileage": 57412,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099.9,
+        "balance": 9899.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 13,
+        "regular_payment": 804.16,
+        "final_payment": 805.16,
+        "total_amount_payable": 11554.98,
+        "total_charge_for_credit": 555.98,
+        "amount_of_credit": 9899.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:58:59.488Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/bmw-x6-xdrive-40d-m-sport-mhev-auto-4wd-in-kent-1f1b5787-48cb-48d8-912b-b22d00fc9ab9",
+    "dealer_id": "5545",
+    "car_id": "26295899",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LB22CAV",
+        "registration_date": "17/06/2022",
+        "mileage": 23559,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48990,
+        "total_price": 48990,
+        "deposit": 7348.5,
+        "balance": 41641.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1027.48,
+        "final_payment": 1028.48,
+        "total_amount_payable": 56668.54,
+        "total_charge_for_credit": 7678.54,
+        "amount_of_credit": 41641.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48990,
+        "total_price": 48990,
+        "deposit": 7348.5,
+        "balance": 41641.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 646.92,
+        "final_payment": 21846.92,
+        "total_amount_payable": 60247.58,
+        "total_charge_for_credit": 11257.58,
+        "amount_of_credit": 41641.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.2,
+        "residual": 21845.92,
+        "price_to_buy": 21846.92
+      }
+    ]
+  }
+]

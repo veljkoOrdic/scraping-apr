@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:43:26.474Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.moravianmotors.co.uk/used/vauxhall/astra/5dr-54kwh-11kwch-ultimate-au/buckie/aberdeenshire/21141832",
+    "dealer_id": "7781",
+    "car_id": "22984678",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW23UBM",
+        "registration_date": "30/08/2023",
+        "mileage": 14000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 583.04,
+        "final_payment": 584.04,
+        "total_amount_payable": 37882.9,
+        "total_charge_for_credit": 8887.9,
+        "amount_of_credit": 26095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 513.58,
+        "final_payment": 11340,
+        "total_amount_payable": 38377.76,
+        "total_charge_for_credit": 9382.76,
+        "amount_of_credit": 26095.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 11340,
+        "price_to_buy": 11340
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:10:22.434Z",
+    "source": "new_vehicle_finance",
+    "url": "https://jmvcars.co.uk/vehicle/name/mercedes-c-class-c-220-d-se/",
+    "dealer_id": "8448",
+    "car_id": "25849417",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FT68AXM",
+        "registration_date": "26/11/2018",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13975,
+        "total_price": 13975,
+        "deposit": 2000,
+        "balance": 11975,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 251.36,
+        "final_payment": 252.36,
+        "total_amount_payable": 17082.6,
+        "total_charge_for_credit": 3107.6,
+        "amount_of_credit": 11975,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13975,
+        "total_price": 13975,
+        "deposit": 2000,
+        "balance": 11975,
+        "apr": 13.5,
+        "rate_of_interest": 6.9,
+        "term": 32,
+        "regular_payment": 264.73,
+        "final_payment": 7026,
+        "total_amount_payable": 17232.63,
+        "total_charge_for_credit": 3257.63,
+        "amount_of_credit": 11975,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 26667,
+        "excess_mileage_rate": 0.09,
+        "residual": 7016,
+        "price_to_buy": 7026
+      }
+    ]
+  }
+]

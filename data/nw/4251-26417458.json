@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:38:01.237Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-mini-convertible-sidcup-kent-6530839",
+    "dealer_id": "4251",
+    "car_id": "26417458",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GE21BZW",
+        "registration_date": "06/07/2021",
+        "mileage": 15500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 3999,
+        "balance": 16000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 328.7,
+        "final_payment": 329.7,
+        "total_amount_payable": 23722,
+        "total_charge_for_credit": 3723,
+        "amount_of_credit": 16000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 3999,
+        "balance": 16000,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 244.69,
+        "final_payment": 8616.6,
+        "total_amount_payable": 24360.72,
+        "total_charge_for_credit": 4361.72,
+        "amount_of_credit": 16000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8615.6,
+        "price_to_buy": 8616.6
+      }
+    ]
+  }
+]

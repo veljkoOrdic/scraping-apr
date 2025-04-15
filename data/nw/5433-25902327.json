@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:36:29.465Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcar.co.uk/used-cars/renault/arkana-hybrid-diamond-black-hatchback-HS73FOM",
+    "dealer_id": "5433",
+    "car_id": "25902327",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HS73FOM",
+        "registration_date": "27/02/2024",
+        "mileage": 6993,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 999,
+        "balance": 20000,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 519.63,
+        "final_payment": 529.63,
+        "total_amount_payable": 25951.24,
+        "total_charge_for_credit": 4952.24,
+        "amount_of_credit": 20000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 999,
+        "balance": 20000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 352.67,
+        "final_payment": 10435,
+        "total_amount_payable": 28009.49,
+        "total_charge_for_credit": 7010.49,
+        "amount_of_credit": 20000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.05,
+        "residual": 10434,
+        "price_to_buy": 10435
+      }
+    ]
+  }
+]

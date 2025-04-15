@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:26:37.329Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mfimotorgroup.com/used/bmw/x5/xdrive30d-se-5dr-auto/london/greater-london/21218144",
+    "dealer_id": "7079",
+    "car_id": "23935631",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK11VSL",
+        "registration_date": "21/03/2011",
+        "mileage": 85000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 999,
+        "balance": 8991,
+        "apr": 10.9,
+        "rate_of_interest": 5.59,
+        "term": 23,
+        "regular_payment": 432.77,
+        "final_payment": 433.77,
+        "total_amount_payable": 10953.71,
+        "total_charge_for_credit": 963.71,
+        "amount_of_credit": 8991,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

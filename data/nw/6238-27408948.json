@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:29:28.100Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-toyota-land-cruiser-d-active-for-sale-grm-autos-grange-road-u1540/",
+    "dealer_id": "6238",
+    "car_id": "27408948",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG72ZYU",
+        "registration_date": "27/09/2022",
+        "mileage": 46252,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.67,
+        "term": 60,
+        "regular_payment": 866.26,
+        "final_payment": 876.26,
+        "total_amount_payable": 56485.1,
+        "total_charge_for_credit": 11490.1,
+        "amount_of_credit": 40495.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499.5,
+        "balance": 40495.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.61,
+        "term": 49,
+        "regular_payment": 755.99,
+        "final_payment": 16503,
+        "total_amount_payable": 57290.02,
+        "total_charge_for_credit": 12295.02,
+        "amount_of_credit": 40495.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 16493,
+        "price_to_buy": 16503
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:25:09.896Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.trooncars.co.uk/used-tesla-model-3-leicester-leicestershire-6409506",
+    "dealer_id": "5412",
+    "car_id": "25951050",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ21PCM",
+        "registration_date": "19/08/2021",
+        "mileage": 31500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18400,
+        "total_price": 18400,
+        "deposit": 1840,
+        "balance": 16560,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 347.59,
+        "final_payment": 348.59,
+        "total_amount_payable": 22696.4,
+        "total_charge_for_credit": 4296.4,
+        "amount_of_credit": 16560,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18400,
+        "total_price": 18400,
+        "deposit": 1840,
+        "balance": 16560,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 293.3,
+        "final_payment": 7175.66,
+        "total_amount_payable": 23094.06,
+        "total_charge_for_credit": 4694.06,
+        "amount_of_credit": 16560,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7174.66,
+        "price_to_buy": 7175.66
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:13:58.107Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.themotor.company/used/jaguar/xf/20i-250-r-sport-4dr-auto/taunton/somerset/21481845",
+    "dealer_id": "6180",
+    "car_id": "26524966",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MP19HVV",
+        "registration_date": "29/06/2019",
+        "mileage": 49505,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14910,
+        "total_price": 14910,
+        "deposit": 1491,
+        "balance": 13419,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 293.74,
+        "final_payment": 294.74,
+        "total_amount_payable": 19116.4,
+        "total_charge_for_credit": 4206.4,
+        "amount_of_credit": 13419,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

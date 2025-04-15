@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:57:34.844Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wealdstonemotors.co.uk/used-bmw-1-series-north-harrow-middlesex-5975152",
+    "dealer_id": "3840",
+    "car_id": "24142380",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FL71KGZ",
+        "registration_date": "23/09/2021",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199,
+        "balance": 19796,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 415.52,
+        "final_payment": 416.52,
+        "total_amount_payable": 27131.2,
+        "total_charge_for_credit": 5136.2,
+        "amount_of_credit": 19796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199,
+        "balance": 19796,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 305.04,
+        "final_payment": 11246.5,
+        "total_amount_payable": 28087.42,
+        "total_charge_for_credit": 6092.42,
+        "amount_of_credit": 19796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 11245.5,
+        "price_to_buy": 11246.5
+      }
+    ]
+  }
+]

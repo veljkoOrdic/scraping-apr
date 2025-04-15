@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:59:36.258Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aspinallmotors.co.uk/cars-for-sale/swansea/car/883/ford-fiesta-zetec-tdci-1-5-5dr-air-con-5-services",
+    "dealer_id": "7656",
+    "car_id": "26279059",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LG13DFV",
+        "registration_date": "23/03/2013",
+        "mileage": 98174,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3495,
+        "total_price": 3495,
+        "deposit": 0,
+        "balance": 3495,
+        "apr": 12.5,
+        "rate_of_interest": 6.34,
+        "term": 35,
+        "regular_payment": 118.33,
+        "final_payment": 128.33,
+        "total_amount_payable": 4151.55,
+        "total_charge_for_credit": 656.55,
+        "amount_of_credit": 3495,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

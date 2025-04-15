@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:00:32.791Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carquay.co.uk/used/cars/bmw/x5/2-0-40e-9-0kwh-m-sport-auto-xdrive-euro-6-s-s-5dr-5460",
+    "dealer_id": "5286",
+    "car_id": "26379975",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DP16AHU",
+        "registration_date": "09/06/2016",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20295,
+        "total_price": 20295,
+        "deposit": 2029.5,
+        "balance": 18265.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 482.73,
+        "final_payment": 483.73,
+        "total_amount_payable": 25201.54,
+        "total_charge_for_credit": 4906.54,
+        "amount_of_credit": 18265.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

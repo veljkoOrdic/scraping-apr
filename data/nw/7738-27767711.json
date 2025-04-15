@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:29:08.721Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hothatches.co.uk/listings/ay16yce/",
+    "dealer_id": "7738",
+    "car_id": "27767711",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AY16YCE",
+        "registration_date": "07/03/2016",
+        "mileage": 53886,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 180.7,
+        "final_payment": 181.7,
+        "total_amount_payable": 9474.1,
+        "total_charge_for_credit": 1479.1,
+        "amount_of_credit": 7195.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

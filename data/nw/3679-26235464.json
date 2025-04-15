@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:38:21.826Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chromemotors.co.uk/used-tesla-model-3-stockport-cheshire-6481407",
+    "dealer_id": "3679",
+    "car_id": "26235464",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MB19SMO",
+        "registration_date": "28/08/2019",
+        "mileage": 56626,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16994,
+        "total_price": 16994,
+        "deposit": 0,
+        "balance": 16994,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 356.7,
+        "final_payment": 357.7,
+        "total_amount_payable": 21403,
+        "total_charge_for_credit": 4409,
+        "amount_of_credit": 16994,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

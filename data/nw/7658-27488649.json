@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:01:02.031Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.synergy-motors.com/details/used-car-in-croydon/tesla/models/75d-dual-motor-executive-edition-auto-4wd-5dr/1416029/",
+    "dealer_id": "7658",
+    "car_id": "27488649",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD67SGY",
+        "registration_date": "30/10/2017",
+        "mileage": 98000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 283.27,
+        "final_payment": 284.27,
+        "total_amount_payable": 18496.7,
+        "total_charge_for_credit": 3501.7,
+        "amount_of_credit": 13495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

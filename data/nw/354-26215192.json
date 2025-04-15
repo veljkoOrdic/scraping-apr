@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:27:54.131Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westhillcars.co.uk/used-ford-ecosport-westhill-aberdeenshire-6479169",
+    "dealer_id": "354",
+    "car_id": "26215192",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GU71VVB",
+        "registration_date": "25/10/2021",
+        "mileage": 20000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12950,
+        "total_price": 12950,
+        "deposit": 647,
+        "balance": 12303,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 258.24,
+        "final_payment": 259.24,
+        "total_amount_payable": 16142.4,
+        "total_charge_for_credit": 3192.4,
+        "amount_of_credit": 12303,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12950,
+        "total_price": 12950,
+        "deposit": 647,
+        "balance": 12303,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 217.63,
+        "final_payment": 5347,
+        "total_amount_payable": 16440.24,
+        "total_charge_for_credit": 3490.24,
+        "amount_of_credit": 12303,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5346,
+        "price_to_buy": 5347
+      }
+    ]
+  }
+]

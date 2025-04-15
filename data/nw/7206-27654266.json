@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:46:01.352Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicecarsupermarket.com/used-porsche-taycan-blackburn-lancashire-6841147",
+    "dealer_id": "7206",
+    "car_id": "27654266",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ73DGU",
+        "registration_date": "14/11/2023",
+        "mileage": 11578,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61985,
+        "total_price": 61985,
+        "deposit": 6198,
+        "balance": 55787,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1196.06,
+        "final_payment": 1196.06,
+        "total_amount_payable": 77961.6,
+        "total_charge_for_credit": 15976.6,
+        "amount_of_credit": 55787,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61985,
+        "total_price": 61985,
+        "deposit": 6198,
+        "balance": 55787,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 49,
+        "regular_payment": 955.17,
+        "final_payment": 28078.3,
+        "total_amount_payable": 80124.46,
+        "total_charge_for_credit": 18139.46,
+        "amount_of_credit": 55787,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.32,
+        "residual": 28077.3,
+        "price_to_buy": 28078.3
+      }
+    ]
+  }
+]

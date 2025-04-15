@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:34:28.215Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surecardirect.co.uk/details/used-car-in-fishponds/audi/a1/1.0-tfsi-sport-euro-6-ss-3dr/1335728/",
+    "dealer_id": "1579",
+    "car_id": "27787346",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GM17PJX",
+        "registration_date": "27/06/2017",
+        "mileage": 72725,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7695,
+        "total_price": 7695,
+        "deposit": 384.75,
+        "balance": 7310.25,
+        "apr": 11.4,
+        "rate_of_interest": 5.9,
+        "term": 48,
+        "regular_payment": 188.22,
+        "final_payment": 198.22,
+        "total_amount_payable": 9429.31,
+        "total_charge_for_credit": 1734.31,
+        "amount_of_credit": 7310.25,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

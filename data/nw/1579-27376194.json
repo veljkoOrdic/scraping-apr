@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:34:43.339Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surecardirect.co.uk/details/used-car-in-fishponds/ford/focus/1.6-titanium-5dr/1406420/",
+    "dealer_id": "1579",
+    "car_id": "27376194",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ09HMX",
+        "registration_date": "03/03/2009",
+        "mileage": 97991,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2195,
+        "total_price": 2195,
+        "deposit": 109.75,
+        "balance": 2085.25,
+        "apr": 22.9,
+        "rate_of_interest": 12.03,
+        "term": 48,
+        "regular_payment": 64.35,
+        "final_payment": 64.35,
+        "total_amount_payable": 3198.55,
+        "total_charge_for_credit": 1003.55,
+        "amount_of_credit": 2085.25,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

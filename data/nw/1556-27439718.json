@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:33:40.669Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajautos.com/details/used-car-in-bournemouth/mercedes-benz/eclass/2.0-e220d-amg-line-premium-cabriolet-g-tronic+-euro-6-ss-2dr/1411737/",
+    "dealer_id": "1556",
+    "car_id": "27439718",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WH18HGJ",
+        "registration_date": "31/07/2018",
+        "mileage": 28000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22950,
+        "total_price": 22950,
+        "deposit": 2295,
+        "balance": 20655,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 509.64,
+        "final_payment": 510.64,
+        "total_amount_payable": 26758.72,
+        "total_charge_for_credit": 3808.72,
+        "amount_of_credit": 20655,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

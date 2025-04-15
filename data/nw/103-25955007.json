@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:49:55.584Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebbsfleetspecialistcars.co.uk/used-mercedes-benz-a-class-gravesend-kent-6412205",
+    "dealer_id": "103",
+    "car_id": "25955007",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "J3KEC",
+        "registration_date": "07/08/2014",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 1200,
+        "balance": 10800,
+        "apr": 12.9,
+        "rate_of_interest": 6.74,
+        "term": 51,
+        "regular_payment": 272.4,
+        "final_payment": 273.4,
+        "total_amount_payable": 15093.4,
+        "total_charge_for_credit": 3093.4,
+        "amount_of_credit": 10800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

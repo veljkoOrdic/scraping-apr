@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:12.536Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-bmw-6-series-640d-m-sport-gran-coupe-5795/",
+    "dealer_id": "7512",
+    "car_id": "25120813",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ18WTP",
+        "registration_date": "23/06/2018",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 0,
+        "balance": 18995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 390.21,
+        "final_payment": 391.21,
+        "total_amount_payable": 23413.6,
+        "total_charge_for_credit": 4418.6,
+        "amount_of_credit": 18995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:42:40.024Z",
+    "source": "new_vehicle_finance",
+    "url": "https://dunecht4x4garage.co.uk/toyota/2020-20-toyota-hi-lux-2-4-invincible-x-d-4d4wd-no-vat-09-03-2020/",
+    "dealer_id": "4997",
+    "car_id": "26952411",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FE20NFP",
+        "registration_date": "09/03/2020",
+        "mileage": 12000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31500,
+        "total_price": 31500,
+        "deposit": 1000,
+        "balance": 25250,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 634.07,
+        "final_payment": 635.07,
+        "total_amount_payable": 36686.36,
+        "total_charge_for_credit": 5186.36,
+        "amount_of_credit": 25250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

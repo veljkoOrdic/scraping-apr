@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:29:42.504Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sprysoflaunceston.co.uk/details/used-car-in-launceston/honda/jazz/1.5-h-i-mmd-ex-ecvt-euro-6-ss-5dr/1379633/",
+    "dealer_id": "5198",
+    "car_id": "27057717",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK70JBV",
+        "registration_date": "21/10/2020",
+        "mileage": 22481,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 302.16,
+        "final_payment": 303.16,
+        "total_amount_payable": 19730.1,
+        "total_charge_for_credit": 3735.1,
+        "amount_of_credit": 14395.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 206.17,
+        "final_payment": 9094.5,
+        "total_amount_payable": 20590.16,
+        "total_charge_for_credit": 4595.16,
+        "amount_of_credit": 14395.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.05,
+        "residual": 9094.5,
+        "price_to_buy": 9094.5
+      }
+    ]
+  }
+]

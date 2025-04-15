@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:48:03.912Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mcautosales.co.uk/used-seat-ibiza-magherafelt-londonderry-6136199",
+    "dealer_id": "6806",
+    "car_id": "24814554",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SH12LXB",
+        "registration_date": "15/06/2012",
+        "mileage": 89000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4850,
+        "total_price": 4850,
+        "deposit": 0,
+        "balance": 4850,
+        "apr": 9.9,
+        "rate_of_interest": 5.07,
+        "term": 26,
+        "regular_payment": 207.04,
+        "final_payment": 208.04,
+        "total_amount_payable": 5384.04,
+        "total_charge_for_credit": 534.04,
+        "amount_of_credit": 4850,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

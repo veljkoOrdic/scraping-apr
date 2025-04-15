@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:26:44.019Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.szmotorgroup.co.uk/details/used-car-in-nottingham/tesla/modely/dual-motor-long-range-auto-4wde-5dr/1375427/",
+    "dealer_id": "7722",
+    "car_id": "27003180",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN72DTF",
+        "registration_date": "27/09/2022",
+        "mileage": 33417,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31795,
+        "total_price": 31795,
+        "deposit": 3179.5,
+        "balance": 28615.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 600.53,
+        "final_payment": 610.53,
+        "total_amount_payable": 39221.3,
+        "total_charge_for_credit": 7426.3,
+        "amount_of_credit": 28615.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31795,
+        "total_price": 31795,
+        "deposit": 3179.5,
+        "balance": 28615.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 470.95,
+        "final_payment": 14500,
+        "total_amount_payable": 40285.1,
+        "total_charge_for_credit": 8490.1,
+        "amount_of_credit": 28615.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 14490,
+        "price_to_buy": 14500
+      }
+    ]
+  }
+]

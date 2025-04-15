@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T03:22:44.221Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lutontradecentre.com/used-audi-rs6-avant-luton-bedfordshire-5636049",
+    "dealer_id": "6846",
+    "car_id": "22936060",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "V115HAL",
+        "registration_date": "04/06/2020",
+        "mileage": 32864,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 18995,
+        "balance": 50000,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 730.58,
+        "final_payment": 31231,
+        "total_amount_payable": 84563.26,
+        "total_charge_for_credit": 15568.26,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.15,
+        "residual": 31230,
+        "price_to_buy": 31231
+      }
+    ]
+  }
+]

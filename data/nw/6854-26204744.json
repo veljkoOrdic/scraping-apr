@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:23:53.490Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mhmotorsltd.com/used-dacia-sandero-glengormly-county-antrim-6474931",
+    "dealer_id": "6854",
+    "car_id": "26204744",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MFZ4801",
+        "registration_date": "26/02/2013",
+        "mileage": 89335,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3250,
+        "total_price": 3250,
+        "deposit": 162,
+        "balance": 3088,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 34,
+        "regular_payment": 107.85,
+        "final_payment": 108.85,
+        "total_amount_payable": 3829.9,
+        "total_charge_for_credit": 579.9,
+        "amount_of_credit": 3088,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

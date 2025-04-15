@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:18:35.097Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jeffwhitemotors.co.uk/used-hyundai-ioniq-cardiff-glamorgan-4755420",
+    "dealer_id": "5624",
+    "car_id": "18994111",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DS18BZU",
+        "registration_date": "27/05/2018",
+        "mileage": 55290,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11988,
+        "total_price": 11988,
+        "deposit": 0,
+        "balance": 11988,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 257.01,
+        "final_payment": 258.01,
+        "total_amount_payable": 15421.6,
+        "total_charge_for_credit": 3433.6,
+        "amount_of_credit": 11988,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11988,
+        "total_price": 11988,
+        "deposit": 0,
+        "balance": 11988,
+        "apr": 11.9,
+        "rate_of_interest": 6.07,
+        "term": 26,
+        "regular_payment": 307.07,
+        "final_payment": 6604,
+        "total_amount_payable": 14280.75,
+        "total_charge_for_credit": 2292.75,
+        "amount_of_credit": 11988,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 21667,
+        "excess_mileage_rate": 0.06,
+        "residual": 6594,
+        "price_to_buy": 6604
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:39:16.327Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-mercedes-benz-vito-sidcup-kent-5769777",
+    "dealer_id": "4251",
+    "car_id": "23335382",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NA23XFP",
+        "registration_date": "24/04/2023",
+        "mileage": 16372,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 7999,
+        "balance": 31996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 671.61,
+        "final_payment": 672.61,
+        "total_amount_payable": 48296.6,
+        "total_charge_for_credit": 8301.6,
+        "amount_of_credit": 31996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

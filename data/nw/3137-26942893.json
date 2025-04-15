@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:37:49.876Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehertfordcarcompany.co.uk/used-mercedes-benz-e-class-hertford-hertfordshire-6663685",
+    "dealer_id": "3137",
+    "car_id": "26942893",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU68HBZ",
+        "registration_date": "03/09/2018",
+        "mileage": 38979,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37989,
+        "total_price": 37989,
+        "deposit": 3798,
+        "balance": 34191,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 717.68,
+        "final_payment": 718.68,
+        "total_amount_payable": 46859.8,
+        "total_charge_for_credit": 8870.8,
+        "amount_of_credit": 34191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

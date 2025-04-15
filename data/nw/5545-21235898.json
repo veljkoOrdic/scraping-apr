@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:58:54.273Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/bmw-x5-xdrive45e-m-sport-auto-4wd-in-kent-2d1fdb4c-b523-4576-9a62-b1770095c727",
+    "dealer_id": "5545",
+    "car_id": "21235898",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP21EUO",
+        "registration_date": "17/03/2021",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 6748.5,
+        "balance": 38241.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 943.59,
+        "final_payment": 944.59,
+        "total_amount_payable": 52041.82,
+        "total_charge_for_credit": 7051.82,
+        "amount_of_credit": 38241.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 6748.5,
+        "balance": 38241.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 49,
+        "regular_payment": 623.58,
+        "final_payment": 18370.48,
+        "total_amount_payable": 55050.82,
+        "total_charge_for_credit": 10060.82,
+        "amount_of_credit": 38241.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.18,
+        "residual": 18369.48,
+        "price_to_buy": 18370.48
+      }
+    ]
+  }
+]

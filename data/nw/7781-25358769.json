@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:44:02.365Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.moravianmotors.co.uk/used/volkswagen/tiguan/r-line-edition-tdi-s-a/buckie/aberdeenshire/21373444",
+    "dealer_id": "7781",
+    "car_id": "25358769",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ73FWK",
+        "registration_date": "31/10/2023",
+        "mileage": 6888,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 643.37,
+        "final_payment": 644.37,
+        "total_amount_payable": 41802.7,
+        "total_charge_for_credit": 9807.7,
+        "amount_of_credit": 28795.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 555.23,
+        "final_payment": 13208,
+        "total_amount_payable": 42503.31,
+        "total_charge_for_credit": 10508.31,
+        "amount_of_credit": 28795.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 13208,
+        "price_to_buy": 13208
+      }
+    ]
+  }
+]

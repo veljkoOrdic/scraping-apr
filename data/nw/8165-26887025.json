@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:44:15.648Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premiermotors.co.uk/ford/used/mg/mg-hs/15-t-gdi-trophy-dct-euro-6-ss-5dr/newport/isle-of-wight/21526581",
+    "dealer_id": "8165",
+    "car_id": "26887025",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HW74EWE",
+        "registration_date": "02/09/2024",
+        "mileage": 1600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25290,
+        "total_price": 25290,
+        "deposit": 5058,
+        "balance": 20232,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 508.05,
+        "final_payment": 509.05,
+        "total_amount_payable": 29445.4,
+        "total_charge_for_credit": 4155.4,
+        "amount_of_credit": 20232,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25290,
+        "total_price": 25290,
+        "deposit": 5058,
+        "balance": 20232,
+        "apr": 9.9,
+        "rate_of_interest": 4.81,
+        "term": 49,
+        "regular_payment": 289.83,
+        "final_payment": 12777.62,
+        "total_amount_payable": 31747.46,
+        "total_charge_for_credit": 6457.46,
+        "amount_of_credit": 20232,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.14,
+        "residual": 12776.62,
+        "price_to_buy": 12777.62
+      }
+    ]
+  }
+]

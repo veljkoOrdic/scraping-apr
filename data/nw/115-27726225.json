@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:04:16.249Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.flcgroup.co.uk/used-bentley-continental-yiewsley-london-6860926",
+    "dealer_id": "115",
+    "car_id": "27726225",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC16DHX",
+        "registration_date": "16/06/2016",
+        "mileage": 53200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49950,
+        "total_price": 49950,
+        "deposit": 4995,
+        "balance": 44955,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 923.53,
+        "final_payment": 924.53,
+        "total_amount_payable": 60407.8,
+        "total_charge_for_credit": 10457.8,
+        "amount_of_credit": 44955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

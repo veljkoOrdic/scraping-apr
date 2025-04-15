@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:28:37.014Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ovms.co.uk/used-car-details/used-land-rover-discovery-30-sd-v6-hse-suv-5dr-diesel-a-automatic-diesel/id-202501278449985/",
+    "dealer_id": "1504",
+    "car_id": "26888571",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BG69NUB",
+        "registration_date": "27/11/2019",
+        "mileage": 42993,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40314,
+        "total_price": 40314,
+        "deposit": 1000,
+        "balance": 39314,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 878.39,
+        "final_payment": 878.39,
+        "total_amount_payable": 53703.4,
+        "total_charge_for_credit": 13389.4,
+        "amount_of_credit": 39314,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

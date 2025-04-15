@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:12:10.213Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.llanellimotorcompany.co.uk/used-vehicle-details/BMW-X5-U9988/",
+    "dealer_id": "7446",
+    "car_id": "27331768",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "L3OOO",
+        "registration_date": "16/08/2011",
+        "mileage": 20000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.1,
+        "term": 39,
+        "regular_payment": 1479.55,
+        "final_payment": 1480.55,
+        "total_amount_payable": 63202.95,
+        "total_charge_for_credit": 8207.95,
+        "amount_of_credit": 49495.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

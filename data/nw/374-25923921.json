@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:43:10.832Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cullodencarsales.co.uk/used/cars/audi/a7/4-0-rs-7-sportback-tfsi-v8-quattro-auto-4wd-5dr-1394",
+    "dealer_id": "374",
+    "car_id": "25923921",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB65WWM",
+        "registration_date": "12/11/2015",
+        "mileage": 84958,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 0,
+        "balance": 25995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 557.33,
+        "final_payment": 558.33,
+        "total_amount_payable": 33440.8,
+        "total_charge_for_credit": 7445.8,
+        "amount_of_credit": 25995,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

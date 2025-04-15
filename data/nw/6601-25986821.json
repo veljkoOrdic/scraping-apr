@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:59:37.872Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.winfordroadgarages.co.uk/used-car-details/used-ford-mustang-50-410ps-v8-gt-fastback-coupe-ruby-red-manual-petrol/id-1177/",
+    "dealer_id": "6601",
+    "car_id": "25986821",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO16KWP",
+        "registration_date": "11/04/2016",
+        "mileage": 19842,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27850,
+        "total_price": 27850,
+        "deposit": 5570,
+        "balance": 22280,
+        "apr": 10.4,
+        "rate_of_interest": 5.45,
+        "term": 60,
+        "regular_payment": 472.54,
+        "final_payment": 482.54,
+        "total_amount_payable": 33932.4,
+        "total_charge_for_credit": 6082.4,
+        "amount_of_credit": 22280,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

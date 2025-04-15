@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:35:33.103Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pitstopmotorsni.co.uk/used-audi-rs6-avant-lisburn-northern-ireland-6824442",
+    "dealer_id": "5207",
+    "car_id": "27559591",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY16TVJ",
+        "registration_date": "08/03/2016",
+        "mileage": 75247,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33990,
+        "total_price": 33990,
+        "deposit": 3399,
+        "balance": 30591,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 642.12,
+        "final_payment": 643.12,
+        "total_amount_payable": 41927.2,
+        "total_charge_for_credit": 7937.2,
+        "amount_of_credit": 30591,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

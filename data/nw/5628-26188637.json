@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:22:30.917Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.denburydiesels.co.uk/vehicle-details/used-volkswagen-transporter-lwb-tdi-t28-startline-for-sale-u18207/",
+    "dealer_id": "5628",
+    "car_id": "26188637",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK21SHV",
+        "registration_date": "03/03/2021",
+        "mileage": 67686,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19554,
+        "total_price": 19554,
+        "deposit": 1629.5,
+        "balance": 14665.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 381.14,
+        "final_payment": 382.14,
+        "total_amount_payable": 23184.22,
+        "total_charge_for_credit": 3630.22,
+        "amount_of_credit": 14665.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

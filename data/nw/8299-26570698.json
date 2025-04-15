@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:15:36.500Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jrrcars.co.uk/used/commercials/renault/kangoo/1-5-kangoo-ll21-business-energy-dci-331",
+    "dealer_id": "8299",
+    "car_id": "26570698",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PN20LPU",
+        "registration_date": "06/03/2020",
+        "mileage": 104000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8400,
+        "total_price": 8400,
+        "deposit": 700,
+        "balance": 7700,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 161.62,
+        "final_payment": 162.62,
+        "total_amount_payable": 10398.2,
+        "total_charge_for_credit": 1998.2,
+        "amount_of_credit": 7700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:11:29.976Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellacars.co.uk/used-mercedes-benz-gle-huddersfield-west-yorkshire-6866681",
+    "dealer_id": "253",
+    "car_id": "27753437",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ71CPX",
+        "registration_date": "16/11/2021",
+        "mileage": 43217,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 1000,
+        "balance": 38990,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 800.86,
+        "final_payment": 810.86,
+        "total_amount_payable": 49061.6,
+        "total_charge_for_credit": 9071.6,
+        "amount_of_credit": 38990,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 1000,
+        "balance": 38990,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 621.28,
+        "final_payment": 19563,
+        "total_amount_payable": 50384.44,
+        "total_charge_for_credit": 10394.44,
+        "amount_of_credit": 38990,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 19553,
+        "price_to_buy": 19563
+      }
+    ]
+  }
+]

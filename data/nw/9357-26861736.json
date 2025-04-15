@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:17:16.267Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surreyspecialistcars.co.uk/used-vauxhall-astra-gtc-guildford-surrey-6639505",
+    "dealer_id": "9357",
+    "car_id": "26861736",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DN65KXE",
+        "registration_date": "30/09/2015",
+        "mileage": 48539,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4790,
+        "total_price": 4790,
+        "deposit": 479,
+        "balance": 4311,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 90.48,
+        "final_payment": 91.48,
+        "total_amount_payable": 5908.8,
+        "total_charge_for_credit": 1118.8,
+        "amount_of_credit": 4311,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:43:43.327Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.monarchmotorco.co.uk/used-mercedes-benz-c-class-redditch-worcestershire-6870135",
+    "dealer_id": "2530",
+    "car_id": "27766494",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ18XED",
+        "registration_date": "31/03/2018",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 1000,
+        "balance": 25990,
+        "apr": 9.6,
+        "rate_of_interest": 5.03,
+        "term": 60,
+        "regular_payment": 542.05,
+        "final_payment": 543.05,
+        "total_amount_payable": 33524,
+        "total_charge_for_credit": 6534,
+        "amount_of_credit": 25990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

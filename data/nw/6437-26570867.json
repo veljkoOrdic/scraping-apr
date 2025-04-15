@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:24:19.364Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-porsche-911-peterborough-cambridgeshire-6565133",
+    "dealer_id": "6437",
+    "car_id": "26570867",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV66HZP",
+        "registration_date": "01/09/2016",
+        "mileage": 21381,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69490,
+        "total_price": 69490,
+        "deposit": 6949,
+        "balance": 62541,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1369.04,
+        "final_payment": 1370.04,
+        "total_amount_payable": 89092.4,
+        "total_charge_for_credit": 19602.4,
+        "amount_of_credit": 62541,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:41:43.198Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.applecrossmotors.co.uk/used-porsche-macan-broxburn-west-lothian-6715440",
+    "dealer_id": "370",
+    "car_id": "27245492",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SR69LFJ",
+        "registration_date": "18/11/2019",
+        "mileage": 34758,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48500,
+        "total_price": 48500,
+        "deposit": 4850,
+        "balance": 43650,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 916.23,
+        "final_payment": 917.23,
+        "total_amount_payable": 59824.8,
+        "total_charge_for_credit": 11324.8,
+        "amount_of_credit": 43650,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

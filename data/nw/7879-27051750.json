@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:00:40.480Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bsbautomotive.co.uk/used-audi-r8-belvedere-london-6696756",
+    "dealer_id": "7879",
+    "car_id": "27051750",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "R800ECL",
+        "registration_date": "22/03/2017",
+        "mileage": 25150,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69990,
+        "total_price": 69990,
+        "deposit": 6999,
+        "balance": 62991,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1293.93,
+        "final_payment": 1303.93,
+        "total_amount_payable": 84644.8,
+        "total_charge_for_credit": 14654.8,
+        "amount_of_credit": 62991,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

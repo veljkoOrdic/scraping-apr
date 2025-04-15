@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:50:51.492Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.desirablecar.com/used-porsche-taycan-coalville-leicestershire-6820667",
+    "dealer_id": "5957",
+    "car_id": "27546469",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YF23FBC",
+        "registration_date": "28/04/2023",
+        "mileage": 6355,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72447,
+        "total_price": 72447,
+        "deposit": 10867,
+        "balance": 61580,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1265.07,
+        "final_payment": 1266.07,
+        "total_amount_payable": 86772.2,
+        "total_charge_for_credit": 14325.2,
+        "amount_of_credit": 61580,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72447,
+        "total_price": 72447,
+        "deposit": 10867,
+        "balance": 61580,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 1017.3,
+        "final_payment": 28827.1,
+        "total_amount_payable": 88524.5,
+        "total_charge_for_credit": 16077.5,
+        "amount_of_credit": 61580,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.36,
+        "residual": 28826.1,
+        "price_to_buy": 28827.1
+      }
+    ]
+  }
+]

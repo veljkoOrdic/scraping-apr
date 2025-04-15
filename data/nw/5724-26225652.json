@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:09:34.107Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hawkins.co.uk/used-car-details/used-nissan-micra-09-ig-t-n-connecta-hatchback-hatchback-red-manual-petrol/id-11147/",
+    "dealer_id": "5724",
+    "car_id": "26225652",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK68HMZ",
+        "registration_date": "28/09/2018",
+        "mileage": 54997,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 899,
+        "balance": 8100,
+        "apr": 13.9,
+        "rate_of_interest": 7.19,
+        "term": 41,
+        "regular_payment": 246.06,
+        "final_payment": 246.06,
+        "total_amount_payable": 10987.46,
+        "total_charge_for_credit": 1988.46,
+        "amount_of_credit": 8100,
+        "lender": "RCI Financial Services Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

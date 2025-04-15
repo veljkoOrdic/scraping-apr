@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:57:29.144Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.richardhardie.co.uk/used-car-details/used-nissan-qashqai-15-h-e-power-tekna-auto-euro-suv-blue-automatic-petrol-hybrid/id-202403127481931/",
+    "dealer_id": "5538",
+    "car_id": "23633840",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU72XXV",
+        "registration_date": "17/01/2023",
+        "mileage": 9242,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26999,
+        "total_price": 26999,
+        "deposit": 2699,
+        "balance": 24300,
+        "apr": 13.5,
+        "rate_of_interest": 7.13,
+        "term": 60,
+        "regular_payment": 549.43,
+        "final_payment": 559.43,
+        "total_amount_payable": 35674.8,
+        "total_charge_for_credit": 8675.8,
+        "amount_of_credit": 24300,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26999,
+        "total_price": 26999,
+        "deposit": 2699,
+        "balance": 24300,
+        "apr": 13.5,
+        "rate_of_interest": 7.03,
+        "term": 49,
+        "regular_payment": 457.85,
+        "final_payment": 11988,
+        "total_amount_payable": 36663.8,
+        "total_charge_for_credit": 9664.8,
+        "amount_of_credit": 24300,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 11978,
+        "price_to_buy": 11988
+      }
+    ]
+  }
+]

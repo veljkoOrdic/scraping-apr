@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:43:54.873Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westcountrycarsyeovil.co.uk/used-skoda-kamiq-yeovil-somerset-5584695",
+    "dealer_id": "3717",
+    "car_id": "22467260",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WV71YMW",
+        "registration_date": "11/11/2021",
+        "mileage": 8816,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 1900,
+        "balance": 17100,
+        "apr": 9.4,
+        "rate_of_interest": 4.86,
+        "term": 48,
+        "regular_payment": 425.5,
+        "final_payment": 435.5,
+        "total_amount_payable": 22334,
+        "total_charge_for_credit": 3334,
+        "amount_of_credit": 17100,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 1900,
+        "balance": 17100,
+        "apr": 9.4,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 275.3,
+        "final_payment": 8718,
+        "total_amount_payable": 23832.4,
+        "total_charge_for_credit": 4832.4,
+        "amount_of_credit": 17100,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 8708,
+        "price_to_buy": 8718
+      }
+    ]
+  }
+]

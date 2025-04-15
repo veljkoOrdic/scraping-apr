@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:57:08.404Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wealdstonemotors.co.uk/used-bmw-2-series-active-tourer-north-harrow-middlesex-6723176",
+    "dealer_id": "3840",
+    "car_id": "27271647",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN69UAG",
+        "registration_date": "06/09/2019",
+        "mileage": 46000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11000,
+        "total_price": 11000,
+        "deposit": 1100,
+        "balance": 9900,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 207.8,
+        "final_payment": 208.8,
+        "total_amount_payable": 13569,
+        "total_charge_for_credit": 2569,
+        "amount_of_credit": 9900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11000,
+        "total_price": 11000,
+        "deposit": 1100,
+        "balance": 9900,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 52,
+        "regular_payment": 195.56,
+        "final_payment": 2919.81,
+        "total_amount_payable": 13993.37,
+        "total_charge_for_credit": 2993.37,
+        "amount_of_credit": 9900,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 43333,
+        "excess_mileage_rate": 0.02,
+        "residual": 2918.81,
+        "price_to_buy": 2919.81
+      }
+    ]
+  }
+]

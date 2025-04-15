@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:26:07.828Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.norfolkcars.co.uk/vehicle-details/used-mini-hatch-cooper-sport-for-sale-in-norfolk-u2063/",
+    "dealer_id": "4907",
+    "car_id": "26666085",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC19VYX",
+        "registration_date": "15/03/2019",
+        "mileage": 37550,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549.9,
+        "balance": 13949.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 356.39,
+        "final_payment": 357.39,
+        "total_amount_payable": 18657.62,
+        "total_charge_for_credit": 3158.62,
+        "amount_of_credit": 13949.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

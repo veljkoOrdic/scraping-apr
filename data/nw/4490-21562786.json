@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:45:32.417Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ejbcarsales.co.uk/vehicle-details/used-audi-a6-saloon-2-0-tdi-ultra-s-line-s-tronic-for-sale-in-garvagh-northern-ireland-u5004/",
+    "dealer_id": "4490",
+    "car_id": "21562786",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OXZ2796",
+        "registration_date": "28/10/2016",
+        "mileage": 97000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 256.01,
+        "final_payment": 257.01,
+        "total_amount_payable": 16661.1,
+        "total_charge_for_credit": 3666.1,
+        "amount_of_credit": 11695.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

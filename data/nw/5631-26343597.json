@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:25:25.234Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/tesla/model-x/long-range-awd-3194",
+    "dealer_id": "5631",
+    "car_id": "26343597",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AK73GFY",
+        "registration_date": "20/01/2024",
+        "mileage": 7700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 63990,
+        "total_price": 63990,
+        "deposit": 10,
+        "balance": 63980,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1342.98,
+        "final_payment": 1343.98,
+        "total_amount_payable": 80589.8,
+        "total_charge_for_credit": 16599.8,
+        "amount_of_credit": 63980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 63990,
+        "total_price": 63990,
+        "deposit": 10,
+        "balance": 63980,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 49,
+        "regular_payment": 1200.97,
+        "final_payment": 25901,
+        "total_amount_payable": 83557.56,
+        "total_charge_for_credit": 19567.56,
+        "amount_of_credit": 63980,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.16,
+        "residual": 25891,
+        "price_to_buy": 25901
+      }
+    ]
+  }
+]

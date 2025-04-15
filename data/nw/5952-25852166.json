@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:47:25.319Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chapelhouse.co.uk/used/view/mg-hs-plug-in-hybrid-trophy-15/pk24hrd/",
+    "dealer_id": "5952",
+    "car_id": "25852166",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK24HRD",
+        "registration_date": "06/03/2024",
+        "mileage": 10519,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25996,
+        "total_price": 25996,
+        "deposit": 1000,
+        "balance": 24996,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 660.47,
+        "final_payment": 670.47,
+        "total_amount_payable": 32712.56,
+        "total_charge_for_credit": 6716.56,
+        "amount_of_credit": 24996,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25996,
+        "total_price": 25996,
+        "deposit": 1000,
+        "balance": 24996,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 485.96,
+        "final_payment": 10847.06,
+        "total_amount_payable": 35173.14,
+        "total_charge_for_credit": 9177.14,
+        "amount_of_credit": 24996,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 10847.06,
+        "price_to_buy": 10847.06
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:30:11.741Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sprysoflaunceston.co.uk/details/used-van-in-launceston/volkswagen/caddymaxi/2.0-tdi-life-dsg-euro-6-ss-5dr/1293319/",
+    "dealer_id": "5198",
+    "car_id": "26003549",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EX23MTY",
+        "registration_date": "01/03/2023",
+        "mileage": 20129,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 4832.5,
+        "balance": 24162.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 507.18,
+        "final_payment": 508.18,
+        "total_amount_payable": 35264.3,
+        "total_charge_for_credit": 6269.3,
+        "amount_of_credit": 24162.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

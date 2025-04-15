@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:41:37.119Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dalesautomotive.co.uk/used-mercedes-benz-b-class-kelbrook-lancashire-6828317",
+    "dealer_id": "4496",
+    "car_id": "27627481",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR68DZS",
+        "registration_date": "20/10/2018",
+        "mileage": 42992,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299,
+        "balance": 11696,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 288.58,
+        "final_payment": 289.58,
+        "total_amount_payable": 15151.84,
+        "total_charge_for_credit": 2156.84,
+        "amount_of_credit": 11696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

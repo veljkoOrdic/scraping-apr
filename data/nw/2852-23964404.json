@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:16:02.978Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adamsandsons.co.uk/details/used-van-in-oakham/volkswagen/transporter/2.0-tdi-t28-bluemotion-tech-highline-fwd-swb-euro-6-ss-5dr/1135554/",
+    "dealer_id": "2852",
+    "car_id": "23964404",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DU67AYZ",
+        "registration_date": "14/09/2017",
+        "mileage": 21094,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22200,
+        "total_price": 22200,
+        "deposit": 3700,
+        "balance": 18500,
+        "apr": 10.6,
+        "rate_of_interest": 5.56,
+        "term": 60,
+        "regular_payment": 394.01,
+        "final_payment": 404.01,
+        "total_amount_payable": 27350.6,
+        "total_charge_for_credit": 5150.6,
+        "amount_of_credit": 18500,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 60000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

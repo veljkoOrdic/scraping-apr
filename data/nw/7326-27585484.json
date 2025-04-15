@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:46:34.416Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.apexcarsdirect.co.uk/used-hyundai-i30-wiltshire-wiltshire-6809436",
+    "dealer_id": "7326",
+    "car_id": "27585484",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK69TNE",
+        "registration_date": "27/09/2019",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 410.88,
+        "final_payment": 411.88,
+        "total_amount_payable": 26828.8,
+        "total_charge_for_credit": 5078.8,
+        "amount_of_credit": 19575,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

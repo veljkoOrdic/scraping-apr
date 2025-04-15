@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:46:09.055Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-land-rover-discovery-sport-p250-r-dynamic-se-5dr-5-door-suv-firenze-red/ao69tdz",
+    "dealer_id": "5502",
+    "car_id": "26569610",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO69TDZ",
+        "registration_date": "11/01/2020",
+        "mileage": 43763,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 2549,
+        "balance": 22946,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 36,
+        "regular_payment": 744.62,
+        "final_payment": 744.62,
+        "total_amount_payable": 29355.32,
+        "total_charge_for_credit": 3860.32,
+        "amount_of_credit": 22946,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

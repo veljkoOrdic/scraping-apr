@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:36:01.384Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.peebles-autocentre.co.uk/details/used-car-in-peebles/volkswagen/caravelle/2.0-tdi-bluemotion-tech-executive-dsg-euro-6-ss-5dr/1351804/",
+    "dealer_id": "8870",
+    "car_id": "26719890",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM17XXU",
+        "registration_date": "28/07/2017",
+        "mileage": 64550,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 3149.5,
+        "balance": 28345.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 607.71,
+        "final_payment": 608.71,
+        "total_amount_payable": 39613.1,
+        "total_charge_for_credit": 8118.1,
+        "amount_of_credit": 28345.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

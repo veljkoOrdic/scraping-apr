@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:01:53.715Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.synergy-motors.com/details/used-car-in-croydon/tesla/modelx/dual-motor-long-range-auto-4wde-5dr/1408961/",
+    "dealer_id": "7658",
+    "car_id": "27404153",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH70OXW",
+        "registration_date": "23/09/2020",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 661.1,
+        "final_payment": 662.1,
+        "total_amount_payable": 43166.5,
+        "total_charge_for_credit": 8171.5,
+        "amount_of_credit": 31495.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 530.36,
+        "final_payment": 15256,
+        "total_amount_payable": 44212.78,
+        "total_charge_for_credit": 9217.78,
+        "amount_of_credit": 31495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 15255,
+        "price_to_buy": 15256
+      }
+    ]
+  }
+]

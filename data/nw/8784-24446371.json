@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:22:37.969Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/ferrari/458/spider-dct-181",
+    "dealer_id": "8784",
+    "car_id": "24446371",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU13KYS",
+        "registration_date": "26/04/2013",
+        "mileage": 10500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 157950,
+        "total_price": 157950,
+        "deposit": 15795,
+        "balance": 142155,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 3507.64,
+        "final_payment": 3508.64,
+        "total_amount_payable": 184162.72,
+        "total_charge_for_credit": 26212.72,
+        "amount_of_credit": 142155,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

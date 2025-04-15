@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:29:28.448Z",
+    "source": "new_vehicle_finance",
+    "url": "https://brockhammotorcompany.co.uk/usedetail?v=KR69OJD",
+    "dealer_id": "5867",
+    "car_id": "24445974",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR69OJD",
+        "registration_date": "09/12/2019",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18430,
+        "total_price": 18430,
+        "deposit": 1843,
+        "balance": 16587,
+        "apr": 17.9,
+        "rate_of_interest": 9.55,
+        "term": 60,
+        "regular_payment": 408.48,
+        "final_payment": 409.48,
+        "total_amount_payable": 26352.8,
+        "total_charge_for_credit": 7922.8,
+        "amount_of_credit": 16587,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

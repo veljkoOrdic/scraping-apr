@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:30:15.086Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vineautos.co.uk/details/used-car-in-axminster/fiat/500/1.2-pop-euro-5-ss-3dr/1411694/",
+    "dealer_id": "4217",
+    "car_id": "27439485",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY59LUW",
+        "registration_date": "03/09/2009",
+        "mileage": 97114,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2300,
+        "total_price": 2300,
+        "deposit": 230,
+        "balance": 2070,
+        "apr": 22.9,
+        "rate_of_interest": 12.33,
+        "term": 60,
+        "regular_payment": 55.77,
+        "final_payment": 55.77,
+        "total_amount_payable": 3576.2,
+        "total_charge_for_credit": 1276.2,
+        "amount_of_credit": 2070,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

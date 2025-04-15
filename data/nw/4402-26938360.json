@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:32:40.441Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eclipsecarsales.co.uk/used-land-rover-range-rover-winchester-hampshire-6666646",
+    "dealer_id": "4402",
+    "car_id": "26938360",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM72NFF",
+        "registration_date": "07/11/2022",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 87495,
+        "total_price": 87495,
+        "deposit": 1000,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 106953.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 87495,
+        "total_price": 87495,
+        "deposit": 1000,
+        "balance": 86495,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 1535.58,
+        "final_payment": 37267.08,
+        "total_amount_payable": 111974.92,
+        "total_charge_for_credit": 24479.92,
+        "amount_of_credit": 86495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.38,
+        "residual": 37266.08,
+        "price_to_buy": 37267.08
+      }
+    ]
+  }
+]

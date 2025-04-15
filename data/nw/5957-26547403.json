@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:48:34.527Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.desirablecar.com/used-tesla-model-x-coalville-leicestershire-6561517",
+    "dealer_id": "5957",
+    "car_id": "26547403",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML70TSY",
+        "registration_date": "30/09/2020",
+        "mileage": 70000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31487,
+        "total_price": 31487,
+        "deposit": 4723,
+        "balance": 26764,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 549.82,
+        "final_payment": 550.82,
+        "total_amount_payable": 37713.2,
+        "total_charge_for_credit": 6226.2,
+        "amount_of_credit": 26764,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31487,
+        "total_price": 31487,
+        "deposit": 4723,
+        "balance": 26764,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 416.98,
+        "final_payment": 13973.5,
+        "total_amount_payable": 38711.54,
+        "total_charge_for_credit": 7224.54,
+        "amount_of_credit": 26764,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.16,
+        "residual": 13972.5,
+        "price_to_buy": 13973.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:16:06.592Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adamsandsons.co.uk/details/used-van-in-oakham/ford/ranger/3.2-tdci-wildtrak-auto-4wd-euro-6-ss-4dr/1388758/",
+    "dealer_id": "2852",
+    "car_id": "27169009",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR70GXX",
+        "registration_date": "01/09/2020",
+        "mileage": 57450,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24600,
+        "total_price": 24600,
+        "deposit": 4100,
+        "balance": 20500,
+        "apr": 10.6,
+        "rate_of_interest": 5.56,
+        "term": 60,
+        "regular_payment": 436.62,
+        "final_payment": 446.62,
+        "total_amount_payable": 30307.2,
+        "total_charge_for_credit": 5707.2,
+        "amount_of_credit": 20500,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 60000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

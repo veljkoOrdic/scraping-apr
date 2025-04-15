@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:23:44.072Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/ford/focus/st-line-1-0-style-mhev-3325",
+    "dealer_id": "5631",
+    "car_id": "27066574",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EF72MZN",
+        "registration_date": "09/12/2022",
+        "mileage": 6200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 10,
+        "balance": 16980,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 356.41,
+        "final_payment": 357.41,
+        "total_amount_payable": 21395.6,
+        "total_charge_for_credit": 4405.6,
+        "amount_of_credit": 16980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 10,
+        "balance": 16980,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 292.77,
+        "final_payment": 7824.12,
+        "total_amount_payable": 21887.08,
+        "total_charge_for_credit": 4897.08,
+        "amount_of_credit": 16980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.1,
+        "residual": 7823.12,
+        "price_to_buy": 7824.12
+      }
+    ]
+  }
+]

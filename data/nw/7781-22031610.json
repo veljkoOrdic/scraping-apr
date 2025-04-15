@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:42:41.453Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.moravianmotors.co.uk/used/ssangyong/tivoli/ultimate-15/buckie/aberdeenshire/21049346",
+    "dealer_id": "7781",
+    "car_id": "22031610",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV73WRR",
+        "registration_date": "28/09/2023",
+        "mileage": 1901,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849.5,
+        "balance": 16645.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 371.9,
+        "final_payment": 372.9,
+        "total_amount_payable": 24164.5,
+        "total_charge_for_credit": 5669.5,
+        "amount_of_credit": 16645.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18495,
+        "total_price": 18495,
+        "deposit": 1849.5,
+        "balance": 16645.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 319.96,
+        "final_payment": 7695,
+        "total_amount_payable": 24582.62,
+        "total_charge_for_credit": 6087.62,
+        "amount_of_credit": 16645.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 7695,
+        "price_to_buy": 7695
+      }
+    ]
+  }
+]

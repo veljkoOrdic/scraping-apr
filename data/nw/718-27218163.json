@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:03:16.306Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hollandmotorco.co.uk/used-seat-ibiza-letchworth-garden-city-hertfordshire-6740816",
+    "dealer_id": "718",
+    "car_id": "27218163",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF20UBP",
+        "registration_date": "14/03/2020",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10795,
+        "total_price": 10795,
+        "deposit": 1079,
+        "balance": 9716,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 203.93,
+        "final_payment": 204.93,
+        "total_amount_payable": 13315.8,
+        "total_charge_for_credit": 2520.8,
+        "amount_of_credit": 9716,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

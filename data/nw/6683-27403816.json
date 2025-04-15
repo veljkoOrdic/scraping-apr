@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:26:09.110Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.karsltd.co.uk/used-car/bmw/7-series/4-4-750li-v8-m-sport-auto-euro-6-s-s-/for-sale-in-chesham-buckinghamshire/aetv30324783/",
+    "dealer_id": "6683",
+    "car_id": "27403816",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL69BVO",
+        "registration_date": "10/03/2025",
+        "mileage": 68000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 500,
+        "balance": 29495,
+        "apr": 11.4,
+        "rate_of_interest": 5.9,
+        "term": 48,
+        "regular_payment": 759.5,
+        "final_payment": 760.5,
+        "total_amount_payable": 36957,
+        "total_charge_for_credit": 6962,
+        "amount_of_credit": 29495,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:17:44.894Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jrrcars.co.uk/used/cars/land-rover/defender/3-0-defender-x-mhev-auto-4wd-5dr-438",
+    "dealer_id": "8299",
+    "car_id": "27322988",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC70EWJ",
+        "registration_date": "22/10/2020",
+        "mileage": 90000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49000,
+        "total_price": 49000,
+        "deposit": 4900,
+        "balance": 44100,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 925.68,
+        "final_payment": 926.68,
+        "total_amount_payable": 60441.8,
+        "total_charge_for_credit": 11441.8,
+        "amount_of_credit": 44100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

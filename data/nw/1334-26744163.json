@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:20:30.436Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.paulmorriscars.co.uk/used-bmw-x3-chelmsford-essex-6613131",
+    "dealer_id": "1334",
+    "car_id": "26744163",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PF17LYU",
+        "registration_date": "30/06/2017",
+        "mileage": 43392,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17500,
+        "total_price": 17500,
+        "deposit": 500,
+        "balance": 17000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 349.23,
+        "final_payment": 350.23,
+        "total_amount_payable": 21454.8,
+        "total_charge_for_credit": 3954.8,
+        "amount_of_credit": 17000,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

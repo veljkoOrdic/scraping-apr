@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:06:56.839Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aylesburymotorgroup.co.uk/used-car-details/used-honda-jazz-15-i-mmd-hybrid-sr-5dr-ecvt-hatchback-blue-automatic-petrol-hybrid/id-4060366936054908501/",
+    "dealer_id": "6114",
+    "car_id": "25861912",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR71KFU",
+        "registration_date": "17/09/2021",
+        "mileage": 27024,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15987,
+        "total_price": 15987,
+        "deposit": 2398,
+        "balance": 13589,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 347.19,
+        "final_payment": 348.19,
+        "total_amount_payable": 19064.12,
+        "total_charge_for_credit": 3077.12,
+        "amount_of_credit": 13589,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15987,
+        "total_price": 15987,
+        "deposit": 2398,
+        "balance": 13589,
+        "apr": 10.9,
+        "rate_of_interest": 5.28,
+        "term": 49,
+        "regular_payment": 203.92,
+        "final_payment": 8556.18,
+        "total_amount_payable": 20742.34,
+        "total_charge_for_credit": 4755.34,
+        "amount_of_credit": 13589,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8555.18,
+        "price_to_buy": 8556.18
+      }
+    ]
+  }
+]

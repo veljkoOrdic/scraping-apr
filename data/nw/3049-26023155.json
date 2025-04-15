@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:28:58.216Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-porsche-macan-bayford-hertfordshire-6427074",
+    "dealer_id": "3049",
+    "car_id": "26023155",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX69YDA",
+        "registration_date": "25/11/2019",
+        "mileage": 68200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43950,
+        "total_price": 43950,
+        "deposit": 4395,
+        "balance": 39555,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 812.59,
+        "final_payment": 813.59,
+        "total_amount_payable": 53151.4,
+        "total_charge_for_credit": 9201.4,
+        "amount_of_credit": 39555,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

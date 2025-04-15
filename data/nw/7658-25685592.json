@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:02:04.987Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.synergy-motors.com/details/used-car-in-croydon/bentley/continental/4.0-v8-gt-s-auto-4wd-euro-5-2dr/1267342/",
+    "dealer_id": "7658",
+    "car_id": "25685592",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF65FPG",
+        "registration_date": "30/12/2015",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1001.15,
+        "final_payment": 1002.15,
+        "total_amount_payable": 65369.5,
+        "total_charge_for_credit": 12374.5,
+        "amount_of_credit": 47695.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

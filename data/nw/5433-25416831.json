@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:35:20.107Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcar.co.uk/used-cars/hyundai/i10-petrol-silver-hatchback-YUI5274",
+    "dealer_id": "5433",
+    "car_id": "25416831",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YUI5274",
+        "registration_date": "08/08/2022",
+        "mileage": 34460,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11799,
+        "total_price": 11799,
+        "deposit": 999,
+        "balance": 10800,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 280.52,
+        "final_payment": 290.52,
+        "total_amount_payable": 14473.96,
+        "total_charge_for_credit": 2674.96,
+        "amount_of_credit": 10800,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11799,
+        "total_price": 11799,
+        "deposit": 999,
+        "balance": 10800,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 189.94,
+        "final_payment": 5664.5,
+        "total_amount_payable": 15590.68,
+        "total_charge_for_credit": 3791.68,
+        "amount_of_credit": 10800,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.03,
+        "residual": 5663.5,
+        "price_to_buy": 5664.5
+      }
+    ]
+  }
+]

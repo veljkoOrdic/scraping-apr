@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:25:44.499Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.karsltd.co.uk/used-bike/yamaha/d/xc115s-14my-/for-sale-in-chesham-buckinghamshire/aetv55198899/",
+    "dealer_id": "6683",
+    "car_id": "21066840",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD65KKX",
+        "registration_date": "04/11/2015",
+        "mileage": 11800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 1495,
+        "total_price": 1495,
+        "deposit": 495,
+        "balance": 1000,
+        "apr": 11.4,
+        "rate_of_interest": 5.9,
+        "term": 48,
+        "regular_payment": 25.75,
+        "final_payment": 26.75,
+        "total_amount_payable": 1732,
+        "total_charge_for_credit": 237,
+        "amount_of_credit": 1000,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

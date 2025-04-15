@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:37:01.234Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.a1carriages.co.uk/used-cars/vauxhall/mokka/12-turbo-elite-nav-auto-euro-6-ss-5dr/lc21vje",
+    "dealer_id": "98",
+    "car_id": "26753574",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC21VJE",
+        "registration_date": "29/04/2021",
+        "mileage": 12325,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15469,
+        "total_price": 15469,
+        "deposit": 0,
+        "balance": 15469,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 415.64,
+        "final_payment": 416.64,
+        "total_amount_payable": 19951.72,
+        "total_charge_for_credit": 4482.72,
+        "amount_of_credit": 15469,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

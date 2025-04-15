@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:36:42.901Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.broadlandsvehicles.com/details/used-car-in-romsey/mini/countryman/1.6-cooper-euro-6-ss-5dr/1371850/",
+    "dealer_id": "8909",
+    "car_id": "26965575",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH13YKO",
+        "registration_date": "22/05/2013",
+        "mileage": 112858,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4295,
+        "total_price": 4295,
+        "deposit": 0,
+        "balance": 4295,
+        "apr": 11.1,
+        "rate_of_interest": 5.65,
+        "term": 37,
+        "regular_payment": 136.3,
+        "final_payment": 146.3,
+        "total_amount_payable": 5053.1,
+        "total_charge_for_credit": 758.1,
+        "amount_of_credit": 4295,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

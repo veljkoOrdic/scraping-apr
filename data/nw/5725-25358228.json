@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:15:27.851Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.georgekingsley.co.uk/used/cars/bmw/x7/xdrive40d-m-sport-20k-extras-b-w-6-seater-driving-assistant-pro-pk-2519",
+    "dealer_id": "5725",
+    "car_id": "25358228",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS21LGA",
+        "registration_date": "06/05/2021",
+        "mileage": 69950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 7499.25,
+        "balance": 42495.75,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1067.15,
+        "final_payment": 1068.15,
+        "total_amount_payable": 58723.45,
+        "total_charge_for_credit": 8728.45,
+        "amount_of_credit": 42495.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 7499.25,
+        "balance": 42495.75,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 49,
+        "regular_payment": 630.75,
+        "final_payment": 25552,
+        "total_amount_payable": 63327.25,
+        "total_charge_for_credit": 13332.25,
+        "amount_of_credit": 42495.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.26,
+        "residual": 25551,
+        "price_to_buy": 25552
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:21:40.271Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-mercedes-benz-gle-peterborough-cambridgeshire-6607301",
+    "dealer_id": "6437",
+    "car_id": "26722776",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S90TJK",
+        "registration_date": "25/05/2017",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31490,
+        "total_price": 31490,
+        "deposit": 3149,
+        "balance": 28341,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 620.39,
+        "final_payment": 621.39,
+        "total_amount_payable": 40373.4,
+        "total_charge_for_credit": 8883.4,
+        "amount_of_credit": 28341,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

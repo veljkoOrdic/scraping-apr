@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:39:43.911Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/fiat/500/1-2-500-lounge-3dr-103",
+    "dealer_id": "3695",
+    "car_id": "27744695",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MO10RAR",
+        "registration_date": "27/03/2019",
+        "mileage": 29200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7985,
+        "total_price": 7985,
+        "deposit": 0,
+        "balance": 7985,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 164.17,
+        "final_payment": 165.17,
+        "total_amount_payable": 9851.2,
+        "total_charge_for_credit": 1866.2,
+        "amount_of_credit": 7985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

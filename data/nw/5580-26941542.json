@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:07:15.285Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pdnagington.co.uk/vehicle-details/used-toyota-aygo-toyota-aygo-vvt-i-x-press-hatchback-1-0-manual-petrol-for-sale-u1620/",
+    "dealer_id": "5580",
+    "car_id": "26941542",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DL66GHV",
+        "registration_date": "23/12/2016",
+        "mileage": 40502,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 750,
+        "balance": 6745,
+        "apr": 10.8,
+        "rate_of_interest": 5.65,
+        "term": 60,
+        "regular_payment": 144.18,
+        "final_payment": 154.18,
+        "total_amount_payable": 9410.8,
+        "total_charge_for_credit": 1915.8,
+        "amount_of_credit": 6745,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

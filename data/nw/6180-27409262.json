@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:13:09.633Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.themotor.company/used/citroen/c1/10-vti-feel-3dr/taunton/somerset/21561181",
+    "dealer_id": "6180",
+    "car_id": "27409262",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD66PEO",
+        "registration_date": "24/09/2016",
+        "mileage": 63035,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 499.9,
+        "balance": 4499.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 98.48,
+        "final_payment": 99.48,
+        "total_amount_payable": 6409.7,
+        "total_charge_for_credit": 1410.7,
+        "amount_of_credit": 4499.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

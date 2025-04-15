@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:37:45.856Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstar.co.uk/used-toyota-proace-city-leeds-yorkshire-5413899",
+    "dealer_id": "7201",
+    "car_id": "22315339",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF72BVH",
+        "registration_date": "07/09/2022",
+        "mileage": 5000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15989,
+        "total_price": 15989,
+        "deposit": 3197,
+        "balance": 12792,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 280.01,
+        "final_payment": 281.01,
+        "total_amount_payable": 19998.6,
+        "total_charge_for_credit": 4009.6,
+        "amount_of_credit": 12792,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

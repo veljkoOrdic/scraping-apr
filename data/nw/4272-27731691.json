@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:50:49.322Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.traderightcars.co.uk/used-peugeot-107-cardiff-south-glamorgan-6862053",
+    "dealer_id": "4272",
+    "car_id": "27731691",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PE14RMU",
+        "registration_date": "29/03/2014",
+        "mileage": 33478,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4690,
+        "total_price": 4690,
+        "deposit": 469,
+        "balance": 4221,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 47,
+        "regular_payment": 107.84,
+        "final_payment": 108.84,
+        "total_amount_payable": 5538.48,
+        "total_charge_for_credit": 848.48,
+        "amount_of_credit": 4221,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

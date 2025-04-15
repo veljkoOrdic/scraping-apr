@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:44:29.006Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.scottmotorcompany.co.uk/used-bmw-3-series-tamworth-staffordshire-6867028",
+    "dealer_id": "190",
+    "car_id": "27756171",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HT21JVK",
+        "registration_date": "17/03/2021",
+        "mileage": 61751,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549,
+        "balance": 13950,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 292.81,
+        "final_payment": 293.81,
+        "total_amount_payable": 19118.6,
+        "total_charge_for_credit": 3619.6,
+        "amount_of_credit": 13950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549,
+        "balance": 13950,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 235.76,
+        "final_payment": 6707.19,
+        "total_amount_payable": 19572.67,
+        "total_charge_for_credit": 4073.67,
+        "amount_of_credit": 13950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 6706.19,
+        "price_to_buy": 6707.19
+      }
+    ]
+  }
+]

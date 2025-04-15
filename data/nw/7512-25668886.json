@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-04-14T19:38:50.997Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-ferrari-296-gtb-5440/",
+    "dealer_id": "7512",
+    "car_id": "25668886",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WX23YTL",
+        "registration_date": "31/05/2023",
+        "mileage": 1700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 250000,
+        "total_price": 250000,
+        "deposit": 50000,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1540.76,
+        "final_payment": 1541.76,
+        "total_amount_payable": 267446.6,
+        "total_charge_for_credit": 17446.6,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-14T19:38:51.069Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-ferrari-296-gtb-5440/",
+    "dealer_id": "7512",
+    "car_id": "25668886",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WX23YTL",
+        "registration_date": "31/05/2023",
+        "mileage": 1700,
+        "status": "Used"
+      }
+    ]
+  }
+]

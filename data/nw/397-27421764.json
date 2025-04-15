@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:49:09.973Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitethorcars.co.uk/details/used-car-in-leicester/lexus/nx/2.0-200t-f-sport-auto-4wd-euro-6-5dr/1410613/",
+    "dealer_id": "397",
+    "car_id": "27421764",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FG65NJE",
+        "registration_date": "30/10/2015",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14250,
+        "total_price": 14250,
+        "deposit": 0,
+        "balance": 14250,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 331.48,
+        "final_payment": 332.48,
+        "total_amount_payable": 17900.92,
+        "total_charge_for_credit": 3650.92,
+        "amount_of_credit": 14250,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

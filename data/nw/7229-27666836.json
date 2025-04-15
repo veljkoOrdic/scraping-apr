@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:14:40.176Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.baxterandsimpsonbucks.co.uk/used-audi-sq5-little-marlow-buckinghamshire-6846956",
+    "dealer_id": "7229",
+    "car_id": "27666836",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL20VOT",
+        "registration_date": "30/06/2020",
+        "mileage": 54199,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 717.68,
+        "final_payment": 718.68,
+        "total_amount_payable": 46860.8,
+        "total_charge_for_credit": 8870.8,
+        "amount_of_credit": 34191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 581.97,
+        "final_payment": 16197.53,
+        "total_amount_payable": 47931.09,
+        "total_charge_for_credit": 9941.09,
+        "amount_of_credit": 34191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 16196.53,
+        "price_to_buy": 16197.53
+      }
+    ]
+  }
+]

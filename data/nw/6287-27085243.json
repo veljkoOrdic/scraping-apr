@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:49:48.375Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/jaguar/xf/5.0-v8-xfr-1-of-100-made-r100-special-edition-loaded-with-specification/1303210/",
+    "dealer_id": "6287",
+    "car_id": "27085243",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VN11VPK",
+        "registration_date": "30/06/2011",
+        "mileage": 60674,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14470,
+        "total_price": 14470,
+        "deposit": 1447,
+        "balance": 13023,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 14,
+        "regular_payment": 991.68,
+        "final_payment": 992.68,
+        "total_amount_payable": 15331.52,
+        "total_charge_for_credit": 861.52,
+        "amount_of_credit": 13023,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

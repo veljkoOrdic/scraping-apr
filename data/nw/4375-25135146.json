@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:25:18.678Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotorcompany.co.uk/details/car-in-glasgow/toyota/aygo/1.0-vvt-i-ice-euro-5-5dr/1224132/",
+    "dealer_id": "4375",
+    "car_id": "25135146",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VK62AKG",
+        "registration_date": "14/09/2012",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4590,
+        "total_price": 4590,
+        "deposit": 0,
+        "balance": 4590,
+        "apr": 9.9,
+        "rate_of_interest": 5.07,
+        "term": 28,
+        "regular_payment": 183.33,
+        "final_payment": 184.33,
+        "total_amount_payable": 5134.24,
+        "total_charge_for_credit": 544.24,
+        "amount_of_credit": 4590,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

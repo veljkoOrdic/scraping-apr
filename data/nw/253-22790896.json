@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:08:32.379Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellacars.co.uk/used-mini-hatch-cooper-huddersfield-west-yorkshire-5661405",
+    "dealer_id": "253",
+    "car_id": "22790896",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD17OAL",
+        "registration_date": "24/03/2017",
+        "mileage": 33148,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 1000,
+        "balance": 11490,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 235.91,
+        "final_payment": 245.91,
+        "total_amount_payable": 15164.6,
+        "total_charge_for_credit": 2674.6,
+        "amount_of_credit": 11490,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

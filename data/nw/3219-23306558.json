@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:53:01.185Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmillar.co.uk/details/used-volkswagen-passat-saloon-sel-tsi-evo-petrol-manual-deep-black-Id=1422031",
+    "dealer_id": "3219",
+    "car_id": "23306558",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GD70AMU",
+        "registration_date": "17/12/2020",
+        "mileage": 50158,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13799,
+        "total_price": 13799,
+        "deposit": 0,
+        "balance": 13799,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 352.56,
+        "final_payment": 353.56,
+        "total_amount_payable": 16923.88,
+        "total_charge_for_credit": 3124.88,
+        "amount_of_credit": 13799,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13799,
+        "total_price": 13799,
+        "deposit": 0,
+        "balance": 13799,
+        "apr": 10.9,
+        "rate_of_interest": 5.38,
+        "term": 49,
+        "regular_payment": 262.11,
+        "final_payment": 5401.82,
+        "total_amount_payable": 17983.1,
+        "total_charge_for_credit": 4184.1,
+        "amount_of_credit": 13799,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "contract_mileage": 36750,
+        "excess_mileage_rate": 0.06,
+        "residual": 5400.82,
+        "price_to_buy": 5401.82
+      }
+    ]
+  }
+]

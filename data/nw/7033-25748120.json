@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:24:16.820Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jtvehiclessouthlakes.co.uk/details/used-car-in-barrow-in-furness/mercedes-benz/gleclass/2.9-gle400d-amg-line-g-tronic-4matic-euro-6-ss-5dr-7-seat/1271353/",
+    "dealer_id": "7033",
+    "car_id": "25748120",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SN22UTV",
+        "registration_date": "18/03/2022",
+        "mileage": 17000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48991,
+        "total_price": 48991,
+        "deposit": 4899.1,
+        "balance": 44091.9,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 925.51,
+        "final_payment": 926.51,
+        "total_amount_payable": 60430.7,
+        "total_charge_for_credit": 11439.7,
+        "amount_of_credit": 44091.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48991,
+        "total_price": 48991,
+        "deposit": 4899.1,
+        "balance": 44091.9,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 712.2,
+        "final_payment": 23129.94,
+        "total_amount_payable": 62214.64,
+        "total_charge_for_credit": 13223.64,
+        "amount_of_credit": 44091.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 23128.94,
+        "price_to_buy": 23129.94
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:54:18.540Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sdautomotiveltd.co.uk/used-bmw-3-series-gran-turismo-sutton-in-ashfield-nottinghamshire-6822549",
+    "dealer_id": "6299",
+    "car_id": "27623619",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AGZ3102",
+        "registration_date": "30/11/2015",
+        "mileage": 107000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899,
+        "balance": 8096,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 177.21,
+        "final_payment": 178.21,
+        "total_amount_payable": 11532.6,
+        "total_charge_for_credit": 2537.6,
+        "amount_of_credit": 8096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

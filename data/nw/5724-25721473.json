@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T22:10:59.359Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hawkins.co.uk/used-car-details/used-kia-sportage-16-t-gdi-isg-phev-gt-line-s-fusion-white-automatic-hybrid/id-1556/",
+    "dealer_id": "5724",
+    "car_id": "25721473",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD73TWB",
+        "registration_date": "31/01/2024",
+        "mileage": 3000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39495,
+        "total_price": 39495,
+        "deposit": 3949,
+        "balance": 35546,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 653.32,
+        "final_payment": 16473,
+        "total_amount_payable": 51781.36,
+        "total_charge_for_credit": 12286.36,
+        "amount_of_credit": 35546,
+        "lender": "Kia Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 16473,
+        "price_to_buy": 16473
+      }
+    ]
+  }
+]

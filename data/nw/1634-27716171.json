@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:54:17.763Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkeeble.co.uk/used-audi-a8-ipswich-suffolk-6857565",
+    "dealer_id": "1634",
+    "car_id": "27716171",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA72DLN",
+        "registration_date": "21/10/2022",
+        "mileage": 44908,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41750,
+        "total_price": 41750,
+        "deposit": 4175,
+        "balance": 37575,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 805.59,
+        "final_payment": 806.59,
+        "total_amount_payable": 52511.4,
+        "total_charge_for_credit": 10761.4,
+        "amount_of_credit": 37575,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41750,
+        "total_price": 41750,
+        "deposit": 4175,
+        "balance": 37575,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 49,
+        "regular_payment": 684.62,
+        "final_payment": 16447.75,
+        "total_amount_payable": 53484.51,
+        "total_charge_for_credit": 11734.51,
+        "amount_of_credit": 37575,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 16437.75,
+        "price_to_buy": 16447.75
+      }
+    ]
+  }
+]

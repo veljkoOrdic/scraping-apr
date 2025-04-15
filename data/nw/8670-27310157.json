@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:54:23.979Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/landrover/rangerover/4.4-p530-v8-autobiography-auto-4wd-euro-6-ss-5dr-lwb/1401547/",
+    "dealer_id": "8670",
+    "car_id": "27310157",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OCB87",
+        "registration_date": "05/09/2024",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 119995,
+        "total_price": 119995,
+        "deposit": 19995,
+        "balance": 100000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 2467.32,
+        "final_payment": 2477.32,
+        "total_amount_payable": 138436.36,
+        "total_charge_for_credit": 18441.36,
+        "amount_of_credit": 100000,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 119995,
+        "total_price": 119995,
+        "deposit": 29995,
+        "balance": 90000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 1273.22,
+        "final_payment": 54391.75,
+        "total_amount_payable": 145501.31,
+        "total_charge_for_credit": 25506.31,
+        "amount_of_credit": 90000,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.22,
+        "residual": 54381.75,
+        "price_to_buy": 54391.75
+      }
+    ]
+  }
+]

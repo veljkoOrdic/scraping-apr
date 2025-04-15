@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:48:35.984Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ejbcarsales.co.uk/vehicle-details/used-land-rover-range-rover-sd-v8-autobiography-lwb-for-sale-in-garvagh-northern-ireland-u5100/",
+    "dealer_id": "4490",
+    "car_id": "26592280",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP63SEW",
+        "registration_date": "12/05/2016",
+        "mileage": 88600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899.5,
+        "balance": 26095.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 571.23,
+        "final_payment": 572.23,
+        "total_amount_payable": 37174.3,
+        "total_charge_for_credit": 8179.3,
+        "amount_of_credit": 26095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:37:44.080Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.corfemullencars.co.uk/details/used-car-in-wimborne/cupra/formentor/1.4-ehybrid-12.8kwh-vz2-dsg-euro-6-ss-5dr/1384169/",
+    "dealer_id": "6249",
+    "car_id": "27107827",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AE71WNG",
+        "registration_date": "26/01/2022",
+        "mileage": 57000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 413.62,
+        "final_payment": 414.62,
+        "total_amount_payable": 26917.7,
+        "total_charge_for_credit": 5922.7,
+        "amount_of_credit": 18895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 11.9,
+        "rate_of_interest": 5.81,
+        "term": 49,
+        "regular_payment": 334.53,
+        "final_payment": 9533.85,
+        "total_amount_payable": 27690.79,
+        "total_charge_for_credit": 6695.79,
+        "amount_of_credit": 18895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.1,
+        "residual": 9532.85,
+        "price_to_buy": 9533.85
+      }
+    ]
+  }
+]

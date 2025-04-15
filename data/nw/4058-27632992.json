@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:42.705Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/audi/q3/2.0-tdi-black-edition-s-tronic-quattro-euro-6-ss-5dr/1427757/",
+    "dealer_id": "4058",
+    "car_id": "27632992",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU18VWA",
+        "registration_date": "29/03/2018",
+        "mileage": 71800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 3299,
+        "balance": 13196,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 276.98,
+        "final_payment": 277.98,
+        "total_amount_payable": 19918.8,
+        "total_charge_for_credit": 3423.8,
+        "amount_of_credit": 13196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:30:20.226Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-planet.co.uk/used-porsche-911-watford-hertfordshire-6472580",
+    "dealer_id": "7472",
+    "car_id": "26196723",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF67OKG",
+        "registration_date": "29/09/2017",
+        "mileage": 12500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 123200,
+        "total_price": 123200,
+        "deposit": 73200,
+        "balance": 50000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1117.15,
+        "final_payment": 1118.15,
+        "total_amount_payable": 140230,
+        "total_charge_for_credit": 17030,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

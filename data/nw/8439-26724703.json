@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:08:09.706Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aglees-cars.com/used-mini-hatch-galashiels-scotland-6606808",
+    "dealer_id": "8439",
+    "car_id": "26724703",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB65RWL",
+        "registration_date": "01/12/2015",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 500,
+        "balance": 6995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 153.11,
+        "final_payment": 154.11,
+        "total_amount_payable": 9687.6,
+        "total_charge_for_credit": 2192.6,
+        "amount_of_credit": 6995,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

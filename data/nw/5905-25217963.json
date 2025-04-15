@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:31:03.509Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-audi-a4-derry-county-londonderry-6216763",
+    "dealer_id": "5905",
+    "car_id": "25217963",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S333KPS",
+        "registration_date": "01/03/2013",
+        "mileage": 91975,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 449,
+        "balance": 8546,
+        "apr": 11.9,
+        "rate_of_interest": 6.11,
+        "term": 34,
+        "regular_payment": 294.87,
+        "final_payment": 295.87,
+        "total_amount_payable": 10475.58,
+        "total_charge_for_credit": 1480.58,
+        "amount_of_credit": 8546,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:49:46.799Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bordercityautos.co.uk/used-land-rover-discovery-carlisle-cumbria-6811691",
+    "dealer_id": "8000",
+    "car_id": "27522165",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "R2FED",
+        "registration_date": "24/05/2019",
+        "mileage": 102000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 0,
+        "balance": 21995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 481.47,
+        "final_payment": 482.47,
+        "total_amount_payable": 28889.2,
+        "total_charge_for_credit": 6894.2,
+        "amount_of_credit": 21995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

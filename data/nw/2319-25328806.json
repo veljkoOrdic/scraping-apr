@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:26:38.273Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.durnfordmotors.co.uk/cars/volkswagen/golf/1.6-tdi-gt-edition/1237812/",
+    "dealer_id": "2319",
+    "car_id": "25328806",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE69PYV",
+        "registration_date": "19/12/2019",
+        "mileage": 57487,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 245.48,
+        "final_payment": 246.48,
+        "total_amount_payable": 16029.3,
+        "total_charge_for_credit": 3034.3,
+        "amount_of_credit": 11695.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

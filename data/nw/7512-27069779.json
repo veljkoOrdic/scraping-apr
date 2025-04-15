@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:31.289Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-porsche-macan-pdk-5710/",
+    "dealer_id": "7512",
+    "car_id": "27069779",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU69VPD",
+        "registration_date": "15/11/2019",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 0,
+        "balance": 34995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 718.91,
+        "final_payment": 719.91,
+        "total_amount_payable": 43135.6,
+        "total_charge_for_credit": 8140.6,
+        "amount_of_credit": 34995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-14T19:39:31.298Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-porsche-macan-pdk-5710/",
+    "dealer_id": "7512",
+    "car_id": "27069779",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU69VPD",
+        "registration_date": "15/11/2019",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 6999,
+        "balance": 27996,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 575.13,
+        "final_payment": 576.13,
+        "total_amount_payable": 41507.8,
+        "total_charge_for_credit": 6512.8,
+        "amount_of_credit": 27996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

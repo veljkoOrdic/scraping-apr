@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:12:22.855Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.switchingcars.co.uk/used-maserati-ghibli-warrington-cheshire-3344319",
+    "dealer_id": "7904",
+    "car_id": "19885633",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK17SVS",
+        "registration_date": "02/03/2017",
+        "mileage": 73500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 0,
+        "balance": 22000,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 562.1,
+        "final_payment": 563.1,
+        "total_amount_payable": 26981.8,
+        "total_charge_for_credit": 4981.8,
+        "amount_of_credit": 22000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

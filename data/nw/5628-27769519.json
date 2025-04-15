@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:21:45.802Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.denburydiesels.co.uk/vehicle-details/used-citroen-c3-picasso-vti-selection-for-sale-u18295/",
+    "dealer_id": "5628",
+    "car_id": "27769519",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA13HRC",
+        "registration_date": "28/03/2013",
+        "mileage": 85256,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 399.5,
+        "balance": 3595.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.11,
+        "term": 35,
+        "regular_payment": 121.03,
+        "final_payment": 122.03,
+        "total_amount_payable": 4636.55,
+        "total_charge_for_credit": 641.55,
+        "amount_of_credit": 3595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

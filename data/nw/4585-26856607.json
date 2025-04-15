@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:10:19.582Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.buyandgocars.co.uk/used-mercedes-benz-a-class-cardiff-glamorgan-6642178",
+    "dealer_id": "4585",
+    "car_id": "26856607",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV70OJY",
+        "registration_date": "18/09/2020",
+        "mileage": 25783,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21640,
+        "total_price": 21640,
+        "deposit": 1000,
+        "balance": 20640,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 433.24,
+        "final_payment": 434.24,
+        "total_amount_payable": 26995.4,
+        "total_charge_for_credit": 5355.4,
+        "amount_of_credit": 20640,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21640,
+        "total_price": 21640,
+        "deposit": 1000,
+        "balance": 20640,
+        "apr": 9.9,
+        "rate_of_interest": 4.9,
+        "term": 49,
+        "regular_payment": 377.56,
+        "final_payment": 8241.32,
+        "total_amount_payable": 27364.2,
+        "total_charge_for_credit": 5724.2,
+        "amount_of_credit": 20640,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8240.32,
+        "price_to_buy": 8241.32
+      }
+    ]
+  }
+]

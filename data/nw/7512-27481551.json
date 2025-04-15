@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:37.829Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-porsche-macan-s-pdk-5805/",
+    "dealer_id": "7512",
+    "car_id": "27481551",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG20RCU",
+        "registration_date": "14/03/2020",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 0,
+        "balance": 39995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 821.63,
+        "final_payment": 822.63,
+        "total_amount_payable": 49298.8,
+        "total_charge_for_credit": 9303.8,
+        "amount_of_credit": 39995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

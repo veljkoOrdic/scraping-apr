@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:33:16.728Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-subaru-impreza-derry-county-londonderry-4973624",
+    "dealer_id": "5905",
+    "car_id": "19846760",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PL55HYJ",
+        "registration_date": "01/09/2019",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 2149,
+        "balance": 40846,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 894.13,
+        "final_payment": 895.13,
+        "total_amount_payable": 55797.8,
+        "total_charge_for_credit": 12802.8,
+        "amount_of_credit": 40846,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

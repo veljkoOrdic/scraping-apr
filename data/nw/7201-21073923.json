@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:38:54.443Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstar.co.uk/used-mercedes-benz-vito-leeds-yorkshire-5250487",
+    "dealer_id": "7201",
+    "car_id": "21073923",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC72JDU",
+        "registration_date": "27/09/2022",
+        "mileage": 9000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38386.8,
+        "total_price": 38386.8,
+        "deposit": 0,
+        "balance": 31989,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 700.24,
+        "final_payment": 701.24,
+        "total_amount_payable": 48413.2,
+        "total_charge_for_credit": 10026.4,
+        "amount_of_credit": 31989,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

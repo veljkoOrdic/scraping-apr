@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:33:34.116Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gerryhillcars.com/our-cars/aberdare-ford-transit-courier-limited-tdci-6848/",
+    "dealer_id": "4441",
+    "car_id": "22054069",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX70NDJ",
+        "registration_date": "10/09/2020",
+        "mileage": 69333,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10188,
+        "total_price": 10188,
+        "deposit": 849,
+        "balance": 9339,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 204.42,
+        "final_payment": 205.42,
+        "total_amount_payable": 13115.2,
+        "total_charge_for_credit": 2927.2,
+        "amount_of_credit": 9339,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

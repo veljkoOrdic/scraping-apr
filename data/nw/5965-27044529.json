@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:51:53.160Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blakedowncarcompany.co.uk/details/car-in-wombourne/mercedes-benz/glcclass/2.0-glc250-amg-line-premium-g-tronic-4matic-euro-6-ss-5dr/1378464/",
+    "dealer_id": "5965",
+    "car_id": "27044529",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "C19AAH",
+        "registration_date": "27/06/2018",
+        "mileage": 69900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 1999.9,
+        "balance": 17999.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 377.8,
+        "final_payment": 378.8,
+        "total_amount_payable": 24668.9,
+        "total_charge_for_credit": 4669.9,
+        "amount_of_credit": 17999.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

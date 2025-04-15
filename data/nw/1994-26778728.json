@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:35:46.378Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stoughtoncarsales.co.uk/used-ford-tourneo-custom-godalming-surrey-6622635",
+    "dealer_id": "1994",
+    "car_id": "26778728",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN18NUY",
+        "registration_date": "26/03/2018",
+        "mileage": 59110,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30000,
+        "total_price": 30000,
+        "deposit": 3000,
+        "balance": 27000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 591.03,
+        "final_payment": 592.03,
+        "total_amount_payable": 38462.8,
+        "total_charge_for_credit": 8462.8,
+        "amount_of_credit": 27000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

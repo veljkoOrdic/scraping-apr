@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:25:36.985Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.windmillmotorsltd.co.uk/used/cars/mercedes-benz/glc/2-1-glc220d-amg-line-premium-g-tronic-4matic-euro-6-s-s-5dr-2210",
+    "dealer_id": "5775",
+    "car_id": "27286985",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY17TWL",
+        "registration_date": "30/06/2017",
+        "mileage": 47463,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20950,
+        "total_price": 20950,
+        "deposit": 2095,
+        "balance": 18855,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 421.27,
+        "final_payment": 422.27,
+        "total_amount_payable": 27372.2,
+        "total_charge_for_credit": 6422.2,
+        "amount_of_credit": 18855,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

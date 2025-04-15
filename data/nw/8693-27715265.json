@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:07:29.132Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1br.co.uk/used-volkswagen-california-petersfield-hampshire-6857144",
+    "dealer_id": "8693",
+    "car_id": "27715265",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO67BBZ",
+        "registration_date": "29/09/2017",
+        "mileage": 37700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 0,
+        "balance": 54990,
+        "apr": 10.9,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 1179.95,
+        "final_payment": 1180.95,
+        "total_amount_payable": 70798,
+        "total_charge_for_credit": 15808,
+        "amount_of_credit": 54990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

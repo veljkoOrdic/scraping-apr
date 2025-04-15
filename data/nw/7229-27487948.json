@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:13:28.171Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.baxterandsimpsonbucks.co.uk/used-ford-ranger-little-marlow-buckinghamshire-6752217",
+    "dealer_id": "7229",
+    "car_id": "27487948",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP71VWH",
+        "registration_date": "31/01/2022",
+        "mileage": 47772,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25764,
+        "total_price": 25764,
+        "deposit": 0,
+        "balance": 25764,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 540.79,
+        "final_payment": 541.79,
+        "total_amount_payable": 32448.4,
+        "total_charge_for_credit": 6684.4,
+        "amount_of_credit": 25764,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

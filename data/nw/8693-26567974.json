@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:06:41.804Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1br.co.uk/used-mercedes-benz-gle-petersfield-hampshire-6566037",
+    "dealer_id": "8693",
+    "car_id": "26567974",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC71YSY",
+        "registration_date": "14/12/2021",
+        "mileage": 29300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 0,
+        "balance": 44990,
+        "apr": 10.9,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 965.37,
+        "final_payment": 966.37,
+        "total_amount_payable": 57923.2,
+        "total_charge_for_credit": 12933.2,
+        "amount_of_credit": 44990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 0,
+        "balance": 44990,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 759.37,
+        "final_payment": 21688.3,
+        "total_amount_payable": 58138.06,
+        "total_charge_for_credit": 13148.06,
+        "amount_of_credit": 44990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 21687.3,
+        "price_to_buy": 21688.3
+      }
+    ]
+  }
+]

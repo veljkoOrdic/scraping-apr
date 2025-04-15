@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:30:07.620Z",
+    "source": "new_vehicle_finance",
+    "url": "https://inspirecarsalessouthampton.co.uk/vehicle/name/maserati-granturismo-grancabrio/",
+    "dealer_id": "5868",
+    "car_id": "22493846",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ11ENX",
+        "registration_date": "06/05/2011",
+        "mileage": 46600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 0,
+        "balance": 29990,
+        "apr": 11.9,
+        "rate_of_interest": 6.22,
+        "term": 12,
+        "regular_payment": 2654.63,
+        "final_payment": 2655.63,
+        "total_amount_payable": 31856.56,
+        "total_charge_for_credit": 1866.56,
+        "amount_of_credit": 29990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

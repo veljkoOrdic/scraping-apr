@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:26:16.921Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ccs-carsales.co.uk/used/cars/mazda/2/tech-edition-3180",
+    "dealer_id": "5778",
+    "car_id": "26190910",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ67AAV",
+        "registration_date": "12/09/2017",
+        "mileage": 25715,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9499,
+        "total_price": 9499,
+        "deposit": 0,
+        "balance": 9499,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 207.81,
+        "final_payment": 217.81,
+        "total_amount_payable": 12478.6,
+        "total_charge_for_credit": 2979.6,
+        "amount_of_credit": 9499,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

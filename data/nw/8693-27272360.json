@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:03:48.119Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1br.co.uk/used-volkswagen-sharan-petersfield-hampshire-6738700",
+    "dealer_id": "8693",
+    "car_id": "27272360",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV13XYW",
+        "registration_date": "03/05/2013",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9490,
+        "total_price": 9490,
+        "deposit": 0,
+        "balance": 9490,
+        "apr": 10.9,
+        "rate_of_interest": 5.63,
+        "term": 36,
+        "regular_payment": 308.1,
+        "final_payment": 309.1,
+        "total_amount_payable": 11092.6,
+        "total_charge_for_credit": 1602.6,
+        "amount_of_credit": 9490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

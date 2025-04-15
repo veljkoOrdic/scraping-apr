@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:11:00.278Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradecarsandcommercials.co.uk/used-ford-transit-custom-ms-rt-prudhoe-northumberland-5464543",
+    "dealer_id": "6641",
+    "car_id": "26310630",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV20VKG",
+        "registration_date": "28/07/2020",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31200,
+        "total_price": 31200,
+        "deposit": 0,
+        "balance": 31200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 654.9,
+        "final_payment": 655.9,
+        "total_amount_payable": 39295,
+        "total_charge_for_credit": 8095,
+        "amount_of_credit": 31200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

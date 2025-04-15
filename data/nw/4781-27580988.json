@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:32.953Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.markkessellcars.co.uk/used-volkswagen-golf-summercourt-newquay-cornwall-6825703",
+    "dealer_id": "4781",
+    "car_id": "27580988",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK13VXL",
+        "registration_date": "25/06/2013",
+        "mileage": 57200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 10.9,
+        "rate_of_interest": 5.61,
+        "term": 38,
+        "regular_payment": 278.81,
+        "final_payment": 279.81,
+        "total_amount_payable": 11594.78,
+        "total_charge_for_credit": 1599.78,
+        "amount_of_credit": 8996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

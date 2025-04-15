@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:31:00.122Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jlvans.co.uk/vehicle-details/used-citroen-relay-bluehdi-35-enterprise-campervan-l4-h2-euro-6-140ps-for-sale-in-warrington-cheshire-u1438/",
+    "dealer_id": "7155",
+    "car_id": "26347780",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF21RMA",
+        "registration_date": "30/06/2021",
+        "mileage": 19000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38370,
+        "total_price": 38370,
+        "deposit": 6395,
+        "balance": 31975,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 699.94,
+        "final_payment": 700.94,
+        "total_amount_payable": 48392.4,
+        "total_charge_for_credit": 10022.4,
+        "amount_of_credit": 31975,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

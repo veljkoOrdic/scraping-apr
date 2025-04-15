@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:47:19.992Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gdmotors.co.uk/details/used-car-in-armadale/porsche/911/3.8t-991-turbo-pdk-4wd-euro-6-2dr/1300866/",
+    "dealer_id": "7791",
+    "car_id": "26096018",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "JUI45",
+        "registration_date": "01/09/2016",
+        "mileage": 36485,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75995,
+        "total_price": 75995,
+        "deposit": 7599.5,
+        "balance": 68395.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1497.29,
+        "final_payment": 1507.29,
+        "total_amount_payable": 97446.9,
+        "total_charge_for_credit": 21451.9,
+        "amount_of_credit": 68395.5,
+        "lender": "Tandem",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

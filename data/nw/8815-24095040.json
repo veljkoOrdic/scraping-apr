@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:25:35.697Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmotorcompanykingston.co.uk/used-land-rover-range-rover-evoque-new-malden-london-5963596",
+    "dealer_id": "8815",
+    "car_id": "24095040",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX21NGU",
+        "registration_date": "01/03/2021",
+        "mileage": 16906,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899,
+        "balance": 26096,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 547.76,
+        "final_payment": 548.76,
+        "total_amount_payable": 35765.6,
+        "total_charge_for_credit": 6770.6,
+        "amount_of_credit": 26096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899,
+        "balance": 26096,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 420.55,
+        "final_payment": 13746.13,
+        "total_amount_payable": 36831.53,
+        "total_charge_for_credit": 7836.53,
+        "amount_of_credit": 26096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 13745.13,
+        "price_to_buy": 13746.13
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:52:38.764Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.landc-group.co.uk/used-bmw-z4-portslade-east-sussex-5268861",
+    "dealer_id": "8010",
+    "car_id": "25392142",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BK12EBP",
+        "registration_date": "27/06/2012",
+        "mileage": 84980,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6790,
+        "total_price": 6790,
+        "deposit": 679,
+        "balance": 6111,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 26,
+        "regular_payment": 266.04,
+        "final_payment": 267.04,
+        "total_amount_payable": 7597.04,
+        "total_charge_for_credit": 807.04,
+        "amount_of_credit": 6111,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

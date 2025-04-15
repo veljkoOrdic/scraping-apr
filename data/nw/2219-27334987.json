@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:02:53.718Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.brooklandscars.com/used-lexus-rx-corby-northamptonshire-6768944",
+    "dealer_id": "2219",
+    "car_id": "27334987",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BC70WDY",
+        "registration_date": "21/01/2021",
+        "mileage": 74008,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399,
+        "balance": 21596,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 463,
+        "final_payment": 464,
+        "total_amount_payable": 30180,
+        "total_charge_for_credit": 6185,
+        "amount_of_credit": 21596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

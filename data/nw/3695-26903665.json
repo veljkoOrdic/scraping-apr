@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:40:08.140Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/volkswagen/golf/2-0-golf-gti-clubsport-edition-40-5dr-56",
+    "dealer_id": "3695",
+    "car_id": "26903665",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SC17UMS",
+        "registration_date": "23/05/2017",
+        "mileage": 25200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24985,
+        "total_price": 24985,
+        "deposit": 0,
+        "balance": 24985,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 513.72,
+        "final_payment": 514.72,
+        "total_amount_payable": 30824.2,
+        "total_charge_for_credit": 5839.2,
+        "amount_of_credit": 24985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

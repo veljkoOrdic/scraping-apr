@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:03:24.182Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1331760/used-suzuki-s-cross-1-4-ultra-boosterjet-5dr-hyde",
+    "dealer_id": "6611",
+    "car_id": "24396134",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF72UZL",
+        "registration_date": "30/11/2022",
+        "mileage": 6490,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18994,
+        "total_price": 18994,
+        "deposit": 1899.4,
+        "balance": 17094.6,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 429.28,
+        "final_payment": 429.28,
+        "total_amount_payable": 22504.84,
+        "total_charge_for_credit": 3510.84,
+        "amount_of_credit": 17094.6,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18994,
+        "total_price": 18994,
+        "deposit": 1899.4,
+        "balance": 17094.6,
+        "apr": 9.9,
+        "rate_of_interest": 9.46,
+        "term": 48,
+        "regular_payment": 290.67,
+        "final_payment": 8343,
+        "total_amount_payable": 23903.89,
+        "total_charge_for_credit": 4909.89,
+        "amount_of_credit": 17094.6,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.04,
+        "residual": 8333,
+        "price_to_buy": 8343
+      }
+    ]
+  }
+]

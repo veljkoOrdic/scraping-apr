@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:38:48.711Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seniorcars.co.uk/details/used-van-in-market-harborough/ford/tourneocustom/2.0-320-ecoblue-titanium-luxe-auto-fwd-l2-euro-6-ss-5dr/1398674/",
+    "dealer_id": "5450",
+    "car_id": "27272501",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV24OCJ",
+        "registration_date": "25/03/2024",
+        "mileage": 11500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46200,
+        "total_price": 46200,
+        "deposit": 7700,
+        "balance": 38500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 808.13,
+        "final_payment": 809.13,
+        "total_amount_payable": 56188.8,
+        "total_charge_for_credit": 9988.8,
+        "amount_of_credit": 38500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

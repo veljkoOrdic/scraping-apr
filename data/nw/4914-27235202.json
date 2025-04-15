@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:27:26.964Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kennymurraycarsltd.co.uk/used-audi-a3-fraserburgh-aberdeenshire-6744585",
+    "dealer_id": "4914",
+    "car_id": "27235202",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF67ZBE",
+        "registration_date": "19/09/2017",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10750,
+        "total_price": 10750,
+        "deposit": 1075,
+        "balance": 9675,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 207.42,
+        "final_payment": 208.42,
+        "total_amount_payable": 13521.2,
+        "total_charge_for_credit": 2771.2,
+        "amount_of_credit": 9675,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

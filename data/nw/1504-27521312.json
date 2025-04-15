@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:29:11.824Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ovms.co.uk/used-car-details/used-ford-ranger-30-td-v6-ecoblue-wildtrak-pic-automatic-diesel/id-202503210422445/",
+    "dealer_id": "1504",
+    "car_id": "27521312",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR73FRD",
+        "registration_date": "12/09/2023",
+        "mileage": 15325,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47994,
+        "total_price": 47994,
+        "deposit": 1000,
+        "balance": 46994,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 1049.99,
+        "final_payment": 1049.99,
+        "total_amount_payable": 63999.4,
+        "total_charge_for_credit": 16005.4,
+        "amount_of_credit": 46994,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 47994,
+        "total_price": 47994,
+        "deposit": 3999.5,
+        "balance": 43994.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 49,
+        "regular_payment": 968.93,
+        "final_payment": 12036,
+        "balloon": 12026,
+        "total_amount_payable": 62544.14,
+        "total_charge_for_credit": 14550.14,
+        "amount_of_credit": 43994.5,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 12026,
+        "price_to_buy": 12036
+      }
+    ]
+  }
+]

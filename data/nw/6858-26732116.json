@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:30:43.391Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.royhannamotors.com/used-mercedes-benz-gla-county-antrim-county-antrim-6608220",
+    "dealer_id": "6858",
+    "car_id": "26732116",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KE17KVR",
+        "registration_date": "30/06/2017",
+        "mileage": 43500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1699,
+        "balance": 15296,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 321.06,
+        "final_payment": 322.06,
+        "total_amount_payable": 20963.6,
+        "total_charge_for_credit": 3968.6,
+        "amount_of_credit": 15296,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

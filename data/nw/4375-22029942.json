@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:25:25.921Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotorcompany.co.uk/details/car-in-glasgow/volkswagen/golf/2.0-gti-auto/1001057/",
+    "dealer_id": "4375",
+    "car_id": "22029942",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BW63SVF",
+        "registration_date": "01/11/2013",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 0,
+        "balance": 14490,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 42,
+        "regular_payment": 406.7,
+        "final_payment": 407.7,
+        "total_amount_payable": 17082.4,
+        "total_charge_for_credit": 2592.4,
+        "amount_of_credit": 14490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

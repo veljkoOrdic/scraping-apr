@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:26:17.278Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-planet.co.uk/used-vauxhall-astra-watford-hertfordshire-6649509",
+    "dealer_id": "7472",
+    "car_id": "26885970",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH64JZO",
+        "registration_date": "29/09/2014",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4400,
+        "total_price": 4400,
+        "deposit": 440,
+        "balance": 3960,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 88.48,
+        "final_payment": 89.48,
+        "total_amount_payable": 5749.8,
+        "total_charge_for_credit": 1349.8,
+        "amount_of_credit": 3960,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

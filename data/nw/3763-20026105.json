@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:55:20.895Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.windmillautosltd.co.uk/used-honda-insight-bedfordshire-bedfordshire-5017027",
+    "dealer_id": "3763",
+    "car_id": "20026105",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS13OBB",
+        "registration_date": "30/04/2013",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7950,
+        "total_price": 7950,
+        "deposit": 795,
+        "balance": 7155,
+        "apr": 13.4,
+        "rate_of_interest": 6.65,
+        "term": 48,
+        "regular_payment": 188.71,
+        "final_payment": 238.71,
+        "total_amount_payable": 9953.08,
+        "total_charge_for_credit": 2003.08,
+        "amount_of_credit": 7155,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

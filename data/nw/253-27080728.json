@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:09:43.714Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellacars.co.uk/used-audi-s5-huddersfield-west-yorkshire-6704170",
+    "dealer_id": "253",
+    "car_id": "27080728",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DC18MFU",
+        "registration_date": "12/07/2018",
+        "mileage": 38078,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22990,
+        "total_price": 22990,
+        "deposit": 1000,
+        "balance": 21990,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 451.62,
+        "final_payment": 461.62,
+        "total_amount_payable": 28107.2,
+        "total_charge_for_credit": 5117.2,
+        "amount_of_credit": 21990,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

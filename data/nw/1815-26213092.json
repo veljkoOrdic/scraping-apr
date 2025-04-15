@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:19:16.360Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hopemotorcompany.co.uk/used-ford-kuga-wrexham-flintshire-6479790",
+    "dealer_id": "1815",
+    "car_id": "26213092",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ69HWA",
+        "registration_date": "30/09/2019",
+        "mileage": 31800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449,
+        "balance": 13046,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 285.57,
+        "final_payment": 286.57,
+        "total_amount_payable": 18584.2,
+        "total_charge_for_credit": 4089.2,
+        "amount_of_credit": 13046,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

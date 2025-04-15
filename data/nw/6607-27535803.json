@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:00:36.733Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoinfusion.co.uk/used-nissan-e-nv200-bristol-avon-6816014",
+    "dealer_id": "6607",
+    "car_id": "27535803",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DL20LKA",
+        "registration_date": "25/08/2020",
+        "mileage": 15644,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10194,
+        "total_price": 10194,
+        "deposit": 0,
+        "balance": 8495,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 174.51,
+        "final_payment": 175.51,
+        "total_amount_payable": 12170.6,
+        "total_charge_for_credit": 1976.6,
+        "amount_of_credit": 8495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

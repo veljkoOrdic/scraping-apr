@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:30:54.456Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.oaktreemotorcompany.com/details/used-van-in-cwmbran/ford/transitcustom/2.0-300-ecoblue-trend-crew-van-l1-h1-euro-6-ss-5dr/1015492/",
+    "dealer_id": "4707",
+    "car_id": "22247692",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CA19TXK",
+        "registration_date": "03/06/2019",
+        "mileage": 52274,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22194,
+        "total_price": 22194,
+        "deposit": 3699,
+        "balance": 18495,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 388.09,
+        "final_payment": 398.09,
+        "total_amount_payable": 26994.4,
+        "total_charge_for_credit": 4800.4,
+        "amount_of_credit": 18495,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

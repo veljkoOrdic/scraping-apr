@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:44:31.096Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belmontautos.co.uk/used-bmw-x1-glasgow-scotland-2847339",
+    "dealer_id": "6045",
+    "car_id": "11345493",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "IGZ9693",
+        "registration_date": "28/02/2018",
+        "mileage": 44821,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 300,
+        "balance": 16699,
+        "apr": 12.4,
+        "rate_of_interest": 6.53,
+        "term": 60,
+        "regular_payment": 369.2,
+        "final_payment": 379.2,
+        "total_amount_payable": 22462,
+        "total_charge_for_credit": 5463,
+        "amount_of_credit": 16699,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

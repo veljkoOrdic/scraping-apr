@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:40:11.583Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-porsche-taycan-sidcup-kent-6863117",
+    "dealer_id": "4251",
+    "car_id": "27753012",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN22VEO",
+        "registration_date": "27/05/2022",
+        "mileage": 29652,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 11999,
+        "balance": 47996,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 986.02,
+        "final_payment": 987.02,
+        "total_amount_payable": 71161.2,
+        "total_charge_for_credit": 11166.2,
+        "amount_of_credit": 47996,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 11999,
+        "balance": 47996,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 746.88,
+        "final_payment": 25109.68,
+        "total_amount_payable": 72958.92,
+        "total_charge_for_credit": 12963.92,
+        "amount_of_credit": 47996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.32,
+        "residual": 25108.68,
+        "price_to_buy": 25109.68
+      }
+    ]
+  }
+]

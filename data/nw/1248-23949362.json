@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:49:56.522Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.iandsmotorswrexham.co.uk/used-bmw-5-series-wrexham-clwyd-5931498",
+    "dealer_id": "1248",
+    "car_id": "23949362",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LM19SVZ",
+        "registration_date": "29/03/2019",
+        "mileage": 74185,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 0,
+        "balance": 14495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 304.25,
+        "final_payment": 305.25,
+        "total_amount_payable": 18256,
+        "total_charge_for_credit": 3761,
+        "amount_of_credit": 14495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

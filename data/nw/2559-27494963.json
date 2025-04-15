@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:43:56.211Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hamptonautomotive.co.uk/used-volkswagen-up!-bridport-dorset-6804795",
+    "dealer_id": "2559",
+    "car_id": "27494963",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK63YVY",
+        "registration_date": "24/12/2013",
+        "mileage": 19800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8490,
+        "total_price": 8490,
+        "deposit": 849,
+        "balance": 7641,
+        "apr": 10.9,
+        "rate_of_interest": 5.61,
+        "term": 44,
+        "regular_payment": 209.39,
+        "final_payment": 219.39,
+        "total_amount_payable": 10072.16,
+        "total_charge_for_credit": 1582.16,
+        "amount_of_credit": 7641,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

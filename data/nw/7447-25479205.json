@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:13:40.645Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blightsmotors.co.uk/used/volkswagen/up/10-115ps-up-gti-5dr/bideford/devon/21384086",
+    "dealer_id": "7447",
+    "car_id": "25479205",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ21NDF",
+        "registration_date": "12/03/2021",
+        "mileage": 11611,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 1499,
+        "balance": 13491,
+        "apr": 11.1,
+        "rate_of_interest": 5.82,
+        "term": 60,
+        "regular_payment": 290.33,
+        "final_payment": 300.33,
+        "total_amount_payable": 18928.8,
+        "total_charge_for_credit": 3938.8,
+        "amount_of_credit": 13491,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 1499,
+        "balance": 13491,
+        "apr": 11.1,
+        "rate_of_interest": 5.76,
+        "term": 49,
+        "regular_payment": 256.01,
+        "final_payment": 5388,
+        "total_amount_payable": 19175.48,
+        "total_charge_for_credit": 4185.48,
+        "amount_of_credit": 13491,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 5378,
+        "price_to_buy": 5388
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:36:02.233Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehertfordcarcompany.co.uk/used-audi-tt-hertford-hertfordshire-6783044",
+    "dealer_id": "3137",
+    "car_id": "27477836",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DK14VZA",
+        "registration_date": "09/04/2014",
+        "mileage": 42394,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10989,
+        "total_price": 10989,
+        "deposit": 1098,
+        "balance": 9891,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 47,
+        "regular_payment": 252.72,
+        "final_payment": 253.72,
+        "total_amount_payable": 12976.84,
+        "total_charge_for_credit": 1987.84,
+        "amount_of_credit": 9891,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

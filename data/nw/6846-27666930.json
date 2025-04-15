@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T03:18:09.732Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lutontradecentre.com/used-citroen-c3-luton-bedfordshire-6846761",
+    "dealer_id": "6846",
+    "car_id": "27666930",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG19FNC",
+        "registration_date": "31/03/2019",
+        "mileage": 61816,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7275,
+        "total_price": 7275,
+        "deposit": 727,
+        "balance": 6548,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 47,
+        "regular_payment": 139.77,
+        "final_payment": 2304,
+        "total_amount_payable": 9460.42,
+        "total_charge_for_credit": 2185.42,
+        "amount_of_credit": 6548,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 23500,
+        "excess_mileage_rate": 0.01,
+        "residual": 2303,
+        "price_to_buy": 2304
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:34:50.533Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.primemotorsessex.co.uk/used-bmw-x5-harlow-essex-6321298",
+    "dealer_id": "8352",
+    "car_id": "25859166",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE67GZL",
+        "registration_date": "30/11/2017",
+        "mileage": 87000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25749,
+        "total_price": 25749,
+        "deposit": 2574,
+        "balance": 23175,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 475.97,
+        "final_payment": 485.97,
+        "total_amount_payable": 31142.2,
+        "total_charge_for_credit": 5393.2,
+        "amount_of_credit": 23175,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

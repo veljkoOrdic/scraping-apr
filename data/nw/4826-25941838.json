@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:05:08.466Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caldermotor.co.uk/used-land-rover-range-rover-sport-west-lothian-scotland-6407333",
+    "dealer_id": "4826",
+    "car_id": "25941838",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CL21TCK",
+        "registration_date": "30/03/2021",
+        "mileage": 50800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37450,
+        "total_price": 37450,
+        "deposit": 3745,
+        "balance": 33705,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 692.41,
+        "final_payment": 693.41,
+        "total_amount_payable": 45290.6,
+        "total_charge_for_credit": 7840.6,
+        "amount_of_credit": 33705,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37450,
+        "total_price": 37450,
+        "deposit": 3745,
+        "balance": 33705,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 562.27,
+        "final_payment": 15464.41,
+        "total_amount_payable": 46198.37,
+        "total_charge_for_credit": 8748.37,
+        "amount_of_credit": 33705,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 15464.41,
+        "price_to_buy": 15464.41
+      }
+    ]
+  }
+]

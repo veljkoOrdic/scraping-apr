@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:45:42.476Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.orwellmotors.co.uk/used-mercedes-benz-e-class-dunfermline-scotland-6659142",
+    "dealer_id": "376",
+    "car_id": "26919591",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM18EWO",
+        "registration_date": "27/03/2018",
+        "mileage": 57390,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049,
+        "balance": 18446,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 378.94,
+        "final_payment": 379.94,
+        "total_amount_payable": 24786.4,
+        "total_charge_for_credit": 4291.4,
+        "amount_of_credit": 18446,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

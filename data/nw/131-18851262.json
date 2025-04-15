@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:21:51.378Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rdmdirect.co.uk/used-tesla-model-s-burton-on-trent-staffordshire-4728902",
+    "dealer_id": "131",
+    "car_id": "18851262",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MH65BTV",
+        "registration_date": "13/01/2016",
+        "mileage": 66000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 300,
+        "balance": 18700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 494.22,
+        "final_payment": 495.22,
+        "total_amount_payable": 24023.56,
+        "total_charge_for_credit": 5023.56,
+        "amount_of_credit": 18700,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:47:30.685Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motonetltd.com/used-suzuki-sx4-s-cross-coventry-west-midlands-6484959",
+    "dealer_id": "6915",
+    "car_id": "26246141",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU14ZNT",
+        "registration_date": "25/03/2014",
+        "mileage": 106000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3980,
+        "total_price": 3980,
+        "deposit": 796,
+        "balance": 3184,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 47,
+        "regular_payment": 86.93,
+        "final_payment": 87.93,
+        "total_amount_payable": 4882.71,
+        "total_charge_for_credit": 902.71,
+        "amount_of_credit": 3184,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

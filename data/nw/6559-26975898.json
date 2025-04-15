@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:53:44.581Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-ferrari-portofino-38t-v8-f1-dct-euro-6-ss-2d-convertible-rosso-corsa-automatic-petrol/id-202501318625050/",
+    "dealer_id": "6559",
+    "car_id": "26975898",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BV19HKY",
+        "registration_date": "01/03/2019",
+        "mileage": 29000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 107948,
+        "total_price": 107948,
+        "deposit": 37781,
+        "balance": 70167,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1472.85,
+        "final_payment": 1473.85,
+        "total_amount_payable": 126153,
+        "total_charge_for_credit": 18205,
+        "amount_of_credit": 70167,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 107948,
+        "total_price": 107948,
+        "deposit": 37781,
+        "balance": 70167,
+        "apr": 11.3,
+        "rate_of_interest": 11.3,
+        "term": 46,
+        "regular_payment": 1139.43,
+        "final_payment": 42394,
+        "total_amount_payable": 131449.35,
+        "total_charge_for_credit": 23501.35,
+        "amount_of_credit": 70167,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 30667,
+        "excess_mileage_rate": 0.27,
+        "residual": 42394,
+        "price_to_buy": 42394
+      }
+    ]
+  }
+]

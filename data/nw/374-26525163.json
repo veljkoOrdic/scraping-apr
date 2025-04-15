@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:43:26.468Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cullodencarsales.co.uk/used/cars/land-rover/range-rover-sport/3-0-range-rover-sport-hse-dynamic-sdv6-auto-4wd-5dr-1522",
+    "dealer_id": "374",
+    "car_id": "26525163",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV69YPZ",
+        "registration_date": "22/10/2019",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 0,
+        "balance": 34995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 750.28,
+        "final_payment": 751.28,
+        "total_amount_payable": 45017.8,
+        "total_charge_for_credit": 10022.8,
+        "amount_of_credit": 34995,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 0,
+        "balance": 34995,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 641.09,
+        "final_payment": 15110.5,
+        "total_amount_payable": 45882.82,
+        "total_charge_for_credit": 10887.82,
+        "amount_of_credit": 34995,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 15110.5,
+        "price_to_buy": 15110.5
+      }
+    ]
+  }
+]

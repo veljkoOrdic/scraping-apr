@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:30:33.157Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kintorecarsales.co.uk/vehicle-details/used-mercedes-benz-sl-3-0-sl400-amg-sport-convertible-g-tronic-for-sale-midmill-kintore-u2933/",
+    "dealer_id": "358",
+    "car_id": "26577417",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW64CNN",
+        "registration_date": "04/11/2014",
+        "mileage": 88500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 250,
+        "balance": 17745,
+        "apr": 9.9,
+        "rate_of_interest": 5.16,
+        "term": 54,
+        "regular_payment": 404.91,
+        "final_payment": 405.91,
+        "total_amount_payable": 22116.14,
+        "total_charge_for_credit": 4121.14,
+        "amount_of_credit": 17745,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

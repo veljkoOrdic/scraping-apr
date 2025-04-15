@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:24:05.417Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/nissan/nissan-leaf-160kw-e-n-connecta-59kwh-5dr-auto-3/",
+    "dealer_id": "7286",
+    "car_id": "20363673",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BF23CWW",
+        "registration_date": "31/03/2023",
+        "mileage": 1600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 0,
+        "balance": 24995,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 649.61,
+        "final_payment": 649.61,
+        "total_amount_payable": 31181.28,
+        "total_charge_for_credit": 6186.28,
+        "amount_of_credit": 24995,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 0,
+        "balance": 24995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 507.696433098466,
+        "final_payment": 7487.7,
+        "total_amount_payable": 31349.43,
+        "total_charge_for_credit": 6354.43,
+        "amount_of_credit": 24995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.12,
+        "residual": 6970,
+        "price_to_buy": 7487.7
+      }
+    ]
+  }
+]

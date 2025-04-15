@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:48:57.598Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/toyota/supra/3.0t-gr-pro-auto-euro-6-ss-3dr/1194408/",
+    "dealer_id": "7543",
+    "car_id": "24732036",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NG21YGD",
+        "registration_date": "30/06/2021",
+        "mileage": 15000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38795,
+        "total_price": 38795,
+        "deposit": 3879.5,
+        "balance": 34915.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 732.89,
+        "final_payment": 733.89,
+        "total_amount_payable": 47853.9,
+        "total_charge_for_credit": 9058.9,
+        "amount_of_credit": 34915.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38795,
+        "total_price": 38795,
+        "deposit": 3879.5,
+        "balance": 34915.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 548.57,
+        "final_payment": 19218.13,
+        "total_amount_payable": 49428.99,
+        "total_charge_for_credit": 10633.99,
+        "amount_of_credit": 34915.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.18,
+        "residual": 19217.13,
+        "price_to_buy": 19218.13
+      }
+    ]
+  }
+]

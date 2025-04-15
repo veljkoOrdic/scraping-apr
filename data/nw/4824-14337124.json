@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:02:14.513Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkilkennycars.co.uk/used-mercedes-benz-cl-edinburgh-scotland-3615944",
+    "dealer_id": "4824",
+    "car_id": "14337124",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL58SDU",
+        "registration_date": "31/12/2008",
+        "mileage": 36986,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1995,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 25405.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

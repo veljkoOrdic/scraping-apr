@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:51:53.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cardifftradesales.co.uk/used-fiat-500c-cardiff-south-glamorgan-6398284",
+    "dealer_id": "5531",
+    "car_id": "25896418",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY11JXG",
+        "registration_date": "10/03/2011",
+        "mileage": 28300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4991,
+        "total_price": 4991,
+        "deposit": 499,
+        "balance": 4492,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 46,
+        "regular_payment": 116.84,
+        "final_payment": 116.84,
+        "total_amount_payable": 5873.64,
+        "total_charge_for_credit": 882.64,
+        "amount_of_credit": 4492,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

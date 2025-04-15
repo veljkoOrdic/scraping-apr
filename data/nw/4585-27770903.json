@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:09:37.202Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.buyandgocars.co.uk/used-audi-a3-cardiff-glamorgan-6847575",
+    "dealer_id": "4585",
+    "car_id": "27770903",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ68OZD",
+        "registration_date": "30/11/2018",
+        "mileage": 77858,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11590,
+        "total_price": 11590,
+        "deposit": 1000,
+        "balance": 10590,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 222.28,
+        "final_payment": 223.28,
+        "total_amount_payable": 14337.8,
+        "total_charge_for_credit": 2747.8,
+        "amount_of_credit": 10590,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

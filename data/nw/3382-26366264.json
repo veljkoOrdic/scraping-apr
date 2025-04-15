@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:03:09.325Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/bentley/continental/4.0-v8-gtc-auto-4wd-euro-6-2dr/1323279/",
+    "dealer_id": "3382",
+    "car_id": "26366264",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX62HHS",
+        "registration_date": "04/01/2013",
+        "mileage": 45368,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34490,
+        "total_price": 34490,
+        "deposit": 19490,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 42900.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

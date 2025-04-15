@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:53:39.563Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blakedowncarcompany.co.uk/details/car-in-wombourne/porsche/911/3.0t-992-carrera-s-pdk-euro-6-ss-2dr/1401924/",
+    "dealer_id": "5965",
+    "car_id": "27317391",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "UGZ6962",
+        "registration_date": "20/03/2020",
+        "mileage": 13900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 85999,
+        "total_price": 85999,
+        "deposit": 8599.9,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 105457.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 85999,
+        "total_price": 85999,
+        "deposit": 8599.9,
+        "balance": 77399.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 1343.98,
+        "final_payment": 37835,
+        "total_amount_payable": 110945.94,
+        "total_charge_for_credit": 24946.94,
+        "amount_of_credit": 77399.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 37835,
+        "price_to_buy": 37835
+      }
+    ]
+  }
+]

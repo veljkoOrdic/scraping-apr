@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:35:16.573Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.m4sales.co.uk/vehicle-details/used-ford-transit-350-ecoblue-mhev-limited-xlwb-h-r-a-c-euro-6-for-sale-van-centre-u6591/",
+    "dealer_id": "7199",
+    "car_id": "25379329",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE22YJW",
+        "registration_date": "01/03/2022",
+        "mileage": 70163,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 0,
+        "balance": 16995,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 387.42,
+        "final_payment": 388.42,
+        "total_amount_payable": 26645.2,
+        "total_charge_for_credit": 6251.2,
+        "amount_of_credit": 16995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

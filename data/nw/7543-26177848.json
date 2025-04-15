@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:49:04.463Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/audi/rs7/4.0-tfsi-v8-performance-sportback-tiptronic-quattro-euro-6-ss-5dr/1307579/",
+    "dealer_id": "7543",
+    "car_id": "26177848",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA67XTM",
+        "registration_date": "27/01/2018",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41995,
+        "total_price": 41995,
+        "deposit": 4199.5,
+        "balance": 37795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 793.34,
+        "final_payment": 794.34,
+        "total_amount_payable": 51800.9,
+        "total_charge_for_credit": 9805.9,
+        "amount_of_credit": 37795.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

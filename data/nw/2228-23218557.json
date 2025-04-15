@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:07:07.445Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandles.co.uk/used-cars/porsche/cayenne/30-v6-e-hybrid-141kwh-coupe-tiptronics-4wd-euro-6-ss-5dr-36kw-charger/ey20hkz",
+    "dealer_id": "2228",
+    "car_id": "23218557",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY20HKZ",
+        "registration_date": "01/03/2020",
+        "mileage": 27800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52499,
+        "total_price": 52499,
+        "deposit": 5249.9,
+        "balance": 47249.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 991.66,
+        "final_payment": 1001.66,
+        "total_amount_payable": 64759.5,
+        "total_charge_for_credit": 12260.5,
+        "amount_of_credit": 47249.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

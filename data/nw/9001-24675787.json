@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:43:21.122Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-volvo-v40-newry-northern-ireland-5838578",
+    "dealer_id": "9001",
+    "car_id": "24675787",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BSZ9217",
+        "registration_date": "28/04/2014",
+        "mileage": 97000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749,
+        "balance": 6746,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 172.35,
+        "final_payment": 173.35,
+        "total_amount_payable": 9022.8,
+        "total_charge_for_credit": 1527.8,
+        "amount_of_credit": 6746,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

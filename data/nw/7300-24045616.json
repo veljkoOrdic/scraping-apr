@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:37:11.683Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nathanielcars.co.uk/cars/fiat-e-doblo-lwb-p-v/",
+    "dealer_id": "7300",
+    "car_id": "24045616",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU72MHL",
+        "registration_date": "30/09/2022",
+        "mileage": 10925,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17994,
+        "total_price": 17994,
+        "deposit": 4498.5,
+        "balance": 13495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 283.15,
+        "final_payment": 293.15,
+        "total_amount_payable": 21497.5,
+        "total_charge_for_credit": 3503.5,
+        "amount_of_credit": 13495.5,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

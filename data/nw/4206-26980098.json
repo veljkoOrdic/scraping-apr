@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:25:29.852Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hamcarcentre.co.uk/used-citroen-berlingo-poole-dorset-6674972",
+    "dealer_id": "4206",
+    "car_id": "26980098",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MH23DKK",
+        "registration_date": "30/06/2023",
+        "mileage": 24000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16788,
+        "total_price": 16788,
+        "deposit": 0,
+        "balance": 13990,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 299.93,
+        "final_payment": 300.93,
+        "total_amount_payable": 20794.8,
+        "total_charge_for_credit": 4006.8,
+        "amount_of_credit": 13990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

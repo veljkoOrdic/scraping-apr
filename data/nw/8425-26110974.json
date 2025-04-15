@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:58:08.340Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.we-sell-any-car.com/used-bmw-1-series-peterborough-cambridgeshire-6454375",
+    "dealer_id": "8425",
+    "car_id": "26110974",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CJ17YSY",
+        "registration_date": "31/03/2017",
+        "mileage": 60962,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8957,
+        "total_price": 8957,
+        "deposit": 895,
+        "balance": 8062,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 180.12,
+        "final_payment": 181.12,
+        "total_amount_payable": 11703.2,
+        "total_charge_for_credit": 2746.2,
+        "amount_of_credit": 8062,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:03:02.803Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashmotorsltd.co.uk/cars/mercedes-benz/glcclass/2.1-glc220d-sport/1407435/",
+    "dealer_id": "6930",
+    "car_id": "27377948",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD16KXS",
+        "registration_date": "18/04/2016",
+        "mileage": 86600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 295.72,
+        "final_payment": 296.72,
+        "total_amount_payable": 19343.7,
+        "total_charge_for_credit": 3348.7,
+        "amount_of_credit": 14395.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

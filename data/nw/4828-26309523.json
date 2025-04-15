@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:09:11.138Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.baskeyfields.co.uk/used-husqvarna-svartpilen-401-2021-stoke-on-trent-staffordshire-5342979",
+    "dealer_id": "4828",
+    "car_id": "26309523",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC22FAU",
+        "registration_date": "25/04/2022",
+        "mileage": 1987,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3295,
+        "total_price": 3295,
+        "deposit": 329,
+        "balance": 2966,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 64.91,
+        "final_payment": 65.91,
+        "total_amount_payable": 4224.6,
+        "total_charge_for_credit": 929.6,
+        "amount_of_credit": 2966,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

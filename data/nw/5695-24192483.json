@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:02:32.103Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.essex4x4centre.com/used-mercedes-benz-slc-hockley-essex-5988184",
+    "dealer_id": "5695",
+    "car_id": "24192483",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB62EVE",
+        "registration_date": "31/03/2017",
+        "mileage": 82567,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 1199,
+        "balance": 10800,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 280.67,
+        "final_payment": 281.67,
+        "total_amount_payable": 14672.16,
+        "total_charge_for_credit": 2673.16,
+        "amount_of_credit": 10800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

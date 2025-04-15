@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:58:11.630Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/bmw-x1-xdrive-23i-m-sport-premium-mhev-a-4wd-in-kent-cc4403a5-389d-47e7-bc50-b18c00b4d4ce",
+    "dealer_id": "5545",
+    "car_id": "24615896",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD72OGP",
+        "registration_date": "30/09/2022",
+        "mileage": 23456,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34750,
+        "total_price": 34750,
+        "deposit": 5212.5,
+        "balance": 29537.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 728.82,
+        "final_payment": 729.82,
+        "total_amount_payable": 40196.86,
+        "total_charge_for_credit": 5446.86,
+        "amount_of_credit": 29537.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34750,
+        "total_price": 34750,
+        "deposit": 5212.5,
+        "balance": 29537.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 484.72,
+        "final_payment": 14013.21,
+        "total_amount_payable": 42492.27,
+        "total_charge_for_credit": 7742.27,
+        "amount_of_credit": 29537.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.16,
+        "residual": 14012.21,
+        "price_to_buy": 14013.21
+      }
+    ]
+  }
+]

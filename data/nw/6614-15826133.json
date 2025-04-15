@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:06:32.591Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/kgm/musso/dcab-pick-up-202-saracen-plus-auto-123-touch/cheltenham/gloucestershire/165525",
+    "dealer_id": "6614",
+    "car_id": "15826133",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VX25XPR",
+        "registration_date": "01/03/2025",
+        "mileage": 10,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40428,
+        "total_price": 40428,
+        "deposit": 3369,
+        "balance": 30321,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 622.89,
+        "final_payment": 623.89,
+        "total_amount_payable": 47481.4,
+        "total_charge_for_credit": 7053.4,
+        "amount_of_credit": 30321,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

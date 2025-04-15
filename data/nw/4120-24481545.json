@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:24:42.945Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.russellham.co.uk/used-fiat-500-plymouth-devon-6059335",
+    "dealer_id": "4120",
+    "car_id": "24481545",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GV66KSN",
+        "registration_date": "03/01/2017",
+        "mileage": 70275,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5850,
+        "total_price": 5850,
+        "deposit": 292,
+        "balance": 5558,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 124.17,
+        "final_payment": 125.17,
+        "total_amount_payable": 7743.2,
+        "total_charge_for_credit": 1893.2,
+        "amount_of_credit": 5558,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

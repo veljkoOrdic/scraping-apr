@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:52:37.556Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/bentley/continental/4.0-v8-gt-s-auto-4wd-euro-6-2dr/1324555/",
+    "dealer_id": "8670",
+    "car_id": "26377198",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "T16ADP",
+        "registration_date": "05/05/2015",
+        "mileage": 24805,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43495,
+        "total_price": 43495,
+        "deposit": 4349.5,
+        "balance": 39145.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.57,
+        "term": 36,
+        "regular_payment": 1236.5,
+        "final_payment": 1246.5,
+        "total_amount_payable": 48873.5,
+        "total_charge_for_credit": 5378.5,
+        "amount_of_credit": 39145.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

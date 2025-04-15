@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:21:09.401Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macsonscars.co.uk/cars/morgan/plus6/plus-six-3.0/1018051/",
+    "dealer_id": "4350",
+    "car_id": "22289674",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "J400BLY",
+        "registration_date": "01/10/2019",
+        "mileage": 7000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64990,
+        "total_price": 64990,
+        "deposit": 6499,
+        "balance": 58491,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1254.02,
+        "final_payment": 1255.02,
+        "total_amount_payable": 81741.2,
+        "total_charge_for_credit": 16751.2,
+        "amount_of_credit": 58491,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

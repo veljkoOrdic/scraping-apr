@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:13:11.021Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuevehicles.co.uk/used/cars/mercedes-benz/glc/2-1-glc-250-d-4matic-amg-line-automatic-4wd-5dr-national-delivery-211",
+    "dealer_id": "2792",
+    "car_id": "22746200",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP66HWT",
+        "registration_date": "05/10/2016",
+        "mileage": 63369,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 100,
+        "balance": 17395,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 365.13,
+        "final_payment": 366.13,
+        "total_amount_payable": 22008.8,
+        "total_charge_for_credit": 4513.8,
+        "amount_of_credit": 17395,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

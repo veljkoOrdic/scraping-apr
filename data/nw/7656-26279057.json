@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:59:42.093Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aspinallmotors.co.uk/cars-for-sale/swansea/car/898/bmw-3-series-320d-m-sport-2-0-4dr-air-con-sat-nav-dakota-leather",
+    "dealer_id": "7656",
+    "car_id": "26279057",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ63ZHH",
+        "registration_date": "13/09/2013",
+        "mileage": 103653,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7750,
+        "total_price": 7750,
+        "deposit": 0,
+        "balance": 7750,
+        "apr": 12.5,
+        "rate_of_interest": 6.42,
+        "term": 40,
+        "regular_payment": 235.21,
+        "final_payment": 245.21,
+        "total_amount_payable": 9418.4,
+        "total_charge_for_credit": 1668.4,
+        "amount_of_credit": 7750,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

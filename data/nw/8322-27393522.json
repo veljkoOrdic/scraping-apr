@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:23:01.053Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.simpsonmotors.co.uk/used-land-rover-discovery-fife-scotland-6781351",
+    "dealer_id": "8322",
+    "car_id": "27393522",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP72ONV",
+        "registration_date": "01/09/2022",
+        "mileage": 38715,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52794,
+        "total_price": 52794,
+        "deposit": 0,
+        "balance": 52794,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1108.17,
+        "final_payment": 1109.17,
+        "total_amount_payable": 66491.2,
+        "total_charge_for_credit": 13697.2,
+        "amount_of_credit": 52794,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

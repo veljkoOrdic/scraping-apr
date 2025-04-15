@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:32:46.474Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-bmw-m3-biturbo-competition-for-sale-grm-autos-grange-road-u972/",
+    "dealer_id": "6238",
+    "car_id": "26323680",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CC19NOR",
+        "registration_date": "05/10/2021",
+        "mileage": 7619,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59950,
+        "total_price": 59950,
+        "deposit": 5995,
+        "balance": 53955,
+        "apr": 10.8,
+        "rate_of_interest": 5.67,
+        "term": 60,
+        "regular_payment": 1154.23,
+        "final_payment": 1164.23,
+        "total_amount_payable": 75258.8,
+        "total_charge_for_credit": 15308.8,
+        "amount_of_credit": 53955,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59950,
+        "total_price": 59950,
+        "deposit": 5995,
+        "balance": 53955,
+        "apr": 10.8,
+        "rate_of_interest": 5.61,
+        "term": 49,
+        "regular_payment": 939.61,
+        "final_payment": 26020,
+        "total_amount_payable": 77116.28,
+        "total_charge_for_credit": 17166.28,
+        "amount_of_credit": 53955,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 26010,
+        "price_to_buy": 26020
+      }
+    ]
+  }
+]

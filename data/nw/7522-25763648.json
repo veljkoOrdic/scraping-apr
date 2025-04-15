@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:41:47.444Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjmcarsales.co.uk/used-skoda-karoq-bishop-auckland-county-durham-6344680",
+    "dealer_id": "7522",
+    "car_id": "25763648",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA71FFL",
+        "registration_date": "20/09/2021",
+        "mileage": 27674,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199,
+        "balance": 19796,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 415.52,
+        "final_payment": 416.52,
+        "total_amount_payable": 27131.2,
+        "total_charge_for_credit": 5136.2,
+        "amount_of_credit": 19796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199,
+        "balance": 19796,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 313.11,
+        "final_payment": 10774,
+        "total_amount_payable": 28002.28,
+        "total_charge_for_credit": 6007.28,
+        "amount_of_credit": 19796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.12,
+        "residual": 10773,
+        "price_to_buy": 10774
+      }
+    ]
+  }
+]

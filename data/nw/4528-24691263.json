@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:51:45.142Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.atlasautos.co.uk/used-audi-a7-manningtree-essex-6109971",
+    "dealer_id": "4528",
+    "car_id": "24691263",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ70FLD",
+        "registration_date": "31/10/2020",
+        "mileage": 69000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29250,
+        "total_price": 29250,
+        "deposit": 0,
+        "balance": 29250,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 613.97,
+        "final_payment": 614.97,
+        "total_amount_payable": 36839.2,
+        "total_charge_for_credit": 7589.2,
+        "amount_of_credit": 29250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29250,
+        "total_price": 29250,
+        "deposit": 0,
+        "balance": 29250,
+        "apr": 9.9,
+        "rate_of_interest": 4.93,
+        "term": 49,
+        "regular_payment": 571.49,
+        "final_payment": 9545.91,
+        "total_amount_payable": 36977.43,
+        "total_charge_for_credit": 7727.43,
+        "amount_of_credit": 29250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 9544.91,
+        "price_to_buy": 9545.91
+      }
+    ]
+  }
+]

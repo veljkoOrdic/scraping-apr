@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:32:57.608Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtsixtyseven.com/cars/jaguar/xk/5.0-v8-portfolio-auto-euro-5-2dr/1360173/",
+    "dealer_id": "8856",
+    "car_id": "26823731",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LY12YTL",
+        "registration_date": "31/05/2012",
+        "mileage": 67800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16395,
+        "total_price": 16395,
+        "deposit": 1639.5,
+        "balance": 14755.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 316.35,
+        "final_payment": 316.35,
+        "total_amount_payable": 20620.5,
+        "total_charge_for_credit": 4225.5,
+        "amount_of_credit": 14755.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

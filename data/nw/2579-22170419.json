@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:47:24.607Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abbeygatecars.co.uk/used/ford/fiesta-vignale/10-ecoboost-140ps-vignale-5-door-6-speed-manual/attleborough/norfolk/21060860",
+    "dealer_id": "2579",
+    "car_id": "22170419",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU69YRJ",
+        "registration_date": "15/09/2019",
+        "mileage": 25063,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1299.9,
+        "balance": 11699.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 261.27,
+        "final_payment": 271.27,
+        "total_amount_payable": 16986.1,
+        "total_charge_for_credit": 3987.1,
+        "amount_of_credit": 11699.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

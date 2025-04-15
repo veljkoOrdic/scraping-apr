@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:46:57.389Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gssgarage.co.uk/used-bmw-1-series-harrow-middlesex-6498205",
+    "dealer_id": "6545",
+    "car_id": "26283643",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK19TZW",
+        "registration_date": "16/03/2019",
+        "mileage": 29122,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22190,
+        "total_price": 22190,
+        "deposit": 2219,
+        "balance": 19971,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 419.19,
+        "final_payment": 420.19,
+        "total_amount_payable": 27371.4,
+        "total_charge_for_credit": 5181.4,
+        "amount_of_credit": 19971,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

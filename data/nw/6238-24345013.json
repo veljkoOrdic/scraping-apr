@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:25:30.190Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-bmw-5-series-520d-m-sport-for-sale-grm-autos-grange-road-u891/",
+    "dealer_id": "6238",
+    "car_id": "24345013",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ67TYG",
+        "registration_date": "31/12/2017",
+        "mileage": 95320,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16650,
+        "total_price": 16650,
+        "deposit": 1665,
+        "balance": 14985,
+        "apr": 10.8,
+        "rate_of_interest": 5.66,
+        "term": 60,
+        "regular_payment": 320.47,
+        "final_payment": 330.47,
+        "total_amount_payable": 20903.2,
+        "total_charge_for_credit": 4253.2,
+        "amount_of_credit": 14985,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:36.034Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-mercedes-benz-gle-chelmsford-essex-6865135",
+    "dealer_id": "6414",
+    "car_id": "27740974",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK67UAX",
+        "registration_date": "22/12/2017",
+        "mileage": 34616,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499,
+        "balance": 31496,
+        "apr": 16.9,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 761.08,
+        "final_payment": 771.08,
+        "total_amount_payable": 49173.8,
+        "total_charge_for_credit": 14178.8,
+        "amount_of_credit": 31496,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

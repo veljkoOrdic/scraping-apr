@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:14:52.474Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blightsmotors.co.uk/used/volkswagen/transporter/20-tdi-150-highline-van/bideford/devon/228257",
+    "dealer_id": "7447",
+    "car_id": "24955358",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ70FMO",
+        "registration_date": "30/09/2020",
+        "mileage": 56441,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26388,
+        "total_price": 26388,
+        "deposit": 6597,
+        "balance": 19791,
+        "apr": 11.1,
+        "rate_of_interest": 5.83,
+        "term": 60,
+        "regular_payment": 425.97,
+        "final_payment": 435.97,
+        "total_amount_payable": 32165.2,
+        "total_charge_for_credit": 5777.2,
+        "amount_of_credit": 19791,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:15:35.354Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wirralcarsales.com/used-land-rover-range-rover-evoque-ellesmere-port-cheshire-6658407",
+    "dealer_id": "4042",
+    "car_id": "26910946",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ02PEN",
+        "registration_date": "27/09/2019",
+        "mileage": 56359,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17950,
+        "total_price": 17950,
+        "deposit": 1795,
+        "balance": 16155,
+        "apr": 11.5,
+        "rate_of_interest": 6.04,
+        "term": 60,
+        "regular_payment": 350.6,
+        "final_payment": 360.6,
+        "total_amount_payable": 22841,
+        "total_charge_for_credit": 4891,
+        "amount_of_credit": 16155,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

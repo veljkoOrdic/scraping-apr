@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:58:14.586Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ns-cars.co.uk/used-mini-hatch-liverpool-merseyside-6136503",
+    "dealer_id": "8202",
+    "car_id": "24802344",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LP17EVB",
+        "registration_date": "31/03/2017",
+        "mileage": 24700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 4999,
+        "balance": 19996,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 465.16,
+        "final_payment": 465.16,
+        "total_amount_payable": 30117.64,
+        "total_charge_for_credit": 5122.64,
+        "amount_of_credit": 19996,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

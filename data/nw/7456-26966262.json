@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:25:19.108Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sckltd.co.uk/details/car-in-kingswinford/lamborghini/urus/4.0-v8-biturbo-graphite-capsule-auto-4wd-euro-6-5dr/1371756/",
+    "dealer_id": "7456",
+    "car_id": "26966262",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LAW3E",
+        "registration_date": "14/04/2022",
+        "mileage": 22275,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 190000,
+        "total_price": 190000,
+        "deposit": 19000,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1883.4,
+        "final_payment": 1884.4,
+        "total_amount_payable": 205404.2,
+        "total_charge_for_credit": 15404.2,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 190000,
+        "total_price": 190000,
+        "deposit": 19000,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 4.75,
+        "term": 49,
+        "regular_payment": 996.22,
+        "final_payment": 88702.62,
+        "total_amount_payable": 226521.18,
+        "total_charge_for_credit": 36521.18,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.82,
+        "residual": 88701.62,
+        "price_to_buy": 88702.62
+      }
+    ]
+  }
+]

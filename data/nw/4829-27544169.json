@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:16:09.095Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fastlanemotorcars.co.uk/used-land-rover-range-rover-velar-stoke-on-trent-staffordshire-6819208",
+    "dealer_id": "4829",
+    "car_id": "27544169",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY70WDO",
+        "registration_date": "03/09/2020",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199,
+        "balance": 28796,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 617.37,
+        "final_payment": 618.37,
+        "total_amount_payable": 40242.2,
+        "total_charge_for_credit": 8247.2,
+        "amount_of_credit": 28796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199,
+        "balance": 28796,
+        "apr": 10.9,
+        "rate_of_interest": 5.32,
+        "term": 49,
+        "regular_payment": 473.48,
+        "final_payment": 15661,
+        "total_amount_payable": 41587.04,
+        "total_charge_for_credit": 9592.04,
+        "amount_of_credit": 28796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.14,
+        "residual": 15660,
+        "price_to_buy": 15661
+      }
+    ]
+  }
+]

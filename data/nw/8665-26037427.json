@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:47:49.452Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shadow-automotive.co.uk/used-land-rover-range-rover-evoque-stamford-rutland-6434442",
+    "dealer_id": "8665",
+    "car_id": "26037427",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SH14NDJ",
+        "registration_date": "10/05/2014",
+        "mileage": 118321,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949,
+        "balance": 8546,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 218.34,
+        "final_payment": 219.34,
+        "total_amount_payable": 11430.32,
+        "total_charge_for_credit": 1935.32,
+        "amount_of_credit": 8546,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

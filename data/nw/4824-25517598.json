@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:02:49.935Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkilkennycars.co.uk/used-bmw-x6-edinburgh-scotland-6307570",
+    "dealer_id": "4824",
+    "car_id": "25517598",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC67ZXY",
+        "registration_date": "24/11/2017",
+        "mileage": 74248,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 0,
+        "balance": 22995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 492.99,
+        "final_payment": 493.99,
+        "total_amount_payable": 29580.4,
+        "total_charge_for_credit": 6585.4,
+        "amount_of_credit": 22995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

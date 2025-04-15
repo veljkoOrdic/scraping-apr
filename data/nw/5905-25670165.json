@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:31:29.137Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-mercedes-benz-cla-derry-county-londonderry-6345756",
+    "dealer_id": "5905",
+    "car_id": "25670165",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ18UXR",
+        "registration_date": "27/03/2018",
+        "mileage": 71285,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16295,
+        "total_price": 16295,
+        "deposit": 814,
+        "balance": 15481,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 338.87,
+        "final_payment": 339.87,
+        "total_amount_payable": 21147.2,
+        "total_charge_for_credit": 4852.2,
+        "amount_of_credit": 15481,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

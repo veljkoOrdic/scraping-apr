@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:45:20.778Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.uplandsmotorcompany.co.uk/used-mercedes-benz-e-class-cuffley-hertfordshire-6635339",
+    "dealer_id": "3203",
+    "car_id": "26824659",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LP69YRN",
+        "registration_date": "23/01/2020",
+        "mileage": 17500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 2699,
+        "balance": 24291,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 531.73,
+        "final_payment": 532.73,
+        "total_amount_payable": 34603.8,
+        "total_charge_for_credit": 7613.8,
+        "amount_of_credit": 24291,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

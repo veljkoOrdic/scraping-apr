@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:27:52.364Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorcityplymouth.co.uk/used-audi-q3-plymouth-devon-6726577",
+    "dealer_id": "6857",
+    "car_id": "27168826",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX18KUJ",
+        "registration_date": "07/03/2018",
+        "mileage": 62147,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21999,
+        "total_price": 21999,
+        "deposit": 4399,
+        "balance": 17600,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 361.57,
+        "final_payment": 362.57,
+        "total_amount_payable": 26094.2,
+        "total_charge_for_credit": 4095.2,
+        "amount_of_credit": 17600,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

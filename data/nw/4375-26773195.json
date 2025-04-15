@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:25:33.259Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotorcompany.co.uk/details/car-in-glasgow/audi/q5/2.0-tdi-s-line-s-tronic-quattro-euro-6-ss-5dr/1353411/",
+    "dealer_id": "4375",
+    "car_id": "26773195",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK18LSC",
+        "registration_date": "01/03/2018",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21590,
+        "total_price": 21590,
+        "deposit": 0,
+        "balance": 21590,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 453.18,
+        "final_payment": 454.18,
+        "total_amount_payable": 27191.8,
+        "total_charge_for_credit": 5601.8,
+        "amount_of_credit": 21590,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

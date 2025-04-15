@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:55:30.944Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/audi-a6--4doors-saloon-automatic-petrol-hybrid?id=1408689",
+    "dealer_id": "6006",
+    "car_id": "26281953",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VN23UGR",
+        "registration_date": "02/08/2023",
+        "mileage": 6000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35950,
+        "total_price": 35950,
+        "deposit": 0,
+        "balance": 35950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 902.79,
+        "final_payment": 902.79,
+        "total_amount_payable": 43333.92,
+        "total_charge_for_credit": 7383.92,
+        "amount_of_credit": 35950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

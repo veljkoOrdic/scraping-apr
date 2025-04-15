@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:27.883Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/mercedes-benz/cclass/1.6-c200d-amg-line-premium-g-tronic+-euro-6-ss-4dr/1334905/",
+    "dealer_id": "4058",
+    "car_id": "26499509",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV16YZY",
+        "registration_date": "30/06/2016",
+        "mileage": 57197,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 2599,
+        "balance": 10396,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 218.21,
+        "final_payment": 219.21,
+        "total_amount_payable": 15692.6,
+        "total_charge_for_credit": 2697.6,
+        "amount_of_credit": 10396,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

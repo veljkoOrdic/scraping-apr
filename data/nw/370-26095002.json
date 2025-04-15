@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:41:08.496Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.applecrossmotors.co.uk/used-land-rover-range-rover-sport-broxburn-west-lothian-6444274",
+    "dealer_id": "370",
+    "car_id": "26095002",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MW21UGM",
+        "registration_date": "20/05/2021",
+        "mileage": 45520,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38950,
+        "total_price": 38950,
+        "deposit": 3895,
+        "balance": 35055,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 735.82,
+        "final_payment": 736.82,
+        "total_amount_payable": 48045.2,
+        "total_charge_for_credit": 9095.2,
+        "amount_of_credit": 35055,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38950,
+        "total_price": 38950,
+        "deposit": 3895,
+        "balance": 35055,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 615.96,
+        "final_payment": 15477.69,
+        "total_amount_payable": 48938.77,
+        "total_charge_for_credit": 9988.77,
+        "amount_of_credit": 35055,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 15476.69,
+        "price_to_buy": 15477.69
+      }
+    ]
+  }
+]

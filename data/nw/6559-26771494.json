@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:49:43.426Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-land-rover-range-rover-20-p400e-124kwh-vogue-auto-4-suv-portofino-blue-automatic-petrol-plug-in-hybrid/id-202501158049174/",
+    "dealer_id": "6559",
+    "car_id": "26771494",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA69GZY",
+        "registration_date": "27/09/2019",
+        "mileage": 65000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31948,
+        "total_price": 31948,
+        "deposit": 11181,
+        "balance": 20767,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 435.9,
+        "final_payment": 436.9,
+        "total_amount_payable": 37336,
+        "total_charge_for_credit": 5388,
+        "amount_of_credit": 20767,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31948,
+        "total_price": 31948,
+        "deposit": 11181,
+        "balance": 20767,
+        "apr": 11.3,
+        "rate_of_interest": 11.3,
+        "term": 49,
+        "regular_payment": 292.16,
+        "final_payment": 14570,
+        "total_amount_payable": 39774.68,
+        "total_charge_for_credit": 7826.68,
+        "amount_of_credit": 20767,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.07,
+        "residual": 14570,
+        "price_to_buy": 14570
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:49:55.221Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.squirecars.co.uk/vehicle-details/used-volkswagen-transporter-tdi-t28-startline-for-sale-in-abertillery-gwent-u730/",
+    "dealer_id": "7340",
+    "car_id": "25795758",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ70OFA",
+        "registration_date": "08/12/2020",
+        "mileage": 99391,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15700,
+        "total_price": 15700,
+        "deposit": 1570,
+        "balance": 14130,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 367.23,
+        "final_payment": 367.23,
+        "total_amount_payable": 19197.04,
+        "total_charge_for_credit": 3497.04,
+        "amount_of_credit": 14130,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

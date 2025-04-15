@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:00:52.585Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autotradecentreni.com/cars/vauxhall/adam/1.2-16v-jam/1337991/",
+    "dealer_id": "6925",
+    "car_id": "26546117",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "XJZ3280",
+        "registration_date": "22/05/2015",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 100.43,
+        "final_payment": 101.43,
+        "total_amount_payable": 6526.3,
+        "total_charge_for_credit": 1531.3,
+        "amount_of_credit": 4495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

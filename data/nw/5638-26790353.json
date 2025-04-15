@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:28:26.788Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carnetltd.co.uk/vehicle-details/used-volkswagen-passat-tdi-bluemotion-tech-alltrack-for-sale-in-burntwood-u2126/",
+    "dealer_id": "5638",
+    "car_id": "26790353",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX64PUV",
+        "registration_date": "08/09/2014",
+        "mileage": 71000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9950,
+        "total_price": 9950,
+        "deposit": 0,
+        "balance": 9950,
+        "apr": 10.9,
+        "rate_of_interest": 5.68,
+        "term": 52,
+        "regular_payment": 238.44,
+        "final_payment": 239.44,
+        "total_amount_payable": 12399.88,
+        "total_charge_for_credit": 2449.88,
+        "amount_of_credit": 9950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

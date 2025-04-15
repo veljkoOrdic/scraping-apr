@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:24:51.879Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carshunt.co.uk/details/used-car-in-havering/ford/focus/1.0t-ecoboost-titanium-euro-6-ss-5dr/1379969/",
+    "dealer_id": "4643",
+    "car_id": "27067546",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR15CXF",
+        "registration_date": "25/03/2015",
+        "mileage": 88744,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 249.75,
+        "balance": 4745.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 59,
+        "regular_payment": 100.91,
+        "final_payment": 101.91,
+        "total_amount_payable": 6204.44,
+        "total_charge_for_credit": 1209.44,
+        "amount_of_credit": 4745.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:26:15.660Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/mercedes-benz/v-class/v300d-l-2-0-exclusive-3285",
+    "dealer_id": "5631",
+    "car_id": "26910877",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV74KYJ",
+        "registration_date": "24/01/2025",
+        "mileage": 600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84990,
+        "total_price": 84990,
+        "deposit": 10,
+        "balance": 84980,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1783.78,
+        "final_payment": 1784.78,
+        "total_amount_payable": 107037.8,
+        "total_charge_for_credit": 22047.8,
+        "amount_of_credit": 84980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 84990,
+        "total_price": 84990,
+        "deposit": 10,
+        "balance": 84980,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 49,
+        "regular_payment": 1510.21,
+        "final_payment": 39475,
+        "total_amount_payable": 111975.08,
+        "total_charge_for_credit": 26985.08,
+        "amount_of_credit": 84980,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.09,
+        "residual": 39465,
+        "price_to_buy": 39475
+      }
+    ]
+  }
+]

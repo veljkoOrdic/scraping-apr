@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:28:36.429Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kennymurraycarsltd.co.uk/used-bmw-4-series-fraserburgh-aberdeenshire-6643693",
+    "dealer_id": "4914",
+    "car_id": "26867845",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV68EHL",
+        "registration_date": "23/11/2018",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 419.67,
+        "final_payment": 420.67,
+        "total_amount_payable": 27356.2,
+        "total_charge_for_credit": 5606.2,
+        "amount_of_credit": 19575,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 43,
+        "regular_payment": 419.15,
+        "final_payment": 7615,
+        "total_amount_payable": 27394.3,
+        "total_charge_for_credit": 5644.3,
+        "amount_of_credit": 19575,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 28667,
+        "excess_mileage_rate": 0.05,
+        "residual": 7614,
+        "price_to_buy": 7615
+      }
+    ]
+  }
+]

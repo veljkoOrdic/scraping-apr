@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:01:40.740Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autotradecentreni.com/cars/volkswagen/touareg/3.0-tdi-v6-bluemotion-tech-r-line/1028578/",
+    "dealer_id": "6925",
+    "car_id": "22445016",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DSZ4917",
+        "registration_date": "22/01/2016",
+        "mileage": 89000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549.5,
+        "balance": 13945.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 311.46,
+        "final_payment": 321.46,
+        "total_amount_payable": 20247.1,
+        "total_charge_for_credit": 4752.1,
+        "amount_of_credit": 13945.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:43:40.301Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicecarsupermarket.com/used-ford-transit-custom-blackburn-lancashire-6197967",
+    "dealer_id": "7206",
+    "car_id": "25265839",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SR19UAE",
+        "registration_date": "31/05/2019",
+        "mileage": 132206,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29985,
+        "total_price": 29985,
+        "deposit": 2998,
+        "balance": 26987,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 578.59,
+        "final_payment": 578.59,
+        "total_amount_payable": 37713.4,
+        "total_charge_for_credit": 7728.4,
+        "amount_of_credit": 26987,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

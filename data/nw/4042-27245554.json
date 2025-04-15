@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:15:49.436Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wirralcarsales.com/used-volvo-xc60-ellesmere-port-cheshire-6745288",
+    "dealer_id": "4042",
+    "car_id": "27245554",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VA18JEU",
+        "registration_date": "20/07/2018",
+        "mileage": 63503,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21500,
+        "total_price": 21500,
+        "deposit": 2150,
+        "balance": 19350,
+        "apr": 11.5,
+        "rate_of_interest": 6.04,
+        "term": 60,
+        "regular_payment": 419.96,
+        "final_payment": 429.96,
+        "total_amount_payable": 27357.6,
+        "total_charge_for_credit": 5857.6,
+        "amount_of_credit": 19350,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

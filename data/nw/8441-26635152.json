@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:09:15.772Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grahammarshcarsales.co.uk/used-skoda-kamiq-herne-bay-kent-6582543",
+    "dealer_id": "8441",
+    "car_id": "26635152",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ20UJZ",
+        "registration_date": "20/07/2020",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399,
+        "balance": 12596,
+        "apr": 13.1,
+        "rate_of_interest": 6.91,
+        "term": 60,
+        "regular_payment": 282.45,
+        "final_payment": 292.45,
+        "total_amount_payable": 18356,
+        "total_charge_for_credit": 4361,
+        "amount_of_credit": 12596,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399,
+        "balance": 12596,
+        "apr": 13.1,
+        "rate_of_interest": 6.82,
+        "term": 49,
+        "regular_payment": 239.29,
+        "final_payment": 5905,
+        "total_amount_payable": 18789.92,
+        "total_charge_for_credit": 4794.92,
+        "amount_of_credit": 12596,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 5895,
+        "price_to_buy": 5905
+      }
+    ]
+  }
+]

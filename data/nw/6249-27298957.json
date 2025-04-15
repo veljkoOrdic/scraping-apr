@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:37:02.637Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.corfemullencars.co.uk/details/used-car-in-wimborne/mercedes-benz/cclass/2.0-c200-sport-7g-tronic+-euro-6-ss-4dr/1400487/",
+    "dealer_id": "6249",
+    "car_id": "27298957",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS14JUO",
+        "registration_date": "09/06/2014",
+        "mileage": 89038,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949.5,
+        "balance": 8545.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 218.49,
+        "final_payment": 219.49,
+        "total_amount_payable": 11656.51,
+        "total_charge_for_credit": 2161.51,
+        "amount_of_credit": 8545.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

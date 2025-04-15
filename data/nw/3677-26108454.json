@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:35:46.191Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.parklandmotors.co.uk/used-bmw-x3-costock-leicestershire-6449044",
+    "dealer_id": "3677",
+    "car_id": "26108454",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SL68HLV",
+        "registration_date": "28/09/2018",
+        "mileage": 26206,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27975,
+        "total_price": 27975,
+        "deposit": 2797,
+        "balance": 25178,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 551.03,
+        "final_payment": 561.03,
+        "total_amount_payable": 35868.8,
+        "total_charge_for_credit": 7893.8,
+        "amount_of_credit": 25178,
+        "lender": "Tandem",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

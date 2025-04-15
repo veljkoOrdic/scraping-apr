@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:12:19.498Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.baxterandsimpsonbucks.co.uk/used-iveco-daily-little-marlow-buckinghamshire-5416775",
+    "dealer_id": "7229",
+    "car_id": "22947715",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GC18VNZ",
+        "registration_date": "21/08/2018",
+        "mileage": 96011,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14988,
+        "total_price": 14988,
+        "deposit": 0,
+        "balance": 14988,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 314.6,
+        "final_payment": 315.6,
+        "total_amount_payable": 18877,
+        "total_charge_for_credit": 3889,
+        "amount_of_credit": 14988,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

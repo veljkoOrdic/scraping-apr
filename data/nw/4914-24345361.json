@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:29:11.215Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kennymurraycarsltd.co.uk/used-porsche-macan-fraserburgh-aberdeenshire-5560344",
+    "dealer_id": "4914",
+    "car_id": "24345361",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "M9KNY",
+        "registration_date": "11/11/2019",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48750,
+        "total_price": 48750,
+        "deposit": 4875,
+        "balance": 43875,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 940.66,
+        "final_payment": 941.66,
+        "total_amount_payable": 61315.6,
+        "total_charge_for_credit": 12565.6,
+        "amount_of_credit": 43875,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48750,
+        "total_price": 48750,
+        "deposit": 4875,
+        "balance": 43875,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 54,
+        "regular_payment": 754.78,
+        "final_payment": 20720.44,
+        "total_amount_payable": 65598.78,
+        "total_charge_for_credit": 16848.78,
+        "amount_of_credit": 43875,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.1,
+        "residual": 20719.44,
+        "price_to_buy": 20720.44
+      }
+    ]
+  }
+]

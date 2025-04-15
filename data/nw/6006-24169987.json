@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:01:28.116Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/rolls-royce-wraith--0doors-saloon-automatic-petrol?id=1328878",
+    "dealer_id": "6006",
+    "car_id": "24169987",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD66CTV",
+        "registration_date": "26/11/2016",
+        "mileage": 23200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 118950,
+        "total_price": 118950,
+        "deposit": 0,
+        "balance": 118950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 43,
+        "regular_payment": 3273.34,
+        "final_payment": 3273.34,
+        "total_amount_payable": 140753.62,
+        "total_charge_for_credit": 21803.62,
+        "amount_of_credit": 118950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

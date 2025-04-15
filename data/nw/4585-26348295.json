@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:11:30.761Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.buyandgocars.co.uk/used-mercedes-benz-gls-cardiff-glamorgan-6506072",
+    "dealer_id": "4585",
+    "car_id": "26348295",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BK18UBA",
+        "registration_date": "29/03/2018",
+        "mileage": 59724,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31630,
+        "total_price": 31630,
+        "deposit": 1000,
+        "balance": 30630,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 642.93,
+        "final_payment": 643.93,
+        "total_amount_payable": 39576.8,
+        "total_charge_for_credit": 7946.8,
+        "amount_of_credit": 30630,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

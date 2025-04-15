@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:25:43.598Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.szmotorgroup.co.uk/details/used-car-in-nottingham/mercedes-benz/cclass/2.0-c220d-amg-line-premium-g-tronic+-euro-6-ss-4dr/1325876/",
+    "dealer_id": "7722",
+    "car_id": "26386253",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ68WRX",
+        "registration_date": "25/09/2018",
+        "mileage": 98322,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 273.7,
+        "final_payment": 283.7,
+        "total_amount_payable": 17881.5,
+        "total_charge_for_credit": 3386.5,
+        "amount_of_credit": 13045.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:44:20.239Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carpointuk.co.uk/details/used-car-in-newport/subaru/wrxsti/2.5t-type-uk-4wd-euro-6-4dr/1294826/",
+    "dealer_id": "6786",
+    "car_id": "26025985",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FJ66YZR",
+        "registration_date": "23/12/2016",
+        "mileage": 37920,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22350,
+        "total_price": 22350,
+        "deposit": 500,
+        "balance": 21850,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 60,
+        "regular_payment": 486.48,
+        "final_payment": 536.48,
+        "total_amount_payable": 29788.8,
+        "total_charge_for_credit": 7438.8,
+        "amount_of_credit": 21850,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

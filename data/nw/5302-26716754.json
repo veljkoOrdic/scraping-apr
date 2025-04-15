@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:07:00.670Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorcars.co.uk/used/cars/auto-sleepers/winchcombe/mercedes-2-berth-2-belt-large-bathroom-satellite-dish-awning-tracker-3772",
+    "dealer_id": "5302",
+    "car_id": "26716754",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DX18ECY",
+        "registration_date": "01/08/2018",
+        "mileage": 14878,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 14998.75,
+        "balance": 44996.25,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 984.98,
+        "final_payment": 985.98,
+        "total_amount_payable": 74098.55,
+        "total_charge_for_credit": 14103.55,
+        "amount_of_credit": 44996.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

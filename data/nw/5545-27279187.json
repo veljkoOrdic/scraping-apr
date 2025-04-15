@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:59:52.972Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/porsche-718-spyder-in-kent-aa99cb23-ccd0-4b42-8258-b29500cf962b",
+    "dealer_id": "5545",
+    "car_id": "27279187",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ70OVY",
+        "registration_date": "27/01/2021",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 73990,
+        "total_price": 73990,
+        "deposit": 11098.5,
+        "balance": 62891.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1551.82,
+        "final_payment": 1552.82,
+        "total_amount_payable": 85586.86,
+        "total_charge_for_credit": 11596.86,
+        "amount_of_credit": 62891.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 73990,
+        "total_price": 73990,
+        "deposit": 11098.5,
+        "balance": 62891.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 49,
+        "regular_payment": 1015.65,
+        "final_payment": 30779.58,
+        "total_amount_payable": 90629.28,
+        "total_charge_for_credit": 16639.28,
+        "amount_of_credit": 62891.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.26,
+        "residual": 30778.58,
+        "price_to_buy": 30779.58
+      }
+    ]
+  }
+]

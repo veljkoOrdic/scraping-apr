@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:37:05.500Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jsvans.co.uk/used-ford-transit-custom-stockport-cheshire-6751976",
+    "dealer_id": "8141",
+    "car_id": "27267478",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN25LMY",
+        "registration_date": "01/03/2025",
+        "mileage": 300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67194,
+        "total_price": 67194,
+        "deposit": 0,
+        "balance": 55995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1225.75,
+        "final_payment": 1226.75,
+        "total_amount_payable": 84745,
+        "total_charge_for_credit": 17551,
+        "amount_of_credit": 55995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

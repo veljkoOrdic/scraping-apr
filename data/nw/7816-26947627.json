@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:51:12.310Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.buckinghammotorcompany.co.uk/used-ford-puma-bicester-oxfordshire-6665121",
+    "dealer_id": "7816",
+    "car_id": "26947627",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR72OWA",
+        "registration_date": "13/12/2022",
+        "mileage": 19200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19495,
+        "total_price": 19495,
+        "deposit": 3899,
+        "balance": 15596,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 391.63,
+        "final_payment": 392.63,
+        "total_amount_payable": 22698.24,
+        "total_charge_for_credit": 3203.24,
+        "amount_of_credit": 15596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19495,
+        "total_price": 19495,
+        "deposit": 3899,
+        "balance": 15596,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 255.53,
+        "final_payment": 7969.97,
+        "total_amount_payable": 24134.41,
+        "total_charge_for_credit": 4639.41,
+        "amount_of_credit": 15596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7968.97,
+        "price_to_buy": 7969.97
+      }
+    ]
+  }
+]

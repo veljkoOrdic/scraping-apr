@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:41:57.644Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yourcargroup.co.uk/details/used-car-in-newport/audi/a1/1.0-tfsi-30-s-line-sportback-euro-6-ss-5dr/1019919/",
+    "dealer_id": "8148",
+    "car_id": "20856060",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ19LRX",
+        "registration_date": "29/03/2019",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 1699,
+        "balance": 15291,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 320.97,
+        "final_payment": 321.97,
+        "total_amount_payable": 20958.2,
+        "total_charge_for_credit": 3968.2,
+        "amount_of_credit": 15291,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

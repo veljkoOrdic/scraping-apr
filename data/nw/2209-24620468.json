@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:00:53.830Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.marshallsofeston.co.uk/used-bike/triumph/street/triumph-street-triple-r-675-10k-2-owners-fsh-12-reg-stunning-bike-/for-sale-in-middlesborough-north-yorkshire/aetv16172870/",
+    "dealer_id": "2209",
+    "car_id": "24620468",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK12MHU",
+        "registration_date": "16/07/2012",
+        "mileage": 10312,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4499,
+        "total_price": 4499,
+        "deposit": 449.9,
+        "balance": 4049.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 51,
+        "regular_payment": 96.75,
+        "final_payment": 97.75,
+        "total_amount_payable": 5385.15,
+        "total_charge_for_credit": 886.15,
+        "amount_of_credit": 4049.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

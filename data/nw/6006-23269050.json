@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:57:40.770Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lotus-eletre-s-5doors-suv-automatic-electric?id=1363972",
+    "dealer_id": "6006",
+    "car_id": "23269050",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP73KHX",
+        "registration_date": "21/12/2023",
+        "mileage": 10,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 88950,
+        "total_price": 88950,
+        "deposit": 0,
+        "balance": 88950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2272.72,
+        "final_payment": 2272.72,
+        "total_amount_payable": 109090.56,
+        "total_charge_for_credit": 20140.56,
+        "amount_of_credit": 88950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

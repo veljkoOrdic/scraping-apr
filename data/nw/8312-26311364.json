@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:18:32.448Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.drivenofyork.co.uk/used-ford-kuga-tadcaster-yorkshire-6463298",
+    "dealer_id": "8312",
+    "car_id": "26311364",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT70AZA",
+        "registration_date": "30/12/2020",
+        "mileage": 29026,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15750,
+        "total_price": 15750,
+        "deposit": 1575,
+        "balance": 14175,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 323.14,
+        "final_payment": 324.14,
+        "total_amount_payable": 20964.4,
+        "total_charge_for_credit": 5214.4,
+        "amount_of_credit": 14175,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15750,
+        "total_price": 15750,
+        "deposit": 1575,
+        "balance": 14175,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 242.290269553817,
+        "final_payment": 7349.79,
+        "total_amount_payable": 20312.43,
+        "total_charge_for_credit": 4562.43,
+        "amount_of_credit": 14175,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.12,
+        "residual": 7097.5,
+        "price_to_buy": 7349.79
+      }
+    ]
+  }
+]

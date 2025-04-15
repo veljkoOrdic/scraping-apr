@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:40:06.584Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aylesbury-tradecentre.co.uk/details/used-car-in-aston-clinton/ssangyong/korando/1.6d-ultimate-auto-4wd-euro-6-5dr/1275102/",
+    "dealer_id": "6873",
+    "car_id": "25794621",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO69UCG",
+        "registration_date": "18/10/2019",
+        "mileage": 24143,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15994,
+        "total_price": 15994,
+        "deposit": 1599.4,
+        "balance": 14394.6,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 321.61,
+        "final_payment": 322.61,
+        "total_amount_payable": 20897,
+        "total_charge_for_credit": 4903,
+        "amount_of_credit": 14394.6,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

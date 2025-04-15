@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:01:25.532Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autotradecentreni.com/cars/vauxhall/corsa/1.2-turbo-se/1103817/",
+    "dealer_id": "6925",
+    "car_id": "23495034",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP70KZA",
+        "registration_date": "30/09/2020",
+        "mileage": 20927,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 220.97,
+        "final_payment": 230.97,
+        "total_amount_payable": 14367.7,
+        "total_charge_for_credit": 3372.7,
+        "amount_of_credit": 9895.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 187.92,
+        "final_payment": 4713.25,
+        "total_amount_payable": 14644.99,
+        "total_charge_for_credit": 3649.99,
+        "amount_of_credit": 9895.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.0414332944444444,
+        "residual": 4703.25,
+        "price_to_buy": 4713.25
+      }
+    ]
+  }
+]

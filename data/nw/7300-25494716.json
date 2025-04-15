@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:38:03.075Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nathanielcars.co.uk/cars/bmw-i4-edrive35-sport/",
+    "dealer_id": "7300",
+    "car_id": "25494716",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL24EOT",
+        "registration_date": "26/04/2024",
+        "mileage": 2308,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 3549.5,
+        "balance": 31945.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 670.43,
+        "final_payment": 680.43,
+        "total_amount_payable": 43785.3,
+        "total_charge_for_credit": 8290.3,
+        "amount_of_credit": 31945.5,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 3549.5,
+        "balance": 31945.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 512.02,
+        "final_payment": 15856.75,
+        "total_amount_payable": 43983.21,
+        "total_charge_for_credit": 8488.21,
+        "amount_of_credit": 31945.5,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 15856.75,
+        "price_to_buy": 15856.75
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:18:44.113Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fiveacresgarage.uk/used-car-details/used-jaguar-f-type-v6-r-dynamic-awd-convertible-black-automatic-petrol/id-14844/",
+    "dealer_id": "6673",
+    "car_id": "22119871",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV17PBU",
+        "registration_date": "29/03/2017",
+        "mileage": 41207,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29499,
+        "total_price": 29499,
+        "deposit": 2949,
+        "balance": 26550,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 581.18,
+        "final_payment": 582.18,
+        "total_amount_payable": 37820.8,
+        "total_charge_for_credit": 8321.8,
+        "amount_of_credit": 26550,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

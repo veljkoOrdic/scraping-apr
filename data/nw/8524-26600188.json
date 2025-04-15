@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:41:26.957Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dvscommercials.co.uk/vehicle-details/used-volkswagen-crafter-2-0-tdi-cr35-startline-for-sale-leicester-rd-u2745/",
+    "dealer_id": "8524",
+    "car_id": "26600188",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RF23VLW",
+        "registration_date": "17/07/2023",
+        "mileage": 23671,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26340,
+        "total_price": 26340,
+        "deposit": 4390,
+        "balance": 17560,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 376.47,
+        "final_payment": 377.47,
+        "total_amount_payable": 31369.2,
+        "total_charge_for_credit": 5029.2,
+        "amount_of_credit": 17560,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

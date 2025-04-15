@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:12:09.451Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.switchingcars.co.uk/used-volkswagen-golf-warrington-cheshire-6738084",
+    "dealer_id": "7904",
+    "car_id": "27209102",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK14XHC",
+        "registration_date": "27/03/2014",
+        "mileage": 75500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 0,
+        "balance": 11495,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 47,
+        "regular_payment": 303.77,
+        "final_payment": 304.77,
+        "total_amount_payable": 14278.19,
+        "total_charge_for_credit": 2783.19,
+        "amount_of_credit": 11495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

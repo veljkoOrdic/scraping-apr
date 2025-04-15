@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:25:59.209Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.szmotorgroup.co.uk/details/used-car-in-nottingham/mercedes-benz/glcclass/2.1-glc250d-amg-line-premium-plus-g-tronic-4matic-euro-6-ss-5dr/1401903/",
+    "dealer_id": "7722",
+    "car_id": "27315361",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EN66XBK",
+        "registration_date": "21/01/2017",
+        "mileage": 88741,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 339.83,
+        "final_payment": 349.83,
+        "total_amount_payable": 22199.3,
+        "total_charge_for_credit": 4204.3,
+        "amount_of_credit": 16195.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

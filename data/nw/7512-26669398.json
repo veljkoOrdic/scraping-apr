@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:50.246Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-jeep-wrangler-sahara-unlimited-5576/",
+    "dealer_id": "7512",
+    "car_id": "26669398",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU69OCZ",
+        "registration_date": "30/09/2019",
+        "mileage": 15000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47995,
+        "total_price": 47995,
+        "deposit": 0,
+        "balance": 47995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 985.98,
+        "final_payment": 986.98,
+        "total_amount_payable": 59159.8,
+        "total_charge_for_credit": 11164.8,
+        "amount_of_credit": 47995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

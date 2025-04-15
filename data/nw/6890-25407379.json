@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:42:18.893Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.atmotorsessex.co.uk/cars/landrover/rangeroversport/3.0-sd-v6-hse-auto-4wd-euro-6-ss-5dr/1245093/",
+    "dealer_id": "6890",
+    "car_id": "25407379",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM69WTN",
+        "registration_date": "22/10/2019",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27199,
+        "total_price": 27199,
+        "deposit": 0,
+        "balance": 27199,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 570.91,
+        "final_payment": 571.91,
+        "total_amount_payable": 34255.6,
+        "total_charge_for_credit": 7056.6,
+        "amount_of_credit": 27199,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

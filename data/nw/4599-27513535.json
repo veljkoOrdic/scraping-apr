@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:18:51.818Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-audi-q7-liverpool-merseyside-6800339",
+    "dealer_id": "4599",
+    "car_id": "27513535",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DX70WAJ",
+        "registration_date": "28/10/2020",
+        "mileage": 58446,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33994,
+        "total_price": 33994,
+        "deposit": 1000,
+        "balance": 32994,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 692.44,
+        "final_payment": 702.44,
+        "total_amount_payable": 42556.4,
+        "total_charge_for_credit": 8562.4,
+        "amount_of_credit": 32994,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33994,
+        "total_price": 33994,
+        "deposit": 1000,
+        "balance": 32994,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 548.03,
+        "final_payment": 16424.5,
+        "total_amount_payable": 43729.94,
+        "total_charge_for_credit": 9735.94,
+        "amount_of_credit": 32994,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.22,
+        "residual": 16414.5,
+        "price_to_buy": 16424.5
+      }
+    ]
+  }
+]

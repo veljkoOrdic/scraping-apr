@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:37:50.810Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.avantiautomotive.co.uk/vehicle-details/used-ford-transit-290-ecoblue-for-sale-in-bristol-gloucestershire-u3887/",
+    "dealer_id": "5434",
+    "car_id": "23788253",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS19ZGB",
+        "registration_date": "21/03/2019",
+        "mileage": 77448,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14400,
+        "total_price": 14400,
+        "deposit": 2400,
+        "balance": 12000,
+        "apr": 12.7,
+        "rate_of_interest": 6.72,
+        "term": 60,
+        "regular_payment": 267.23,
+        "final_payment": 268.23,
+        "total_amount_payable": 18434.8,
+        "total_charge_for_credit": 4034.8,
+        "amount_of_credit": 12000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

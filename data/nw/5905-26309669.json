@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:32:10.037Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-mercedes-benz-sprinter-derry-county-londonderry-6336240",
+    "dealer_id": "5905",
+    "car_id": "26309669",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FDZ41",
+        "registration_date": "22/04/2021",
+        "mileage": 52000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40794,
+        "total_price": 40794,
+        "deposit": 0,
+        "balance": 33995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 744.16,
+        "final_payment": 745.16,
+        "total_amount_payable": 51449.6,
+        "total_charge_for_credit": 10655.6,
+        "amount_of_credit": 33995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

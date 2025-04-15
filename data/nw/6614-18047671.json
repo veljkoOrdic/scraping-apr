@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:06:19.013Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/kgm/musso/22-rebel-auto/cheltenham/gloucestershire/182906",
+    "dealer_id": "6614",
+    "car_id": "18047671",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VX25XRE",
+        "registration_date": "01/03/2025",
+        "mileage": 10,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35563.2,
+        "total_price": 35563.2,
+        "deposit": 2963.6,
+        "balance": 26672.4,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 547.94,
+        "final_payment": 548.94,
+        "total_amount_payable": 41768.2,
+        "total_charge_for_credit": 6205,
+        "amount_of_credit": 26672.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

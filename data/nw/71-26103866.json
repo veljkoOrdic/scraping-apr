@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:32:01.000Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dcc-cars.co.uk/details/used-car-in-radcliffe/citroen/c5aircross/1.6-puretech-flair-plus-eat8-euro-6-ss-5dr/1300832/",
+    "dealer_id": "71",
+    "car_id": "26103866",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN69VJO",
+        "registration_date": "21/10/2019",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 373.85,
+        "final_payment": 383.85,
+        "total_amount_payable": 19553.8,
+        "total_charge_for_credit": 3563.8,
+        "amount_of_credit": 14391,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

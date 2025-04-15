@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:30:11.032Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmotorcompanykingston.co.uk/used-mercedes-benz-g-class-new-malden-london-6490683",
+    "dealer_id": "8815",
+    "car_id": "26260730",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC20NKW",
+        "registration_date": "30/06/2020",
+        "mileage": 20200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 132995,
+        "total_price": 132995,
+        "deposit": 13299,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 152453.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 132995,
+        "total_price": 132995,
+        "deposit": 13299,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 4.81,
+        "term": 49,
+        "regular_payment": 1433.03,
+        "final_payment": 63127.82,
+        "total_amount_payable": 164908.26,
+        "total_charge_for_credit": 31913.26,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.52,
+        "residual": 63126.82,
+        "price_to_buy": 63127.82
+      }
+    ]
+  }
+]

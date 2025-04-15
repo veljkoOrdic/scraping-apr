@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:40:47.077Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-bmw-8-series-sidcup-kent-6758711",
+    "dealer_id": "4251",
+    "car_id": "27298311",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BD72YGV",
+        "registration_date": "04/11/2022",
+        "mileage": 23609,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69999,
+        "total_price": 69999,
+        "deposit": 19999,
+        "balance": 50000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1027.18,
+        "final_payment": 1028.18,
+        "total_amount_payable": 81630.8,
+        "total_charge_for_credit": 11631.8,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69999,
+        "total_price": 69999,
+        "deposit": 13999,
+        "balance": 56000,
+        "apr": 8.9,
+        "rate_of_interest": 4.4,
+        "term": 49,
+        "regular_payment": 948.52,
+        "final_payment": 24871.44,
+        "total_amount_payable": 84399.4,
+        "total_charge_for_credit": 14400.4,
+        "amount_of_credit": 56000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 24870.44,
+        "price_to_buy": 24871.44
+      }
+    ]
+  }
+]

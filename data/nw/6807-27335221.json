@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:51:42.275Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-bmw-i3-ampthill-bedfordshire-6767450",
+    "dealer_id": "6807",
+    "car_id": "27335221",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY69THN",
+        "registration_date": "26/09/2019",
+        "mileage": 36614,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12949,
+        "total_price": 12949,
+        "deposit": 1294,
+        "balance": 11655,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 244.63,
+        "final_payment": 245.63,
+        "total_amount_payable": 15972.8,
+        "total_charge_for_credit": 3023.8,
+        "amount_of_credit": 11655,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

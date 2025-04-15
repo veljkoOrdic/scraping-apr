@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:29:47.857Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.justnicecleancars.co.uk/used-vehicle-details/Vauxhall-Corsa-U5155/",
+    "dealer_id": "4945",
+    "car_id": "26298497",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VK18OWY",
+        "registration_date": "29/03/2018",
+        "mileage": 20869,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8295,
+        "total_price": 8295,
+        "deposit": 829.5,
+        "balance": 7465.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 156.69,
+        "final_payment": 157.69,
+        "total_amount_payable": 10231.9,
+        "total_charge_for_credit": 1936.9,
+        "amount_of_credit": 7465.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

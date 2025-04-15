@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:38:22.059Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.clubclasscarsyork.com/used-bmw-3-series-dunnington-north-yorkshire-6716094",
+    "dealer_id": "6887",
+    "car_id": "27142699",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE70XYV",
+        "registration_date": "11/12/2020",
+        "mileage": 21500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 517.62,
+        "final_payment": 518.62,
+        "total_amount_payable": 33857.2,
+        "total_charge_for_credit": 5862.2,
+        "amount_of_credit": 25196,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 439.14,
+        "final_payment": 10846,
+        "total_amount_payable": 34284.58,
+        "total_charge_for_credit": 6289.58,
+        "amount_of_credit": 25196,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 10845,
+        "price_to_buy": 10846
+      }
+    ]
+  }
+]

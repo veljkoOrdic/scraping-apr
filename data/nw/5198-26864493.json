@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:30:27.226Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sprysoflaunceston.co.uk/details/used-car-in-launceston/volvo/xc60/2.0h-t8-recharge-11.6kwh-r-design-pro-auto-awd-euro-6-ss-5dr/1363545/",
+    "dealer_id": "5198",
+    "car_id": "26864493",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV71XPZ",
+        "registration_date": "29/09/2021",
+        "mileage": 27452,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 661.1,
+        "final_payment": 662.1,
+        "total_amount_payable": 43166.5,
+        "total_charge_for_credit": 8171.5,
+        "amount_of_credit": 31495.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 557.73,
+        "final_payment": 13653.5,
+        "total_amount_payable": 43924.04,
+        "total_charge_for_credit": 8929.04,
+        "amount_of_credit": 31495.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.07,
+        "residual": 13653.5,
+        "price_to_buy": 13653.5
+      }
+    ]
+  }
+]

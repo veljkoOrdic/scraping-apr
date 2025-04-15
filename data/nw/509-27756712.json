@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:56:31.903Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.castlemotors.net/vehicle-details/used-ford-fiesta-t-ecoboost-st-line-edition-for-sale-in-hampshire-u6177/",
+    "dealer_id": "509",
+    "car_id": "27756712",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CV20GJU",
+        "registration_date": "21/03/2020",
+        "mileage": 29374,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11450,
+        "total_price": 11450,
+        "deposit": 2290,
+        "balance": 9160,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 188.17,
+        "final_payment": 189.17,
+        "total_amount_payable": 13581.2,
+        "total_charge_for_credit": 2131.2,
+        "amount_of_credit": 9160,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11450,
+        "total_price": 11450,
+        "deposit": 2290,
+        "balance": 9160,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 59,
+        "regular_payment": 153.99,
+        "final_payment": 2837.59,
+        "total_amount_payable": 14059.01,
+        "total_charge_for_credit": 2609.01,
+        "amount_of_credit": 9160,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "contract_mileage": 59000,
+        "excess_mileage_rate": 0.02,
+        "residual": 2836.59,
+        "price_to_buy": 2837.59
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:48:10.487Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yournextcarltd.co.uk/used-bmw-ix-nottingham-nottinghamshire-6735606",
+    "dealer_id": "3729",
+    "car_id": "27204111",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK72KFL",
+        "registration_date": "30/09/2022",
+        "mileage": 46467,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35991,
+        "total_price": 35991,
+        "deposit": 0,
+        "balance": 35991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 755.47,
+        "final_payment": 756.47,
+        "total_amount_payable": 45329.2,
+        "total_charge_for_credit": 9338.2,
+        "amount_of_credit": 35991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35991,
+        "total_price": 35991,
+        "deposit": 0,
+        "balance": 35991,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 631.67,
+        "final_payment": 15934.18,
+        "total_amount_payable": 46254.34,
+        "total_charge_for_credit": 10263.34,
+        "amount_of_credit": 35991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.2,
+        "residual": 15933.18,
+        "price_to_buy": 15934.18
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:58:03.452Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jmmotorsltd.co.uk/used-ford-transit-custom-harefield-middlesex-4998203",
+    "dealer_id": "4821",
+    "car_id": "20896260",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN68KOE",
+        "registration_date": "03/09/2018",
+        "mileage": 72706,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11994,
+        "total_price": 11994,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 218.78,
+        "final_payment": 219.78,
+        "total_amount_payable": 15126.8,
+        "total_charge_for_credit": 3132.8,
+        "amount_of_credit": 9995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

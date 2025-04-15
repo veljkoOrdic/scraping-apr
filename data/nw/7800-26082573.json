@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:49:33.480Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorsolution4u.co.uk/cars/citroen/c1/1.2-puretech-flair/1300192/",
+    "dealer_id": "7800",
+    "car_id": "26082573",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LB65OJE",
+        "registration_date": "26/01/2016",
+        "mileage": 26000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5995,
+        "total_price": 5995,
+        "deposit": 599.5,
+        "balance": 5395.5,
+        "apr": 12.1,
+        "rate_of_interest": 6.35,
+        "term": 60,
+        "regular_payment": 118.47,
+        "final_payment": 128.47,
+        "total_amount_payable": 7717.7,
+        "total_charge_for_credit": 1722.7,
+        "amount_of_credit": 5395.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

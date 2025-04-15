@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:25:03.481Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jtvehiclessouthlakes.co.uk/details/used-car-in-barrow-in-furness/audi/rs6/4.0-tfsi-v8-carbon-black-tiptronic-quattro-euro-6-ss-5dr/1410408/",
+    "dealer_id": "7033",
+    "car_id": "27426588",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LP21SXF",
+        "registration_date": "09/08/2021",
+        "mileage": 27000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71991,
+        "total_price": 71991,
+        "deposit": 7199.1,
+        "balance": 64791.9,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1360.02,
+        "final_payment": 1361.02,
+        "total_amount_payable": 88801.3,
+        "total_charge_for_credit": 16810.3,
+        "amount_of_credit": 64791.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 71991,
+        "total_price": 71991,
+        "deposit": 7199.1,
+        "balance": 64791.9,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 1066.91,
+        "final_payment": 32797.23,
+        "total_amount_payable": 91208.01,
+        "total_charge_for_credit": 19217.01,
+        "amount_of_credit": 64791.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 32796.23,
+        "price_to_buy": 32797.23
+      }
+    ]
+  }
+]

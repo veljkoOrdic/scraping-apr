@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:08:55.582Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartleywintneygarage.net/used-vehicle-details/used-ford-transit-22-tdci-260-trend-fwd-l1-h1-5-panel-van-silver-manual-diesel/id-202502088884324/",
+    "dealer_id": "3521",
+    "car_id": "27031818",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD63MZV",
+        "registration_date": "30/11/2013",
+        "mileage": 86000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799,
+        "balance": 7196,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 151.05,
+        "final_payment": 151.05,
+        "total_amount_payable": 9862,
+        "total_charge_for_credit": 1867,
+        "amount_of_credit": 7196,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

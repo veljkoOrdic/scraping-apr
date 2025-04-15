@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:13:17.176Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-adviser.co.uk/details/used-car-in-fareham/audi/q3/1.5-tfsi-cod-35-sport-euro-6-ss-5dr/1324181/",
+    "dealer_id": "6958",
+    "car_id": "26364291",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF21HLR",
+        "registration_date": "06/03/2021",
+        "mileage": 76000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17390,
+        "total_price": 17390,
+        "deposit": 2500,
+        "balance": 14890,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 312.54,
+        "final_payment": 313.54,
+        "total_amount_payable": 21253.4,
+        "total_charge_for_credit": 3863.4,
+        "amount_of_credit": 14890,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

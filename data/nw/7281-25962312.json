@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:22:05.846Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/cars/auto-trail/v-line/540-se-solar-panels-reverse-camera-electric-step-rear-lounge-euro-6-2940",
+    "dealer_id": "7281",
+    "car_id": "25962312",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV66LBG",
+        "registration_date": "05/01/2017",
+        "mileage": 16535,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47394,
+        "total_price": 47394,
+        "deposit": 11848.5,
+        "balance": 35545.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 778.1,
+        "final_payment": 779.1,
+        "total_amount_payable": 58535.5,
+        "total_charge_for_credit": 11141.5,
+        "amount_of_credit": 35545.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

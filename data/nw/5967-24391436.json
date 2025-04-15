@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:54:02.129Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chrisnichollsmotors.co.uk/vehicle-details/used-kia-stonic-t-gdi-2-for-sale-tolverth-garage-long-rock-u15523/",
+    "dealer_id": "5967",
+    "car_id": "24391436",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU21VCD",
+        "registration_date": "04/08/2021",
+        "mileage": 14060,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 264.38,
+        "final_payment": 265.38,
+        "total_amount_payable": 17263.3,
+        "total_charge_for_credit": 3268.3,
+        "amount_of_credit": 12595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 220.28,
+        "final_payment": 5621.73,
+        "total_amount_payable": 17594.67,
+        "total_charge_for_credit": 3599.67,
+        "amount_of_credit": 12595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5620.73,
+        "price_to_buy": 5621.73
+      }
+    ]
+  }
+]

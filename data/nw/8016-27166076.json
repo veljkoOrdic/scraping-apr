@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:54:57.351Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.makautomobiles.com/details/used-car-in-manchester/audi/a3/1.4-tfsie-40-s-line-sportback-s-tronic-euro-6-ss-5dr-13kwh/1387898/",
+    "dealer_id": "8016",
+    "car_id": "27166076",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG21ZRV",
+        "registration_date": "11/03/2021",
+        "mileage": 94000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13790,
+        "total_price": 13790,
+        "deposit": 1379,
+        "balance": 12411,
+        "apr": 12.5,
+        "rate_of_interest": 6.59,
+        "term": 60,
+        "regular_payment": 275.01,
+        "final_payment": 285.01,
+        "total_amount_payable": 17889.6,
+        "total_charge_for_credit": 4099.6,
+        "amount_of_credit": 12411,
+        "lender": "Tandem",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13790,
+        "total_price": 13790,
+        "deposit": 1379,
+        "balance": 12411,
+        "apr": 13.9,
+        "rate_of_interest": 7.1,
+        "term": 31,
+        "regular_payment": 254.34,
+        "final_payment": 8304.23,
+        "total_amount_payable": 17313.43,
+        "total_charge_for_credit": 3523.43,
+        "amount_of_credit": 12411,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 25833,
+        "excess_mileage_rate": 0.0538545990740741,
+        "residual": 8294.23,
+        "price_to_buy": 8304.23
+      }
+    ]
+  }
+]

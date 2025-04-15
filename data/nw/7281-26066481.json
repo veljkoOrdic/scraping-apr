@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:21:38.361Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/cars/volkswagen/caravelle/executive-bitdi-204-ps-bmt-auto-dsg-euro-6-3076",
+    "dealer_id": "7281",
+    "car_id": "26066481",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY19XCG",
+        "registration_date": "01/05/2019",
+        "mileage": 42369,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37995,
+        "total_price": 37995,
+        "deposit": 9498.75,
+        "balance": 28496.25,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 623.79,
+        "final_payment": 624.79,
+        "total_amount_payable": 46927.15,
+        "total_charge_for_credit": 8932.15,
+        "amount_of_credit": 28496.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

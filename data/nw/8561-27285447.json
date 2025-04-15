@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:45:37.465Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mattjohnsonprestigecars.co.uk/used/cars/bmw/5-series/520i-m-sport-pro-1981",
+    "dealer_id": "8561",
+    "car_id": "27285447",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ24RFL",
+        "registration_date": "01/03/2024",
+        "mileage": 16700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39950,
+        "total_price": 39950,
+        "deposit": 3995,
+        "balance": 35955,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 918.65,
+        "final_payment": 919.65,
+        "total_amount_payable": 48091.2,
+        "total_charge_for_credit": 8141.2,
+        "amount_of_credit": 35955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39950,
+        "total_price": 39950,
+        "deposit": 3995,
+        "balance": 35955,
+        "apr": 10.9,
+        "rate_of_interest": 5.32,
+        "term": 49,
+        "regular_payment": 604.79,
+        "final_payment": 18742.75,
+        "total_amount_payable": 51767.67,
+        "total_charge_for_credit": 11817.67,
+        "amount_of_credit": 35955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.24,
+        "residual": 18741.75,
+        "price_to_buy": 18742.75
+      }
+    ]
+  }
+]

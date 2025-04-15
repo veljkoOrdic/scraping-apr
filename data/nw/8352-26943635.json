@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:35:38.401Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.primemotorsessex.co.uk/used-land-rover-range-rover-sport-harlow-essex-6619840",
+    "dealer_id": "8352",
+    "car_id": "26943635",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FJ71XWB",
+        "registration_date": "22/12/2021",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39749,
+        "total_price": 39749,
+        "deposit": 3974,
+        "balance": 35775,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 734.82,
+        "final_payment": 744.82,
+        "total_amount_payable": 48073.2,
+        "total_charge_for_credit": 8324.2,
+        "amount_of_credit": 35775,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39749,
+        "total_price": 39749,
+        "deposit": 3974,
+        "balance": 35775,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 588.98,
+        "final_payment": 16863,
+        "total_amount_payable": 49108.04,
+        "total_charge_for_credit": 9359.04,
+        "amount_of_credit": 35775,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 16853,
+        "price_to_buy": 16863
+      }
+    ]
+  }
+]

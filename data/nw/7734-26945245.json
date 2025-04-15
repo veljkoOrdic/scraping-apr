@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:28:55.587Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtautomotivegroup.co.uk/used-cars/GX67OXL",
+    "dealer_id": "7734",
+    "car_id": "26945245",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX67OXL",
+        "registration_date": "28/09/2017",
+        "mileage": 31360,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12151,
+        "total_price": 12151,
+        "deposit": 1215.1,
+        "balance": 10935.9,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 345.51,
+        "final_payment": 346.51,
+        "total_amount_payable": 13654.46,
+        "total_charge_for_credit": 1503.46,
+        "amount_of_credit": 10935.9,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:09:51.282Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xways.co.uk/used-volkswagen-tiguan-halstead-essex-5792380",
+    "dealer_id": "1035",
+    "car_id": "23347055",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VN67JCO",
+        "registration_date": "01/11/2017",
+        "mileage": 70000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 1899,
+        "balance": 17096,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 358.86,
+        "final_payment": 358.86,
+        "total_amount_payable": 23430.6,
+        "total_charge_for_credit": 4435.6,
+        "amount_of_credit": 17096,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:26:53.020Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmotorcompanykingston.co.uk/used-mercedes-benz-eqv-new-malden-london-6206631",
+    "dealer_id": "8815",
+    "car_id": "25102545",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ71SYW",
+        "registration_date": "14/12/2021",
+        "mileage": 12830,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499,
+        "balance": 40496,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 850.03,
+        "final_payment": 851.03,
+        "total_amount_payable": 55501.8,
+        "total_charge_for_credit": 10506.8,
+        "amount_of_credit": 40496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 4499,
+        "balance": 40496,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 636.26,
+        "final_payment": 22289.05,
+        "total_amount_payable": 57328.53,
+        "total_charge_for_credit": 12333.53,
+        "amount_of_credit": 40496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 22288.05,
+        "price_to_buy": 22289.05
+      }
+    ]
+  }
+]

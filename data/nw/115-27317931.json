@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:01:08.387Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.flcgroup.co.uk/used-fiat-fiorino-yiewsley-london-6757912",
+    "dealer_id": "115",
+    "car_id": "27317931",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GN18ZNW",
+        "registration_date": "29/03/2018",
+        "mileage": 104000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5580,
+        "total_price": 5580,
+        "deposit": 0,
+        "balance": 5580,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 114.62,
+        "final_payment": 115.62,
+        "total_amount_payable": 6878.2,
+        "total_charge_for_credit": 1298.2,
+        "amount_of_credit": 5580,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

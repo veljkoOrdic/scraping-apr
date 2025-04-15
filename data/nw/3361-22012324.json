@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:58:39.152Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mvmprestige.co.uk/used-renault-clio-dunfermline-fife-5483225",
+    "dealer_id": "3361",
+    "car_id": "22012324",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD13OFE",
+        "registration_date": "30/05/2013",
+        "mileage": 92000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4250,
+        "total_price": 4250,
+        "deposit": 425,
+        "balance": 3825,
+        "apr": 10.9,
+        "rate_of_interest": 5.54,
+        "term": 37,
+        "regular_payment": 121.03,
+        "final_payment": 131.03,
+        "total_amount_payable": 4913.11,
+        "total_charge_for_credit": 663.11,
+        "amount_of_credit": 3825,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

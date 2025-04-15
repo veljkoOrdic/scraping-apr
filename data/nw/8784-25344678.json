@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:23:06.815Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/ferrari/812-gts/gts-207",
+    "dealer_id": "8784",
+    "car_id": "25344678",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S1EER",
+        "registration_date": "08/01/2022",
+        "mileage": 950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 336950,
+        "total_price": 336950,
+        "deposit": 33695,
+        "balance": 303255,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 6229.97,
+        "final_payment": 6230.97,
+        "total_amount_payable": 407494.2,
+        "total_charge_for_credit": 70544.2,
+        "amount_of_credit": 303255,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

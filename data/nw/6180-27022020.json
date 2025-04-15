@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:13:43.644Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.themotor.company/used/renault/captur/09-tce-90-play-5dr/taunton/somerset/21537999",
+    "dealer_id": "6180",
+    "car_id": "27022020",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SH18LUD",
+        "registration_date": "30/06/2018",
+        "mileage": 39309,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8399,
+        "total_price": 8399,
+        "deposit": 839.9,
+        "balance": 7559.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 165.46,
+        "final_payment": 166.46,
+        "total_amount_payable": 10768.5,
+        "total_charge_for_credit": 2369.5,
+        "amount_of_credit": 7559.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

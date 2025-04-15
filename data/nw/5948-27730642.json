@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:39:30.762Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.harperscumbria.co.uk/carsearch/viewcar.php?viewcar=YE19EJV",
+    "dealer_id": "5948",
+    "car_id": "27730642",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE19EJV",
+        "registration_date": "09/08/2019",
+        "mileage": 50218,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 8799,
+        "balance": 35196,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 738.78,
+        "final_payment": 739.78,
+        "total_amount_payable": 53126.8,
+        "total_charge_for_credit": 9131.8,
+        "amount_of_credit": 35196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

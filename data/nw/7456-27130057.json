@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:23:46.137Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sckltd.co.uk/details/car-in-kingswinford/bmw/x3/2.0-x3-xdrive20d-m-sport/1386068/",
+    "dealer_id": "7456",
+    "car_id": "27130057",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN67WZU",
+        "registration_date": "27/09/2017",
+        "mileage": 44750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20200,
+        "total_price": 20200,
+        "deposit": 2020,
+        "balance": 18180,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 456.52,
+        "final_payment": 457.52,
+        "total_amount_payable": 23933.96,
+        "total_charge_for_credit": 3733.96,
+        "amount_of_credit": 18180,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:48:39.861Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motonetltd.com/used-bmw-6-series-coventry-west-midlands-5379361",
+    "dealer_id": "6915",
+    "car_id": "21586294",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ12BZN",
+        "registration_date": "09/05/2012",
+        "mileage": 101000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13440,
+        "total_price": 13440,
+        "deposit": 2688,
+        "balance": 10752,
+        "apr": 13.9,
+        "rate_of_interest": 7.09,
+        "term": 24,
+        "regular_payment": 511.57,
+        "final_payment": 512.57,
+        "total_amount_payable": 14966.68,
+        "total_charge_for_credit": 1526.68,
+        "amount_of_credit": 10752,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

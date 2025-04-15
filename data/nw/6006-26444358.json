@@ -1,0 +1,99 @@
+[
+  {
+    "timestamp": "2025-04-14T22:59:23.840Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lotus-eletre-r-5doors-suv-automatic-electric?id=1363981",
+    "dealer_id": "6006",
+    "car_id": "26444358",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO73VJJ",
+        "registration_date": "30/09/2023",
+        "mileage": 2034,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104950,
+        "total_price": 104950,
+        "deposit": 0,
+        "balance": 104950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2681.53,
+        "final_payment": 2681.53,
+        "total_amount_payable": 128713.44,
+        "total_charge_for_credit": 23763.44,
+        "amount_of_credit": 104950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-04-14T22:59:23.850Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lotus-eletre-r-5doors-suv-automatic-electric?id=1363981",
+    "dealer_id": "6006",
+    "car_id": "26444358",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO73VJJ",
+        "registration_date": "30/09/2023",
+        "mileage": 2034,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104950,
+        "total_price": 104950,
+        "deposit": 25000,
+        "balance": 79950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 2594.45,
+        "final_payment": 2594.45,
+        "total_amount_payable": 118400.2,
+        "total_charge_for_credit": 13450.2,
+        "amount_of_credit": 79950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 104950,
+        "total_price": 104950,
+        "deposit": 25000,
+        "balance": 79950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 50,
+        "regular_payment": 1310.99,
+        "final_payment": 39794.48,
+        "total_amount_payable": 129032.99,
+        "total_charge_for_credit": 24082.99,
+        "amount_of_credit": 79950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 41667,
+        "excess_mileage_rate": 0.21,
+        "residual": 39794.48,
+        "price_to_buy": 39794.48
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:46:04.104Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-land-rover-range-rover-evoque-2-0-p200-r-dynamic-se-5dr-5-door-suv-firenze-red/nk69vtz",
+    "dealer_id": "5502",
+    "car_id": "26805246",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK69VTZ",
+        "registration_date": "08/01/2020",
+        "mileage": 40430,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299,
+        "balance": 20696,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 36,
+        "regular_payment": 671.6,
+        "final_payment": 671.6,
+        "total_amount_payable": 26476.6,
+        "total_charge_for_credit": 3481.6,
+        "amount_of_credit": 20696,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

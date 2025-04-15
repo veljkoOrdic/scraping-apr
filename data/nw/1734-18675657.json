@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:04:56.906Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-tesla-model-x-fareham-hampshire-4352275",
+    "dealer_id": "1734",
+    "car_id": "18675657",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GU67FHX",
+        "registration_date": "20/09/2017",
+        "mileage": 99941,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29985,
+        "total_price": 29985,
+        "deposit": 2998,
+        "balance": 26987,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 602.96,
+        "final_payment": 603.96,
+        "total_amount_payable": 39176.6,
+        "total_charge_for_credit": 9191.6,
+        "amount_of_credit": 26987,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

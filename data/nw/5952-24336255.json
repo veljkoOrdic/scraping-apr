@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:47:16.072Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chapelhouse.co.uk/used/view/seat-leon-fr-tsi-s-a-20/ap68svv/",
+    "dealer_id": "5952",
+    "car_id": "24336255",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP68SVV",
+        "registration_date": "07/02/2019",
+        "mileage": 19950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14299,
+        "total_price": 14299,
+        "deposit": 750,
+        "balance": 13549,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 302.6,
+        "final_payment": 312.6,
+        "total_amount_payable": 18916,
+        "total_charge_for_credit": 4617,
+        "amount_of_credit": 13549,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14299,
+        "total_price": 14299,
+        "deposit": 750,
+        "balance": 13549,
+        "apr": 12.9,
+        "rate_of_interest": 6.61,
+        "term": 34,
+        "regular_payment": 296.25,
+        "final_payment": 7444,
+        "total_amount_payable": 17970.25,
+        "total_charge_for_credit": 3671.25,
+        "amount_of_credit": 13549,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "contract_mileage": 17000,
+        "excess_mileage_rate": 0.09,
+        "residual": 7434,
+        "price_to_buy": 7444
+      }
+    ]
+  }
+]

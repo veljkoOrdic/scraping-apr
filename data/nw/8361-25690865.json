@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:36:59.423Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mkcarsales.co.uk/used/ford/fiesta/11-zetec-5dr-lx67suf/milton-keynes/buckinghamshire/21410462",
+    "dealer_id": "8361",
+    "car_id": "25690865",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX67SUF",
+        "registration_date": "04/09/2017",
+        "mileage": 55000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7595,
+        "total_price": 7595,
+        "deposit": 0,
+        "balance": 7595,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 197.38,
+        "final_payment": 198.38,
+        "total_amount_payable": 9475.24,
+        "total_charge_for_credit": 1880.24,
+        "amount_of_credit": 7595,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

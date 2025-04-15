@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:31:51.828Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stirling-cars.com/used-mercedes-benz-c-class-hoddesdon-hertfordshire-6651224",
+    "dealer_id": "4225",
+    "car_id": "26969136",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM11EPP",
+        "registration_date": "20/05/2011",
+        "mileage": 98000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5979,
+        "total_price": 5979,
+        "deposit": 597,
+        "balance": 5382,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 36,
+        "regular_payment": 172.34,
+        "final_payment": 173.34,
+        "total_amount_payable": 6802.24,
+        "total_charge_for_credit": 823.24,
+        "amount_of_credit": 5382,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

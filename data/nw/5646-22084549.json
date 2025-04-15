@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:35:44.939Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jjmotors.co.uk/used/hyundai/i20/10t-gdi-48v-mhd-se-connect-5dr/llanelli/carmarthenshire/21054078",
+    "dealer_id": "5646",
+    "car_id": "22084549",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF71AFN",
+        "registration_date": "07/11/2021",
+        "mileage": 9445,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.85,
+        "term": 61,
+        "regular_payment": 233.44,
+        "final_payment": 234.44,
+        "total_amount_payable": 15206.9,
+        "total_charge_for_credit": 3211.9,
+        "amount_of_credit": 10795.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.36,
+        "term": 49,
+        "regular_payment": 196.41,
+        "final_payment": 4742.51,
+        "total_amount_payable": 15369.69,
+        "total_charge_for_credit": 3374.69,
+        "amount_of_credit": 10795.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 4741.51,
+        "price_to_buy": 4742.51
+      }
+    ]
+  }
+]

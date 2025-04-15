@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:49:53.563Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/ford--mustang-mach-e/wf71kvg",
+    "dealer_id": "210",
+    "car_id": "25808838",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF71KVG",
+        "registration_date": "16/09/2021",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24999,
+        "total_price": 24999,
+        "deposit": 2499,
+        "balance": 22500,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 565.01,
+        "final_payment": 566.01,
+        "total_amount_payable": 29620.48,
+        "total_charge_for_credit": 4621.48,
+        "amount_of_credit": 22500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24999,
+        "total_price": 24999,
+        "deposit": 2499,
+        "balance": 22500,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 49,
+        "regular_payment": 336.36,
+        "final_payment": 13388.5,
+        "total_amount_payable": 32032.78,
+        "total_charge_for_credit": 7033.78,
+        "amount_of_credit": 22500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 13387.5,
+        "price_to_buy": 13388.5
+      }
+    ]
+  }
+]

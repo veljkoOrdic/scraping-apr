@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:53:04.683Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartlepoolmotorcompany.co.uk/used-ford-mondeo-hartlepool-county-durham-6800290",
+    "dealer_id": "7346",
+    "car_id": "27473323",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK16HSG",
+        "registration_date": "09/05/2022",
+        "mileage": 110000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 0,
+        "balance": 7495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 157.31,
+        "final_payment": 158.31,
+        "total_amount_payable": 9439.6,
+        "total_charge_for_credit": 1944.6,
+        "amount_of_credit": 7495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

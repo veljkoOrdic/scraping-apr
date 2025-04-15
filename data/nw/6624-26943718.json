@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:09:04.957Z",
+    "source": "new_vehicle_finance",
+    "url": "https://centralcarsuk.com/used-cars/mercedes-benz/e-class/20-e-220-d-amg-line-premium-auto-4dr-2242/",
+    "dealer_id": "6624",
+    "car_id": "26943718",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EX68TTU",
+        "registration_date": "07/09/2018",
+        "mileage": 47967,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 434.41,
+        "final_payment": 435.41,
+        "total_amount_payable": 28365.1,
+        "total_charge_for_credit": 5370.1,
+        "amount_of_credit": 20695.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

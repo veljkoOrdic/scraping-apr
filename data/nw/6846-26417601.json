@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T03:22:09.815Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lutontradecentre.com/used-porsche-macan-luton-bedfordshire-6531693",
+    "dealer_id": "6846",
+    "car_id": "26417601",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SL68ZZN",
+        "registration_date": "04/01/2019",
+        "mileage": 49721,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399,
+        "balance": 30596,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 44,
+        "regular_payment": 571.88,
+        "final_payment": 16780,
+        "total_amount_payable": 44769.84,
+        "total_charge_for_credit": 10774.84,
+        "amount_of_credit": 30596,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 22000,
+        "excess_mileage_rate": 0.07,
+        "residual": 16779,
+        "price_to_buy": 16780
+      }
+    ]
+  }
+]

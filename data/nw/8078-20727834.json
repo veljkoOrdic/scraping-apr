@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:15:23.279Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-volkswagen-crafter-stalybridge-greater-manchester-5182762",
+    "dealer_id": "8078",
+    "car_id": "20727834",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD74HHV",
+        "registration_date": "08/03/2024",
+        "mileage": 100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69594,
+        "total_price": 69594,
+        "deposit": 11599,
+        "balance": 57995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1217.36,
+        "final_payment": 1217.36,
+        "total_amount_payable": 84640.6,
+        "total_charge_for_credit": 15046.6,
+        "amount_of_credit": 57995,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

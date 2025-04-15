@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:37:03.211Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bankmotors.co.uk/used-volkswagen-crafter-glasgow-lanarkshire-6069587",
+    "dealer_id": "364",
+    "car_id": "24520333",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK13FXY",
+        "registration_date": "18/03/2013",
+        "mileage": 93000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8394,
+        "total_price": 8394,
+        "deposit": 0,
+        "balance": 8394,
+        "apr": 10.9,
+        "rate_of_interest": 5.6,
+        "term": 35,
+        "regular_payment": 279.01,
+        "final_payment": 280.01,
+        "total_amount_payable": 9766.35,
+        "total_charge_for_credit": 1372.35,
+        "amount_of_credit": 8394,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

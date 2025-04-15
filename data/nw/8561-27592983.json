@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:46:33.391Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mattjohnsonprestigecars.co.uk/used/cars/bmw/m3/m3-competition-m-xdrive-2015",
+    "dealer_id": "8561",
+    "car_id": "27592983",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD23NHU",
+        "registration_date": "12/06/2023",
+        "mileage": 13941,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69950,
+        "total_price": 69950,
+        "deposit": 6995,
+        "balance": 62955,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1608.52,
+        "final_payment": 1609.52,
+        "total_amount_payable": 84204.96,
+        "total_charge_for_credit": 14254.96,
+        "amount_of_credit": 62955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69950,
+        "total_price": 69950,
+        "deposit": 6995,
+        "balance": 62955,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 49,
+        "regular_payment": 1082.46,
+        "final_payment": 31413.4,
+        "total_amount_payable": 90366.48,
+        "total_charge_for_credit": 20416.48,
+        "amount_of_credit": 62955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.36,
+        "residual": 31412.4,
+        "price_to_buy": 31413.4
+      }
+    ]
+  }
+]

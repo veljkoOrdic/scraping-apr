@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:54:40.643Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoimagebarrow.co.uk/cars/skoda/citigo/1.0-mpi-colour-edition/1433910/",
+    "dealer_id": "4287",
+    "car_id": "27756477",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE18CYY",
+        "registration_date": "18/06/2018",
+        "mileage": 106000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 149.71,
+        "final_payment": 150.71,
+        "total_amount_payable": 5890.06,
+        "total_charge_for_credit": 895.06,
+        "amount_of_credit": 4495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:28:34.039Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-bmw-5-series-530d-m-sport-for-sale-grm-autos-grange-road-u1499/",
+    "dealer_id": "6238",
+    "car_id": "26966135",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM69TXB",
+        "registration_date": "25/01/2020",
+        "mileage": 63562,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.67,
+        "term": 60,
+        "regular_payment": 461.9,
+        "final_payment": 471.9,
+        "total_amount_payable": 30123.5,
+        "total_charge_for_credit": 6128.5,
+        "amount_of_credit": 21595.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

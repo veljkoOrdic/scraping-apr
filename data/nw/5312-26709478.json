@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:11:06.447Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.totallytradedirect.co.uk/details/used-car-in-friern-barnet-lane/toyota/yaris/1.33-dual-vvt-i-tr-euro-5-5dr/1350596/",
+    "dealer_id": "5312",
+    "car_id": "26709478",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT62BHE",
+        "registration_date": "18/12/2012",
+        "mileage": 19000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6148,
+        "total_price": 6148,
+        "deposit": 0,
+        "balance": 6148,
+        "apr": 11.9,
+        "rate_of_interest": 6.1,
+        "term": 32,
+        "regular_payment": 223.38,
+        "final_payment": 224.38,
+        "total_amount_payable": 7149.16,
+        "total_charge_for_credit": 1001.16,
+        "amount_of_credit": 6148,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

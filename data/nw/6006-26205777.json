@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:55:42.249Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/maserati-grecale-gt-5doors-suv-automatic-petrol?id=1397490",
+    "dealer_id": "6006",
+    "car_id": "26205777",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV24VOB",
+        "registration_date": "26/03/2024",
+        "mileage": 8800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45950,
+        "total_price": 45950,
+        "deposit": 0,
+        "balance": 45950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1174.05,
+        "final_payment": 1174.05,
+        "total_amount_payable": 56354.4,
+        "total_charge_for_credit": 10404.4,
+        "amount_of_credit": 45950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

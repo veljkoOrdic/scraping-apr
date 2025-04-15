@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:19:01.701Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/toyota/iq/1.0-vvt-i-2-euro-5-3dr/1440396/",
+    "dealer_id": "4058",
+    "car_id": "27781910",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV63FFP",
+        "registration_date": "30/11/2013",
+        "mileage": 51035,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4500,
+        "total_price": 4500,
+        "deposit": 900,
+        "balance": 3600,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 43,
+        "regular_payment": 99.05,
+        "final_payment": 100.05,
+        "total_amount_payable": 5160.15,
+        "total_charge_for_credit": 660.15,
+        "amount_of_credit": 3600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

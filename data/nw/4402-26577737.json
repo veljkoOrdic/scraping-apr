@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:31:48.204Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eclipsecarsales.co.uk/used-land-rover-range-rover-velar-winchester-hampshire-6568288",
+    "dealer_id": "4402",
+    "car_id": "26577737",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW20DXC",
+        "registration_date": "23/07/2020",
+        "mileage": 27000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 1000,
+        "balance": 31495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 661.09,
+        "final_payment": 662.09,
+        "total_amount_payable": 40666.4,
+        "total_charge_for_credit": 8171.4,
+        "amount_of_credit": 31495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32495,
+        "total_price": 32495,
+        "deposit": 1000,
+        "balance": 31495,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 516.41,
+        "final_payment": 16072.14,
+        "total_amount_payable": 41859.82,
+        "total_charge_for_credit": 9364.82,
+        "amount_of_credit": 31495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.14,
+        "residual": 16071.14,
+        "price_to_buy": 16072.14
+      }
+    ]
+  }
+]

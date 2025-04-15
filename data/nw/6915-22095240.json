@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:50:58.488Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motonetltd.com/used-land-rover-range-rover-sport-coventry-west-midlands-5500079",
+    "dealer_id": "6915",
+    "car_id": "22095240",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "W80KAR",
+        "registration_date": "26/04/2018",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58300,
+        "total_price": 58300,
+        "deposit": 11660,
+        "balance": 46640,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 1063.24,
+        "final_payment": 1064.24,
+        "total_amount_payable": 75455.4,
+        "total_charge_for_credit": 17155.4,
+        "amount_of_credit": 46640,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

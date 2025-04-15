@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:01:07.747Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autotradecentreni.com/cars/bmw/1series/1.5-118i-sport-5-door/1173156/",
+    "dealer_id": "6925",
+    "car_id": "24454708",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN69OVM",
+        "registration_date": "24/09/2019",
+        "mileage": 84369,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 200.86,
+        "final_payment": 210.86,
+        "total_amount_payable": 13061.1,
+        "total_charge_for_credit": 3066.1,
+        "amount_of_credit": 8995.5,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

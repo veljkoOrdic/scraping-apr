@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:35:26.231Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aandaautosales.uk/details/used-car-in-peterborough/seat/leon/1.8-tsi-fr-sport-coupe-euro-6-ss-3dr/1153621/",
+    "dealer_id": "7763",
+    "car_id": "24192587",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV13ZWA",
+        "registration_date": "19/06/2013",
+        "mileage": 113759,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4895,
+        "total_price": 4895,
+        "deposit": 10,
+        "balance": 4885,
+        "apr": 11.9,
+        "rate_of_interest": 6.13,
+        "term": 38,
+        "regular_payment": 153.49,
+        "final_payment": 154.49,
+        "total_amount_payable": 5843.62,
+        "total_charge_for_credit": 948.62,
+        "amount_of_credit": 4885,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

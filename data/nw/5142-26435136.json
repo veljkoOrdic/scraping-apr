@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:08:30.236Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-citroen-c4-picasso-gateshead-tyne-and-wear-6532004",
+    "dealer_id": "5142",
+    "car_id": "26435136",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF17KOZ",
+        "registration_date": "30/06/2017",
+        "mileage": 80979,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6490,
+        "total_price": 6490,
+        "deposit": 324,
+        "balance": 6166,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 129.42,
+        "final_payment": 130.42,
+        "total_amount_payable": 8090.2,
+        "total_charge_for_credit": 1600.2,
+        "amount_of_credit": 6166,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

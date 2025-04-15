@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:39:43.802Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-porsche-cayenne-v6-s-tiptronic-5694/",
+    "dealer_id": "7512",
+    "car_id": "26994165",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX69NRV",
+        "registration_date": "31/10/2019",
+        "mileage": 49000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41995,
+        "total_price": 41995,
+        "deposit": 0,
+        "balance": 41995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 862.72,
+        "final_payment": 863.72,
+        "total_amount_payable": 51764.2,
+        "total_charge_for_credit": 9769.2,
+        "amount_of_credit": 41995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

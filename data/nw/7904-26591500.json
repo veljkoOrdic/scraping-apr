@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:12:05.527Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.switchingcars.co.uk/used-audi-a5-warrington-cheshire-6567717",
+    "dealer_id": "7904",
+    "car_id": "26591500",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SE66WXG",
+        "registration_date": "31/01/2017",
+        "mileage": 108995,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 0,
+        "balance": 9995,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 259.75,
+        "final_payment": 260.75,
+        "total_amount_payable": 12469,
+        "total_charge_for_credit": 2474,
+        "amount_of_credit": 9995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

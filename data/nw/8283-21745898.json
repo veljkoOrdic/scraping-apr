@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:11:36.474Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vansco.co.uk/vehicle-details/used-land-rover-defender-110-2-2-tdci-hard-top-3dr-diesel-manual-4wd-euro-5-122-ps-for-sale-vansco-333-showroom-u9771/",
+    "dealer_id": "8283",
+    "car_id": "21745898",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF65YXY",
+        "registration_date": "22/09/2015",
+        "mileage": 133996,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18954,
+        "total_price": 18954,
+        "deposit": 3159,
+        "balance": 15795,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 352.79,
+        "final_payment": 362.79,
+        "total_amount_payable": 24336.4,
+        "total_charge_for_credit": 5382.4,
+        "amount_of_credit": 15795,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

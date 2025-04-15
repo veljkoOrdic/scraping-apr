@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:59:04.912Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/mercedes-amg-gt-premium-auto-in-kent-4d127ad9-357e-4499-8a20-b1770095c1f0",
+    "dealer_id": "5545",
+    "car_id": "21448927",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF16ZPK",
+        "registration_date": "15/07/2016",
+        "mileage": 20000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51750,
+        "total_price": 51750,
+        "deposit": 7762.5,
+        "balance": 43987.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1085.37,
+        "final_payment": 1086.37,
+        "total_amount_payable": 59861.26,
+        "total_charge_for_credit": 8111.26,
+        "amount_of_credit": 43987.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:05:14.030Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dowstorey.co.uk/cars/audi/a4avant/2.0-tdi-se-technik-multitronic-euro-5-ss-5dr/1396575/",
+    "dealer_id": "6110",
+    "car_id": "27168010",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YY14YOV",
+        "registration_date": "10/07/2014",
+        "mileage": 60863,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9795,
+        "total_price": 9795,
+        "deposit": 979.5,
+        "balance": 8815.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 50,
+        "regular_payment": 214.08,
+        "final_payment": 215.08,
+        "total_amount_payable": 11684.5,
+        "total_charge_for_credit": 1889.5,
+        "amount_of_credit": 8815.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

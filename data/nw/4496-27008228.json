@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T16:44:33.494Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dalesautomotive.co.uk/used-land-rover-defender-kelbrook-lancashire-6676793",
+    "dealer_id": "4496",
+    "car_id": "27008228",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SR21XCT",
+        "registration_date": "23/04/2021",
+        "mileage": 38500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51995,
+        "total_price": 51995,
+        "deposit": 5199,
+        "balance": 46796,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1154.67,
+        "final_payment": 1155.67,
+        "total_amount_payable": 60624.16,
+        "total_charge_for_credit": 8629.16,
+        "amount_of_credit": 46796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51995,
+        "total_price": 51995,
+        "deposit": 5199,
+        "balance": 46796,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 737.98,
+        "final_payment": 23920.87,
+        "total_amount_payable": 64542.91,
+        "total_charge_for_credit": 12547.91,
+        "amount_of_credit": 46796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.22,
+        "residual": 23919.87,
+        "price_to_buy": 23920.87
+      }
+    ]
+  }
+]

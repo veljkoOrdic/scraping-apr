@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:38:51.867Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehertfordcarcompany.co.uk/used-porsche-taycan-hertford-hertfordshire-6570420",
+    "dealer_id": "3137",
+    "car_id": "26592922",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX72NLK",
+        "registration_date": "23/11/2022",
+        "mileage": 24509,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51989,
+        "total_price": 51989,
+        "deposit": 5198,
+        "balance": 46791,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 982.17,
+        "final_payment": 983.17,
+        "total_amount_payable": 64129.2,
+        "total_charge_for_credit": 12140.2,
+        "amount_of_credit": 46791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51989,
+        "total_price": 51989,
+        "deposit": 5198,
+        "balance": 46791,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 793.27,
+        "final_payment": 22351.44,
+        "total_amount_payable": 65626.4,
+        "total_charge_for_credit": 13637.4,
+        "amount_of_credit": 46791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 22350.44,
+        "price_to_buy": 22351.44
+      }
+    ]
+  }
+]

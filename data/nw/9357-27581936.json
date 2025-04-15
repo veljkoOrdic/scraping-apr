@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:17:55.966Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surreyspecialistcars.co.uk/used-mercedes-benz-a-class-guildford-surrey-6790797",
+    "dealer_id": "9357",
+    "car_id": "27581936",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN69LFY",
+        "registration_date": "26/02/2020",
+        "mileage": 62500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15090,
+        "total_price": 15090,
+        "deposit": 1509,
+        "balance": 13581,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 285.06,
+        "final_payment": 286.06,
+        "total_amount_payable": 18613.6,
+        "total_charge_for_credit": 3523.6,
+        "amount_of_credit": 13581,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

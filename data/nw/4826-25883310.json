@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:06:35.071Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caldermotor.co.uk/used-land-rover-defender-west-lothian-scotland-6388743",
+    "dealer_id": "4826",
+    "car_id": "25883310",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ23DXY",
+        "registration_date": "13/04/2023",
+        "mileage": 16000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58995,
+        "total_price": 58995,
+        "deposit": 5899,
+        "balance": 53096,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1090.77,
+        "final_payment": 1091.77,
+        "total_amount_payable": 71346.2,
+        "total_charge_for_credit": 12351.2,
+        "amount_of_credit": 53096,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 58995,
+        "total_price": 58995,
+        "deposit": 5899,
+        "balance": 53096,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 879.07,
+        "final_payment": 24744.92,
+        "total_amount_payable": 72839.28,
+        "total_charge_for_credit": 13844.28,
+        "amount_of_credit": 53096,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 24744.92,
+        "price_to_buy": 24744.92
+      }
+    ]
+  }
+]

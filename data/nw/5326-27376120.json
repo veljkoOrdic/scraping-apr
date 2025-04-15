@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:12:37.637Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverydole.co.uk/used/mitsubishi/mirage/12-juro-5dr/exeter/devon/21559368",
+    "dealer_id": "5326",
+    "car_id": "27376120",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD67PHK",
+        "registration_date": "16/02/2018",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6999,
+        "total_price": 6999,
+        "deposit": 2799.6,
+        "balance": 4199.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.68,
+        "term": 48,
+        "regular_payment": 107.35,
+        "final_payment": 108.35,
+        "total_amount_payable": 7953.4,
+        "total_charge_for_credit": 954.4,
+        "amount_of_credit": 4199.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

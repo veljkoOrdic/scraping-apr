@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:26:41.952Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.braidwoodmotors.com/used-bmw-x5-livingston-west-lothian-6702891",
+    "dealer_id": "1142",
+    "car_id": "27183021",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV18YLY",
+        "registration_date": "29/03/2018",
+        "mileage": 34705,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37990,
+        "total_price": 37990,
+        "deposit": 3799,
+        "balance": 34191,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 702.4,
+        "final_payment": 703.4,
+        "total_amount_payable": 45944,
+        "total_charge_for_credit": 7954,
+        "amount_of_credit": 34191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

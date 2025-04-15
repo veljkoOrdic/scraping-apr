@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:01:32.049Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.brooklandscars.com/used-hyundai-i10-corby-northamptonshire-6115347",
+    "dealer_id": "2219",
+    "car_id": "24715721",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM21FVX",
+        "registration_date": "16/06/2021",
+        "mileage": 54607,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 192.86,
+        "final_payment": 193.86,
+        "total_amount_payable": 12571.6,
+        "total_charge_for_credit": 2576.6,
+        "amount_of_credit": 8996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 10.9,
+        "rate_of_interest": 5.38,
+        "term": 49,
+        "regular_payment": 168.42,
+        "final_payment": 3668.5,
+        "total_amount_payable": 12751.66,
+        "total_charge_for_credit": 2756.66,
+        "amount_of_credit": 8996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 3667.5,
+        "price_to_buy": 3668.5
+      }
+    ]
+  }
+]

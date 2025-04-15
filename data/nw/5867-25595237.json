@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:29:12.459Z",
+    "source": "new_vehicle_finance",
+    "url": "https://brockhammotorcompany.co.uk/usedetail?v=YO68BXN",
+    "dealer_id": "5867",
+    "car_id": "25595237",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YO68BXN",
+        "registration_date": "14/12/2018",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10380,
+        "total_price": 10380,
+        "deposit": 1038,
+        "balance": 9342,
+        "apr": 17.9,
+        "rate_of_interest": 9.55,
+        "term": 60,
+        "regular_payment": 230.06,
+        "final_payment": 231.06,
+        "total_amount_payable": 14842.6,
+        "total_charge_for_credit": 4462.6,
+        "amount_of_credit": 9342,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:38:12.839Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bankmotors.co.uk/used-mercedes-benz-glc-glasgow-lanarkshire-6696521",
+    "dealer_id": "364",
+    "car_id": "27051313",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK18VXN",
+        "registration_date": "24/04/2018",
+        "mileage": 70000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 347.23,
+        "final_payment": 348.23,
+        "total_amount_payable": 22633.8,
+        "total_charge_for_credit": 4638.8,
+        "amount_of_credit": 16196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

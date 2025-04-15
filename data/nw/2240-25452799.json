@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:10:31.294Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-bmw-m2-newark-nottinghamshire-6293831",
+    "dealer_id": "2240",
+    "car_id": "25452799",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "M2CAB",
+        "registration_date": "18/07/2016",
+        "mileage": 19000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19911,
+        "total_price": 19911,
+        "deposit": 995,
+        "balance": 18916,
+        "apr": 12.8,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 420.09,
+        "final_payment": 470.09,
+        "total_amount_payable": 26300.4,
+        "total_charge_for_credit": 6389.4,
+        "amount_of_credit": 18916,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

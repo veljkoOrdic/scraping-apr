@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:13:59.511Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverydole.co.uk/used/subaru/solterra/150kw-touring-714kwh-5dr-auto-awd/exeter/devon/21547372",
+    "dealer_id": "5326",
+    "car_id": "27184138",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WP73MYC",
+        "registration_date": "30/11/2023",
+        "mileage": 9192,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29499,
+        "total_price": 29499,
+        "deposit": 11799.6,
+        "balance": 17699.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 452.21,
+        "final_payment": 453.21,
+        "total_amount_payable": 33506.68,
+        "total_charge_for_credit": 4007.68,
+        "amount_of_credit": 17699.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29499,
+        "total_price": 29499,
+        "deposit": 11799.6,
+        "balance": 17699.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.22,
+        "term": 49,
+        "regular_payment": 212.01,
+        "final_payment": 14344,
+        "total_amount_payable": 36320.08,
+        "total_charge_for_credit": 6821.08,
+        "amount_of_credit": 17699.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 14343,
+        "price_to_buy": 14344
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:52:29.587Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartlepoolmotorcompany.co.uk/used-ford-ka-plus-hartlepool-county-durham-6791560",
+    "dealer_id": "7346",
+    "car_id": "27435452",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "B23KLH",
+        "registration_date": "07/07/2017",
+        "mileage": 108000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4295,
+        "total_price": 4295,
+        "deposit": 0,
+        "balance": 4295,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 90.14,
+        "final_payment": 91.14,
+        "total_amount_payable": 5409.4,
+        "total_charge_for_credit": 1114.4,
+        "amount_of_credit": 4295,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

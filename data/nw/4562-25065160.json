@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:04:35.287Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eagleshamgarage.co.uk/vehicle-details/used-ford-transit-connect-tdci-200-limited-for-sale-in-eaglesham-glasgow-u258/",
+    "dealer_id": "4562",
+    "car_id": "25065160",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU18WAE",
+        "registration_date": "07/03/2018",
+        "mileage": 39342,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23994,
+        "total_price": 23994,
+        "deposit": 999.75,
+        "balance": 22994.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 482.65,
+        "final_payment": 483.65,
+        "total_amount_payable": 29959.75,
+        "total_charge_for_credit": 5965.75,
+        "amount_of_credit": 22994.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

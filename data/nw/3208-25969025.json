@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:47:40.895Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caledoniavehiclesolutions.co.uk/used-lotus-elise-ayr-ayrshire-6412818",
+    "dealer_id": "3208",
+    "car_id": "25969025",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LT05DAY",
+        "registration_date": "08/09/2013",
+        "mileage": 28851,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25888,
+        "total_price": 25888,
+        "deposit": 2588,
+        "balance": 23300,
+        "apr": 9.9,
+        "rate_of_interest": 5.1,
+        "term": 40,
+        "regular_payment": 681.6,
+        "final_payment": 682.6,
+        "total_amount_payable": 29853,
+        "total_charge_for_credit": 3965,
+        "amount_of_credit": 23300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

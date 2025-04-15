@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:37:30.820Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/bmw/m2/3.0-biturbo-competition-dct-euro-6-ss-2dr/995562/",
+    "dealer_id": "6754",
+    "car_id": "26793214",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU69GGO",
+        "registration_date": "01/09/2019",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38999,
+        "total_price": 38999,
+        "deposit": 1949.95,
+        "balance": 37049.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 1028.21,
+        "final_payment": 1029.21,
+        "total_amount_payable": 51305.03,
+        "total_charge_for_credit": 12306.03,
+        "amount_of_credit": 37049.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

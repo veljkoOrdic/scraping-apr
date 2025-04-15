@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:30:01.583Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hamcarcentre.co.uk/used-land-rover-defender-poole-dorset-6826227",
+    "dealer_id": "4206",
+    "car_id": "27579319",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU73OPO",
+        "registration_date": "12/09/2023",
+        "mileage": 13000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 86388,
+        "total_price": 86388,
+        "deposit": 0,
+        "balance": 71990,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1543.43,
+        "final_payment": 1544.43,
+        "total_amount_payable": 107004.8,
+        "total_charge_for_credit": 20616.8,
+        "amount_of_credit": 71990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:40:20.238Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prosportscars.co.uk/used-peugeot-e-2008-hull-north-humberside-6619209",
+    "dealer_id": "5463",
+    "car_id": "27017094",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FT70CEK",
+        "registration_date": "09/02/2021",
+        "mileage": 22113,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13750,
+        "total_price": 13750,
+        "deposit": 0,
+        "balance": 13750,
+        "apr": 7.9,
+        "rate_of_interest": 7.61,
+        "term": 60,
+        "regular_payment": 276.36,
+        "final_payment": 276.36,
+        "total_amount_payable": 16581.6,
+        "total_charge_for_credit": 2831.6,
+        "amount_of_credit": 13750,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13750,
+        "total_price": 13750,
+        "deposit": 0,
+        "balance": 13750,
+        "apr": 7.9,
+        "rate_of_interest": 7.61,
+        "term": 49,
+        "regular_payment": 247.08,
+        "final_payment": 4851,
+        "total_amount_payable": 16710.84,
+        "total_charge_for_credit": 2960.84,
+        "amount_of_credit": 13750,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.08,
+        "residual": 4841,
+        "price_to_buy": 4851
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:10:25.861Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xways.co.uk/used-bmw-1-series-halstead-essex-6605733",
+    "dealer_id": "1035",
+    "car_id": "26718807",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AY68KJV",
+        "registration_date": "26/10/2018",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049,
+        "balance": 18446,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 387.2,
+        "final_payment": 387.2,
+        "total_amount_payable": 25281,
+        "total_charge_for_credit": 4786,
+        "amount_of_credit": 18446,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:56:52.666Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.saveonusedcars.co.uk/used/land-rover/discovery-sport/20-d180-r-dynamic-se-5dr-auto/scunthorpe/lincolnshire/21502961",
+    "dealer_id": "7219",
+    "car_id": "26578437",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WX70YFO",
+        "registration_date": "20/10/2020",
+        "mileage": 72482,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20994,
+        "total_price": 20994,
+        "deposit": 2000,
+        "balance": 18994,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 501.99,
+        "final_payment": 502.99,
+        "total_amount_payable": 26096.52,
+        "total_charge_for_credit": 5102.52,
+        "amount_of_credit": 18994,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

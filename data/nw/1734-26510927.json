@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:02:39.410Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-volkswagen-t-cross-fareham-hampshire-6552945",
+    "dealer_id": "1734",
+    "car_id": "26510927",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC69GUF",
+        "registration_date": "27/09/2019",
+        "mileage": 101511,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8385,
+        "total_price": 8385,
+        "deposit": 838,
+        "balance": 7547,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 168.61,
+        "final_payment": 169.61,
+        "total_amount_payable": 10955.6,
+        "total_charge_for_credit": 2570.6,
+        "amount_of_credit": 7547,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

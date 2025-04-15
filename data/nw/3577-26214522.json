@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:16:21.305Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lanarkshirecarsales.co.uk/used-peugeot-107-north-lanarkshire-lanarkshire-6479300",
+    "dealer_id": "3577",
+    "car_id": "26214522",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU61ZYE",
+        "registration_date": "24/10/2011",
+        "mileage": 87717,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2495,
+        "total_price": 2495,
+        "deposit": 0,
+        "balance": 2495,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 18,
+        "regular_payment": 149.19,
+        "final_payment": 150.19,
+        "total_amount_payable": 2686.42,
+        "total_charge_for_credit": 191.42,
+        "amount_of_credit": 2495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

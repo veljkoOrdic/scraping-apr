@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:25:32.767Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.braidwoodmotors.com/used-land-rover-range-rover-evoque-livingston-west-lothian-6658180",
+    "dealer_id": "1142",
+    "car_id": "26911836",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AE21RYA",
+        "registration_date": "05/03/2021",
+        "mileage": 39388,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26490,
+        "total_price": 26490,
+        "deposit": 2649,
+        "balance": 23841,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 489.77,
+        "final_payment": 490.77,
+        "total_amount_payable": 32036.2,
+        "total_charge_for_credit": 5546.2,
+        "amount_of_credit": 23841,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26490,
+        "total_price": 26490,
+        "deposit": 2649,
+        "balance": 23841,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 372.82,
+        "final_payment": 12368.19,
+        "total_amount_payable": 32912.55,
+        "total_charge_for_credit": 6422.55,
+        "amount_of_credit": 23841,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 12367.19,
+        "price_to_buy": 12368.19
+      }
+    ]
+  }
+]

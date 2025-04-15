@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:58:45.672Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.saveonusedcars.co.uk/used/volkswagen/transporter/20-tdi-110-startline-van/scunthorpe/lincolnshire/227916",
+    "dealer_id": "7219",
+    "car_id": "24887809",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML70SDV",
+        "registration_date": "04/11/2020",
+        "mileage": 71817,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44990,
+        "total_price": 44990,
+        "deposit": 2000,
+        "balance": 42990,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1136.19,
+        "final_payment": 1137.19,
+        "total_amount_payable": 56538.12,
+        "total_charge_for_credit": 11548.12,
+        "amount_of_credit": 42990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:55:16.368Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmotorcompany.co.uk/used-porsche-taycan-stoke-on-trent-staffordshire-4926730",
+    "dealer_id": "468",
+    "car_id": "19666947",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA71TYD",
+        "registration_date": "24/11/2021",
+        "mileage": 12000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499,
+        "balance": 49496,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 994.79,
+        "final_payment": 995.79,
+        "total_amount_payable": 65187.4,
+        "total_charge_for_credit": 10192.4,
+        "amount_of_credit": 49496,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

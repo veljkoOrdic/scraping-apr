@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:42:36.845Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prosportscars.co.uk/used-bentley-continental-hull-north-humberside-6575613",
+    "dealer_id": "5463",
+    "car_id": "26823860",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MX10GJK",
+        "registration_date": "06/05/2010",
+        "mileage": 64608,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31450,
+        "total_price": 31450,
+        "deposit": 0,
+        "balance": 31450,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 23,
+        "regular_payment": 1500.72,
+        "final_payment": 1501.72,
+        "total_amount_payable": 34517.56,
+        "total_charge_for_credit": 3067.56,
+        "amount_of_credit": 31450,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

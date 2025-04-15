@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:31:16.662Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aphynes.com/details/used-car-in-altrincham/mini/hatch/1.5-cooper-euro-6-ss-5dr/1334261/",
+    "dealer_id": "3054",
+    "car_id": "26497626",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FD68SDV",
+        "registration_date": "24/12/2018",
+        "mileage": 26453,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11695,
+        "total_price": 11695,
+        "deposit": 2923.75,
+        "balance": 8771.25,
+        "apr": 10.6,
+        "rate_of_interest": 5.55,
+        "term": 60,
+        "regular_payment": 186.74,
+        "final_payment": 196.74,
+        "total_amount_payable": 14138.15,
+        "total_charge_for_credit": 2443.15,
+        "amount_of_credit": 8771.25,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

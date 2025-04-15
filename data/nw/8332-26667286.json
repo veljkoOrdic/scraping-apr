@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:27:44.578Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cmcarsni.co.uk/used-bmw-4-series-ballymoney-northern-ireland-5841078",
+    "dealer_id": "8332",
+    "car_id": "26667286",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GSZ5586",
+        "registration_date": "08/03/2014",
+        "mileage": 88235,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7975,
+        "total_price": 7975,
+        "deposit": 797,
+        "balance": 7178,
+        "apr": 13.9,
+        "rate_of_interest": 7.22,
+        "term": 46,
+        "regular_payment": 199.25,
+        "final_payment": 200.25,
+        "total_amount_payable": 9963.5,
+        "total_charge_for_credit": 1988.5,
+        "amount_of_credit": 7178,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:20:59.744Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/commercials/volkswagen/transporter/lwb-l2h1-t30-tdi-p-v-highline-150-bhp-6-speed-bmt-air-con-sensors-euro-6-1437",
+    "dealer_id": "7281",
+    "car_id": "24095937",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HD19AUU",
+        "registration_date": "21/06/2019",
+        "mileage": 46079,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27520.8,
+        "total_price": 27520.8,
+        "deposit": 5733.5,
+        "balance": 21787.3,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 476.92,
+        "final_payment": 477.92,
+        "total_amount_payable": 34349.7,
+        "total_charge_for_credit": 6828.9,
+        "amount_of_credit": 21787.3,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

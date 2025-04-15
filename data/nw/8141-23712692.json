@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:37:19.085Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jsvans.co.uk/used-ford-auto-trail-stockport-cheshire-5875853",
+    "dealer_id": "8141",
+    "car_id": "23712692",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MX72HNY",
+        "registration_date": "01/05/2023",
+        "mileage": 3000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 0,
+        "balance": 69995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1532.21,
+        "final_payment": 1533.21,
+        "total_amount_payable": 91933.6,
+        "total_charge_for_credit": 21938.6,
+        "amount_of_credit": 69995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

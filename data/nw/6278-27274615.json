@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:44:27.839Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lanepearson.co.uk/vehicle-details/Volkswagen-California-U5515/",
+    "dealer_id": "6278",
+    "car_id": "27274615",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VN73EOB",
+        "registration_date": "01/09/2023",
+        "mileage": 3950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67990,
+        "total_price": 67990,
+        "deposit": 17990,
+        "balance": 50000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1027.17,
+        "final_payment": 1028.17,
+        "total_amount_payable": 79621.2,
+        "total_charge_for_credit": 11631.2,
+        "amount_of_credit": 50000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 67990,
+        "total_price": 67990,
+        "deposit": 17990,
+        "balance": 50000,
+        "apr": 8.9,
+        "rate_of_interest": 4.33,
+        "term": 49,
+        "regular_payment": 630.3,
+        "final_payment": 34640.2,
+        "total_amount_payable": 82884.6,
+        "total_charge_for_credit": 14894.6,
+        "amount_of_credit": 50000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 34639.2,
+        "price_to_buy": 34640.2
+      }
+    ]
+  }
+]

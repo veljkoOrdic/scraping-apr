@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:22:18.178Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/lamborghini/huracan/lp-610-4-218",
+    "dealer_id": "8784",
+    "car_id": "25608974",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ14EUL",
+        "registration_date": "18/08/2014",
+        "mileage": 13000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 126950,
+        "total_price": 126950,
+        "deposit": 12695,
+        "balance": 114255,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 2347.21,
+        "final_payment": 2348.21,
+        "total_amount_payable": 153528.6,
+        "total_charge_for_credit": 26578.6,
+        "amount_of_credit": 114255,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

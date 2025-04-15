@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:33:29.051Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-porsche-cayenne-hatfield-hertfordshire-6503033",
+    "dealer_id": "4492",
+    "car_id": "26298976",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD69WNS",
+        "registration_date": "16/10/2019",
+        "mileage": 41200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43000,
+        "total_price": 43000,
+        "deposit": 8600,
+        "balance": 34400,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 722.07,
+        "final_payment": 723.07,
+        "total_amount_payable": 51925.2,
+        "total_charge_for_credit": 8925.2,
+        "amount_of_credit": 34400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

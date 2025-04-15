@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:59:23.618Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillageltd.co.uk/details/used-car-in-stoke-on-trent/landrover/rangerovervelar/2.0-d180-r-dynamic-se-auto-4wd-euro-6-ss-5dr/1399926/",
+    "dealer_id": "7612",
+    "car_id": "27286854",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ68XUG",
+        "registration_date": "30/11/2018",
+        "mileage": 40271,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22490,
+        "total_price": 22490,
+        "deposit": 2249,
+        "balance": 20241,
+        "apr": 12.8,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 449.52,
+        "final_payment": 499.52,
+        "total_amount_payable": 29320.2,
+        "total_charge_for_credit": 6830.2,
+        "amount_of_credit": 20241,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

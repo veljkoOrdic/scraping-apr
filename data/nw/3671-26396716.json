@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:33:04.324Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shukercars.co.uk/details/used-car-in-bromsgrove/mini/hatch/1.5-cooper-sport-euro-6-ss-3dr/1326192/",
+    "dealer_id": "3671",
+    "car_id": "26396716",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KT68VXB",
+        "registration_date": "28/12/2018",
+        "mileage": 88227,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949.5,
+        "balance": 8545.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 187.05,
+        "final_payment": 188.05,
+        "total_amount_payable": 12173.5,
+        "total_charge_for_credit": 2678.5,
+        "amount_of_credit": 8545.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:26:01.000Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/porsche/911/gt3-3-8-pdk-3361",
+    "dealer_id": "5631",
+    "car_id": "27258288",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD63HCO",
+        "registration_date": "20/12/2013",
+        "mileage": 51200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79990,
+        "total_price": 79990,
+        "deposit": 10,
+        "balance": 79980,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 44,
+        "regular_payment": 2158.89,
+        "final_payment": 2159.89,
+        "total_amount_payable": 95002.16,
+        "total_charge_for_credit": 15012.16,
+        "amount_of_credit": 79980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

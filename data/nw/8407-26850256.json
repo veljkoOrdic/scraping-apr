@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:49:50.939Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macmillanmotorcompany.co.uk/used-toyota-aygo-middlesbrough-north-yorkshire-6642205",
+    "dealer_id": "8407",
+    "car_id": "26850256",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ND17AOB",
+        "registration_date": "02/06/2017",
+        "mileage": 5384,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049,
+        "balance": 9446,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 202.51,
+        "final_payment": 203.51,
+        "total_amount_payable": 13200.6,
+        "total_charge_for_credit": 2705.6,
+        "amount_of_credit": 9446,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

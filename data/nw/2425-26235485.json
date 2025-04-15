@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:34:03.902Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.paulwilliamsoncars.co.uk/used-volkswagen-transporter-elgin-moray-6484692",
+    "dealer_id": "2425",
+    "car_id": "26235485",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW73LKK",
+        "registration_date": "25/01/2024",
+        "mileage": 5000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38394,
+        "total_price": 38394,
+        "deposit": 0,
+        "balance": 38394,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 805.91,
+        "final_payment": 806.91,
+        "total_amount_payable": 48355.6,
+        "total_charge_for_credit": 9961.6,
+        "amount_of_credit": 38394,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

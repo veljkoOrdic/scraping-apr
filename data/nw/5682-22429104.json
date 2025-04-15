@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:44:45.221Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-cars/vauxhall/corsa/design/12-design-hatchback-5dr-petrol-manual-euro-6-75-ps/36227",
+    "dealer_id": "5682",
+    "car_id": "22429104",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT73VXM",
+        "registration_date": "21/09/2023",
+        "mileage": 12999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13450,
+        "total_price": 13450,
+        "deposit": 1000,
+        "balance": 12450,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 318.09,
+        "final_payment": 319.09,
+        "total_amount_payable": 16269.32,
+        "total_charge_for_credit": 2819.32,
+        "amount_of_credit": 12450,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13450,
+        "total_price": 13450,
+        "deposit": 1000,
+        "balance": 12450,
+        "apr": 10.9,
+        "rate_of_interest": 5.38,
+        "term": 49,
+        "regular_payment": 236.9,
+        "final_payment": 4848.7,
+        "total_amount_payable": 17219.9,
+        "total_charge_for_credit": 3769.9,
+        "amount_of_credit": 12450,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 4847.7,
+        "price_to_buy": 4848.7
+      }
+    ]
+  }
+]

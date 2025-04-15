@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:34:43.355Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.craignairncarworld.co.uk/used-fiat-500x-kirkcaldy-fife-5011439",
+    "dealer_id": "362",
+    "car_id": "19997521",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WM16N",
+        "registration_date": "31/05/2016",
+        "mileage": 65000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749,
+        "balance": 6746,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 141.59,
+        "final_payment": 142.59,
+        "total_amount_payable": 9245.4,
+        "total_charge_for_credit": 1750.4,
+        "amount_of_credit": 6746,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

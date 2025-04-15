@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:28:45.084Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-porsche-718-bayford-hertfordshire-6073753",
+    "dealer_id": "3049",
+    "car_id": "24553249",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA17MJA",
+        "registration_date": "17/03/2017",
+        "mileage": 15000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39950,
+        "total_price": 39950,
+        "deposit": 3995,
+        "balance": 35955,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 738.64,
+        "final_payment": 739.64,
+        "total_amount_payable": 48314.4,
+        "total_charge_for_credit": 8364.4,
+        "amount_of_credit": 35955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

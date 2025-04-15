@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:49:46.996Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitethorcars.co.uk/details/used-car-in-leicester/mercedes-benz/cls/2.9-cls400d-amg-line-premium-plus-coupe-g-tronic-4matic-euro-6-ss-4dr/1319652/",
+    "dealer_id": "397",
+    "car_id": "26314775",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NC19LKM",
+        "registration_date": "30/05/2019",
+        "mileage": 58500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28500,
+        "total_price": 28500,
+        "deposit": 0,
+        "balance": 28500,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 611.02,
+        "final_payment": 612.02,
+        "total_amount_payable": 36662.2,
+        "total_charge_for_credit": 8162.2,
+        "amount_of_credit": 28500,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

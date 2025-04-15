@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:30:56.463Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eclipsecarsales.co.uk/used-mercedes-benz-slk-winchester-hampshire-6054103",
+    "dealer_id": "4402",
+    "car_id": "24459291",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "TC03TAZ",
+        "registration_date": "30/09/2015",
+        "mileage": 34500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13295,
+        "total_price": 13295,
+        "deposit": 1000,
+        "balance": 12295,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 258.07,
+        "final_payment": 259.07,
+        "total_amount_payable": 16485.2,
+        "total_charge_for_credit": 3190.2,
+        "amount_of_credit": 12295,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

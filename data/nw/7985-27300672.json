@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:37:39.126Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-mercedes-benz-v-class-20-v220d-amg-line-mpv-5dr-die-mpv-black-automatic-diesel/id-14892/",
+    "dealer_id": "7985",
+    "car_id": "27300672",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX69ZGG",
+        "registration_date": "25/09/2019",
+        "mileage": 53000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43950,
+        "total_price": 43950,
+        "deposit": 6592,
+        "balance": 37358,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 784.16,
+        "final_payment": 785.16,
+        "total_amount_payable": 53642.6,
+        "total_charge_for_credit": 9692.6,
+        "amount_of_credit": 37358,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

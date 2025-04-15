@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:02:47.435Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashmotorsltd.co.uk/cars/volkswagen/golf/2.0-tdi-bluemotion-tech-gtd/1168449/",
+    "dealer_id": "6930",
+    "car_id": "24392099",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK16SGX",
+        "registration_date": "15/04/2016",
+        "mileage": 75000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 258.74,
+        "final_payment": 259.74,
+        "total_amount_payable": 16924.9,
+        "total_charge_for_credit": 2929.9,
+        "amount_of_credit": 12595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

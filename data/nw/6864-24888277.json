@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T03:36:33.464Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.theroxburghegroup.com/used-vauxhall-grandland-x-birmingham-west-midlands-6107870",
+    "dealer_id": "6864",
+    "car_id": "24888277",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OXZ8125",
+        "registration_date": "05/11/2020",
+        "mileage": 86500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8599,
+        "total_price": 8599,
+        "deposit": 859,
+        "balance": 7740,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 162.47,
+        "final_payment": 162.47,
+        "total_amount_payable": 10607.2,
+        "total_charge_for_credit": 2008.2,
+        "amount_of_credit": 7740,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8599,
+        "total_price": 8599,
+        "deposit": 859,
+        "balance": 7740,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 46,
+        "regular_payment": 134.65,
+        "final_payment": 3816,
+        "total_amount_payable": 10734.25,
+        "total_charge_for_credit": 2135.25,
+        "amount_of_credit": 7740,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 9000,
+        "contract_mileage": 34500,
+        "excess_mileage_rate": 0,
+        "residual": 3806,
+        "price_to_buy": 3816
+      }
+    ]
+  }
+]

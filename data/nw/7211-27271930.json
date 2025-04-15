@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:52:18.395Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.leicestervancentre.com/used-mercedes-benz-sprinter-leicester-leicestershire-6748671",
+    "dealer_id": "7211",
+    "car_id": "27271930",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR73LRU",
+        "registration_date": "30/10/2023",
+        "mileage": 18800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34788,
+        "total_price": 34788,
+        "deposit": 11596,
+        "balance": 23192,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 497.23,
+        "final_payment": 497.23,
+        "total_amount_payable": 41429.8,
+        "total_charge_for_credit": 6641.8,
+        "amount_of_credit": 23192,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:24:14.838Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rdmdirect.co.uk/used-ford-roller-team-burton-on-trent-staffordshire-6095586",
+    "dealer_id": "131",
+    "car_id": "24631042",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WX18CYO",
+        "registration_date": "16/06/2018",
+        "mileage": 9096,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47000,
+        "total_price": 47000,
+        "deposit": 300,
+        "balance": 46700,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 48,
+        "regular_payment": 1231.71,
+        "final_payment": 1281.71,
+        "total_amount_payable": 59522.08,
+        "total_charge_for_credit": 12522.08,
+        "amount_of_credit": 46700,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

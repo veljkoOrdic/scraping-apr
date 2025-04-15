@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:38:55.577Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chromemotors.co.uk/used-porsche-cayenne-stockport-cheshire-4861629",
+    "dealer_id": "3679",
+    "car_id": "26381827",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VK16ZJX",
+        "registration_date": "26/05/2016",
+        "mileage": 95863,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 0,
+        "balance": 20995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 440.69,
+        "final_payment": 441.69,
+        "total_amount_payable": 26442.4,
+        "total_charge_for_credit": 5447.4,
+        "amount_of_credit": 20995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

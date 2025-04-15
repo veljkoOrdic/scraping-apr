@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:37:58.958Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.avantiautomotive.co.uk/vehicle-details/used-ford-ranger-tdci-wildtrak-for-sale-in-bristol-gloucestershire-u3837/",
+    "dealer_id": "5434",
+    "car_id": "23562102",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SO18XXB",
+        "registration_date": "15/06/2018",
+        "mileage": 72957,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 1000,
+        "balance": 21000,
+        "apr": 12.7,
+        "rate_of_interest": 6.72,
+        "term": 60,
+        "regular_payment": 467.67,
+        "final_payment": 468.67,
+        "total_amount_payable": 29061.2,
+        "total_charge_for_credit": 7061.2,
+        "amount_of_credit": 21000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 1000,
+        "balance": 21000,
+        "apr": 12.7,
+        "rate_of_interest": 6.48,
+        "term": 27,
+        "regular_payment": 705.65,
+        "final_payment": 6435,
+        "total_amount_payable": 25781.9,
+        "total_charge_for_credit": 3781.9,
+        "amount_of_credit": 21000,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 22500,
+        "excess_mileage_rate": 0.12,
+        "residual": 6425,
+        "price_to_buy": 6435
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:23:51.955Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/kia/kia-stonic-1-0t-gdi-99-2-5dr/",
+    "dealer_id": "7286",
+    "car_id": "21448596",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RF21EGE",
+        "registration_date": "16/06/2021",
+        "mileage": 22753,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 0,
+        "balance": 13495,
+        "apr": 11.9,
+        "rate_of_interest": 11.27,
+        "term": 48,
+        "regular_payment": 350.73,
+        "final_payment": 350.73,
+        "total_amount_payable": 16835.04,
+        "total_charge_for_credit": 3340.04,
+        "amount_of_credit": 13495,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 0,
+        "balance": 13495,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 267.31,
+        "final_payment": 5300,
+        "total_amount_payable": 17863.57,
+        "total_charge_for_credit": 4368.57,
+        "amount_of_credit": 13495,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.04,
+        "residual": 5290,
+        "price_to_buy": 5300
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:25:26.766Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rdmdirect.co.uk/used-mclaren-540c-burton-on-trent-staffordshire-4685427",
+    "dealer_id": "131",
+    "car_id": "18666699",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF17AFY",
+        "registration_date": "03/07/2017",
+        "mileage": 24378,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 70000,
+        "total_price": 70000,
+        "deposit": 300,
+        "balance": 69700,
+        "apr": 12.8,
+        "rate_of_interest": 6.65,
+        "term": 48,
+        "regular_payment": 1838.34,
+        "final_payment": 1888.34,
+        "total_amount_payable": 88640.32,
+        "total_charge_for_credit": 18640.32,
+        "amount_of_credit": 69700,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

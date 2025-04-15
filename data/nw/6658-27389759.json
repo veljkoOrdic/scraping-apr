@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:16:29.556Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-volkswagen-golf-15-tsi-life-hatchback-5dr-pet-hatchback-urano-grey-manual-petrol/id-6839/",
+    "dealer_id": "6658",
+    "car_id": "27389759",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF70GJE",
+        "registration_date": "22/01/2021",
+        "mileage": 12900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 5248,
+        "balance": 12247,
+        "apr": 13.4,
+        "rate_of_interest": 13.36,
+        "term": 48,
+        "regular_payment": 326.18,
+        "final_payment": 336.18,
+        "total_amount_payable": 20914.64,
+        "total_charge_for_credit": 3419.64,
+        "amount_of_credit": 12247,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 5248,
+        "balance": 12247,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 207.71,
+        "final_payment": 7570,
+        "total_amount_payable": 22580.37,
+        "total_charge_for_credit": 5085.37,
+        "amount_of_credit": 12247,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.072,
+        "residual": 7560,
+        "price_to_buy": 7570
+      }
+    ]
+  }
+]

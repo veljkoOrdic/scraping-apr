@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T01:56:56.997Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.victoriamotorsltd.co.uk/used-volkswagen-golf-nr-gillingham-dorset-6195287",
+    "dealer_id": "6567",
+    "car_id": "25207032",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NV21JYX",
+        "registration_date": "26/05/2021",
+        "mileage": 5310,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 949,
+        "balance": 18046,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 390.84,
+        "final_payment": 400.84,
+        "total_amount_payable": 24409.4,
+        "total_charge_for_credit": 5414.4,
+        "amount_of_credit": 18046,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 949,
+        "balance": 18046,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 49,
+        "regular_payment": 333.54,
+        "final_payment": 7930,
+        "total_amount_payable": 24888.92,
+        "total_charge_for_credit": 5893.92,
+        "amount_of_credit": 18046,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 7920,
+        "price_to_buy": 7930
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:56:46.342Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.castlemotors.net/vehicle-details/used-bmw-5-series-530i-se-for-sale-in-hampshire-u6099/",
+    "dealer_id": "509",
+    "car_id": "26210639",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV67ETU",
+        "registration_date": "08/09/2017",
+        "mileage": 46042,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16950,
+        "total_price": 16950,
+        "deposit": 3390,
+        "balance": 13560,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 278.56,
+        "final_payment": 279.56,
+        "total_amount_payable": 20104.6,
+        "total_charge_for_credit": 3154.6,
+        "amount_of_credit": 13560,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16950,
+        "total_price": 16950,
+        "deposit": 3390,
+        "balance": 13560,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 28,
+        "regular_payment": 265.91,
+        "final_payment": 8602,
+        "total_amount_payable": 19171.57,
+        "total_charge_for_credit": 2221.57,
+        "amount_of_credit": 13560,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "contract_mileage": 28000,
+        "excess_mileage_rate": 0.06,
+        "residual": 8601,
+        "price_to_buy": 8602
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:22:32.376Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.a-t-car-sales.co.uk/details/used-car-in-corby/vauxhall/corsa/1.4i-ecoflex-energy-euro-6-3dr-ac/1416399/",
+    "dealer_id": "2884",
+    "car_id": "27533207",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LK65LHV",
+        "registration_date": "29/09/2015",
+        "mileage": 86400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 399.5,
+        "balance": 3595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 75.46,
+        "final_payment": 76.46,
+        "total_amount_payable": 4928.1,
+        "total_charge_for_credit": 933.1,
+        "amount_of_credit": 3595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

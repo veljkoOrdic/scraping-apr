@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:12:30.947Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-lotus-emira--newark-nottinghamshire-6653566",
+    "dealer_id": "2240",
+    "car_id": "26897252",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP72HCV",
+        "registration_date": "26/01/2023",
+        "mileage": 2835,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 58911,
+        "total_price": 58911,
+        "deposit": 2945,
+        "balance": 55966,
+        "apr": 12.7,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 1242.91,
+        "final_payment": 1292.91,
+        "total_amount_payable": 77619.6,
+        "total_charge_for_credit": 18708.6,
+        "amount_of_credit": 55966,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 58911,
+        "total_price": 58911,
+        "deposit": 2945,
+        "balance": 55966,
+        "apr": 12.4,
+        "rate_of_interest": 6.45,
+        "term": 48,
+        "regular_payment": 1014.26544245755,
+        "final_payment": 28585.52,
+        "total_amount_payable": 79201,
+        "total_charge_for_credit": 20290,
+        "amount_of_credit": 55966,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.12,
+        "residual": 27561.25,
+        "price_to_buy": 28585.52
+      }
+    ]
+  }
+]

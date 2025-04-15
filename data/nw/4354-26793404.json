@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:23:46.138Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.my1stmotorcar.co.uk/used-cars/mercedes/glc-diesel-white-coupe-FY68KJU",
+    "dealer_id": "4354",
+    "car_id": "26793404",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY68KJU",
+        "registration_date": "27/09/2018",
+        "mileage": 74081,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20989,
+        "total_price": 20989,
+        "deposit": 0,
+        "balance": 20989,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 545.33,
+        "final_payment": 555.33,
+        "total_amount_payable": 26185.84,
+        "total_charge_for_credit": 5196.84,
+        "amount_of_credit": 20989,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

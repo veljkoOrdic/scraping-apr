@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:45:19.439Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mattjohnsonprestigecars.co.uk/used/cars/volkswagen/tiguan-allspace/r-line-tech-tsi-evo-dsg-1946",
+    "dealer_id": "8561",
+    "car_id": "26940320",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD71NLU",
+        "registration_date": "18/10/2021",
+        "mileage": 12500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28950,
+        "total_price": 28950,
+        "deposit": 2895,
+        "balance": 26055,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 665.7,
+        "final_payment": 666.7,
+        "total_amount_payable": 34849.6,
+        "total_charge_for_credit": 5899.6,
+        "amount_of_credit": 26055,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28950,
+        "total_price": 28950,
+        "deposit": 2895,
+        "balance": 26055,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 49,
+        "regular_payment": 445.41,
+        "final_payment": 13155.4,
+        "total_amount_payable": 37430.08,
+        "total_charge_for_credit": 8480.08,
+        "amount_of_credit": 26055,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.14,
+        "residual": 13154.4,
+        "price_to_buy": 13155.4
+      }
+    ]
+  }
+]

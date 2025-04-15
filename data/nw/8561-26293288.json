@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:44:49.912Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mattjohnsonprestigecars.co.uk/used/cars/ford/tourneo-connect/titanium-ecoblue-1882",
+    "dealer_id": "8561",
+    "car_id": "26293288",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB73VVG",
+        "registration_date": "31/01/2024",
+        "mileage": 2000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19950,
+        "total_price": 19950,
+        "deposit": 1995,
+        "balance": 17955,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 458.74,
+        "final_payment": 459.74,
+        "total_amount_payable": 24015.52,
+        "total_charge_for_credit": 4065.52,
+        "amount_of_credit": 17955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19950,
+        "total_price": 19950,
+        "deposit": 1995,
+        "balance": 17955,
+        "apr": 10.9,
+        "rate_of_interest": 5.26,
+        "term": 49,
+        "regular_payment": 253.52,
+        "final_payment": 12255.62,
+        "total_amount_payable": 26419.58,
+        "total_charge_for_credit": 6469.58,
+        "amount_of_credit": 17955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.14,
+        "residual": 12254.62,
+        "price_to_buy": 12255.62
+      }
+    ]
+  }
+]

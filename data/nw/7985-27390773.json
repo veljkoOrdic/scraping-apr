@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:38:56.306Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-porsche-911-30t-992-carrera-s-coupe-2dr-p-coupe-black-automatic-petrol/id-13213/",
+    "dealer_id": "7985",
+    "car_id": "27390773",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK74FKA",
+        "registration_date": "20/09/2024",
+        "mileage": 700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 108000,
+        "total_price": 108000,
+        "deposit": 16200,
+        "balance": 75000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1574.29,
+        "final_payment": 1575.29,
+        "total_amount_payable": 127458.4,
+        "total_charge_for_credit": 19458.4,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 108000,
+        "total_price": 108000,
+        "deposit": 16200,
+        "balance": 91800,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 1401.94,
+        "final_payment": 52891.75,
+        "total_amount_payable": 136384.87,
+        "total_charge_for_credit": 28384.87,
+        "amount_of_credit": 91800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.56,
+        "residual": 52890.75,
+        "price_to_buy": 52891.75
+      }
+    ]
+  }
+]

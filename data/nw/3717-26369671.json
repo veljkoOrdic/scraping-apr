@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:44:21.056Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westcountrycarsyeovil.co.uk/used-volvo-xc40-yeovil-somerset-6519890",
+    "dealer_id": "3717",
+    "car_id": "26369671",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WT69TDU",
+        "registration_date": "23/09/2019",
+        "mileage": 24402,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 2550,
+        "balance": 22950,
+        "apr": 9.4,
+        "rate_of_interest": 4.86,
+        "term": 48,
+        "regular_payment": 571.13,
+        "final_payment": 581.13,
+        "total_amount_payable": 29974.24,
+        "total_charge_for_credit": 4474.24,
+        "amount_of_credit": 22950,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

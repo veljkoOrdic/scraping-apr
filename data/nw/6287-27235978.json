@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:51:10.008Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/landrover/rangerovervelar/5.0-p550-svautobiography-dynamic-editioncherished-exampleland-rover-main-dealer-historyamazing-at/1395679/",
+    "dealer_id": "6287",
+    "car_id": "27235978",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV20DXJ",
+        "registration_date": "23/06/2020",
+        "mileage": 51048,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41970,
+        "total_price": 41970,
+        "deposit": 4197,
+        "balance": 37773,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 809.83,
+        "final_payment": 810.83,
+        "total_amount_payable": 52787.8,
+        "total_charge_for_credit": 10817.8,
+        "amount_of_credit": 37773,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41970,
+        "total_price": 41970,
+        "deposit": 4197,
+        "balance": 37773,
+        "apr": 10.9,
+        "rate_of_interest": 5.31,
+        "term": 49,
+        "regular_payment": 608.5,
+        "final_payment": 21295,
+        "total_amount_payable": 54700,
+        "total_charge_for_credit": 12730,
+        "amount_of_credit": 37773,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 21294,
+        "price_to_buy": 21295
+      }
+    ]
+  }
+]

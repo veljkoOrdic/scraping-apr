@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:09:39.620Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hawkins.co.uk/used-car-details/used-mg-mg-zs-15-vti-tech-106-bhp-excite-hatchback-blue-manual-petrol/id-13069/",
+    "dealer_id": "5724",
+    "car_id": "22144308",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WL72EGC",
+        "registration_date": "31/01/2023",
+        "mileage": 8000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 1449,
+        "balance": 13050,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 285.66,
+        "final_payment": 286.66,
+        "total_amount_payable": 18589.6,
+        "total_charge_for_credit": 4090.6,
+        "amount_of_credit": 13050,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 1449,
+        "balance": 13050,
+        "apr": 11.9,
+        "rate_of_interest": 5.85,
+        "term": 49,
+        "regular_payment": 248.33,
+        "final_payment": 5531.5,
+        "total_amount_payable": 18900.34,
+        "total_charge_for_credit": 4401.34,
+        "amount_of_credit": 13050,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5530.5,
+        "price_to_buy": 5531.5
+      }
+    ]
+  }
+]

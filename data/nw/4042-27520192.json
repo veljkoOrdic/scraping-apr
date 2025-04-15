@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:14:35.670Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wirralcarsales.com/used-vauxhall-corsa-ellesmere-port-cheshire-6790727",
+    "dealer_id": "4042",
+    "car_id": "27520192",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG65ZRL",
+        "registration_date": "13/11/2015",
+        "mileage": 100300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4000,
+        "total_price": 4000,
+        "deposit": 400,
+        "balance": 3600,
+        "apr": 11.5,
+        "rate_of_interest": 6.01,
+        "term": 60,
+        "regular_payment": 78.03,
+        "final_payment": 88.03,
+        "total_amount_payable": 5091.8,
+        "total_charge_for_credit": 1091.8,
+        "amount_of_credit": 3600,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

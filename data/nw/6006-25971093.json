@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:11:06.195Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lamborghini-urus-s-5doors-suv-automatic-petrol?id=1386140",
+    "dealer_id": "6006",
+    "car_id": "25971093",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE72YYC",
+        "registration_date": "10/02/2023",
+        "mileage": 2688,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 229950,
+        "total_price": 229950,
+        "deposit": 0,
+        "balance": 229950,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 5925.05,
+        "final_payment": 5935.05,
+        "total_amount_payable": 284412.4,
+        "total_charge_for_credit": 54462.4,
+        "amount_of_credit": 229950,
+        "lender": "Automobili Lamborghini S.p.A.",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

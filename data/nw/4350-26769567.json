@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:19:28.744Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macsonscars.co.uk/cars/mercedes-benz/slclass/3.5-sl350-v6-blueefficiency/1043310/",
+    "dealer_id": "4350",
+    "car_id": "26769567",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF63LFA",
+        "registration_date": "06/09/2013",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 10.9,
+        "rate_of_interest": 5.62,
+        "term": 40,
+        "regular_payment": 480.62,
+        "final_payment": 481.62,
+        "total_amount_payable": 21024.8,
+        "total_charge_for_credit": 3034.8,
+        "amount_of_credit": 16191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:16:14.625Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yorkshirevehiclesolutions.co.uk/used/aston-martin/vanquish/v12-22-2dr-touchtronic-auto/harrogate/north-yorkshire/21582399",
+    "dealer_id": "6406",
+    "car_id": "27782234",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "15LD",
+        "registration_date": "25/03/2013",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 35,
+        "regular_payment": 1919.44,
+        "final_payment": 1920.44,
+        "total_amount_payable": 73680.9,
+        "total_charge_for_credit": 8685.9,
+        "amount_of_credit": 58495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

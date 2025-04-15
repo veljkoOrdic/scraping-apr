@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:52:26.872Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seabournemotorco.co.uk/details/used-car-in-bournemouth/lexus/rc/2.5-300h-f-sport-cvt-euro-6-ss-2dr/630236/",
+    "dealer_id": "7828",
+    "car_id": "26814816",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ65ZGY",
+        "registration_date": "29/12/2015",
+        "mileage": 47000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 0,
+        "balance": 16995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 364.36,
+        "final_payment": 365.36,
+        "total_amount_payable": 21862.6,
+        "total_charge_for_credit": 4867.6,
+        "amount_of_credit": 16995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

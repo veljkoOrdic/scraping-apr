@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:59:18.521Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tonesusedcars.com/used-bentley-mulsanne-hartlepool-county-durham-5347678",
+    "dealer_id": "4304",
+    "car_id": "21417772",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC65AFX",
+        "registration_date": "28/11/2015",
+        "mileage": 23925,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 74995,
+        "total_price": 74995,
+        "deposit": 0,
+        "balance": 74995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1641.67,
+        "final_payment": 1642.67,
+        "total_amount_payable": 98501.2,
+        "total_charge_for_credit": 23506.2,
+        "amount_of_credit": 74995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

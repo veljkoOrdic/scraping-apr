@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:01:02.579Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkilkennycars.co.uk/used-saab-9-3-edinburgh-scotland-2902934",
+    "dealer_id": "4824",
+    "car_id": "11547896",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV08OGC",
+        "registration_date": "27/06/2008",
+        "mileage": 68641,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6750,
+        "total_price": 6750,
+        "deposit": 0,
+        "balance": 6750,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 178.71,
+        "final_payment": 178.71,
+        "total_amount_payable": 10722.6,
+        "total_charge_for_credit": 3972.6,
+        "amount_of_credit": 6750,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

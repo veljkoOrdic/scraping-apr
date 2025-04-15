@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:37:30.813Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carsalesni.com/used-bmw-x7-omagh-fermanagh-6828444",
+    "dealer_id": "5912",
+    "car_id": "27621128",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ70VXL",
+        "registration_date": "04/02/2021",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51900,
+        "total_price": 51900,
+        "deposit": 5190,
+        "balance": 46710,
+        "apr": 9.9,
+        "rate_of_interest": 5.21,
+        "term": 60,
+        "regular_payment": 981.3,
+        "final_payment": 982.3,
+        "total_amount_payable": 64069,
+        "total_charge_for_credit": 12169,
+        "amount_of_credit": 46710,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51900,
+        "total_price": 51900,
+        "deposit": 5190,
+        "balance": 46710,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 757.39,
+        "final_payment": 24400.71,
+        "total_amount_payable": 65945.43,
+        "total_charge_for_credit": 14045.43,
+        "amount_of_credit": 46710,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 24399.71,
+        "price_to_buy": 24400.71
+      }
+    ]
+  }
+]

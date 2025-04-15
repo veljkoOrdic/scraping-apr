@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:30:55.507Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jlvans.co.uk/vehicle-details/used-mercedes-benz-sprinter-315-cdi-progressive-l2h2-euro-6-150ps-ac-for-sale-in-warrington-cheshire-u1696/",
+    "dealer_id": "7155",
+    "car_id": "27219459",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BD72VXN",
+        "registration_date": "06/12/2022",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 4250,
+        "balance": 21250,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 465.16,
+        "final_payment": 466.16,
+        "total_amount_payable": 32160.6,
+        "total_charge_for_credit": 6660.6,
+        "amount_of_credit": 21250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

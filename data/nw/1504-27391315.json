@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:29:18.099Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ovms.co.uk/used-car-details/used-land-rover-defender-30-d300-mhev-x-dynamic-hse-ha-automatic-diesel/id-202503110019236/",
+    "dealer_id": "1504",
+    "car_id": "27391315",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BD24SNV",
+        "registration_date": "24/04/2024",
+        "mileage": 14715,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72594,
+        "total_price": 72594,
+        "deposit": 1000,
+        "balance": 71594,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 1599.62,
+        "final_payment": 1599.62,
+        "total_amount_payable": 96977.2,
+        "total_charge_for_credit": 24383.2,
+        "amount_of_credit": 71594,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 72594,
+        "total_price": 72594,
+        "deposit": 6049.5,
+        "balance": 66544.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 49,
+        "regular_payment": 1350.11,
+        "final_payment": 25375,
+        "balloon": 25365,
+        "total_amount_payable": 96229.78,
+        "total_charge_for_credit": 23635.78,
+        "amount_of_credit": 66544.5,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 25365,
+        "price_to_buy": 25375
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:28:38.115Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuegarageltd.co.uk/used-porsche-macan-dunstable-bedfordshire-6609598",
+    "dealer_id": "1894",
+    "car_id": "26732342",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GF67BFX",
+        "registration_date": "16/10/2017",
+        "mileage": 48345,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31888,
+        "total_price": 31888,
+        "deposit": 3188,
+        "balance": 28700,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 628.25,
+        "final_payment": 629.25,
+        "total_amount_payable": 40884,
+        "total_charge_for_credit": 8996,
+        "amount_of_credit": 28700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:30:29.751Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-vauxhall-combo-derry-county-londonderry-6619046",
+    "dealer_id": "5905",
+    "car_id": "27702987",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BL66OHZ",
+        "registration_date": "28/02/2017",
+        "mileage": 100515,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 249,
+        "balance": 4746,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 58,
+        "regular_payment": 106.55,
+        "final_payment": 107.55,
+        "total_amount_payable": 6429.9,
+        "total_charge_for_credit": 1434.9,
+        "amount_of_credit": 4746,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

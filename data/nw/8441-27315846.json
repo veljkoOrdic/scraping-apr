@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:09:49.587Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grahammarshcarsales.co.uk/used-toyota-yaris-herne-bay-kent-6764042",
+    "dealer_id": "8441",
+    "car_id": "27315846",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ21KPF",
+        "registration_date": "01/04/2021",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649,
+        "balance": 14846,
+        "apr": 13.1,
+        "rate_of_interest": 6.91,
+        "term": 60,
+        "regular_payment": 332.93,
+        "final_payment": 342.93,
+        "total_amount_payable": 21634.8,
+        "total_charge_for_credit": 5139.8,
+        "amount_of_credit": 14846,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649,
+        "balance": 14846,
+        "apr": 13.1,
+        "rate_of_interest": 6.82,
+        "term": 49,
+        "regular_payment": 294.26,
+        "final_payment": 6198,
+        "total_amount_payable": 21971.48,
+        "total_charge_for_credit": 5476.48,
+        "amount_of_credit": 14846,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 6188,
+        "price_to_buy": 6198
+      }
+    ]
+  }
+]

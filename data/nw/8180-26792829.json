@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:53:50.665Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.platinumcarsalesltd.co.uk/used-cars/merthyr-tydfil-jaguar-f-pace-r-sport-auto-2486/",
+    "dealer_id": "8180",
+    "car_id": "26792829",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF67VUH",
+        "registration_date": "22/09/2017",
+        "mileage": 68000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 406.71,
+        "final_payment": 406.71,
+        "total_amount_payable": 21321.58,
+        "total_charge_for_credit": 3326.58,
+        "amount_of_credit": 16195.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

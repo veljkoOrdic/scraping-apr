@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:37:33.777Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-ducati-1199-panigale-abs-sidcup-kent-6685110",
+    "dealer_id": "4251",
+    "car_id": "27016125",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP23VWW",
+        "registration_date": "24/08/2023",
+        "mileage": 746,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 1799,
+        "balance": 7196,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 147.83,
+        "final_payment": 148.83,
+        "total_amount_payable": 10669.8,
+        "total_charge_for_credit": 1674.8,
+        "amount_of_credit": 7196,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

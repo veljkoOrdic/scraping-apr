@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:09:16.771Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xways.co.uk/used-ford-focus-halstead-essex-5275949",
+    "dealer_id": "1035",
+    "car_id": "21122781",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS19UDL",
+        "registration_date": "07/03/2019",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12295,
+        "total_price": 12295,
+        "deposit": 1229,
+        "balance": 11066,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 232.28,
+        "final_payment": 232.28,
+        "total_amount_payable": 15165.8,
+        "total_charge_for_credit": 2870.8,
+        "amount_of_credit": 11066,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

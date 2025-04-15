@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:45:08.096Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.uplandsmotorcompany.co.uk/used-mini-countryman-cuffley-hertfordshire-6504247",
+    "dealer_id": "3203",
+    "car_id": "26315851",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU70JFE",
+        "registration_date": "23/10/2020",
+        "mileage": 17500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 433.22,
+        "final_payment": 434.22,
+        "total_amount_payable": 28193.2,
+        "total_charge_for_credit": 6203.2,
+        "amount_of_credit": 19791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 11.9,
+        "rate_of_interest": 5.84,
+        "term": 49,
+        "regular_payment": 373.02,
+        "final_payment": 8607.25,
+        "total_amount_payable": 28711.21,
+        "total_charge_for_credit": 6721.21,
+        "amount_of_credit": 19791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 8606.25,
+        "price_to_buy": 8607.25
+      }
+    ]
+  }
+]

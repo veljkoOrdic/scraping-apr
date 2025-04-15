@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:29:24.273Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-porsche-taycan-bayford-hertfordshire-6664253",
+    "dealer_id": "3049",
+    "car_id": "26942307",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA21TTE",
+        "registration_date": "23/07/2021",
+        "mileage": 28520,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52950,
+        "total_price": 52950,
+        "deposit": 5295,
+        "balance": 47655,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 979,
+        "final_payment": 980,
+        "total_amount_payable": 64036,
+        "total_charge_for_credit": 11086,
+        "amount_of_credit": 47655,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52950,
+        "total_price": 52950,
+        "deposit": 5295,
+        "balance": 47655,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 49,
+        "regular_payment": 766.11,
+        "final_payment": 23522.73,
+        "total_amount_payable": 65591.01,
+        "total_charge_for_credit": 12641.01,
+        "amount_of_credit": 47655,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 23521.73,
+        "price_to_buy": 23522.73
+      }
+    ]
+  }
+]

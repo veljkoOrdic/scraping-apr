@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:47:19.088Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.chapelhouse.co.uk/used/view/kia-rio-2-s-a-10/ld23xob/",
+    "dealer_id": "5952",
+    "car_id": "24264839",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD23XOB",
+        "registration_date": "13/03/2023",
+        "mileage": 2575,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1000,
+        "balance": 14995,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 48,
+        "regular_payment": 396.31,
+        "final_payment": 396.31,
+        "total_amount_payable": 20022.88,
+        "total_charge_for_credit": 4027.88,
+        "amount_of_credit": 14995,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1000,
+        "balance": 14995,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 48,
+        "regular_payment": 296.49,
+        "final_payment": 6433,
+        "total_amount_payable": 21368.03,
+        "total_charge_for_credit": 5373.03,
+        "amount_of_credit": 14995,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.04,
+        "residual": 6423,
+        "price_to_buy": 6433
+      }
+    ]
+  }
+]

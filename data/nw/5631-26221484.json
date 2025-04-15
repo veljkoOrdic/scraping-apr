@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:25:40.223Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/porsche/911/targa-4s-3-8-pdk-3168",
+    "dealer_id": "5631",
+    "car_id": "26221484",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "W22SVW",
+        "registration_date": "01/12/2014",
+        "mileage": 30550,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65990,
+        "total_price": 65990,
+        "deposit": 10,
+        "balance": 65980,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 55,
+        "regular_payment": 1483.63,
+        "final_payment": 1484.63,
+        "total_amount_payable": 81610.65,
+        "total_charge_for_credit": 15620.65,
+        "amount_of_credit": 65980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

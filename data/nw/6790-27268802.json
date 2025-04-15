@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:44:47.940Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thegermancargroup.co.uk/cars/audi/q7/3.0-tdi-v6-50-black-edition/1398085/",
+    "dealer_id": "6790",
+    "car_id": "27268802",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ20XCK",
+        "registration_date": "19/03/2020",
+        "mileage": 47413,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41990,
+        "total_price": 41990,
+        "deposit": 4199,
+        "balance": 37791,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 949,
+        "final_payment": 950,
+        "total_amount_payable": 49752,
+        "total_charge_for_credit": 7762,
+        "amount_of_credit": 37791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41990,
+        "total_price": 41990,
+        "deposit": 4199,
+        "balance": 37791,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 702.09,
+        "final_payment": 18942,
+        "total_amount_payable": 56139.23,
+        "total_charge_for_credit": 14149.23,
+        "amount_of_credit": 37791,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.09,
+        "residual": 18941,
+        "price_to_buy": 18942
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:49:47.922Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorsolution4u.co.uk/cars/vauxhall/astra/1.6-cdti-ecotec-blueinjection-tech-line-nav/1440982/",
+    "dealer_id": "7800",
+    "car_id": "27781552",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR18KPP",
+        "registration_date": "23/07/2018",
+        "mileage": 63000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 649.5,
+        "balance": 5845.5,
+        "apr": 12.1,
+        "rate_of_interest": 6.35,
+        "term": 60,
+        "regular_payment": 128.37,
+        "final_payment": 138.37,
+        "total_amount_payable": 8361.7,
+        "total_charge_for_credit": 1866.7,
+        "amount_of_credit": 5845.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

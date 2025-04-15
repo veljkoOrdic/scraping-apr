@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:56:45.971Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rsgmotors.co.uk/used-volkswagen-polo-uxbridge-london-6684260",
+    "dealer_id": "6920",
+    "car_id": "27116752",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VX15NGZ",
+        "registration_date": "06/03/2015",
+        "mileage": 18977,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10650,
+        "total_price": 10650,
+        "deposit": 1065,
+        "balance": 9585,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 58,
+        "regular_payment": 219.52,
+        "final_payment": 220.52,
+        "total_amount_payable": 13798.16,
+        "total_charge_for_credit": 3148.16,
+        "amount_of_credit": 9585,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

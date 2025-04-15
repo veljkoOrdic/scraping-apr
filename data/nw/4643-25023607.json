@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:25:09.140Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carshunt.co.uk/details/used-car-in-havering/bmw/2seriesactivetourer/1.5-225xe-7.6kwh-sport-auto-4wd-euro-6-ss-5dr/1215106/",
+    "dealer_id": "4643",
+    "car_id": "25023607",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU70WXD",
+        "registration_date": "16/09/2020",
+        "mileage": 16383,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16250,
+        "total_price": 16250,
+        "deposit": 812.5,
+        "balance": 15437.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 324.03,
+        "final_payment": 325.03,
+        "total_amount_payable": 20255.3,
+        "total_charge_for_credit": 4005.3,
+        "amount_of_credit": 15437.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16250,
+        "total_price": 16250,
+        "deposit": 812.5,
+        "balance": 15437.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.91,
+        "term": 49,
+        "regular_payment": 293.21,
+        "final_payment": 5530.89,
+        "total_amount_payable": 20417.47,
+        "total_charge_for_credit": 4167.47,
+        "amount_of_credit": 15437.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5529.89,
+        "price_to_buy": 5530.89
+      }
+    ]
+  }
+]

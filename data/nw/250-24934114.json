@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:04:29.735Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.redburnmotorcompany.co.uk/used-vauxhall-astra-blyth-northumberland-6165544",
+    "dealer_id": "250",
+    "car_id": "24934114",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DV68HHM",
+        "registration_date": "30/09/2018",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10250,
+        "total_price": 10250,
+        "deposit": 2050,
+        "balance": 8200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 172.11,
+        "final_payment": 173.11,
+        "total_amount_payable": 12377.6,
+        "total_charge_for_credit": 2127.6,
+        "amount_of_credit": 8200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

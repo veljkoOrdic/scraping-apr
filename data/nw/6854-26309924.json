@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T03:25:01.451Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mhmotorsltd.com/used-citroen-dispatch-glengormly-county-antrim-5875861",
+    "dealer_id": "6854",
+    "car_id": "26309924",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DW68HBG",
+        "registration_date": "25/02/2019",
+        "mileage": 47665,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13194,
+        "total_price": 13194,
+        "deposit": 0,
+        "balance": 10995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 245.65,
+        "final_payment": 246.65,
+        "total_amount_payable": 16939,
+        "total_charge_for_credit": 3745,
+        "amount_of_credit": 10995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

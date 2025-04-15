@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:04:46.546Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorcars.co.uk/used/cars/ford/tourneo-custom/-sold-sport-l1-automatic-310-ecoblue-no-vat-euro-6-2717",
+    "dealer_id": "5302",
+    "car_id": "25952700",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT20JXX",
+        "registration_date": "31/07/2020",
+        "mileage": 47175,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31894,
+        "total_price": 31894,
+        "deposit": 7973.5,
+        "balance": 23920.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 523.62,
+        "final_payment": 524.62,
+        "total_amount_payable": 39391.7,
+        "total_charge_for_credit": 7497.7,
+        "amount_of_credit": 23920.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

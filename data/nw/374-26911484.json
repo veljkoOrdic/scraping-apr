@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:42:53.960Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cullodencarsales.co.uk/used/cars/ford/mustang/2-3-mustang-ecoboost-2dr-1604",
+    "dealer_id": "374",
+    "car_id": "26911484",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GM66ZMV",
+        "registration_date": "30/09/2016",
+        "mileage": 44454,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 0,
+        "balance": 21995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 471.57,
+        "final_payment": 472.57,
+        "total_amount_payable": 28295.2,
+        "total_charge_for_credit": 6300.2,
+        "amount_of_credit": 21995,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

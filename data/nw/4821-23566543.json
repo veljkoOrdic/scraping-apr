@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:59:15.004Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jmmotorsltd.co.uk/used-ford-transit-harefield-middlesex-5842870",
+    "dealer_id": "4821",
+    "car_id": "23566543",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS69VLC",
+        "registration_date": "27/11/2019",
+        "mileage": 49682,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18594,
+        "total_price": 18594,
+        "deposit": 0,
+        "balance": 15495,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 339.18,
+        "final_payment": 340.18,
+        "total_amount_payable": 23450.8,
+        "total_charge_for_credit": 4856.8,
+        "amount_of_credit": 15495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

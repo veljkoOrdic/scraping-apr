@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:48:13.323Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.billingcarandvancentre.co.uk/used/audi/s7/s7-tfsi-quattro-black-edition-5dr-s-tronic/northampton/northamptonshire/21441446",
+    "dealer_id": "4507",
+    "car_id": "25979180",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "N24NUN",
+        "registration_date": "29/09/2017",
+        "mileage": 48852,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 0,
+        "balance": 24990,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 638.49,
+        "final_payment": 639.49,
+        "total_amount_payable": 30648.52,
+        "total_charge_for_credit": 5658.52,
+        "amount_of_credit": 24990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

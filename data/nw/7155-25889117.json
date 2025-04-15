@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:30:50.509Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jlvans.co.uk/vehicle-details/used-peugeot-boxer-bluehdi-435-professional-mini-bus-l4-h2-euro-6-130ps-for-sale-in-warrington-cheshire-u1399/",
+    "dealer_id": "7155",
+    "car_id": "25889117",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DK66AUC",
+        "registration_date": "01/01/2017",
+        "mileage": 15000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21300,
+        "total_price": 21300,
+        "deposit": 3550,
+        "balance": 17750,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 56,
+        "regular_payment": 409.26,
+        "final_payment": 410.26,
+        "total_amount_payable": 26469.56,
+        "total_charge_for_credit": 5169.56,
+        "amount_of_credit": 17750,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

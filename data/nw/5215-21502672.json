@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:37:28.176Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sidegatemotorpark.com/details/used-car-in-great-yarmouth/peugeot/2008/1.2-puretech-gt-premium-euro-6-ss-5dr/966500/",
+    "dealer_id": "5215",
+    "car_id": "21502672",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG21ELO",
+        "registration_date": "30/04/2021",
+        "mileage": 14708,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16700,
+        "total_price": 16700,
+        "deposit": 0,
+        "balance": 16700,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 373.12,
+        "final_payment": 374.12,
+        "total_amount_payable": 22388.2,
+        "total_charge_for_credit": 5688.2,
+        "amount_of_credit": 16700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16700,
+        "total_price": 16700,
+        "deposit": 0,
+        "balance": 16700,
+        "apr": 12.9,
+        "rate_of_interest": 6.33,
+        "term": 49,
+        "regular_payment": 328.02,
+        "final_payment": 7038.77,
+        "total_amount_payable": 22783.73,
+        "total_charge_for_credit": 6083.73,
+        "amount_of_credit": 16700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7037.77,
+        "price_to_buy": 7038.77
+      }
+    ]
+  }
+]

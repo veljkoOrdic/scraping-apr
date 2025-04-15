@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:50:11.172Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mdpatrickmotors.co.uk/details/used-van-in-chester-le-street/volkswagen/caddymaxilife/2.0-tdi-bluemotion-tech-dsg-euro-6-ss-5dr/1313478/",
+    "dealer_id": "4270",
+    "car_id": "26247032",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ66GUE",
+        "registration_date": "09/09/2016",
+        "mileage": 20782,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 0,
+        "balance": 13745.83,
+        "apr": 9.9,
+        "rate_of_interest": 5.15,
+        "term": 52,
+        "regular_payment": 323.34,
+        "final_payment": 324.34,
+        "total_amount_payable": 19563.85,
+        "total_charge_for_credit": 3068.85,
+        "amount_of_credit": 13745.83,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

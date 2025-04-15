@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:42:03.005Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.moravianmotors.co.uk/used/ford/fiesta/active-edition-turbo/buckie/aberdeenshire/21052648",
+    "dealer_id": "7781",
+    "car_id": "22070132",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BT20UYM",
+        "registration_date": "31/07/2020",
+        "mileage": 27221,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 261.3,
+        "final_payment": 262.3,
+        "total_amount_payable": 16978.5,
+        "total_charge_for_credit": 3983.5,
+        "amount_of_credit": 11695.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.66,
+        "term": 40,
+        "regular_payment": 267.33,
+        "final_payment": 4680,
+        "total_amount_payable": 16405.37,
+        "total_charge_for_credit": 3410.37,
+        "amount_of_credit": 11695.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 26667,
+        "excess_mileage_rate": 0.125,
+        "residual": 4680,
+        "price_to_buy": 4680
+      }
+    ]
+  }
+]

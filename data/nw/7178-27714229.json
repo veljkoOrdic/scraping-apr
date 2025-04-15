@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:33:28.970Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.verdicars.com/details/used-car-in-redhill/astonmartin/rapide/6.0-v12-t-tronicii-euro-5-4dr/1434932/",
+    "dealer_id": "7178",
+    "car_id": "27714229",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN12CSX",
+        "registration_date": "15/03/2012",
+        "mileage": 16678,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43989,
+        "total_price": 43989,
+        "deposit": 2199.45,
+        "balance": 41789.55,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 22,
+        "regular_payment": 2076.75,
+        "final_payment": 2077.75,
+        "total_amount_payable": 47888.95,
+        "total_charge_for_credit": 3899.95,
+        "amount_of_credit": 41789.55,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

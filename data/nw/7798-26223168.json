@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:48:52.031Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jlc-motors.co.uk/details/prestige-car-in-bowers-gifford/mercedes-benz/aclass/1.6-a200-amg-night-edition-7g-dct-euro-6-ss-5dr/1311320/",
+    "dealer_id": "7798",
+    "car_id": "26223168",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV15POF",
+        "registration_date": "26/08/2015",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12390,
+        "total_price": 12390,
+        "deposit": 1239,
+        "balance": 11151,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 244.1,
+        "final_payment": 244.1,
+        "total_amount_payable": 15885,
+        "total_charge_for_credit": 3495,
+        "amount_of_credit": 11151,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

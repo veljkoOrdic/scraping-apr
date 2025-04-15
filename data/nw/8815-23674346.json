@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:25:22.803Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmotorcompanykingston.co.uk/used-land-rover-discovery-sport-new-malden-london-5029587",
+    "dealer_id": "8815",
+    "car_id": "23674346",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP68BNX",
+        "registration_date": "25/09/2018",
+        "mileage": 32500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099,
+        "balance": 18896,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 396.63,
+        "final_payment": 397.63,
+        "total_amount_payable": 25897.8,
+        "total_charge_for_credit": 4902.8,
+        "amount_of_credit": 18896,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

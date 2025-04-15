@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:48:52.418Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shadow-automotive.co.uk/used-audi-rs3-stamford-rutland-6672054",
+    "dealer_id": "8665",
+    "car_id": "27094076",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS69ABV",
+        "registration_date": "30/09/2019",
+        "mileage": 19654,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32795,
+        "total_price": 32795,
+        "deposit": 3279,
+        "balance": 29516,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 754.13,
+        "final_payment": 755.13,
+        "total_amount_payable": 39478.24,
+        "total_charge_for_credit": 6683.24,
+        "amount_of_credit": 29516,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

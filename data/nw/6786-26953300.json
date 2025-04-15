@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:44:16.626Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carpointuk.co.uk/details/used-car-in-newport/mercedes-benz/cla/1.6-cla180-amg-line-coupe-7g-dct-euro-6-ss-4dr/1370548/",
+    "dealer_id": "6786",
+    "car_id": "26953300",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN18XDU",
+        "registration_date": "30/04/2018",
+        "mileage": 25549,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16299,
+        "total_price": 16299,
+        "deposit": 500,
+        "balance": 15799,
+        "apr": 12.9,
+        "rate_of_interest": 6.68,
+        "term": 60,
+        "regular_payment": 351.28,
+        "final_payment": 401.28,
+        "total_amount_payable": 21676.8,
+        "total_charge_for_credit": 5377.8,
+        "amount_of_credit": 15799,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

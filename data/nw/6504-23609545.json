@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-15T01:42:51.628Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sbwakefield.co.uk/used/citroen/c3-aircross/12-puretech-110-shine-5dr/wakefield/west-yorkshire/21190637",
+    "dealer_id": "6504",
+    "car_id": "23609545",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK23VFA",
+        "registration_date": "31/03/2023",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13795,
+        "total_price": 13795,
+        "deposit": 1379.5,
+        "balance": 12415.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 227.15,
+        "final_payment": 6435,
+        "total_amount_payable": 18490.55,
+        "total_charge_for_credit": 4695.55,
+        "amount_of_credit": 12415.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 6435,
+        "price_to_buy": 6435
+      }
+    ]
+  }
+]

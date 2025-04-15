@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:16:02.189Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/mercedes-benz/m-class/ml350-bluetec-amg-sport-158",
+    "dealer_id": "8784",
+    "car_id": "23593570",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GD14TWM",
+        "registration_date": "24/06/2014",
+        "mileage": 98000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13700,
+        "total_price": 13700,
+        "deposit": 1370,
+        "balance": 12330,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 253.29,
+        "final_payment": 254.29,
+        "total_amount_payable": 16568.4,
+        "total_charge_for_credit": 2868.4,
+        "amount_of_credit": 12330,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

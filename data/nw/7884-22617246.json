@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:02:57.633Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1stchoicemotors.co.uk/used/ford/transit-custom/20-tdci-130ps-low-roof-van/london/greater-london/214104",
+    "dealer_id": "7884",
+    "car_id": "22617246",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LA19AEJ",
+        "registration_date": "29/07/2019",
+        "mileage": 86800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10794,
+        "total_price": 10794,
+        "deposit": 2500,
+        "balance": 6495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 136.32,
+        "final_payment": 137.32,
+        "total_amount_payable": 12479.2,
+        "total_charge_for_credit": 1685.2,
+        "amount_of_credit": 6495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:49:40.859Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitethorcars.co.uk/details/used-car-in-leicester/mercedes-benz/cclass/1.5-c200-mhev-amg-line-night-edition-premium-plus-g-tronic+-euro-6-ss-5dr/1374925/",
+    "dealer_id": "397",
+    "car_id": "27004565",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PO21UVB",
+        "registration_date": "15/03/2021",
+        "mileage": 51500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23350,
+        "total_price": 23350,
+        "deposit": 0,
+        "balance": 23350,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 500.61,
+        "final_payment": 501.61,
+        "total_amount_payable": 30037.6,
+        "total_charge_for_credit": 6687.6,
+        "amount_of_credit": 23350,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23350,
+        "total_price": 23350,
+        "deposit": 0,
+        "balance": 23350,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 459.43,
+        "final_payment": 8191,
+        "total_amount_payable": 30243.64,
+        "total_charge_for_credit": 6893.64,
+        "amount_of_credit": 23350,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0,
+        "residual": 8190,
+        "price_to_buy": 8191
+      }
+    ]
+  }
+]

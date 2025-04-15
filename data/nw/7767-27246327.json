@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-14T20:39:53.821Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thedonaldsgroup.com/used-car-details/used-volvo-xc90-ultra-t8-awd-plug-in-hybrid-el-automatic-petrol-plug-in-hybrid/id-202502279562040/",
+    "dealer_id": "7767",
+    "car_id": "27246327",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OW24UUT",
+        "registration_date": "25/07/2024",
+        "mileage": 2262,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 60409,
+        "total_price": 60409,
+        "deposit": 6040,
+        "balance": 54369,
+        "apr": 12.4,
+        "rate_of_interest": 6.46,
+        "term": 49,
+        "regular_payment": 978.95,
+        "final_payment": 27428.79,
+        "total_amount_payable": 80458.39,
+        "total_charge_for_credit": 20049.39,
+        "amount_of_credit": 54369,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.149,
+        "residual": 27428.79,
+        "price_to_buy": 27428.79
+      }
+    ]
+  }
+]

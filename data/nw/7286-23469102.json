@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:24:19.769Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/suzuki/suzuki-sx4-s-cross-1-4-boosterjet-48v-hybrid-ultra-allgrip-5dr/",
+    "dealer_id": "7286",
+    "car_id": "23469102",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S00B391",
+        "registration_date": "01/03/2024",
+        "mileage": 12,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31449,
+        "total_price": 31449,
+        "deposit": 0,
+        "balance": 31449,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 776,
+        "final_payment": 776,
+        "total_amount_payable": 37248,
+        "total_charge_for_credit": 5799,
+        "amount_of_credit": 31449,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31449,
+        "total_price": 31449,
+        "deposit": 0,
+        "balance": 31449,
+        "apr": 8.9,
+        "rate_of_interest": 8.55,
+        "term": 48,
+        "regular_payment": 609.4,
+        "final_payment": 10105,
+        "total_amount_payable": 38746.8,
+        "total_charge_for_credit": 7297.8,
+        "amount_of_credit": 31449,
+        "lender": "Suzuki Financial Services Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.04,
+        "residual": 10095,
+        "price_to_buy": 10105
+      }
+    ]
+  }
+]

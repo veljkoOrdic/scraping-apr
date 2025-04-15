@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:35:10.393Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajcars.com/used/fiat/500/1-2-colour-therapy-3dr/aetv25044837/",
+    "dealer_id": "4227",
+    "car_id": "26889093",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA63SYC",
+        "registration_date": "30/11/2013",
+        "mileage": 52991,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4200,
+        "total_price": 4200,
+        "deposit": 420,
+        "balance": 3780,
+        "apr": 12.9,
+        "rate_of_interest": 6.67,
+        "term": 43,
+        "regular_payment": 108.93,
+        "final_payment": 109.93,
+        "total_amount_payable": 5104.99,
+        "total_charge_for_credit": 904.99,
+        "amount_of_credit": 3780,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

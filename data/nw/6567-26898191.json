@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:56:30.156Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.victoriamotorsltd.co.uk/used-honda-hr-v-nr-gillingham-dorset-6626879",
+    "dealer_id": "6567",
+    "car_id": "26898191",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV66VUU",
+        "registration_date": "29/09/2016",
+        "mileage": 55200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 449,
+        "balance": 8546,
+        "apr": 11.4,
+        "rate_of_interest": 5.98,
+        "term": 60,
+        "regular_payment": 185.02,
+        "final_payment": 195.02,
+        "total_amount_payable": 11560.2,
+        "total_charge_for_credit": 2565.2,
+        "amount_of_credit": 8546,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

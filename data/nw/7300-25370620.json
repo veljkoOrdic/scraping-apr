@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:37:43.142Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nathanielcars.co.uk/cars/vauxhall-astra-ultimate/",
+    "dealer_id": "7300",
+    "car_id": "25370620",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF72EHC",
+        "registration_date": "12/12/2022",
+        "mileage": 10235,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 387.05,
+        "final_payment": 397.05,
+        "total_amount_payable": 25282.5,
+        "total_charge_for_credit": 4787.5,
+        "amount_of_credit": 18445.5,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 306.38,
+        "final_payment": 8539.5,
+        "total_amount_payable": 25295.24,
+        "total_charge_for_credit": 4800.24,
+        "amount_of_credit": 18445.5,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 8539.5,
+        "price_to_buy": 8539.5
+      }
+    ]
+  }
+]

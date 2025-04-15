@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:28:36.958Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lakesidecarsales.co.uk/used-vauxhall-corsa-redditch-worcestershire-6682864",
+    "dealer_id": "4687",
+    "car_id": "22316552",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE63UGU",
+        "registration_date": "30/10/2013",
+        "mileage": 19554,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5499,
+        "total_price": 5499,
+        "deposit": 0,
+        "balance": 5499,
+        "apr": 12.9,
+        "rate_of_interest": 6.67,
+        "term": 42,
+        "regular_payment": 161.49,
+        "final_payment": 162.49,
+        "total_amount_payable": 6783.58,
+        "total_charge_for_credit": 1284.58,
+        "amount_of_credit": 5499,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

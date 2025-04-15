@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:41:20.427Z",
+    "source": "new_vehicle_finance",
+    "url": "https://smithssportsandperformance.co.uk/vehicle-details/used-porsche-macan-t-v6-gts-for-sale-in-leicestershire-u55812/",
+    "dealer_id": "4727",
+    "car_id": "27649332",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ22VHD",
+        "registration_date": "30/04/2022",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 63495,
+        "total_price": 63495,
+        "deposit": 6349.5,
+        "balance": 57145.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1435.04,
+        "final_payment": 1436.04,
+        "total_amount_payable": 75232.42,
+        "total_charge_for_credit": 11737.42,
+        "amount_of_credit": 57145.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 63495,
+        "total_price": 63495,
+        "deposit": 6349.5,
+        "balance": 57145.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 993.54,
+        "final_payment": 25850.32,
+        "total_amount_payable": 79889.74,
+        "total_charge_for_credit": 16394.74,
+        "amount_of_credit": 57145.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 25849.32,
+        "price_to_buy": 25850.32
+      }
+    ]
+  }
+]

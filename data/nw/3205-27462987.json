@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:46:04.497Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tamworthroadcars.co.uk/details/used-car-in-nottingham/mazda/mazda6/2.2-skyactiv-d-sport-nav-auto-euro-6-ss-4dr/1414349/",
+    "dealer_id": "3205",
+    "car_id": "27462987",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG18YKF",
+        "registration_date": "01/03/2018",
+        "mileage": 67075,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9750,
+        "total_price": 9750,
+        "deposit": 975,
+        "balance": 8775,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 204.04,
+        "final_payment": 204.04,
+        "total_amount_payable": 13217.4,
+        "total_charge_for_credit": 3467.4,
+        "amount_of_credit": 8775,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

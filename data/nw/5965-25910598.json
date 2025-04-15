@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:52:21.082Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blakedowncarcompany.co.uk/details/car-in-wombourne/ford/mustang/5.0-v8-gt-fastback-euro-6-2dr/1284759/",
+    "dealer_id": "5965",
+    "car_id": "25910598",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY69VKK",
+        "registration_date": "30/09/2019",
+        "mileage": 28000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33999,
+        "total_price": 33999,
+        "deposit": 3399.9,
+        "balance": 30599.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 642.29,
+        "final_payment": 643.29,
+        "total_amount_payable": 41938.3,
+        "total_charge_for_credit": 7939.3,
+        "amount_of_credit": 30599.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33999,
+        "total_price": 33999,
+        "deposit": 3399.9,
+        "balance": 30599.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 527.59,
+        "final_payment": 15181,
+        "total_amount_payable": 43905.22,
+        "total_charge_for_credit": 9906.22,
+        "amount_of_credit": 30599.1,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 15181,
+        "price_to_buy": 15181
+      }
+    ]
+  }
+]

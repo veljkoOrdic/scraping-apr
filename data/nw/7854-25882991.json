@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:52:49.400Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bmvehicles.co.uk/details/used-car-in-letchworth-garden-city/mercedes-benz/cla/2.0-cla220-amg-line-premium-plus-coupe-7g-dct-euro-6-ss-4dr/1282640/",
+    "dealer_id": "7854",
+    "car_id": "25882991",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR69LLM",
+        "registration_date": "14/09/2019",
+        "mileage": 53000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 1000,
+        "balance": 21995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 542.9,
+        "final_payment": 552.9,
+        "total_amount_payable": 27612.1,
+        "total_charge_for_credit": 4617.1,
+        "amount_of_credit": 21995,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

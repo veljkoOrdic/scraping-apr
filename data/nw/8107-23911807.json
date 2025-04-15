@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:24:35.605Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/peugeot/expert/professional-premium-plus/15-bluehdi-1000-professional-premium-plus-long-panel-van-6dr-diesel-manual-lwb-euro-6-ss-100-bhp/36990",
+    "dealer_id": "8107",
+    "car_id": "23911807",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM23JHJ",
+        "registration_date": "31/05/2023",
+        "mileage": 12999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26278.8,
+        "total_price": 26278.8,
+        "deposit": 0,
+        "balance": 21899,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 559.52,
+        "final_payment": 560.52,
+        "total_amount_payable": 31237.76,
+        "total_charge_for_credit": 4958.96,
+        "amount_of_credit": 21899,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

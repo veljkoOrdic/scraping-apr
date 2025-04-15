@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:58:34.801Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotors.co.uk/details/car-in-westlothian/seat/leon/2.0-tsi-cupra-290-black-sport-coupe-euro-6-ss-3dr/1438286/",
+    "dealer_id": "6595",
+    "car_id": "27755218",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT66BVD",
+        "registration_date": "31/10/2016",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15490,
+        "total_price": 15490,
+        "deposit": 0,
+        "balance": 15490,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 325.13,
+        "final_payment": 326.13,
+        "total_amount_payable": 19508.8,
+        "total_charge_for_credit": 4018.8,
+        "amount_of_credit": 15490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:24:55.605Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/aston-martin/dbs/6-0-v12-2479",
+    "dealer_id": "5631",
+    "car_id": "26707457",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX59FJC",
+        "registration_date": "17/09/2009",
+        "mileage": 50250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 4990,
+        "balance": 50000,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 16,
+        "regular_payment": 3338.91,
+        "final_payment": 3339.91,
+        "total_amount_payable": 58413.56,
+        "total_charge_for_credit": 3423.56,
+        "amount_of_credit": 50000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

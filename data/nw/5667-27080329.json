@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:44:04.817Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/electric-hybrid/kia-ev9-99-8kwh-gt-line-s-auto-awd-5dr-7-seat-5-door-suv-white/lc73bsn",
+    "dealer_id": "5667",
+    "car_id": "27080329",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC73BSN",
+        "registration_date": "31/01/2024",
+        "mileage": 12667,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57989,
+        "total_price": 57989,
+        "deposit": 5799,
+        "balance": 52190,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 1265.01,
+        "final_payment": 1265.01,
+        "total_amount_payable": 66519.48,
+        "total_charge_for_credit": 8530.48,
+        "amount_of_credit": 52190,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 57989,
+        "total_price": 57989,
+        "deposit": 5799,
+        "balance": 52190,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 801.97,
+        "final_payment": 26696,
+        "total_amount_payable": 70187.59,
+        "total_charge_for_credit": 12198.59,
+        "amount_of_credit": 52190,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 26696,
+        "price_to_buy": 26696
+      }
+    ]
+  }
+]

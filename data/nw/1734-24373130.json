@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:12:42.556Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-ferrari-purosangue-fareham-hampshire-6030206",
+    "dealer_id": "1734",
+    "car_id": "24373130",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MM73WTY",
+        "registration_date": "27/11/2023",
+        "mileage": 500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 416250,
+        "total_price": 416250,
+        "deposit": 41625,
+        "balance": 75000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1675.71,
+        "final_payment": 1676.71,
+        "total_amount_payable": 441793.6,
+        "total_charge_for_credit": 25543.6,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

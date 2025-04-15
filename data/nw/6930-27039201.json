@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:06:36.876Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashmotorsltd.co.uk/cars/audi/r8/5.2-fsi-v10-performance/1377657/",
+    "dealer_id": "6930",
+    "car_id": "27039201",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "F20HRD",
+        "registration_date": "11/09/2019",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 95995,
+        "total_price": 95995,
+        "deposit": 9599.5,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1540.76,
+        "final_payment": 1541.76,
+        "total_amount_payable": 113441.6,
+        "total_charge_for_credit": 17446.6,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 95995,
+        "total_price": 95995,
+        "deposit": 9599.5,
+        "balance": 86395.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 1485.29,
+        "final_payment": 43122.5,
+        "total_amount_payable": 124015.92,
+        "total_charge_for_credit": 28020.92,
+        "amount_of_credit": 86395.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.25,
+        "residual": 43122.5,
+        "price_to_buy": 43122.5
+      }
+    ]
+  }
+]

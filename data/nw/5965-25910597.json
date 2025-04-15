@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:52:36.230Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blakedowncarcompany.co.uk/details/car-in-wombourne/astonmartin/vantage/4.7-v8-roadster-euro-5-2dr/1284857/",
+    "dealer_id": "5965",
+    "car_id": "25910597",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BP14FNX",
+        "registration_date": "30/06/2014",
+        "mileage": 60950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799.9,
+        "balance": 34199.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 50,
+        "regular_payment": 830.54,
+        "final_payment": 831.54,
+        "total_amount_payable": 45327.9,
+        "total_charge_for_credit": 7328.9,
+        "amount_of_credit": 34199.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

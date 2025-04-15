@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:53:59.596Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinfranciscars.com/used-cars/seat-tarraco-xcellence-20tdi-4wd-s-auto/33686",
+    "dealer_id": "7214",
+    "car_id": "18484028",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PRZ5238",
+        "registration_date": "28/06/2019",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21950,
+        "total_price": 21950,
+        "deposit": 2195,
+        "balance": 19755,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 414.54,
+        "final_payment": 424.54,
+        "total_amount_payable": 27077.4,
+        "total_charge_for_credit": 5127.4,
+        "amount_of_credit": 19755,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

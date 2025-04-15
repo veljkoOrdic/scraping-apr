@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:56:55.854Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tonesusedcars.com/used-mercedes-benz-cls-class-hartlepool-county-durham-5786556",
+    "dealer_id": "4304",
+    "car_id": "23326054",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS67YNU",
+        "registration_date": "30/09/2017",
+        "mileage": 86655,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 0,
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 284.45,
+        "final_payment": 285.45,
+        "total_amount_payable": 17068,
+        "total_charge_for_credit": 4073,
+        "amount_of_credit": 12995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

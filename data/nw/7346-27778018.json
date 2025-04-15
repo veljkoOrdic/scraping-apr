@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:56:13.049Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartlepoolmotorcompany.co.uk/used-bmw-x5-hartlepool-county-durham-6871192",
+    "dealer_id": "7346",
+    "car_id": "27778018",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN71GBV",
+        "registration_date": "27/09/2021",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 0,
+        "balance": 42995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 902.48,
+        "final_payment": 903.48,
+        "total_amount_payable": 54149.8,
+        "total_charge_for_credit": 11154.8,
+        "amount_of_credit": 42995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 0,
+        "balance": 42995,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 702.52,
+        "final_payment": 22083.62,
+        "total_amount_payable": 55804.58,
+        "total_charge_for_credit": 12809.58,
+        "amount_of_credit": 42995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.2,
+        "residual": 22082.62,
+        "price_to_buy": 22083.62
+      }
+    ]
+  }
+]

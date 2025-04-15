@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:25:21.751Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hcs-cars.com/vehicle/name/bmw-1-series-120d-m-sport/",
+    "dealer_id": "4673",
+    "car_id": "24991128",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG09OGP",
+        "registration_date": "01/04/2009",
+        "mileage": 105000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4850,
+        "total_price": 4850,
+        "deposit": 0,
+        "balance": 4850,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 128.41,
+        "final_payment": 128.41,
+        "total_amount_payable": 7704.6,
+        "total_charge_for_credit": 2854.6,
+        "amount_of_credit": 4850,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

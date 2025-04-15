@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:20:23.297Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/commercials/volkswagen/caddy/swb-l1h1-c20-tdi-commerce-pro-alloys-sensors-park-assist-a-c-sat-nav-s-s-2",
+    "dealer_id": "7281",
+    "car_id": "22691368",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ21OTK",
+        "registration_date": "25/06/2021",
+        "mileage": 34381,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19737.6,
+        "total_price": 19737.6,
+        "deposit": 4112,
+        "balance": 15625.6,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 342.04,
+        "final_payment": 343.04,
+        "total_amount_payable": 24635.4,
+        "total_charge_for_credit": 4897.8,
+        "amount_of_credit": 15625.6,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

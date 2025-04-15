@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:24:26.560Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/citroen/citroen-relay-2-2-bluehdi-h2-van-140ps-enterprise-edition/",
+    "dealer_id": "7286",
+    "car_id": "25711390",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS73TXZ",
+        "registration_date": "30/10/2023",
+        "mileage": 3793,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36495,
+        "total_price": 36495,
+        "deposit": 0,
+        "balance": 36495,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 940.46,
+        "final_payment": 941.46,
+        "total_amount_payable": 45143.08,
+        "total_charge_for_credit": 8648.08,
+        "amount_of_credit": 36495,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

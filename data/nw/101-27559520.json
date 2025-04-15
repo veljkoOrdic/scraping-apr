@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:46:25.653Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reynoldsmotorgroup.co.uk/used-bentley-continental-southend-on-sea-essex-6822844",
+    "dealer_id": "101",
+    "car_id": "27559520",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG14HRK",
+        "registration_date": "24/07/2014",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 0,
+        "balance": 45000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 944.58,
+        "final_payment": 945.58,
+        "total_amount_payable": 56675.8,
+        "total_charge_for_credit": 11675.8,
+        "amount_of_credit": 45000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

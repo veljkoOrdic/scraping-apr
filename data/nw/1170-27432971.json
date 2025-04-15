@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:30:10.616Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.culvermotorgroup.co.uk/used-ford-transit-custom-cardiff-south-glamorgan-6787521",
+    "dealer_id": "1170",
+    "car_id": "27432971",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR67WFJ",
+        "registration_date": "19/10/2017",
+        "mileage": 87345,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 500,
+        "balance": 9495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 199.29,
+        "final_payment": 200.29,
+        "total_amount_payable": 12458.4,
+        "total_charge_for_credit": 2463.4,
+        "amount_of_credit": 9495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

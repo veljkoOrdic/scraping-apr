@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:11:15.752Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-ford-transit-stalybridge-greater-manchester-5889691",
+    "dealer_id": "8078",
+    "car_id": "24608137",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FH17CHX",
+        "registration_date": "30/06/2017",
+        "mileage": 108000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10800,
+        "total_price": 10800,
+        "deposit": 1800,
+        "balance": 9000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 188.92,
+        "final_payment": 188.92,
+        "total_amount_payable": 13135.2,
+        "total_charge_for_credit": 2335.2,
+        "amount_of_credit": 9000,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

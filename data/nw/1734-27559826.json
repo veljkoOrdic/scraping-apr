@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:09:34.389Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-land-rover-range-rover-sport-fareham-hampshire-6822040",
+    "dealer_id": "1734",
+    "car_id": "27559826",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GL23UZV",
+        "registration_date": "17/05/2023",
+        "mileage": 20933,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82500,
+        "total_price": 82500,
+        "deposit": 8250,
+        "balance": 74250,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1658.96,
+        "final_payment": 1659.96,
+        "total_amount_payable": 107788.6,
+        "total_charge_for_credit": 25288.6,
+        "amount_of_credit": 74250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82500,
+        "total_price": 82500,
+        "deposit": 8250,
+        "balance": 74250,
+        "apr": 12.9,
+        "rate_of_interest": 6.27,
+        "term": 49,
+        "regular_payment": 1341.38,
+        "final_payment": 38563.6,
+        "total_amount_payable": 111199.84,
+        "total_charge_for_credit": 28699.84,
+        "amount_of_credit": 74250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.36,
+        "residual": 38562.6,
+        "price_to_buy": 38563.6
+      }
+    ]
+  }
+]

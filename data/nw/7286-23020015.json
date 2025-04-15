@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T18:24:48.013Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/land-rover/land-rover-defender-3-0-d250-hse-90-3dr-auto/",
+    "dealer_id": "7286",
+    "car_id": "23020015",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ23MYO",
+        "registration_date": "31/03/2023",
+        "mileage": 18750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 0,
+        "balance": 54995,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 1417.21,
+        "final_payment": 1418.21,
+        "total_amount_payable": 68027.08,
+        "total_charge_for_credit": 13032.08,
+        "amount_of_credit": 54995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 0,
+        "balance": 54995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 936.592582095622,
+        "final_payment": 26765.34,
+        "total_amount_payable": 70785.19,
+        "total_charge_for_credit": 15790.19,
+        "amount_of_credit": 54995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.12,
+        "residual": 25818.75,
+        "price_to_buy": 26765.34
+      }
+    ]
+  }
+]

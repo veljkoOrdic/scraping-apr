@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:49:44.111Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mdpatrickmotors.co.uk/details/used-car-in-chester-le-street/skoda/yeti/1.2-tsi-se-drive-outdoor-euro-6-ss-5dr/1392844/",
+    "dealer_id": "4270",
+    "car_id": "27203639",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PY66OKA",
+        "registration_date": "07/02/2017",
+        "mileage": 70800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 169.92,
+        "final_payment": 170.92,
+        "total_amount_payable": 11095.7,
+        "total_charge_for_credit": 2100.7,
+        "amount_of_credit": 8095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

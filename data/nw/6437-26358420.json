@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:24:53.262Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-ferrari-california-peterborough-cambridgeshire-6517665",
+    "dealer_id": "6437",
+    "car_id": "26358420",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP65YZZ",
+        "registration_date": "01/01/2016",
+        "mileage": 35370,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71990,
+        "total_price": 71990,
+        "deposit": 7199,
+        "balance": 64791,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1418.3,
+        "final_payment": 1419.3,
+        "total_amount_payable": 92298,
+        "total_charge_for_credit": 20308,
+        "amount_of_credit": 64791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

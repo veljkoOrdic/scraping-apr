@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:44:43.313Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reynoldsmotorgroup.co.uk/used-porsche-718-boxster-southend-on-sea-essex-6626769",
+    "dealer_id": "101",
+    "car_id": "26789886",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LP66TPO",
+        "registration_date": "28/11/2016",
+        "mileage": 14400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 0,
+        "balance": 32500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 682.2,
+        "final_payment": 683.2,
+        "total_amount_payable": 40933,
+        "total_charge_for_credit": 8433,
+        "amount_of_credit": 32500,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

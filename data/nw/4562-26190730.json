@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:06:11.883Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eagleshamgarage.co.uk/vehicle-details/used-land-rover-range-rover-sport-p575-v8-svr-for-sale-in-eaglesham-glasgow-u337/",
+    "dealer_id": "4562",
+    "car_id": "26190730",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "E7XTR",
+        "registration_date": "27/03/2019",
+        "mileage": 62347,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 2049.75,
+        "balance": 38945.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 817.48,
+        "final_payment": 818.48,
+        "total_amount_payable": 51099.55,
+        "total_charge_for_credit": 10104.55,
+        "amount_of_credit": 38945.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

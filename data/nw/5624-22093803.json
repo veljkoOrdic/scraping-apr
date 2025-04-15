@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:18:49.648Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jeffwhitemotors.co.uk/used-kia-stonic-cardiff-glamorgan-5481081",
+    "dealer_id": "5624",
+    "car_id": "22093803",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE71PUX",
+        "registration_date": "25/01/2022",
+        "mileage": 11147,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15988,
+        "total_price": 15988,
+        "deposit": 0,
+        "balance": 15988,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 342.65,
+        "final_payment": 352.65,
+        "total_amount_payable": 20569,
+        "total_charge_for_credit": 4581,
+        "amount_of_credit": 15988,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15988,
+        "total_price": 15988,
+        "deposit": 0,
+        "balance": 15988,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 49,
+        "regular_payment": 288.02,
+        "final_payment": 7194.25,
+        "total_amount_payable": 21019.21,
+        "total_charge_for_credit": 5031.21,
+        "amount_of_credit": 15988,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.15,
+        "residual": 7184.25,
+        "price_to_buy": 7194.25
+      }
+    ]
+  }
+]

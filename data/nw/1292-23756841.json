@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:09:05.941Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gammers.net/cars/ford/focus/1.5-ecoblue-active-style/1116945/",
+    "dealer_id": "1292",
+    "car_id": "23756841",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ72OBH",
+        "registration_date": "31/10/2022",
+        "mileage": 13021,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 2299.9,
+        "balance": 20699.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 537.95,
+        "final_payment": 538.95,
+        "total_amount_payable": 28122.5,
+        "total_charge_for_credit": 5123.5,
+        "amount_of_credit": 20699.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 2299.9,
+        "balance": 20699.1,
+        "apr": 11.9,
+        "rate_of_interest": 5.89,
+        "term": 49,
+        "regular_payment": 417.79,
+        "final_payment": 7318.26,
+        "total_amount_payable": 29672.08,
+        "total_charge_for_credit": 6673.08,
+        "amount_of_credit": 20699.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 7317.26,
+        "price_to_buy": 7318.26
+      }
+    ]
+  }
+]

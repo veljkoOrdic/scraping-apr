@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:49:37.823Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macmillanmotorcompany.co.uk/used-alfa-romeo-giulietta-middlesbrough-north-yorkshire-6132031",
+    "dealer_id": "8407",
+    "car_id": "24775171",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS69HSO",
+        "registration_date": "31/12/2019",
+        "mileage": 43521,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899,
+        "balance": 8096,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 173.56,
+        "final_payment": 174.56,
+        "total_amount_payable": 11313.6,
+        "total_charge_for_credit": 2318.6,
+        "amount_of_credit": 8096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:52:27.003Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-peugeot-208-hatfield-hertfordshire-6545422",
+    "dealer_id": "4492",
+    "car_id": "26475041",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR68DMX",
+        "registration_date": "12/09/2018",
+        "mileage": 13800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8750,
+        "total_price": 8750,
+        "deposit": 1750,
+        "balance": 7000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 146.92,
+        "final_payment": 147.92,
+        "total_amount_payable": 10566.2,
+        "total_charge_for_credit": 1816.2,
+        "amount_of_credit": 7000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:20:56.828Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jeffwhitemotors.co.uk/used-bmw-ix-cardiff-glamorgan-6555131",
+    "dealer_id": "5624",
+    "car_id": "26525355",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS72DXR",
+        "registration_date": "12/09/2022",
+        "mileage": 13135,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59988,
+        "total_price": 59988,
+        "deposit": 0,
+        "balance": 59988,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1286.11,
+        "final_payment": 1287.11,
+        "total_amount_payable": 77167.6,
+        "total_charge_for_credit": 17179.6,
+        "amount_of_credit": 59988,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59988,
+        "total_price": 59988,
+        "deposit": 0,
+        "balance": 59988,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 1048.62,
+        "final_payment": 28907.75,
+        "total_amount_payable": 79241.51,
+        "total_charge_for_credit": 19253.51,
+        "amount_of_credit": 59988,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 28907.75,
+        "price_to_buy": 28907.75
+      }
+    ]
+  }
+]

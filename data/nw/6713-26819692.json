@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:30:48.689Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.northernmotorhouse.co.uk/details/used-car-in-shipley/volkswagen/golf/2.0-tsi-r-4motion-euro-6-ss-5dr/1359437/",
+    "dealer_id": "6713",
+    "car_id": "26819692",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LG68VHC",
+        "registration_date": "28/09/2018",
+        "mileage": 29178,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049.5,
+        "balance": 18445.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 471.28,
+        "final_payment": 472.28,
+        "total_amount_payable": 24671.94,
+        "total_charge_for_credit": 4176.94,
+        "amount_of_credit": 18445.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

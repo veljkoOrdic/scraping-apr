@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:58:28.064Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fontain.co.uk/vehicle/used-bmw-1-series-m140i-for-sale-in-iver-buckinghamshire-u13143/",
+    "dealer_id": "7355",
+    "car_id": "22927365",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR17VMH",
+        "registration_date": "20/04/2017",
+        "mileage": 41500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23450,
+        "total_price": 23450,
+        "deposit": 7035,
+        "balance": 16415,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 351.92,
+        "final_payment": 352.92,
+        "total_amount_payable": 28151.2,
+        "total_charge_for_credit": 4701.2,
+        "amount_of_credit": 16415,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

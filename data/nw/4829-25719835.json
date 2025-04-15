@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:13:52.586Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fastlanemotorcars.co.uk/used-mini-hatch-stoke-on-trent-staffordshire-6357008",
+    "dealer_id": "4829",
+    "car_id": "25719835",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU68KRX",
+        "registration_date": "20/09/2018",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199,
+        "balance": 10796,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 231.45,
+        "final_payment": 232.45,
+        "total_amount_payable": 15087,
+        "total_charge_for_credit": 3092,
+        "amount_of_credit": 10796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

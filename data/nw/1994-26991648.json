@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T21:34:37.796Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stoughtoncarsales.co.uk/used-renault-clio-godalming-surrey-6679114",
+    "dealer_id": "1994",
+    "car_id": "26991648",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO22FZW",
+        "registration_date": "31/03/2022",
+        "mileage": 35574,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11000,
+        "total_price": 11000,
+        "deposit": 1100,
+        "balance": 9900,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 216.7,
+        "final_payment": 217.7,
+        "total_amount_payable": 14103,
+        "total_charge_for_credit": 3103,
+        "amount_of_credit": 9900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11000,
+        "total_price": 11000,
+        "deposit": 1100,
+        "balance": 9900,
+        "apr": 11.9,
+        "rate_of_interest": 5.85,
+        "term": 49,
+        "regular_payment": 188.18,
+        "final_payment": 4209.03,
+        "total_amount_payable": 14341.67,
+        "total_charge_for_credit": 3341.67,
+        "amount_of_credit": 9900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 4208.03,
+        "price_to_buy": 4209.03
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T23:57:55.456Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.we-sell-any-car.com/used-mercedes-benz-e-class-peterborough-cambridgeshire-6079518",
+    "dealer_id": "8425",
+    "car_id": "24562431",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NX62NNC",
+        "registration_date": "25/01/2013",
+        "mileage": 112243,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4957,
+        "total_price": 4957,
+        "deposit": 495,
+        "balance": 4462,
+        "apr": 12.9,
+        "rate_of_interest": 6.61,
+        "term": 33,
+        "regular_payment": 159.8,
+        "final_payment": 160.8,
+        "total_amount_payable": 5769.4,
+        "total_charge_for_credit": 812.4,
+        "amount_of_credit": 4462,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

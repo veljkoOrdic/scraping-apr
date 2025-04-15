@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:59:29.526Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillageltd.co.uk/details/used-car-in-stoke-on-trent/audi/a7/3.0-tdi-v6-45-s-line-sportback-tiptronic-quattro-euro-6-ss-5dr/1165860/",
+    "dealer_id": "7612",
+    "car_id": "24362567",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HD19WZJ",
+        "registration_date": "30/08/2019",
+        "mileage": 29254,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25490,
+        "total_price": 25490,
+        "deposit": 2549,
+        "balance": 22941,
+        "apr": 12.8,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 509.48,
+        "final_payment": 559.48,
+        "total_amount_payable": 33217.8,
+        "total_charge_for_credit": 7727.8,
+        "amount_of_credit": 22941,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

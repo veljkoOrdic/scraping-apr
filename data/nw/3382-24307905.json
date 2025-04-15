@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:03:49.305Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/astonmartin/db11/5.2-v12-auto-euro-6-ss-2dr/1265141/",
+    "dealer_id": "3382",
+    "car_id": "24307905",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GP66GBU",
+        "registration_date": "24/11/2016",
+        "mileage": 41422,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57995,
+        "total_price": 57995,
+        "deposit": 42995,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 66405.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

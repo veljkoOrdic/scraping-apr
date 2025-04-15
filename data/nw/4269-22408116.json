@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:46:03.766Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.madeleyheathmotors.co.uk/car/8a42c11487b26ebb0187b33faa245ebd",
+    "dealer_id": "4269",
+    "car_id": "22408116",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF71CTU",
+        "registration_date": "30/09/2021",
+        "mileage": 46862,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10782,
+        "total_price": 10782,
+        "deposit": 1078.2,
+        "balance": 9703.8,
+        "apr": 7.9,
+        "rate_of_interest": 7.6,
+        "term": 60,
+        "regular_payment": 195.03,
+        "final_payment": 195.03,
+        "total_amount_payable": 12780,
+        "total_charge_for_credit": 1998,
+        "amount_of_credit": 9703.8,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

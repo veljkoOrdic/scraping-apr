@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:02:16.444Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/subaru/impreza/2.5-wrx-sti-type-uk-4dr/1276612/",
+    "dealer_id": "3382",
+    "car_id": "25813832",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT07KNA",
+        "registration_date": "20/03/2007",
+        "mileage": 103705,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 351.05,
+        "final_payment": 351.05,
+        "total_amount_payable": 22562.5,
+        "total_charge_for_credit": 7567.5,
+        "amount_of_credit": 13495.5,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

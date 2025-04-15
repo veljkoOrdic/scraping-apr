@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:58:30.322Z",
+    "source": "new_vehicle_finance",
+    "url": "https://janautos.co.uk/vehicle/name/mercedes-eqs-eqs-450-108-4kwh-exclusive-luxury-saloon-auto-5dr-panramic-roof/",
+    "dealer_id": "3285",
+    "car_id": "27244612",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR23EXL",
+        "registration_date": "30/03/2023",
+        "mileage": 16535,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62990,
+        "total_price": 62990,
+        "deposit": 0,
+        "balance": 62990,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1407.26,
+        "final_payment": 1417.26,
+        "total_amount_payable": 84445.6,
+        "total_charge_for_credit": 21455.6,
+        "amount_of_credit": 62990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 62990,
+        "total_price": 62990,
+        "deposit": 0,
+        "balance": 62990,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 1192.56,
+        "final_payment": 18829.38,
+        "total_amount_payable": 89190.42,
+        "total_charge_for_credit": 26200.42,
+        "amount_of_credit": 62990,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.13,
+        "residual": 18828.38,
+        "price_to_buy": 18829.38
+      }
+    ]
+  }
+]

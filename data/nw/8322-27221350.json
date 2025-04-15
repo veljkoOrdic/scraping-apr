@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T23:22:13.876Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.simpsonmotors.co.uk/used-tesla-model-y-fife-scotland-6740943",
+    "dealer_id": "8322",
+    "car_id": "27221350",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB23OXF",
+        "registration_date": "05/08/2023",
+        "mileage": 19456,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 4274,
+        "balance": 24221,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 508.4,
+        "final_payment": 509.4,
+        "total_amount_payable": 34779,
+        "total_charge_for_credit": 6284,
+        "amount_of_credit": 24221,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 4274,
+        "balance": 24221,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 49,
+        "regular_payment": 355.58,
+        "final_payment": 14793.4,
+        "total_amount_payable": 36135.24,
+        "total_charge_for_credit": 7640.24,
+        "amount_of_credit": 24221,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.18,
+        "residual": 14792.4,
+        "price_to_buy": 14793.4
+      }
+    ]
+  }
+]

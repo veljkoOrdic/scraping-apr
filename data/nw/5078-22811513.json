@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:48:09.883Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heartysofpeterborough.co.uk/used-mercedes-benz-v-class-peterborough-cambridgeshire-5667655",
+    "dealer_id": "5078",
+    "car_id": "22811513",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LK18NDE",
+        "registration_date": "31/03/2018",
+        "mileage": 62092,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54950,
+        "total_price": 54950,
+        "deposit": 5495,
+        "balance": 49455,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1285.3,
+        "final_payment": 1286.3,
+        "total_amount_payable": 67190.4,
+        "total_charge_for_credit": 12240.4,
+        "amount_of_credit": 49455,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

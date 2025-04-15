@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T16:36:37.589Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.clubclasscarsyork.com/used-toyota-yaris-dunnington-north-yorkshire-6699293",
+    "dealer_id": "6887",
+    "car_id": "27068307",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YF16ZTR",
+        "registration_date": "31/05/2016",
+        "mileage": 41750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10295,
+        "total_price": 10295,
+        "deposit": 1029,
+        "balance": 9266,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 190.36,
+        "final_payment": 191.36,
+        "total_amount_payable": 12451.6,
+        "total_charge_for_credit": 2156.6,
+        "amount_of_credit": 9266,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

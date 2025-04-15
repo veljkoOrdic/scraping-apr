@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T19:44:43.820Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjmcarsales.co.uk/used-bmw-x3-bishop-auckland-county-durham-6418516",
+    "dealer_id": "7522",
+    "car_id": "26049840",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EN72BYB",
+        "registration_date": "30/12/2022",
+        "mileage": 9653,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699,
+        "balance": 42296,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 887.81,
+        "final_payment": 888.81,
+        "total_amount_payable": 57968.6,
+        "total_charge_for_credit": 10973.6,
+        "amount_of_credit": 42296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 4699,
+        "balance": 42296,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 747.12,
+        "final_payment": 18444.65,
+        "total_amount_payable": 59005.41,
+        "total_charge_for_credit": 12010.41,
+        "amount_of_credit": 42296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.16,
+        "residual": 18443.65,
+        "price_to_buy": 18444.65
+      }
+    ]
+  }
+]

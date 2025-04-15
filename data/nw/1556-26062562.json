@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T20:33:51.576Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajautos.com/details/used-car-in-bournemouth/jaguar/f-type/3.0-v6-r-dynamic-auto-awd-euro-6-ss-2dr/1298020/",
+    "dealer_id": "1556",
+    "car_id": "26062562",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY18GKP",
+        "registration_date": "01/03/2018",
+        "mileage": 21000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34950,
+        "total_price": 34950,
+        "deposit": 3495,
+        "balance": 31455,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 776.13,
+        "final_payment": 777.13,
+        "total_amount_payable": 40750.24,
+        "total_charge_for_credit": 5800.24,
+        "amount_of_credit": 31455,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

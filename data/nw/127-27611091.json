@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T17:18:52.021Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rickmansworthsportscars.co.uk/used/jeep/wrangler/20-gme-rubicon-4dr-auto8/watford/hertfordshire/21572036",
+    "dealer_id": "127",
+    "car_id": "27611091",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HL21EWA",
+        "registration_date": "31/07/2021",
+        "mileage": 16000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 994.32,
+        "final_payment": 995.32,
+        "total_amount_payable": 52127.86,
+        "total_charge_for_credit": 8132.86,
+        "amount_of_credit": 39595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399.5,
+        "balance": 39595.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 692.72,
+        "final_payment": 17659.23,
+        "total_amount_payable": 55309.29,
+        "total_charge_for_credit": 11314.29,
+        "amount_of_credit": 39595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 17658.23,
+        "price_to_buy": 17659.23
+      }
+    ]
+  }
+]

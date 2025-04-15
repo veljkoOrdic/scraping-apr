@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T18:45:07.773Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.orwellmotors.co.uk/used-bmw-3-series-dunfermline-scotland-6492482",
+    "dealer_id": "376",
+    "car_id": "26269438",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY15WGD",
+        "registration_date": "30/06/2015",
+        "mileage": 41761,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15999,
+        "total_price": 15999,
+        "deposit": 1599,
+        "balance": 14400,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 295.82,
+        "final_payment": 296.82,
+        "total_amount_payable": 19349.2,
+        "total_charge_for_credit": 3350.2,
+        "amount_of_credit": 14400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

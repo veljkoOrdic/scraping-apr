@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:49:31.496Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/porsche/911/3.0t-991-carrera-4-gts-pdk-4wd-euro-6-ss-2dr/1280693/",
+    "dealer_id": "7543",
+    "car_id": "25861020",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV68XKT",
+        "registration_date": "19/01/2019",
+        "mileage": 30750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1511.23,
+        "final_payment": 1512.23,
+        "total_amount_payable": 98674.3,
+        "total_charge_for_credit": 18679.3,
+        "amount_of_credit": 71995.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

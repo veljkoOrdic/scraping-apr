@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T00:41:10.023Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/bmw/3-series/3-0-m3-competition-m-xdrive-auto-4wd-5dr-88",
+    "dealer_id": "3695",
+    "car_id": "27320288",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SO72ZHG",
+        "registration_date": "06/01/2023",
+        "mileage": 11500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72985,
+        "total_price": 72985,
+        "deposit": 0,
+        "balance": 72985,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 1500.67,
+        "final_payment": 1501.67,
+        "total_amount_payable": 90041.2,
+        "total_charge_for_credit": 17056.2,
+        "amount_of_credit": 72985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72985,
+        "total_price": 72985,
+        "deposit": 0,
+        "balance": 72985,
+        "apr": 8.9,
+        "rate_of_interest": 4.41,
+        "term": 49,
+        "regular_payment": 1283.34,
+        "final_payment": 29710,
+        "total_amount_payable": 91310.32,
+        "total_charge_for_credit": 18325.32,
+        "amount_of_credit": 72985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.34,
+        "residual": 29709,
+        "price_to_buy": 29710
+      }
+    ]
+  }
+]

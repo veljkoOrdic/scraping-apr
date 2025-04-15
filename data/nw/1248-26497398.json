@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:48:47.441Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.iandsmotorswrexham.co.uk/used-seat-mii-wrexham-clwyd-6537227",
+    "dealer_id": "1248",
+    "car_id": "26497398",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PHZ7541",
+        "registration_date": "29/01/2013",
+        "mileage": 46311,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 0,
+        "balance": 4490,
+        "apr": 9.9,
+        "rate_of_interest": 5.08,
+        "term": 33,
+        "regular_payment": 155.07,
+        "final_payment": 156.07,
+        "total_amount_payable": 5118.31,
+        "total_charge_for_credit": 628.31,
+        "amount_of_credit": 4490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

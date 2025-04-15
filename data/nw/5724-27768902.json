@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T22:11:50.883Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hawkins.co.uk/used-car-details/used-hyundai-ioniq-5-77kwh-namsan-edition-hatchback-hatchback-shooting-star-grey-automatic-electric/id-9053/",
+    "dealer_id": "5724",
+    "car_id": "27768902",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WL74FRJ",
+        "registration_date": "28/01/2025",
+        "mileage": 1000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999,
+        "balance": 45000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 985.07,
+        "final_payment": 985.07,
+        "total_amount_payable": 64103.2,
+        "total_charge_for_credit": 14104.2,
+        "amount_of_credit": 45000,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999,
+        "balance": 45000,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 911.8,
+        "final_payment": 15694.93,
+        "total_amount_payable": 64460.33,
+        "total_charge_for_credit": 14461.33,
+        "amount_of_credit": 45000,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 15694.93,
+        "price_to_buy": 15694.93
+      }
+    ]
+  }
+]

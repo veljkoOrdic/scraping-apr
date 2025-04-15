@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:10:34.531Z",
+    "source": "new_vehicle_finance",
+    "url": "https://jmvcars.co.uk/vehicle/name/mercedes-s-class-s-500-amg-line-premium/",
+    "dealer_id": "8448",
+    "car_id": "25895885",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN17OGA",
+        "registration_date": "31/03/2017",
+        "mileage": 55000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39975,
+        "total_price": 39975,
+        "deposit": 2000,
+        "balance": 37975,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 797.12,
+        "final_payment": 798.12,
+        "total_amount_payable": 49828.2,
+        "total_charge_for_credit": 9853.2,
+        "amount_of_credit": 37975,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:54:08.554Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.markkessellcars.co.uk/used-mini-countryman-summercourt-newquay-cornwall-6662656",
+    "dealer_id": "4781",
+    "car_id": "27134358",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD67OLP",
+        "registration_date": "30/11/2017",
+        "mileage": 31453,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349,
+        "balance": 12146,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 260.39,
+        "final_payment": 261.39,
+        "total_amount_payable": 16973.4,
+        "total_charge_for_credit": 3478.4,
+        "amount_of_credit": 12146,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

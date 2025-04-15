@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-14T20:47:05.209Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-land-rover-discovery-sport-2-0-d200-dynamic-hse-5dr-5-door-suv-santorini-black/ft24efs",
+    "dealer_id": "5502",
+    "car_id": "26968365",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FT24EFS",
+        "registration_date": "27/06/2024",
+        "mileage": 10571,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44750,
+        "total_price": 44750,
+        "deposit": 4475,
+        "balance": 40275,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 1306.96,
+        "final_payment": 1306.96,
+        "total_amount_payable": 51525.56,
+        "total_charge_for_credit": 6775.56,
+        "amount_of_credit": 40275,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44750,
+        "total_price": 44750,
+        "deposit": 4475,
+        "balance": 40275,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 769.44,
+        "final_payment": 23362,
+        "total_amount_payable": 54767.4,
+        "total_charge_for_credit": 10017.4,
+        "amount_of_credit": 40275,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.08,
+        "residual": 23352,
+        "price_to_buy": 23362
+      }
+    ]
+  }
+]

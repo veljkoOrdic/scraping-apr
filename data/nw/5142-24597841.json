@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:09:05.430Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-hyundai-kona-gateshead-tyne-and-wear-6058220",
+    "dealer_id": "5142",
+    "car_id": "24597841",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NG19YHS",
+        "registration_date": "31/05/2019",
+        "mileage": 16474,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13750,
+        "total_price": 13750,
+        "deposit": 687,
+        "balance": 13063,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 274.19,
+        "final_payment": 275.19,
+        "total_amount_payable": 17139.4,
+        "total_charge_for_credit": 3389.4,
+        "amount_of_credit": 13063,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

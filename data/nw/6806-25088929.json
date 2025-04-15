@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:49:08.025Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mcautosales.co.uk/used-audi-q5-magherafelt-londonderry-6203092",
+    "dealer_id": "6806",
+    "car_id": "25088929",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY21VYO",
+        "registration_date": "24/06/2021",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 0,
+        "balance": 27495,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 50,
+        "regular_payment": 667.73,
+        "final_payment": 668.73,
+        "total_amount_payable": 33387.5,
+        "total_charge_for_credit": 5892.5,
+        "amount_of_credit": 27495,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T22:12:16.166Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-ford-ranger-stalybridge-greater-manchester-6446027",
+    "dealer_id": "8078",
+    "car_id": "26109013",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE72HBX",
+        "registration_date": "21/10/2022",
+        "mileage": 78500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27594,
+        "total_price": 27594,
+        "deposit": 4599,
+        "balance": 22995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 482.68,
+        "final_payment": 482.68,
+        "total_amount_payable": 33559.8,
+        "total_charge_for_credit": 5965.8,
+        "amount_of_credit": 22995,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

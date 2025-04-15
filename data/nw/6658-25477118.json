@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-04-15T02:17:16.973Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-volkswagen-t-roc-r-line-tsi-dsg-suv-pyrite-silver-automatic-petrol/id-12044/",
+    "dealer_id": "6658",
+    "car_id": "25477118",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KO73CDN",
+        "registration_date": "08/02/2024",
+        "mileage": 4543,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29795,
+        "total_price": 29795,
+        "deposit": 8938,
+        "balance": 20857,
+        "apr": 13.4,
+        "rate_of_interest": 13.39,
+        "term": 48,
+        "regular_payment": 555.67,
+        "final_payment": 565.67,
+        "total_amount_payable": 35620.16,
+        "total_charge_for_credit": 5825.16,
+        "amount_of_credit": 20857,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29795,
+        "total_price": 29795,
+        "deposit": 8938,
+        "balance": 20857,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 297.04,
+        "final_payment": 16345,
+        "total_amount_payable": 39243.88,
+        "total_charge_for_credit": 9448.88,
+        "amount_of_credit": 20857,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.072,
+        "residual": 16335,
+        "price_to_buy": 16345
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:12:49.178Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.switchingcars.co.uk/used-mercedes-benz-c-class-warrington-cheshire-2974012",
+    "dealer_id": "7904",
+    "car_id": "19885631",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ67KUN",
+        "registration_date": "14/12/2017",
+        "mileage": 37850,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36000,
+        "total_price": 36000,
+        "deposit": 0,
+        "balance": 36000,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 919.8,
+        "final_payment": 920.8,
+        "total_amount_payable": 44151.4,
+        "total_charge_for_credit": 8151.4,
+        "amount_of_credit": 36000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

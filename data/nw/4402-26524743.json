@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:32:01.247Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eclipsecarsales.co.uk/used-land-rover-range-rover-winchester-hampshire-6556661",
+    "dealer_id": "4402",
+    "car_id": "26524743",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT68HGL",
+        "registration_date": "07/09/2018",
+        "mileage": 85000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 1000,
+        "balance": 34495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 724.06,
+        "final_payment": 725.06,
+        "total_amount_payable": 44444.6,
+        "total_charge_for_credit": 8949.6,
+        "amount_of_credit": 34495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

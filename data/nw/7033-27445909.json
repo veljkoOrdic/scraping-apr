@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:24:31.599Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jtvehiclessouthlakes.co.uk/details/used-van-in-barrow-in-furness/volkswagen/transporter/2.0-tdi-t28-highline-dsg-fwd-lwb-euro-6-ss-5dr/1412444/",
+    "dealer_id": "7033",
+    "car_id": "27445909",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP21AUU",
+        "registration_date": "23/07/2021",
+        "mileage": 8000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54991,
+        "total_price": 54991,
+        "deposit": 0,
+        "balance": 45825.83,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 961.91,
+        "final_payment": 962.91,
+        "total_amount_payable": 66880.77,
+        "total_charge_for_credit": 11889.77,
+        "amount_of_credit": 45825.83,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

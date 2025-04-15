@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T19:28:52.386Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-planet.co.uk/used-audi-sq7-watford-hertfordshire-6646989",
+    "dealer_id": "7472",
+    "car_id": "26868727",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV66OBA",
+        "registration_date": "07/10/2016",
+        "mileage": 56666,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30550,
+        "total_price": 30550,
+        "deposit": 3055,
+        "balance": 27495,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 614.32,
+        "final_payment": 615.32,
+        "total_amount_payable": 39915.2,
+        "total_charge_for_credit": 9365.2,
+        "amount_of_credit": 27495,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

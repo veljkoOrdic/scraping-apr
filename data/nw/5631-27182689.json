@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:25:55.013Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/porsche/911/turbo-s-3-8-pdk-3341",
+    "dealer_id": "5631",
+    "car_id": "27182689",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL14AYK",
+        "registration_date": "22/05/2014",
+        "mileage": 36800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72990,
+        "total_price": 72990,
+        "deposit": 10,
+        "balance": 72980,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 1801.9,
+        "final_payment": 1802.9,
+        "total_amount_payable": 88304.1,
+        "total_charge_for_credit": 15314.1,
+        "amount_of_credit": 72980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

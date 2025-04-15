@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T00:11:16.185Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.diesels-direct.co.uk/used/ford/focus/16-tdci-edge-5dr/halesworth/suffolk/21014516",
+    "dealer_id": "8480",
+    "car_id": "21713012",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PO12FDU",
+        "registration_date": "14/06/2012",
+        "mileage": 73000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 500,
+        "balance": 4495,
+        "apr": 13.9,
+        "rate_of_interest": 7.09,
+        "term": 25,
+        "regular_payment": 206.36,
+        "final_payment": 207.36,
+        "total_amount_payable": 5660,
+        "total_charge_for_credit": 665,
+        "amount_of_credit": 4495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

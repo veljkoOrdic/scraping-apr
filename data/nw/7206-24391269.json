@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T17:41:38.713Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicecarsupermarket.com/used-kia-ceed-blackburn-lancashire-6034711",
+    "dealer_id": "7206",
+    "car_id": "24391269",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "3762",
+        "registration_date": "26/02/2018",
+        "mileage": 33316,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7985,
+        "total_price": 7985,
+        "deposit": 798,
+        "balance": 7187,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 154.09,
+        "final_payment": 154.09,
+        "total_amount_payable": 10043.4,
+        "total_charge_for_credit": 2058.4,
+        "amount_of_credit": 7187,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

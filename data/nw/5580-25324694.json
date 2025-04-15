@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-14T21:06:38.324Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pdnagington.co.uk/vehicle-details/used-ford-focus-zetec-for-sale-u1482/",
+    "dealer_id": "5580",
+    "car_id": "25324694",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM11VWV",
+        "registration_date": "31/08/2011",
+        "mileage": 96216,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 400,
+        "balance": 3595,
+        "apr": 10.9,
+        "rate_of_interest": 5.62,
+        "term": 16,
+        "regular_payment": 241.52,
+        "final_payment": 242.52,
+        "total_amount_payable": 4265.32,
+        "total_charge_for_credit": 270.32,
+        "amount_of_credit": 3595,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

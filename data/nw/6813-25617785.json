@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T02:59:42.172Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cars4youltd.co.uk/used-ford-mustang-broxburn-west-lothian-6331263",
+    "dealer_id": "6813",
+    "car_id": "25617785",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "TVV238F",
+        "registration_date": "13/09/2013",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 5999,
+        "balance": 53996,
+        "apr": 11.9,
+        "rate_of_interest": 6.21,
+        "term": 52,
+        "regular_payment": 1317.82,
+        "final_payment": 1327.82,
+        "total_amount_payable": 74535.64,
+        "total_charge_for_credit": 14540.64,
+        "amount_of_credit": 53996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

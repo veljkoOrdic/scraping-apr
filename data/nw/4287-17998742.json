@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-04-15T01:54:53.718Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoimagebarrow.co.uk/cars/ford/focus/zetec-tdci/988011/",
+    "dealer_id": "4287",
+    "car_id": "17998742",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN68MJU",
+        "registration_date": "07/12/2018",
+        "mileage": 111000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749.5,
+        "balance": 6745.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 224.65,
+        "final_payment": 225.65,
+        "total_amount_payable": 8837.9,
+        "total_charge_for_credit": 1342.9,
+        "amount_of_credit": 6745.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]
