@@ -18,8 +18,15 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
             ...this.options
         };
 
-        // Track quote IDs we've seen
-        this.processedQuoteIds = new Set();
+        // Track quote IDs we've seen (not used in new logic)
+        // this.processedQuoteIds = new Set();
+
+        // New tracking for multiple responses
+        this.results = [];
+        this.eligibleProducts = new Set();
+        this.processedProducts = new Set();
+        this.skin = null;
+        this.initProcessed = false; // Track init response only once
     }
 
     /**
@@ -30,13 +37,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
     isFinanceEndpoint(response) {
         const url = response.url();
         const method = response.request().method();
-
-        // Check for the POST quotes endpoint (primary)
-        if (method === 'POST' && /https:\/\/www\.scukcalculator\.co\.uk\/api\/v1\/quote\//i.test(url)) {
-            return true;
-        }
-
-        return false;
+        return method === 'POST' && /\/api\/v1\/quote\//i.test(url);
     }
 
     /**
@@ -46,83 +47,106 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
      */
     isCandidateEndpoint(response) {
         const url = response.url();
-
-        // NewVehicle specific candidate patterns
-        const candidatePatterns = [
-            /pcp/i,
-            /ppb/i,
-            /cs/i
-        ];
-
-        console.log(url);
-        console.log("URL::::");
-        return;
-
-        return candidatePatterns.some(pattern => pattern.test(url));
+        return /scukcalculator/i.test(url);
     }
 
     /**
-     * Extract finance details from a NewVehicle response
+     * Process a response to extract vehicle and finance data
      * @param {puppeteer.HTTPResponse} response - The response to extract data from
-     * @returns {Promise<Array>} - Array of finance details
+     * @returns {Promise<void>}
      */
-    async financeDetails(response) {
-        // Check content type
-        const headers = response.headers();
-        const contentType = headers['content-type'] || '';
+    async processResponse(response) {
+        const url = response.url();
 
-        if (!contentType.includes('application/json')) {
-            return [];
-        }
+        // Handle init call to get vehicle and product eligibility info
+        if (url.includes('/api/v1/init')) {
+            if (this.initProcessed) return;
+            this.initProcessed = true;
+            try {
+                const req = response.request();
+                const reqPostData = req.postData();
+                if (reqPostData) {
+                    const parsed = JSON.parse(reqPostData);
+                    console.log('Init request payload:', parsed);
+                    if (parsed.vrm) {
+                        this.results.push({ type: 'vehicle', data: { vrm: parsed.vrm } });
+                    }
+                }
 
-        // Get response body
-        const text = await response.text();
+                const body = await response.text();
+                console.log('Init response body:', body);
+                const json = JSON.parse(body);
+                const data = json.data;
+                this.skin = data.skin;
 
-        // Parse the JSON
-        let jsonData;
-        try {
-            jsonData = JSON.parse(text);
-        } catch (error) {
-            app.error(this.name, `Failed to parse JSON: ${error.message}`, { url: response.url() });
-            return [];
-        }
-
-        // Use appropriate extractor based on the endpoint
-        try {
-            const url = response.url();
-            const method = response.request().method();
-
-            if (method === 'POST' && /https:\/\/scukcalculator\.co\.uk\/api\/v1\/quote\//i.test(url)) {
-                const extractor = this.getExtractor('ScukCalculatorV1');
-                return extractor.process(jsonData);
+                for (const [key, val] of Object.entries(data.products)) {
+                    if (val.eligible) this.eligibleProducts.add(key.toLowerCase());
+                }
+                console.log('Eligible products:', Array.from(this.eligibleProducts));
+            } catch (e) {
+                app.error(this.name, `Error in init processing: ${e.message}`, { url });
             }
+            return;
+        }
 
-            return [];
-        } catch (error) {
-            app.error(this.name, `Error in NewVehicle extractor: ${error.message}`, { url: response.url() });
-            return [];
+        // Handle finance quotes
+        if (this.isFinanceEndpoint(response)) {
+            const match = response.url().match(/\/quote\/(\w+)/);
+            const productType = match ? match[1].toLowerCase() : null;
+            if (!productType || this.processedProducts.has(productType)) return;
+
+            try {
+                const body = await response.text();
+                console.log(`Finance response (${productType}):`, body);
+                const json = JSON.parse(body);
+                const quote = json.data?.quote;
+                if (quote) {
+                    this.results.push({
+                        type: productType,
+                        costprice: quote.costprice,
+                        lender: this.skin || 'unknown'
+                    });
+                    this.processedProducts.add(productType);
+
+                    // Early exit if all expected products are processed
+                    const allDone = Array.from(this.eligibleProducts).every(p => this.processedProducts.has(p));
+                    if (allDone) {
+                        this.handleResultFound(this.results, this.getPageUrl());
+                    }
+                }
+            } catch (e) {
+                app.error(this.name, `Error in quote processing: ${e.message}`, { url });
+            }
         }
     }
 
     /**
-     * Check if the page content indicates a NewVehicle client
+     * Set up navigation completion detection
+     * @param {puppeteer.Page} page - Puppeteer page instance
+     */
+    setPage(page) {
+        page.on('load', () => {
+            // Give network requests a chance to finish
+            setTimeout(() => {
+                if (!this.resultFound) {
+                    const eligible = Array.from(this.eligibleProducts);
+                    const processed = Array.from(this.processedProducts);
+                    const done = eligible.every(p => processed.includes(p));
+                    if (done || eligible.length > 0) {
+                        this.handleResultFound(this.results, this.getPageUrl());
+                    }
+                }
+            }, 10000); // Wait 10 seconds after load to check
+        });
+    }
+
+    /**
+     * Check if the page content indicates a ScukCalculator client
      * @param {string} content - The page content to check
      * @returns {string|null} - Client identifier or null if not found
      */
     isClient(content) {
-        // Check for NewVehicle identifiers in the page content
-        const identifiers = [
-            'quoteware',
-            'newvehicle',
-            'quotewareV3'
-        ];
-
-        for (const identifier of identifiers) {
-            if (content.includes(identifier)) {
-                return 'scukcalculator';
-            }
-        }
-
+        if (content.includes('ScukCalculator')) return 'scukcalculator';
         return null;
     }
 }
