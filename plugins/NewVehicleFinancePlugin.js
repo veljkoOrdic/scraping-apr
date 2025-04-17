@@ -71,7 +71,6 @@ class NewVehicleFinancePlugin extends CarFinancePlugin {
     const candidatePatterns = [
       /newvehicle\.com/i,
       /quoteware/i,
-      /\/quotes\//i
     ];
 
     return candidatePatterns.some(pattern => pattern.test(url));
