@@ -105,11 +105,8 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                 const json = JSON.parse(body);
                 const quote = json.data?.quote;
                 if (quote) {
-                    const extraData = this.processQuote(quote);
+                    const extraData = this.processQuote(productType, quote);
                     this.results.push({
-                        type: productType,
-                        costprice: quote.costprice,
-                        lender: this.skin || 'unknown',
                         ...extraData
                     });
                     this.processedProducts.add(productType);
@@ -131,22 +128,34 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
      * @param {Object} quote - The quote object containing finance details
      * @returns {Object} Extracted finance data
      */
-    processQuote(quote) {
+    processQuote(productType, quote) {
         return {
-            cff: quote.cff,
-            bff: quote.bff,
+            type: `finance_${productType.toLowerCase()}`,
+            name: productType,
+            finance_type: productType,
+            cash_price: quote.costprice,
+            total_price: quote.ontheroadcashprice,
             deposit: quote.deposit,
-            cashdeposit: quote.cashdeposit,
+            balance: null,
             apr: quote.apr,
-            period: quote.period,
-            totalamount: quote.totalamount,
-            paf: quote.paf,
-            interest: quote.interest,
-            annualmileage: quote.annualmileage,
-            producttype: quote.producttype,
-            monthly_payment: quote.regular_monthly_payment,
+            rate_of_interest: quote.interest,
+            term: quote.duration_of_agreement,
+            regular_payment: null,
             final_payment: quote.final_payment,
-            mileage_charge: quote.excess_mileage_charge || 'unknown'
+            total_amount_payable: quote.totalamount,
+            total_charge_for_credit: null,
+            amount_of_credit: null,
+            lender: this.skin || 'unknown',
+            annual_mileage: quote.annualmileage,
+            contract_mileage: null,
+            excess_mileage_rate: quote.excess_mileage_charge || 'unknown',
+            residual: null,
+            price_to_buy: quote.final_payment,
+
+            period: quote.period,
+            paf: quote.paf,
+            product_type: quote.producttype,
+            monthly_payment: quote.regular_monthly_payment
         };
     }
 
