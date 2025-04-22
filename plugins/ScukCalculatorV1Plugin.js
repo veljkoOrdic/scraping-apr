@@ -31,8 +31,8 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
     /**
      * Check if a response is from a finance endpoint specific to Scuk
-     * @param {puppeteer.HTTPResponse} response - The response to check
-     * @returns {boolean} - True if the response is from a Scuk Calculator endpoint
+     * @param response
+     * @returns {boolean}
      */
     isFinanceEndpoint(response) {
         const url = response.url();
@@ -42,8 +42,8 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
     /**
      * Check if a response is a potential pcp, ppb, cs endpoint candidate
-     * @param {puppeteer.HTTPResponse} response - The response to check
-     * @returns {boolean} - True if the response is a potential Scuk candidate
+     * @param response
+     * @returns {boolean}
      */
     isCandidateEndpoint(response) {
         const url = response.url();
@@ -52,7 +52,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
     /**
      * Process a response to extract vehicle and finance data
-     * @param {puppeteer.HTTPResponse} response - The response to extract data from
+     * @param response
      * @returns {Promise<void>}
      */
     async processResponse(response) {
@@ -69,7 +69,11 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                     const parsed = JSON.parse(reqPostData);
                     console.log('Init request payload:', parsed);
                     if (parsed.vrm) {
-                        this.results.push({ type: 'vehicle', data: { vrm: parsed.vrm } });
+                        this.results.push({
+                            type: 'vehicle',
+                            registration_number: parsed.vrm,
+                            registration_date: parsed.date_first_registered
+                        });
                     }
                 }
 
@@ -84,7 +88,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                 }
                 console.log('Eligible products:', Array.from(this.eligibleProducts));
             } catch (e) {
-                app.error(this.name, `Error in init processing: ${e.message}`, { url });
+                app.error(this.name, `Error in init processing: ${e.message}`, {url});
             }
             return;
         }
@@ -101,10 +105,12 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                 const json = JSON.parse(body);
                 const quote = json.data?.quote;
                 if (quote) {
+                    const extraData = this.processQuote(quote);
                     this.results.push({
                         type: productType,
                         costprice: quote.costprice,
-                        lender: this.skin || 'unknown'
+                        lender: this.skin || 'unknown',
+                        ...extraData
                     });
                     this.processedProducts.add(productType);
 
@@ -115,9 +121,33 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                     }
                 }
             } catch (e) {
-                app.error(this.name, `Error in quote processing: ${e.message}`, { url });
+                app.error(this.name, `Error in quote processing: ${e.message}`, {url});
             }
         }
+    }
+
+    /**
+     * Process a quote to extract relevant finance data
+     * @param {Object} quote - The quote object containing finance details
+     * @returns {Object} Extracted finance data
+     */
+    processQuote(quote) {
+        return {
+            cff: quote.cff,
+            bff: quote.bff,
+            deposit: quote.deposit,
+            cashdeposit: quote.cashdeposit,
+            apr: quote.apr,
+            period: quote.period,
+            totalamount: quote.totalamount,
+            paf: quote.paf,
+            interest: quote.interest,
+            annualmileage: quote.annualmileage,
+            producttype: quote.producttype,
+            monthly_payment: quote.regular_monthly_payment,
+            final_payment: quote.final_payment,
+            mileage_charge: quote.excess_mileage_charge || 'unknown'
+        };
     }
 
     /**
