@@ -5,14 +5,14 @@ const plugins = {
     'logger': {}
 };
 
-// Define storage configuration with options
-const storage = {
-    ConsoleStorage: { },
+// Define listeners configuration with options
+const listeners = {
+    ConsoleLog: { },
     FileStorage: { filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
-const scraper = new Scraper(plugins, storage);
+const scraper = new Scraper(plugins, listeners);
 
 // Run the scraping
 const url = process.argv[2];

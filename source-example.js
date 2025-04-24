@@ -14,11 +14,11 @@ const plugins = {
     }
 };
 
-// Define storage configuration
-const storage = ['ConsoleStorage', 'FileStorage'];
+// Define listeners configuration
+const listeners = ['ConsoleLog', 'FileStorage'];
 
 // Create Scraper instance
-const scraper = new Scraper(plugins, storage);
+const scraper = new Scraper(plugins, listeners);
 
 // Run the scraping
 const url = process.argv[2];

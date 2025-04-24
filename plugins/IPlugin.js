@@ -142,18 +142,31 @@ class IPlugin {
   }
 
   /**
-   * Handle a successful result find
-   * @param {any} result - The result data
-   * @param {string} url - The URL where result was found
+   * Handle when results are found
+   * @param {Array|Object} result - The results that were found
+   * @param {string} url - The URL where results were found
    */
   handleResultFound(result, url) {
-    this.resultFound = true;
-    this.pluginResult = result;
+    // Prevent multiple calls
+    if (this.resultFound) {
+      app.info(this.name, 'Results already handled, ignoring duplicate call', { url });
+      return;
+    }
 
+    this.resultFound = true;
+
+    if (!result || (Array.isArray(result) && result.length === 0)) {
+      app.info(this.name, 'No results found, continuing', { url });
+      return;
+    }
+
+    // Save results to file
     this.saveResult(result, this.metadata);
 
+    // Only continue with browser closing if configured
     if (this.options.closeAfterFind) {
-      app.closeBrowser(this.name, url, true);
+      app.info(this.name, 'Closing browser', { url });
+      app.closeBrowser(this.name, url);
     }
   }
 
@@ -163,7 +176,7 @@ class IPlugin {
    * @param {object} metadata - The URL associated with the data
    */
   saveResult(data, metadata) {
-    app.log(this.name, data, metadata);
+    app.save(this.name, data, metadata);
   }
 
   /**
@@ -186,7 +199,7 @@ class IPlugin {
     }else{
       message={ type: 'not_found'}
     }
-    app.log(this.name, message, metadata/*,'No match found, but found potential candidates', { url, candidates }*/);
+    app.save(this.name, message, metadata/*,'No match found, but found potential candidates', { url, candidates }*/);
   }
 
   /**

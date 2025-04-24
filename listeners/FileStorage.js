@@ -4,7 +4,7 @@ const crypto = require('crypto');
 const eventEmitter = require('../lib/EventEmitter');
 
 /**
- * File storage that listens for events and writes them to files
+ * File listeners that listens for events and writes them to files
  */
 class FileStorage {
   constructor(options = {}) {
@@ -20,17 +20,18 @@ class FileStorage {
     }
 
     // Register event listener for data events
-    eventEmitter.on('log', this.handleEvent.bind(this));
+    eventEmitter.on('save', this.saveData.bind(this));
   }
 
   /**
    * Handle an event by logging to file
    * @param {Event} event - The event object
    */
-  handleEvent(event) {
+  saveData(event) {
     try {
+      console.log(event);
       // Extract metadata
-      const { url = event.metadata?.pageUrl, dealer_id = null, car_id = null } = event.metadata || {};
+      const { url = event.metadata?.pageUrl , dealer_id = null, car_id = null } = event.metadata || {};
 
       // Build hash based on metadata
       let hash;
@@ -47,7 +48,7 @@ class FileStorage {
 
       const filePath = path.join(this.options.logDir, filename);
 
-      // Prepare data for storage
+      // Prepare data for listeners
       const storageData = {
         timestamp: event.timestamp.toISOString(),
         source: event.source,
