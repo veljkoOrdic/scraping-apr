@@ -8,14 +8,14 @@ const plugins = {
     }
 };
 
-// Define storage configuration
-const storage = {
-    ConsoleStorage: { },
+// Define listeners configuration
+const listeners = {
+    ConsoleLog: { },
     FileStorage: { filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance with debug enabled
-const scraper = new Scraper(plugins, storage, { debug: true });
+const scraper = new Scraper(plugins, listeners, { debug: true });
 
 // Get URL from command line or use a default
 const url = process.argv[2] || 'https://www.google.com';

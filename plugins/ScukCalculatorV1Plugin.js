@@ -63,16 +63,15 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
         const url = request.url();
         if (this.isInitUrl(url) && !this.initRequestBody) {
             if (request.method() === 'OPTIONS') {
-                console.log('[SCUK] Skipping preflight request:', request.url());
+                app.info(this.name, `Skipping preflight request:${request.url()}`);
                 return;
             }
 
             try {
                 const postData = request.postData();
-                console.log('[SCUK] Captured init request data:', postData, { url });
+                app.info(this.name, 'Captured init request data:', postData, { url });
                 this.initRequestBody = postData;
             } catch (e) {
-                console.error(this.name, `Could not capture init postData: ${e.message}`, { url });
                 app.error(this.name, `Could not capture init postData: ${e.message}`, { url });
             }
         }
@@ -87,7 +86,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
         // Process /init response
         if (this.isInitUrl(url)) {
             if (response.request().method() === 'OPTIONS') {
-                console.log('[SCUK] Skipping preflight response:', response.url());
+                app.info(this.name, `Skipping preflight response:${response.url()}`);
                 return;
             }
 
@@ -96,7 +95,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
             try {
                 const body = await response.text();
-                console.log('[SCUK] Init response body:', body);
+                app.info(this.name, 'Got Init response body');
 
                 const json = JSON.parse(body);
                 const data = json.data;
@@ -105,17 +104,16 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                 const { vehicle, lender, eligibleProducts } = extractor.init(this.initRequestBody, data);
 
                 if (vehicle) {
-                    console.log('[SCUK] Extracted vehicle:', vehicle);
+                    app.info(this.name, 'Extracted vehicle:', vehicle);
                     this.results.push(vehicle);
                 }
 
                 this.skin = lender;
                 for (const product of eligibleProducts) {
-                    console.log('[SCUK] Eligible product:', product);
+                    app.info(this.name, `Eligible product:${product}`);
                     this.eligibleProducts.add(product);
                 }
             } catch (e) {
-                console.error(this.name, `Error in init processing: ${e.message}`, { url });
                 app.error(this.name, `Error in init processing: ${e.message}`, { url });
             }
 
@@ -130,14 +128,14 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
             try {
                 const body = await response.text();
-                console.log(`[SCUK] Quote response (${productType}):`);
+                app.info(this.name, `Quote response (${productType})`);
 
                 const json = JSON.parse(body);
                 const extractor = this.getExtractor('ScukCalculatorV1Finance', { lender: this.skin });
                 const extracted = extractor.process(json);
 
                 if (extracted) {
-                    console.log(`[SCUK] Extracted finance (${productType}):`, extracted);
+                    app.info(this.name, `Extracted finance (${productType})`);
                     this.results.push(extracted);
                     this.processedProducts.add(productType);
 
@@ -149,7 +147,6 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                     }
                 }
             } catch (e) {
-                console.error(this.name, `Error in quote processing: ${e.message}`, { url });
                 app.error(this.name, `Error in quote processing: ${e.message}`, { url });
             }
         }
@@ -166,7 +163,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                     const processed = Array.from(this.processedProducts);
                     const done = eligible.every(p => processed.includes(p));
 
-                    console.log('[SCUK] Finalizing after load', {
+                    app.info(this.name, 'Finalizing after load', {
                         eligible,
                         processed,
                         done

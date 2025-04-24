@@ -6,14 +6,14 @@ const plugins = {
     'codeweavers-calculator': {closeAfterFind: true}
 };
 
-// Define storage configuration
-const storage = {
-    ConsoleStorage: { },
+// Define listeners configuration
+const listeners = {
+    ConsoleLog: { },
     FileStorage: { filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
-const scraper = new Scraper(plugins, storage);
+const scraper = new Scraper(plugins, listeners);
 
 // Run the scraping
 const url = process.argv[2];

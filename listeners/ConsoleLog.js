@@ -1,10 +1,10 @@
 /**
- * Console output storage that listens for events
+ * Console output listeners that listens for events
  */
-// storage/ConsoleStorage.js
+// listeners/ConsoleLog.js
 const eventEmitter = require('../lib/EventEmitter');
 
-class ConsoleStorage {
+class ConsoleLog {
   constructor() {
     this.COLORS = {
       RED: '\x1b[31m',
@@ -24,7 +24,10 @@ class ConsoleStorage {
     const timestamp = event.timestamp.toISOString()
         .replace('T', ' ')
         .replace(/\.\d+Z$/, '');
-    const url = event.metadata?.url || 'N/A';
+
+    // Get URL from metadata with fallbacks
+    const url = event.metadata?.url || event.metadata?.pageUrl;
+
     let formattedPayload = event.payload;
     if (typeof event.payload !== 'string') {
       try {
@@ -33,7 +36,11 @@ class ConsoleStorage {
         formattedPayload = `[Object: Could not stringify] ${error.message}`;
       }
     }
-    const output = `${timestamp} (${event.source}) ${formattedPayload} [${url}]`;
+    // Only include URL in output if it exists
+    let output = `${timestamp} (${event.source}) ${formattedPayload}`;
+    if (url) {
+      output += ` [${url}]`;
+    }
     const color = event.context?.color;
     if (color) {
       console.log(`${color}${output}${this.COLORS.RESET}`);
@@ -46,7 +53,10 @@ class ConsoleStorage {
     const timestamp = event.timestamp.toISOString()
         .replace('T', ' ')
         .replace(/\.\d+Z$/, '');
-    const url = event.metadata?.url || 'N/A';
+
+    // Get URL from metadata with fallbacks
+    const url = event.metadata?.url || event.metadata?.pageUrl;
+
     let formattedPayload = event.payload;
     if (typeof event.payload !== 'string') {
       try {
@@ -55,9 +65,13 @@ class ConsoleStorage {
         formattedPayload = `[Object: Could not stringify] ${error.message}`;
       }
     }
-    const output = `${timestamp} (${event.source}) ${formattedPayload} [${url}]`;
+    // Only include URL in output if it exists
+    let output = `${timestamp} (${event.source}) ${formattedPayload}`;
+    if (url) {
+      output += ` [${url}]`;
+    }
     console.error(`${this.COLORS.RED}${output}${this.COLORS.RESET}`);
   }
 }
 
-module.exports = ConsoleStorage;
+module.exports = ConsoleLog;

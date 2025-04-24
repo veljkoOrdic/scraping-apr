@@ -9,9 +9,9 @@ const plugins = {
     }
 };
 
-// Define storage configuration
-const storage = {
-    ConsoleStorage: {}
+// Define listeners configuration
+const listeners = {
+    ConsoleLog: {}
 };
 
 // Enable debug mode to see more detailed logs
@@ -34,7 +34,7 @@ app.exit = function(code = 0) {
 };
 
 // Create Scraper instance
-const scraper = new Scraper(plugins, storage, { debug: true });
+const scraper = new Scraper(plugins, listeners, { debug: true });
 
 // Get URL from command line or use a default
 const url = process.argv[2] || 'https://www.google.com';

@@ -6,14 +6,14 @@ const plugins = {
     'new-vehicle-finance': { closeAfterFind: true }
 };
 
-// Define storage configuration with options
-const storage = {
-    ConsoleStorage: { },
+// Define listeners configuration with options
+const listeners = {
+    ConsoleLog: { },
     FileStorage: { logDir:'data/nw', filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
-const scraper = new Scraper(plugins, storage);
+const scraper = new Scraper(plugins, listeners);
 
 // Run the scraping
 const url = process.argv[2];
