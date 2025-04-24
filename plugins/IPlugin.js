@@ -132,6 +132,7 @@ class IPlugin {
     // Default implementation: same as processResponse
     await this.processResponse(response);
   }
+
   /**
    * Clean up resources when the browser is closed
    * @returns {Promise<void>}
@@ -139,6 +140,7 @@ class IPlugin {
   async cleanup() {
     // Default implementation: do nothing
   }
+
   /**
    * Handle a successful result find
    * @param {any} result - The result data
@@ -150,30 +152,11 @@ class IPlugin {
 
     this.saveResult(result, this.metadata);
 
-    if (this.options.closeAfterFind && this.puppeteer && this.puppeteer.page) {
-      try {
-        this.puppeteer.page.evaluate(() => window.stop());
-      } catch (error) {}
-
-      if (this.options.closeAfterFind && this.puppeteer) {
-        setTimeout(() => {
-          try {
-            app.info(this.name, `Closing browser due to result found`, { url });
-
-            process.exitCode = 0;
-
-            this.puppeteer.close(true).catch(err => {
-              app.error(this.name, `Error closing browser: ${err.message}`, { url });
-              setTimeout(() => process.exit(0), 500);
-            });
-          } catch (error) {
-            app.error(this.name, `Error initiating browser close: ${error.message}`, { url });
-            setTimeout(() => process.exit(0), 500);
-          }
-        }, 100);
-      }
+    if (this.options.closeAfterFind) {
+      app.closeBrowser(this.name, url, true);
     }
   }
+
   /**
    * Save or publish a result (replacement for Writer.write)
    * @param {*} data - The data to save/publish
@@ -199,12 +182,13 @@ class IPlugin {
   saveResultNotFound(candidates, metadata) {
     let message = {type:'unknown'}
     if(Array.isArray(candidates) && candidates.length > 0){
-       message={ type: 'candidates' , urls:candidates}
+      message={ type: 'candidates' , urls:candidates}
     }else{
-       message={ type: 'not_found'}
+      message={ type: 'not_found'}
     }
     app.log(this.name, message, metadata/*,'No match found, but found potential candidates', { url, candidates }*/);
   }
+
   /**
    * Get an extractor instance
    * @param {string} name - Name of the extractor (without .js extension)
