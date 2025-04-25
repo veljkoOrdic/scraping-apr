@@ -1,0 +1,121 @@
+{
+  "status": 200,
+  "data": {
+    "creditRatingsEnabled": true,
+    "selectedCreditRating": "excellent",
+    "creditRatings": [
+      {
+        "id": 1,
+        "name": "Excellent"
+      },
+      {
+        "id": 2,
+        "name": "Good"
+      },
+      {
+        "id": 3,
+        "name": "Fair"
+      },
+      {
+        "id": 4,
+        "name": "Poor"
+      },
+      {
+        "id": 5,
+        "name": "Very Poor"
+      }
+    ],
+    "selectedDeposit": 0,
+    "isCommercial": false,
+    "selectedTerm": 48,
+    "selectedMileage": 9000,
+    "minDeposit": 0,
+    "maxDeposit": 4095,
+    "vehicle": {
+      "id": 6867683,
+      "manufacturer": "Nissan",
+      "range": "Qashqai",
+      "edition": "1.5 dCi n-tec SUV 5dr Diesel Manual 2WD Euro 6 (s\/s) (110 ps)",
+      "registered": "1443654000",
+      "registration": "KN65VGD",
+      "mileage": "67,257",
+      "engine_size": "1.5",
+      "price": "7,595",
+      "monthly_price": "200.73",
+      "monthly_payment": "200.73",
+      "slug": "\/used-nissan-qashqai-warrington-cheshire-6867683",
+      "status": "in_stock",
+      "status_label": null,
+      "subtitle": null,
+      "original_price": null,
+      "youtube_id": null,
+      "is_electric": false,
+      "supplied_price": "7,595",
+      "total_price": "7,595",
+      "vat_status": "",
+      "advert_type": "CARS",
+      "proposal_url": "https:\/\/www.paul-hartcars.co.uk",
+      "fuel_type": "Diesel",
+      "engage": {
+        "reverse_proxy_enabled": "1",
+        "reservation_amount": "250",
+        "price_plan": "free",
+        "steps": {
+          "partex": {
+            "url": "\/engage-redirect?vehicle_id=6867683&step_mode=partex",
+            "label_text": "FREE Part Exchange Valuation",
+            "icon": "ci ci-pound-sign"
+          },
+          "reserve": {
+            "url": "\/engage-redirect?vehicle_id=6867683&step_mode=reserve",
+            "label_text": "Click to Reserve",
+            "icon": "ci ci-shopping-cart"
+          },
+          "full": {
+            "url": "\/engage-redirect?vehicle_id=6867683",
+            "label_text": "Build &amp; Save Your Deal",
+            "icon": "ci ci-shopping-cart"
+          }
+        }
+      },
+      "finance_slug": "\/used-nissan-qashqai-warrington-cheshire-6867683#tabs-here",
+      "link_back_url": "https:\/\/www.paul-hartcars.co.uk\/used-nissan-qashqai-warrington-cheshire-6867683",
+      "settings": {
+        "show_price": true,
+        "show_was_price": false,
+        "show_status_label": false,
+        "show_engage_button": true,
+        "show_finance_apply_button": false,
+        "show_finance_checker_button": false,
+        "show_finance_checker_and_apply_buttons": false,
+        "include_admin_fee_in_stock_price": "0",
+        "show_auto_trader_price_indicator": false,
+        "auto_trader_price_indicator_allow_list": []
+      },
+      "admin_fee": "0"
+    },
+    "dealer": {
+      "address": {
+        "line1": "",
+        "line2": "",
+        "line3": "",
+        "town": "",
+        "county": "",
+        "postcode": ""
+      }
+    },
+    "clickFinanceWebFormEnabled": true,
+    "clickFinanceCalculatorPartexPositionTop": true,
+    "clickFinanceCalculatorEnableFinanceBranding": false,
+    "clickFinanceCalculatorEnableDarkMode": false,
+    "softSearch": [],
+    "clickCreditCheckerEnabled": false,
+    "terms": [
+      24,
+      36,
+      48,
+      60
+    ],
+    "isEligibleForPcpFinance": false
+  }
+}
