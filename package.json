@@ -15,7 +15,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.12",
     "csv-parser": "^3.2.0",
+    "lodash": "^4.17.21",
     "mysql2": "^3.14.0",
     "proxy-chain": "^2.3.0",
     "puppeteer": "^22.8.2",

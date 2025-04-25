@@ -1,9 +1,18 @@
 const Scraper = require('./lib/Scraper');
+let baseBlockerConfig = {};
+let scukConfig = {};
 
+try {
+    baseBlockerConfig = require('./config/request-blocker.js');
+    console.log("Successfully loaded request-blocker config");
+} catch (e) {
+    console.error("Error loading request-blocker config:", e.message);
+}
 // Define plugins configuration
 const plugins = {
     'logger': {},
-    'codeweavers-calculator': {closeAfterFind: true}
+    'codeweavers-calculator': {closeAfterFind: true},
+    'request-blocker': baseBlockerConfig
 };
 
 // Define listeners configuration
