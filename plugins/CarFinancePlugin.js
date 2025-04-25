@@ -54,16 +54,7 @@ class CarFinancePlugin extends IPlugin {
      */
     async processResponse(response) {
         if (this.isFinanceEndpoint(response)) {
-            try {
-                const results = await this.financeDetails(response);
-
-                if (results && results.length > 0) {
-                    // Use the standardized result handler
-                    this.handleResultFound(results, this.getPageUrl());
-                }
-            } catch (error) {
-                app.error(this.name, `Error processing response: ${error.message}`, { url: response.url() });
-            }
+            this.processFinanceResponse(response);
         } else if (this.isCandidateEndpoint(response)) {
             // Store potential candidates
             const url = response.url();
@@ -87,6 +78,18 @@ class CarFinancePlugin extends IPlugin {
         }
     }
 
+    async processFinanceResponse(response) {
+        try {
+            const results = await this.financeDetails(response);
+
+            if (results && results.length > 0) {
+                // Use the standardized result handler
+                this.handleResultFound(results, this.getPageUrl());
+            }
+        } catch (error) {
+            app.error(this.name, `Error processing response: ${error.message}`, { url: response.url() });
+        }
+    }
     /**
      * Extract finance details from a response
      * @param {puppeteer.HTTPResponse} response - The response to extract data from
