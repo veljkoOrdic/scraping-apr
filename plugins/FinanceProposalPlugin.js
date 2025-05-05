@@ -66,7 +66,7 @@ class FinanceProposalPlugin extends CarFinancePlugin {
             (
                 url.includes('financeproposal.co.uk/widget2/widget.js')
                 ||
-                url.includes('financeproposal.co.uk/handler.php')
+                url.includes('financeproposal.co.uk/widget2/handler.php')
             );
     }
 
@@ -88,7 +88,7 @@ class FinanceProposalPlugin extends CarFinancePlugin {
      */
     async processFinanceResponse(response) {
         const url = response.url();
-        const extractor = this.extractor;
+        const extractor = this.getExtractor('FinanceProposalFinance');
 
         // Handle API responses
         const parsedUrl = new URL(url);
