@@ -105,10 +105,10 @@ class FinanceProposalFinance {
             variant: '',
             derivative: params.car_deriv || '',
             registration_number: params.vrm,
-            registration_date: params.reg_date,
-            mileage: params.current_mileage || params.cMiles,
+            registration_date: params.registration_date,
+            mileage: params.mileage,
             status: params.vehicle_type === '1' ? 'Used' : 'New',
-            price: params.amount || params.cprice
+            price: params.price
         };
 
         // Store for future reference
