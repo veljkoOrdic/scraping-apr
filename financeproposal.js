@@ -1,15 +1,26 @@
 const Scraper = require('./lib/Scraper');
+const merge = require("lodash/merge");
+
+let baseBlockerConfig = {};
+
+try {
+    baseBlockerConfig = require('./config/request-blocker.js');
+    console.log("Successfully loaded request-blocker config");
+} catch (e) {
+    console.error("Error loading request-blocker config:", e.message);
+}
 
 // Define plugins configuration
 const plugins = {
     'logger': {},
-    'finance-proposal': {closeAfterFind: true}
+    'finance-proposal': {closeAfterFind: true},
+    'request-blocker': baseBlockerConfig
 };
 
 // Define listeners configuration
 const listeners = {
-    ConsoleLog: { },
-    FileStorage: {  logDir:'data/fp',filenameFormat: '{hash}.json'}
+    ConsoleLog: {},
+    FileStorage: {logDir: 'data/fp', filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
