@@ -1,10 +1,10 @@
 const fs = require('fs');
 const csv = require('csv-parser');
-const { exec } = require('child_process');
+const {exec} = require('child_process');
 
 function runCommand(scraper, carUrl, dealerId, carId) {
     return new Promise((resolve, reject) => {
-        const command = `node ${scraper} ${carUrl} ${dealerId} ${carId}`;
+        const command = `node ${scraper} "${carUrl}" ${dealerId} ${carId}`;
         //const command = `node source-example.js ${carUrl}`;
         exec(command, (error, stdout, stderr) => {
             if (error) {
@@ -39,7 +39,7 @@ async function processCSV(filePath, scraper, target_dir) {
                 const carUrl = row['url'];
                 const dealerId = row['dealer_id'];
                 const carId = row['car_id'];
-                let filePath = target_dir +'/'+ dealerId + '-' + carId + '.json';
+                let filePath = target_dir + '/' + dealerId + '-' + carId + '.json';
                 if (fs.existsSync(filePath)) {
                     console.log('This file exist: ' + filePath);
                     continue;
@@ -63,4 +63,4 @@ const scraper = process.argv[3];
 const target_dir = process.argv[4];
 processCSV(path, scraper, target_dir);
 
-// node scrape-csv.js data/cw-cars-to-test-1-3.csv codeweavers.js data/cw/
+// node scrape-csv.js data/sc-cars-to-test-whole.csv scukcalculator.js data/sc/

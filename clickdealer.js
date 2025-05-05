@@ -2,7 +2,6 @@ const Scraper = require('./lib/Scraper');
 const merge = require("lodash/merge");
 
 let baseBlockerConfig = {};
-let codeweaversConfig = {};
 
 try {
     baseBlockerConfig = require('./config/request-blocker.js');
@@ -11,25 +10,16 @@ try {
     console.error("Error loading request-blocker config:", e.message);
 }
 
-try {
-    codeweaversConfig = require('./config/codeweavers.js');
-    console.log("Successfully loaded codeweavers config");
-} catch (e) {
-    console.log("No codeweavers config found (this is optional)");
-}
-const mergedConfig = merge({}, baseBlockerConfig, codeweaversConfig);
-
-// Define plugins configuration
 const plugins = {
     'logger': {},
-    'codeweavers-calculator': {closeAfterFind: true},
-    'request-blocker': mergedConfig
+    'click-dealer': {closeAfterFind: true},
+    'request-blocker': baseBlockerConfig
 };
 
 // Define listeners configuration
 const listeners = {
     ConsoleLog: {},
-    FileStorage: {logDir: 'data/cw', filenameFormat: '{hash}.json'}
+    FileStorage: {logDir: 'data/cd', filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
