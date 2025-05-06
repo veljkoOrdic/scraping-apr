@@ -123,32 +123,29 @@ class FinanceProposalPlugin extends CarFinancePlugin {
                     this.vehicleExtracted = true;
                 }
 
-                // Process finance data
-                const financeData = extractor.processFinance(params, data);
-                console.log('Finance data:', financeData);
-                this.results.push(financeData);
+                if (params.rep) {
+                    // Process finance data
+                    const financeData = extractor.processFinance(params, data);
+                    console.log('Finance data:', financeData);
+                    this.results.push(financeData);
 
-                // Track product type as processed
-                const productType = params.type === '1' ? 'HP' : 'PCP';
-                this.processedProducts.add(productType);
+                    // Track product type as processed
+                    this.processedProducts.add(financeData.finance_type);
 
-                // If we receive a "unable to produce quote" message, remove from eligible products
-                if (data.error || !data.regular || data.regular === undefined) {
-                    this.eligibleProducts.delete(productType);
-                    app.info(this.name, `${productType} product not available, removing from eligible products`);
+                    // Check if all eligible products have been processed
+                    const allDone = Array.from(this.eligibleProducts).every(p =>
+                        this.processedProducts.has(p)
+                    );
+
+                    if (allDone && this.eligibleProducts.size > 0) {
+                        this.handleResultFound(this.results, this.getPageUrl());
+                    }
                 }
 
-                // Check if all eligible products have been processed
-                const allDone = Array.from(this.eligibleProducts).every(p =>
-                    this.processedProducts.has(p)
-                );
-
-                if (allDone && this.eligibleProducts.size > 0) {
-                    this.handleResultFound(this.results, this.getPageUrl());
-                }
             } catch (e) {
                 app.error(this.name, `Error in finance data extraction: ${e.message}`, {url});
             }
+
         }
 
     }
