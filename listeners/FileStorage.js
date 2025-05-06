@@ -74,6 +74,19 @@ class FileStorage {
         }
       }
 
+      // If the incoming data is not a "not_found" type,
+      // remove any existing "not_found" entries for the same URL, dealer_id, and car_id.
+      // This ensures we keep only the valid data when it becomes available.
+      const isIncomingNotFound = storageData.data?.type === 'not_found';
+      if (!isIncomingNotFound) {
+        fileData = fileData.filter(entry =>
+            !(entry.url === url &&
+                entry.dealer_id === dealer_id &&
+                entry.car_id === car_id &&
+                entry.data?.type === 'not_found')
+        );
+      }
+
       // Add new data and write to file
       fileData.push(storageData);
       fs.writeFileSync(filePath, JSON.stringify(fileData, null, 2), 'utf8');
