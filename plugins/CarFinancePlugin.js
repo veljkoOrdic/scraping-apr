@@ -21,7 +21,6 @@ class CarFinancePlugin extends IPlugin {
         // Initialize tracking arrays
         this.candidates = [];
         this.clients = [];
-        this.pageComplete = false;
         this.initialResponseProcessed = false;
     }
 
@@ -36,12 +35,8 @@ class CarFinancePlugin extends IPlugin {
         page.on('load', () => {
             // Give network requests a chance to finish
             setTimeout(() => {
-                if (!this.resultFound && this.candidates.length > 0) {
-                    this.pageComplete = true;
+                if (!this.resultFound ){
                     this.handleResultNotFound(this.candidates);
-                } else if (!this.resultFound) {
-                    this.pageComplete = true;
-                    this.handleResultNotFound([]);
                 }
             }, 10000); // Wait 10 seconds after load to check
         });
@@ -54,7 +49,7 @@ class CarFinancePlugin extends IPlugin {
      */
     async processResponse(response) {
         if (this.isFinanceEndpoint(response)) {
-            this.processFinanceResponse(response);
+            await this.processFinanceResponse(response);
         } else if (this.isCandidateEndpoint(response)) {
             // Store potential candidates
             const url = response.url();

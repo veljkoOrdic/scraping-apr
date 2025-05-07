@@ -7,21 +7,30 @@ class FinanceProposalFinance {
     }
 
     /**
+     * Determine a product type based on the 'id' parameter
+     *
+     * @param id
+     * @returns {string}
+     */
+    productType(id) {
+        if (id === '1') {
+            return 'HP';
+        } else if (id === '2') {
+            return 'PCP';
+        } else {
+            return 'unknown';
+        }
+    }
+
+    /**
      * Process finance data from the API response
      * @param {Object} params - URL parameters from the request
      * @param {Object} data - Parsed JSON data from the response
      * @returns {Object} Structured finance data
      */
     processFinance(params, data) {
-        // Determine product type based on the 'type' parameter
-        let productType;
-        if (params.type === '1') {
-            productType = 'HP';
-        } else if (params.type === '2') {
-            productType = 'PCP';
-        } else {
-            productType = 'unknown';
-        }
+        let productType = this.productType(params.type);
+
 
         // Calculate contract mileage if annual mileage is available
         const annualMileage = params.annual_mileage || params.milepa || 0;
@@ -62,8 +71,8 @@ class FinanceProposalFinance {
         // Mark as representative example if applicable
         if (params.rep === 'true') {
             financeData.is_representative = true;
-            financeData.type = `finance_representative_${productType.toLowerCase()}`;
-            financeData.name = `Representative ${productType}`;
+            // financeData.type = `finance_representative_${productType.toLowerCase()}`;
+            // financeData.name = `Representative ${productType}`;
             if (data.apr_nofees) {
                 financeData.apr_no_fees = data.apr_nofees;
             }
@@ -105,10 +114,10 @@ class FinanceProposalFinance {
             variant: '',
             derivative: params.car_deriv || '',
             registration_number: params.vrm,
-            registration_date: params.registration_date,
-            mileage: params.mileage,
+            registration_date: params.registration_date || params.reg_date,
+            mileage: params.mileage || params.current_mileage || params.cMiles,
             status: params.vehicle_type === '1' ? 'Used' : 'New',
-            price: params.price
+            price: params.price || params.amount || params.cprice
         };
 
         // Store for future reference
