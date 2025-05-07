@@ -23,6 +23,7 @@ class FinanceProposalPlugin extends CarFinancePlugin {
         this.processedProducts = new Set();
         this.resultFound = false;
         this.vehicleExtracted = false;
+        this.extractor = this.getExtractor('FinanceProposalFinance');
 
         // Collected results
         this.results = [];
@@ -33,20 +34,23 @@ class FinanceProposalPlugin extends CarFinancePlugin {
      * @param {Page} page - Puppeteer page
      */
     setPage(page) {
-        super.setPage(page);
+        //super.setPage(page);
         page.on('load', () => {
             setTimeout(() => {
                 if (!this.resultFound) {
-                    const eligible = Array.from(this.eligibleProducts);
+                  /*  const eligible = Array.from(this.eligibleProducts);
                     const processed = Array.from(this.processedProducts);
                     const done = eligible.every(p => processed.includes(p));
                     app.info(this.name, 'Finalizing after load', {
                         eligible,
                         processed,
                         done
-                    });
-                    if (done || eligible.length > 0) {
+                    });*/
+                    console.log("PLugin onload+10S", this.results)
+                    if (this.results.length > 0) {
                         this.handleResultFound(this.results, this.getPageUrl());
+                    }else{
+                        this.handleResultNotFound(this.candidates);
                     }
                 }
             }, 10000);
@@ -62,12 +66,7 @@ class FinanceProposalPlugin extends CarFinancePlugin {
     isFinanceEndpoint(response) {
         const url = response.url();
         const method = response.request().method();
-        return method === 'GET' &&
-            (
-                url.includes('financeproposal.co.uk/widget2/widget.js')
-                ||
-                url.includes('financeproposal.co.uk/widget2/handler.php')
-            );
+        return method === 'GET' && url.includes('financeproposal.co.uk/widget2/handler.php');
     }
 
 
@@ -88,65 +87,57 @@ class FinanceProposalPlugin extends CarFinancePlugin {
      */
     async processFinanceResponse(response) {
         const url = response.url();
-        const extractor = this.getExtractor('FinanceProposalFinance');
 
         // Handle API responses
         const parsedUrl = new URL(url);
         const params = Object.fromEntries(parsedUrl.searchParams.entries());
 
-        // Extract vehicle data from widget.js initialization
-        if (url.includes('/widget.js') && !this.vehicleExtracted) {
-            try {
-                if (params.vrm || params.cap_code) {
-                    const vehicleData = extractor.processVehicle(params);
-                    console.log('Vehicle data from widget.js:', vehicleData);
-                    this.results.push(vehicleData);
-                    this.vehicleExtracted = true;
-                }
-            } catch (e) {
-                app.error(this.name, `Error in vehicle data extraction: ${e.message}`, {url});
-            }
-        }
 
         // Extract data from handler.php API responses
-        if (url.includes('/handler.php')) {
-            try {
-                const body = await response.text();
-                const jsonString = body.replace(/^jQuery\d+_\d+\(|\);?$/g, '');
-                const data = JSON.parse(jsonString);
-
-                // Extract vehicle data if not already done
-                if (!this.vehicleExtracted && params.cap_code) {
-                    const vehicleData = extractor.processVehicle(params);
-                    console.log('Vehicle data from handler.php:', vehicleData);
-                    this.results.push(vehicleData);
-                    this.vehicleExtracted = true;
-                }
-
-                if (params.rep) {
-                    // Process finance data
-                    const financeData = extractor.processFinance(params, data);
-                    console.log('Finance data:', financeData);
-                    this.results.push(financeData);
-
-                    // Track product type as processed
-                    this.processedProducts.add(financeData.finance_type);
-
-                    // Check if all eligible products have been processed
-                    const allDone = Array.from(this.eligibleProducts).every(p =>
-                        this.processedProducts.has(p)
-                    );
-
-                    if (allDone && this.eligibleProducts.size > 0) {
-                        this.handleResultFound(this.results, this.getPageUrl());
-                    }
-                }
-
-            } catch (e) {
-                app.error(this.name, `Error in finance data extraction: ${e.message}`, {url});
+        try {
+            // Extract vehicle data if not already done
+            if (!this.vehicleExtracted && params.cap_code) {
+                const vehicleData = this.extractor.processVehicle(params);
+                this.results.push(vehicleData);
+                this.vehicleExtracted = true;
             }
 
+            const body = await response.text();
+            const jsonString = body.replace(/^jQuery\d+_\d+\(|\);?$/g, '');
+            const data = JSON.parse(jsonString);
+            const productType = this.extractor.productType(params.type);
+
+            // Process finance data if representative response
+            if (params.rep) {
+                const financeData = this.extractor.processFinance(params, data);
+                this.results.push(financeData);
+
+                // Track product type as processed
+                this.processedProducts.add(productType);
+            }
+            // otherwise use response to manage expected types
+            else {
+                // If we receive an "unable to produce quote" message, remove from eligible products
+                if (data.regular === undefined) {
+                    this.eligibleProducts.delete(productType);
+                    app.info(this.name, `${productType} product not available, removing from eligible products`);
+                }
+            }
+
+            // Check if all eligible products have been processed
+            const allDone = Array.from(this.eligibleProducts).every(p =>
+                this.processedProducts.has(p)
+            );
+
+            if (allDone && this.eligibleProducts.size > 0) {
+                console.error("HURRAY")
+                this.handleResultFound(this.results, this.getPageUrl());
+            }
+
+        } catch (e) {
+            app.error(this.name, `Error in finance data extraction: ${e.message}`, {url});
         }
+
 
     }
 }
