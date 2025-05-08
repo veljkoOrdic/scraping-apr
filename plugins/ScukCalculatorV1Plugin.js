@@ -22,7 +22,6 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
         // Track eligible + processed product types
         this.eligibleProducts = new Set();
         this.processedProducts = new Set();
-        this.pendingQuoteUrls = new Set();
 
         // Extracted skin (lender)
         this.skin = null;
@@ -77,40 +76,14 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
     }
 
     /**
-     * Wait some time
-     * @param ms
-     * @returns {Promise<unknown>}
-     */
-    async delay(ms) {
-        return new Promise(resolve => setTimeout(resolve, ms));
-    }
-
-    /**
-     * Find OPTIONS requests
-     * @param url
-     * @param method
-     * @returns {Promise<void>}
-     */
-    async findOptions(url, method) {
-        app.info(this.name, `OPTIONS detected, tracking URL for POST: ${url}`);
-        this.pendingQuoteUrls.add(url);
-        await this.delay(2000);
-    }
-
-    /**
      * Process response for init and finance quote endpoints
      */
     async processResponse(response) {
         const url = response.url();
         const method = response.request().method();
 
-        if (method === 'OPTIONS' && this.isFinanceEndpoint(url)) {
-            await this.findOptions(url, method);
-        }
-        if (method === 'POST' && this.isFinanceEndpoint(url)) {
-            if (this.pendingQuoteUrls.has(url)) {
-                this.pendingQuoteUrls.delete(url);
-
+        if (method === 'POST') {
+            if (this.isFinanceEndpoint(url)) {
                 try {
                     const body = await response.text();
                     const productTypeMatch = url.match(/\/quote\/(\w+)/i);
@@ -135,40 +108,36 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                     app.error(this.name, `Error processing POST response after OPTIONS: ${e.message}`, {url});
                 }
             }
-        }
 
-        // Process /init response
-        if (this.isInitUrl(url)) {
-            if (response.request().method() === 'OPTIONS') {
-                app.info(this.name, `Skipping preflight response:${response.url()}`);
-                return;
-            }
+            // Process /init response
+            if (this.isInitUrl(url)) {
 
-            if (this.initProcessed) return;
-            this.initProcessed = true;
+                if (this.initProcessed) return;
+                this.initProcessed = true;
 
-            try {
-                const body = await response.text();
-                app.info(this.name, 'Got Init response body');
+                try {
+                    const body = await response.text();
+                    app.info(this.name, 'Got Init response body');
 
-                const json = JSON.parse(body);
-                const data = json.data;
+                    const json = JSON.parse(body);
+                    const data = json.data;
 
-                const extractor = this.getExtractor('ScukCalculatorV1Finance');
-                const {vehicle, lender, eligibleProducts} = extractor.init(this.initRequestBody, data);
+                    const extractor = this.getExtractor('ScukCalculatorV1Finance');
+                    const {vehicle, lender, eligibleProducts} = extractor.init(this.initRequestBody, data);
 
-                if (vehicle) {
-                    app.info(this.name, 'Extracted vehicle:', vehicle);
-                    this.results.push(vehicle);
+                    if (vehicle) {
+                        app.info(this.name, 'Extracted vehicle:', vehicle);
+                        this.results.push(vehicle);
+                    }
+
+                    this.skin = lender;
+                    for (const product of eligibleProducts) {
+                        app.info(this.name, `Eligible product:${product}`);
+                        this.eligibleProducts.add(product);
+                    }
+                } catch (e) {
+                    app.error(this.name, `Error in init processing: ${e.message}`, {url});
                 }
-
-                this.skin = lender;
-                for (const product of eligibleProducts) {
-                    app.info(this.name, `Eligible product:${product}`);
-                    this.eligibleProducts.add(product);
-                }
-            } catch (e) {
-                app.error(this.name, `Error in init processing: ${e.message}`, {url});
             }
         }
 
@@ -178,11 +147,14 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
      * Wait 10s after load and finalize if all expected products are seen
      */
     setPage(page) {
-        // Listen for load event
         page.on('load', () => {
             setTimeout(() => {
                 if (!this.resultFound) {
-                    this.handleResultNotFound(this.candidates);
+                    if (this.results.length > 0) {
+                        this.handleResultFound(this.results, this.getPageUrl());
+                    } else {
+                        this.handleResultNotFound(this.candidates);
+                    }
                 }
             }, 10000); // Wait 10 seconds after load to check
         });
