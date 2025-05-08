@@ -14,7 +14,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
             ...options
         });
 
-        this.options = { ...this.options };
+        this.options = {...this.options};
 
         // Collected results
         this.results = [];
@@ -43,10 +43,8 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
     /**
      * Match finance quote POST
      */
-    isFinanceEndpoint(response) {
-        const url = response.url();
-        const method = response.request().method();
-        return method === 'POST' && /\/api\/v1\/quote\//i.test(url);
+    isFinanceEndpoint(url) {
+        return /\/api\/v1\/quote\//i.test(url);
     }
 
     /**
@@ -69,10 +67,10 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
             try {
                 const postData = request.postData();
-                app.info(this.name, 'Captured init request data:', postData, { url });
+                app.info(this.name, 'Captured init request data:', postData, {url});
                 this.initRequestBody = postData;
             } catch (e) {
-                app.error(this.name, `Could not capture init postData: ${e.message}`, { url });
+                app.error(this.name, `Could not capture init postData: ${e.message}`, {url});
             }
         }
     }
@@ -82,74 +80,67 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
      */
     async processResponse(response) {
         const url = response.url();
+        const method = response.request().method();
 
-        // Process /init response
-        if (this.isInitUrl(url)) {
-            if (response.request().method() === 'OPTIONS') {
-                app.info(this.name, `Skipping preflight response:${response.url()}`);
-                return;
-            }
+        if (method === 'POST') {
+            if (this.isFinanceEndpoint(url)) {
+                try {
+                    const body = await response.text();
+                    const productTypeMatch = url.match(/\/quote\/(\w+)/i);
+                    const productType = productTypeMatch ? productTypeMatch[1].toUpperCase() : 'unknown';
+                    const extractor = this.getExtractor('ScukCalculatorV1Finance', {lender: this.skin});
+                    const extracted = extractor.process(body);
 
-            if (this.initProcessed) return;
-            this.initProcessed = true;
+                    if (extracted) {
+                        app.info(this.name, `Extracted finance data (${productType}) after waiting`);
+                        this.results.push(extracted);
+                        this.processedProducts.add(productType);
 
-            try {
-                const body = await response.text();
-                app.info(this.name, 'Got Init response body');
+                        const allDone = Array.from(this.eligibleProducts).every(p =>
+                            this.processedProducts.has(p)
+                        );
 
-                const json = JSON.parse(body);
-                const data = json.data;
-
-                const extractor = this.getExtractor('ScukCalculatorV1Finance');
-                const { vehicle, lender, eligibleProducts } = extractor.init(this.initRequestBody, data);
-
-                if (vehicle) {
-                    app.info(this.name, 'Extracted vehicle:', vehicle);
-                    this.results.push(vehicle);
-                }
-
-                this.skin = lender;
-                for (const product of eligibleProducts) {
-                    app.info(this.name, `Eligible product:${product}`);
-                    this.eligibleProducts.add(product);
-                }
-            } catch (e) {
-                app.error(this.name, `Error in init processing: ${e.message}`, { url });
-            }
-
-            return;
-        }
-
-        // Process /quote/{type} finance responses
-        if (this.isFinanceEndpoint(response)) {
-            const match = url.match(/\/quote\/(\w+)/);
-            const productType = match ? match[1].toLowerCase() : null;
-            if (!productType || this.processedProducts.has(productType)) return;
-
-            try {
-                const body = await response.text();
-                app.info(this.name, `Quote response (${productType})`);
-
-                const json = JSON.parse(body);
-                const extractor = this.getExtractor('ScukCalculatorV1Finance', { lender: this.skin });
-                const extracted = extractor.process(json);
-
-                if (extracted) {
-                    app.info(this.name, `Extracted finance (${productType})`);
-                    this.results.push(extracted);
-                    this.processedProducts.add(productType);
-
-                    const allDone = Array.from(this.eligibleProducts).every(p =>
-                        this.processedProducts.has(p)
-                    );
-                    if (allDone) {
-                        this.handleResultFound(this.results, this.getPageUrl());
+                        if (allDone) {
+                            this.handleResultFound(this.results, this.getPageUrl());
+                        }
                     }
+                } catch (e) {
+                    app.error(this.name, `Error processing POST response after OPTIONS: ${e.message}`, {url});
                 }
-            } catch (e) {
-                app.error(this.name, `Error in quote processing: ${e.message}`, { url });
+            }
+
+            // Process /init response
+            if (this.isInitUrl(url)) {
+
+                if (this.initProcessed) return;
+                this.initProcessed = true;
+
+                try {
+                    const body = await response.text();
+                    app.info(this.name, 'Got Init response body');
+
+                    const json = JSON.parse(body);
+                    const data = json.data;
+
+                    const extractor = this.getExtractor('ScukCalculatorV1Finance');
+                    const {vehicle, lender, eligibleProducts} = extractor.init(this.initRequestBody, data);
+
+                    if (vehicle) {
+                        app.info(this.name, 'Extracted vehicle:', vehicle);
+                        this.results.push(vehicle);
+                    }
+
+                    this.skin = lender;
+                    for (const product of eligibleProducts) {
+                        app.info(this.name, `Eligible product:${product}`);
+                        this.eligibleProducts.add(product);
+                    }
+                } catch (e) {
+                    app.error(this.name, `Error in init processing: ${e.message}`, {url});
+                }
             }
         }
+
     }
 
     /**
@@ -159,21 +150,13 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
         page.on('load', () => {
             setTimeout(() => {
                 if (!this.resultFound) {
-                    const eligible = Array.from(this.eligibleProducts);
-                    const processed = Array.from(this.processedProducts);
-                    const done = eligible.every(p => processed.includes(p));
-
-                    app.info(this.name, 'Finalizing after load', {
-                        eligible,
-                        processed,
-                        done
-                    });
-
-                    if (done || eligible.length > 0) {
+                    if (this.results.length > 0) {
                         this.handleResultFound(this.results, this.getPageUrl());
+                    } else {
+                        this.handleResultNotFound(this.candidates);
                     }
                 }
-            }, 10000);
+            }, 10000); // Wait 10 seconds after load to check
         });
     }
 
