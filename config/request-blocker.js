@@ -21,5 +21,5 @@ module.exports = {
         '\\/required-asset\\/',
         '\\/api\\/'
     ],
-    logBlocked: true
+    logBlocked: false
 };

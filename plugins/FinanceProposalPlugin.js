@@ -38,15 +38,6 @@ class FinanceProposalPlugin extends CarFinancePlugin {
         page.on('load', () => {
             setTimeout(() => {
                 if (!this.resultFound) {
-                  /*  const eligible = Array.from(this.eligibleProducts);
-                    const processed = Array.from(this.processedProducts);
-                    const done = eligible.every(p => processed.includes(p));
-                    app.info(this.name, 'Finalizing after load', {
-                        eligible,
-                        processed,
-                        done
-                    });*/
-                    console.log("PLugin onload+10S", this.results)
                     if (this.results.length > 0) {
                         this.handleResultFound(this.results, this.getPageUrl());
                     }else{

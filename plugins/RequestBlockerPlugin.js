@@ -16,7 +16,7 @@ class RequestBlockerPlugin extends IPlugin {
             blockTypes: [],         // Array of resource types to block (image, stylesheet, font, etc.)
             excludePatterns: [],    // Array of regex patterns to exempt from blocking
             enabled: true,          // Enable/disable the plugin
-            logBlocked: true,       // Whether to log blocked requests
+            logBlocked: false,       // Whether to log blocked requests
             ...options
         };
 
