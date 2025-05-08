@@ -33,8 +33,7 @@ class ScukCalculatorV1Finance {
             registration_number: parsedPost.vrm || null,
             registration_date: parsedPost.date_first_registered || null,
             mileage: parsedPost.mileage || null,
-            status: parsedPost.category || null,
-            url: parsedPost.url || null
+            status: parsedPost.category || null
         };
 
 
@@ -42,7 +41,7 @@ class ScukCalculatorV1Finance {
 
         const eligibleProducts = [];
         for (const [key, val] of Object.entries(data.products || {})) {
-            if (val.eligible) eligibleProducts.push(key.toLowerCase());
+            if (val.eligible) eligibleProducts.push(key.toUpperCase());
         }
 
         return { vehicle, lender, eligibleProducts };
@@ -63,7 +62,7 @@ class ScukCalculatorV1Finance {
         const total = parseFloat(quote.totalamount || 0);
         const cashPrice = parseFloat(quote.ontheroadcashprice || 0);
 
-        const financeData = {
+        return {
             type: `finance_${productType}`,
             name: productType.toUpperCase(),
             finance_type: productType.toUpperCase(),
@@ -87,8 +86,6 @@ class ScukCalculatorV1Finance {
             residual: quote.final_payment || null,
             price_to_buy: quote.final_payment || null
         };
-
-        return financeData;
     }
 }
 

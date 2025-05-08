@@ -14,7 +14,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
             ...options
         });
 
-        this.options = { ...this.options };
+        this.options = {...this.options};
 
         // Collected results
         this.results = [];
@@ -22,6 +22,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
         // Track eligible + processed product types
         this.eligibleProducts = new Set();
         this.processedProducts = new Set();
+        this.pendingQuoteUrls = new Set();
 
         // Extracted skin (lender)
         this.skin = null;
@@ -43,10 +44,8 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
     /**
      * Match finance quote POST
      */
-    isFinanceEndpoint(response) {
-        const url = response.url();
-        const method = response.request().method();
-        return method === 'POST' && /\/api\/v1\/quote\//i.test(url);
+    isFinanceEndpoint(url) {
+        return /\/api\/v1\/quote\//i.test(url);
     }
 
     /**
@@ -69,12 +68,33 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
             try {
                 const postData = request.postData();
-                app.info(this.name, 'Captured init request data:', postData, { url });
+                app.info(this.name, 'Captured init request data:', postData, {url});
                 this.initRequestBody = postData;
             } catch (e) {
-                app.error(this.name, `Could not capture init postData: ${e.message}`, { url });
+                app.error(this.name, `Could not capture init postData: ${e.message}`, {url});
             }
         }
+    }
+
+    /**
+     * Wait some time
+     * @param ms
+     * @returns {Promise<unknown>}
+     */
+    async delay(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    /**
+     * Find OPTIONS requests
+     * @param url
+     * @param method
+     * @returns {Promise<void>}
+     */
+    async findOptions(url, method) {
+        app.info(this.name, `OPTIONS detected, tracking URL for POST: ${url}`);
+        this.pendingQuoteUrls.add(url);
+        await this.delay(2000);
     }
 
     /**
@@ -82,6 +102,40 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
      */
     async processResponse(response) {
         const url = response.url();
+        const method = response.request().method();
+
+        if (method === 'OPTIONS' && this.isFinanceEndpoint(url)) {
+            await this.findOptions(url, method);
+        }
+        if (method === 'POST' && this.isFinanceEndpoint(url)) {
+            if (this.pendingQuoteUrls.has(url)) {
+                this.pendingQuoteUrls.delete(url);
+
+                try {
+                    const body = await response.text();
+                    const productTypeMatch = url.match(/\/quote\/(\w+)/i);
+                    const productType = productTypeMatch ? productTypeMatch[1].toUpperCase() : 'unknown';
+                    const extractor = this.getExtractor('ScukCalculatorV1Finance', {lender: this.skin});
+                    const extracted = extractor.process(body);
+
+                    if (extracted) {
+                        app.info(this.name, `Extracted finance data (${productType}) after waiting`);
+                        this.results.push(extracted);
+                        this.processedProducts.add(productType);
+
+                        const allDone = Array.from(this.eligibleProducts).every(p =>
+                            this.processedProducts.has(p)
+                        );
+
+                        if (allDone) {
+                            this.handleResultFound(this.results, this.getPageUrl());
+                        }
+                    }
+                } catch (e) {
+                    app.error(this.name, `Error processing POST response after OPTIONS: ${e.message}`, {url});
+                }
+            }
+        }
 
         // Process /init response
         if (this.isInitUrl(url)) {
@@ -101,7 +155,7 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                 const data = json.data;
 
                 const extractor = this.getExtractor('ScukCalculatorV1Finance');
-                const { vehicle, lender, eligibleProducts } = extractor.init(this.initRequestBody, data);
+                const {vehicle, lender, eligibleProducts} = extractor.init(this.initRequestBody, data);
 
                 if (vehicle) {
                     app.info(this.name, 'Extracted vehicle:', vehicle);
@@ -114,66 +168,23 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                     this.eligibleProducts.add(product);
                 }
             } catch (e) {
-                app.error(this.name, `Error in init processing: ${e.message}`, { url });
-            }
-
-            return;
-        }
-
-        // Process /quote/{type} finance responses
-        if (this.isFinanceEndpoint(response)) {
-            const match = url.match(/\/quote\/(\w+)/);
-            const productType = match ? match[1].toLowerCase() : null;
-            if (!productType || this.processedProducts.has(productType)) return;
-
-            try {
-                const body = await response.text();
-                app.info(this.name, `Quote response (${productType})`);
-
-                const json = JSON.parse(body);
-                const extractor = this.getExtractor('ScukCalculatorV1Finance', { lender: this.skin });
-                const extracted = extractor.process(json);
-
-                if (extracted) {
-                    app.info(this.name, `Extracted finance (${productType})`);
-                    this.results.push(extracted);
-                    this.processedProducts.add(productType);
-
-                    const allDone = Array.from(this.eligibleProducts).every(p =>
-                        this.processedProducts.has(p)
-                    );
-                    if (allDone) {
-                        this.handleResultFound(this.results, this.getPageUrl());
-                    }
-                }
-            } catch (e) {
-                app.error(this.name, `Error in quote processing: ${e.message}`, { url });
+                app.error(this.name, `Error in init processing: ${e.message}`, {url});
             }
         }
+
     }
 
     /**
      * Wait 10s after load and finalize if all expected products are seen
      */
     setPage(page) {
+        // Listen for load event
         page.on('load', () => {
             setTimeout(() => {
                 if (!this.resultFound) {
-                    const eligible = Array.from(this.eligibleProducts);
-                    const processed = Array.from(this.processedProducts);
-                    const done = eligible.every(p => processed.includes(p));
-
-                    app.info(this.name, 'Finalizing after load', {
-                        eligible,
-                        processed,
-                        done
-                    });
-
-                    if (done || eligible.length > 0) {
-                        this.handleResultFound(this.results, this.getPageUrl());
-                    }
+                    this.handleResultNotFound(this.candidates);
                 }
-            }, 10000);
+            }, 10000); // Wait 10 seconds after load to check
         });
     }
 
