@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T23:21:52.605Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorhousecheshire.co.uk/used/land-rover/discovery-sport/20-td4-180-hse-dynamic-lux-5dr-auto/stockport/cheshire/21467610",
+    "dealer_id": "8656",
+    "car_id": "26272020",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "Discovery Sport",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MJP15W",
+        "registration_date": "23/03/2017",
+        "mileage": "47000",
+        "status": "Used",
+        "price": "18550"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "18550.00",
+        "total_price": 21985.64,
+        "deposit": "1855",
+        "balance": 16695,
+        "apr": 9.92,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 419.18,
+        "final_payment": 429.18,
+        "total_amount_payable": 21985.64,
+        "total_charge_for_credit": 3435.64,
+        "amount_of_credit": 16695,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 429.18
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T22:33:04.355Z",
+    "source": "finance_proposal",
+    "url": "https://www.miltonmotorcentre.co.uk/details/used-car-in-bedford/audi/s5/3.0-tdi-v6-sportback-tiptronic-quattro-euro-6-ss-5dr/1110995/",
+    "dealer_id": "7313",
+    "car_id": "23616201",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SW70SFX",
+        "registration_date": "2020-09-19",
+        "mileage": "25000",
+        "status": "Used",
+        "price": "33795"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "33795.00",
+        "total_price": 42574.6,
+        "deposit": "0",
+        "balance": 33795,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 709.41,
+        "final_payment": 719.41,
+        "total_amount_payable": 42574.6,
+        "total_charge_for_credit": 8779.6,
+        "amount_of_credit": 33795,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 719.41
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Zopa PCP",
+        "finance_type": "PCP",
+        "cash_price": "33795.00",
+        "total_price": 43366.99,
+        "deposit": "0",
+        "balance": 33795,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 599.3,
+        "final_payment": 14600.59,
+        "total_amount_payable": 43366.99,
+        "total_charge_for_credit": 9571.99,
+        "amount_of_credit": 33795,
+        "lender": "Zopa PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "12p",
+        "residual": 14600.59,
+        "price_to_buy": 14600.59
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T21:26:24.027Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/honda/civic/2.0-i-vtec-type-r-gt/1256324/",
+    "dealer_id": "6233",
+    "car_id": "25545079",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T21:26:24.030Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/honda/civic/2.0-i-vtec-type-r-gt/1256324/",
+    "dealer_id": "6233",
+    "car_id": "25545079",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YF56TKT",
+        "registration_date": "2007-02-15",
+        "mileage": "96850",
+        "status": "Used",
+        "price": "3995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "3995.00",
+        "total_price": 5033.8,
+        "deposit": "0",
+        "balance": 3995,
+        "apr": 9.9,
+        "rate_of_interest": 5.15,
+        "term": 60,
+        "regular_payment": 83.73,
+        "final_payment": 93.73,
+        "total_amount_payable": 5033.8,
+        "total_charge_for_credit": 1038.8,
+        "amount_of_credit": 3995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 93.73
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "3995.00",
+        "total_price": 5033.8,
+        "deposit": "0",
+        "balance": 3995,
+        "apr": 9.9,
+        "rate_of_interest": 5.15,
+        "term": 60,
+        "regular_payment": 83.73,
+        "final_payment": 93.73,
+        "total_amount_payable": 5033.8,
+        "total_charge_for_credit": 1038.8,
+        "amount_of_credit": 3995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 93.73,
+        "is_representative": true,
+        "apr_no_fees": 9.83
+      }
+    ]
+  }
+]

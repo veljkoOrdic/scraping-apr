@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T18:46:18.094Z",
+    "source": "finance_proposal",
+    "url": "https://garrypease.co.uk/vehicle/name/ford-fiesta-1-0-zetec-free-road-tax-cd-mp3-usb-air-con-fsh-new-timing-belt-kit-1-year-mot-1-year-aa-cover-67k-miles-great-1st-car-cheap/",
+    "dealer_id": "1098",
+    "car_id": "27620712",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T18:46:18.096Z",
+    "source": "finance_proposal",
+    "url": "https://garrypease.co.uk/vehicle/name/ford-fiesta-1-0-zetec-free-road-tax-cd-mp3-usb-air-con-fsh-new-timing-belt-kit-1-year-mot-1-year-aa-cover-67k-miles-great-1st-car-cheap/",
+    "dealer_id": "1098",
+    "car_id": "27620712",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MK64BDE",
+        "registration_date": "2014-09-01",
+        "mileage": "67700",
+        "status": "New",
+        "price": "4490"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "4490.00",
+        "total_price": 5658.4,
+        "deposit": "0",
+        "balance": 4490,
+        "apr": 9.91,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 94.14,
+        "final_payment": 104.14,
+        "total_amount_payable": 5658.4,
+        "total_charge_for_credit": 1168.4,
+        "amount_of_credit": 4490,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 104.14
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "4490.00",
+        "total_price": 5779.6,
+        "deposit": "0",
+        "balance": 4490,
+        "apr": 10.91,
+        "rate_of_interest": 5.7,
+        "term": 60,
+        "regular_payment": 96.16,
+        "final_payment": 106.16,
+        "total_amount_payable": 5779.6,
+        "total_charge_for_credit": 1289.6,
+        "amount_of_credit": 4490,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 106.16,
+        "is_representative": true,
+        "apr_no_fees": 10.85
+      }
+    ]
+  }
+]

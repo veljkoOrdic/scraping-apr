@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:32:54.261Z",
+    "source": "finance_proposal",
+    "url": "https://www.miltonmotorcentre.co.uk/details/used-car-in-bedford/audi/rs3/2.5-tfsi-sportback-s-tronic-quattro-euro-6-ss-5dr-nav/1412156/",
+    "dealer_id": "7313",
+    "car_id": "27445775",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FD65ZFC",
+        "registration_date": "2015-11-20",
+        "mileage": "39000",
+        "status": "Used",
+        "price": "23495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "23495.00",
+        "total_price": 29602,
+        "deposit": "0",
+        "balance": 23495,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 493.2,
+        "final_payment": 503.2,
+        "total_amount_payable": 29602,
+        "total_charge_for_credit": 6107,
+        "amount_of_credit": 23495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 503.2
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:39:22.306Z",
+    "source": "finance_proposal",
+    "url": "https://www.cuffmiller.co.uk/used/ford/puma/10-ecoboost-hybrid-mhev-st-line-x-5dr-dct/littlehampton/west-sussex/21510345",
+    "dealer_id": "7402",
+    "car_id": "26658591",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "Puma",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GX23JOJ",
+        "registration_date": "01/03/2023",
+        "mileage": "6200",
+        "status": "Used",
+        "price": "POA"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "8000.00",
+        "total_price": 10078,
+        "deposit": "0",
+        "balance": 8000,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 167.8,
+        "final_payment": 177.8,
+        "total_amount_payable": 10078,
+        "total_charge_for_credit": 2078,
+        "amount_of_credit": 8000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 177.8
+      }
+    ]
+  }
+]

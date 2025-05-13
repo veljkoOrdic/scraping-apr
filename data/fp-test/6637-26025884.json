@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T21:54:09.690Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarbarns.com/used/mini-clubman-1.5-cooper-exclusive-steptronic-euro-6-(s/s)-6dr-in-welford-on-avon-stratford-upon-avon/58842",
+    "dealer_id": "6637",
+    "car_id": "26025884",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WP71LKZ",
+        "registration_date": "2022-02-08",
+        "mileage": "23000",
+        "status": "New",
+        "price": "21995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "21995.00",
+        "total_price": 27712.6,
+        "deposit": "0",
+        "balance": 21995,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 461.71,
+        "final_payment": 471.71,
+        "total_amount_payable": 27712.6,
+        "total_charge_for_credit": 5717.6,
+        "amount_of_credit": 21995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 471.71,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

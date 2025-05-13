@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:58:49.702Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-land-rover-range-rover-fareham-hampshire-6849864",
+    "dealer_id": "1734",
+    "car_id": "27684324",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN21LRZ",
+        "registration_date": "11/03/2021",
+        "mileage": 26054,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62000,
+        "total_price": 62000,
+        "deposit": 6200,
+        "balance": 55800,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1246.73,
+        "final_payment": 1247.73,
+        "total_amount_payable": 81004.8,
+        "total_charge_for_credit": 19004.8,
+        "amount_of_credit": 55800,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:43:21.377Z",
+    "source": "finance_proposal",
+    "url": "https://clanvillegarage.co.uk/vehicle/name/volkswagen-polo-match-edition-tsi-dsg/",
+    "dealer_id": "712",
+    "car_id": "24142015",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GF17UNL",
+        "registration_date": "2017-03-31",
+        "mileage": "28865",
+        "status": "New",
+        "price": "12995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "12995.00",
+        "total_price": 15666.16,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 326.17,
+        "final_payment": 336.17,
+        "total_amount_payable": 15666.16,
+        "total_charge_for_credit": 2671.16,
+        "amount_of_credit": 12995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 336.17,
+        "is_representative": true,
+        "apr_no_fees": 9.87
+      }
+    ]
+  }
+]

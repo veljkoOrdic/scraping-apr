@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T21:53:25.440Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarbarns.com/used/skoda-yeti-1.2-tsi-monte-carlo-dsg-euro-6-(s/s)-5dr-in-welford-on-avon-stratford-upon-avon/65594",
+    "dealer_id": "6637",
+    "car_id": "27051741",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T21:53:25.442Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarbarns.com/used/skoda-yeti-1.2-tsi-monte-carlo-dsg-euro-6-(s/s)-5dr-in-welford-on-avon-stratford-upon-avon/65594",
+    "dealer_id": "6637",
+    "car_id": "27051741",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DW16MSY",
+        "registration_date": "2016-08-12",
+        "mileage": "82000",
+        "status": "New",
+        "price": "9295"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "9295.00",
+        "total_price": 11712.4,
+        "deposit": "0",
+        "balance": 9295,
+        "apr": 9.92,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 195.04,
+        "final_payment": 205.04,
+        "total_amount_payable": 11712.4,
+        "total_charge_for_credit": 2417.4,
+        "amount_of_credit": 9295,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 205.04
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9295.00",
+        "total_price": 11712.4,
+        "deposit": "0",
+        "balance": 9295,
+        "apr": 9.92,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 195.04,
+        "final_payment": 205.04,
+        "total_amount_payable": 11712.4,
+        "total_charge_for_credit": 2417.4,
+        "amount_of_credit": 9295,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 205.04,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

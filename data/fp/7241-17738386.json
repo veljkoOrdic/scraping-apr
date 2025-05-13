@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T22:32:03.230Z",
+    "source": "finance_proposal",
+    "url": "https://www.jdmotorsltd.co.uk/vans/volkswagen/transporter/1958-vw-t1-split-screen-van-bus/886828/",
+    "dealer_id": "7241",
+    "car_id": "17738386",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T22:32:03.232Z",
+    "source": "finance_proposal",
+    "url": "https://www.jdmotorsltd.co.uk/vans/volkswagen/transporter/1958-vw-t1-split-screen-van-bus/886828/",
+    "dealer_id": "7241",
+    "car_id": "17738386",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "747XUE",
+        "registration_date": "2007-08-15",
+        "mileage": "50000",
+        "status": "New",
+        "price": "39995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "39995.00",
+        "total_price": 47390.96,
+        "deposit": "4000",
+        "balance": 35995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 903.77,
+        "final_payment": 913.77,
+        "total_amount_payable": 47390.96,
+        "total_charge_for_credit": 7395.96,
+        "amount_of_credit": 35995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 913.77
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "39995.00",
+        "total_price": 47390.96,
+        "deposit": "4000",
+        "balance": 35995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 903.77,
+        "final_payment": 913.77,
+        "total_amount_payable": 47390.96,
+        "total_charge_for_credit": 7395.96,
+        "amount_of_credit": 35995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 913.77,
+        "is_representative": true,
+        "apr_no_fees": 9.89
+      }
+    ]
+  }
+]

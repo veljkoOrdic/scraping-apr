@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T19:27:36.814Z",
+    "source": "finance_proposal",
+    "url": "https://www.strettonofkew.co.uk/cars/hyundai/kona/1.6-h-gdi-premium/1387525/",
+    "dealer_id": "2544",
+    "car_id": "27147370",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T19:27:36.816Z",
+    "source": "finance_proposal",
+    "url": "https://www.strettonofkew.co.uk/cars/hyundai/kona/1.6-h-gdi-premium/1387525/",
+    "dealer_id": "2544",
+    "car_id": "27147370",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YY20EOA",
+        "registration_date": "2020-08-14",
+        "mileage": "14464",
+        "status": "Used",
+        "price": "15495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "15495.00",
+        "total_price": 19493.4,
+        "deposit": "1550",
+        "balance": 13945,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 298.89,
+        "final_payment": 308.89,
+        "total_amount_payable": 19493.4,
+        "total_charge_for_credit": 3998.4,
+        "amount_of_credit": 13945,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 308.89
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "15495.00",
+        "total_price": 19493.4,
+        "deposit": "1550",
+        "balance": 13945,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 298.89,
+        "final_payment": 308.89,
+        "total_amount_payable": 19493.4,
+        "total_charge_for_credit": 3998.4,
+        "amount_of_credit": 13945,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 308.89,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

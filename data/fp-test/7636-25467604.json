@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:01:50.409Z",
+    "source": "finance_proposal",
+    "url": "https://www.bincaretail.co.uk/stock/802a4a95b99c",
+    "dealer_id": "7636",
+    "car_id": "25467604",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DN16KOU",
+        "registration_date": "2016-03-31",
+        "mileage": "110780",
+        "status": "New",
+        "price": "15000.0"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "15000.00",
+        "total_price": 18060.88,
+        "deposit": "1500",
+        "balance": 13500,
+        "apr": 10.91,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 344.81,
+        "final_payment": 354.81,
+        "total_amount_payable": 18060.88,
+        "total_charge_for_credit": 3060.88,
+        "amount_of_credit": 13500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 354.81,
+        "is_representative": true,
+        "apr_no_fees": 10.88
+      }
+    ]
+  }
+]

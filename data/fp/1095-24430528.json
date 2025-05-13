@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T18:44:09.012Z",
+    "source": "finance_proposal",
+    "url": "https://hensoncars.co.uk/vehicle/name/volkswagen-scirocco-gt-tdi/",
+    "dealer_id": "1095",
+    "car_id": "24430528",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T18:44:09.014Z",
+    "source": "finance_proposal",
+    "url": "https://hensoncars.co.uk/vehicle/name/volkswagen-scirocco-gt-tdi/",
+    "dealer_id": "1095",
+    "car_id": "24430528",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MK60GGX",
+        "registration_date": "2010-09-07",
+        "mileage": "99648",
+        "status": "New",
+        "price": "3495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "3495.00",
+        "total_price": 4405,
+        "deposit": "0",
+        "balance": 3495,
+        "apr": 9.91,
+        "rate_of_interest": 5.15,
+        "term": 60,
+        "regular_payment": 73.25,
+        "final_payment": 83.25,
+        "total_amount_payable": 4405,
+        "total_charge_for_credit": 910,
+        "amount_of_credit": 3495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 83.25
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "3495.00",
+        "total_price": 4405,
+        "deposit": "0",
+        "balance": 3495,
+        "apr": 9.91,
+        "rate_of_interest": 5.15,
+        "term": 60,
+        "regular_payment": 73.25,
+        "final_payment": 83.25,
+        "total_amount_payable": 4405,
+        "total_charge_for_credit": 910,
+        "amount_of_credit": 3495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 83.25,
+        "is_representative": true,
+        "apr_no_fees": 9.83
+      }
+    ]
+  }
+]

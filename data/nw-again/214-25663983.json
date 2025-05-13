@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-12T14:07:46.713Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beechwoodcarsalesltd.co.uk/vehicle/cupra-leon-14-ehybrid-128kwh-vz2-dsg-euro-6-ss-5dr-in-west-bromwich-west-midlands-65b92363-791b-40e7-b944-b1f000b0112f",
+    "dealer_id": "214",
+    "car_id": "25663983",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DK71XAF",
+        "registration_date": "01/10/2021",
+        "mileage": 77000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15950,
+        "total_price": 15950,
+        "deposit": 0,
+        "balance": 15950,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 503.89,
+        "final_payment": 504.89,
+        "total_amount_payable": 18141.04,
+        "total_charge_for_credit": 2191.04,
+        "amount_of_credit": 15950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

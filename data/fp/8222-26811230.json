@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T23:13:01.597Z",
+    "source": "finance_proposal",
+    "url": "https://www.tradeautosltd.com/details/used-car-in-croydon/bmw/3series/2.0-320d-m-sport-touring-auto-xdrive-euro-5-ss-5dr/1358770/",
+    "dealer_id": "8222",
+    "car_id": "26811230",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LL64YHP",
+        "registration_date": "2014-12-12",
+        "mileage": "121000",
+        "status": "Used",
+        "price": "7995"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "7995.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7995.00",
+        "total_price": 10507.6,
+        "deposit": "0",
+        "balance": 7995,
+        "apr": 11.92,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 174.96,
+        "final_payment": 184.96,
+        "total_amount_payable": 10507.6,
+        "total_charge_for_credit": 2512.6,
+        "amount_of_credit": 7995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 184.96
+      }
+    ]
+  }
+]

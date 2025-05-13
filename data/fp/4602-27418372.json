@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T20:00:42.508Z",
+    "source": "finance_proposal",
+    "url": "https://www.britanniacarsuk.com/detail/1353709/used-porsche-taycan-performance-plus-93-4kwh-4s-auto-4wd-4dr-11kw-charger-sheffield",
+    "dealer_id": "4602",
+    "car_id": "27418372",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "49EW",
+        "registration_date": "2022-11-23",
+        "mileage": "17000",
+        "status": "Used",
+        "price": "59480"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "59480.00",
+        "total_price": 76531,
+        "deposit": "0",
+        "balance": 59480,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1275.35,
+        "final_payment": 1285.35,
+        "total_amount_payable": 76531,
+        "total_charge_for_credit": 17051,
+        "amount_of_credit": 59480,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1285.35
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Close PCP",
+        "finance_type": "PCP",
+        "cash_price": "59480.00",
+        "total_price": 77636.55,
+        "deposit": "0",
+        "balance": 59480,
+        "apr": 10.89,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1117.74,
+        "final_payment": 23985.03,
+        "total_amount_payable": 77636.55,
+        "total_charge_for_credit": 18156.55,
+        "amount_of_credit": 59480,
+        "lender": "Close PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "12p",
+        "residual": 23985.03,
+        "price_to_buy": 23985.03
+      }
+    ]
+  }
+]

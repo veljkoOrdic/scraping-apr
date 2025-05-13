@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T20:19:15.289Z",
+    "source": "finance_proposal",
+    "url": "https://www.cambridgemotorsplumstead.co.uk/listing/vauxhall-adam/",
+    "dealer_id": "4912",
+    "car_id": "27080717",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FV15XRS",
+        "registration_date": "2015-01-01",
+        "mileage": "26000",
+        "status": "Used",
+        "price": "5995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "5995.00",
+        "total_price": 7555,
+        "deposit": "0",
+        "balance": 5995,
+        "apr": 9.91,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 125.75,
+        "final_payment": 135.75,
+        "total_amount_payable": 7555,
+        "total_charge_for_credit": 1560,
+        "amount_of_credit": 5995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "9000",
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 135.75
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "5995.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "9000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

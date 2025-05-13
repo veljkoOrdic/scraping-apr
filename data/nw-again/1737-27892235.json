@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:58:54.302Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.centralgarageford.co.uk/used/cars/ford/ecosport/1-0t-ecoboost-st-line-euro-6-s-s-5dr-154",
+    "dealer_id": "1737",
+    "car_id": "27892235",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY68RLZ",
+        "registration_date": "09/10/2018",
+        "mileage": 49000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9250,
+        "total_price": 9250,
+        "deposit": 925,
+        "balance": 8325,
+        "apr": 9.9,
+        "rate_of_interest": 9.43,
+        "term": 48,
+        "regular_payment": 209.06,
+        "final_payment": 209.06,
+        "total_amount_payable": 10959.88,
+        "total_charge_for_credit": 1709.88,
+        "amount_of_credit": 8325,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

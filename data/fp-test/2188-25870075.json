@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:17:08.770Z",
+    "source": "finance_proposal",
+    "url": "https://www.sslogancars.co.uk/used/mg-motor-uk/zs/15-vti-tech-exclusive-5dr/newtownabbey/county-antrim/21434587",
+    "dealer_id": "2188",
+    "car_id": "25870075",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LG23JTJ",
+        "registration_date": "22/06/2023",
+        "mileage": "19000",
+        "status": "Used",
+        "price": "14750"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "14750.00",
+        "total_price": 18915,
+        "deposit": "1475",
+        "balance": 13275,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 290.5,
+        "final_payment": 300.5,
+        "total_amount_payable": 18915,
+        "total_charge_for_credit": 4165,
+        "amount_of_credit": 13275,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 300.5
+      }
+    ]
+  }
+]

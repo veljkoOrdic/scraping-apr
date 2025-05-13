@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T21:45:03.249Z",
+    "source": "finance_proposal",
+    "url": "https://www.courtyardmotorco.co.uk/used-toyota-proace-warrington-cheshire-6569414",
+    "dealer_id": "6483",
+    "car_id": "26578285",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "RO67YEK",
+        "registration_date": "2017-11-28",
+        "mileage": "111321",
+        "status": "New",
+        "price": "7000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7000.00",
+        "total_price": 8723,
+        "deposit": "1000",
+        "balance": 6000,
+        "apr": 10.91,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 128.55,
+        "final_payment": 138.55,
+        "total_amount_payable": 8723,
+        "total_charge_for_credit": 1723,
+        "amount_of_credit": 6000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "6000",
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 138.55
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:23:59.698Z",
+    "source": "finance_proposal",
+    "url": "https://www.metrocarslondon.com/vehicle/volkswagen-transporter-20-bitdi-t32-bluemotion-tech-highline-crew-van-dsg-4motion-swb-euro-6-ss-5dr-in-chesham-buckinghamshire-7ff13f3a-1a17-4ded-9ddd-b23a014b9e4a",
+    "dealer_id": "2458",
+    "car_id": "26422640",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "PO68XCV",
+        "registration_date": "2018-09-18",
+        "mileage": "38000",
+        "status": "New",
+        "price": "33995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "40794.00",
+        "total_price": 49569.8,
+        "deposit": "10198",
+        "balance": 30596,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 656.03,
+        "final_payment": 666.03,
+        "total_amount_payable": 49569.8,
+        "total_charge_for_credit": 8775.8,
+        "amount_of_credit": 30596,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 666.03,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

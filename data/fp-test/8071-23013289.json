@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T23:12:37.278Z",
+    "source": "finance_proposal",
+    "url": "https://www.taylors-pitstop.com/used-car-details/used-bmw-x1-20-xdrive20i-se-estate-alpine-white-manual-petrol/id-1433/",
+    "dealer_id": "8071",
+    "car_id": "23013289",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FY15JKF",
+        "registration_date": "23/03/2015",
+        "mileage": "35500",
+        "status": "New",
+        "price": "9800"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "9800.00",
+        "total_price": 12877.6,
+        "deposit": "0",
+        "balance": 9800,
+        "apr": 11.91,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 214.46,
+        "final_payment": 224.46,
+        "total_amount_payable": 12877.6,
+        "total_charge_for_credit": 3077.6,
+        "amount_of_credit": 9800,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 224.46
+      }
+    ]
+  }
+]

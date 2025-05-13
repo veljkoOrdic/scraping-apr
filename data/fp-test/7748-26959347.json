@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:06:44.505Z",
+    "source": "finance_proposal",
+    "url": "https://www.crowngarageusedcars.co.uk/cars/honda/cr-v/2.0-h-i-mmd-elegance-ecvt-4wd-euro-6-ss-5dr/1370531/",
+    "dealer_id": "7748",
+    "car_id": "26959347",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AF24JUJ",
+        "registration_date": "2024-03-20",
+        "mileage": "3540",
+        "status": "New",
+        "price": "36490"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "36490.00",
+        "total_price": 44863.8,
+        "deposit": "7298",
+        "balance": 29192,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 625.93,
+        "final_payment": 635.93,
+        "total_amount_payable": 44863.8,
+        "total_charge_for_credit": 8373.8,
+        "amount_of_credit": 29192,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 635.93,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

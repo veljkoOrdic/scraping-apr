@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:49:45.442Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lonsdalevehiclesales.co.uk/vehicle/vauxhall-movano-l4h2-r3500-ss-xlwb-euro-6-now-sold-now-sold-in-gwent-7f6a356a-ac4f-42b7-a74c-1c65ebac6a41",
+    "dealer_id": "1273",
+    "car_id": "18761941",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CV20PDY",
+        "registration_date": "08/07/2020",
+        "mileage": 104154,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17994,
+        "total_price": 17994,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 301.52,
+        "final_payment": 302.52,
+        "total_amount_payable": 22590.7,
+        "total_charge_for_credit": 4596.7,
+        "amount_of_credit": 13495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:36:28.387Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorcompanybawtry.co.uk/mg-mg-zs-1-5-vti-tech-exclusive-euro-6-s-s-5dr-in-bawtry-south-yorkshire-97f75c71-2ce8-467b-b23b-b1ce01123c87",
+    "dealer_id": "2855",
+    "car_id": "25319025",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YP70XAD",
+        "registration_date": "2020-10-05",
+        "mileage": "14000",
+        "status": "Used",
+        "price": "12995.0000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "12995.00",
+        "total_price": 16721.8,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 278.53,
+        "final_payment": 288.53,
+        "total_amount_payable": 16721.8,
+        "total_charge_for_credit": 3726.8,
+        "amount_of_credit": 12995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 288.53
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Zopa PCP",
+        "finance_type": "PCP",
+        "cash_price": "12995.00",
+        "total_price": 17150.03,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 10.89,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 228.11,
+        "final_payment": 6200.75,
+        "total_amount_payable": 17150.03,
+        "total_charge_for_credit": 4155.03,
+        "amount_of_credit": 12995,
+        "lender": "Zopa PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "8p",
+        "residual": 6200.75,
+        "price_to_buy": 6200.75
+      }
+    ]
+  }
+]

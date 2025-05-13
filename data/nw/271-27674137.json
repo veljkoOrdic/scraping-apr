@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-05T13:32:06.260Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.romseycarcentre.co.uk/details/used-car-in-romsey/audi/q7/3.0-tdi-v6-black-edition-tiptronic-quattro-euro-6-ss-5dr/1431500/",
+    "dealer_id": "271",
+    "car_id": "27674137",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU18LUJ",
+        "registration_date": "01/06/2018",
+        "mileage": 106112,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 10,
+        "balance": 26985,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 677.64,
+        "final_payment": 678.64,
+        "total_amount_payable": 32537.72,
+        "total_charge_for_credit": 5542.72,
+        "amount_of_credit": 26985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

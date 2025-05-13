@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:18:48.889Z",
+    "source": "finance_proposal",
+    "url": "https://www.regencycars.net/used/peugeot/108/10-72-allure-5dr/newtownards/county-down/21571769",
+    "dealer_id": "2334",
+    "car_id": "27593169",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FSZ8011",
+        "registration_date": "29/01/2022",
+        "mileage": "27125",
+        "status": "Used",
+        "price": "9150"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9150.00",
+        "total_price": 11288.8,
+        "deposit": "915",
+        "balance": 8235,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 172.73,
+        "final_payment": 182.73,
+        "total_amount_payable": 11288.8,
+        "total_charge_for_credit": 2138.8,
+        "amount_of_credit": 8235,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 182.73,
+        "is_representative": true,
+        "apr_no_fees": 9.87
+      }
+    ]
+  }
+]

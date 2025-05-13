@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:09:18.646Z",
+    "source": "finance_proposal",
+    "url": "https://www.tittyhomotorcompany.co.uk/details/used-car-in-raunds/porsche/718spyder/4.0-spyder-euro-6-ss-2dr/1400119/",
+    "dealer_id": "1517",
+    "car_id": "27286054",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "H14AJD",
+        "registration_date": "2019-11-29",
+        "mileage": "9000",
+        "status": "Used",
+        "price": "69995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "69995.00",
+        "total_price": 88168.6,
+        "deposit": "0",
+        "balance": 69995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1469.31,
+        "final_payment": 1479.31,
+        "total_amount_payable": 88168.6,
+        "total_charge_for_credit": 18173.6,
+        "amount_of_credit": 69995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1479.31
+      }
+    ]
+  }
+]

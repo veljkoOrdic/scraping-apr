@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:09:45.466Z",
+    "source": "finance_proposal",
+    "url": "https://www.activeautomotive.co.uk/vehicle/land-rover-range-rover-sport-30-sd-v6-autobiography-dynamic-auto-4wd-euro-6-ss-5dr-in-wellingborough-northamptonshire-07335b8f-1da5-4a16-92ea-b26e00f7f65f",
+    "dealer_id": "1573",
+    "car_id": "26860923",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "BG67XZX",
+        "registration_date": "2017-12-21",
+        "mileage": "57849",
+        "status": "Used",
+        "price": "28995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "28995.00",
+        "total_price": 36529,
+        "deposit": "0",
+        "balance": 28995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 608.65,
+        "final_payment": 618.65,
+        "total_amount_payable": 36529,
+        "total_charge_for_credit": 7534,
+        "amount_of_credit": 28995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 618.65,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

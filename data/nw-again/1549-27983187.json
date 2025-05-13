@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:54:38.283Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverpoolcarcentre.com/used-ford-focus-bootle-merseyside-6928246",
+    "dealer_id": "1549",
+    "car_id": "27983187",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD63AYF",
+        "registration_date": "22/02/2014",
+        "mileage": 75000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4477,
+        "total_price": 4477,
+        "deposit": 895,
+        "balance": 3582,
+        "apr": 14.9,
+        "rate_of_interest": 7.74,
+        "term": 45,
+        "regular_payment": 102.7,
+        "final_payment": 103.7,
+        "total_amount_payable": 5517.5,
+        "total_charge_for_credit": 1040.5,
+        "amount_of_credit": 3582,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

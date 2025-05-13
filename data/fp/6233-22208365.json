@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T21:27:21.687Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/landrover/rangeroversport/3.0-sd-v6-autobiography-dynamic-*only-60k-miles**tan-leather*/1013266/",
+    "dealer_id": "6233",
+    "car_id": "22208365",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T21:27:21.690Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/landrover/rangeroversport/3.0-sd-v6-autobiography-dynamic-*only-60k-miles**tan-leather*/1013266/",
+    "dealer_id": "6233",
+    "car_id": "22208365",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KU15VDY",
+        "registration_date": "2015-04-13",
+        "mileage": "60495",
+        "status": "Used",
+        "price": "22995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "22995.00",
+        "total_price": 28972,
+        "deposit": "0",
+        "balance": 22995,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 482.7,
+        "final_payment": 492.7,
+        "total_amount_payable": 28972,
+        "total_charge_for_credit": 5977,
+        "amount_of_credit": 22995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 492.7
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "22995.00",
+        "total_price": 28972,
+        "deposit": "0",
+        "balance": 22995,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 482.7,
+        "final_payment": 492.7,
+        "total_amount_payable": 28972,
+        "total_charge_for_credit": 5977,
+        "amount_of_credit": 22995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 492.7,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

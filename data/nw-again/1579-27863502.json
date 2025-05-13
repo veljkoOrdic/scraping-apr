@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:54:54.404Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surecardirect.co.uk/details/used-car-in-fishponds/volkswagen/touareg/3.0-tdi-v6-r-line-tiptronic-4motion-euro-6-ss-5dr/1448507/",
+    "dealer_id": "1579",
+    "car_id": "27863502",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VU19GOH",
+        "registration_date": "25/03/2019",
+        "mileage": 90973,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23795,
+        "total_price": 23795,
+        "deposit": 1189.75,
+        "balance": 22605.25,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 582.37,
+        "final_payment": 592.37,
+        "total_amount_payable": 29153.51,
+        "total_charge_for_credit": 5358.51,
+        "amount_of_credit": 22605.25,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

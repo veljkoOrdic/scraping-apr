@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:21:16.028Z",
+    "source": "finance_proposal",
+    "url": "https://www.qtcars.co.uk/details/used-car-in-st-ives/audi/e-tron/40-launch-edition-auto-5dr-82kwh/1364103/",
+    "dealer_id": "7012",
+    "car_id": "26878037",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FH21PSZ",
+        "registration_date": "2021-06-10",
+        "mileage": "59740",
+        "status": "Used",
+        "price": "22490"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "22490.00",
+        "total_price": 28492.8,
+        "deposit": "3374",
+        "balance": 19116,
+        "apr": 11.92,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 418.48,
+        "final_payment": 428.48,
+        "total_amount_payable": 28492.8,
+        "total_charge_for_credit": 6002.8,
+        "amount_of_credit": 19116,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 428.48,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

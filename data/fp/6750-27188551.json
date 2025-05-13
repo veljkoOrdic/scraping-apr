@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T22:00:05.109Z",
+    "source": "finance_proposal",
+    "url": "https://www.penguincars.co.uk/details/used-car-in-shrewsbury/tesla/model3/dual-motor-performance-auto-4wde-4dr-performance-upgrade/1390389/",
+    "dealer_id": "6750",
+    "car_id": "27188551",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MC19ZSZ",
+        "registration_date": "2019-08-16",
+        "mileage": "42600",
+        "status": "Used",
+        "price": "19995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "19995.00",
+        "total_price": 24675,
+        "deposit": "2000",
+        "balance": 17995,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 377.75,
+        "final_payment": 387.75,
+        "total_amount_payable": 24675,
+        "total_charge_for_credit": 4680,
+        "amount_of_credit": 17995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 387.75
+      },
+      {
+        "type": "finance_pcp",
+        "name": "BNP PCP",
+        "finance_type": "PCP",
+        "cash_price": "19995.00",
+        "total_price": 25199.56,
+        "deposit": "2000",
+        "balance": 17995,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 308.97,
+        "final_payment": 8369,
+        "total_amount_payable": 25199.56,
+        "total_charge_for_credit": 5204.56,
+        "amount_of_credit": 17995,
+        "lender": "BNP PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "8p",
+        "residual": 8368,
+        "price_to_buy": 8369
+      }
+    ]
+  }
+]

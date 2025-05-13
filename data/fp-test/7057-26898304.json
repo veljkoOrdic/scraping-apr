@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:25:15.802Z",
+    "source": "finance_proposal",
+    "url": "https://www.addisoncars.co.uk/details/used-car-in-4-8-park-road-kempston/mercedes-benz/eclass/2.1-e220-cdi-blueefficiency-sport-g-tronic+-euro-5-ss-2dr/1366545/",
+    "dealer_id": "7057",
+    "car_id": "26898304",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SP62NAE",
+        "registration_date": "2012-09-28",
+        "mileage": "85000",
+        "status": "Used",
+        "price": "5790"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "5790.00",
+        "total_price": 7765.6,
+        "deposit": "0",
+        "balance": 5790,
+        "apr": 12.91,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 129.26,
+        "final_payment": 139.26,
+        "total_amount_payable": 7765.6,
+        "total_charge_for_credit": 1975.6,
+        "amount_of_credit": 5790,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 139.26,
+        "is_representative": true,
+        "apr_no_fees": 12.86
+      }
+    ]
+  }
+]

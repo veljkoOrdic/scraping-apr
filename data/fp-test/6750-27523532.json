@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:00:52.359Z",
+    "source": "finance_proposal",
+    "url": "https://www.penguincars.co.uk/details/used-car-in-shrewsbury/mercedes-benz/eclass/4.0-e63-v8-biturbo-amg-s-premium-spds-mct-4matic+-euro-6-ss-4dr/1419295/",
+    "dealer_id": "6750",
+    "car_id": "27523532",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "HV67GYH",
+        "registration_date": "2017-10-17",
+        "mileage": "49323",
+        "status": "Used",
+        "price": "41995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "41995.00",
+        "total_price": 51812.8,
+        "deposit": "4200",
+        "balance": 37795,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 793.38,
+        "final_payment": 803.38,
+        "total_amount_payable": 51812.8,
+        "total_charge_for_credit": 9817.8,
+        "amount_of_credit": 37795,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 803.38
+      }
+    ]
+  }
+]

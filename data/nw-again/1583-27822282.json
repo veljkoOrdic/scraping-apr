@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:55:08.404Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetsalesleicester.co.uk/used-audi-rs3-cosby-leicestershire-6884128",
+    "dealer_id": "1583",
+    "car_id": "27822282",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FA23HYN",
+        "registration_date": "25/03/2023",
+        "mileage": 9130,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49990,
+        "total_price": 49990,
+        "deposit": 2500,
+        "balance": 47490,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 996.85,
+        "final_payment": 996.85,
+        "total_amount_payable": 62311,
+        "total_charge_for_credit": 12321,
+        "amount_of_credit": 47490,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49990,
+        "total_price": 49990,
+        "deposit": 2500,
+        "balance": 47490,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 719.86,
+        "final_payment": 27677.5,
+        "total_amount_payable": 64730.78,
+        "total_charge_for_credit": 14740.78,
+        "amount_of_credit": 47490,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.22,
+        "residual": 27667.5,
+        "price_to_buy": 27677.5
+      }
+    ]
+  }
+]

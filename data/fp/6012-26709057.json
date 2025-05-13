@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T21:08:33.023Z",
+    "source": "finance_proposal",
+    "url": "https://www.slfcarsales.co.uk/used/cars/citroen/c4-cactus/puretech-flair-1043",
+    "dealer_id": "6012",
+    "car_id": "26709057",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FG17XWR",
+        "registration_date": "2017-03-29",
+        "mileage": "131000",
+        "status": "Used",
+        "price": "3349"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "3349.00",
+        "total_price": 4492.6,
+        "deposit": "0",
+        "balance": 3349,
+        "apr": 12.9,
+        "rate_of_interest": 6.77,
+        "term": 60,
+        "regular_payment": 74.71,
+        "final_payment": 84.71,
+        "total_amount_payable": 4492.6,
+        "total_charge_for_credit": 1143.6,
+        "amount_of_credit": 3349,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "9000",
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 84.71
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "3349.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "9000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

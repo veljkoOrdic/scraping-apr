@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:02:39.835Z",
+    "source": "finance_proposal",
+    "url": "https://www.bincaretail.co.uk/stock/99e331ca5a93",
+    "dealer_id": "7636",
+    "car_id": "26445076",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DA19ERK",
+        "registration_date": "2019-03-29",
+        "mileage": "37814",
+        "status": "New",
+        "price": "32000.0"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "32000.00",
+        "total_price": 38530.32,
+        "deposit": "3200",
+        "balance": 28800,
+        "apr": 10.91,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 735.84,
+        "final_payment": 745.84,
+        "total_amount_payable": 38530.32,
+        "total_charge_for_credit": 6530.32,
+        "amount_of_credit": 28800,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 745.84,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:33:05.058Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastkilbrideusedcarcentre.co.uk/details/used-van-in-glasgow/ford/tourneocustom/2.0-320-ecoblue-titanium-x-auto-l1-euro-6-ss-5dr/1449950/",
+    "dealer_id": "353",
+    "car_id": "27879792",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WV19TOH",
+        "registration_date": "19/08/2019",
+        "mileage": 33684,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 4998.33,
+        "balance": 24991.67,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 524.58,
+        "final_payment": 525.58,
+        "total_amount_payable": 36474.13,
+        "total_charge_for_credit": 6484.13,
+        "amount_of_credit": 24991.67,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

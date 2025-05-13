@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:14:42.261Z",
+    "source": "finance_proposal",
+    "url": "https://www.wybostoncarsales.co.uk/vehicle/fiat-panda-12-lounge-hatchback-5dr-petrol-manual-euro-6-69-bhp-in-wyboston-bedfordshire-1898774e-8667-44ed-9a5c-39acae3d2486",
+    "dealer_id": "2013",
+    "car_id": "26349762",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AX15LYF",
+        "registration_date": "2015-05-27",
+        "mileage": "119000",
+        "status": "New",
+        "price": "2295"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "2295.00",
+        "total_price": 3017.8,
+        "deposit": "0",
+        "balance": 2295,
+        "apr": 11.91,
+        "rate_of_interest": 6.21,
+        "term": 60,
+        "regular_payment": 50.13,
+        "final_payment": 60.13,
+        "total_amount_payable": 3017.8,
+        "total_charge_for_credit": 722.8,
+        "amount_of_credit": 2295,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "9000",
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 60.13
+      }
+    ]
+  }
+]

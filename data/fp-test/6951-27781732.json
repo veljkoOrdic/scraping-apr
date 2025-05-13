@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:11:55.808Z",
+    "source": "finance_proposal",
+    "url": "https://www.greendalecarsales.co.uk/cars/volkswagen/touareg/3.0-tdi-v6-black-edition/1440662/",
+    "dealer_id": "6951",
+    "car_id": "27781732",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YB70PYD",
+        "registration_date": "2021-01-19",
+        "mileage": "45483",
+        "status": "Used",
+        "price": "38990"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "38990.00",
+        "total_price": 52276,
+        "deposit": "0",
+        "balance": 38990,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 871.1,
+        "final_payment": 881.1,
+        "total_amount_payable": 52276,
+        "total_charge_for_credit": 13286,
+        "amount_of_credit": 38990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 881.1
+      }
+    ]
+  }
+]

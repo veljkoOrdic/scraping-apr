@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:00:49.549Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crosspointmotorco.co.uk/cars/ford/ka/1.2-edge/1464004/",
+    "dealer_id": "1989",
+    "car_id": "28024647",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC14XLJ",
+        "registration_date": "23/04/2014",
+        "mileage": 65614,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3695,
+        "total_price": 3695,
+        "deposit": 369.5,
+        "balance": 3325.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 59,
+        "regular_payment": 75.21,
+        "final_payment": 76.21,
+        "total_amount_payable": 4807.89,
+        "total_charge_for_credit": 1112.89,
+        "amount_of_credit": 3325.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

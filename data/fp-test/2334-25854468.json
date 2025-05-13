@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:19:00.231Z",
+    "source": "finance_proposal",
+    "url": "https://www.regencycars.net/used/peugeot/208/12-puretech-active-5dr/newtownards/county-down/21422278",
+    "dealer_id": "2334",
+    "car_id": "25854468",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "208",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "ISZ5645",
+        "registration_date": "30/09/2024",
+        "mileage": "6",
+        "status": "Used",
+        "price": "16995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "16995.00",
+        "total_price": 20966.6,
+        "deposit": "1699",
+        "balance": 15296,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 320.96,
+        "final_payment": 330.96,
+        "total_amount_payable": 20966.6,
+        "total_charge_for_credit": 3971.6,
+        "amount_of_credit": 15296,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 330.96,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

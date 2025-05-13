@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:10:39.416Z",
+    "source": "finance_proposal",
+    "url": "https://crawfurds.co.uk/vehicle/name/hyundai-i30-1-4i-16v-100bhp-active-full-service-history/",
+    "dealer_id": "1841",
+    "car_id": "27505872",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SG13APU",
+        "registration_date": "2013-03-29",
+        "mileage": "66000",
+        "status": "New",
+        "price": "4695"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "4695.00",
+        "total_price": 5916.4,
+        "deposit": "0",
+        "balance": 4695,
+        "apr": 9.91,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 98.44,
+        "final_payment": 108.44,
+        "total_amount_payable": 5916.4,
+        "total_charge_for_credit": 1221.4,
+        "amount_of_credit": 4695,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 108.44,
+        "is_representative": true,
+        "apr_no_fees": 9.85
+      }
+    ]
+  }
+]

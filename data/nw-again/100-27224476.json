@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-12T13:54:24.798Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.countrycarsales.co.uk/vehicle/bmw-x3-20-20i-xline-auto-xdrive-euro-6-ss-5dr-in-welwyn-hertfordshire-aa82b7f7-cd31-43b9-bf2f-b28f011d711b",
+    "dealer_id": "100",
+    "car_id": "27224476",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD68LFP",
+        "registration_date": "06/09/2018",
+        "mileage": 48000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23290,
+        "total_price": 23290,
+        "deposit": 2329,
+        "balance": 20961,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 468.33,
+        "final_payment": 468.33,
+        "total_amount_payable": 30428.8,
+        "total_charge_for_credit": 7138.8,
+        "amount_of_credit": 20961,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

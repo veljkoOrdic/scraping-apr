@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:20:06.936Z",
+    "source": "finance_proposal",
+    "url": "https://www.carswebsite.co.uk/used/cars/mini/hatch/2-0-cooper-s-auto-5dr-83",
+    "dealer_id": "8636",
+    "car_id": "26942471",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:20:06.938Z",
+    "source": "finance_proposal",
+    "url": "https://www.carswebsite.co.uk/used/cars/mini/hatch/2-0-cooper-s-auto-5dr-83",
+    "dealer_id": "8636",
+    "car_id": "26942471",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YR67YXN",
+        "registration_date": "2017-09-29",
+        "mileage": "41350",
+        "status": "Used",
+        "price": "13500"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "13500.00",
+        "total_price": 17312.8,
+        "deposit": "1350",
+        "balance": 12150,
+        "apr": 11.91,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 265.88,
+        "final_payment": 275.88,
+        "total_amount_payable": 17312.8,
+        "total_charge_for_credit": 3812.8,
+        "amount_of_credit": 12150,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 275.88
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "13500.00",
+        "total_price": 16657,
+        "deposit": "1350",
+        "balance": 12150,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 254.95,
+        "final_payment": 264.95,
+        "total_amount_payable": 16657,
+        "total_charge_for_credit": 3157,
+        "amount_of_credit": 12150,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 264.95,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

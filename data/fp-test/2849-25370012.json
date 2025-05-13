@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:35:04.811Z",
+    "source": "finance_proposal",
+    "url": "https://www.ianguthrie.co.uk/used-vehicle-details/used-skoda-kamiq-10-tsi-se-5dr-estate-race-blue-metallic-manual-petrol/id-72028973/",
+    "dealer_id": "2849",
+    "car_id": "25370012",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MD24ZBT",
+        "registration_date": "16/07/2024",
+        "mileage": "210",
+        "status": "New",
+        "price": "20995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "20995.00",
+        "total_price": 27587.2,
+        "deposit": "0",
+        "balance": 20995,
+        "apr": 11.92,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 459.62,
+        "final_payment": 469.62,
+        "total_amount_payable": 27587.2,
+        "total_charge_for_credit": 6592.2,
+        "amount_of_credit": 20995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 469.62
+      }
+    ]
+  }
+]

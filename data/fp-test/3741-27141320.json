@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:40:27.405Z",
+    "source": "finance_proposal",
+    "url": "https://www.anthonydaleprestige.co.uk/details/used-car-in-wymondham/bentley/bentayga/6.0-w12-auto-4wd-euro-6-ss-5dr/1386603/",
+    "dealer_id": "3741",
+    "car_id": "27141320",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "RA16XTV",
+        "registration_date": "2016-03-23",
+        "mileage": "41545",
+        "status": "Used",
+        "price": "59999"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "59999.00",
+        "total_price": 76937.8,
+        "deposit": "6000",
+        "balance": 53999,
+        "apr": 11.91,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1182.13,
+        "final_payment": 1192.13,
+        "total_amount_payable": 76937.8,
+        "total_charge_for_credit": 16938.8,
+        "amount_of_credit": 53999,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1192.13,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

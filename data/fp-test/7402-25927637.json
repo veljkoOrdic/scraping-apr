@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:39:27.771Z",
+    "source": "finance_proposal",
+    "url": "https://www.cuffmiller.co.uk/used/ford/kuga/25-fhev-st-line-x-edition-5dr-cvt/littlehampton/west-sussex/21437882",
+    "dealer_id": "7402",
+    "car_id": "25927637",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GY73XDH",
+        "registration_date": "24/01/2024",
+        "mileage": "3820",
+        "status": "Used",
+        "price": "POA"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "8000.00",
+        "total_price": 10078,
+        "deposit": "0",
+        "balance": 8000,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 167.8,
+        "final_payment": 177.8,
+        "total_amount_payable": 10078,
+        "total_charge_for_credit": 2078,
+        "amount_of_credit": 8000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 177.8
+      }
+    ]
+  }
+]

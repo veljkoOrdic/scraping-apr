@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:04:52.787Z",
+    "source": "finance_proposal",
+    "url": "https://www.remarketingtrust.co.uk/cars/porsche/boxster/3.4-981-s-pdk-euro-5-ss-2dr/1274579/",
+    "dealer_id": "7740",
+    "car_id": "25908854",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:04:52.789Z",
+    "source": "finance_proposal",
+    "url": "https://www.remarketingtrust.co.uk/cars/porsche/boxster/3.4-981-s-pdk-euro-5-ss-2dr/1274579/",
+    "dealer_id": "7740",
+    "car_id": "25908854",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DC12HGK",
+        "registration_date": "2012-05-31",
+        "mileage": "57000",
+        "status": "Used",
+        "price": "27480"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "27480.00",
+        "total_price": 33151,
+        "deposit": "0",
+        "balance": 27480,
+        "apr": 7.91,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 552.35,
+        "final_payment": 562.35,
+        "total_amount_payable": 33151,
+        "total_charge_for_credit": 5671,
+        "amount_of_credit": 27480,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 562.35
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "27480.00",
+        "total_price": 35363.2,
+        "deposit": "0",
+        "balance": 27480,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 589.22,
+        "final_payment": 599.22,
+        "total_amount_payable": 35363.2,
+        "total_charge_for_credit": 7883.2,
+        "amount_of_credit": 27480,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 599.22,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T21:04:00.940Z",
+    "source": "finance_proposal",
+    "url": "https://www.familyautos.co.uk/used/mercedes-benz/gle/gle-400d-4matic-amg-line-prem-5dr-9g-tronic-7-st/brigg/lincolnshire/21578432",
+    "dealer_id": "5818",
+    "car_id": "27714297",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLE",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KM72LLW",
+        "registration_date": "30/01/2023",
+        "mileage": "10000",
+        "status": "Used",
+        "price": "51800"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "51800.00",
+        "total_price": 63853.6,
+        "deposit": "0",
+        "balance": 51800,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1064.06,
+        "final_payment": 1074.06,
+        "total_amount_payable": 63853.6,
+        "total_charge_for_credit": 12053.6,
+        "amount_of_credit": 51800,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1074.06
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Close PCP",
+        "finance_type": "PCP",
+        "cash_price": "51800.00",
+        "total_price": 65724.37,
+        "deposit": "0",
+        "balance": 51800,
+        "apr": 8.89,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 811.25,
+        "final_payment": 26784.37,
+        "total_amount_payable": 65724.37,
+        "total_charge_for_credit": 13924.37,
+        "amount_of_credit": 51800,
+        "lender": "Close PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "12p",
+        "residual": 26784.37,
+        "price_to_buy": 26784.37
+      }
+    ]
+  }
+]

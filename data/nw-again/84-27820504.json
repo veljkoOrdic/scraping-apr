@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-12T13:54:16.163Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lesrayner-foxhunters.co.uk/used-ford-tourneo-custom-whitley-bay-tyne-and-wear-6885835",
+    "dealer_id": "84",
+    "car_id": "27820504",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YA22AKX",
+        "registration_date": "22/07/2022",
+        "mileage": 24000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27999,
+        "total_price": 27999,
+        "deposit": 2799,
+        "balance": 25200,
+        "apr": 11.5,
+        "rate_of_interest": 6.05,
+        "term": 60,
+        "regular_payment": 547.09,
+        "final_payment": 548.09,
+        "total_amount_payable": 35625.4,
+        "total_charge_for_credit": 7626.4,
+        "amount_of_credit": 25200,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

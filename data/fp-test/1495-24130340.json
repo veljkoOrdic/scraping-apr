@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:56:54.043Z",
+    "source": "finance_proposal",
+    "url": "https://www.autobarnsports.co.uk/used-toyota-yaris-whatton-nottinghamshire-5972829",
+    "dealer_id": "1495",
+    "car_id": "24130340",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "OE72VVT",
+        "registration_date": "2022-11-19",
+        "mileage": "13410",
+        "status": "Used",
+        "price": "30990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "30990.00",
+        "total_price": 38990.8,
+        "deposit": "3099",
+        "balance": 27891,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 598.03,
+        "final_payment": 608.03,
+        "total_amount_payable": 38990.8,
+        "total_charge_for_credit": 8000.8,
+        "amount_of_credit": 27891,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 608.03,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

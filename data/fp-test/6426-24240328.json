@@ -1,0 +1,45 @@
+[
+  {
+    "timestamp": "2025-05-05T21:44:12.250Z",
+    "source": "finance_proposal",
+    "url": "https://www.endlesssummerwales.co.uk/used-vans/109/view_vehicle/49/used-vans/82/2020-70-volkswagen-transporter-2-0-tdi-swb-kombi-t30-150-bhp-sportline-styling",
+    "dealer_id": "6426",
+    "car_id": "24240328",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "status": "Used"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "30000.00",
+        "total_price": 48370,
+        "deposit": "0",
+        "balance": 30000,
+        "apr": 10.91,
+        "rate_of_interest": 6.12,
+        "term": 120,
+        "regular_payment": 403,
+        "final_payment": 413,
+        "total_amount_payable": 48370,
+        "total_charge_for_credit": 18370,
+        "amount_of_credit": 30000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 413,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

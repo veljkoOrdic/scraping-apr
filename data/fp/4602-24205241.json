@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T19:59:06.921Z",
+    "source": "finance_proposal",
+    "url": "https://www.britanniacarsuk.com/detail/1330498/used-tvr-chimaera-4.0-4-0-4-0-2dr-manual-sheffield",
+    "dealer_id": "4602",
+    "car_id": "24205241",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T19:59:06.923Z",
+    "source": "finance_proposal",
+    "url": "https://www.britanniacarsuk.com/detail/1330498/used-tvr-chimaera-4.0-4-0-4-0-2dr-manual-sheffield",
+    "dealer_id": "4602",
+    "car_id": "24205241",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "V103ESG",
+        "registration_date": "1999-09-10",
+        "mileage": "56000",
+        "status": "Used",
+        "price": "16880"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "16880.00",
+        "total_price": 21717.4,
+        "deposit": "0",
+        "balance": 16880,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 361.79,
+        "final_payment": 371.79,
+        "total_amount_payable": 21717.4,
+        "total_charge_for_credit": 4837.4,
+        "amount_of_credit": 16880,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 371.79
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "16880.00",
+        "total_price": 21717.4,
+        "deposit": "0",
+        "balance": 16880,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 361.79,
+        "final_payment": 371.79,
+        "total_amount_payable": 21717.4,
+        "total_charge_for_credit": 4837.4,
+        "amount_of_credit": 16880,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 371.79,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

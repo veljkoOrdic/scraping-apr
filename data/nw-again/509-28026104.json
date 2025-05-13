@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:35:38.439Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.castlemotors.net/vehicle-details/used-volvo-xc90-h-t8-twin-engine-r-design-pro-for-sale-in-hampshire-u6180/",
+    "dealer_id": "509",
+    "car_id": "28026104",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA21FNH",
+        "registration_date": "30/04/2021",
+        "mileage": 59828,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35950,
+        "total_price": 35950,
+        "deposit": 7190,
+        "balance": 28760,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 590.82,
+        "final_payment": 591.82,
+        "total_amount_payable": 42640.2,
+        "total_charge_for_credit": 6690.2,
+        "amount_of_credit": 28760,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35950,
+        "total_price": 35950,
+        "deposit": 7190,
+        "balance": 28760,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 473.38,
+        "final_payment": 9230.2,
+        "total_amount_payable": 44349.62,
+        "total_charge_for_credit": 8399.62,
+        "amount_of_credit": 28760,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "contract_mileage": 60000,
+        "excess_mileage_rate": 0.06,
+        "residual": 9229.2,
+        "price_to_buy": 9230.2
+      }
+    ]
+  }
+]

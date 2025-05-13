@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:45:33.901Z",
+    "source": "finance_proposal",
+    "url": "https://hensoncars.co.uk/vehicle/name/bentley-continental-6-0/",
+    "dealer_id": "1095",
+    "car_id": "3482428",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "PN07HZW",
+        "registration_date": "2007-06-21",
+        "mileage": "76544",
+        "status": "New",
+        "price": "30995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "30995.00",
+        "total_price": 39048.4,
+        "deposit": "0",
+        "balance": 30995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 650.64,
+        "final_payment": 660.64,
+        "total_amount_payable": 39048.4,
+        "total_charge_for_credit": 8053.4,
+        "amount_of_credit": 30995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 660.64,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

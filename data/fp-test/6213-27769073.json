@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T21:26:08.095Z",
+    "source": "finance_proposal",
+    "url": "https://www.westleymotor.co.uk/used/ford/kuga/20-tdci-titanium-5dr-2wd/birmingham/west-midlands/21582303",
+    "dealer_id": "6213",
+    "car_id": "27769073",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AP17OUL",
+        "registration_date": "31/07/2017",
+        "mileage": "52739",
+        "status": "Used",
+        "price": "9999"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9999.00",
+        "total_price": 13408.6,
+        "deposit": "0",
+        "balance": 9999,
+        "apr": 12.91,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 223.31,
+        "final_payment": 233.31,
+        "total_amount_payable": 13408.6,
+        "total_charge_for_credit": 3409.6,
+        "amount_of_credit": 9999,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 233.31,
+        "is_representative": true,
+        "apr_no_fees": 12.88
+      }
+    ]
+  }
+]

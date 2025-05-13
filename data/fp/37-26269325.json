@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-07T13:21:22.656Z",
+    "source": "finance_proposal",
+    "url": "https://www.firbankvansales.co.uk/used/volkswagen/polo/10-evo-se-5dr/hyde/cheshire/21466682",
+    "dealer_id": "37",
+    "car_id": "26269325",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "Polo",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MW68TWN",
+        "registration_date": "31/12/2018",
+        "mileage": "54000",
+        "status": "Used",
+        "price": "9595"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9595.00",
+        "total_price": 12541.2,
+        "deposit": "959",
+        "balance": 8636,
+        "apr": 12.91,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 192.87,
+        "final_payment": 202.87,
+        "total_amount_payable": 12541.2,
+        "total_charge_for_credit": 2946.2,
+        "amount_of_credit": 8636,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 202.87,
+        "is_representative": true,
+        "apr_no_fees": 12.88
+      }
+    ]
+  }
+]

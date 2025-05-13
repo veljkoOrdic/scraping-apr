@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:20:34.827Z",
+    "source": "finance_proposal",
+    "url": "https://www.carswebsite.co.uk/used/commercials/ford/transit/2-0-350-ecoblue-leader-crew-van-double-cab-5dr-diesel-manual-l3-medium-roof-26",
+    "dealer_id": "8636",
+    "car_id": "25612304",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MX21XOR",
+        "registration_date": "2021-03-01",
+        "mileage": "37850",
+        "status": "New",
+        "price": "23000"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "27600.00",
+        "total_price": 32981.8,
+        "deposit": "6900",
+        "balance": 20700,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 434.53,
+        "final_payment": 444.53,
+        "total_amount_payable": 32981.8,
+        "total_charge_for_credit": 5381.8,
+        "amount_of_credit": 20700,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 444.53,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

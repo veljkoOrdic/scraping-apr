@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T18:54:27.580Z",
+    "source": "finance_proposal",
+    "url": "https://www.platinummarquesuk.co.uk/vehicle/mercedes-eqc-400-80kwh-amg-line-premium-plus-auto-4matic-5dr-in-reading-berkshire-7d0f2f97-a7ab-4697-8d26-b18f00d4b91b",
+    "dealer_id": "1485",
+    "car_id": "24652678",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "NU70EZO",
+        "registration_date": "2020-09-29",
+        "mileage": "40000",
+        "status": "Used",
+        "price": "27449"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "27449.00",
+        "total_price": 34582,
+        "deposit": "0",
+        "balance": 27449,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 576.2,
+        "final_payment": 586.2,
+        "total_amount_payable": 34582,
+        "total_charge_for_credit": 7133,
+        "amount_of_credit": 27449,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 586.2
+      }
+    ]
+  }
+]

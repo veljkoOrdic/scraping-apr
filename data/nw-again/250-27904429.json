@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:32:42.257Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.redburnmotorcompany.co.uk/used-bmw-3-series-blyth-northumberland-6908730",
+    "dealer_id": "250",
+    "car_id": "27904429",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB69FMG",
+        "registration_date": "21/11/2019",
+        "mileage": 44500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 5199,
+        "balance": 20796,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 436.51,
+        "final_payment": 437.51,
+        "total_amount_payable": 31390.6,
+        "total_charge_for_credit": 5395.6,
+        "amount_of_credit": 20796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

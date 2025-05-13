@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:22:15.780Z",
+    "source": "finance_proposal",
+    "url": "https://www.spcars.net/details/used-car-in-nottingham/volvo/v40/2.0-t2-gpf-r-design-pro-euro-6-ss-5dr/1429234/",
+    "dealer_id": "2431",
+    "car_id": "27649857",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KY18EHS",
+        "registration_date": "2018-03-06",
+        "mileage": "52900",
+        "status": "Used",
+        "price": "11490"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "11490.00",
+        "total_price": 15016,
+        "deposit": "1149",
+        "balance": 10341,
+        "apr": 12.91,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 230.95,
+        "final_payment": 240.95,
+        "total_amount_payable": 15016,
+        "total_charge_for_credit": 3526,
+        "amount_of_credit": 10341,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 240.95
+      }
+    ]
+  }
+]

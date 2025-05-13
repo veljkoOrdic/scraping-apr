@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:10:53.634Z",
+    "source": "finance_proposal",
+    "url": "https://crawfurds.co.uk/vehicle/name/suzuki-ignis-1-2-dualjet-16v-90bhp-4x4-allgrip-sz5-shvs-petrol-hybrid-euro-6-full-service-history-20-yearly-toad-tax-averaging-6/",
+    "dealer_id": "1841",
+    "car_id": "26499361",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SV17UDU",
+        "registration_date": "2017-03-07",
+        "mileage": "49000",
+        "status": "New",
+        "price": "9000"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9000.00",
+        "total_price": 11341,
+        "deposit": "0",
+        "balance": 9000,
+        "apr": 9.92,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 188.85,
+        "final_payment": 198.85,
+        "total_amount_payable": 11341,
+        "total_charge_for_credit": 2341,
+        "amount_of_credit": 9000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 198.85,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T22:35:22.243Z",
+    "source": "finance_proposal",
+    "url": "https://www.markrobinsvehicles.co.uk/cars/volkswagen/golf/2.0-tsi-gti-dsg-5-door/1250374/",
+    "dealer_id": "7320",
+    "car_id": "25466156",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T22:35:22.245Z",
+    "source": "finance_proposal",
+    "url": "https://www.markrobinsvehicles.co.uk/cars/volkswagen/golf/2.0-tsi-gti-dsg-5-door/1250374/",
+    "dealer_id": "7320",
+    "car_id": "25466156",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DH66STX",
+        "registration_date": "2017-01-30",
+        "mileage": "55611",
+        "status": "New",
+        "price": "15495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "15495.00",
+        "total_price": 20780.8,
+        "deposit": "0",
+        "balance": 15495,
+        "apr": 12.92,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 346.18,
+        "final_payment": 356.18,
+        "total_amount_payable": 20780.8,
+        "total_charge_for_credit": 5285.8,
+        "amount_of_credit": 15495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 356.18
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "15495.00",
+        "total_price": 19936.6,
+        "deposit": "0",
+        "balance": 15495,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 332.11,
+        "final_payment": 342.11,
+        "total_amount_payable": 19936.6,
+        "total_charge_for_credit": 4441.6,
+        "amount_of_credit": 15495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 342.11,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

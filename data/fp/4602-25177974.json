@@ -1,0 +1,96 @@
+[
+  {
+    "timestamp": "2025-05-05T19:58:51.740Z",
+    "source": "finance_proposal",
+    "url": "https://www.britanniacarsuk.com/detail/1337588/used-jaguar-xk8-4-2-coupe-2dr-automatic-sheffield",
+    "dealer_id": "4602",
+    "car_id": "25177974",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T19:58:51.742Z",
+    "source": "finance_proposal",
+    "url": "https://www.britanniacarsuk.com/detail/1337588/used-jaguar-xk8-4-2-coupe-2dr-automatic-sheffield",
+    "dealer_id": "4602",
+    "car_id": "25177974",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "T33AJK",
+        "registration_date": "2005-03-31",
+        "mileage": "43000",
+        "status": "Used",
+        "price": "13980"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "13980.00",
+        "total_price": 17988.4,
+        "deposit": "0",
+        "balance": 13980,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 299.64,
+        "final_payment": 309.64,
+        "total_amount_payable": 17988.4,
+        "total_charge_for_credit": 4008.4,
+        "amount_of_credit": 13980,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 309.64
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "13980.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "13980.00",
+        "total_price": 17988.4,
+        "deposit": "0",
+        "balance": 13980,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 299.64,
+        "final_payment": 309.64,
+        "total_amount_payable": 17988.4,
+        "total_charge_for_credit": 4008.4,
+        "amount_of_credit": 13980,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 309.64,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

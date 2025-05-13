@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T21:57:27.870Z",
+    "source": "finance_proposal",
+    "url": "https://www.lynxgarage.co.uk/used/ssangyong/tivoli/15p-ultimate-auto-5dr/yeovil/somerset/21228619",
+    "dealer_id": "6664",
+    "car_id": "26996582",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "SsangYong",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WJ73ETE",
+        "registration_date": "06/11/2023",
+        "mileage": "1500",
+        "status": "Used",
+        "price": "20995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "20995.00",
+        "total_price": 26928.6,
+        "deposit": "2099",
+        "balance": 18896,
+        "apr": 11.92,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 413.66,
+        "final_payment": 423.66,
+        "total_amount_payable": 26928.6,
+        "total_charge_for_credit": 5933.6,
+        "amount_of_credit": 18896,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 423.66,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

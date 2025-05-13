@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:39:56.635Z",
+    "source": "finance_proposal",
+    "url": "https://www.nedpotter.co.uk/details/used-car-in-hereford/alfaromeo/stelvio/2.9-v6-bi-turbo-quadrifoglio-auto-q4-awd-euro-6-ss-5dr/1414550/",
+    "dealer_id": "7416",
+    "car_id": "27474453",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WM69BVV",
+        "registration_date": "2019-12-30",
+        "mileage": "33750",
+        "status": "Used",
+        "price": "37995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "37995.00",
+        "total_price": 47864.8,
+        "deposit": "0",
+        "balance": 37995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 797.58,
+        "final_payment": 807.58,
+        "total_amount_payable": 47864.8,
+        "total_charge_for_credit": 9869.8,
+        "amount_of_credit": 37995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 807.58,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T19:58:18.165Z",
+    "source": "finance_proposal",
+    "url": "https://acklandmotors.co.uk/vehicle/name/skoda-octavia-elegance-tdi-cr-2/",
+    "dealer_id": "4548",
+    "car_id": "27120146",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T19:58:18.168Z",
+    "source": "finance_proposal",
+    "url": "https://acklandmotors.co.uk/vehicle/name/skoda-octavia-elegance-tdi-cr-2/",
+    "dealer_id": "4548",
+    "car_id": "27120146",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "PX14DZT",
+        "registration_date": "2014-04-02",
+        "mileage": "68405",
+        "status": "New",
+        "price": "7500"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7500.00",
+        "total_price": 10060,
+        "deposit": "0",
+        "balance": 7500,
+        "apr": 12.92,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 167.5,
+        "final_payment": 177.5,
+        "total_amount_payable": 10060,
+        "total_charge_for_credit": 2560,
+        "amount_of_credit": 7500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 177.5
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "7500.00",
+        "total_price": 10060,
+        "deposit": "0",
+        "balance": 7500,
+        "apr": 12.92,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 167.5,
+        "final_payment": 177.5,
+        "total_amount_payable": 10060,
+        "total_charge_for_credit": 2560,
+        "amount_of_credit": 7500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 177.5,
+        "is_representative": true,
+        "apr_no_fees": 12.88
+      }
+    ]
+  }
+]

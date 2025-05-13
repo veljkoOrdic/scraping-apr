@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:19:43.188Z",
+    "source": "finance_proposal",
+    "url": "https://www.clivehamiltonmotors.com/used-fiat-500-cookstown-county-tyrone-6335547",
+    "dealer_id": "5011",
+    "car_id": "25641872",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WO21NDV",
+        "registration_date": "2021-06-29",
+        "mileage": "47280",
+        "status": "Used",
+        "price": "8850"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "8850.00",
+        "total_price": 11134,
+        "deposit": "885",
+        "balance": 7965,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 170.65,
+        "final_payment": 180.65,
+        "total_amount_payable": 11134,
+        "total_charge_for_credit": 2284,
+        "amount_of_credit": 7965,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 180.65,
+        "is_representative": true,
+        "apr_no_fees": 10.87
+      }
+    ]
+  }
+]

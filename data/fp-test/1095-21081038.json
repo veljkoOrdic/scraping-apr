@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:45:47.822Z",
+    "source": "finance_proposal",
+    "url": "https://hensoncars.co.uk/vehicle/name/bmw-x7-m50d/",
+    "dealer_id": "1095",
+    "car_id": "21081038",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FY69XCB",
+        "registration_date": "2019-11-23",
+        "mileage": "49290",
+        "status": "New",
+        "price": "62995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "62995.00",
+        "total_price": 79352.2,
+        "deposit": "0",
+        "balance": 62995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1322.37,
+        "final_payment": 1332.37,
+        "total_amount_payable": 79352.2,
+        "total_charge_for_credit": 16357.2,
+        "amount_of_credit": 62995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1332.37,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

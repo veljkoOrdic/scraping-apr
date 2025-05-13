@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-12T13:54:39.643Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reynoldsmotorgroup.co.uk/used-audi-a7-southend-on-sea-essex-5831492",
+    "dealer_id": "101",
+    "car_id": "23510774",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV67CYX",
+        "registration_date": "18/09/2017",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 0,
+        "balance": 20000,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 52,
+        "regular_payment": 479.3,
+        "final_payment": 480.3,
+        "total_amount_payable": 24924.6,
+        "total_charge_for_credit": 4924.6,
+        "amount_of_credit": 20000,
+        "lender": "Creation Consumer Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

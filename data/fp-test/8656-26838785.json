@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T23:22:09.334Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorhousecheshire.co.uk/used/land-rover/range-rover-sport/30-sdv6-autobiography-dynamic-5dr-auto-7-seat/stockport/cheshire/21443508",
+    "dealer_id": "8656",
+    "car_id": "26838785",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "Range Rover Sport",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WTT35K",
+        "registration_date": "24/05/2019",
+        "mileage": "75000",
+        "status": "Used",
+        "price": "30995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "30995.00",
+        "total_price": 36729.16,
+        "deposit": "3099",
+        "balance": 27896,
+        "apr": 9.91,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 700.42,
+        "final_payment": 710.42,
+        "total_amount_payable": 36729.16,
+        "total_charge_for_credit": 5734.16,
+        "amount_of_credit": 27896,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 710.42
+      }
+    ]
+  }
+]

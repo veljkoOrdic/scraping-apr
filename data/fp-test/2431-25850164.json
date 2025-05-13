@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:22:20.040Z",
+    "source": "finance_proposal",
+    "url": "https://www.spcars.net/details/used-car-in-nottingham/bmw/1series/1.5-116d-m-sport-lcp-euro-6-ss-5dr/1279344/",
+    "dealer_id": "2431",
+    "car_id": "25850164",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "OU70OSO",
+        "registration_date": "2020-09-23",
+        "mileage": "42000",
+        "status": "Used",
+        "price": "17650"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "17650.00",
+        "total_price": 23069,
+        "deposit": "1765",
+        "balance": 15885,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 354.9,
+        "final_payment": 364.9,
+        "total_amount_payable": 23069,
+        "total_charge_for_credit": 5419,
+        "amount_of_credit": 15885,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 364.9
+      }
+    ]
+  }
+]

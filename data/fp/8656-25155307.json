@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T23:22:14.668Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorhousecheshire.co.uk/used/audi/tt-rs/tt-rs-tfsi-quattro-vorsprung-2dr-s-tronic/stockport/cheshire/21353131",
+    "dealer_id": "8656",
+    "car_id": "25155307",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "TO60RUN",
+        "registration_date": "17/07/2020",
+        "mileage": "5200",
+        "status": "Used",
+        "price": "41000"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Zopa PCP",
+        "finance_type": "PCP",
+        "cash_price": "41000.00",
+        "total_price": 52463.39,
+        "deposit": "4100",
+        "balance": 36900,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 558.41,
+        "final_payment": 21559.71,
+        "total_amount_payable": 52463.39,
+        "total_charge_for_credit": 11463.39,
+        "amount_of_credit": 36900,
+        "lender": "Zopa PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "14p",
+        "residual": 21559.71,
+        "price_to_buy": 21559.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "41000.00",
+        "total_price": 48582,
+        "deposit": "4100",
+        "balance": 36900,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 926.5,
+        "final_payment": 936.5,
+        "total_amount_payable": 48582,
+        "total_charge_for_credit": 7582,
+        "amount_of_credit": 36900,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 936.5
+      }
+    ]
+  }
+]

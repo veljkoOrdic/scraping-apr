@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:22:28.552Z",
+    "source": "finance_proposal",
+    "url": "https://www.spcars.net/details/used-car-in-nottingham/volvo/v90/2.0-d4-r-design-plus-auto-euro-6-ss-5dr/1412437/",
+    "dealer_id": "2431",
+    "car_id": "27444262",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KR20VGA",
+        "registration_date": "2020-06-24",
+        "mileage": "54000",
+        "status": "Used",
+        "price": "25400"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "25400.00",
+        "total_price": 33193.8,
+        "deposit": "2540",
+        "balance": 22860,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 510.73,
+        "final_payment": 520.73,
+        "total_amount_payable": 33193.8,
+        "total_charge_for_credit": 7793.8,
+        "amount_of_credit": 22860,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 520.73
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Zopa PCP",
+        "finance_type": "PCP",
+        "cash_price": "25400.00",
+        "total_price": 33250.96,
+        "deposit": "2540",
+        "balance": 22860,
+        "apr": 12.89,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 482.32,
+        "final_payment": 7559.6,
+        "total_amount_payable": 33250.96,
+        "total_charge_for_credit": 7850.96,
+        "amount_of_credit": 22860,
+        "lender": "Zopa PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "10p",
+        "residual": 7559.6,
+        "price_to_buy": 7559.6
+      }
+    ]
+  }
+]

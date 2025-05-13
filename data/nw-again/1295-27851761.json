@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:51:12.366Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.spaldingcars.co.uk/vehicle/mini-john-cooper-works-john-cooper-works-in-spalding-lincolnshire-cebb03f9-e11c-4f3a-a01a-b89b67f6e711",
+    "dealer_id": "1295",
+    "car_id": "27851761",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EO69FJZ",
+        "registration_date": "04/09/2019",
+        "mileage": 43586,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18250,
+        "total_price": 18250,
+        "deposit": 1825,
+        "balance": 16425,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 337.42,
+        "final_payment": 338.42,
+        "total_amount_payable": 22071.2,
+        "total_charge_for_credit": 3821.2,
+        "amount_of_credit": 16425,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

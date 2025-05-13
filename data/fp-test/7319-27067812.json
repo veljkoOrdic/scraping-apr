@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:33:58.678Z",
+    "source": "finance_proposal",
+    "url": "https://www.stonehousemotorcompany.co.uk/cars/kia/sportage/1.6-t-gdi-2/1380561/",
+    "dealer_id": "7319",
+    "car_id": "27067812",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FV71VWO",
+        "registration_date": "2022-01-31",
+        "mileage": "42348",
+        "status": "Used",
+        "price": "14995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "14995.00",
+        "total_price": 18889,
+        "deposit": "0",
+        "balance": 14995,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 314.65,
+        "final_payment": 324.65,
+        "total_amount_payable": 18889,
+        "total_charge_for_credit": 3894,
+        "amount_of_credit": 14995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 324.65
+      }
+    ]
+  }
+]

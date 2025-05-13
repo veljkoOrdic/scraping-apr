@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T21:04:43.202Z",
+    "source": "finance_proposal",
+    "url": "https://www.familyautos.co.uk/used/ferrari/california/2-2dr-f1/brigg/lincolnshire/21575561",
+    "dealer_id": "5818",
+    "car_id": "27669236",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "California",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "123ARR",
+        "registration_date": "01/11/2013",
+        "mileage": "29000",
+        "status": "Used",
+        "price": "62500"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "62500.00",
+        "total_price": 77041,
+        "deposit": "0",
+        "balance": 62500,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1283.85,
+        "final_payment": 1293.85,
+        "total_amount_payable": 77041,
+        "total_charge_for_credit": 14541,
+        "amount_of_credit": 62500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1293.85
+      }
+    ]
+  }
+]

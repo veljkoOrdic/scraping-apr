@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:18:40.108Z",
+    "source": "finance_proposal",
+    "url": "https://www.carnegiecars.co.uk/cars/renault/megane/1.6-16v-dynamique-tomtom/1269232/",
+    "dealer_id": "4902",
+    "car_id": "25708981",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SJ61AYL",
+        "registration_date": "2011-10-31",
+        "mileage": "65926",
+        "status": "Used",
+        "price": "2995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "2995.00",
+        "total_price": 3775,
+        "deposit": "0",
+        "balance": 2995,
+        "apr": 9.91,
+        "rate_of_interest": 5.14,
+        "term": 60,
+        "regular_payment": 62.75,
+        "final_payment": 72.75,
+        "total_amount_payable": 3775,
+        "total_charge_for_credit": 780,
+        "amount_of_credit": 2995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 72.75,
+        "is_representative": true,
+        "apr_no_fees": 9.81
+      }
+    ]
+  }
+]

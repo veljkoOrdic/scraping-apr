@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:06:19.063Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstoday.com/vehicle/land-rover-discovery-306-se-commercial-ex-mod-dog-carrier-in-worcester-b2052d25-fc8e-4818-94f0-b23a0152c9b2",
+    "dealer_id": "2379",
+    "car_id": "26463694",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX68YJC",
+        "registration_date": "27/05/2019",
+        "mileage": 35118,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23988,
+        "total_price": 23988,
+        "deposit": 0,
+        "balance": 23988,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 503.51,
+        "final_payment": 504.51,
+        "total_amount_payable": 30211.6,
+        "total_charge_for_credit": 6223.6,
+        "amount_of_credit": 23988,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

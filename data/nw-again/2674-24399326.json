@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:10:04.053Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cuffleymotorcompany.co.uk/vehicle/mazda-cx-5-22-skyactiv-d-sport-nav-suv-5dr-diesel-manual-4wd-euro-6-ss-175-ps-in-cuffley-hertfordshire-85dcdd1f-b76f-4e7b-b8ec-843703523599",
+    "dealer_id": "2674",
+    "car_id": "24399326",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE14GGY",
+        "registration_date": "20/06/2014",
+        "mileage": 105000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 114.93,
+        "final_payment": 115.93,
+        "total_amount_payable": 6132.07,
+        "total_charge_for_credit": 1137.07,
+        "amount_of_credit": 4495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

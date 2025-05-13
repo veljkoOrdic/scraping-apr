@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:58:32.375Z",
+    "source": "finance_proposal",
+    "url": "https://acklandmotors.co.uk/vehicle/name/ford-focus-rs-3/",
+    "dealer_id": "4548",
+    "car_id": "26087524",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AU03OEX",
+        "registration_date": "2003-03-11",
+        "mileage": "73845",
+        "status": "New",
+        "price": "16995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "16995.00",
+        "total_price": 22792,
+        "deposit": "0",
+        "balance": 16995,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 379.7,
+        "final_payment": 389.7,
+        "total_amount_payable": 22792,
+        "total_charge_for_credit": 5797,
+        "amount_of_credit": 16995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 389.7,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:09:32.810Z",
+    "source": "finance_proposal",
+    "url": "https://www.activeautomotive.co.uk/vehicle/bmw-435d-30-m-sport-auto-xdrive-euro-6-ss-2dr-in-wellingborough-northamptonshire-5012a5e2-3e97-479f-b8f8-af5900ea36d4",
+    "dealer_id": "1573",
+    "car_id": "19059204",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "BW15ZXA",
+        "registration_date": "2015-07-16",
+        "mileage": "68297",
+        "status": "Used",
+        "price": "13495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "13495.00",
+        "total_price": 17000.2,
+        "deposit": "0",
+        "balance": 13495,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 283.17,
+        "final_payment": 293.17,
+        "total_amount_payable": 17000.2,
+        "total_charge_for_credit": 3505.2,
+        "amount_of_credit": 13495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 293.17,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

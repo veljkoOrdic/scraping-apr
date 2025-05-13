@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:33:29.492Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/toyota/alphard/350s-c-package-4wd/1336454/",
+    "dealer_id": "9192",
+    "car_id": "26525831",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:33:29.495Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/toyota/alphard/350s-c-package-4wd/1336454/",
+    "dealer_id": "9192",
+    "car_id": "26525831",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "IMP465",
+        "registration_date": "2020-08-01",
+        "mileage": "5282",
+        "status": "Used",
+        "price": "59995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "59995.00",
+        "total_price": 77193.4,
+        "deposit": "0",
+        "balance": 59995,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1286.39,
+        "final_payment": 1296.39,
+        "total_amount_payable": 77193.4,
+        "total_charge_for_credit": 17198.4,
+        "amount_of_credit": 59995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1296.39
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "59995.00",
+        "total_price": 80433.4,
+        "deposit": "0",
+        "balance": 59995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1340.39,
+        "final_payment": 1350.39,
+        "total_amount_payable": 80433.4,
+        "total_charge_for_credit": 20438.4,
+        "amount_of_credit": 59995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1350.39,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

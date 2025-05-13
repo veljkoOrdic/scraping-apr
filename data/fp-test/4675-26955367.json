@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:01:28.427Z",
+    "source": "finance_proposal",
+    "url": "https://hcsales.co.uk/vehicle/name/toyota-yaris-1-0-vvt-i-icon-tech-hatchback-5dr-petrol-manual-euro-6-72-ps/",
+    "dealer_id": "4675",
+    "car_id": "26955367",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "RX19NMZ",
+        "registration_date": "2019-03-22",
+        "mileage": "8000",
+        "status": "New",
+        "price": "11495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "11495.00",
+        "total_price": 14792.8,
+        "deposit": "0",
+        "balance": 11495,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 246.38,
+        "final_payment": 256.38,
+        "total_amount_payable": 14792.8,
+        "total_charge_for_credit": 3297.8,
+        "amount_of_credit": 11495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 256.38,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

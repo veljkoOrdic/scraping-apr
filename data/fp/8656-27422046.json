@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T23:21:46.527Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorhousecheshire.co.uk/used/audi/a3/14-tfsi-125-s-line-3dr/stockport/cheshire/21562260",
+    "dealer_id": "8656",
+    "car_id": "27422046",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MW64VTY",
+        "registration_date": "12/12/2014",
+        "mileage": "43000",
+        "status": "Used",
+        "price": "9995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "9995.00",
+        "total_price": 11847.4,
+        "deposit": "999",
+        "balance": 8996,
+        "apr": 9.92,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 225.8,
+        "final_payment": 235.8,
+        "total_amount_payable": 11847.4,
+        "total_charge_for_credit": 1852.4,
+        "amount_of_credit": 8996,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 235.8
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "9995.00",
+        "deposit": "999",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

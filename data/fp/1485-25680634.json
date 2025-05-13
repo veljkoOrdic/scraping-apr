@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T18:54:46.487Z",
+    "source": "finance_proposal",
+    "url": "https://www.platinummarquesuk.co.uk/vehicle/land-rover-range-rover-sport-30-p440e-382kwh-dynamic-se-auto-4wd-euro-6-ss-5dr-in-reading-berkshire-44a2d68a-ada1-400c-8036-b1f001696990",
+    "dealer_id": "1485",
+    "car_id": "25680634",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "VN72EDL",
+        "registration_date": "2023-01-11",
+        "mileage": "28000",
+        "status": "Used",
+        "price": "69949"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "69949.00",
+        "total_price": 88111,
+        "deposit": "0",
+        "balance": 69949,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1468.35,
+        "final_payment": 1478.35,
+        "total_amount_payable": 88111,
+        "total_charge_for_credit": 18162,
+        "amount_of_credit": 69949,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1478.35
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Close PCP",
+        "finance_type": "PCP",
+        "cash_price": "69949.00",
+        "total_price": 90601.28,
+        "deposit": "0",
+        "balance": 69949,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 1160.78,
+        "final_payment": 34883.84,
+        "total_amount_payable": 90601.28,
+        "total_charge_for_credit": 20652.28,
+        "amount_of_credit": 69949,
+        "lender": "Close PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "12p",
+        "residual": 34883.84,
+        "price_to_buy": 34883.84
+      }
+    ]
+  }
+]

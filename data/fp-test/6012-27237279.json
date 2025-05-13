@@ -1,0 +1,45 @@
+[
+  {
+    "timestamp": "2025-05-05T21:08:47.951Z",
+    "source": "finance_proposal",
+    "url": "https://www.slfcarsales.co.uk/used/cars/ford/tourneo-connect/1-6-ecoboost-titanium-auto-euro-5-5dr-1061",
+    "dealer_id": "6012",
+    "car_id": "27237279",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "status": "Used"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9880.00",
+        "total_price": 13249,
+        "deposit": "0",
+        "balance": 9880,
+        "apr": 12.91,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 220.65,
+        "final_payment": 230.65,
+        "total_amount_payable": 13249,
+        "total_charge_for_credit": 3369,
+        "amount_of_credit": 9880,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 230.65,
+        "is_representative": true,
+        "apr_no_fees": 12.88
+      }
+    ]
+  }
+]

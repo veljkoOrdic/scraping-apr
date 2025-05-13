@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T21:27:35.975Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/bmw/m4/3.0-m4-coupe-competition-package/1181293/",
+    "dealer_id": "6233",
+    "car_id": "24563233",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T21:27:35.977Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/bmw/m4/3.0-m4-coupe-competition-package/1181293/",
+    "dealer_id": "6233",
+    "car_id": "24563233",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "EN67PYT",
+        "registration_date": "2018-02-28",
+        "mileage": "63770",
+        "status": "Used",
+        "price": "26995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "26995.00",
+        "total_price": 34010.2,
+        "deposit": "0",
+        "balance": 26995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.67,
+        "final_payment": 576.67,
+        "total_amount_payable": 34010.2,
+        "total_charge_for_credit": 7015.2,
+        "amount_of_credit": 26995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 576.67
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "26995.00",
+        "total_price": 34010.2,
+        "deposit": "0",
+        "balance": 26995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.67,
+        "final_payment": 576.67,
+        "total_amount_payable": 34010.2,
+        "total_charge_for_credit": 7015.2,
+        "amount_of_credit": 26995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 576.67,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

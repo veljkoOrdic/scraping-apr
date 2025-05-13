@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T18:39:13.116Z",
+    "source": "finance_proposal",
+    "url": "https://www.blackdown4x4.co.uk/details/used-car-in-kentisbeare/landrover/rangerover/3.0-sd-v6-autobiography-auto-4wd-euro-6-ss-5dr/1419704/",
+    "dealer_id": "160",
+    "car_id": "27529188",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T18:39:13.119Z",
+    "source": "finance_proposal",
+    "url": "https://www.blackdown4x4.co.uk/details/used-car-in-kentisbeare/landrover/rangerover/3.0-sd-v6-autobiography-auto-4wd-euro-6-ss-5dr/1419704/",
+    "dealer_id": "160",
+    "car_id": "27529188",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "H5LSD",
+        "registration_date": "2018-11-30",
+        "mileage": "66000",
+        "status": "Used",
+        "price": "29995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "29995.00",
+        "total_price": 40218.4,
+        "deposit": "0",
+        "balance": 29995,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 670.14,
+        "final_payment": 680.14,
+        "total_amount_payable": 40218.4,
+        "total_charge_for_credit": 10223.4,
+        "amount_of_credit": 29995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 680.14
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "29995.00",
+        "total_price": 40218.4,
+        "deposit": "0",
+        "balance": 29995,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 670.14,
+        "final_payment": 680.14,
+        "total_amount_payable": 40218.4,
+        "total_charge_for_credit": 10223.4,
+        "amount_of_credit": 29995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 680.14,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

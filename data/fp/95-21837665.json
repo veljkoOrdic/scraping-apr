@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T18:34:43.522Z",
+    "source": "finance_proposal",
+    "url": "https://www.nenevalegaragebugbrooke.co.uk/details/used-van-in-northampton/vauxhall/corsa/1.3-cdti-sportive-fwd-l1-h1-3dr/988660/",
+    "dealer_id": "95",
+    "car_id": "21837665",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T18:34:43.525Z",
+    "source": "finance_proposal",
+    "url": "https://www.nenevalegaragebugbrooke.co.uk/details/used-van-in-northampton/vauxhall/corsa/1.3-cdti-sportive-fwd-l1-h1-3dr/988660/",
+    "dealer_id": "95",
+    "car_id": "21837665",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GV17JYF",
+        "registration_date": "2017-06-30",
+        "mileage": "96000",
+        "status": "New",
+        "price": "4400"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "5280.00",
+        "total_price": 6425,
+        "deposit": "880",
+        "balance": 4400,
+        "apr": 9.91,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 92.25,
+        "final_payment": 102.25,
+        "total_amount_payable": 6425,
+        "total_charge_for_credit": 1145,
+        "amount_of_credit": 4400,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 102.25
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "5280.00",
+        "total_price": 6425,
+        "deposit": "880",
+        "balance": 4400,
+        "apr": 9.91,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 92.25,
+        "final_payment": 102.25,
+        "total_amount_payable": 6425,
+        "total_charge_for_credit": 1145,
+        "amount_of_credit": 4400,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 102.25,
+        "is_representative": true,
+        "apr_no_fees": 9.85
+      }
+    ]
+  }
+]

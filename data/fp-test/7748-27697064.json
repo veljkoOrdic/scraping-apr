@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:06:53.991Z",
+    "source": "finance_proposal",
+    "url": "https://www.crowngarageusedcars.co.uk/cars/honda/cr-v/2.0-17.7kwh-advance-tech-ecvt-euro-6-ss-5dr/1431885/",
+    "dealer_id": "7748",
+    "car_id": "27697064",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AF74EYP",
+        "registration_date": "2024-09-24",
+        "mileage": "4994",
+        "status": "New",
+        "price": "40990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "40990.00",
+        "total_price": 50395.2,
+        "deposit": "8198",
+        "balance": 32792,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 703.12,
+        "final_payment": 713.12,
+        "total_amount_payable": 50395.2,
+        "total_charge_for_credit": 9405.2,
+        "amount_of_credit": 32792,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 713.12,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

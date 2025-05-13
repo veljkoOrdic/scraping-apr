@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:54:48.957Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surecardirect.co.uk/details/used-car-in-fishponds/bmw/7series/3.0-730d-m-sport-auto-euro-6-ss-4dr/1447467/",
+    "dealer_id": "1579",
+    "car_id": "27856740",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC19TOF",
+        "registration_date": "28/06/2019",
+        "mileage": 34784,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 1599.75,
+        "balance": 30395.25,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 783.12,
+        "final_payment": 793.12,
+        "total_amount_payable": 39199.51,
+        "total_charge_for_credit": 7204.51,
+        "amount_of_credit": 30395.25,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

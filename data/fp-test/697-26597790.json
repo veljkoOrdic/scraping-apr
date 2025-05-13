@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T18:42:31.527Z",
+    "source": "finance_proposal",
+    "url": "https://www.autoprovisions.co.uk/volkswagen-golf-r-dsg-in-kings-langley-hertfordshire-0eff8c31-96e2-4c71-8ae5-cbafa9ef64ce",
+    "dealer_id": "697",
+    "car_id": "26597790",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DE64DVJ",
+        "registration_date": "2014-09-30",
+        "mileage": "91550",
+        "status": "Used",
+        "price": "12500.0000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "12500.00",
+        "total_price": 16085.2,
+        "deposit": "0",
+        "balance": 12500,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 267.92,
+        "final_payment": 277.92,
+        "total_amount_payable": 16085.2,
+        "total_charge_for_credit": 3585.2,
+        "amount_of_credit": 12500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 277.92
+      }
+    ]
+  }
+]

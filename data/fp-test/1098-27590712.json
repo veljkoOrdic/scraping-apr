@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:46:31.816Z",
+    "source": "finance_proposal",
+    "url": "https://garrypease.co.uk/vehicle/name/audi-q3-2-0-tdi-quattro-se-4x4-diesel-finance-no-deposit-bluetooth-park-sensors-cruise-dab-mp3-usb-a-c-new-timing-belt-fsh-1-year-mot/",
+    "dealer_id": "1098",
+    "car_id": "27590712",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DC16EUJ",
+        "registration_date": "2016-07-21",
+        "mileage": "78000",
+        "status": "New",
+        "price": "9490"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9490.00",
+        "total_price": 12214,
+        "deposit": "0",
+        "balance": 9490,
+        "apr": 10.92,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 203.4,
+        "final_payment": 213.4,
+        "total_amount_payable": 12214,
+        "total_charge_for_credit": 2724,
+        "amount_of_credit": 9490,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 213.4,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]
