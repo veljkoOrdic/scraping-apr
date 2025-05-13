@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:03:14.054Z",
+    "source": "finance_proposal",
+    "url": "https://www.themotorspecialists.co.uk/detail/1353688/used-mercedes-benz-cls-3-0-cls350-cdi-sport-amg-4dr-automatic-chesterfield",
+    "dealer_id": "7641",
+    "car_id": "27415736",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:03:14.057Z",
+    "source": "finance_proposal",
+    "url": "https://www.themotorspecialists.co.uk/detail/1353688/used-mercedes-benz-cls-3-0-cls350-cdi-sport-amg-4dr-automatic-chesterfield",
+    "dealer_id": "7641",
+    "car_id": "27415736",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "CJ11DYD",
+        "registration_date": "2011-05-31",
+        "mileage": "87000",
+        "status": "Used",
+        "price": "7495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7495.00",
+        "total_price": 9644.8,
+        "deposit": "0",
+        "balance": 7495,
+        "apr": 10.91,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 160.58,
+        "final_payment": 170.58,
+        "total_amount_payable": 9644.8,
+        "total_charge_for_credit": 2149.8,
+        "amount_of_credit": 7495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 170.58
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "7495.00",
+        "total_price": 9644.8,
+        "deposit": "0",
+        "balance": 7495,
+        "apr": 10.91,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 160.58,
+        "final_payment": 170.58,
+        "total_amount_payable": 9644.8,
+        "total_charge_for_credit": 2149.8,
+        "amount_of_credit": 7495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 170.58,
+        "is_representative": true,
+        "apr_no_fees": 10.87
+      }
+    ]
+  }
+]

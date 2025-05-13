@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T21:33:29.760Z",
+    "source": "finance_proposal",
+    "url": "https://www.olivemotorgroupltd.co.uk/details/used-car-in-nottingham/skoda/octavia/2.0-tdi-scout-4wd-euro-6-ss-5dr/1380908/",
+    "dealer_id": "6339",
+    "car_id": "27073012",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YT65KZF",
+        "registration_date": "2015-09-01",
+        "mileage": "82297",
+        "status": "Used",
+        "price": "9495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9495.00",
+        "total_price": 12476.8,
+        "deposit": "0",
+        "balance": 9495,
+        "apr": 11.91,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 207.78,
+        "final_payment": 217.78,
+        "total_amount_payable": 12476.8,
+        "total_charge_for_credit": 2981.8,
+        "amount_of_credit": 9495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 217.78,
+        "is_representative": true,
+        "apr_no_fees": 11.88
+      }
+    ]
+  }
+]

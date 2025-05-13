@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T18:54:43.107Z",
+    "source": "finance_proposal",
+    "url": "https://www.platinummarquesuk.co.uk/vehicle/land-rover-defender-110-30-d250-mhev-first-edition-auto-4wd-euro-6-ss-5dr-in-reading-berkshire-4e34b9ea-3ac1-4554-9b8e-b20e00acb270",
+    "dealer_id": "1485",
+    "car_id": "25999035",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SY21VLL",
+        "registration_date": "2021-03-31",
+        "mileage": "73000",
+        "status": "Used",
+        "price": "48949"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "48949.00",
+        "total_price": 61661.2,
+        "deposit": "0",
+        "balance": 48949,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1027.52,
+        "final_payment": 1037.52,
+        "total_amount_payable": 61661.2,
+        "total_charge_for_credit": 12712.2,
+        "amount_of_credit": 48949,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1037.52
+      }
+    ]
+  }
+]

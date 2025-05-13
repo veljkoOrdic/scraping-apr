@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:22:10.161Z",
+    "source": "finance_proposal",
+    "url": "https://www.qtcars.co.uk/details/used-car-in-st-ives/volkswagen/t6.1campervan/0/1200593/",
+    "dealer_id": "7012",
+    "car_id": "24816635",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "TEMP561",
+        "registration_date": "0000-00-00",
+        "mileage": "3120",
+        "status": "New",
+        "price": "48990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "48990.00",
+        "total_price": 62054.4,
+        "deposit": "7349",
+        "balance": 41641,
+        "apr": 11.91,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 911.59,
+        "final_payment": 921.59,
+        "total_amount_payable": 62054.4,
+        "total_charge_for_credit": 13064.4,
+        "amount_of_credit": 41641,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 921.59,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-12T13:55:37.898Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.randwmotorcompany.co.uk/vehicle/volvo-v50-25-t5-se-geartronic-5dr-in-berkshire-84651ab4-25de-429c-b3bd-b2d1012afe3d",
+    "dealer_id": "110",
+    "car_id": "28000978",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OE55YWR",
+        "registration_date": "31/01/2006",
+        "mileage": 166000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2409,
+        "total_price": 2409,
+        "deposit": 0,
+        "balance": 2409,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 60,
+        "regular_payment": 50.98,
+        "final_payment": 60.98,
+        "total_amount_payable": 3068.8,
+        "total_charge_for_credit": 659.8,
+        "amount_of_credit": 2409,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

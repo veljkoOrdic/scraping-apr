@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T19:27:05.217Z",
+    "source": "finance_proposal",
+    "url": "https://www.strettonofkew.co.uk/cars/mercedes-benz/slk/1.8-slk200-blueefficiency-amg-sport/1233152/",
+    "dealer_id": "2544",
+    "car_id": "25274218",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T19:27:05.220Z",
+    "source": "finance_proposal",
+    "url": "https://www.strettonofkew.co.uk/cars/mercedes-benz/slk/1.8-slk200-blueefficiency-amg-sport/1233152/",
+    "dealer_id": "2544",
+    "car_id": "25274218",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "CP12SNY",
+        "registration_date": "2012-07-06",
+        "mileage": "59915",
+        "status": "Used",
+        "price": "8495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "8495.00",
+        "total_price": 10687.4,
+        "deposit": "850",
+        "balance": 7645,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 163.79,
+        "final_payment": 173.79,
+        "total_amount_payable": 10687.4,
+        "total_charge_for_credit": 2192.4,
+        "amount_of_credit": 7645,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 173.79
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "8495.00",
+        "total_price": 10687.4,
+        "deposit": "850",
+        "balance": 7645,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 163.79,
+        "final_payment": 173.79,
+        "total_amount_payable": 10687.4,
+        "total_charge_for_credit": 2192.4,
+        "amount_of_credit": 7645,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 173.79,
+        "is_representative": true,
+        "apr_no_fees": 10.87
+      }
+    ]
+  }
+]

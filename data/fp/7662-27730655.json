@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T23:03:33.599Z",
+    "source": "finance_proposal",
+    "url": "https://www.evexperts.co.uk/electric-cars-for-sale/bmw/i3/31071",
+    "dealer_id": "7662",
+    "car_id": "27730655",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "NA15HXE",
+        "registration_date": "2015-05-15",
+        "mileage": "60300",
+        "status": "Used",
+        "price": "7900"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7900.00",
+        "total_price": 9714.6,
+        "deposit": "1580",
+        "balance": 6320,
+        "apr": 10.91,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 135.41,
+        "final_payment": 145.41,
+        "total_amount_payable": 9714.6,
+        "total_charge_for_credit": 1814.6,
+        "amount_of_credit": 6320,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 145.41
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "7900.00",
+        "deposit": "1580",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

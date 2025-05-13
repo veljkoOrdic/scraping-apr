@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:33:46.987Z",
+    "source": "finance_proposal",
+    "url": "https://svscarsales.co.uk/vehicle/name/bentley-continental-6-0-w12-flying-spur-speed-saloon-4dr-petrol-auto-4wd-euro-4-610-ps/",
+    "dealer_id": "5347",
+    "car_id": "27530571",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "X12AAA",
+        "registration_date": "2011-01-04",
+        "mileage": "39968",
+        "status": "New",
+        "price": "19995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "19995.00",
+        "total_price": 25193.8,
+        "deposit": "0",
+        "balance": 19995,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 419.73,
+        "final_payment": 429.73,
+        "total_amount_payable": 25193.8,
+        "total_charge_for_credit": 5198.8,
+        "amount_of_credit": 19995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 429.73,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

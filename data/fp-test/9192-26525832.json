@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:33:15.076Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/toyota/alphard/2.5s-c-package/1336459/",
+    "dealer_id": "9192",
+    "car_id": "26525832",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "IMP464",
+        "registration_date": "2019-10-01",
+        "mileage": "11995",
+        "status": "Used",
+        "price": "49995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "49995.00",
+        "total_price": 67028.2,
+        "deposit": "0",
+        "balance": 49995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1116.97,
+        "final_payment": 1126.97,
+        "total_amount_payable": 67028.2,
+        "total_charge_for_credit": 17033.2,
+        "amount_of_credit": 49995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1126.97,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

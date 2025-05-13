@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:53:35.906Z",
+    "source": "finance_proposal",
+    "url": "https://www.allisonmotors.co.uk/cars/dacia/duster/1.6-prestige-sce-115-4x4-my19/1374323/",
+    "dealer_id": "4452",
+    "car_id": "26989365",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DX19LFS",
+        "registration_date": "2019-06-18",
+        "mileage": "67000",
+        "status": "Used",
+        "price": "10995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "10995.00",
+        "total_price": 14897.2,
+        "deposit": "0",
+        "balance": 10995,
+        "apr": 13.42,
+        "rate_of_interest": 7.08,
+        "term": 60,
+        "regular_payment": 248.12,
+        "final_payment": 258.12,
+        "total_amount_payable": 14897.2,
+        "total_charge_for_credit": 3902.2,
+        "amount_of_credit": 10995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 258.12
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Alphera PCP",
+        "finance_type": "PCP",
+        "cash_price": "10995.00",
+        "total_price": 15063.88,
+        "deposit": "0",
+        "balance": 10995,
+        "apr": 13.4,
+        "rate_of_interest": 6.99,
+        "term": 48,
+        "regular_payment": 225.06,
+        "final_payment": 4261,
+        "total_amount_payable": 15063.88,
+        "total_charge_for_credit": 4068.88,
+        "amount_of_credit": 10995,
+        "lender": "Alphera PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "3p",
+        "residual": 4261,
+        "price_to_buy": 4261
+      }
+    ]
+  }
+]

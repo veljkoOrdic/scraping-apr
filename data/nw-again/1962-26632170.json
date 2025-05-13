@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:00:31.445Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kinsallgreencars.co.uk/vehicle/peugeot-108-allure-in-tamworth-staffordshire-6cfce548-c414-4308-bcfd-b25301388417",
+    "dealer_id": "1962",
+    "car_id": "26632170",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE65MWG",
+        "registration_date": "23/09/2015",
+        "mileage": 71925,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4399,
+        "total_price": 4399,
+        "deposit": 0,
+        "balance": 4399,
+        "apr": 11.9,
+        "rate_of_interest": 6.11,
+        "term": 36,
+        "regular_payment": 144.61,
+        "final_payment": 145.61,
+        "total_amount_payable": 5206.96,
+        "total_charge_for_credit": 807.96,
+        "amount_of_credit": 4399,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

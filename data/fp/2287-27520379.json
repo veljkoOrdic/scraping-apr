@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T19:18:43.052Z",
+    "source": "finance_proposal",
+    "url": "https://www.desboroughcarcompany.co.uk/vans/ford/ranger/2.0-ecoblue-limited/1419419/",
+    "dealer_id": "2287",
+    "car_id": "27520379",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T19:18:43.055Z",
+    "source": "finance_proposal",
+    "url": "https://www.desboroughcarcompany.co.uk/vans/ford/ranger/2.0-ecoblue-limited/1419419/",
+    "dealer_id": "2287",
+    "car_id": "27520379",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AY70JKN",
+        "registration_date": "2020-12-07",
+        "mileage": "63800",
+        "status": "New",
+        "price": "18995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "18995.00",
+        "total_price": 22902.64,
+        "deposit": "0",
+        "balance": 18995,
+        "apr": 9.91,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 476.93,
+        "final_payment": 486.93,
+        "total_amount_payable": 22902.64,
+        "total_charge_for_credit": 3907.64,
+        "amount_of_credit": 18995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 486.93
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "18995.00",
+        "total_price": 22902.64,
+        "deposit": "0",
+        "balance": 18995,
+        "apr": 9.91,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 476.93,
+        "final_payment": 486.93,
+        "total_amount_payable": 22902.64,
+        "total_charge_for_credit": 3907.64,
+        "amount_of_credit": 18995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 486.93,
+        "is_representative": true,
+        "apr_no_fees": 9.89
+      }
+    ]
+  }
+]

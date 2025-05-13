@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:04:23.176Z",
+    "source": "finance_proposal",
+    "url": "https://www.remarketingtrust.co.uk/cars/honda/cr-z/1.5h-ima-sport-euro-5-3dr/1277941/",
+    "dealer_id": "7740",
+    "car_id": "25908856",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:04:23.179Z",
+    "source": "finance_proposal",
+    "url": "https://www.remarketingtrust.co.uk/cars/honda/cr-z/1.5h-ima-sport-euro-5-3dr/1277941/",
+    "dealer_id": "7740",
+    "car_id": "25908856",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GY60GNZ",
+        "registration_date": "2010-10-29",
+        "mileage": "115000",
+        "status": "Used",
+        "price": "2990"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "2990.00",
+        "total_price": 3608.2,
+        "deposit": "0",
+        "balance": 2990,
+        "apr": 7.91,
+        "rate_of_interest": 4.07,
+        "term": 60,
+        "regular_payment": 59.97,
+        "final_payment": 69.97,
+        "total_amount_payable": 3608.2,
+        "total_charge_for_credit": 618.2,
+        "amount_of_credit": 2990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 69.97
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "2990.00",
+        "total_price": 3849.4,
+        "deposit": "0",
+        "balance": 2990,
+        "apr": 10.91,
+        "rate_of_interest": 5.68,
+        "term": 60,
+        "regular_payment": 63.99,
+        "final_payment": 73.99,
+        "total_amount_payable": 3849.4,
+        "total_charge_for_credit": 859.4,
+        "amount_of_credit": 2990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 73.99,
+        "is_representative": true,
+        "apr_no_fees": 10.81
+      }
+    ]
+  }
+]

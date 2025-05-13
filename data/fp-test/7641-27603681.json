@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:02:59.531Z",
+    "source": "finance_proposal",
+    "url": "https://www.themotorspecialists.co.uk/detail/1354912/used-audi-a3-1-6-tdi-ultra-se-technik-5dr-manual-chesterfield",
+    "dealer_id": "7641",
+    "car_id": "27603681",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YA65NKF",
+        "registration_date": "2016-02-01",
+        "mileage": "141000",
+        "status": "Used",
+        "price": "4995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "4995.00",
+        "total_price": 6428.8,
+        "deposit": "0",
+        "balance": 4995,
+        "apr": 10.91,
+        "rate_of_interest": 5.7,
+        "term": 60,
+        "regular_payment": 106.98,
+        "final_payment": 116.98,
+        "total_amount_payable": 6428.8,
+        "total_charge_for_credit": 1433.8,
+        "amount_of_credit": 4995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 116.98,
+        "is_representative": true,
+        "apr_no_fees": 10.85
+      }
+    ]
+  }
+]

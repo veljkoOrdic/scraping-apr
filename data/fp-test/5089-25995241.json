@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:21:24.899Z",
+    "source": "finance_proposal",
+    "url": "https://www.mandrcarsales.co.uk/cars/skoda/yeti/1.2-tsi-elegance/1291800/",
+    "dealer_id": "5089",
+    "car_id": "25995241",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FN15GLZ",
+        "registration_date": "2015-03-02",
+        "mileage": "79000",
+        "status": "Used",
+        "price": "8795"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "8795.00",
+        "total_price": 11083,
+        "deposit": "0",
+        "balance": 8795,
+        "apr": 9.92,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 184.55,
+        "final_payment": 194.55,
+        "total_amount_payable": 11083,
+        "total_charge_for_credit": 2288,
+        "amount_of_credit": 8795,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 194.55,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

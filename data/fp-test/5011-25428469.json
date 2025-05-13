@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:19:56.584Z",
+    "source": "finance_proposal",
+    "url": "https://www.clivehamiltonmotors.com/used-vauxhall-crossland-cookstown-county-tyrone-6275142",
+    "dealer_id": "5011",
+    "car_id": "25428469",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "PJ22NHB",
+        "registration_date": "2022-04-28",
+        "mileage": "38916",
+        "status": "Used",
+        "price": "10990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "10990.00",
+        "total_price": 13829,
+        "deposit": "1099",
+        "balance": 9891,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 212,
+        "final_payment": 222,
+        "total_amount_payable": 13829,
+        "total_charge_for_credit": 2839,
+        "amount_of_credit": 9891,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 222,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

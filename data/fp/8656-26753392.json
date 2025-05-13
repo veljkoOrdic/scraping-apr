@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T23:22:29.524Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorhousecheshire.co.uk/used/ferrari/california/t-2dr-auto/stockport/cheshire/21517774",
+    "dealer_id": "8656",
+    "car_id": "26753392",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "California",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "W16RMA",
+        "registration_date": "18/11/2014",
+        "mileage": "28000",
+        "status": "Used",
+        "price": "75950"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "75950.00",
+        "deposit": "7595",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "75950.00",
+        "total_price": 90013.8,
+        "deposit": "7595",
+        "balance": 68355,
+        "apr": 9.92,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 1716.85,
+        "final_payment": 1726.85,
+        "total_amount_payable": 90013.8,
+        "total_charge_for_credit": 14063.8,
+        "amount_of_credit": 68355,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1726.85
+      }
+    ]
+  }
+]

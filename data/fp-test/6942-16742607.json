@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:06:56.121Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/triumph/stag/stag/494650/",
+    "dealer_id": "6942",
+    "car_id": "16742607",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SER426S",
+        "registration_date": "1977-12-08",
+        "mileage": "73000",
+        "status": "Used",
+        "price": "22950"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "22950.00",
+        "total_price": 28715.8,
+        "deposit": "4590",
+        "balance": 18360,
+        "apr": 11.92,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 401.93,
+        "final_payment": 411.93,
+        "total_amount_payable": 28715.8,
+        "total_charge_for_credit": 5765.8,
+        "amount_of_credit": 18360,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 411.93,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

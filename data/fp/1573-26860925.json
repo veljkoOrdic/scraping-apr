@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T19:09:37.329Z",
+    "source": "finance_proposal",
+    "url": "https://www.activeautomotive.co.uk/vehicle/mercedes-vito-21-114-cdi-progressive-crew-van-rwd-l2-euro-6-ss-5dr-lwb-in-wellingborough-northamptonshire-80e33146-3da3-460f-9bdc-b26e00fe19a3",
+    "dealer_id": "1573",
+    "car_id": "26860925",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LN20OTY",
+        "registration_date": "2020-06-23",
+        "mileage": "94793",
+        "status": "New",
+        "price": "17000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "20400.00",
+        "total_price": 24813.2,
+        "deposit": "3400",
+        "balance": 17000,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 356.72,
+        "final_payment": 366.72,
+        "total_amount_payable": 24813.2,
+        "total_charge_for_credit": 4413.2,
+        "amount_of_credit": 17000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 366.72
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "20400.00",
+        "deposit": "3400",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

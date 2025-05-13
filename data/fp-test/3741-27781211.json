@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:40:18.277Z",
+    "source": "finance_proposal",
+    "url": "https://www.anthonydaleprestige.co.uk/details/used-car-in-wymondham/bmw/8series/3.0-840i-m-sport-steptronic-euro-6-ss-2dr/1440519/",
+    "dealer_id": "3741",
+    "car_id": "27781211",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "BCB4",
+        "registration_date": "2023-07-08",
+        "mileage": "11920",
+        "status": "Used",
+        "price": "46999"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "46999.00",
+        "total_price": 60270,
+        "deposit": "4700",
+        "balance": 42299,
+        "apr": 11.91,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 926,
+        "final_payment": 936,
+        "total_amount_payable": 60270,
+        "total_charge_for_credit": 13271,
+        "amount_of_credit": 42299,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 936,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

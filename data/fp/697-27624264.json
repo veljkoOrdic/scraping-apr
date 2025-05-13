@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T18:42:35.116Z",
+    "source": "finance_proposal",
+    "url": "https://www.autoprovisions.co.uk/bmw-x3-xdrive20d-m-sport-in-kings-langley-hertfordshire-2e779935-8055-41f5-a9e8-aa525cd911cc",
+    "dealer_id": "697",
+    "car_id": "27624264",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SM65PXL",
+        "registration_date": "2015-11-14",
+        "mileage": "54500",
+        "status": "Used",
+        "price": "15999.0000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "15999.00",
+        "total_price": 20584.6,
+        "deposit": "0",
+        "balance": 15999,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 342.91,
+        "final_payment": 352.91,
+        "total_amount_payable": 20584.6,
+        "total_charge_for_credit": 4585.6,
+        "amount_of_credit": 15999,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 352.91
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "15999.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

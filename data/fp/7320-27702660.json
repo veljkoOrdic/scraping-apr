@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T22:35:06.291Z",
+    "source": "finance_proposal",
+    "url": "https://www.markrobinsvehicles.co.uk/cars/audi/a5/3.0-tdi-v6-black-edition-plus-s-tronic-quattro-2-door/1432142/",
+    "dealer_id": "7320",
+    "car_id": "27702660",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T22:35:06.293Z",
+    "source": "finance_proposal",
+    "url": "https://www.markrobinsvehicles.co.uk/cars/audi/a5/3.0-tdi-v6-black-edition-plus-s-tronic-quattro-2-door/1432142/",
+    "dealer_id": "7320",
+    "car_id": "27702660",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KO15VPD",
+        "registration_date": "2015-07-03",
+        "mileage": "93568",
+        "status": "New",
+        "price": "11000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "11000.00",
+        "total_price": 14750.2,
+        "deposit": "0",
+        "balance": 11000,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 245.67,
+        "final_payment": 255.67,
+        "total_amount_payable": 14750.2,
+        "total_charge_for_credit": 3750.2,
+        "amount_of_credit": 11000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 255.67
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "11000.00",
+        "total_price": 14156.2,
+        "deposit": "0",
+        "balance": 11000,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 235.77,
+        "final_payment": 245.77,
+        "total_amount_payable": 14156.2,
+        "total_charge_for_credit": 3156.2,
+        "amount_of_credit": 11000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 245.77,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

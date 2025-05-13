@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T21:53:39.029Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarbarns.com/used/bmw-1-series-2.0-125d-m-sport-auto-euro-6-(s/s)-5dr-in-welford-on-avon-stratford-upon-avon/66701",
+    "dealer_id": "6637",
+    "car_id": "27203321",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T21:53:39.032Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarbarns.com/used/bmw-1-series-2.0-125d-m-sport-auto-euro-6-(s/s)-5dr-in-welford-on-avon-stratford-upon-avon/66701",
+    "dealer_id": "6637",
+    "car_id": "27203321",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "VE16XZP",
+        "registration_date": "2016-06-27",
+        "mileage": "72000",
+        "status": "New",
+        "price": "12995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "12995.00",
+        "total_price": 16370.8,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 272.68,
+        "final_payment": 282.68,
+        "total_amount_payable": 16370.8,
+        "total_charge_for_credit": 3375.8,
+        "amount_of_credit": 12995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 282.68
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "12995.00",
+        "total_price": 16370.8,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 272.68,
+        "final_payment": 282.68,
+        "total_amount_payable": 16370.8,
+        "total_charge_for_credit": 3375.8,
+        "amount_of_credit": 12995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 282.68,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

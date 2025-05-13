@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:57:49.851Z",
+    "source": "finance_proposal",
+    "url": "https://www.drhcarsltd.co.uk/details/car-in-tamworth,-b77-1ag./bmw/m4/3.0-biturbo-dct-euro-6-ss-2dr/1116402/",
+    "dealer_id": "4521",
+    "car_id": "23677380",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "R555STE",
+        "registration_date": "2015-04-18",
+        "mileage": "55400",
+        "status": "Used",
+        "price": "22750"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "22750.00",
+        "total_price": 29278,
+        "deposit": "0",
+        "balance": 22750,
+        "apr": 10.92,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 487.8,
+        "final_payment": 497.8,
+        "total_amount_payable": 29278,
+        "total_charge_for_credit": 6528,
+        "amount_of_credit": 22750,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 497.8,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

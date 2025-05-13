@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:38:57.953Z",
+    "source": "finance_proposal",
+    "url": "https://www.blackdown4x4.co.uk/details/used-car-in-kentisbeare/landrover/rangeroversport/3.0-sd-v6-hse-dynamic-auto-4wd-euro-6-ss-5dr/1247860/",
+    "dealer_id": "160",
+    "car_id": "25441056",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SX66FVO",
+        "registration_date": "2017-02-24",
+        "mileage": "78000",
+        "status": "Used",
+        "price": "19495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "19495.00",
+        "total_price": 26143,
+        "deposit": "0",
+        "balance": 19495,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 435.55,
+        "final_payment": 445.55,
+        "total_amount_payable": 26143,
+        "total_charge_for_credit": 6648,
+        "amount_of_credit": 19495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 445.55,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

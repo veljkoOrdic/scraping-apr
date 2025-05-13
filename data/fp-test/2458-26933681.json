@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:23:29.142Z",
+    "source": "finance_proposal",
+    "url": "https://www.metrocarslondon.com/vehicle/audi-q5-20-tdi-s-line-s-tronic-quattro-euro-6-ss-5dr-in-chesham-buckinghamshire-ab077efa-3521-4439-8c61-b18200c72ff6",
+    "dealer_id": "2458",
+    "car_id": "26933681",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WG17OKR",
+        "registration_date": "2017-05-30",
+        "mileage": "53000",
+        "status": "Used",
+        "price": "23250"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "23250.00",
+        "total_price": 29255.2,
+        "deposit": "2325",
+        "balance": 20925,
+        "apr": 10.92,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 448.67,
+        "final_payment": 458.67,
+        "total_amount_payable": 29255.2,
+        "total_charge_for_credit": 6005.2,
+        "amount_of_credit": 20925,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 458.67,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

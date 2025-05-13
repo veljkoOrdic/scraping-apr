@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:46:59.791Z",
+    "source": "finance_proposal",
+    "url": "https://garrypease.co.uk/vehicle/name/porsche-panamera-3-0d-v6-s-diesel-automatic-finance-no-deposit-fsh-heated-electric-leather-sat-nav-bluetooth-cruise-dab-mp3-usb-air-con-20/",
+    "dealer_id": "1098",
+    "car_id": "23278151",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GJ12NTK",
+        "registration_date": "2012-03-01",
+        "mileage": "64000",
+        "status": "New",
+        "price": "15990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "15990.00",
+        "total_price": 20573.2,
+        "deposit": "0",
+        "balance": 15990,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 342.72,
+        "final_payment": 352.72,
+        "total_amount_payable": 20573.2,
+        "total_charge_for_credit": 4583.2,
+        "amount_of_credit": 15990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 352.72,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

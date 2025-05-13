@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:58:18.474Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.peterscottcars.co.uk/used-fiat-500x-widnes-cheshire-6367677",
+    "dealer_id": "1662",
+    "car_id": "27319227",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY19EKN",
+        "registration_date": "01/03/2019",
+        "mileage": 29693,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9980,
+        "total_price": 9980,
+        "deposit": 998,
+        "balance": 8982,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 192.44,
+        "final_payment": 202.44,
+        "total_amount_payable": 12554.4,
+        "total_charge_for_credit": 2574.4,
+        "amount_of_credit": 8982,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9980,
+        "total_price": 9980,
+        "deposit": 998,
+        "balance": 8982,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 45,
+        "regular_payment": 170.69,
+        "final_payment": 4066.5,
+        "total_amount_payable": 12574.86,
+        "total_charge_for_credit": 2594.86,
+        "amount_of_credit": 8982,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 0.02,
+        "residual": 4065.5,
+        "price_to_buy": 4066.5
+      }
+    ]
+  }
+]

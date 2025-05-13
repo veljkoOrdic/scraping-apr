@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:32:02.284Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/subaru/exiga/2.0i-s-advantage-line-5dr/1090933/",
+    "dealer_id": "9192",
+    "car_id": "25628172",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:32:02.287Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/subaru/exiga/2.0i-s-advantage-line-5dr/1090933/",
+    "dealer_id": "9192",
+    "car_id": "25628172",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "IMP291",
+        "registration_date": "2012-03-01",
+        "mileage": "57800",
+        "status": "Used",
+        "price": "9295"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "9295.00",
+        "total_price": 11963.2,
+        "deposit": "0",
+        "balance": 9295,
+        "apr": 10.92,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 199.22,
+        "final_payment": 209.22,
+        "total_amount_payable": 11963.2,
+        "total_charge_for_credit": 2668.2,
+        "amount_of_credit": 9295,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 209.22
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "9295.00",
+        "total_price": 12465.4,
+        "deposit": "0",
+        "balance": 9295,
+        "apr": 12.91,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 207.59,
+        "final_payment": 217.59,
+        "total_amount_payable": 12465.4,
+        "total_charge_for_credit": 3170.4,
+        "amount_of_credit": 9295,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 217.59,
+        "is_representative": true,
+        "apr_no_fees": 12.88
+      }
+    ]
+  }
+]

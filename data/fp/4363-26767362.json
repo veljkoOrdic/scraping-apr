@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:47:26.745Z",
+    "source": "finance_proposal",
+    "url": "https://www.conisbroughmotorcompany.co.uk/detail/1349517/used-vauxhall-mokka-sri-hatchback-1-2-sri-5dr-manual-doncaster",
+    "dealer_id": "4363",
+    "car_id": "26767362",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FP71DZK",
+        "registration_date": "2021-11-16",
+        "mileage": "20206",
+        "status": "Used",
+        "price": "14695"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "14695.00",
+        "total_price": 19708.6,
+        "deposit": "0",
+        "balance": 14695,
+        "apr": 12.92,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 328.31,
+        "final_payment": 338.31,
+        "total_amount_payable": 19708.6,
+        "total_charge_for_credit": 5013.6,
+        "amount_of_credit": 14695,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 338.31
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Zopa PCP",
+        "finance_type": "PCP",
+        "cash_price": "14695.00",
+        "total_price": 20145.2,
+        "deposit": "0",
+        "balance": 14695,
+        "apr": 12.89,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 281.4,
+        "final_payment": 6638,
+        "total_amount_payable": 20145.2,
+        "total_charge_for_credit": 5450.2,
+        "amount_of_credit": 14695,
+        "lender": "Zopa PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "8p",
+        "residual": 6638,
+        "price_to_buy": 6638
+      }
+    ]
+  }
+]

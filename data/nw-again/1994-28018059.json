@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T07:01:03.510Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stoughtoncarsales.co.uk/used-skoda-superb-godalming-surrey-6935840",
+    "dealer_id": "1994",
+    "car_id": "28018059",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV72RHZ",
+        "registration_date": "30/09/2022",
+        "mileage": 38045,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 428.49,
+        "final_payment": 429.49,
+        "total_amount_payable": 27885.4,
+        "total_charge_for_credit": 6135.4,
+        "amount_of_credit": 19575,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 11.9,
+        "rate_of_interest": 5.87,
+        "term": 49,
+        "regular_payment": 382.6,
+        "final_payment": 7681.71,
+        "total_amount_payable": 28221.51,
+        "total_charge_for_credit": 6471.51,
+        "amount_of_credit": 19575,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 7680.71,
+        "price_to_buy": 7681.71
+      }
+    ]
+  }
+]

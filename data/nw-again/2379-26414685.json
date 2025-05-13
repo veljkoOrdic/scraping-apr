@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:06:14.878Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstoday.com/vehicle/peugeot-boxer-440-l4h2-blue-hdi-17-seat-minibus-lite-in-worcester-579eb698-478a-4e06-a4d0-b23a00c7df3e",
+    "dealer_id": "2379",
+    "car_id": "26414685",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WA18CXY",
+        "registration_date": "24/05/2018",
+        "mileage": 16060,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19188,
+        "total_price": 19188,
+        "deposit": 0,
+        "balance": 19188,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 402.76,
+        "final_payment": 403.76,
+        "total_amount_payable": 24166.6,
+        "total_charge_for_credit": 4978.6,
+        "amount_of_credit": 19188,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

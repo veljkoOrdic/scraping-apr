@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:10:14.414Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cuffleymotorcompany.co.uk/vehicle/land-rover-defender-90-30-d200-mhev-hard-top-suv-auto-4wd-swb-euro-6-ss-3dr-in-cuffley-hertfordshire-4ffb1671-64cb-4b8a-b0b1-987d15744f9a",
+    "dealer_id": "2674",
+    "car_id": "26664280",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG21UST",
+        "registration_date": "05/05/2021",
+        "mileage": 28000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999.5,
+        "balance": 29329.67,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 642.03,
+        "final_payment": 643.03,
+        "total_amount_payable": 49188.13,
+        "total_charge_for_credit": 9193.13,
+        "amount_of_credit": 29329.67,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

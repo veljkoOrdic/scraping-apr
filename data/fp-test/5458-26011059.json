@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:35:35.359Z",
+    "source": "finance_proposal",
+    "url": "https://www.greentreecars.co.uk/used/volkswagen-transporter-t28-tdi-p/v-highline-combi-van-in-doncaster-south-yorkshire/59253",
+    "dealer_id": "5458",
+    "car_id": "26011059",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "GJ71SSU",
+        "registration_date": "2021-09-24",
+        "mileage": "55902",
+        "status": "New",
+        "price": "23995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "23995.00",
+        "total_price": 31358.4,
+        "deposit": "2399",
+        "balance": 21596,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 482.49,
+        "final_payment": 492.49,
+        "total_amount_payable": 31358.4,
+        "total_charge_for_credit": 7363.4,
+        "amount_of_credit": 21596,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 492.49,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

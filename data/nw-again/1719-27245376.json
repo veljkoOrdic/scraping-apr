@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:58:22.973Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mccabeautos.co.uk/used-toyota-aygo-belfast-county-down-6748110",
+    "dealer_id": "1719",
+    "car_id": "27245376",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ORZ7434",
+        "registration_date": "25/01/2019",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 1349,
+        "balance": 7646,
+        "apr": 11.9,
+        "rate_of_interest": 6.16,
+        "term": 48,
+        "regular_payment": 198.55,
+        "final_payment": 208.55,
+        "total_amount_payable": 10889.4,
+        "total_charge_for_credit": 1894.4,
+        "amount_of_credit": 7646,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

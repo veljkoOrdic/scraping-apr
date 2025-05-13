@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:17:13.854Z",
+    "source": "finance_proposal",
+    "url": "https://www.sslogancars.co.uk/used/mg-motor-uk/hs/15-t-gdi-trophy-5dr/newtownabbey/county-antrim/21378717",
+    "dealer_id": "2188",
+    "car_id": "25416370",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LE23OYH",
+        "registration_date": "04/07/2023",
+        "mileage": "9000",
+        "status": "Used",
+        "price": "18995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "18995.00",
+        "total_price": 24356.2,
+        "deposit": "1899",
+        "balance": 17096,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 374.12,
+        "final_payment": 384.12,
+        "total_amount_payable": 24356.2,
+        "total_charge_for_credit": 5361.2,
+        "amount_of_credit": 17096,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 384.12
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Close PCP",
+        "finance_type": "PCP",
+        "cash_price": "18995.00",
+        "total_price": 24896.87,
+        "deposit": "1899",
+        "balance": 17096,
+        "apr": 11.89,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 314.31,
+        "final_payment": 7910.99,
+        "total_amount_payable": 24896.87,
+        "total_charge_for_credit": 5901.87,
+        "amount_of_credit": 17096,
+        "lender": "Close PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "12p",
+        "residual": 7910.99,
+        "price_to_buy": 7910.99
+      }
+    ]
+  }
+]

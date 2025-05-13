@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:40:31.504Z",
+    "source": "finance_proposal",
+    "url": "https://www.anthonydaleprestige.co.uk/details/used-car-in-wymondham/mclaren/gt/4.0t-v8-ssg-euro-6-ss-2dr/1397438/",
+    "dealer_id": "3741",
+    "car_id": "27258511",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "P1TDD",
+        "registration_date": "2019-09-01",
+        "mileage": "14489",
+        "status": "Used",
+        "price": "94999"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "94999.00",
+        "total_price": 121813.2,
+        "deposit": "9500",
+        "balance": 85499,
+        "apr": 11.91,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1871.72,
+        "final_payment": 1881.72,
+        "total_amount_payable": 121813.2,
+        "total_charge_for_credit": 26814.2,
+        "amount_of_credit": 85499,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1881.72
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T22:21:55.720Z",
+    "source": "finance_proposal",
+    "url": "https://www.qtcars.co.uk/details/used-van-in-st-ives/volkswagen/transporter/2.0-tdi-t32-startline-crew-van-dsg-fwd-swb-euro-6-ss-5dr/1399247/",
+    "dealer_id": "7012",
+    "car_id": "27288200",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YA74HYK",
+        "registration_date": "2025-02-06",
+        "mileage": "220",
+        "status": "New",
+        "price": "42491"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "50989.00",
+        "deposit": "14872",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "50989.00",
+        "total_price": 60371.6,
+        "deposit": "14872",
+        "balance": 36117,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 758.16,
+        "final_payment": 768.16,
+        "total_amount_payable": 60371.6,
+        "total_charge_for_credit": 9382.6,
+        "amount_of_credit": 36117,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 768.16
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:57:32.343Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandwellcarsales.co.uk/vehicle/audi-a6-avant-20-tdi-black-edition-s-tronic-quattro-euro-6-ss-5dr-in-west-bromwich-west-midlands-cf2b2e6d-065e-452f-bd9e-b1810167b24e",
+    "dealer_id": "1601",
+    "car_id": "24516463",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "X2RNB",
+        "registration_date": "19/02/2016",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18475,
+        "total_price": 18475,
+        "deposit": 0,
+        "balance": 18475,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 396.09,
+        "final_payment": 397.09,
+        "total_amount_payable": 23766.4,
+        "total_charge_for_credit": 5291.4,
+        "amount_of_credit": 18475,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

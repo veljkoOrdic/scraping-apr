@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:34:26.259Z",
+    "source": "finance_proposal",
+    "url": "https://www.jacksonsofshipdham.co.uk/details/used-car-in-thetford/jaguar/f-pace/2.0-d200-mhev-r-dynamic-se-black-auto-awd-euro-6-ss-5dr/1400514/",
+    "dealer_id": "2833",
+    "car_id": "27304929",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YK23RYD",
+        "registration_date": "2023-05-30",
+        "mileage": "24260",
+        "status": "Used",
+        "price": "33995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "33995.00",
+        "total_price": 43744.6,
+        "deposit": "0",
+        "balance": 33995,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 728.91,
+        "final_payment": 738.91,
+        "total_amount_payable": 43744.6,
+        "total_charge_for_credit": 9749.6,
+        "amount_of_credit": 33995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 738.91,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

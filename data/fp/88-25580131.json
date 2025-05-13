@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T18:33:46.549Z",
+    "source": "finance_proposal",
+    "url": "https://www.sandiforths.co.uk/used/kia-sorento-2.2-crdi-kx-3-suv-5dr-diesel-auto-awd-euro-6-(197-bhp)-in-worksop-nottinghamshire/56145",
+    "dealer_id": "88",
+    "car_id": "25580131",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T18:33:46.551Z",
+    "source": "finance_proposal",
+    "url": "https://www.sandiforths.co.uk/used/kia-sorento-2.2-crdi-kx-3-suv-5dr-diesel-auto-awd-euro-6-(197-bhp)-in-worksop-nottinghamshire/56145",
+    "dealer_id": "88",
+    "car_id": "25580131",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LF66UCW",
+        "registration_date": "2016-09-12",
+        "mileage": "74000",
+        "status": "New",
+        "price": "14890"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "14890.00",
+        "total_price": 19158.4,
+        "deposit": "0",
+        "balance": 14890,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 319.14,
+        "final_payment": 329.14,
+        "total_amount_payable": 19158.4,
+        "total_charge_for_credit": 4268.4,
+        "amount_of_credit": 14890,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 329.14
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "14890.00",
+        "total_price": 19158.4,
+        "deposit": "0",
+        "balance": 14890,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 319.14,
+        "final_payment": 329.14,
+        "total_amount_payable": 19158.4,
+        "total_charge_for_credit": 4268.4,
+        "amount_of_credit": 14890,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 329.14,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

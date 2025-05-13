@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T22:24:57.768Z",
+    "source": "finance_proposal",
+    "url": "https://www.addisoncars.co.uk/details/used-car-in-4-8-park-road-kempston/ford/fiesta/1.4-titanium-3dr/1299174/",
+    "dealer_id": "7057",
+    "car_id": "26074047",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T22:24:57.771Z",
+    "source": "finance_proposal",
+    "url": "https://www.addisoncars.co.uk/details/used-car-in-4-8-park-road-kempston/ford/fiesta/1.4-titanium-3dr/1299174/",
+    "dealer_id": "7057",
+    "car_id": "26074047",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SH59ZDJ",
+        "registration_date": "2009-11-27",
+        "mileage": "90000",
+        "status": "Used",
+        "price": "2290"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "2290.00",
+        "total_price": 3073,
+        "deposit": "0",
+        "balance": 2290,
+        "apr": 12.9,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 51.05,
+        "final_payment": 61.05,
+        "total_amount_payable": 3073,
+        "total_charge_for_credit": 783,
+        "amount_of_credit": 2290,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 61.05
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "2290.00",
+        "total_price": 3073,
+        "deposit": "0",
+        "balance": 2290,
+        "apr": 12.9,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 51.05,
+        "final_payment": 61.05,
+        "total_amount_payable": 3073,
+        "total_charge_for_credit": 783,
+        "amount_of_credit": 2290,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 61.05,
+        "is_representative": true,
+        "apr_no_fees": 12.79
+      }
+    ]
+  }
+]

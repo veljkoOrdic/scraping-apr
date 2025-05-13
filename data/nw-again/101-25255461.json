@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-12T13:54:45.279Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reynoldsmotorgroup.co.uk/used-skoda-kodiaq-southend-on-sea-essex-6238310",
+    "dealer_id": "101",
+    "car_id": "25255461",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK67PYP",
+        "registration_date": "22/09/2017",
+        "mileage": 96300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11950,
+        "total_price": 11950,
+        "deposit": 0,
+        "balance": 11950,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 52,
+        "regular_payment": 286.38,
+        "final_payment": 287.38,
+        "total_amount_payable": 14892.76,
+        "total_charge_for_credit": 2942.76,
+        "amount_of_credit": 11950,
+        "lender": "Creation Consumer Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

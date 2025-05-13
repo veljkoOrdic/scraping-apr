@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:37:30.602Z",
+    "source": "finance_proposal",
+    "url": "https://www.tandtvehiclesales.co.uk/vehicle/ford-ranger-limited-edition-4x4-tdci-4wd-in-peterborough-cambridgeshire-175adae7-cae7-4c40-8fcc-b2a100e8790c",
+    "dealer_id": "2873",
+    "car_id": "27441636",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YT64ZPJ",
+        "registration_date": "2014-09-12",
+        "mileage": "90394",
+        "status": "New",
+        "price": "11995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "11995.00",
+        "total_price": 15267.6,
+        "deposit": "2399",
+        "balance": 9596,
+        "apr": 12.91,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 214.31,
+        "final_payment": 224.31,
+        "total_amount_payable": 15267.6,
+        "total_charge_for_credit": 3272.6,
+        "amount_of_credit": 9596,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 224.31
+      }
+    ]
+  }
+]

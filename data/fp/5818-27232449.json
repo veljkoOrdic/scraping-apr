@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T21:06:06.064Z",
+    "source": "finance_proposal",
+    "url": "https://www.familyautos.co.uk/used/land-rover/range-rover-sport/44-p530-v8-vermillion-edition-5dr-auto/brigg/lincolnshire/21551226",
+    "dealer_id": "5818",
+    "car_id": "27232449",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "Range Rover Sport",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "DE73UTM",
+        "registration_date": "06/10/2023",
+        "mileage": "10000",
+        "status": "Used",
+        "price": "95000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "95000.00",
+        "total_price": 117145,
+        "deposit": "0",
+        "balance": 95000,
+        "apr": 8.92,
+        "rate_of_interest": 4.66,
+        "term": 60,
+        "regular_payment": 1952.25,
+        "final_payment": 1962.25,
+        "total_amount_payable": 117145,
+        "total_charge_for_credit": 22145,
+        "amount_of_credit": 95000,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1962.25
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Close PCP",
+        "finance_type": "PCP",
+        "cash_price": "95000.00",
+        "total_price": 121580.59,
+        "deposit": "0",
+        "balance": 95000,
+        "apr": 8.89,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1376.64,
+        "final_payment": 55501.87,
+        "total_amount_payable": 121580.59,
+        "total_charge_for_credit": 26580.59,
+        "amount_of_credit": 95000,
+        "lender": "Close PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "12p",
+        "residual": 55501.87,
+        "price_to_buy": 55501.87
+      }
+    ]
+  }
+]

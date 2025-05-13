@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:34:45.827Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.applecrossmotors.co.uk/used-bmw-x5-broxburn-west-lothian-6859596",
+    "dealer_id": "370",
+    "car_id": "27848756",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SO66NJZ",
+        "registration_date": "30/09/2016",
+        "mileage": 46752,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24500,
+        "total_price": 24500,
+        "deposit": 2450,
+        "balance": 22050,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 462.83,
+        "final_payment": 463.83,
+        "total_amount_payable": 30220.8,
+        "total_charge_for_credit": 5720.8,
+        "amount_of_credit": 22050,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:06:41.053Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/tvr/chimaera/4.0/494634/",
+    "dealer_id": "6942",
+    "car_id": "16742609",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "P829VWX",
+        "registration_date": "1997-03-18",
+        "mileage": "50000",
+        "status": "Used",
+        "price": "17750"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "17750.00",
+        "total_price": 22204.4,
+        "deposit": "3550",
+        "balance": 14200,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 310.74,
+        "final_payment": 320.74,
+        "total_amount_payable": 22204.4,
+        "total_charge_for_credit": 4454.4,
+        "amount_of_credit": 14200,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 320.74,
+        "is_representative": true,
+        "apr_no_fees": 11.88
+      }
+    ]
+  }
+]

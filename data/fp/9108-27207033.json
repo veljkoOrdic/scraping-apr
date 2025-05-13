@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T23:31:47.260Z",
+    "source": "finance_proposal",
+    "url": "https://www.samjordancars.com/cars/volvo/xc90/2.0-plus-dark-t8-awd-455-hp/1392805/",
+    "dealer_id": "9108",
+    "car_id": "27207033",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "AJ74CWM",
+        "registration_date": "2025-02-15",
+        "mileage": "47",
+        "status": "Used",
+        "price": "68995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "68995.00",
+        "total_price": 86909.2,
+        "deposit": "0",
+        "balance": 68995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1448.32,
+        "final_payment": 1458.32,
+        "total_amount_payable": 86909.2,
+        "total_charge_for_credit": 17914.2,
+        "amount_of_credit": 68995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1458.32
+      },
+      {
+        "type": "finance_pcp",
+        "name": "BNP PCP",
+        "finance_type": "PCP",
+        "cash_price": "68995.00",
+        "total_price": 88234.52,
+        "deposit": "0",
+        "balance": 68995,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 1252.24,
+        "final_payment": 28127,
+        "total_amount_payable": 88234.52,
+        "total_charge_for_credit": 19239.52,
+        "amount_of_credit": 68995,
+        "lender": "BNP PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": "17p",
+        "residual": 28126,
+        "price_to_buy": 28127
+      }
+    ]
+  }
+]

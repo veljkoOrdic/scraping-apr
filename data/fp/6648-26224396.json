@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T21:56:02.613Z",
+    "source": "finance_proposal",
+    "url": "https://www.davidjamesmotor.co.uk/cars/mercedes-benz/cclass/1.6-c180-executive-se/1311299/",
+    "dealer_id": "6648",
+    "car_id": "26224396",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KS63ODV",
+        "registration_date": "2014-01-27",
+        "mileage": "72000",
+        "status": "New",
+        "price": "7190"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7190.00",
+        "total_price": 9058.6,
+        "deposit": "0",
+        "balance": 7190,
+        "apr": 9.91,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 150.81,
+        "final_payment": 160.81,
+        "total_amount_payable": 9058.6,
+        "total_charge_for_credit": 1868.6,
+        "amount_of_credit": 7190,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 160.81
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "7190.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

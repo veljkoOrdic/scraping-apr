@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:15:29.726Z",
+    "source": "finance_proposal",
+    "url": "https://www.emcsheffield.co.uk/cars/bmw/x2/1.5-18i-se/938828/",
+    "dealer_id": "2118",
+    "car_id": "21273588",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FY69ZHH",
+        "registration_date": "2019-10-31",
+        "mileage": "66000",
+        "status": "Used",
+        "price": "11995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "11995.00",
+        "total_price": 15112,
+        "deposit": "0",
+        "balance": 11995,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 251.7,
+        "final_payment": 261.7,
+        "total_amount_payable": 15112,
+        "total_charge_for_credit": 3117,
+        "amount_of_credit": 11995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 261.7,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

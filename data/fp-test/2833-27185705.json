@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:34:31.004Z",
+    "source": "finance_proposal",
+    "url": "https://www.jacksonsofshipdham.co.uk/details/used-car-in-thetford/landrover/rangeroversport/2.0-p400e-13.1kwh-hse-dynamic-auto-4wd-euro-6-ss-5dr/1390147/",
+    "dealer_id": "2833",
+    "car_id": "27185705",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KN71DZF",
+        "registration_date": "2021-09-09",
+        "mileage": "31216",
+        "status": "Used",
+        "price": "36795"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "36795.00",
+        "total_price": 47347,
+        "deposit": "0",
+        "balance": 36795,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 788.95,
+        "final_payment": 798.95,
+        "total_amount_payable": 47347,
+        "total_charge_for_credit": 10552,
+        "amount_of_credit": 36795,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 798.95,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:01:34.327Z",
+    "source": "finance_proposal",
+    "url": "https://www.fishmotors.co.uk/used-jaguar-xf-bolton-lancashire-6363978",
+    "dealer_id": "6811",
+    "car_id": "25764326",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "MV68VWO",
+        "registration_date": "2018-09-20",
+        "mileage": "60000",
+        "status": "Used",
+        "price": "13990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "13990.00",
+        "total_price": 17623.6,
+        "deposit": "0",
+        "balance": 13990,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 293.56,
+        "final_payment": 303.56,
+        "total_amount_payable": 17623.6,
+        "total_charge_for_credit": 3633.6,
+        "amount_of_credit": 13990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 303.56,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

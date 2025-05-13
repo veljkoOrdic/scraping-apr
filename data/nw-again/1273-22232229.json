@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:50:00.601Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lonsdalevehiclesales.co.uk/vehicle/ford-transit-350-leader-ecoblue-air-con-lwb-high-roof-in-gwent-9bcd358d-68a7-41ce-a626-008128bd3117",
+    "dealer_id": "1273",
+    "car_id": "22232229",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF70YZJ",
+        "registration_date": "16/09/2020",
+        "mileage": 49985,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25194,
+        "total_price": 25194,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 422.17,
+        "final_payment": 423.17,
+        "total_amount_payable": 31629.7,
+        "total_charge_for_credit": 6435.7,
+        "amount_of_credit": 18895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

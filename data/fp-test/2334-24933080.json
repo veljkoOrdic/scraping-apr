@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:19:06.204Z",
+    "source": "finance_proposal",
+    "url": "https://www.regencycars.net/used/peugeot/e-2008/115kw-gt-54kwh-5dr-auto/newtownards/county-down/21338627",
+    "dealer_id": "2334",
+    "car_id": "24933080",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "HSZ8451",
+        "registration_date": "28/02/2024",
+        "mileage": "404",
+        "status": "Used",
+        "price": "23695"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "23695.00",
+        "total_price": 29239.2,
+        "deposit": "2369",
+        "balance": 21326,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 447.67,
+        "final_payment": 457.67,
+        "total_amount_payable": 29239.2,
+        "total_charge_for_credit": 5544.2,
+        "amount_of_credit": 21326,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 457.67,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

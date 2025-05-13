@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-12T14:06:02.259Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mandtmotorcompany.com/details/used-car-in-newbury/landrover/rangeroverevoque/1.5-p300e-12.2kwh-edition-auto-4wd-euro-6-ss-5dr/1464035/",
+    "dealer_id": "194",
+    "car_id": "28028667",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK72WEX",
+        "registration_date": "20/09/2022",
+        "mileage": 11000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34180,
+        "total_price": 34180,
+        "deposit": 1709,
+        "balance": 32471,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 696.16,
+        "final_payment": 697.16,
+        "total_amount_payable": 43479.6,
+        "total_charge_for_credit": 9299.6,
+        "amount_of_credit": 32471,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 15000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34180,
+        "total_price": 34180,
+        "deposit": 1709,
+        "balance": 32471,
+        "apr": 10.9,
+        "rate_of_interest": 5.37,
+        "term": 49,
+        "regular_payment": 598.96,
+        "final_payment": 13775.5,
+        "total_amount_payable": 44234.58,
+        "total_charge_for_credit": 10054.58,
+        "amount_of_credit": 32471,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 15000,
+        "contract_mileage": 61250,
+        "excess_mileage_rate": 0.12,
+        "residual": 13774.5,
+        "price_to_buy": 13775.5
+      }
+    ]
+  }
+]

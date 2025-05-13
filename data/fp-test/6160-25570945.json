@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T21:24:12.468Z",
+    "source": "finance_proposal",
+    "url": "https://www.timukmotors.co.uk/used/vauxhall/mokka-x/14t-elite-5dr-auto/nottingham/nottinghamshire/21391256",
+    "dealer_id": "6160",
+    "car_id": "25570945",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "BF69NRU",
+        "registration_date": "07/10/2019",
+        "mileage": "12645",
+        "status": "Used",
+        "price": "13995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "13995.00",
+        "total_price": 17267.6,
+        "deposit": "1399",
+        "balance": 12596,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 264.31,
+        "final_payment": 274.31,
+        "total_amount_payable": 17267.6,
+        "total_charge_for_credit": 3272.6,
+        "amount_of_credit": 12596,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 274.31
+      }
+    ]
+  }
+]

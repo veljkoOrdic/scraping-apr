@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T22:05:35.876Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/volkswagen/golf/1.4-tsi-se/1405991/",
+    "dealer_id": "6942",
+    "car_id": "27366695",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T22:05:35.879Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/volkswagen/golf/1.4-tsi-se/1405991/",
+    "dealer_id": "6942",
+    "car_id": "27366695",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KX59YRR",
+        "registration_date": "2009-09-04",
+        "mileage": "82000",
+        "status": "Used",
+        "price": "4750"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "4750.00",
+        "total_price": 5943.6,
+        "deposit": "950",
+        "balance": 3800,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 83.06,
+        "final_payment": 93.06,
+        "total_amount_payable": 5943.6,
+        "total_charge_for_credit": 1193.6,
+        "amount_of_credit": 3800,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 93.06
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "4750.00",
+        "total_price": 5943.6,
+        "deposit": "950",
+        "balance": 3800,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 83.06,
+        "final_payment": 93.06,
+        "total_amount_payable": 5943.6,
+        "total_charge_for_credit": 1193.6,
+        "amount_of_credit": 3800,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 93.06,
+        "is_representative": true,
+        "apr_no_fees": 11.83
+      }
+    ]
+  }
+]

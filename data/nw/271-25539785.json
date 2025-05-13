@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-05T13:31:56.061Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.romseycarcentre.co.uk/details/used-car-in-romsey/peugeot/2008/1.6-bluehdi-gt-line-euro-6-ss-5dr/1255250/",
+    "dealer_id": "271",
+    "car_id": "25539785",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY67VWT",
+        "registration_date": "12/12/2017",
+        "mileage": 52460,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8495,
+        "total_price": 8495,
+        "deposit": 10,
+        "balance": 8485,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 213.06,
+        "final_payment": 214.06,
+        "total_amount_payable": 10237.88,
+        "total_charge_for_credit": 1742.88,
+        "amount_of_credit": 8485,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

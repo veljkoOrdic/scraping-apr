@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T22:08:43.238Z",
+    "source": "finance_proposal",
+    "url": "https://www.ruffordgarage.co.uk/vans/ford/ranger/2.0-ecoblue-limited/1340874/",
+    "dealer_id": "6946",
+    "car_id": "26578425",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YP69VTG",
+        "registration_date": "2019-11-27",
+        "mileage": "102319",
+        "status": "New",
+        "price": "12495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "14994.00",
+        "total_price": 18577.6,
+        "deposit": "2499",
+        "balance": 12495,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 267.81,
+        "final_payment": 277.81,
+        "total_amount_payable": 18577.6,
+        "total_charge_for_credit": 3583.6,
+        "amount_of_credit": 12495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 277.81
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "14994.00",
+        "deposit": "2499",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

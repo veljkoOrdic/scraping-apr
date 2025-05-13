@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T23:32:31.223Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/toyota/vellfire/hybrid-2.4-x-5dr-7-seats/1248132/",
+    "dealer_id": "9192",
+    "car_id": "25628051",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T23:32:31.225Z",
+    "source": "finance_proposal",
+    "url": "https://www.castleprestige.co.uk/details/used-car-in-burton-upon-trent/toyota/vellfire/hybrid-2.4-x-5dr-7-seats/1248132/",
+    "dealer_id": "9192",
+    "car_id": "25628051",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "IMP400",
+        "registration_date": "2012-06-01",
+        "mileage": "55302",
+        "status": "Used",
+        "price": "17995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "17995.00",
+        "total_price": 23151.4,
+        "deposit": "0",
+        "balance": 17995,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 385.69,
+        "final_payment": 395.69,
+        "total_amount_payable": 23151.4,
+        "total_charge_for_credit": 5156.4,
+        "amount_of_credit": 17995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 395.69
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "17995.00",
+        "total_price": 24132.4,
+        "deposit": "0",
+        "balance": 17995,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 402.04,
+        "final_payment": 412.04,
+        "total_amount_payable": 24132.4,
+        "total_charge_for_credit": 6137.4,
+        "amount_of_credit": 17995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 412.04,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

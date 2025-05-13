@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:06:54.504Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.paulwilliamsoncars.co.uk/used-land-rover-range-rover-sport-elgin-moray-6734820",
+    "dealer_id": "2425",
+    "car_id": "27203302",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BK70UEG",
+        "registration_date": "30/10/2020",
+        "mileage": 27500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51995,
+        "total_price": 51995,
+        "deposit": 5199,
+        "balance": 46796,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 982.27,
+        "final_payment": 983.27,
+        "total_amount_payable": 64136.2,
+        "total_charge_for_credit": 12141.2,
+        "amount_of_credit": 46796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

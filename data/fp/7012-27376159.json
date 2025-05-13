@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T22:20:02.699Z",
+    "source": "finance_proposal",
+    "url": "https://www.qtcars.co.uk/details/used-car-in-st-ives/volkswagen/up/1.0-high-up-euro-6-5dr/1407355/",
+    "dealer_id": "7012",
+    "car_id": "27376159",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FG65MMF",
+        "registration_date": "2015-10-19",
+        "mileage": "31590",
+        "status": "Used",
+        "price": "7790"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7790.00",
+        "total_price": 9511.8,
+        "deposit": "1169",
+        "balance": 6621,
+        "apr": 9.91,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 138.88,
+        "final_payment": 148.88,
+        "total_amount_payable": 9511.8,
+        "total_charge_for_credit": 1721.8,
+        "amount_of_credit": 6621,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 148.88
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "7790.00",
+        "deposit": "1169",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

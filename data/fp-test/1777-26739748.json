@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:10:08.578Z",
+    "source": "finance_proposal",
+    "url": "https://www.bennevismotors.co.uk/used-nissan-juke-fort-william-inverness-shire-6507974",
+    "dealer_id": "1777",
+    "car_id": "26739748",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SW62NVJ",
+        "registration_date": "2012-09-07",
+        "mileage": "82654",
+        "status": "Used",
+        "price": "4495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "4495.00",
+        "total_price": 5593.4,
+        "deposit": "1000",
+        "balance": 3495,
+        "apr": 11.91,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 76.39,
+        "final_payment": 86.39,
+        "total_amount_payable": 5593.4,
+        "total_charge_for_credit": 1098.4,
+        "amount_of_credit": 3495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 86.39,
+        "is_representative": true,
+        "apr_no_fees": 11.83
+      }
+    ]
+  }
+]

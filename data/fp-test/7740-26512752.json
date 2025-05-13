@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:04:39.105Z",
+    "source": "finance_proposal",
+    "url": "https://www.remarketingtrust.co.uk/cars/renault/zoe/i-dynamique-nav-r110-z.e.40-own-battery-my18/1335405/",
+    "dealer_id": "7740",
+    "car_id": "26512752",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SB19OUU",
+        "registration_date": "2019-05-14",
+        "mileage": "23000",
+        "status": "Used",
+        "price": "7500"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "7500.00",
+        "total_price": 9651.4,
+        "deposit": "0",
+        "balance": 7500,
+        "apr": 10.91,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 160.69,
+        "final_payment": 170.69,
+        "total_amount_payable": 9651.4,
+        "total_charge_for_credit": 2151.4,
+        "amount_of_credit": 7500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 170.69,
+        "is_representative": true,
+        "apr_no_fees": 10.87
+      }
+    ]
+  }
+]

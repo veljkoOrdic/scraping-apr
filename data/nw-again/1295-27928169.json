@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:51:16.320Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.spaldingcars.co.uk/vehicle/mini-electric-cooper-cooper-s-level-3-in-spalding-lincolnshire-65ce3687-af7e-427c-8129-13f5df5a5750",
+    "dealer_id": "1295",
+    "car_id": "27928169",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ21WPL",
+        "registration_date": "23/03/2021",
+        "mileage": 20482,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13650,
+        "total_price": 13650,
+        "deposit": 1365,
+        "balance": 12285,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 252.37,
+        "final_payment": 253.37,
+        "total_amount_payable": 16508.2,
+        "total_charge_for_credit": 2858.2,
+        "amount_of_credit": 12285,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13650,
+        "total_price": 13650,
+        "deposit": 1365,
+        "balance": 12285,
+        "apr": 8.9,
+        "rate_of_interest": 4.37,
+        "term": 49,
+        "regular_payment": 191.51,
+        "final_payment": 6407.58,
+        "total_amount_payable": 16965.06,
+        "total_charge_for_credit": 3315.06,
+        "amount_of_credit": 12285,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 6406.58,
+        "price_to_buy": 6407.58
+      }
+    ]
+  }
+]

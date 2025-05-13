@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:48:32.770Z",
+    "source": "finance_proposal",
+    "url": "http://www.hallambros.co.uk/used-car/land-rover/defender/110-xs-station-wagon-tdci-2-2-7-seater/for-sale-in-high-peak-derbyshire/aetv95265705/",
+    "dealer_id": "4366",
+    "car_id": "27316538",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "Defender",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "PX63GVM",
+        "registration_date": "2013-09-03",
+        "mileage": "86000",
+        "status": "New",
+        "price": "30995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "30995.00",
+        "total_price": 39884.8,
+        "deposit": "0",
+        "balance": 30995,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 664.58,
+        "final_payment": 674.58,
+        "total_amount_payable": 39884.8,
+        "total_charge_for_credit": 8889.8,
+        "amount_of_credit": 30995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 674.58,
+        "is_representative": true,
+        "apr_no_fees": 10.9
+      }
+    ]
+  }
+]

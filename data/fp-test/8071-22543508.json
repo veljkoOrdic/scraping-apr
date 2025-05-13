@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T23:12:51.422Z",
+    "source": "finance_proposal",
+    "url": "https://www.taylors-pitstop.com/used-car-details/used-land-rover-range-rover-velar-20-d240-r-dynamic-hse-estate-silicon-silver-automatic-diesel/id-3655/",
+    "dealer_id": "8071",
+    "car_id": "22543508",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WP67GDK",
+        "registration_date": "22/01/2018",
+        "mileage": "73000",
+        "status": "New",
+        "price": "24500"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "24500.00",
+        "total_price": 32191,
+        "deposit": "0",
+        "balance": 24500,
+        "apr": 11.91,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 536.35,
+        "final_payment": 546.35,
+        "total_amount_payable": 32191,
+        "total_charge_for_credit": 7691,
+        "amount_of_credit": 24500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 546.35
+      }
+    ]
+  }
+]

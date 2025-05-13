@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:16:55.214Z",
+    "source": "finance_proposal",
+    "url": "https://www.thekirkcaldymotorcompany.co.uk/used/land-rover/discovery/30-sdv6-hse-luxury-5dr-auto-navbtstreamingdab/kirkcaldy/fife/21558468",
+    "dealer_id": "2133",
+    "car_id": "27363648",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "Discovery",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "OW15GJU",
+        "registration_date": "07/07/2015",
+        "mileage": "67930",
+        "status": "Used",
+        "price": "20850"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "20850.00",
+        "total_price": 25729.6,
+        "deposit": "2085",
+        "balance": 18765,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 393.91,
+        "final_payment": 403.91,
+        "total_amount_payable": 25729.6,
+        "total_charge_for_credit": 4879.6,
+        "amount_of_credit": 18765,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 403.91,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

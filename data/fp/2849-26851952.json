@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:34:47.775Z",
+    "source": "finance_proposal",
+    "url": "https://www.ianguthrie.co.uk/used-vehicle-details/used-fiat-500-10-mild-hybrid-red-2dr-convertible-bossa-nova-white-manual-petrol/id-73516841/",
+    "dealer_id": "2849",
+    "car_id": "26851952",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WP73OCU",
+        "registration_date": "31/10/2023",
+        "mileage": "1575",
+        "status": "New",
+        "price": "12995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "12995.00",
+        "total_price": 17072.2,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 284.37,
+        "final_payment": 294.37,
+        "total_amount_payable": 17072.2,
+        "total_charge_for_credit": 4077.2,
+        "amount_of_credit": 12995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 294.37
+      },
+      {
+        "type": "finance_pcp",
+        "name": "CA Auto Finance PCP",
+        "finance_type": "PCP",
+        "cash_price": "12995.00",
+        "total_price": 17283,
+        "deposit": "0",
+        "balance": 12995,
+        "apr": 11.89,
+        "rate_of_interest": 5.8,
+        "term": 48,
+        "regular_payment": 254.25,
+        "final_payment": 5079,
+        "total_amount_payable": 17283,
+        "total_charge_for_credit": 4288,
+        "amount_of_credit": 12995,
+        "lender": "CA Auto Finance PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": "7p",
+        "residual": 5069,
+        "price_to_buy": 5079
+      }
+    ]
+  }
+]

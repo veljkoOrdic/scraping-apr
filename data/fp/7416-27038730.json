@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T22:39:41.619Z",
+    "source": "finance_proposal",
+    "url": "https://www.nedpotter.co.uk/details/used-car-in-hereford/mercedes-benz/aclass/1.3-a200-amg-line-7g-dct-euro-6-ss-5dr/1377792/",
+    "dealer_id": "7416",
+    "car_id": "27038730",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WN21ZTT",
+        "registration_date": "2021-06-30",
+        "mileage": "32896",
+        "status": "Used",
+        "price": "18799"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "18799.00",
+        "total_price": 23687.2,
+        "deposit": "0",
+        "balance": 18799,
+        "apr": 9.92,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 394.62,
+        "final_payment": 404.62,
+        "total_amount_payable": 23687.2,
+        "total_charge_for_credit": 4888.2,
+        "amount_of_credit": 18799,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 404.62
+      },
+      {
+        "type": "finance_pcp",
+        "name": "BNP PCP",
+        "finance_type": "PCP",
+        "cash_price": "18799.00",
+        "total_price": 24273.48,
+        "deposit": "0",
+        "balance": 18799,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 319.26,
+        "final_payment": 8949,
+        "total_amount_payable": 24273.48,
+        "total_charge_for_credit": 5474.48,
+        "amount_of_credit": 18799,
+        "lender": "BNP PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "7p",
+        "residual": 8948,
+        "price_to_buy": 8949
+      }
+    ]
+  }
+]

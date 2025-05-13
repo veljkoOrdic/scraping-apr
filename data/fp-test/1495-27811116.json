@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:56:34.268Z",
+    "source": "finance_proposal",
+    "url": "https://www.autobarnsports.co.uk/used-mercedes-benz-c-class-whatton-nottinghamshire-6879764",
+    "dealer_id": "1495",
+    "car_id": "27811116",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LA16XMY",
+        "registration_date": "2016-07-29",
+        "mileage": "61874",
+        "status": "Used",
+        "price": "13990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "13990.00",
+        "total_price": 17601.2,
+        "deposit": "1399",
+        "balance": 12591,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 269.87,
+        "final_payment": 279.87,
+        "total_amount_payable": 17601.2,
+        "total_charge_for_credit": 3611.2,
+        "amount_of_credit": 12591,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 279.87,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

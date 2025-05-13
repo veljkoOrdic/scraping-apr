@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T19:36:34.847Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorcompanybawtry.co.uk/bmw-435d-3-0-m-sport-auto-xdrive-euro-6-s-s-5dr-in-bawtry-south-yorkshire-7a2ef0b9-0b85-465d-9a80-b20500ad7eee",
+    "dealer_id": "2855",
+    "car_id": "25905794",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "NA18XZE",
+        "registration_date": "2018-06-29",
+        "mileage": "76000",
+        "status": "Used",
+        "price": "18495.0000"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "18495.00",
+        "total_price": 23794.6,
+        "deposit": "0",
+        "balance": 18495,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 396.41,
+        "final_payment": 406.41,
+        "total_amount_payable": 23794.6,
+        "total_charge_for_credit": 5299.6,
+        "amount_of_credit": 18495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 406.41
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "18495.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

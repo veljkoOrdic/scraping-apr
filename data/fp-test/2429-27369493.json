@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:22:07.385Z",
+    "source": "finance_proposal",
+    "url": "https://www.nextcar4less.com/vehicle/ford-focus-23t-ecoboost-st-hatchback-5dr-petrol-manual-euro-6-ss-280-ps-in-sudbury-suffolk-fb1453f0-d2f2-4911-96fa-a119e7b8a2aa",
+    "dealer_id": "2429",
+    "car_id": "27369493",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FG74HTT",
+        "registration_date": "2024-10-19",
+        "mileage": "3600",
+        "status": "Used",
+        "price": "32221"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "32221.00",
+        "total_price": 40592.2,
+        "deposit": "0",
+        "balance": 32221,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 676.37,
+        "final_payment": 686.37,
+        "total_amount_payable": 40592.2,
+        "total_charge_for_credit": 8371.2,
+        "amount_of_credit": 32221,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 686.37,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:11:09.393Z",
+    "source": "finance_proposal",
+    "url": "https://www.greendalecarsales.co.uk/cars/toyota/yaris/1.5-vvt-h-design/1333658/",
+    "dealer_id": "6951",
+    "car_id": "26487369",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SL71XAD",
+        "registration_date": "2021-12-07",
+        "mileage": "4144",
+        "status": "Used",
+        "price": "16490"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "16490.00",
+        "total_price": 22114.6,
+        "deposit": "0",
+        "balance": 16490,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 368.41,
+        "final_payment": 378.41,
+        "total_amount_payable": 22114.6,
+        "total_charge_for_credit": 5624.6,
+        "amount_of_credit": 16490,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 378.41
+      }
+    ]
+  }
+]

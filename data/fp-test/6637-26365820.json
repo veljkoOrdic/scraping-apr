@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T21:54:24.269Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarbarns.com/used/bmw-4-series-2.0-420i-m-sport-pro-edition-auto-euro-6-(s/s)-2dr-in-welford-on-avon-stratford-upon-avon/61328",
+    "dealer_id": "6637",
+    "car_id": "26365820",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YF70YWW",
+        "registration_date": "2021-01-06",
+        "mileage": "47000",
+        "status": "New",
+        "price": "26995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "26995.00",
+        "total_price": 34010.2,
+        "deposit": "0",
+        "balance": 26995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.67,
+        "final_payment": 576.67,
+        "total_amount_payable": 34010.2,
+        "total_charge_for_credit": 7015.2,
+        "amount_of_credit": 26995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 576.67,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

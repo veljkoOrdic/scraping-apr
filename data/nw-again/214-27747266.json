@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:32:09.551Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beechwoodcarsalesltd.co.uk/vehicle/toyota-yaris-16t-gr-circuit-awd-euro-6-3dr-in-west-bromwich-west-midlands-34a9e3f7-b30d-4a87-bc75-b2b90169b135",
+    "dealer_id": "214",
+    "car_id": "27747266",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS71UUK",
+        "registration_date": "30/09/2021",
+        "mileage": 14000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29495,
+        "total_price": 29495,
+        "deposit": 0,
+        "balance": 29495,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 931.83,
+        "final_payment": 932.83,
+        "total_amount_payable": 33546.88,
+        "total_charge_for_credit": 4051.88,
+        "amount_of_credit": 29495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29495,
+        "total_price": 29495,
+        "deposit": 0,
+        "balance": 29495,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 37,
+        "regular_payment": 615.9,
+        "final_payment": 13007.32,
+        "total_amount_payable": 35179.72,
+        "total_charge_for_credit": 5684.72,
+        "amount_of_credit": 29495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 0.14,
+        "residual": 13006.32,
+        "price_to_buy": 13007.32
+      }
+    ]
+  }
+]

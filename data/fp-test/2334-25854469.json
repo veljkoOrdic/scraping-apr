@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:18:55.113Z",
+    "source": "finance_proposal",
+    "url": "https://www.regencycars.net/used/fiat/500/10-mild-hybrid-top-3dr/newtownards/county-down/21422263",
+    "dealer_id": "2334",
+    "car_id": "25854469",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Fiat",
+        "model": "500",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "ISZ5529",
+        "registration_date": "30/09/2024",
+        "mileage": "6",
+        "status": "Used",
+        "price": "14950"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "14950.00",
+        "total_price": 18444.8,
+        "deposit": "1495",
+        "balance": 13455,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 282.33,
+        "final_payment": 292.33,
+        "total_amount_payable": 18444.8,
+        "total_charge_for_credit": 3494.8,
+        "amount_of_credit": 13455,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 292.33,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

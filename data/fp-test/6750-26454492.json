@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T22:00:09.508Z",
+    "source": "finance_proposal",
+    "url": "https://www.penguincars.co.uk/details/used-car-in-shrewsbury/bmw/x3/2.0-20d-mht-m-sport-auto-xdrive-euro-6-ss-5dr/1331494/",
+    "dealer_id": "6750",
+    "car_id": "26454492",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "FP21VZU",
+        "registration_date": "2021-04-10",
+        "mileage": "55732",
+        "status": "Used",
+        "price": "26995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "26995.00",
+        "total_price": 33309.4,
+        "deposit": "2700",
+        "balance": 24295,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 509.99,
+        "final_payment": 519.99,
+        "total_amount_payable": 33309.4,
+        "total_charge_for_credit": 6314.4,
+        "amount_of_credit": 24295,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 519.99
+      }
+    ]
+  }
+]

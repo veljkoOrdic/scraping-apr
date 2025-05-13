@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:12:42.122Z",
+    "source": "finance_proposal",
+    "url": "https://www.taylors-pitstop.com/used-car-details/used-bmw-2-series-218d-20-m-sport-convertible-mineral-grey-automatic-diesel/id-11744/",
+    "dealer_id": "8071",
+    "car_id": "21088594",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "EF67LYU",
+        "registration_date": "23/12/2017",
+        "mileage": "29700",
+        "status": "New",
+        "price": "14700"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "14700.00",
+        "total_price": 19311.4,
+        "deposit": "0",
+        "balance": 14700,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 321.69,
+        "final_payment": 331.69,
+        "total_amount_payable": 19311.4,
+        "total_charge_for_credit": 4611.4,
+        "amount_of_credit": 14700,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 331.69,
+        "is_representative": true,
+        "apr_no_fees": 11.88
+      }
+    ]
+  }
+]

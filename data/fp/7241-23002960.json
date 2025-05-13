@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T22:31:43.287Z",
+    "source": "finance_proposal",
+    "url": "https://www.jdmotorsltd.co.uk/vans/landrover/defender90/2.4-tdci-xs/1044016/",
+    "dealer_id": "7241",
+    "car_id": "23002960",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T22:31:43.290Z",
+    "source": "finance_proposal",
+    "url": "https://www.jdmotorsltd.co.uk/vans/landrover/defender90/2.4-tdci-xs/1044016/",
+    "dealer_id": "7241",
+    "car_id": "23002960",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LB57DWK",
+        "registration_date": "2007-11-28",
+        "mileage": "136000",
+        "status": "New",
+        "price": "19995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "19995.00",
+        "total_price": 23697.36,
+        "deposit": "2000",
+        "balance": 17995,
+        "apr": 9.91,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 451.82,
+        "final_payment": 461.82,
+        "total_amount_payable": 23697.36,
+        "total_charge_for_credit": 3702.36,
+        "amount_of_credit": 17995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 461.82
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "19995.00",
+        "total_price": 23697.36,
+        "deposit": "2000",
+        "balance": 17995,
+        "apr": 9.91,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 451.82,
+        "final_payment": 461.82,
+        "total_amount_payable": 23697.36,
+        "total_charge_for_credit": 3702.36,
+        "amount_of_credit": 17995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 461.82,
+        "is_representative": true,
+        "apr_no_fees": 9.89
+      }
+    ]
+  }
+]

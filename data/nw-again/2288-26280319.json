@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:05:47.511Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillagebristol.com/used-land-rover-range-rover-sport-bristol-somerset-6496590",
+    "dealer_id": "2288",
+    "car_id": "26280319",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PY67DFA",
+        "registration_date": "30/11/2017",
+        "mileage": 64100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499,
+        "balance": 22496,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 472.21,
+        "final_payment": 473.21,
+        "total_amount_payable": 30832.6,
+        "total_charge_for_credit": 5837.6,
+        "amount_of_credit": 22496,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

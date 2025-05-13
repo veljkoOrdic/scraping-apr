@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T22:51:08.466Z",
+    "source": "finance_proposal",
+    "url": "https://www.jajarvis.co.uk/cars/porsche/macan/3.0-v6-s/1341238/",
+    "dealer_id": "7579",
+    "car_id": "26589514",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WL18KJY",
+        "registration_date": "2018-03-14",
+        "mileage": "57850",
+        "status": "Used",
+        "price": "27500"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "27500.00",
+        "total_price": 35389,
+        "deposit": "0",
+        "balance": 27500,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 589.65,
+        "final_payment": 599.65,
+        "total_amount_payable": 35389,
+        "total_charge_for_credit": 7889,
+        "amount_of_credit": 27500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 599.65
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "27500.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

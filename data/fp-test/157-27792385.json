@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:38:05.394Z",
+    "source": "finance_proposal",
+    "url": "https://www.hasburymotors.co.uk/vehicle/nissan-qashqai-13-dig-t-tekna-suv-5dr-petrol-manual-euro-6-ss-140-ps-in-west-midlands-4c37b56a-33e5-4cac-b6a8-da4776b09408",
+    "dealer_id": "157",
+    "car_id": "27792385",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "VN19NMO",
+        "registration_date": "2019-03-28",
+        "mileage": "38081",
+        "status": "Used",
+        "price": "13490"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "13490.00",
+        "total_price": 18093.4,
+        "deposit": "0",
+        "balance": 13490,
+        "apr": 12.92,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 301.39,
+        "final_payment": 311.39,
+        "total_amount_payable": 18093.4,
+        "total_charge_for_credit": 4603.4,
+        "amount_of_credit": 13490,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 311.39,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

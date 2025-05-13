@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2025-05-05T21:27:50.696Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/willys/mb/2.2-slat-grill-jeep-lhd-*classic-ww2-american-jeep*/954641/",
+    "dealer_id": "6233",
+    "car_id": "26768797",
+    "data": {
+      "type": "not_found"
+    }
+  },
+  {
+    "timestamp": "2025-05-05T21:27:50.699Z",
+    "source": "finance_proposal",
+    "url": "https://www.halesowenautos.co.uk/cars/willys/mb/2.2-slat-grill-jeep-lhd-*classic-ww2-american-jeep*/954641/",
+    "dealer_id": "6233",
+    "car_id": "26768797",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YWG908",
+        "registration_date": "2016-09-01",
+        "mileage": "0",
+        "status": "Used",
+        "price": "31995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "31995.00",
+        "total_price": 40307.8,
+        "deposit": "0",
+        "balance": 31995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 671.63,
+        "final_payment": 681.63,
+        "total_amount_payable": 40307.8,
+        "total_charge_for_credit": 8312.8,
+        "amount_of_credit": 31995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 681.63
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "31995.00",
+        "total_price": 40307.8,
+        "deposit": "0",
+        "balance": 31995,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 671.63,
+        "final_payment": 681.63,
+        "total_amount_payable": 40307.8,
+        "total_charge_for_credit": 8312.8,
+        "amount_of_credit": 31995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 681.63,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

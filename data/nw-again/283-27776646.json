@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:32:58.172Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cbautos-swindon.co.uk/vehicle/volkswagen-tiguan-20-tsi-r-line-tech-dsg-4motion-euro-6-ss-5dr-in-swindon-wiltshire-b8ba8f37-c6ae-4b8c-8034-b2bc00fc7787",
+    "dealer_id": "283",
+    "car_id": "27776646",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GR19JDK",
+        "registration_date": "06/08/2019",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 0,
+        "balance": 20995,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 454.73,
+        "final_payment": 464.73,
+        "total_amount_payable": 27293.8,
+        "total_charge_for_credit": 6298.8,
+        "amount_of_credit": 20995,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

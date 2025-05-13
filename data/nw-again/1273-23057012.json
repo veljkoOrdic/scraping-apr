@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:50:05.848Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lonsdalevehiclesales.co.uk/vehicle/peugeot-boxer-bluehdi-335-l3-xlwb-low-loader-luton-165ps-in-gwent-627095c3-920e-4e1e-b5ec-3d6d34b1ae68",
+    "dealer_id": "1273",
+    "car_id": "23057012",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN70CWD",
+        "registration_date": "25/11/2020",
+        "mileage": 50841,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21420,
+        "total_price": 21420,
+        "deposit": 1785,
+        "balance": 16065,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 358.93,
+        "final_payment": 359.93,
+        "total_amount_payable": 26891.8,
+        "total_charge_for_credit": 5471.8,
+        "amount_of_credit": 16065,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T19:34:55.665Z",
+    "source": "finance_proposal",
+    "url": "https://www.ianguthrie.co.uk/used-vehicle-details/used-ford-focus-10-ecoboost-hybrid-mhev-125-a-hatchback-moondust-silver-manual-petrol/id-72600603/",
+    "dealer_id": "2849",
+    "car_id": "25961533",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SW21OJG",
+        "registration_date": "18/06/2021",
+        "mileage": "7830",
+        "status": "New",
+        "price": "16995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "16995.00",
+        "total_price": 22324.6,
+        "deposit": "0",
+        "balance": 16995,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 371.91,
+        "final_payment": 381.91,
+        "total_amount_payable": 22324.6,
+        "total_charge_for_credit": 5329.6,
+        "amount_of_credit": 16995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 381.91
+      },
+      {
+        "type": "finance_pcp",
+        "name": "CA Auto Finance PCP",
+        "finance_type": "PCP",
+        "cash_price": "16995.00",
+        "total_price": 22396.8,
+        "deposit": "0",
+        "balance": 16995,
+        "apr": 11.89,
+        "rate_of_interest": 5.83,
+        "term": 48,
+        "regular_payment": 348.6,
+        "final_payment": 5664,
+        "total_amount_payable": 22396.8,
+        "total_charge_for_credit": 5401.8,
+        "amount_of_credit": 16995,
+        "lender": "CA Auto Finance PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "10000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": "13p",
+        "residual": 5654,
+        "price_to_buy": 5664
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:38:11.208Z",
+    "source": "finance_proposal",
+    "url": "https://www.hasburymotors.co.uk/vehicle/land-rover-range-rover-evoque-20-td4-hse-dynamic-suv-5dr-diesel-auto-4wd-euro-6-ss-180-ps-in-west-midlands-f54b157f-3b63-4c52-bdea-4d3e57fa4b3c",
+    "dealer_id": "157",
+    "car_id": "26252598",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "HJ67VVW",
+        "registration_date": "2017-10-13",
+        "mileage": "59215",
+        "status": "Used",
+        "price": "15990"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "15990.00",
+        "total_price": 21444.4,
+        "deposit": "0",
+        "balance": 15990,
+        "apr": 12.91,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 357.24,
+        "final_payment": 367.24,
+        "total_amount_payable": 21444.4,
+        "total_charge_for_credit": 5454.4,
+        "amount_of_credit": 15990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 367.24,
+        "is_representative": true,
+        "apr_no_fees": 12.9
+      }
+    ]
+  }
+]

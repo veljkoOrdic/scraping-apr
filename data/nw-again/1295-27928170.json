@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:51:20.856Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.spaldingcars.co.uk/vehicle/audi-e-tron-quattro-s-line-in-spalding-lincolnshire-a1cfd370-67bc-44f5-86e3-e63fd0f8ff57",
+    "dealer_id": "1295",
+    "car_id": "27928170",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF21WLK",
+        "registration_date": "09/03/2021",
+        "mileage": 50666,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 462.03,
+        "final_payment": 463.03,
+        "total_amount_payable": 30221.8,
+        "total_charge_for_credit": 5231.8,
+        "amount_of_credit": 22491,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 2499,
+        "balance": 22491,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 370.7,
+        "final_payment": 10577.66,
+        "total_amount_payable": 30870.26,
+        "total_charge_for_credit": 5880.26,
+        "amount_of_credit": 22491,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 10576.66,
+        "price_to_buy": 10577.66
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:07:26.540Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/landrover/rangerover/3.0-sd-v6-vogue/1346761/",
+    "dealer_id": "6942",
+    "car_id": "26657018",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YM69MYY",
+        "registration_date": "2019-12-21",
+        "mileage": "45000",
+        "status": "Used",
+        "price": "34950"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "34950.00",
+        "total_price": 43725.4,
+        "deposit": "6990",
+        "balance": 27960,
+        "apr": 11.91,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 612.09,
+        "final_payment": 622.09,
+        "total_amount_payable": 43725.4,
+        "total_charge_for_credit": 8775.4,
+        "amount_of_credit": 27960,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 622.09,
+        "is_representative": true,
+        "apr_no_fees": 11.9
+      }
+    ]
+  }
+]

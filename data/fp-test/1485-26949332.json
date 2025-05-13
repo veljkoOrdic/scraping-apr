@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T18:54:17.068Z",
+    "source": "finance_proposal",
+    "url": "https://www.platinummarquesuk.co.uk/vehicle/land-rover-range-rover-44-sd-v8-vogue-se-auto-4wd-euro-5-5dr-in-reading-berkshire-779524eb-7368-4e16-bf53-b27601143f81",
+    "dealer_id": "1485",
+    "car_id": "26949332",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SM64DVG",
+        "registration_date": "2014-12-13",
+        "mileage": "115000",
+        "status": "Used",
+        "price": "16449"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "16449.00",
+        "total_price": 20719,
+        "deposit": "0",
+        "balance": 16449,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 345.15,
+        "final_payment": 355.15,
+        "total_amount_payable": 20719,
+        "total_charge_for_credit": 4270,
+        "amount_of_credit": 16449,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 355.15
+      }
+    ]
+  }
+]

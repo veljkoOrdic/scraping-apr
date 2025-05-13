@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T20:03:58.684Z",
+    "source": "finance_proposal",
+    "url": "https://www.thecarcompanybristol.co.uk/details/used-car-in-kingswood/hyundai/i20/1.4-premium-se-euro-6-5dr/1115334/",
+    "dealer_id": "4746",
+    "car_id": "23664749",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WF15OEX",
+        "registration_date": "2015-03-31",
+        "mileage": "95298",
+        "status": "Used",
+        "price": "6350"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "6350.00",
+        "total_price": 8515.6,
+        "deposit": "0",
+        "balance": 6350,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 141.76,
+        "final_payment": 151.76,
+        "total_amount_payable": 8515.6,
+        "total_charge_for_credit": 2165.6,
+        "amount_of_credit": 6350,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 151.76,
+        "is_representative": true,
+        "apr_no_fees": 12.86
+      }
+    ]
+  }
+]

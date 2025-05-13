@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:32:25.823Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dpcarsonline.co.uk/vehicle/toyota-corolla-18-vvt-h-design-touring-sports-cvt-euro-6-ss-5dr-in-torquay-devon-ccd4b826-5c4c-4108-bc86-b29800b6cab9",
+    "dealer_id": "227",
+    "car_id": "27325880",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ70ZXH",
+        "registration_date": "15/12/2020",
+        "mileage": 57029,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16200,
+        "total_price": 16200,
+        "deposit": 1620,
+        "balance": 14580,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 339.01,
+        "final_payment": 340.01,
+        "total_amount_payable": 21961.6,
+        "total_charge_for_credit": 5761.6,
+        "amount_of_credit": 14580,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16200,
+        "total_price": 16200,
+        "deposit": 1620,
+        "balance": 14580,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 249.06,
+        "final_payment": 6854.5,
+        "total_amount_payable": 20429.38,
+        "total_charge_for_credit": 4229.38,
+        "amount_of_credit": 14580,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 6853.5,
+        "price_to_buy": 6854.5
+      }
+    ]
+  }
+]

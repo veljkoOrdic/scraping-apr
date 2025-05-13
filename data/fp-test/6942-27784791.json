@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:08:11.100Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/audi/sq8/4.0-tfsi-v8-black-edition/1440930/",
+    "dealer_id": "6942",
+    "car_id": "27784791",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LR72TYT",
+        "registration_date": "2022-09-08",
+        "mileage": "27000",
+        "status": "Used",
+        "price": "63900"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "63900.00",
+        "total_price": 77175.4,
+        "deposit": "12780",
+        "balance": 51120,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1073.09,
+        "final_payment": 1083.09,
+        "total_amount_payable": 77175.4,
+        "total_charge_for_credit": 13275.4,
+        "amount_of_credit": 51120,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1083.09,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

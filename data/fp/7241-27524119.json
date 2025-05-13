@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T22:31:47.967Z",
+    "source": "finance_proposal",
+    "url": "https://www.jdmotorsltd.co.uk/cars/bmw/4series/2.0-420i-xdrive-m-sport-coupe-auto/1418659/",
+    "dealer_id": "7241",
+    "car_id": "27524119",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YH19MYT",
+        "registration_date": "2019-03-15",
+        "mileage": "22000",
+        "status": "Used",
+        "price": "20495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "20495.00",
+        "total_price": 24289.76,
+        "deposit": "2050",
+        "balance": 18445,
+        "apr": 9.91,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 463.12,
+        "final_payment": 473.12,
+        "total_amount_payable": 24289.76,
+        "total_charge_for_credit": 3794.76,
+        "amount_of_credit": 18445,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 473.12
+      },
+      {
+        "type": "finance_pcp",
+        "name": "BNP PCP",
+        "finance_type": "PCP",
+        "cash_price": "20495.00",
+        "total_price": 25114.48,
+        "deposit": "2050",
+        "balance": 18445,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 384.51,
+        "final_payment": 4608,
+        "total_amount_payable": 25114.48,
+        "total_charge_for_credit": 4619.48,
+        "amount_of_credit": 18445,
+        "lender": "BNP PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "4p",
+        "residual": 4607,
+        "price_to_buy": 4608
+      }
+    ]
+  }
+]

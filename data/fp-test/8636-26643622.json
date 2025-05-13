@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:20:20.884Z",
+    "source": "finance_proposal",
+    "url": "https://www.carswebsite.co.uk/used/cars/mazda/mx-5/2-0-mx-5-rf-sport-black-2dr-70",
+    "dealer_id": "8636",
+    "car_id": "26643622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "SN68FAM",
+        "registration_date": "2018-09-01",
+        "mileage": "20827",
+        "status": "Used",
+        "price": "17000"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "17000.00",
+        "total_price": 20973,
+        "deposit": "1700",
+        "balance": 15300,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 321.05,
+        "final_payment": 331.05,
+        "total_amount_payable": 20973,
+        "total_charge_for_credit": 3973,
+        "amount_of_credit": 15300,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 331.05,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

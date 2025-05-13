@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T22:35:48.966Z",
+    "source": "finance_proposal",
+    "url": "https://www.lhkperformance.co.uk/cars/bmw/8series/3.0-840i-saloon-4dr-petrol-steptronic-euro-6-ss-340-ps/1424110/",
+    "dealer_id": "7343",
+    "car_id": "27575857",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YE69WNP",
+        "registration_date": "2019-10-16",
+        "mileage": "26000",
+        "status": "Used",
+        "price": "32995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "32995.00",
+        "total_price": 41884.8,
+        "deposit": "2000",
+        "balance": 30995,
+        "apr": 10.91,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 664.58,
+        "final_payment": 674.58,
+        "total_amount_payable": 41884.8,
+        "total_charge_for_credit": 8889.8,
+        "amount_of_credit": 30995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 674.58
+      },
+      {
+        "type": "finance_pcp",
+        "name": "BNP PCP",
+        "finance_type": "PCP",
+        "cash_price": "32995.00",
+        "total_price": 42324.96,
+        "deposit": "2000",
+        "balance": 30995,
+        "apr": 10.89,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 593.77,
+        "final_payment": 11824,
+        "total_amount_payable": 42324.96,
+        "total_charge_for_credit": 9329.96,
+        "amount_of_credit": 30995,
+        "lender": "BNP PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "11p",
+        "residual": 11823,
+        "price_to_buy": 11824
+      }
+    ]
+  }
+]

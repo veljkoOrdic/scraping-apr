@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:08:26.495Z",
+    "source": "finance_proposal",
+    "url": "https://www.pvsc.co.uk/cars/ferrari/california/4.3/1298571/",
+    "dealer_id": "6942",
+    "car_id": "26069896",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "RV12FUM",
+        "registration_date": "2012-04-21",
+        "mileage": "18000",
+        "status": "Used",
+        "price": "69950"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "69950.00",
+        "total_price": 84481.4,
+        "deposit": "13990",
+        "balance": 55960,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1174.69,
+        "final_payment": 1184.69,
+        "total_amount_payable": 84481.4,
+        "total_charge_for_credit": 14531.4,
+        "amount_of_credit": 55960,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1184.69,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

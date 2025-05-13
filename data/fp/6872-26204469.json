@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T22:04:19.831Z",
+    "source": "finance_proposal",
+    "url": "https://www.accringtongarages.co.uk/used/vauxhall/viva/10-se-5dr/accrington/lancashire/21461933",
+    "dealer_id": "6872",
+    "car_id": "26204469",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "PN18AEF",
+        "registration_date": "20/03/2018",
+        "mileage": "13032",
+        "status": "Used",
+        "price": "7995"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "7995.00",
+        "total_price": 10646,
+        "deposit": "799",
+        "balance": 7196,
+        "apr": 13.91,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 163.95,
+        "final_payment": 173.95,
+        "total_amount_payable": 10646,
+        "total_charge_for_credit": 2651,
+        "amount_of_credit": 7196,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 173.95
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "7995.00",
+        "deposit": "799",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

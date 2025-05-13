@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T07:11:31.993Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adamsandsons.co.uk/details/used-car-in-oakham/toyota/avensis/1.6-d-4d-active-touring-sports-euro-6-ss-5dr/1446524/",
+    "dealer_id": "2852",
+    "car_id": "27849794",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF16HKZ",
+        "registration_date": "25/07/2016",
+        "mileage": 85519,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6000,
+        "total_price": 6000,
+        "deposit": 600,
+        "balance": 5400,
+        "apr": 10.6,
+        "rate_of_interest": 5.54,
+        "term": 60,
+        "regular_payment": 114.92,
+        "final_payment": 124.92,
+        "total_amount_payable": 7505.2,
+        "total_charge_for_credit": 1505.2,
+        "amount_of_credit": 5400,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 60000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

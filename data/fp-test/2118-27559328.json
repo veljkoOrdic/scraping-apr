@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:16:06.575Z",
+    "source": "finance_proposal",
+    "url": "https://www.emcsheffield.co.uk/cars/porsche/718/2.0-t/1422551/",
+    "dealer_id": "2118",
+    "car_id": "27559328",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "N55CAY",
+        "registration_date": "2019-05-23",
+        "mileage": "9900",
+        "status": "Used",
+        "price": "39950"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "39950.00",
+        "total_price": 50327.2,
+        "deposit": "0",
+        "balance": 39950,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 838.62,
+        "final_payment": 848.62,
+        "total_amount_payable": 50327.2,
+        "total_charge_for_credit": 10377.2,
+        "amount_of_credit": 39950,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 848.62,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-13T06:54:33.826Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverpoolcarcentre.com/used-vauxhall-crossland-x-bootle-merseyside-6441930",
+    "dealer_id": "1549",
+    "car_id": "26070010",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DL70SSV",
+        "registration_date": "25/12/2020",
+        "mileage": 52000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9977,
+        "total_price": 9977,
+        "deposit": 1995,
+        "balance": 7982,
+        "apr": 14.9,
+        "rate_of_interest": 7.9,
+        "term": 60,
+        "regular_payment": 185.59,
+        "final_payment": 186.59,
+        "total_amount_payable": 13131.4,
+        "total_charge_for_credit": 3154.4,
+        "amount_of_credit": 7982,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9977,
+        "total_price": 9977,
+        "deposit": 1995,
+        "balance": 7982,
+        "apr": 14.9,
+        "rate_of_interest": 7.38,
+        "term": 49,
+        "regular_payment": 179.92,
+        "final_payment": 2458.21,
+        "total_amount_payable": 13089.37,
+        "total_charge_for_credit": 3112.37,
+        "amount_of_credit": 7982,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.02,
+        "residual": 2457.21,
+        "price_to_buy": 2458.21
+      }
+    ]
+  }
+]

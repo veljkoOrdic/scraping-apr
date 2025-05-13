@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:51:04.361Z",
+    "source": "finance_proposal",
+    "url": "https://www.jajarvis.co.uk/cars/bmw/x3/3.0-x3-xdrive30d-m-sport/1341397/",
+    "dealer_id": "7579",
+    "car_id": "26658521",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "OE68YBP",
+        "registration_date": "2019-01-31",
+        "mileage": "58750",
+        "status": "Used",
+        "price": "24750"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "24750.00",
+        "total_price": 31182.4,
+        "deposit": "0",
+        "balance": 24750,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 519.54,
+        "final_payment": 529.54,
+        "total_amount_payable": 31182.4,
+        "total_charge_for_credit": 6432.4,
+        "amount_of_credit": 24750,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 529.54,
+        "is_representative": true,
+        "apr_no_fees": 9.9
+      }
+    ]
+  }
+]

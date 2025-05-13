@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:48:11.292Z",
+    "source": "finance_proposal",
+    "url": "http://www.hallambros.co.uk/used-car/hyundai/tucson/1-6-gdi-se-nav-5dr-2wd/for-sale-in-high-peak-derbyshire/aetv42971214/",
+    "dealer_id": "4366",
+    "car_id": "25888756",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "Tucson",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KS69EOM",
+        "registration_date": "2019-11-26",
+        "mileage": "39000",
+        "status": "New",
+        "price": "14250"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "14250.00",
+        "total_price": 18335.8,
+        "deposit": "0",
+        "balance": 14250,
+        "apr": 10.91,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 305.43,
+        "final_payment": 315.43,
+        "total_amount_payable": 18335.8,
+        "total_charge_for_credit": 4085.8,
+        "amount_of_credit": 14250,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 315.43,
+        "is_representative": true,
+        "apr_no_fees": 10.89
+      }
+    ]
+  }
+]

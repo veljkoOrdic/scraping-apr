@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:46:06.115Z",
+    "source": "finance_proposal",
+    "url": "https://www.whitestonevehiclesales.co.uk/vans/peugeot/boxer/2.2-hdi-435/1214369/",
+    "dealer_id": "4332",
+    "car_id": "25008231",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "CK63OFH",
+        "registration_date": "2013-11-26",
+        "mileage": "109000",
+        "status": "New",
+        "price": "20495"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "20495.00",
+        "total_price": 26377,
+        "deposit": "0",
+        "balance": 20495,
+        "apr": 10.92,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 439.45,
+        "final_payment": 449.45,
+        "total_amount_payable": 26377,
+        "total_charge_for_credit": 5882,
+        "amount_of_credit": 20495,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "9000",
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 449.45
+      }
+    ]
+  }
+]

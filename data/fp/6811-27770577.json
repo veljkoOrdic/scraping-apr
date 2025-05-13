@@ -1,0 +1,71 @@
+[
+  {
+    "timestamp": "2025-05-05T22:02:00.392Z",
+    "source": "finance_proposal",
+    "url": "https://www.fishmotors.co.uk/used-land-rover-range-rover-sport-bolton-lancashire-6872361",
+    "dealer_id": "6811",
+    "car_id": "27770577",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LB21EVP",
+        "registration_date": "2021-03-02",
+        "mileage": "72000",
+        "status": "Used",
+        "price": "29990"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "Northridge PCP",
+        "finance_type": "PCP",
+        "cash_price": "29990.00",
+        "total_price": 38577.13,
+        "deposit": "0",
+        "balance": 29990,
+        "apr": 9.91,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 523.98,
+        "final_payment": 13426.09,
+        "total_amount_payable": 38577.13,
+        "total_charge_for_credit": 8587.13,
+        "amount_of_credit": 29990,
+        "lender": "Northridge PCP",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 32000,
+        "excess_mileage_rate": "15p",
+        "residual": 13416.09,
+        "price_to_buy": 13426.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "29990.00",
+        "total_price": 37782.4,
+        "deposit": "0",
+        "balance": 29990,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 629.54,
+        "final_payment": 639.54,
+        "total_amount_payable": 37782.4,
+        "total_charge_for_credit": 7792.4,
+        "amount_of_credit": 29990,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 639.54
+      }
+    ]
+  }
+]

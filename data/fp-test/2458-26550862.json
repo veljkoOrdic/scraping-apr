@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T19:22:43.125Z",
+    "source": "finance_proposal",
+    "url": "https://www.metrocarslondon.com/vehicle/nissan-qashqai-12-dig-t-n-connecta-2wd-euro-6-ss-5dr-in-chesham-buckinghamshire-33add11d-58a5-4cee-9791-b24800b0fa95",
+    "dealer_id": "2458",
+    "car_id": "26550862",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "LN16KWE",
+        "registration_date": "2016-03-18",
+        "mileage": "54000",
+        "status": "Used",
+        "price": "8495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "8495.00",
+        "total_price": 10688.2,
+        "deposit": "849",
+        "balance": 7646,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 163.82,
+        "final_payment": 173.82,
+        "total_amount_payable": 10688.2,
+        "total_charge_for_credit": 2193.2,
+        "amount_of_credit": 7646,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 173.82,
+        "is_representative": true,
+        "apr_no_fees": 10.87
+      }
+    ]
+  }
+]

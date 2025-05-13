@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-13T06:36:42.107Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.severnsidecarcompany.co.uk/used-volkswagen-transporter-bridgend-mid-glamorgan-6916607",
+    "dealer_id": "1004",
+    "car_id": "27942678",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD19WGO",
+        "registration_date": "04/03/2019",
+        "mileage": 108724,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25794,
+        "total_price": 25794,
+        "deposit": 0,
+        "balance": 25794,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 553,
+        "final_payment": 554,
+        "total_amount_payable": 33181,
+        "total_charge_for_credit": 7387,
+        "amount_of_credit": 25794,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

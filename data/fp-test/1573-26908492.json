@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-05-05T19:09:22.882Z",
+    "source": "finance_proposal",
+    "url": "https://www.activeautomotive.co.uk/vehicle/ford-transit-connect-15-tdci-220-trend-l1-h1-5dr-in-wellingborough-northamptonshire-f54a0b4f-8e16-4cf0-84eb-b27301019d71",
+    "dealer_id": "1573",
+    "car_id": "26908492",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KR67ZFT",
+        "registration_date": "2017-11-30",
+        "mileage": "145562",
+        "status": "New",
+        "price": "4500"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "5400.00",
+        "total_price": 6571,
+        "deposit": "900",
+        "balance": 4500,
+        "apr": 9.91,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 94.35,
+        "final_payment": 104.35,
+        "total_amount_payable": 6571,
+        "total_charge_for_credit": 1171,
+        "amount_of_credit": 4500,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 104.35
+      }
+    ]
+  }
+]

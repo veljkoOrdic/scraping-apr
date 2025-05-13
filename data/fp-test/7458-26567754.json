@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T22:41:26.251Z",
+    "source": "finance_proposal",
+    "url": "https://www.pinchbecksgarages.co.uk/used/suzuki/ignis/12-dualjet-12v-hybrid-sz5-5dr/stockbridge/hampshire/21502104",
+    "dealer_id": "7458",
+    "car_id": "26567754",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "KM71BVA",
+        "registration_date": "09/11/2021",
+        "mileage": "36000",
+        "status": "Used",
+        "price": "12495"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "12495.00",
+        "total_price": 15417.8,
+        "deposit": "1249",
+        "balance": 11246,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 235.98,
+        "final_payment": 245.98,
+        "total_amount_payable": 15417.8,
+        "total_charge_for_credit": 2922.8,
+        "amount_of_credit": 11246,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 245.98,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

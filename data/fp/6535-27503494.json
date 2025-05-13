@@ -1,0 +1,60 @@
+[
+  {
+    "timestamp": "2025-05-05T21:49:26.508Z",
+    "source": "finance_proposal",
+    "url": "https://www.simpsons-cars.com/used-car-details/used-subaru-outback-25i-touring-lineartronic-4wd-estate-autumn-green-automatic-petrol/id-202501238329208/",
+    "dealer_id": "6535",
+    "car_id": "27503494",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "WV24NHO",
+        "registration_date": "2024-05-31",
+        "mileage": "10662",
+        "status": "New",
+        "price": "35215"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP/ML No Fees",
+        "finance_type": "HP",
+        "cash_price": "35215.00",
+        "total_price": 44363.2,
+        "deposit": "0",
+        "balance": 35215,
+        "apr": 9.91,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 739.22,
+        "final_payment": 749.22,
+        "total_amount_payable": 44363.2,
+        "total_charge_for_credit": 9148.2,
+        "amount_of_credit": 35215,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 749.22
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": "35215.00",
+        "deposit": "0",
+        "lender": "",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": "8000",
+        "contract_mileage": null,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

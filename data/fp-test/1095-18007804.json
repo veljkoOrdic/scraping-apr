@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T18:44:36.940Z",
+    "source": "finance_proposal",
+    "url": "https://hensoncars.co.uk/vehicle/name/toyota-rav4-d-4d-invincible-awd/",
+    "dealer_id": "1095",
+    "car_id": "18007804",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "",
+        "model": "",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "YN64NZX",
+        "registration_date": "2014-09-01",
+        "mileage": "63744",
+        "status": "New",
+        "price": "10995"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "10995.00",
+        "total_price": 13852.6,
+        "deposit": "0",
+        "balance": 10995,
+        "apr": 9.91,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 230.71,
+        "final_payment": 240.71,
+        "total_amount_payable": 13852.6,
+        "total_charge_for_credit": 2857.6,
+        "amount_of_credit": 10995,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 240.71,
+        "is_representative": true,
+        "apr_no_fees": 9.88
+      }
+    ]
+  }
+]

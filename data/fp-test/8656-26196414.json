@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-05T23:21:58.046Z",
+    "source": "finance_proposal",
+    "url": "https://www.motorhousecheshire.co.uk/used/audi/a4/35-tfsi-black-edition-4dr-s-tronic/stockport/cheshire/21461264",
+    "dealer_id": "8656",
+    "car_id": "26196414",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "",
+        "derivative": "",
+        "registration_number": "RV22YDU",
+        "registration_date": "28/03/2022",
+        "mileage": "20460",
+        "status": "Used",
+        "price": "24750"
+      },
+      {
+        "type": "finance_representative_hp",
+        "name": "Representative HP",
+        "finance_type": "HP",
+        "cash_price": "24750.00",
+        "total_price": 30738.76,
+        "deposit": "2475",
+        "balance": 22275,
+        "apr": 12.91,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 588.62,
+        "final_payment": 598.62,
+        "total_amount_payable": 30738.76,
+        "total_charge_for_credit": 5988.76,
+        "amount_of_credit": 22275,
+        "lender": "HP/ML No Fees",
+        "broker": "Evolution Funding Limited",
+        "annual_mileage": 0,
+        "contract_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 598.62,
+        "is_representative": true,
+        "apr_no_fees": 12.89
+      }
+    ]
+  }
+]
