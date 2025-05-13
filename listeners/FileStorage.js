@@ -83,7 +83,7 @@ class FileStorage {
             !(entry.url === url &&
                 entry.dealer_id === dealer_id &&
                 entry.car_id === car_id &&
-                entry.data?.type === 'not_found')
+                entry.data?.type === 'not_found' || 'Redirected !!!')
         );
       }
 

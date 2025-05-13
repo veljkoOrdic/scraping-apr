@@ -44,6 +44,10 @@ class CodeweaversCalculatorPlugin extends CarFinancePlugin {
    */
   isCandidateEndpoint(response) {
     const url = response.url();
+    const status = response.headers().status;
+    if (status < 200 || status > 299) {
+        return false;
+    }
 
     // Codeweavers specific candidate patterns
     const candidatePatterns = [

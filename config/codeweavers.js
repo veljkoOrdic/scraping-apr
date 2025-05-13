@@ -4,8 +4,9 @@ module.exports = {
         'example.com'
     ],
     blockPatterns: [
-        '\\/api\\/',
-        '\\/Dealer\\/',
-        '\\/\\/plugins\.',
+        // '\\/api\\/',
+        // '\\/Dealer\\/',
+        // '\\/\\/plugins\.',
+        '\\/\\/test\.',
     ],
 };
