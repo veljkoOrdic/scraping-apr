@@ -66,6 +66,11 @@ class NewVehicleFinancePlugin extends CarFinancePlugin {
    */
   isCandidateEndpoint(response) {
     const url = response.url();
+    const status = response.status();
+
+    if (status < 200 || status > 299) {
+        return false;
+    }
 
     // NewVehicle specific candidate patterns
     const candidatePatterns = [
@@ -90,10 +95,7 @@ class NewVehicleFinancePlugin extends CarFinancePlugin {
       return [];
     }
 
-    // Get response body
     const text = await response.text();
-
-    // Parse the JSON
     let jsonData;
     try {
       jsonData = JSON.parse(text);
@@ -102,26 +104,9 @@ class NewVehicleFinancePlugin extends CarFinancePlugin {
       return [];
     }
 
-    // Use appropriate extractor based on the endpoint
-    try {
-      const url = response.url();
-      const method = response.request().method();
-      
-      if (method === 'POST' && /https:\/\/newvehicle\.com\/quoteware\/quotes\//i.test(url)) {
-        // Use Quoteware extractor for the detailed quotes endpoint
-        const extractor = this.getExtractor('QuotewareV3Finance');
-        return extractor.process(jsonData);
-      } else if (method === 'GET' && /https:\/\/newvehicle\.com\/quoteware\/v2\/quotes\/[a-f0-9-]+$/i.test(url)) {
-        // Use Quoteware extractor for the single quote endpoint
-        const extractor = this.getExtractor('QuotewareV3Finance');
-        return extractor.process(jsonData);
-      }
-      
-      return [];
-    } catch (error) {
-      app.error(this.name, `Error in NewVehicle extractor: ${error.message}`, { url: response.url() });
-      return [];
-    }
+    // Use Quoteware extractor for the detailed quotes endpoint
+    const extractor = this.getExtractor('QuotewareV3Finance');
+    return extractor.process(jsonData);
   }
 
   /**
