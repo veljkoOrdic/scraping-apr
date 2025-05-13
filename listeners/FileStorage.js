@@ -77,14 +77,12 @@ class FileStorage {
       // If the incoming data is not a "not_found" type,
       // remove any existing "not_found" entries for the same URL, dealer_id, and car_id.
       // This ensures we keep only the valid data when it becomes available.
-      const isIncomingNotFound = storageData.data?.type === 'not_found';
+      const isIncomingNotFound = isNotFoundOrRedirect(storageData.data);
       if (!isIncomingNotFound) {
-        fileData = fileData.filter(entry =>
-            !(entry.url === url &&
-                entry.dealer_id === dealer_id &&
-                entry.car_id === car_id &&
-                entry.data?.type === 'not_found' || 'Redirected !!!')
-        );
+        fileData = fileData.filter(entry => {
+          const sameRecord = entry.url === url && entry.dealer_id === dealer_id && entry.car_id === car_id;
+          return !(sameRecord && isNotFoundOrRedirect(entry.data));
+        });
       }
 
       // Add new data and write to file
@@ -96,6 +94,22 @@ class FileStorage {
       console.error('Error writing to file:', error);
     }
   }
+}
+
+/**
+ * Helper to detect “not found” or “redirect” in any shape of data
+ */
+function isNotFoundOrRedirect(data) {
+  if (data == null) return false;
+  // case 1: data is an object with a .type property
+  if (typeof data === 'object' && 'type' in data) {
+    return data.type === 'not_found';
+  }
+  // case 2: data is a string (redirect message)
+  if (typeof data === 'string') {
+    return data.toLowerCase().includes('redirect');
+  }
+  return false;
 }
 
 // Export a new instance
