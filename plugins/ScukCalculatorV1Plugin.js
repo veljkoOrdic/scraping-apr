@@ -85,8 +85,6 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
         if (status === 301 && (url === this.getPageUrl())) {
             this.handleResultFound(`Status is 301, redirected to: ${response.headers().location}`);
-        } else if (status > 399) {
-            this.handleResultFound(`Status is ${status}, Unauthorized`);
         }
 
         if (method === 'POST') {
@@ -118,6 +116,10 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
             // Process /init response
             if (this.isInitUrl(url)) {
+                if (status > 399) {
+                    this.handleResultFound(`Status is ${status}, Unauthorized`);
+                }
+
                 if (this.initProcessed) return;
                 this.initProcessed = true;
 
