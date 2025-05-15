@@ -44,7 +44,7 @@ class CarFinancePlugin extends IPlugin {
 
     /**
      * Process a response to look for finance calculation data
-     * @param {puppeteer.HTTPResponse} response - The response to process
+     * @param {puppeteer.HTTPSResponse} response - The response to process
      * @returns {Promise<void>}
      */
     async processResponse(response) {
@@ -66,8 +66,10 @@ class CarFinancePlugin extends IPlugin {
                         this.clients.push(clientString);
                     }
                 } catch (error) {
-                    app.error(this.name, `Error processing main page: ${error.message}`, { url: response.url() });
-                    this.handleResultFound(`Redirected !!! ${error.message}`, this.getPageUrl());
+                    app.error(this.name, `Error processing main page: ${error.message}`, {url: response.url()});
+                    if (error.message.includes('redirect')) {
+                        this.handleResultFound(`Redirected !!! ${error.message}`, this.getPageUrl());
+                    }
                 }
                 this.initialResponseProcessed = true;
             }
