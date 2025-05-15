@@ -97,7 +97,7 @@ class FileStorage {
 }
 
 /**
- * Helper to detect “not found” or “redirect” in any shape of data
+ * Helper to detect “not found”, “redirect”, "sold" or "unauthorized" in any shape of data
  */
 function isNotFoundOrRedirect(data) {
   if (data == null) return false;
@@ -105,9 +105,9 @@ function isNotFoundOrRedirect(data) {
   if (typeof data === 'object' && 'type' in data) {
     return data.type === 'not_found';
   }
-  // case 2: data is a string (redirect message)
+  // case 2: data is a string (redirect or vehicle with no price)
   if (typeof data === 'string') {
-    return data.toLowerCase().includes('redirect');
+    return data.toLowerCase().includes('redirect') || data.toLowerCase().includes('sold') || data.toLowerCase().includes('unauthorized');
   }
   return false;
 }
