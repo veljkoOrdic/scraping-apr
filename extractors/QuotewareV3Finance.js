@@ -130,6 +130,9 @@ class QuotewareV3Finance {
                     case 'LP':
                         results.push(this.createLpData(productQuote, result.Asset?.RequestedAnnualDistance || 0));
                         break;
+                    case 'CS':
+                        results.push(this.createCsData(productQuote, result.Asset?.RequestedAnnualDistance || 0));
+                        break;
                 }
             }
         }
@@ -221,6 +224,38 @@ class QuotewareV3Finance {
             type: 'finance_lp',
             name: 'LP',
             finance_type: 'Lease Purchase',
+            cash_price: productQuote.Figures.TotalCashPrice || 0,
+            total_price: productQuote.Figures.TotalCashPrice || 0,
+            deposit: productQuote.Figures.TotalDeposit || 0,
+            balance: productQuote.Figures.Advance || 0,
+            apr: productQuote.Figures.APR || 0,
+            rate_of_interest: productQuote.Figures.InterestRate || 0,
+            term: productQuote.Figures.Term || 0,
+            regular_payment: productQuote.Figures.RegularPayment || 0,
+            final_payment: productQuote.Figures.FinalPayment || 0,
+            balloon: productQuote.Figures.Balloon || 0,
+            total_amount_payable: productQuote.Figures.TotalPayable || 0,
+            total_charge_for_credit: productQuote.Figures.TotalCharges || 0,
+            amount_of_credit: productQuote.Figures.Advance || 0,
+            lender: this.getFunderName(productQuote.FunderCode) || '',
+            annual_mileage: annualMileage,
+            excess_mileage_rate: productQuote.Figures.Asset?.ChargePerOverDistanceUnit || 0,
+            residual: productQuote.Figures.Balloon || 0,
+            price_to_buy: productQuote.Figures.FinalPayment || 0
+        };
+    }
+
+    /**
+     * Create CS (Conditional Sale) finance data object
+     * @param {Object} productQuote - The product quote data
+     * @param {number} annualMileage - Annual mileage
+     * @returns {Object} - CS finance data object
+     */
+    createCsData(productQuote, annualMileage) {
+        return {
+            type: 'finance_cs',
+            name: 'CS',
+            finance_type: 'Conditional Sale',
             cash_price: productQuote.Figures.TotalCashPrice || 0,
             total_price: productQuote.Figures.TotalCashPrice || 0,
             deposit: productQuote.Figures.TotalDeposit || 0,
