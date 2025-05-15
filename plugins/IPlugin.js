@@ -185,6 +185,12 @@ class IPlugin {
    */
   handleResultNotFound(candidates) {
     this.saveResultNotFound(candidates, this.metadata);
+    if (this.options.closeAfterFind) {
+      const url = this.getPageUrl();
+      app.info(this.name, 'Closing browser', { url });
+      console.log(this.name, 'Closing browser', { url });
+      app.closeBrowser(this.name, url);
+    }
   }
 
   /**
