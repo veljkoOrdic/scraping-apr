@@ -81,6 +81,13 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
     async processResponse(response) {
         const url = response.url();
         const method = response.request().method();
+        const status = response.status();
+
+        if (status === 301 && (url === this.getPageUrl())) {
+            this.handleResultFound(`Status is 301, redirected to: ${response.headers().location}`);
+        } else if (status > 399) {
+            this.handleResultFound(`Status is ${status}, Unauthorized`);
+        }
 
         if (method === 'POST') {
             if (this.isFinanceEndpoint(url)) {
@@ -111,7 +118,6 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
             // Process /init response
             if (this.isInitUrl(url)) {
-
                 if (this.initProcessed) return;
                 this.initProcessed = true;
 
@@ -121,6 +127,10 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
 
                     const json = JSON.parse(body);
                     const data = json.data;
+
+                    if (json.message === 'Vehicle price is required') {
+                        this.handleResultFound('No price, maybe SOLD!', this.getPageUrl());
+                    }
 
                     const extractor = this.getExtractor('ScukCalculatorV1Finance');
                     const {vehicle, lender, eligibleProducts} = extractor.init(this.initRequestBody, data);
@@ -135,29 +145,16 @@ class ScukCalculatorV1Plugin extends CarFinancePlugin {
                         app.info(this.name, `Eligible product:${product}`);
                         this.eligibleProducts.add(product);
                     }
+                    if (this.eligibleProducts.size === 0) {
+                        this.handleResultFound(this.results, this.getPageUrl());
+                    }
+
                 } catch (e) {
                     app.error(this.name, `Error in init processing: ${e.message}`, {url});
                 }
             }
         }
 
-    }
-
-    /**
-     * Wait 10s after load and finalize if all expected products are seen
-     */
-    setPage(page) {
-        page.on('load', () => {
-            setTimeout(() => {
-                if (!this.resultFound) {
-                    if (this.results.length > 0) {
-                        this.handleResultFound(this.results, this.getPageUrl());
-                    } else {
-                        this.handleResultNotFound(this.candidates);
-                    }
-                }
-            }, 10000); // Wait 10 seconds after load to check
-        });
     }
 
     /**
