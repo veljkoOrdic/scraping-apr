@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:58:48.965Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blakedowncarcompany.co.uk/details/car-in-wombourne/bmw/m3/3.0-biturbo-competition-steptronic-euro-6-ss-4dr/1340507/",
+    "dealer_id": "5965",
+    "car_id": "26581889",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PL21AMU",
+        "registration_date": "28/05/2021",
+        "mileage": 12300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53999,
+        "total_price": 53999,
+        "deposit": 5399.9,
+        "balance": 48599.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1020.12,
+        "final_payment": 1021.12,
+        "total_amount_payable": 66608.1,
+        "total_charge_for_credit": 12609.1,
+        "amount_of_credit": 48599.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53999,
+        "total_price": 53999,
+        "deposit": 5399.9,
+        "balance": 48599.1,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 839.44,
+        "final_payment": 22307.02,
+        "total_amount_payable": 68000.04,
+        "total_charge_for_credit": 14001.04,
+        "amount_of_credit": 48599.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 22306.02,
+        "price_to_buy": 22307.02
+      }
+    ]
+  }
+]

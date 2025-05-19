@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:51:54.030Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-2008-12-puretech-allure-premium-eu-suv-elixir-red-manual-petrol/id-202410095014807/",
+    "dealer_id": "7584",
+    "car_id": "25902564",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "2008",
+        "variant": "ESTATE",
+        "derivative": "1.2 PureTech Allure Premium",
+        "registration_number": "BG71OUS",
+        "registration_date": "30/11/2021",
+        "mileage": 16860,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 3059,
+        "balance": 12236,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 220.49,
+        "final_payment": 6390,
+        "total_amount_payable": 20032.52,
+        "total_charge_for_credit": 4737.52,
+        "amount_of_credit": 12236,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 6390,
+        "price_to_buy": 6390
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 3059,
+        "balance": 12236,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 273.39,
+        "final_payment": 273.39,
+        "total_amount_payable": 19462.4,
+        "total_charge_for_credit": 4167.4,
+        "amount_of_credit": 12236,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

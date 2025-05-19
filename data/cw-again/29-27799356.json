@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:12:29.803Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lvmc.co.uk/used-land-rover-discovery-high-ongar-essex-6879283",
+    "dealer_id": "29",
+    "car_id": "27799356",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DISCOVERY",
+        "variant": "DIESEL SW",
+        "derivative": "3.0 SDV6 HSE",
+        "registration_number": "LY68MKE",
+        "registration_date": "31/01/2019",
+        "mileage": 74010,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 6747,
+        "balance": 20243,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 33,
+        "regular_payment": 404.89,
+        "final_payment": 13294,
+        "total_amount_payable": 32592.59,
+        "total_charge_for_credit": 5602.59,
+        "amount_of_credit": 20243,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 27500,
+        "excess_mileage_rate": 19,
+        "residual": 13284,
+        "price_to_buy": 13294
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26990,
+        "total_price": 26990,
+        "deposit": 6747,
+        "balance": 20243,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 452.17,
+        "final_payment": 462.17,
+        "total_amount_payable": 33887.2,
+        "total_charge_for_credit": 6897.2,
+        "amount_of_credit": 20243,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

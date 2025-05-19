@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:44:26.480Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.danielmaxwellcarsales.co.uk/detail/1259844/used-vauxhall-insignia-1-6-elite-nav-ecotec-5dr-manual-stockport",
+    "dealer_id": "137",
+    "car_id": "18004648",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FE67VDR",
+        "registration_date": "01/02/2018",
+        "mileage": 72590,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8281,
+        "total_price": 8281,
+        "deposit": 200,
+        "balance": 8081,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 169.63,
+        "final_payment": 170.63,
+        "total_amount_payable": 10378.8,
+        "total_charge_for_credit": 2097.8,
+        "amount_of_credit": 8081,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

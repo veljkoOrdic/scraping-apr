@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T18:46:34.730Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.primemotorsessex.co.uk/used-ford-transit-harlow-essex-6248966",
+    "dealer_id": "8352",
+    "car_id": "26310697",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FJ59OYD",
+        "registration_date": "29/09/2010",
+        "mileage": 125000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4749,
+        "total_price": 4749,
+        "deposit": 474,
+        "balance": 4275,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 93.46,
+        "final_payment": 103.46,
+        "balloon": 0,
+        "total_amount_payable": 6091.6,
+        "total_charge_for_credit": 1342.6,
+        "amount_of_credit": 4275,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 103.46
+      }
+    ]
+  }
+]

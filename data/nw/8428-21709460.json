@@ -1,12 +1,18 @@
 [
   {
-    "timestamp": "2025-04-15T00:00:39.085Z",
+    "timestamp": "2025-05-15T17:47:01.929Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cliffordcarsales.co.uk/used-fiat-500-altnagelvin-county-londonderry-5213002",
     "dealer_id": "8428",
     "car_id": "21709460",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR59AZT",
+        "registration_date": "15/11/2009",
+        "mileage": 88000,
+        "status": "Used"
+      }
+    ]
   }
 ]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:10:06.558Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/land-rover/discovery-sport/20-sd4-240-hse-5dr-auto/cheltenham/gloucestershire/21576760",
+    "dealer_id": "6614",
+    "car_id": "27691508",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DC18EJY",
+        "registration_date": "10/07/2018",
+        "mileage": 48300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17990,
+        "total_price": 17990,
+        "deposit": 1799,
+        "balance": 16191,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 332.61,
+        "final_payment": 333.61,
+        "total_amount_payable": 21756.6,
+        "total_charge_for_credit": 3766.6,
+        "amount_of_credit": 16191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

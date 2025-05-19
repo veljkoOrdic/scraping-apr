@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:30:48.088Z",
+    "timestamp": "2025-05-15T19:15:09.354Z",
     "source": "new_vehicle_finance",
     "url": "https://www.royhannamotors.com/used-bmw-x5-county-antrim-county-antrim-6499482",
     "dealer_id": "6858",
@@ -12,6 +12,29 @@
         "registration_date": "30/09/2016",
         "mileage": 84300,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21450,
+        "total_price": 21450,
+        "deposit": 2145,
+        "balance": 19305,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 422.47,
+        "final_payment": 432.47,
+        "balloon": 0,
+        "total_amount_payable": 27503.2,
+        "total_charge_for_credit": 6053.2,
+        "amount_of_credit": 19305,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 432.47
       },
       {
         "type": "finance_hp",
@@ -29,7 +52,7 @@
         "total_amount_payable": 26458.6,
         "total_charge_for_credit": 5008.6,
         "amount_of_credit": 19305,
-        "lender": "MI Vehicle Finance Limited",
+        "lender": "Motonovo Finance Limited",
         "annual_mileage": 12000,
         "excess_mileage_rate": 0,
         "residual": 0

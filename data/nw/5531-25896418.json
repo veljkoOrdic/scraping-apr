@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T20:51:53.948Z",
+    "timestamp": "2025-05-15T15:54:09.732Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cardifftradesales.co.uk/used-fiat-500c-cardiff-south-glamorgan-6398284",
     "dealer_id": "5531",
     "car_id": "25896418",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "KY11JXG",
-        "registration_date": "10/03/2011",
-        "mileage": 28300,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4991,
-        "total_price": 4991,
-        "deposit": 499,
-        "balance": 4492,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 46,
-        "regular_payment": 116.84,
-        "final_payment": 116.84,
-        "total_amount_payable": 5873.64,
-        "total_charge_for_credit": 882.64,
-        "amount_of_credit": 4492,
-        "lender": "Motion Finance (2017) Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.cardifftradesales.com&quoteeUid=E52905B5FE1E489989BC33FD223E75F4&class=car&condition=used&vrm=KY11JXG&registrationDate=10%2F03%2F2011&capCode=&capId=&cashPrice=4991&currentOdometerReading=28300&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6398%2F6398284%2Ffull%2F152267183.jpg&term=60&cashDeposit=499&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=10%2F10%2F2024&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.cardifftradesales.com&quoteeUid=E52905B5FE1E489989BC33FD223E75F4&class=car&condition=used&vrm=KY11JXG&registrationDate=10%2F03%2F2011&capCode=&capId=&cashPrice=4991&currentOdometerReading=28300&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6398%2F6398284%2Ffull%2F152267183.jpg&term=60&cashDeposit=499&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=10%2F10%2F2024&usePersistedOptions=false&origin=https%3A%2F%2Fwww.cardifftradesales.co.uk%2Fused-fiat-500c-cardiff-south-glamorgan-6398284&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

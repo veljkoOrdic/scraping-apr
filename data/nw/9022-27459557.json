@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:41:08.089Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.burchautos.com/used-ford-ranger-newtownards-county-down-6774916",
+    "dealer_id": "9022",
+    "car_id": "27459557",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST71TFV",
+        "registration_date": "31/01/2022",
+        "mileage": 53667,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24594,
+        "total_price": 24594,
+        "deposit": 0,
+        "balance": 24594,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 527.28,
+        "final_payment": 528.28,
+        "total_amount_payable": 31637.8,
+        "total_charge_for_credit": 7043.8,
+        "amount_of_credit": 24594,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

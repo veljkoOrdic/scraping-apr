@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:22:45.616Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoclass.uk/used/cars/bmw/3-series/2-0-320d-m-sport-edition-mhev-auto-4dr-274",
+    "dealer_id": "6767",
+    "car_id": "27673450",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "3 Series",
+        "variant": "",
+        "derivative": "320d M Sport Pro Edition Saloon",
+        "registration_number": "YB20VJZ",
+        "registration_date": "14/08/2020",
+        "mileage": 12948,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25950,
+        "total_price": 25950,
+        "deposit": 2595,
+        "balance": 23355,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 393.78,
+        "final_payment": 11276,
+        "total_amount_payable": 32772.44,
+        "total_charge_for_credit": 6822.44,
+        "amount_of_credit": 23355,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 5.77,
+        "residual": 11276,
+        "price_to_buy": 11276
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25950,
+        "total_price": 25950,
+        "deposit": 2595,
+        "balance": 23355,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 490.26,
+        "final_payment": 490.26,
+        "total_amount_payable": 32010.6,
+        "total_charge_for_credit": 6060.6,
+        "amount_of_credit": 23355,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

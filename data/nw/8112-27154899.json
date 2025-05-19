@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:04:57.056Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.avalonmotorco.com/used/cars/skoda/karoq/se-drive-tsi-3614",
+    "dealer_id": "8112",
+    "car_id": "27154899",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB23KWM",
+        "registration_date": "31/07/2023",
+        "mileage": 12408,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17000,
+        "total_price": 17000,
+        "deposit": 0,
+        "balance": 17000,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 364.48,
+        "final_payment": 364.48,
+        "total_amount_payable": 21868.8,
+        "total_charge_for_credit": 4868.8,
+        "amount_of_credit": 17000,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17000,
+        "total_price": 17000,
+        "deposit": 0,
+        "balance": 17000,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 49,
+        "regular_payment": 289.25,
+        "final_payment": 8665,
+        "total_amount_payable": 22549,
+        "total_charge_for_credit": 5549,
+        "amount_of_credit": 17000,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.04,
+        "residual": 8655,
+        "price_to_buy": 8665
+      }
+    ]
+  }
+]

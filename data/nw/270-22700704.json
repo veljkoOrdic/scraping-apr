@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T18:13:19.160Z",
+    "timestamp": "2025-05-15T15:04:37.412Z",
     "source": "new_vehicle_finance",
     "url": "https://www.motorland2008ltd.co.uk/used-vauxhall-astra-walsall-west-midlands-5642881",
     "dealer_id": "270",
     "car_id": "22700704",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FE20GLK",
+        "registration_date": "11/06/2020",
+        "mileage": 46942,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099,
+        "balance": 9900,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 225.68,
+        "final_payment": 226.68,
+        "total_amount_payable": 14640.8,
+        "total_charge_for_credit": 3641.8,
+        "amount_of_credit": 9900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099,
+        "balance": 9900,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 47,
+        "regular_payment": 205.34,
+        "final_payment": 2904,
+        "total_amount_payable": 13448.64,
+        "total_charge_for_credit": 2449.64,
+        "amount_of_credit": 9900,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 39167,
+        "excess_mileage_rate": 0.15,
+        "residual": 2903,
+        "price_to_buy": 2904
+      }
+    ]
   }
 ]

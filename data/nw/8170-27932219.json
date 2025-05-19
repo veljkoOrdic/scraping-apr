@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:14:35.553Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jmcvansales.co.uk/used-volkswagen-crafter-dukinfield-cheshire-6909106",
+    "dealer_id": "8170",
+    "car_id": "27932219",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF25JBE",
+        "registration_date": "28/03/2025",
+        "mileage": 30,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46794,
+        "total_price": 46794,
+        "deposit": 7799,
+        "balance": 38995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 800.97,
+        "final_payment": 810.97,
+        "balloon": 0,
+        "total_amount_payable": 55867.2,
+        "total_charge_for_credit": 9073.2,
+        "amount_of_credit": 38995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 810.97
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46794,
+        "total_price": 46794,
+        "deposit": 0,
+        "balance": 38995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 801.09,
+        "final_payment": 802.09,
+        "total_amount_payable": 55865.4,
+        "total_charge_for_credit": 9071.4,
+        "amount_of_credit": 38995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

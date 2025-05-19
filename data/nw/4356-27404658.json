@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:35:06.835Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.haslucksgreenmotor.co.uk/used-hyundai-i10-solihull-west-midlands-6783884",
+    "dealer_id": "4356",
+    "car_id": "27404658",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FG21PYW",
+        "registration_date": "06/04/2021",
+        "mileage": 22292,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099,
+        "balance": 9900,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 221.18,
+        "final_payment": 222.18,
+        "total_amount_payable": 14370.8,
+        "total_charge_for_credit": 3371.8,
+        "amount_of_credit": 9900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 1099,
+        "balance": 9900,
+        "apr": 12.9,
+        "rate_of_interest": 6.34,
+        "term": 49,
+        "regular_payment": 196.96,
+        "final_payment": 4017.37,
+        "total_amount_payable": 14570.45,
+        "total_charge_for_credit": 3571.45,
+        "amount_of_credit": 9900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.04,
+        "residual": 4016.37,
+        "price_to_buy": 4017.37
+      }
+    ]
+  }
+]

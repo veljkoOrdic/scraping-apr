@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T22:35:22.064Z",
+    "timestamp": "2025-05-15T16:51:08.088Z",
     "source": "new_vehicle_finance",
     "url": "https://www.carsalesni.com/used-skoda-superb-omagh-fermanagh-6373285",
     "dealer_id": "5912",
     "car_id": "25803021",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MK71OMW",
+        "registration_date": "10/09/2021",
+        "mileage": 79000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20900,
+        "total_price": 20900,
+        "deposit": 2090,
+        "balance": 18810,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 394.82,
+        "final_payment": 395.82,
+        "total_amount_payable": 25780.2,
+        "total_charge_for_credit": 4880.2,
+        "amount_of_credit": 18810,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

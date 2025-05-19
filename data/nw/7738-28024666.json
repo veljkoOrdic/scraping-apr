@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:10:56.126Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hothatches.co.uk/listings/gr21bbs/",
+    "dealer_id": "7738",
+    "car_id": "28024666",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GR21BBS",
+        "registration_date": "12/07/2021",
+        "mileage": 10200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30495,
+        "total_price": 30495,
+        "deposit": 3049.5,
+        "balance": 27445.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 677.22,
+        "final_payment": 678.22,
+        "total_amount_payable": 35557.06,
+        "total_charge_for_credit": 5062.06,
+        "amount_of_credit": 27445.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30495,
+        "total_price": 30495,
+        "deposit": 3049.5,
+        "balance": 27445.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 494.84,
+        "final_payment": 10891,
+        "total_amount_payable": 37197.98,
+        "total_charge_for_credit": 6702.98,
+        "amount_of_credit": 27445.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 10890,
+        "price_to_buy": 10891
+      }
+    ]
+  }
+]

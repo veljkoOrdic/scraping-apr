@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:51:16.428Z",
+    "timestamp": "2025-05-15T15:29:06.210Z",
     "source": "new_vehicle_finance",
     "url": "https://www.overton-garage.co.uk/vehicle-details/used-peugeot-3008-1-5-bluehdi-gt-line-130-ps-for-sale-in-aberdeen-scotland-u238/",
     "dealer_id": "7345",
@@ -12,6 +12,29 @@
         "registration_date": "20/02/2020",
         "mileage": 15054,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1700,
+        "balance": 15295,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 334.69,
+        "final_payment": 344.69,
+        "balloon": 0,
+        "total_amount_payable": 21791.4,
+        "total_charge_for_credit": 4796.4,
+        "amount_of_credit": 15295,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 344.69
       },
       {
         "type": "finance_hp",

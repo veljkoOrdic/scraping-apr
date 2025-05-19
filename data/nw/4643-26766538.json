@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:07:06.567Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carshunt.co.uk/details/used-car-in-havering/tesla/model3/standard-range-plus-auto-rwd-4dr/1353730/",
+    "dealer_id": "4643",
+    "car_id": "26766538",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SL69WZX",
+        "registration_date": "06/12/2019",
+        "mileage": 70906,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 649.75,
+        "balance": 12345.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 259.12,
+        "final_payment": 260.12,
+        "total_amount_payable": 16197.95,
+        "total_charge_for_credit": 3202.95,
+        "amount_of_credit": 12345.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

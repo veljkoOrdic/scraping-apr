@@ -1,39 +1,20 @@
 [
   {
-    "timestamp": "2025-04-14T18:16:59.228Z",
+    "timestamp": "2025-05-15T15:07:13.410Z",
     "source": "new_vehicle_finance",
     "url": "https://www.beehivecars.co.uk/used-ford-s-max-bolton-lancashire-6411835",
     "dealer_id": "7230",
     "car_id": "26037720",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "FX68BKL",
-        "registration_date": "27/09/2018",
-        "mileage": 60509,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 16995,
-        "total_price": 16995,
-        "deposit": 1699,
-        "balance": 15296,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 384.12,
-        "final_payment": 384.12,
-        "total_amount_payable": 20136.76,
-        "total_charge_for_credit": 3141.76,
-        "amount_of_credit": 15296,
-        "lender": "Motion Finance (2017) Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.parksidedirect.co.uk&quoteeUid=5E9947A19EC04F65AD5B42188BEC0949&class=car&condition=used&vrm=FX68BKL&registrationDate=27%2F09%2F2018&capCode=&capId=&cashPrice=16995&currentOdometerReading=60509&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6411%2F6411835%2Ffull%2F153157994.jpg&term=48&cashDeposit=1699&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=16%2F10%2F2024&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.parksidedirect.co.uk&quoteeUid=5E9947A19EC04F65AD5B42188BEC0949&class=car&condition=used&vrm=FX68BKL&registrationDate=27%2F09%2F2018&capCode=&capId=&cashPrice=16995&currentOdometerReading=60509&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6411%2F6411835%2Ffull%2F153157994.jpg&term=48&cashDeposit=1699&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=16%2F10%2F2024&usePersistedOptions=false&origin=https%3A%2F%2Fwww.beehivecars.co.uk%2Fused-ford-s-max-bolton-lancashire-6411835&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js"
+      ]
+    }
   }
 ]

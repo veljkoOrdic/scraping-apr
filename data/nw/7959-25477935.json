@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:41:20.419Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fgcars.uk/details/car-in-loughborough/audi/tt/1.8-tfsi-sport-roadster-euro-5-2dr/1251191/",
+    "dealer_id": "7959",
+    "car_id": "25477935",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV13WNS",
+        "registration_date": "10/07/2013",
+        "mileage": 49029,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7978,
+        "total_price": 7978,
+        "deposit": 0,
+        "balance": 7978,
+        "apr": 11.9,
+        "rate_of_interest": 6.12,
+        "term": 37,
+        "regular_payment": 256.33,
+        "final_payment": 257.33,
+        "total_amount_payable": 9485.21,
+        "total_charge_for_credit": 1507.21,
+        "amount_of_credit": 7978,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:29:37.701Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cmcarsni.co.uk/used-dacia-duster-ballymoney-northern-ireland-6701227",
+    "dealer_id": "8332",
+    "car_id": "27154853",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WFZ1050",
+        "registration_date": "19/02/2015",
+        "mileage": 88538,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4990,
+        "total_price": 4990,
+        "deposit": 499,
+        "balance": 4491,
+        "apr": 13.9,
+        "rate_of_interest": 7.32,
+        "term": 57,
+        "regular_payment": 106.2,
+        "final_payment": 107.2,
+        "total_amount_payable": 6553.4,
+        "total_charge_for_credit": 1563.4,
+        "amount_of_credit": 4491,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

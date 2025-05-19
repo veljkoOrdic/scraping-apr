@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:04:54.141Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/mercedes-g400-amg-line-premium-d-4matic-auto-4wd-in-kent-6c7ae478-9e46-4070-ae03-b2d700f0cee4",
+    "dealer_id": "5545",
+    "car_id": "28057097",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS23VYH",
+        "registration_date": "12/05/2023",
+        "mileage": 2990,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 124990,
+        "total_price": 124990,
+        "deposit": 18748.5,
+        "balance": 75000,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1850.6,
+        "final_payment": 1851.6,
+        "total_amount_payable": 138819.8,
+        "total_charge_for_credit": 13829.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 124990,
+        "total_price": 124990,
+        "deposit": 18748.5,
+        "balance": 100000,
+        "apr": 8.9,
+        "rate_of_interest": 4.35,
+        "term": 49,
+        "regular_payment": 1425.75,
+        "final_payment": 59800,
+        "total_amount_payable": 153226,
+        "total_charge_for_credit": 28236,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.52,
+        "residual": 59799,
+        "price_to_buy": 59800
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:31:22.947Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1356971/used-nissan-micra-1-2-acenta-5dr-manual-hyde",
+    "dealer_id": "6611",
+    "car_id": "27922595",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DN65MVP",
+        "registration_date": "30/09/2015",
+        "mileage": 42575,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4994,
+        "total_price": 4994,
+        "deposit": 499.4,
+        "balance": 4494.6,
+        "apr": 10.9,
+        "rate_of_interest": 10.31,
+        "term": 48,
+        "regular_payment": 114.84,
+        "final_payment": 114.84,
+        "total_amount_payable": 6011.72,
+        "total_charge_for_credit": 1017.72,
+        "amount_of_credit": 4494.6,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

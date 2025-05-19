@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:08:20.224Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mdscarsales.co.uk/used/toyota-yaris-1.5-vvt-h-gr-sport-e-cvt-euro-6-(s/s)-5dr-in-wakefield-west-yorkshire/65042",
+    "dealer_id": "7761",
+    "car_id": "26985207",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "YARIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Hybrid GR Sport CVT",
+        "registration_number": "YM72DWZ",
+        "registration_date": "17/01/2023",
+        "mileage": 12103,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18395,
+        "total_price": 18395,
+        "deposit": 1839.5,
+        "balance": 16555.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 347.51,
+        "final_payment": 347.51,
+        "total_amount_payable": 22690.1,
+        "total_charge_for_credit": 4295.1,
+        "amount_of_credit": 16555.5,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18395,
+        "total_price": 18395,
+        "deposit": 1839.5,
+        "balance": 16555.5,
+        "apr": 9.9,
+        "rate_of_interest": 7.2,
+        "term": 48,
+        "regular_payment": 280.36,
+        "final_payment": 8145,
+        "total_amount_payable": 23161.42,
+        "total_charge_for_credit": 4766.42,
+        "amount_of_credit": 16555.5,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 8,
+        "residual": 8145,
+        "price_to_buy": 8145
+      }
+    ]
+  }
+]

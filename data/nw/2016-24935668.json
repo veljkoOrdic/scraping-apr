@@ -1,76 +1,26 @@
 [
   {
-    "timestamp": "2025-04-14T21:39:26.788Z",
+    "timestamp": "2025-05-15T16:31:06.531Z",
     "source": "new_vehicle_finance",
     "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/bmw/4series/3.0-435d-m-sport-auto-xdrive-euro-6-ss-2dr/1208815/",
     "dealer_id": "2016",
     "car_id": "24935668",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "YG66SDY",
-        "registration_date": "21/09/2016",
-        "mileage": 51000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 16999,
-        "total_price": 16999,
-        "deposit": 1699.9,
-        "balance": 15299.1,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 321.14,
-        "final_payment": 322.14,
-        "total_amount_payable": 20969.3,
-        "total_charge_for_credit": 3970.3,
-        "amount_of_credit": 15299.1,
-        "lender": "Admiral Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
-  },
-  {
-    "timestamp": "2025-04-14T21:39:26.853Z",
-    "source": "new_vehicle_finance",
-    "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/bmw/4series/3.0-435d-m-sport-auto-xdrive-euro-6-ss-2dr/1208815/",
-    "dealer_id": "2016",
-    "car_id": "24935668",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "YG66SDY",
-        "registration_date": "21/09/2016",
-        "mileage": 51000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 16999,
-        "total_price": 16999,
-        "deposit": 0,
-        "balance": 16999,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 356.82,
-        "final_payment": 357.82,
-        "total_amount_payable": 21410.2,
-        "total_charge_for_credit": 4411.2,
-        "amount_of_credit": 16999,
-        "lender": "Admiral Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.autochoicebristol.com&quoteeUid=4BCCA06C-9DD0-4FED-B624-0DCD5E91F982&class=Car&condition=used&vrm=YG66SDY&registrationDate=21/09/2016&capCode=&capId=&cashPrice=16999&vatIncluded=true&vatQualifying=false&currentOdometerReading=51000&vehicleImageUrl=https://www.autochoicebristol.com/assets/1208815/large/18fbf0cf70e2f0ec6959b6fc7a6192fc_1208815.jpg&cashDepositType=Percentage&cashDeposit=1699.9&term=60&annualDistance=10000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.autochoicebristol.com&quoteeUid=4BCCA06C-9DD0-4FED-B624-0DCD5E91F982&class=Car&condition=used&vrm=YG66SDY&registrationDate=21%2F09%2F2016&capCode=&capId=&cashPrice=16999&vatIncluded=true&vatQualifying=false&currentOdometerReading=51000&vehicleImageUrl=https%3A%2F%2Fwww.autochoicebristol.com%2Fassets%2F1208815%2Flarge%2F18fbf0cf70e2f0ec6959b6fc7a6192fc_1208815.jpg&cashDepositType=Percentage&cashDeposit=1699.9&term=60&annualDistance=10000&dateOnForecourt=&origin=https%3A%2F%2Fwww.autochoicebristol.com%2Fdetails%2Fused-car-in-bristol%2Fbmw%2F4series%2F3.0-435d-m-sport-auto-xdrive-euro-6-ss-2dr%2F1208815%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

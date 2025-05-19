@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:22:43.660Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitethorcars.co.uk/details/used-car-in-leicester/bmw/x5/3.0-m50d-auto-xdrive-euro-6-ss-5dr/1416368/",
+    "dealer_id": "397",
+    "car_id": "27490034",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FD68XDU",
+        "registration_date": "11/01/2019",
+        "mileage": 44000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42000,
+        "total_price": 42000,
+        "deposit": 0,
+        "balance": 42000,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 844.14,
+        "final_payment": 845.14,
+        "total_amount_payable": 50649.4,
+        "total_charge_for_credit": 8649.4,
+        "amount_of_credit": 42000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

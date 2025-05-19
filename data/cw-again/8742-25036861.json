@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-05-15T19:21:17.346Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aimautos.co.uk/details/used-car-in-tockwith/ford/focus/2.5-rs-3dr/1216383/",
+    "dealer_id": "8742",
+    "car_id": "25036861",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "2.5 RS",
+        "registration_number": "YE60OPY",
+        "registration_date": "18/11/2010",
+        "mileage": 24997,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36000,
+        "total_price": 36000,
+        "deposit": 3600,
+        "balance": 32400,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 679.86,
+        "final_payment": 689.86,
+        "total_amount_payable": 44401.6,
+        "total_charge_for_credit": 8401.6,
+        "amount_of_credit": 32400,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:41:33.619Z",
+    "timestamp": "2025-05-15T14:52:07.473Z",
     "source": "new_vehicle_finance",
     "url": "https://www.vehicletradecentre.com/used-mercedes-benz-glc-kilwinning-ayrshire-6695675",
     "dealer_id": "4982",
@@ -12,6 +12,29 @@
         "registration_date": "25/03/2016",
         "mileage": 63429,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16998,
+        "total_price": 16998,
+        "deposit": 1699,
+        "balance": 15299,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 348.65,
+        "final_payment": 358.65,
+        "balloon": 0,
+        "total_amount_payable": 22628,
+        "total_charge_for_credit": 5630,
+        "amount_of_credit": 15299,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 358.65
       },
       {
         "type": "finance_hp",

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:23:05.732Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bowkermotorgroup.co.uk/mini-used-cars/asset/2021-mini-countryman-cooper-classic-2",
+    "dealer_id": "6025",
+    "car_id": "26420640",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HX21NWE",
+        "registration_date": "20/03/2021",
+        "mileage": 34851,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 417.89,
+        "final_payment": 417.89,
+        "total_amount_payable": 21907.72,
+        "total_charge_for_credit": 3417.72,
+        "amount_of_credit": 16641,
+        "lender": "Mini Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

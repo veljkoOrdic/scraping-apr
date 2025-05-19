@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:50:16.634Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xenonautomotive.co.uk/used-bmw-3-series-welwyn-garden-city-hertfordshire-6899023",
+    "dealer_id": "7060",
+    "car_id": "27393851",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK67OEV",
+        "registration_date": "01/09/2017",
+        "mileage": 32664,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17690,
+        "total_price": 17690,
+        "deposit": 1769,
+        "balance": 15921,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 344.8,
+        "final_payment": 354.8,
+        "balloon": 0,
+        "total_amount_payable": 22467,
+        "total_charge_for_credit": 4777,
+        "amount_of_credit": 15921,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 354.8
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17690,
+        "total_price": 17690,
+        "deposit": 1769,
+        "balance": 15921,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 327.08,
+        "final_payment": 328.08,
+        "total_amount_payable": 21394.8,
+        "total_charge_for_credit": 3704.8,
+        "amount_of_credit": 15921,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:36:25.718Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehighlinecargroup.co.uk/used/cars/ford/fiesta/1-0-fiesta-zetec-t-5dr-274",
+    "dealer_id": "7922",
+    "car_id": "27785836",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG65ERY",
+        "registration_date": "08/12/2015",
+        "mileage": 94420,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3895,
+        "total_price": 3895,
+        "deposit": 389.5,
+        "balance": 3505.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 73.58,
+        "final_payment": 73.58,
+        "total_amount_payable": 4804.3,
+        "total_charge_for_credit": 909.3,
+        "amount_of_credit": 3505.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

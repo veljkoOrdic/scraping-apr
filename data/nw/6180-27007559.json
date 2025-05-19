@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:46:19.476Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.themotor.company/used/kia/sportage/16-crdi-48v-isg-4-5dr-dct-auto-awd/taunton/somerset/21537398",
+    "dealer_id": "6180",
+    "car_id": "27007559",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ70WCX",
+        "registration_date": "07/09/2020",
+        "mileage": 53685,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 1699.9,
+        "balance": 15299.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 334.89,
+        "final_payment": 335.89,
+        "total_amount_payable": 21794.3,
+        "total_charge_for_credit": 4795.3,
+        "amount_of_credit": 15299.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16999,
+        "total_price": 16999,
+        "deposit": 1699.9,
+        "balance": 15299.1,
+        "apr": 11.9,
+        "rate_of_interest": 5.89,
+        "term": 49,
+        "regular_payment": 308.11,
+        "final_payment": 5450.5,
+        "total_amount_payable": 21939.68,
+        "total_charge_for_credit": 4940.68,
+        "amount_of_credit": 15299.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5449.5,
+        "price_to_buy": 5450.5
+      }
+    ]
+  }
+]

@@ -1,18 +1,22 @@
 [
   {
-    "timestamp": "2025-04-14T22:52:49.397Z",
+    "timestamp": "2025-05-15T16:58:32.378Z",
     "source": "new_vehicle_finance",
     "url": "https://www.smvcommercials.co.uk/vehicle-details/used-man-tgs-tgs-35-400-8x4-bb-for-sale-smv-trucks-only-u239/",
     "dealer_id": "2612",
     "car_id": "24176939",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "SN63EOS",
-        "registration_date": "12/09/2013",
-        "mileage": 263371,
-        "status": "Used"
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.smvcommercials.co.uk&quoteeUid=ea6422a5-c5c6-497d-8011-00c8f3d9bc5f&class=Truck&condition=Used&vrm=SN63EOS&registrationDate=12/09/2013&cashPrice=16295&vatIncluded=false&vatQualifying=true&currentOdometerReading=263371&vehicleImageUrl=https://img.cdn.dragon2000.net/C3754/U239/IMG_5320-large.jpg&cashDeposit=1629.5&term=60&annualDistance=10000&usePersistedOptions=false&excludeVatAsDeposit=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.smvcommercials.co.uk&quoteeUid=ea6422a5-c5c6-497d-8011-00c8f3d9bc5f&class=Truck&condition=Used&vrm=SN63EOS&registrationDate=12%2F09%2F2013&cashPrice=16295&vatIncluded=false&vatQualifying=true&currentOdometerReading=263371&vehicleImageUrl=https%3A%2F%2Fimg.cdn.dragon2000.net%2FC3754%2FU239%2FIMG_5320-large.jpg&cashDeposit=1629.5&term=60&annualDistance=10000&usePersistedOptions=false&excludeVatAsDeposit=false&origin=https%3A%2F%2Fwww.smvcommercials.co.uk%2Fvehicle-details%2Fused-man-tgs-tgs-35-400-8x4-bb-for-sale-smv-trucks-only-u239%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df"
+      ]
+    }
   }
 ]

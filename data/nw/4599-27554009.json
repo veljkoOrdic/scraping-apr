@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:18.820Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-mercedes-benz-c-class-liverpool-merseyside-6819179",
+    "dealer_id": "4599",
+    "car_id": "27554009",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR72EWZ",
+        "registration_date": "03/01/2023",
+        "mileage": 3352,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40996,
+        "total_price": 40996,
+        "deposit": 1000,
+        "balance": 39996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 839.42,
+        "final_payment": 849.42,
+        "total_amount_payable": 51375.2,
+        "total_charge_for_credit": 10379.2,
+        "amount_of_credit": 39996,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40996,
+        "total_price": 40996,
+        "deposit": 1000,
+        "balance": 39996,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 642.46,
+        "final_payment": 21190.75,
+        "total_amount_payable": 53028.83,
+        "total_charge_for_credit": 12032.83,
+        "amount_of_credit": 39996,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.22,
+        "residual": 21180.75,
+        "price_to_buy": 21190.75
+      }
+    ]
+  }
+]

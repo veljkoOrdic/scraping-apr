@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:00:19.784Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/used-vans/toyota-hilux-2-8-d-4d-invincible-x-auto-4wd-euro-6-s-s-4dr-4-door-pickup-grey/ma22xgr",
+    "dealer_id": "8076",
+    "car_id": "27921066",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA22XGR",
+        "registration_date": "12/04/2022",
+        "mileage": 18103,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46798.8,
+        "total_price": 46798.8,
+        "deposit": 11699.8,
+        "balance": 35099,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 896.78,
+        "final_payment": 897.78,
+        "total_amount_payable": 54746.24,
+        "total_charge_for_credit": 7947.44,
+        "amount_of_credit": 35099,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:07:11.425Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carshunt.co.uk/details/used-car-in-havering/tesla/model3/dual-motor-long-range-auto-4wde-4dr/1290342/",
+    "dealer_id": "4643",
+    "car_id": "25985675",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ71UNE",
+        "registration_date": "27/09/2021",
+        "mileage": 43612,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 999.75,
+        "balance": 18995.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 398.71,
+        "final_payment": 399.71,
+        "total_amount_payable": 24923.35,
+        "total_charge_for_credit": 4928.35,
+        "amount_of_credit": 18995.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 999.75,
+        "balance": 18995.25,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 345.68,
+        "final_payment": 7689.7,
+        "total_amount_payable": 25282.09,
+        "total_charge_for_credit": 5287.09,
+        "amount_of_credit": 18995.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 7688.7,
+        "price_to_buy": 7689.7
+      }
+    ]
+  }
+]

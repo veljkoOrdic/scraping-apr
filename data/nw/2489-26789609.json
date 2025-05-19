@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:53:24.050Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.christchurchmotorcompany.co.uk/used-abarth-124-spider-christchurch-dorset-6626003",
+    "dealer_id": "2489",
+    "car_id": "26789609",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BW18NGJ",
+        "registration_date": "31/07/2018",
+        "mileage": 21800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 100,
+        "balance": 16895,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 354.51,
+        "final_payment": 364.51,
+        "total_amount_payable": 21380.6,
+        "total_charge_for_credit": 4385.6,
+        "amount_of_credit": 16895,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

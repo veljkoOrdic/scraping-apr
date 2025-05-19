@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:51:46.452Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastangliacarsales.co.uk/details/used-car-in-newbourne-road/landrover/rangeroversport/3.0-sd-v6-hse-auto-4wd-euro-6-ss-5dr/1348962/",
+    "dealer_id": "7545",
+    "car_id": "26708527",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GD68FRN",
+        "registration_date": "31/01/2019",
+        "mileage": 69388,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 10,
+        "balance": 25985,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 580.57,
+        "final_payment": 581.57,
+        "total_amount_payable": 34845.2,
+        "total_charge_for_credit": 8850.2,
+        "amount_of_credit": 25985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:24:49.083Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pricelessautos.co.uk/used-bmw-5-series-middlesex-middlesex-6927188",
+    "dealer_id": "102",
+    "car_id": "27989951",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "SALOON",
+        "derivative": "540i xDrive M Sport",
+        "registration_number": "OW19AKV",
+        "registration_date": "24/05/2019",
+        "mileage": 48500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 434.11,
+        "final_payment": 10810.17,
+        "total_amount_payable": 33863.34,
+        "total_charge_for_credit": 7363.34,
+        "amount_of_credit": 23850,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.21,
+        "residual": 10810.17,
+        "price_to_buy": 10810.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 532.85,
+        "final_payment": 533.85,
+        "total_amount_payable": 34622,
+        "total_charge_for_credit": 8122,
+        "amount_of_credit": 23850,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

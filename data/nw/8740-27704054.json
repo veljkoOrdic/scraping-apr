@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:14:40.305Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjapprovedusedcars.co.uk/details/used-car-in-hinckley/audi/a3/2.0-tdi-35-s-line-s-tronic-euro-6-ss-4dr/1432975/",
+    "dealer_id": "8740",
+    "car_id": "27704054",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RK69HRM",
+        "registration_date": "10/09/2019",
+        "mileage": 72185,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 327.96,
+        "final_payment": 337.96,
+        "balloon": 0,
+        "total_amount_payable": 21286.6,
+        "total_charge_for_credit": 5296.6,
+        "amount_of_credit": 14391,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 337.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 302.07,
+        "final_payment": 303.07,
+        "total_amount_payable": 19724.2,
+        "total_charge_for_credit": 3734.2,
+        "amount_of_credit": 14391,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

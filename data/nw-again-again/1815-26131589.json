@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T13:32:12.631Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hopemotorcompany.co.uk/used-ford-c-max-wrexham-flintshire-6458729",
+    "dealer_id": "1815",
+    "car_id": "26131589",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT62WXR",
+        "registration_date": "08/01/2013",
+        "mileage": 73600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4295,
+        "total_price": 4295,
+        "deposit": 429,
+        "balance": 3866,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 31,
+        "regular_payment": 144.34,
+        "final_payment": 145.34,
+        "total_amount_payable": 4904.54,
+        "total_charge_for_credit": 609.54,
+        "amount_of_credit": 3866,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

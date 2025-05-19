@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:55:25.613Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wynyardmotorcompany.co.uk/used-cars/19457739-volkswagen-transporter-2.0-tdi-t28-startline-fwd-swb-euro-6-s-s-5dr/",
+    "dealer_id": "5950",
+    "car_id": "27614332",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE72ENF",
+        "registration_date": "31/10/2022",
+        "mileage": 19316,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48000,
+        "total_price": 48000,
+        "deposit": 4800,
+        "balance": 43200,
+        "apr": 10.9,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 926.96,
+        "final_payment": 927.96,
+        "total_amount_payable": 60418.6,
+        "total_charge_for_credit": 12418.6,
+        "amount_of_credit": 43200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

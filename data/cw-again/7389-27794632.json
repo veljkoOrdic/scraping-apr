@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:36:44.575Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.farlan.co.uk/used/cars/bmw/x7/3-0-40d-mht-m-sport-suv-5dr-diesel-hybrid-auto-xdrive-euro-6-ultimate-packa-929",
+    "dealer_id": "7389",
+    "car_id": "27794632",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "BENTAYGA",
+        "variant": "ESTATE",
+        "derivative": "4.0 V8",
+        "registration_number": "SC69UZY",
+        "registration_date": "04/10/2019",
+        "mileage": 42498,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 75450,
+        "total_price": 75450,
+        "deposit": 7545,
+        "balance": 67905,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 52,
+        "regular_payment": 1235.48,
+        "final_payment": 24396.27,
+        "total_amount_payable": 94950.75,
+        "total_charge_for_credit": 19500.75,
+        "amount_of_credit": 67905,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 43333,
+        "excess_mileage_rate": 14.89,
+        "residual": 24396.27,
+        "price_to_buy": 24396.27
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75450,
+        "total_price": 75450,
+        "deposit": 7545,
+        "balance": 67905,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1425.44,
+        "final_payment": 1425.44,
+        "total_amount_payable": 93071.4,
+        "total_charge_for_credit": 17621.4,
+        "amount_of_credit": 67905,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

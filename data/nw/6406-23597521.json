@@ -1,62 +1,21 @@
 [
   {
-    "timestamp": "2025-04-15T01:17:23.841Z",
+    "timestamp": "2025-05-15T18:09:01.332Z",
     "source": "new_vehicle_finance",
     "url": "https://www.yorkshirevehiclesolutions.co.uk/used/porsche/911/30t-992-carrera-pdk-euro-6-ss-2dr/york/north-yorkshire/21189757",
     "dealer_id": "6406",
     "car_id": "23597521",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "KE70RTX",
-        "registration_date": "01/09/2020",
-        "mileage": 9800,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 78995,
-        "total_price": 78995,
-        "deposit": 7899.5,
-        "balance": 71095.5,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 1785.35,
-        "final_payment": 1786.35,
-        "total_amount_payable": 93597.3,
-        "total_charge_for_credit": 14602.3,
-        "amount_of_credit": 71095.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 78995,
-        "total_price": 78995,
-        "deposit": 7899.5,
-        "balance": 71095.5,
-        "apr": 9.9,
-        "rate_of_interest": 4.86,
-        "term": 49,
-        "regular_payment": 1191.85,
-        "final_payment": 34750.21,
-        "total_amount_payable": 99858.51,
-        "total_charge_for_credit": 20863.51,
-        "amount_of_credit": 71095.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.34,
-        "residual": 34749.21,
-        "price_to_buy": 34750.21
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.yorkshirevehiclesolutions.&usePersistedOptions=false&quoteeUid=876a1d0c-6359-4ad6-9a50-f45faffd1550&class=car&condition=used&vrm=KE70RTX&registrationDate=01/09/2020&capId=90860&cashPrice=77995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=9800&vehicleImageUrl=https://www.yorkshirevehiclesolutions.co.uk/media/images/191995139/porsche-911-petrol-coupe.jpg&term=48&cashDeposit=7799.5&annualDistance=10000&random=p8632n",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.yorkshirevehiclesolutions.&usePersistedOptions=false&quoteeUid=876a1d0c-6359-4ad6-9a50-f45faffd1550&class=car&condition=used&vrm=KE70RTX&registrationDate=01%2F09%2F2020&capId=90860&cashPrice=77995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=9800&vehicleImageUrl=https%3A%2F%2Fwww.yorkshirevehiclesolutions.co.uk%2Fmedia%2Fimages%2F191995139%2Fporsche-911-petrol-coupe.jpg&term=48&cashDeposit=7799.5&annualDistance=10000&random=p8632n&origin=https%3A%2F%2Fwww.yorkshirevehiclesolutions.co.uk%2Fused%2Fporsche%2F911%2F30t-992-carrera-pdk-euro-6-ss-2dr%2Fyork%2Fnorth-yorkshire%2F21189757&widgetId=iv-finance-widget",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

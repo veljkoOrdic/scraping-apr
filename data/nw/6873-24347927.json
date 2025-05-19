@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:39:25.714Z",
+    "timestamp": "2025-05-15T19:16:26.975Z",
     "source": "new_vehicle_finance",
     "url": "https://www.aylesbury-tradecentre.co.uk/details/used-car-in-aston-clinton/alfaromeo/mito/1.4-tb-lusso-euro-4-3dr/1164319/",
     "dealer_id": "6873",
@@ -12,6 +12,50 @@
         "registration_date": "28/01/2010",
         "mileage": 78737,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 1594,
+        "total_price": 1594,
+        "deposit": 159.4,
+        "balance": 1434.6,
+        "apr": 10.9,
+        "rate_of_interest": 5.62,
+        "term": 60,
+        "regular_payment": 30.63,
+        "final_payment": 40.63,
+        "balloon": 0,
+        "total_amount_payable": 2007.2,
+        "total_charge_for_credit": 413.2,
+        "amount_of_credit": 1434.6,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 40.63
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 1594,
+        "total_price": 1594,
+        "deposit": 159.4,
+        "balance": 1434.6,
+        "apr": 10.9,
+        "rate_of_interest": 5.62,
+        "term": 60,
+        "regular_payment": 30.63,
+        "final_payment": 40.63,
+        "total_amount_payable": 2007.2,
+        "total_charge_for_credit": 413.2,
+        "amount_of_credit": 1434.6,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
       }
     ]
   }

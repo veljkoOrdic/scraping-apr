@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-15T00:58:05.889Z",
+    "timestamp": "2025-05-15T18:01:04.081Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sdautomotiveltd.co.uk/used-porsche-911-carrera-cabriolet-sutton-in-ashfield-nottinghamshire-6020553",
     "dealer_id": "6299",
     "car_id": "24333380",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SG68OHX",
+        "registration_date": "01/09/2018",
+        "mileage": 17851,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 6299,
+        "balance": 56696,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1215.53,
+        "final_payment": 1216.53,
+        "total_amount_payable": 79231.8,
+        "total_charge_for_credit": 16236.8,
+        "amount_of_credit": 56696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

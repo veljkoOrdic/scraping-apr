@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:38:49.540Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pontardawecarsales.co.uk/cars/abarth/595/**1.4-t-jet-turismo-165**only-16,000-miles-1owner+dealer-hpi-clear**flawless-original-car**/977040/",
+    "dealer_id": "8385",
+    "car_id": "21695673",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU67VOG",
+        "registration_date": "10/01/2018",
+        "mileage": 16023,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11790,
+        "total_price": 11790,
+        "deposit": 1179,
+        "balance": 10611,
+        "apr": 13.6,
+        "rate_of_interest": 7.18,
+        "term": 60,
+        "regular_payment": 240.33,
+        "final_payment": 250.33,
+        "total_amount_payable": 15608.8,
+        "total_charge_for_credit": 3818.8,
+        "amount_of_credit": 10611,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

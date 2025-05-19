@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:45:16.649Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mainlineuksales.co.uk/used-dacia-duster-dunston-tyne-and-wear-6837129",
+    "dealer_id": "142",
+    "car_id": "27621199",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP63ZSV",
+        "registration_date": "31/10/2013",
+        "mileage": 88765,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3474,
+        "total_price": 3474,
+        "deposit": 0,
+        "balance": 3474,
+        "apr": 13.9,
+        "rate_of_interest": 7.18,
+        "term": 41,
+        "regular_payment": 105.51,
+        "final_payment": 106.51,
+        "total_amount_payable": 4326.91,
+        "total_charge_for_credit": 852.91,
+        "amount_of_credit": 3474,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

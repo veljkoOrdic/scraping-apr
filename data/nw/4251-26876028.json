@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:09:09.057Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-mercedes-benz-eqe-sidcup-kent-6647145",
+    "dealer_id": "4251",
+    "car_id": "26876028",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ22YGA",
+        "registration_date": "29/06/2022",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 6799,
+        "balance": 27196,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 558.71,
+        "final_payment": 559.71,
+        "total_amount_payable": 40322.6,
+        "total_charge_for_credit": 6327.6,
+        "amount_of_credit": 27196,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 6799,
+        "balance": 27196,
+        "apr": 8.9,
+        "rate_of_interest": 4.34,
+        "term": 49,
+        "regular_payment": 370.27,
+        "final_payment": 17266.44,
+        "total_amount_payable": 41838.4,
+        "total_charge_for_credit": 7843.4,
+        "amount_of_credit": 27196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 17265.44,
+        "price_to_buy": 17266.44
+      }
+    ]
+  }
+]

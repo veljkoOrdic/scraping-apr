@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-05-15T15:55:17.507Z",
+    "source": "scuk_calculator_v1",
+    "url": "https://www.csgmotorcompany.com/used/porsche/macan/s-5dr-pdk-fpsh-pasm-camera-/chalfont-st-giles/buckinghamshire/21487076",
+    "dealer_id": "8108",
+    "car_id": "26498293",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "Macan",
+        "derivative": "S 5dr PDK -FPSH - PASM - CAMERA -",
+        "variant": null,
+        "registration_number": "LD70JHA",
+        "registration_date": "2020-09-25",
+        "mileage": "42501",
+        "status": "USED"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "CS",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3600,
+        "balance": null,
+        "apr": "10.9",
+        "rate_of_interest": "5.66",
+        "term": "48",
+        "regular_payment": "827.58",
+        "final_payment": "827.58",
+        "total_amount_payable": 43323.84,
+        "total_charge_for_credit": "7333.84",
+        "amount_of_credit": "32390.00",
+        "lender": "Santander Car",
+        "annual_mileage": null,
+        "contract_mileage": null,
+        "excess_mileage_rate": null,
+        "residual": null,
+        "price_to_buy": null
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3600,
+        "balance": null,
+        "apr": "10.9",
+        "rate_of_interest": "5.66",
+        "term": "48",
+        "regular_payment": "527.72",
+        "final_payment": "17905.83",
+        "total_amount_payable": 46836.39,
+        "total_charge_for_credit": "10846.39",
+        "amount_of_credit": "32390.00",
+        "lender": "Santander Car",
+        "annual_mileage": "8000",
+        "contract_mileage": "8000",
+        "excess_mileage_rate": "14.9",
+        "residual": "17905.83",
+        "price_to_buy": "17905.83"
+      }
+    ]
+  }
+]

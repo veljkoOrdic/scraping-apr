@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:56:55.516Z",
+    "timestamp": "2025-05-15T17:52:29.183Z",
     "source": "new_vehicle_finance",
     "url": "https://www.windmillautosltd.co.uk/used-ford-escort-bedfordshire-bedfordshire-6733460",
     "dealer_id": "3763",
@@ -12,6 +12,29 @@
         "registration_date": "01/02/1990",
         "mileage": 10,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26450,
+        "total_price": 26450,
+        "deposit": 2645,
+        "balance": 23805,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 520.98,
+        "final_payment": 530.98,
+        "balloon": 0,
+        "total_amount_payable": 33913.8,
+        "total_charge_for_credit": 7463.8,
+        "amount_of_credit": 23805,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 530.98
       }
     ]
   }

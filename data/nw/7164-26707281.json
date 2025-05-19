@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:30.968Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-tucson-1-6t-gdi-hybrid-premium-5dr-automatic-5-door-suv-grey/ck74udt",
+    "dealer_id": "7164",
+    "car_id": "26707281",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK74UDT",
+        "registration_date": "30/09/2024",
+        "mileage": 4489,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30953,
+        "total_price": 30953,
+        "deposit": 0,
+        "balance": 30953,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 663.62,
+        "final_payment": 663.62,
+        "total_amount_payable": 39817.2,
+        "total_charge_for_credit": 8864.2,
+        "amount_of_credit": 30953,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30953,
+        "total_price": 30953,
+        "deposit": 0,
+        "balance": 30953,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 554.05,
+        "final_payment": 14140.81,
+        "total_amount_payable": 40735.21,
+        "total_charge_for_credit": 9782.21,
+        "amount_of_credit": 30953,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.149,
+        "residual": 14140.81,
+        "price_to_buy": 14140.81
+      }
+    ]
+  }
+]

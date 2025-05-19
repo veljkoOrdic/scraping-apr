@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:02:23.821Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/honda/used-cars/honda-jazz-1-5-h-i-mmd-sr-ecvt-euro-6-s-s-5dr-sj70ccf",
+    "dealer_id": "7642",
+    "car_id": "26943472",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "JAZZ",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 i-MMD Hybrid SR eCVT",
+        "registration_number": "SJ70CCF",
+        "registration_date": "21/12/2020",
+        "mileage": 20620,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 210.58,
+        "final_payment": 8157.11,
+        "total_amount_payable": 19553.87,
+        "total_charge_for_credit": 4558.87,
+        "amount_of_credit": 13495.5,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.78,
+        "residual": 8147.11,
+        "price_to_buy": 8157.11
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14995,
+        "total_price": 14995,
+        "deposit": 1499.5,
+        "balance": 13495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 344.7,
+        "final_payment": 354.7,
+        "total_amount_payable": 18055.1,
+        "total_charge_for_credit": 3060.1,
+        "amount_of_credit": 13495.5,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

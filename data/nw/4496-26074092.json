@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T16:43:53.191Z",
+    "timestamp": "2025-05-15T18:48:32.235Z",
     "source": "new_vehicle_finance",
     "url": "https://www.dalesautomotive.co.uk/used-mercedes-benz-gle-kelbrook-lancashire-6443689",
     "dealer_id": "4496",
     "car_id": "26074092",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GU69WCG",
+        "registration_date": "30/09/2019",
+        "mileage": 32584,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36495,
+        "total_price": 36495,
+        "deposit": 3649,
+        "balance": 32846,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 810.45,
+        "final_payment": 811.45,
+        "total_amount_payable": 42551.6,
+        "total_charge_for_credit": 6056.6,
+        "amount_of_credit": 32846,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

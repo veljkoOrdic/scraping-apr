@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:19:19.509Z",
+    "timestamp": "2025-05-15T16:41:20.170Z",
     "source": "new_vehicle_finance",
     "url": "https://www.georgekingsley.co.uk/used/cars/mercedes-benz/g-series/amg-g-63-4matic-magno-edition-delivery-mileage-2136",
     "dealer_id": "5725",
@@ -12,6 +12,29 @@
         "registration_date": "31/07/2023",
         "mileage": 154,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 189995,
+        "total_price": 189995,
+        "deposit": 39995,
+        "balance": 150000,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 3898.45,
+        "final_payment": 3898.45,
+        "balloon": 0,
+        "total_amount_payable": 227120.6,
+        "total_charge_for_credit": 37125.6,
+        "amount_of_credit": 150000,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 3898.45
       },
       {
         "type": "finance_hp",
@@ -43,19 +66,19 @@
         "deposit": 28499.25,
         "balance": 100000,
         "apr": 9.9,
-        "rate_of_interest": 4.74,
+        "rate_of_interest": 4.75,
         "term": 49,
-        "regular_payment": 985.33,
-        "final_payment": 89340.4,
-        "total_amount_payable": 226631.24,
-        "total_charge_for_credit": 36636.24,
+        "regular_payment": 1002.26,
+        "final_payment": 88349.2,
+        "total_amount_payable": 226452.68,
+        "total_charge_for_credit": 36457.68,
         "amount_of_credit": 100000,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 8000,
         "contract_mileage": 32667,
-        "excess_mileage_rate": 0.76,
-        "residual": 89339.4,
-        "price_to_buy": 89340.4
+        "excess_mileage_rate": 0.74,
+        "residual": 88348.2,
+        "price_to_buy": 88349.2
       }
     ]
   }

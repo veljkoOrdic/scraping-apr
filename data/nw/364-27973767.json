@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:16:22.526Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bankmotors.co.uk/used-volvo-xc90-glasgow-lanarkshire-6925376",
+    "dealer_id": "364",
+    "car_id": "27973767",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF68UAG",
+        "registration_date": "01/09/2018",
+        "mileage": 68000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 540.18,
+        "final_payment": 541.18,
+        "total_amount_payable": 35210.8,
+        "total_charge_for_credit": 7215.8,
+        "amount_of_credit": 25196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

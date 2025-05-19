@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:58:39.226Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stocktonkia.co.uk/used-car/used/kia-sportage-1.6-t-gdi-gt-line-suv-5dr-petrol-manual-euro-6-(s/s)-(148-bhp)-in-stockton-on-tees-teesside/59202",
+    "dealer_id": "5758",
+    "car_id": "26096608",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi ISG GT-Line",
+        "registration_number": "NU22HZH",
+        "registration_date": "30/03/2022",
+        "mileage": 32245,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21199,
+        "total_price": 21199,
+        "deposit": 4239.8,
+        "balance": 16959.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 268.45,
+        "final_payment": 9217.49,
+        "total_amount_payable": 26342.89,
+        "total_charge_for_credit": 5143.89,
+        "amount_of_credit": 16959.2,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 9217.49,
+        "price_to_buy": 9217.49
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21199,
+        "total_price": 21199,
+        "deposit": 4239.8,
+        "balance": 16959.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 355.99,
+        "final_payment": 355.99,
+        "total_amount_payable": 25599.2,
+        "total_charge_for_credit": 4400.2,
+        "amount_of_credit": 16959.2,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

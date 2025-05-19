@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:43:18.489Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jimreidvehiclesales.co.uk/used/cars/kia/sportage/gt-line-1008",
+    "dealer_id": "5100",
+    "car_id": "28040749",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi 207 HEV GT-Line",
+        "registration_number": "FH24TUY",
+        "registration_date": "09/07/2024",
+        "mileage": 2771,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30999,
+        "total_price": 30999,
+        "deposit": 3099.9,
+        "balance": 27899.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 474.35,
+        "final_payment": 15262,
+        "total_amount_payable": 41130.7,
+        "total_charge_for_credit": 10131.7,
+        "amount_of_credit": 27899.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 15252,
+        "price_to_buy": 15262
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30999,
+        "total_price": 30999,
+        "deposit": 3099.9,
+        "balance": 27899.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 724.92,
+        "final_payment": 734.92,
+        "total_amount_payable": 37906.06,
+        "total_charge_for_credit": 6907.06,
+        "amount_of_credit": 27899.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T23:58:08.340Z",
+    "timestamp": "2025-05-15T17:45:49.572Z",
     "source": "new_vehicle_finance",
     "url": "https://www.we-sell-any-car.com/used-bmw-1-series-peterborough-cambridgeshire-6454375",
     "dealer_id": "8425",
@@ -12,6 +12,29 @@
         "registration_date": "31/03/2017",
         "mileage": 60962,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8957,
+        "total_price": 8957,
+        "deposit": 895,
+        "balance": 8062,
+        "apr": 15.9,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 191.02,
+        "final_payment": 191.02,
+        "balloon": 0,
+        "total_amount_payable": 12356.2,
+        "total_charge_for_credit": 3399.2,
+        "amount_of_credit": 8062,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 191.02
       },
       {
         "type": "finance_hp",

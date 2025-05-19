@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:48:33.570Z",
+    "timestamp": "2025-05-15T18:23:28.068Z",
     "source": "new_vehicle_finance",
     "url": "https://www.imperials.co.uk/used-car-details/used-mercedes-benz-r-class-30-r320-cdi-se-l-7g-tronic-5d-mpv-cubanite-silver-metallic-automatic-diesel/id-202502139085387/",
     "dealer_id": "6559",
@@ -12,6 +12,29 @@
         "registration_date": "21/09/2006",
         "mileage": 72000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7948,
+        "total_price": 7948,
+        "deposit": 2781,
+        "balance": 5167,
+        "apr": 9.9,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 108.33,
+        "final_payment": 118.33,
+        "balloon": 0,
+        "total_amount_payable": 9290.8,
+        "total_charge_for_credit": 1342.8,
+        "amount_of_credit": 5167,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 118.33
       }
     ]
   }

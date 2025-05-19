@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T13:19:14.726Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.libertygreencars.co.uk/used/cars/land-rover/defender/3-0-defender-x-dynamic-hse-d-mhev-auto-4wd-3dr-8570",
+    "dealer_id": "1479",
+    "car_id": "27919948",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic HSE 90 [6 Seat]",
+        "registration_number": "AE22RCZ",
+        "registration_date": "23/03/2022",
+        "mileage": 29000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 5499,
+        "balance": 49491,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 790.27,
+        "final_payment": 26491.25,
+        "total_amount_payable": 69923.21,
+        "total_charge_for_credit": 14933.21,
+        "amount_of_credit": 49491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.59,
+        "residual": 26481.25,
+        "price_to_buy": 26491.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54990,
+        "total_price": 54990,
+        "deposit": 5499,
+        "balance": 49491,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1242.82,
+        "final_payment": 1243.82,
+        "total_amount_payable": 65155.36,
+        "total_charge_for_credit": 10165.36,
+        "amount_of_credit": 49491,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

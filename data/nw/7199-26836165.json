@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:55:47.715Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.m4sales.co.uk/vehicle-details/used-ford-tourneo-custom-l1-320-ecoblue-titanium-for-sale-minibus-centre-u6946/",
+    "dealer_id": "7199",
+    "car_id": "26836165",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EN22DYX",
+        "registration_date": "21/07/2022",
+        "mileage": 19500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31194,
+        "total_price": 31194,
+        "deposit": 5199,
+        "balance": 25995,
+        "apr": 13.4,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 586.18,
+        "final_payment": 586.18,
+        "balloon": 0,
+        "total_amount_payable": 40369.8,
+        "total_charge_for_credit": 9175.8,
+        "amount_of_credit": 25995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 586.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31194,
+        "total_price": 31194,
+        "deposit": 0,
+        "balance": 25995,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 592.6,
+        "final_payment": 593.6,
+        "total_amount_payable": 40756,
+        "total_charge_for_credit": 9562,
+        "amount_of_credit": 25995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:33.873Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bbcars.co.uk/used-audi-a1-bridport-dorset-6689366",
+    "dealer_id": "6800",
+    "car_id": "27032957",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK SPECIAL EDITIONS",
+        "derivative": "1.4 TFSI 150 Black Edition",
+        "registration_number": "LC17HXD",
+        "registration_date": "28/04/2017",
+        "mileage": 57400,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 275.64,
+        "final_payment": 275.64,
+        "total_amount_payable": 17937.4,
+        "total_charge_for_credit": 3947.4,
+        "amount_of_credit": 12591,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

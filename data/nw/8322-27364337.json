@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:27:43.259Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.simpsonmotors.co.uk/used-bmw-x1-fife-scotland-6773995",
+    "dealer_id": "8322",
+    "car_id": "27364337",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST23WKB",
+        "registration_date": "20/06/2023",
+        "mileage": 14156,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 4875,
+        "balance": 27625,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 579.86,
+        "final_payment": 580.86,
+        "total_amount_payable": 39667.6,
+        "total_charge_for_credit": 7167.6,
+        "amount_of_credit": 27625,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 4875,
+        "balance": 27625,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 439.64,
+        "final_payment": 14876.5,
+        "total_amount_payable": 40854.22,
+        "total_charge_for_credit": 8354.22,
+        "amount_of_credit": 27625,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.14,
+        "residual": 14875.5,
+        "price_to_buy": 14876.5
+      }
+    ]
+  }
+]

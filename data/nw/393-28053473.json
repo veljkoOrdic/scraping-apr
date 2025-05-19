@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:20:28.051Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browns-autos.co.uk/details/used-car-in-portslade/kia/picanto/1.25-2-auto-euro-5-5dr/1465836/",
+    "dealer_id": "393",
+    "car_id": "28053473",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP14XXZ",
+        "registration_date": "02/04/2014",
+        "mileage": 26565,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7995,
+        "total_price": 7995,
+        "deposit": 799.5,
+        "balance": 7195.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 151.04,
+        "final_payment": 151.04,
+        "total_amount_payable": 9861.9,
+        "total_charge_for_credit": 1866.9,
+        "amount_of_credit": 7195.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

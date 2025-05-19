@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:59:22.194Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stocktonkia.co.uk/used-car/used/kia-sportage-1.6-h-t-gdi-4-suv-5dr-petrol-hybrid-auto-euro-6-(s/s)-(226-bhp)-in-stockton-on-tees-teesside/66587",
+    "dealer_id": "5758",
+    "car_id": "27190971",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "SPORTAGE",
+        "variant": "ESTATE",
+        "derivative": "1.6T GDi HEV 4",
+        "registration_number": "NU22ZTM",
+        "registration_date": "28/06/2022",
+        "mileage": 8987,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30399,
+        "total_price": 30399,
+        "deposit": 6079.8,
+        "balance": 24319.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 376.57,
+        "final_payment": 13708.75,
+        "total_amount_payable": 37863.91,
+        "total_charge_for_credit": 7464.91,
+        "amount_of_credit": 24319.2,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 13708.75,
+        "price_to_buy": 13708.75
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30399,
+        "total_price": 30399,
+        "deposit": 6079.8,
+        "balance": 24319.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 510.48,
+        "final_payment": 510.48,
+        "total_amount_payable": 36708.6,
+        "total_charge_for_credit": 6309.6,
+        "amount_of_credit": 24319.2,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:27:35.982Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.chilhamsportscars.co.uk/used/nissan/qashqai/17-dci-n-connecta-5dr/canterbury/kent/21467170",
+    "dealer_id": "8795",
+    "car_id": "26271501",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.7 dCi N-Connecta",
+        "registration_number": "DL69RYY",
+        "registration_date": "13/11/2019",
+        "mileage": 59000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 0,
+        "balance": 12495,
+        "apr": 14.8,
+        "rate_of_interest": 14.8,
+        "term": 48,
+        "regular_payment": 277.77,
+        "final_payment": 4286.62,
+        "total_amount_payable": 17341.81,
+        "total_charge_for_credit": 4846.81,
+        "amount_of_credit": 12495,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.07,
+        "residual": 4286.62,
+        "price_to_buy": 4286.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 0,
+        "balance": 12495,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 279.16,
+        "final_payment": 279.16,
+        "total_amount_payable": 16749.6,
+        "total_charge_for_credit": 4254.6,
+        "amount_of_credit": 12495,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

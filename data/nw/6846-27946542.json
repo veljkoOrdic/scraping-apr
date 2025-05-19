@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-05-15T19:13:52.540Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lutontradecentre.com/used-tesla-model-y-luton-bedfordshire-6917406",
+    "dealer_id": "6846",
+    "car_id": "27946542",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC72WVY",
+        "registration_date": "24/11/2022",
+        "mileage": 42016,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199,
+        "balance": 28796,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 630.36,
+        "final_payment": 630.36,
+        "balloon": 0,
+        "total_amount_payable": 41020.6,
+        "total_charge_for_credit": 9025.6,
+        "amount_of_credit": 28796,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 630.36
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199,
+        "balance": 28796,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 447.7,
+        "final_payment": 16449,
+        "total_amount_payable": 40689.9,
+        "total_charge_for_credit": 8694.9,
+        "amount_of_credit": 28796,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.15,
+        "residual": 16448,
+        "price_to_buy": 16449
+      }
+    ]
+  }
+]

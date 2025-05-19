@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:05:12.069Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adamsandsons.co.uk/details/used-car-in-oakham/hyundai/i10/1.2-se-euro-6-5dr/1457105/",
+    "dealer_id": "2852",
+    "car_id": "27959792",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NU17DKY",
+        "registration_date": "16/03/2017",
+        "mileage": 19333,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8000,
+        "total_price": 8000,
+        "deposit": 800,
+        "balance": 7200,
+        "apr": 10.6,
+        "rate_of_interest": 5.54,
+        "term": 60,
+        "regular_payment": 153.27,
+        "final_payment": 163.27,
+        "total_amount_payable": 10006.2,
+        "total_charge_for_credit": 2006.2,
+        "amount_of_credit": 7200,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 60000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

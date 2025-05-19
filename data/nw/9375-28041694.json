@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:00:43.697Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fitzroymotorco.co.uk/details/specialist-car-in-ringwood/bmw/m3/3.0-biturbo-cs-dct-euro-6-ss-4dr/1465292/",
+    "dealer_id": "9375",
+    "car_id": "28041694",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CS19MLS",
+        "registration_date": "28/03/2019",
+        "mileage": 42427,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 1099.03,
+        "final_payment": 1109.03,
+        "balloon": 0,
+        "total_amount_payable": 71451.3,
+        "total_charge_for_credit": 16456.3,
+        "amount_of_credit": 49495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1109.03
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 1099.03,
+        "final_payment": 1109.03,
+        "total_amount_payable": 71451.3,
+        "total_charge_for_credit": 16456.3,
+        "amount_of_credit": 49495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

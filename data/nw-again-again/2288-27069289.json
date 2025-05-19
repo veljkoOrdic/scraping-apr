@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:39:15.359Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillagebristol.com/used-jaguar-s-type-bristol-somerset-6700740",
+    "dealer_id": "2288",
+    "car_id": "27069289",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN07XSO",
+        "registration_date": "31/03/2007",
+        "mileage": 71725,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 699,
+        "balance": 6296,
+        "apr": 14.9,
+        "rate_of_interest": 7.88,
+        "term": 60,
+        "regular_payment": 146.28,
+        "final_payment": 156.28,
+        "balloon": 0,
+        "total_amount_payable": 9485.8,
+        "total_charge_for_credit": 2490.8,
+        "amount_of_credit": 6296,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 156.28
+      }
+    ]
+  }
+]

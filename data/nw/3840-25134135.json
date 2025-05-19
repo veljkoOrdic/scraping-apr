@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-15T00:58:15.634Z",
+    "timestamp": "2025-05-15T17:53:19.761Z",
     "source": "new_vehicle_finance",
     "url": "https://www.wealdstonemotors.co.uk/used-bmw-x1-north-harrow-middlesex-6215097",
     "dealer_id": "3840",
     "car_id": "25134135",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ71NCC",
+        "registration_date": "22/11/2021",
+        "mileage": 13700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499,
+        "balance": 22496,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 472.2,
+        "final_payment": 473.2,
+        "total_amount_payable": 30832,
+        "total_charge_for_credit": 5837,
+        "amount_of_credit": 22496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499,
+        "balance": 22496,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 391.75,
+        "final_payment": 10139.05,
+        "total_amount_payable": 31442.05,
+        "total_charge_for_credit": 6447.05,
+        "amount_of_credit": 22496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 10138.05,
+        "price_to_buy": 10139.05
+      }
+    ]
   }
 ]

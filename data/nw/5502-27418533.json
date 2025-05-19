@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:50:13.671Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-discovery-discovery-sport-1-5-p300e-urban-edition-5dr-5-door-suv-hakuba-silver/ad72txo",
+    "dealer_id": "5502",
+    "car_id": "27418533",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AD72TXO",
+        "registration_date": "30/11/2022",
+        "mileage": 11053,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31699,
+        "total_price": 31699,
+        "deposit": 3169,
+        "balance": 28530,
+        "apr": 10.9,
+        "rate_of_interest": 10.37,
+        "term": 36,
+        "regular_payment": 925.82,
+        "final_payment": 925.82,
+        "total_amount_payable": 36498.52,
+        "total_charge_for_credit": 4799.52,
+        "amount_of_credit": 28530,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31699,
+        "total_price": 31699,
+        "deposit": 3169,
+        "balance": 28530,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 566.75,
+        "final_payment": 15659,
+        "total_amount_payable": 38664.25,
+        "total_charge_for_credit": 6965.25,
+        "amount_of_credit": 28530,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.04,
+        "residual": 15649,
+        "price_to_buy": 15659
+      }
+    ]
+  }
+]

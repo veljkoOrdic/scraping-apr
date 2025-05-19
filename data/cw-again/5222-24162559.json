@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:00:28.604Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.teesvalleymotors.co.uk/used/ssangyong-korando-e-motion-61.5kwh-ventura-auto-5dr-in-darlington-durham/60861",
+    "dealer_id": "5222",
+    "car_id": "24162559",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ssangyong",
+        "model": "KORANDO",
+        "variant": "E-MOTION ELECTRIC ESTATE",
+        "derivative": "140kW Ventura 61.5kWh",
+        "registration_number": "NU22EFK",
+        "registration_date": "30/03/2022",
+        "mileage": 20020,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 60,
+        "regular_payment": 315.03,
+        "final_payment": 315.03,
+        "total_amount_payable": 20500.8,
+        "total_charge_for_credit": 4510.8,
+        "amount_of_credit": 14391,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 49,
+        "regular_payment": 287.92,
+        "final_payment": 5243,
+        "total_amount_payable": 20662.16,
+        "total_charge_for_credit": 4672.16,
+        "amount_of_credit": 14391,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 5233,
+        "price_to_buy": 5243
+      }
+    ]
+  }
+]

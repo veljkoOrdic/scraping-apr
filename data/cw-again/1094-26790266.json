@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:49:00.705Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-lamborghini-huracan-wigan-lancashire-6623907",
+    "dealer_id": "1094",
+    "car_id": "26790266",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "EVO SPYDER",
+        "derivative": "5.2 V10 640",
+        "registration_number": "AO20ZBR",
+        "registration_date": "04/06/2020",
+        "mileage": 6675,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 199995,
+        "total_price": 199995,
+        "deposit": 19999,
+        "balance": 179996,
+        "apr": 11.6,
+        "rate_of_interest": 6.03,
+        "term": 48,
+        "regular_payment": 4654.4,
+        "final_payment": 4655.4,
+        "total_amount_payable": 243411.2,
+        "total_charge_for_credit": 43416.2,
+        "amount_of_credit": 179996,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 199995,
+        "total_price": 199995,
+        "deposit": 19999,
+        "balance": 179996,
+        "apr": 12.6,
+        "rate_of_interest": 12.6,
+        "term": 48,
+        "regular_payment": 3665.59,
+        "final_payment": 68941.56,
+        "total_amount_payable": 261223.29,
+        "total_charge_for_credit": 61228.29,
+        "amount_of_credit": 179996,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 58.2,
+        "residual": 68941.56,
+        "price_to_buy": 68941.56
+      }
+    ]
+  }
+]

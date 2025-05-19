@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:52:01.336Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-land-rover-defender-110-d250-mhev-x-dynamic-s-for-sale-grm-autos-grange-road-u1591/",
+    "dealer_id": "6238",
+    "car_id": "27931390",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BMZ8547",
+        "registration_date": "21/10/2022",
+        "mileage": 22322,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.67,
+        "term": 60,
+        "regular_payment": 1058.82,
+        "final_payment": 1068.82,
+        "total_amount_payable": 69038.7,
+        "total_charge_for_credit": 14043.7,
+        "amount_of_credit": 49495.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 10.8,
+        "rate_of_interest": 5.61,
+        "term": 49,
+        "regular_payment": 856.43,
+        "final_payment": 24198,
+        "total_amount_payable": 70806.14,
+        "total_charge_for_credit": 15811.14,
+        "amount_of_credit": 49495.5,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 24188,
+        "price_to_buy": 24198
+      }
+    ]
+  }
+]

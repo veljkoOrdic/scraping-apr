@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:25:26.766Z",
+    "timestamp": "2025-05-15T14:44:18.028Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rdmdirect.co.uk/used-mclaren-540c-burton-on-trent-staffordshire-4685427",
     "dealer_id": "131",
@@ -12,6 +12,29 @@
         "registration_date": "03/07/2017",
         "mileage": 24378,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 70000,
+        "total_price": 70000,
+        "deposit": 300,
+        "balance": 69700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 1841.98,
+        "final_payment": 1851.98,
+        "balloon": 0,
+        "total_amount_payable": 88725.04,
+        "total_charge_for_credit": 18725.04,
+        "amount_of_credit": 69700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1851.98
       },
       {
         "type": "finance_hp",

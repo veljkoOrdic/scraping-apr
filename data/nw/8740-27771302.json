@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:14:35.674Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjapprovedusedcars.co.uk/details/used-car-in-hinckley/ford/focus/2.0t-ecoboost-st-3-euro-6-ss-5dr/1439609/",
+    "dealer_id": "8740",
+    "car_id": "27771302",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FX17WFC",
+        "registration_date": "01/03/2017",
+        "mileage": 67487,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12450,
+        "total_price": 12450,
+        "deposit": 1245,
+        "balance": 11205,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 255.32,
+        "final_payment": 265.32,
+        "balloon": 0,
+        "total_amount_payable": 16574.2,
+        "total_charge_for_credit": 4124.2,
+        "amount_of_credit": 11205,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 265.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12450,
+        "total_price": 12450,
+        "deposit": 1245,
+        "balance": 11205,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 235.19,
+        "final_payment": 236.19,
+        "total_amount_payable": 15357.4,
+        "total_charge_for_credit": 2907.4,
+        "amount_of_credit": 11205,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

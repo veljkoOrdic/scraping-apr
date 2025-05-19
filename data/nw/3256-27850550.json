@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:26:24.343Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ktcarsltd.com/used-peugeot-3008-weldon-northamptonshire-6891127",
+    "dealer_id": "3256",
+    "car_id": "27850550",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ64CHO",
+        "registration_date": "01/09/2014",
+        "mileage": 103637,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3695,
+        "total_price": 3695,
+        "deposit": 0,
+        "balance": 3695,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 97.64,
+        "final_payment": 98.64,
+        "total_amount_payable": 4687.72,
+        "total_charge_for_credit": 992.72,
+        "amount_of_credit": 3695,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

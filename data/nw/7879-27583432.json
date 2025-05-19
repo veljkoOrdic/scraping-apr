@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:01:15.112Z",
+    "timestamp": "2025-05-15T16:29:04.981Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bsbautomotive.co.uk/used-land-rover-range-rover-belvedere-london-6829346",
     "dealer_id": "7879",
@@ -12,6 +12,29 @@
         "registration_date": "30/06/2023",
         "mileage": 31500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 84990,
+        "total_price": 84990,
+        "deposit": 8499,
+        "balance": 76491,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1605.47,
+        "final_payment": 1615.47,
+        "balloon": 0,
+        "total_amount_payable": 104837.2,
+        "total_charge_for_credit": 19847.2,
+        "amount_of_credit": 76491,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1615.47
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 8.9,
         "rate_of_interest": 4.61,
         "term": 49,
-        "regular_payment": 1188.76,
-        "final_payment": 40105,
-        "total_amount_payable": 105664.48,
-        "total_charge_for_credit": 20674.48,
+        "regular_payment": 1196.6,
+        "final_payment": 39655,
+        "total_amount_payable": 105590.8,
+        "total_charge_for_credit": 20600.8,
         "amount_of_credit": 76491,
         "lender": "Connected Car Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0,
-        "residual": 40095,
-        "price_to_buy": 40105
+        "residual": 39645,
+        "price_to_buy": 39655
       }
     ]
   }

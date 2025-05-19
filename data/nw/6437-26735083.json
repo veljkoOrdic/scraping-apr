@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:11:01.619Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-mercedes-benz-s-class-peterborough-cambridgeshire-6609383",
+    "dealer_id": "6437",
+    "car_id": "26735083",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF18WEK",
+        "registration_date": "29/06/2018",
+        "mileage": 77400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27490,
+        "total_price": 27490,
+        "deposit": 2749,
+        "balance": 24741,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 541.58,
+        "final_payment": 542.58,
+        "total_amount_payable": 35244.8,
+        "total_charge_for_credit": 7754.8,
+        "amount_of_credit": 24741,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

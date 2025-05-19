@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:12.276Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-ford-focus-hatfield-hertfordshire-6923891",
+    "dealer_id": "4492",
+    "car_id": "27990341",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB66NRO",
+        "registration_date": "31/10/2016",
+        "mileage": 95000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4300,
+        "total_price": 4300,
+        "deposit": 860,
+        "balance": 3440,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 72.2,
+        "final_payment": 73.2,
+        "total_amount_payable": 5193,
+        "total_charge_for_credit": 893,
+        "amount_of_credit": 3440,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

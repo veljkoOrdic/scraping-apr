@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:49:41.333Z",
+    "timestamp": "2025-05-15T15:28:42.100Z",
     "source": "new_vehicle_finance",
     "url": "https://www.squirecars.co.uk/vehicle-details/used-vauxhall-corsa-sting-for-sale-in-abertillery-gwent-u786/",
     "dealer_id": "7340",
@@ -12,6 +12,29 @@
         "registration_date": "31/03/2014",
         "mileage": 95958,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3495,
+        "total_price": 3495,
+        "deposit": 349.5,
+        "balance": 3145.5,
+        "apr": 20.1,
+        "rate_of_interest": 7,
+        "term": 48,
+        "regular_payment": 93.21,
+        "final_payment": 93.21,
+        "balloon": 0,
+        "total_amount_payable": 4823.58,
+        "total_charge_for_credit": 1328.58,
+        "amount_of_credit": 3145.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 93.21
       },
       {
         "type": "finance_hp",

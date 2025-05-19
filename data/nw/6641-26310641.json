@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:11:13.765Z",
+    "timestamp": "2025-05-15T18:39:04.237Z",
     "source": "new_vehicle_finance",
     "url": "https://www.tradecarsandcommercials.co.uk/used-ford-ranger-prudhoe-northumberland-6396710",
     "dealer_id": "6641",
@@ -12,6 +12,29 @@
         "registration_date": "18/09/2019",
         "mileage": 29000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34000,
+        "total_price": 34000,
+        "deposit": 1000,
+        "balance": 33000,
+        "apr": 12.8,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 736.48,
+        "final_payment": 736.48,
+        "balloon": 0,
+        "total_amount_payable": 45188.8,
+        "total_charge_for_credit": 11188.8,
+        "amount_of_credit": 33000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 736.48
       },
       {
         "type": "finance_hp",

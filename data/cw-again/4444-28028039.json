@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:06:50.144Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.owensexpressmotors.co.uk/used-porsche-macan-liverpool-mersyside-6938646",
+    "dealer_id": "4444",
+    "car_id": "28028039",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "Turbo PDK",
+        "registration_number": "LX21PYW",
+        "registration_date": "11/03/2021",
+        "mileage": 60859,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 4500,
+        "balance": 40500,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 654.94,
+        "final_payment": 19219.62,
+        "total_amount_payable": 62361.08,
+        "total_charge_for_credit": 17361.08,
+        "amount_of_credit": 40500,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.09,
+        "residual": 19219.62,
+        "price_to_buy": 19219.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45000,
+        "total_price": 45000,
+        "deposit": 4500,
+        "balance": 40500,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 886.55,
+        "final_payment": 887.55,
+        "total_amount_payable": 57694,
+        "total_charge_for_credit": 12694,
+        "amount_of_credit": 40500,
+        "lender": "Eurodrive",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

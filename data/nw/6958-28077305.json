@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:44:07.294Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.car-adviser.co.uk/details/used-car-in-fareham/honda/cr-v/1.5-vtec-turbo-ex-4wd-euro-6-ss-5dr/1468098/",
+    "dealer_id": "6958",
+    "car_id": "28077305",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WE57GJW",
+        "registration_date": "29/06/2019",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20490,
+        "total_price": 20490,
+        "deposit": 2500,
+        "balance": 17990,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 377.61,
+        "final_payment": 378.61,
+        "total_amount_payable": 25157.6,
+        "total_charge_for_credit": 4667.6,
+        "amount_of_credit": 17990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

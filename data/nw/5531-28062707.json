@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:54:39.007Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cardifftradesales.co.uk/used-land-rover-range-rover-sport-cardiff-south-glamorgan-6948249",
+    "dealer_id": "5531",
+    "car_id": "28062707",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV68KNZ",
+        "registration_date": "25/10/2018",
+        "mileage": 68251,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33991,
+        "total_price": 33991,
+        "deposit": 3399,
+        "balance": 30592,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 628.46,
+        "final_payment": 629.46,
+        "total_amount_payable": 41107.6,
+        "total_charge_for_credit": 7116.6,
+        "amount_of_credit": 30592,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

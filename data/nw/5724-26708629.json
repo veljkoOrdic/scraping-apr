@@ -1,62 +1,21 @@
 [
   {
-    "timestamp": "2025-04-14T22:11:14.624Z",
+    "timestamp": "2025-05-15T16:38:45.811Z",
     "source": "new_vehicle_finance",
     "url": "https://www.hawkins.co.uk/used-car-details/used-nissan-x-trail-15-h-e-power-n-trek-suv-5dr-p-suv-silver-automatic-petrol-hybrid/id-10918/",
     "dealer_id": "5724",
     "car_id": "26708629",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "WL74BOJ",
-        "registration_date": "28/11/2024",
-        "mileage": 1000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 40999,
-        "total_price": 40999,
-        "deposit": 4099,
-        "balance": 36900,
-        "apr": 13.9,
-        "rate_of_interest": 7.36,
-        "term": 60,
-        "regular_payment": 841.21,
-        "final_payment": 841.21,
-        "total_amount_payable": 54571.6,
-        "total_charge_for_credit": 13572.6,
-        "amount_of_credit": 36900,
-        "lender": "RCI Financial Services Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 40999,
-        "total_price": 40999,
-        "deposit": 4099,
-        "balance": 36900,
-        "apr": 13.9,
-        "rate_of_interest": 7.24,
-        "term": 48,
-        "regular_payment": 747.32,
-        "final_payment": 16042.5,
-        "total_amount_payable": 55265.54,
-        "total_charge_for_credit": 14266.54,
-        "amount_of_credit": 36900,
-        "lender": "RCI Financial Services Ltd",
-        "annual_mileage": 10000,
-        "contract_mileage": 40000,
-        "excess_mileage_rate": 0,
-        "residual": 16042.5,
-        "price_to_buy": 16042.5
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.hawkins.co.uk&quoteeUid=6F9012AB-50AF-4706-B02D-A20D68D9E913&class=car&condition=used&vrm=WL74BOJ&registrationDate=28/11/2024&capCode=&capId=105773&cashPrice=40999&vatIncluded=&vatQualifying=&currentOdometerReading=1000&vehicleImageUrl=https://bluesky.cdn.imgeng.in/cogstock-images/dealer360-1bd6978c03e25525e2950862eba41da2c1f88999.jpg?imgeng=/w_300/&term=60&cashDeposit=4099&annualDistance=10000&dateOnForecourt=09/01/2025&usePersistedOptions=False",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.hawkins.co.uk&quoteeUid=6F9012AB-50AF-4706-B02D-A20D68D9E913&class=car&condition=used&vrm=WL74BOJ&registrationDate=28%2F11%2F2024&capCode=&capId=105773&cashPrice=40999&vatIncluded=&vatQualifying=&currentOdometerReading=1000&vehicleImageUrl=https%3A%2F%2Fbluesky.cdn.imgeng.in%2Fcogstock-images%2Fdealer360-1bd6978c03e25525e2950862eba41da2c1f88999.jpg%3Fimgeng%3D%2Fw_300%2F&term=60&cashDeposit=4099&annualDistance=10000&dateOnForecourt=09%2F01%2F2025&usePersistedOptions=False&origin=https%3A%2F%2Fwww.hawkins.co.uk%2Fused-car-details%2Fused-nissan-x-trail-15-h-e-power-n-trek-suv-5dr-p-suv-silver-automatic-petrol-hybrid%2Fid-10918%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json"
+      ]
+    }
   }
 ]

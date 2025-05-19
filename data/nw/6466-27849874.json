@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:12:56.835Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorplanet.co.uk/used-mercedes-benz-cla-greater-manchester-greater-manchester-6878436",
+    "dealer_id": "6466",
+    "car_id": "27849874",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BU20HXO",
+        "registration_date": "16/03/2020",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21550,
+        "total_price": 21550,
+        "deposit": 2155,
+        "balance": 19395,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 424.44,
+        "final_payment": 434.44,
+        "balloon": 0,
+        "total_amount_payable": 27631.4,
+        "total_charge_for_credit": 6081.4,
+        "amount_of_credit": 19395,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 434.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21550,
+        "total_price": 21550,
+        "deposit": 2155,
+        "balance": 19395,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 424.44,
+        "final_payment": 434.44,
+        "total_amount_payable": 27631.4,
+        "total_charge_for_credit": 6081.4,
+        "amount_of_credit": 19395,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

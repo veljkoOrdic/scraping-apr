@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:06:21.534Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surecardirect.co.uk/details/used-car-in-fishponds/toyota/aygo/1.0-vvt-i-x-play-euro-6-5dr/1355638/",
+    "dealer_id": "1579",
+    "car_id": "26774948",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VO68ZZT",
+        "registration_date": "27/09/2018",
+        "mileage": 15533,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8195,
+        "total_price": 8195,
+        "deposit": 409.75,
+        "balance": 7785.25,
+        "apr": 11.9,
+        "rate_of_interest": 6.16,
+        "term": 48,
+        "regular_payment": 202.17,
+        "final_payment": 212.17,
+        "balloon": 0,
+        "total_amount_payable": 10123.91,
+        "total_charge_for_credit": 1928.91,
+        "amount_of_credit": 7785.25,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 212.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8195,
+        "total_price": 8195,
+        "deposit": 409.75,
+        "balance": 7785.25,
+        "apr": 11.4,
+        "rate_of_interest": 5.9,
+        "term": 48,
+        "regular_payment": 200.46,
+        "final_payment": 210.46,
+        "total_amount_payable": 10041.83,
+        "total_charge_for_credit": 1846.83,
+        "amount_of_credit": 7785.25,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

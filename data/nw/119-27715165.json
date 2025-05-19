@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:40:26.700Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.burford-carsales.co.uk/used-ford-transit-hoddesdon-hertfordshire-6850006",
+    "dealer_id": "119",
+    "car_id": "27715165",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MX72VFL",
+        "registration_date": "21/09/2022",
+        "mileage": 34000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30948,
+        "total_price": 30948,
+        "deposit": 5158,
+        "balance": 25790,
+        "apr": 11.2,
+        "rate_of_interest": 5.88,
+        "term": 60,
+        "regular_payment": 556.29,
+        "final_payment": 566.29,
+        "balloon": 0,
+        "total_amount_payable": 38545.4,
+        "total_charge_for_credit": 7597.4,
+        "amount_of_credit": 25790,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 566.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30948,
+        "total_price": 30948,
+        "deposit": 0,
+        "balance": 25790,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 541.34,
+        "final_payment": 542.34,
+        "total_amount_payable": 37639.4,
+        "total_charge_for_credit": 6691.4,
+        "amount_of_credit": 25790,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-05-09T09:54:11.684Z",
+    "timestamp": "2025-05-15T14:12:42.811Z",
     "source": "codeweavers_calculator",
     "url": "https://www.redpathmclean.co.uk/used-kia-soul-edinburgh-midlothian-6069967",
     "dealer_id": "30",
@@ -11,15 +11,41 @@
         "https://services.codeweavers.net/v2/script/FinancePlugin?key=q0W3R46vzhWff1p331",
         "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=q0W3R46vzhWff1p331&SystemKey=Codeweavers&DealerKey=",
         "https://plugins.codeweavers.net/plugins/v1/platform/finance/flexicalc",
-        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
         "https://plugins.codeweavers.net/apps/FlexiCalc/css/plugin.css",
         "https://plugins.codeweavers.net/vendor/angular-i18n/1.6.0/angular-locale_en-gb.min.js",
+        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
         "https://plugins.codeweavers.net/apps/FlexiCalc/js/plugin.js",
-        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=q0W3R46vzhWff1p331&cw_psid=a9039ed2-1163-4774-b58a-67e3bc71d85e",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=q0W3R46vzhWff1p331&cw_psid=42d6f693-63fc-4895-87a4-f314a5ac72bf",
         "https://plugins.codeweavers.net/apps/flexicalc/js/vendor.js?v=2",
         "https://services.codeweavers.net/public/v1/Dealer/Modules?ApiKey=q0W3R46vzhWff1p331&AssociatedDealerKey=&Referrer=https:%2F%2Fwww.redpathmclean.co.uk%2Fused-kia-soul-edinburgh-midlothian-6069967&SystemKey=Codeweavers",
-        "https://services.codeweavers.net/api/finance/defaults",
         "https://services.codeweavers.net/public/v1/Dealer/VideoStyle?ApiKey=q0W3R46vzhWff1p331&AssociatedDealerKey=&Referrer=https:%2F%2Fwww.redpathmclean.co.uk%2Fused-kia-soul-edinburgh-midlothian-6069967&SystemKey=Codeweavers",
+        "https://services.codeweavers.net/api/finance/defaults",
+        "https://services.codeweavers.net/public/v3/JsonFinance/Calculate",
+        "https://services.codeweavers.net/api/log"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-05-16T11:27:47.699Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redpathmclean.co.uk/used-kia-soul-edinburgh-midlothian-6069967",
+    "dealer_id": "30",
+    "car_id": "24532486",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://services.codeweavers.net/v2/script/FinancePlugin?key=q0W3R46vzhWff1p331",
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=q0W3R46vzhWff1p331&SystemKey=Codeweavers&DealerKey=",
+        "https://plugins.codeweavers.net/plugins/v1/platform/finance/flexicalc",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/css/plugin.css",
+        "https://plugins.codeweavers.net/vendor/angular-i18n/1.6.0/angular-locale_en-gb.min.js",
+        "https://plugins.codeweavers.net/apps/polyfills.js?v=1",
+        "https://plugins.codeweavers.net/apps/FlexiCalc/js/plugin.js",
+        "https://plugins.codeweavers.net/apps/flexicalc/js/vendor.js?v=2",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=q0W3R46vzhWff1p331&cw_psid=69919f79-2f97-4f6f-bbe7-2fed5658cd71",
+        "https://services.codeweavers.net/public/v1/Dealer/Modules?ApiKey=q0W3R46vzhWff1p331&AssociatedDealerKey=&Referrer=https:%2F%2Fwww.redpathmclean.co.uk%2Fused-kia-soul-edinburgh-midlothian-6069967&SystemKey=Codeweavers",
+        "https://services.codeweavers.net/public/v1/Dealer/VideoStyle?ApiKey=q0W3R46vzhWff1p331&AssociatedDealerKey=&Referrer=https:%2F%2Fwww.redpathmclean.co.uk%2Fused-kia-soul-edinburgh-midlothian-6069967&SystemKey=Codeweavers",
+        "https://services.codeweavers.net/api/finance/defaults",
         "https://services.codeweavers.net/public/v3/JsonFinance/Calculate",
         "https://services.codeweavers.net/api/log"
       ]

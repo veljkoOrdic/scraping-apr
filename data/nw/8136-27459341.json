@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:06:56.977Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.commercialvans.co.uk/vans/ford/transit/2.0-transit-trend-van-350-l2-versalift-cherry-picker-2.0l-ecoblue-hd-160ps-fwd-6-speed-manual/1369039/",
+    "dealer_id": "8136",
+    "car_id": "27459341",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR22NBF",
+        "registration_date": "17/05/2022",
+        "mileage": 68845,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46794,
+        "total_price": 46794,
+        "deposit": 1949.75,
+        "balance": 37045.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 946.51,
+        "final_payment": 947.51,
+        "total_amount_payable": 55182.23,
+        "total_charge_for_credit": 8388.23,
+        "amount_of_credit": 37045.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

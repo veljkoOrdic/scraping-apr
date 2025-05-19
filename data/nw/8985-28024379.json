@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:37:47.052Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bridgendvans.co.uk/vehicle-details/used-volkswagen-transporter-bitdi-t32-highline-for-sale-in-bridgend-mid-glamorgan-u686/",
+    "dealer_id": "8985",
+    "car_id": "28024379",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BD24ANR",
+        "registration_date": "19/04/2024",
+        "mileage": 5353,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 11399,
+        "balance": 45596,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 957.08,
+        "final_payment": 958.08,
+        "total_amount_payable": 68824.8,
+        "total_charge_for_credit": 11829.8,
+        "amount_of_credit": 45596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:10:10.419Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newmacharmotors.co.uk/vehicle-details/used-porsche-macan-t-v6-s-for-sale-in-newmachar-aberdeenshire-u1500/",
+    "dealer_id": "5870",
+    "car_id": "27953284",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW69OPC",
+        "registration_date": "19/11/2019",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 99,
+        "balance": 39896,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 864.22,
+        "final_payment": 874.22,
+        "balloon": 0,
+        "total_amount_payable": 51962.2,
+        "total_charge_for_credit": 11967.2,
+        "amount_of_credit": 39896,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 874.22
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 99,
+        "balance": 39896,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 855.35,
+        "final_payment": 856.35,
+        "total_amount_payable": 51421,
+        "total_charge_for_credit": 11426,
+        "amount_of_credit": 39896,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

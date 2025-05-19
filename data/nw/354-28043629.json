@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:41.093Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westhillcars.co.uk/used-audi-a4-westhill-aberdeenshire-6943124",
+    "dealer_id": "354",
+    "car_id": "28043629",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YE66BZB",
+        "registration_date": "09/11/2016",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 449,
+        "balance": 8546,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 183.1,
+        "final_payment": 193.1,
+        "balloon": 0,
+        "total_amount_payable": 11445,
+        "total_charge_for_credit": 2450,
+        "amount_of_credit": 8546,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 193.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 449,
+        "balance": 8546,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 179.37,
+        "final_payment": 180.37,
+        "total_amount_payable": 11212.2,
+        "total_charge_for_credit": 2217.2,
+        "amount_of_credit": 8546,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

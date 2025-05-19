@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:34:34.896Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mawsleymotorcompanyltd.co.uk/used-citroen-c1-northampton-northamptonshire-6823781",
+    "dealer_id": "107",
+    "car_id": "27563575",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT15BHY",
+        "registration_date": "09/03/2015",
+        "mileage": 79000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 449,
+        "balance": 4041,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 57,
+        "regular_payment": 88.31,
+        "final_payment": 89.31,
+        "total_amount_payable": 5483.67,
+        "total_charge_for_credit": 993.67,
+        "amount_of_credit": 4041,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

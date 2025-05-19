@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T22:36:25.763Z",
+    "timestamp": "2025-05-15T16:51:16.570Z",
     "source": "new_vehicle_finance",
     "url": "https://www.carsalesni.com/used-audi-sq5-omagh-fermanagh-6354911",
     "dealer_id": "5912",
     "car_id": "25720930",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ21VRC",
+        "registration_date": "28/06/2021",
+        "mileage": 70250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34450,
+        "total_price": 34450,
+        "deposit": 3445,
+        "balance": 31005,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 650.81,
+        "final_payment": 651.81,
+        "total_amount_payable": 42494.6,
+        "total_charge_for_credit": 8044.6,
+        "amount_of_credit": 31005,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

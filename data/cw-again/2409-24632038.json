@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T15:36:12.950Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thegoodvancompany.co.uk/used-ford-transit-preston-lancashire-6095705",
+    "dealer_id": "2409",
+    "car_id": "24632038",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 MWB DIESEL RWD",
+        "derivative": "High Roof Van TDCi 100ps Euro 5",
+        "registration_number": "BX62NVV",
+        "registration_date": "24/09/2012",
+        "mileage": 137881,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5748,
+        "total_price": 5748,
+        "deposit": 958,
+        "balance": 4790,
+        "apr": 13.7,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 128.21,
+        "final_payment": 138.21,
+        "total_amount_payable": 7122.08,
+        "total_charge_for_credit": 1374.08,
+        "amount_of_credit": 4790,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5748,
+        "total_price": 5748,
+        "deposit": 958,
+        "balance": 4790,
+        "apr": 13.8,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 128.46,
+        "final_payment": 128.46,
+        "total_amount_payable": 7124.08,
+        "total_charge_for_credit": 1376.08,
+        "amount_of_credit": 4790,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

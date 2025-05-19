@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:14:55.895Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.royhannamotors.com/used-seat-leon-county-antrim-county-antrim-6705922",
+    "dealer_id": "6858",
+    "car_id": "27140872",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HK02BOS",
+        "registration_date": "15/01/2018",
+        "mileage": 117300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9750,
+        "total_price": 9750,
+        "deposit": 975,
+        "balance": 8775,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 195.94,
+        "final_payment": 205.94,
+        "balloon": 0,
+        "total_amount_payable": 12741.4,
+        "total_charge_for_credit": 2991.4,
+        "amount_of_credit": 8775,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 205.94
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9750,
+        "total_price": 9750,
+        "deposit": 975,
+        "balance": 8775,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 184.18,
+        "final_payment": 185.18,
+        "total_amount_payable": 12026.8,
+        "total_charge_for_credit": 2276.8,
+        "amount_of_credit": 8775,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:28:25.463Z",
+    "source": "new_vehicle_finance",
+    "url": "https://janautos.co.uk/vehicle/name/bentley-bentayga-bentayga-4-0-v8-base-auto-4wd-euro-6-s-s-5dr-vat-qualifyingbeige-interior/",
+    "dealer_id": "3285",
+    "car_id": "27841807",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SJ71NNF",
+        "registration_date": "31/12/2021",
+        "mileage": 41687,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 104999,
+        "total_price": 104999,
+        "deposit": 0,
+        "balance": 104999,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 2345.87,
+        "final_payment": 2355.87,
+        "total_amount_payable": 140762.2,
+        "total_charge_for_credit": 35763.2,
+        "amount_of_credit": 104999,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 104999,
+        "total_price": 104999,
+        "deposit": 0,
+        "balance": 104999,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 1903.22,
+        "final_payment": 38253.86,
+        "total_amount_payable": 150543.84,
+        "total_charge_for_credit": 45544.84,
+        "amount_of_credit": 104999,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.2,
+        "residual": 38252.86,
+        "price_to_buy": 38253.86
+      }
+    ]
+  }
+]

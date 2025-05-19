@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:57:31.806Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/bmw/m3/3.0-m3-saloon-competition-packagemexican-bluelooks-absolutely-breathtakingstunning-example/1468547/",
+    "dealer_id": "6287",
+    "car_id": "28077808",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PX17XUK",
+        "registration_date": "30/03/2017",
+        "mileage": 21095,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39970,
+        "total_price": 39970,
+        "deposit": 3997,
+        "balance": 35973,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 852.79,
+        "final_payment": 862.79,
+        "balloon": 0,
+        "total_amount_payable": 55174.4,
+        "total_charge_for_credit": 15204.4,
+        "amount_of_credit": 35973,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 862.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39970,
+        "total_price": 39970,
+        "deposit": 3997,
+        "balance": 35973,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 771.24,
+        "final_payment": 772.24,
+        "total_amount_payable": 50272.4,
+        "total_charge_for_credit": 10302.4,
+        "amount_of_credit": 35973,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

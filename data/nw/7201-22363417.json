@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:56:26.870Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstar.co.uk/used-ford-transit-leeds-yorkshire-5521243",
+    "dealer_id": "7201",
+    "car_id": "22363417",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP19KXW",
+        "registration_date": "16/05/2019",
+        "mileage": 1000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28786.8,
+        "total_price": 28786.8,
+        "deposit": 4797.8,
+        "balance": 23989,
+        "apr": 13,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 537.49,
+        "final_payment": 537.49,
+        "balloon": 0,
+        "total_amount_payable": 37047.2,
+        "total_charge_for_credit": 8260.4,
+        "amount_of_credit": 23989,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 537.49
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28786.8,
+        "total_price": 28786.8,
+        "deposit": 0,
+        "balance": 23989,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 525.12,
+        "final_payment": 526.12,
+        "total_amount_payable": 36306,
+        "total_charge_for_credit": 7519.2,
+        "amount_of_credit": 23989,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

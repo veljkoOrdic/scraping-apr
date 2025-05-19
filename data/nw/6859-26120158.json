@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-15T03:34:58.743Z",
+    "timestamp": "2025-05-15T19:15:51.195Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rosscars.co.uk/used-audi-tt-swansea-glamorgan-6457089",
     "dealer_id": "6859",
     "car_id": "26120158",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV67CHJ",
+        "registration_date": "12/10/2017",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649,
+        "balance": 14846,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 324.86,
+        "final_payment": 334.86,
+        "balloon": 0,
+        "total_amount_payable": 21150.6,
+        "total_charge_for_credit": 4655.6,
+        "amount_of_credit": 14846,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 334.86
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649,
+        "balance": 14846,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 318.29,
+        "final_payment": 319.29,
+        "total_amount_payable": 20747.4,
+        "total_charge_for_credit": 4252.4,
+        "amount_of_credit": 14846,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

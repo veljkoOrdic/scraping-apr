@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:11:55.826Z",
+    "timestamp": "2025-05-15T15:35:57.353Z",
     "source": "new_vehicle_finance",
     "url": "https://www.llanellimotorcompany.co.uk/used-vehicle-details/Land-Rover-Defender-110-U9765/",
     "dealer_id": "7446",
@@ -12,6 +12,29 @@
         "registration_date": "31/05/2014",
         "mileage": 16166,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.61,
+        "term": 36,
+        "regular_payment": 1460.26,
+        "final_payment": 1460.26,
+        "balloon": 0,
+        "total_amount_payable": 57569.26,
+        "total_charge_for_credit": 7570.26,
+        "amount_of_credit": 44999.1,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1460.26
       },
       {
         "type": "finance_hp",

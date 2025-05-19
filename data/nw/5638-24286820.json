@@ -1,26 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T21:28:49.963Z",
+    "timestamp": "2025-05-15T16:20:32.958Z",
     "source": "new_vehicle_finance",
     "url": "https://www.carnetltd.co.uk/vehicle-details/used-mercedes-benz-sl-class-sl350-for-sale-in-burntwood-u1807/",
     "dealer_id": "5638",
     "car_id": "24286820",
-    "data": {
-      "type": "candidates",
-      "urls": [
-        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.carnetltd.co.uk&quoteeUid=ef885ff1-cc67-4815-b334-9b175cc4911c&class=Car&condition=Used&vrm=HN60JTO&registrationDate=30/10/2010&cashPrice=12590&vatIncluded=true&vatQualifying=false&currentOdometerReading=51000&vehicleImageUrl=https://img.cdn.dragon2000.net/C3380/U1807/IMG_32031-large.jpg&cashDeposit=0&term=60&annualDistance=8000&usePersistedOptions=false&excludeVatAsDeposit=false",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.carnetltd.co.uk&quoteeUid=ef885ff1-cc67-4815-b334-9b175cc4911c&class=Car&condition=Used&vrm=HN60JTO&registrationDate=30%2F10%2F2010&cashPrice=12590&vatIncluded=true&vatQualifying=false&currentOdometerReading=51000&vehicleImageUrl=https%3A%2F%2Fimg.cdn.dragon2000.net%2FC3380%2FU1807%2FIMG_32031-large.jpg&cashDeposit=0&term=60&annualDistance=8000&usePersistedOptions=false&excludeVatAsDeposit=false&origin=https%3A%2F%2Fwww.carnetltd.co.uk%2Fvehicle-details%2Fused-mercedes-benz-sl-class-sl350-for-sale-in-burntwood-u1807%2F&widgetId=iv-finance-widget",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.303037b2.chunk.css",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.919f6208.chunk.js",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.74c9437c.chunk.js",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
-        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
-        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
-        "https://newvehicle.com/public-platform/v1/funders",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
-        "https://newvehicle.com/dataplane/v1/track"
-      ]
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN60JTO",
+        "registration_date": "31/10/2010",
+        "mileage": 51000,
+        "status": "Used"
+      }
+    ]
   }
 ]

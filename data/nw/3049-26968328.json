@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:12:20.388Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-bmw-x5-bayford-hertfordshire-6670775",
+    "dealer_id": "3049",
+    "car_id": "26968328",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF68GFE",
+        "registration_date": "08/01/2019",
+        "mileage": 76000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37950,
+        "total_price": 37950,
+        "deposit": 3795,
+        "balance": 34155,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 701.66,
+        "final_payment": 702.66,
+        "total_amount_payable": 45895.6,
+        "total_charge_for_credit": 7945.6,
+        "amount_of_credit": 34155,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

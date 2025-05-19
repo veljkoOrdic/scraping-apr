@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T11:56:31.471Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastkilbrideusedcarcentre.co.uk/details/used-car-in-glasgow/honda/cr-v/2.2-i-dtec-ex-4wd-euro-5-5dr/1459506/",
+    "dealer_id": "353",
+    "car_id": "27987750",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PX12UZN",
+        "registration_date": "29/03/2012",
+        "mileage": 113805,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4450,
+        "total_price": 4450,
+        "deposit": 445,
+        "balance": 4005,
+        "apr": 9.9,
+        "rate_of_interest": 5.08,
+        "term": 22,
+        "regular_payment": 198.99,
+        "final_payment": 199.99,
+        "total_amount_payable": 4823.78,
+        "total_charge_for_credit": 373.78,
+        "amount_of_credit": 4005,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

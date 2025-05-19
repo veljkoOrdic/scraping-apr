@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T16:44:14.629Z",
+    "timestamp": "2025-05-15T14:34:00.288Z",
     "source": "new_vehicle_finance",
     "url": "https://www.ntrcars.co.uk/used-ford-transit-custom-haverfordwest-pembrokeshire-4516300",
     "dealer_id": "6914",
     "car_id": "18011145",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ19HWR",
+        "registration_date": "28/06/2019",
+        "mileage": 82206,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15594,
+        "total_price": 15594,
+        "deposit": 0,
+        "balance": 15594,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 341.35,
+        "final_payment": 342.35,
+        "total_amount_payable": 20482,
+        "total_charge_for_credit": 4888,
+        "amount_of_credit": 15594,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

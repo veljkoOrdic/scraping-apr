@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:15:12.509Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/ford/mustang/gt-5-0-v8-manual-3445",
+    "dealer_id": "5631",
+    "car_id": "27865965",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SL16UNY",
+        "registration_date": "29/04/2016",
+        "mileage": 45500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24490,
+        "total_price": 24490,
+        "deposit": 10,
+        "balance": 24480,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 535.76,
+        "final_payment": 545.76,
+        "balloon": 0,
+        "total_amount_payable": 32165.6,
+        "total_charge_for_credit": 7675.6,
+        "amount_of_credit": 24480,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 545.76
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24490,
+        "total_price": 24490,
+        "deposit": 10,
+        "balance": 24480,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 513.84,
+        "final_payment": 514.84,
+        "total_amount_payable": 30841.4,
+        "total_charge_for_credit": 6351.4,
+        "amount_of_credit": 24480,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:38:01.153Z",
+    "timestamp": "2025-05-15T14:47:38.172Z",
     "source": "new_vehicle_finance",
     "url": "https://www.newtonsofashley.com/used-bmw-z4-new-milton-hampshire-5614784",
     "dealer_id": "176",
@@ -12,6 +12,29 @@
         "registration_date": "25/07/2014",
         "mileage": 60000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12795,
+        "total_price": 12795,
+        "deposit": 1279,
+        "balance": 11516,
+        "apr": 14.3,
+        "rate_of_interest": 6.74,
+        "term": 60,
+        "regular_payment": 264.41,
+        "final_payment": 264.41,
+        "balloon": 0,
+        "total_amount_payable": 17143.6,
+        "total_charge_for_credit": 4348.6,
+        "amount_of_credit": 11516,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 264.41
       }
     ]
   }

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:42:11.895Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rickmansworthsportscars.co.uk/used/lexus/rx/450h-35-se-l-premier-5dr-cvt-auto/watford/hertfordshire/21230612",
+    "dealer_id": "127",
+    "car_id": "24082959",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW12CVB",
+        "registration_date": "28/06/2012",
+        "mileage": 78000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11595,
+        "total_price": 11595,
+        "deposit": 1159.5,
+        "balance": 10435.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.08,
+        "term": 25,
+        "regular_payment": 461.59,
+        "final_payment": 462.59,
+        "total_amount_payable": 12700.25,
+        "total_charge_for_credit": 1105.25,
+        "amount_of_credit": 10435.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:48:41.265Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prosportscars.co.uk/used-volkswagen-golf-hull-north-humberside-6753778",
+    "dealer_id": "5463",
+    "car_id": "27299538",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BA69NGF",
+        "registration_date": "31/01/2020",
+        "mileage": 28924,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23300,
+        "total_price": 23300,
+        "deposit": 0,
+        "balance": 23300,
+        "apr": 7.9,
+        "rate_of_interest": 7.62,
+        "term": 60,
+        "regular_payment": 468.3,
+        "final_payment": 468.3,
+        "total_amount_payable": 28098,
+        "total_charge_for_credit": 4798,
+        "amount_of_credit": 23300,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

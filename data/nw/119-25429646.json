@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:13:55.441Z",
+    "timestamp": "2025-05-15T14:41:09.299Z",
     "source": "new_vehicle_finance",
     "url": "https://www.burford-carsales.co.uk/used-mercedes-benz-sl-hoddesdon-hertfordshire-3780429",
     "dealer_id": "119",
@@ -12,6 +12,29 @@
         "registration_date": "01/08/1988",
         "mileage": 33000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 54790,
+        "total_price": 54790,
+        "deposit": 5479,
+        "balance": 49311,
+        "apr": 11.2,
+        "rate_of_interest": 5.89,
+        "term": 60,
+        "regular_payment": 1063.75,
+        "final_payment": 1073.75,
+        "balloon": 0,
+        "total_amount_payable": 69314,
+        "total_charge_for_credit": 14524,
+        "amount_of_credit": 49311,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1073.75
       }
     ]
   }

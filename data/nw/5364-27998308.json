@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-05-15T15:36:26.117Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.twells.co.uk/used/jaguar/f-pace/20-d200-r-dynamic-hse-5dr-auto-awd/billinghay/lincolnshire/21597204",
+    "dealer_id": "5364",
+    "car_id": "27998308",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV21USM",
+        "registration_date": "26/05/2021",
+        "mileage": 26600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 1000,
+        "balance": 31995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 714.86,
+        "final_payment": 714.86,
+        "balloon": 0,
+        "total_amount_payable": 43891.6,
+        "total_charge_for_credit": 10896.6,
+        "amount_of_credit": 31995,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 714.86
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 1000,
+        "balance": 31995,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 606.48,
+        "final_payment": 14850,
+        "total_amount_payable": 44961.04,
+        "total_charge_for_credit": 11966.04,
+        "amount_of_credit": 31995,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.125,
+        "residual": 14850,
+        "price_to_buy": 14850
+      }
+    ]
+  }
+]

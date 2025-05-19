@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:32:59.235Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1355645/used-kia-sorento-1-6-4-5dr-automatic-rochdale",
+    "dealer_id": "6611",
+    "car_id": "27734224",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MC74YXW",
+        "registration_date": "29/01/2025",
+        "mileage": 3161,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47994,
+        "total_price": 47994,
+        "deposit": 16797.9,
+        "balance": 31196.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 769.76,
+        "final_payment": 769.76,
+        "total_amount_payable": 53746.38,
+        "total_charge_for_credit": 5752.38,
+        "amount_of_credit": 31196.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47994,
+        "total_price": 47994,
+        "deposit": 16797.9,
+        "balance": 31196.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 392.67,
+        "final_payment": 21646.56,
+        "total_amount_payable": 57292.62,
+        "total_charge_for_credit": 9298.62,
+        "amount_of_credit": 31196.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 21646.56,
+        "price_to_buy": 21646.56
+      }
+    ]
+  }
+]

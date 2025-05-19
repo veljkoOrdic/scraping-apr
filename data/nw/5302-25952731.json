@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:25:50.325Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorcars.co.uk/used/cars/volkswagen/transporter/camper-pop-top-kitchen-4-berth-t28-tdi-no-vat-1277",
+    "dealer_id": "5302",
+    "car_id": "25952731",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DP65JCZ",
+        "registration_date": "26/02/2016",
+        "mileage": 19219,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32993,
+        "total_price": 32993,
+        "deposit": 8248.25,
+        "balance": 24744.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 541.66,
+        "final_payment": 542.66,
+        "total_amount_payable": 40748.85,
+        "total_charge_for_credit": 7755.85,
+        "amount_of_credit": 24744.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:11:19.265Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.polesworth-garage.com/used-cars/bentley/bentley-continental-gtc-4-0-v8-s-mulliner-driving-spec-2dr-auto/",
+    "dealer_id": "7286",
+    "car_id": "27806866",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX17PXD",
+        "registration_date": "10/03/2017",
+        "mileage": 27903,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 0,
+        "balance": 69995,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 1803.76,
+        "final_payment": 1804.76,
+        "total_amount_payable": 86581.48,
+        "total_charge_for_credit": 16586.48,
+        "amount_of_credit": 69995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 69995,
+        "total_price": 69995,
+        "deposit": 0,
+        "balance": 69995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1757.56,
+        "final_payment": 1767.56,
+        "balloon": 0,
+        "total_amount_payable": 84372.88,
+        "total_charge_for_credit": 14377.88,
+        "amount_of_credit": 69995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1767.56
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-16T13:54:48.636Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nottinghamcar.com/used-land-rover-range-rover-sport-nottingham-nottinghamshire-6889464",
+    "dealer_id": "2683",
+    "car_id": "27834559",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "5.0 P575 S/C SVR Carbon Edition",
+        "registration_number": "FB21ZKM",
+        "registration_date": "10/03/2021",
+        "mileage": 36900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 5699,
+        "balance": 51296,
+        "apr": 9.4,
+        "rate_of_interest": 4.75,
+        "term": 48,
+        "regular_payment": 832.43,
+        "final_payment": 26491.18,
+        "total_amount_payable": 71314.39,
+        "total_charge_for_credit": 14319.39,
+        "amount_of_credit": 51296,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 25648.75,
+        "price_to_buy": 26491.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 56995,
+        "total_price": 56995,
+        "deposit": 5699,
+        "balance": 51296,
+        "apr": 9.4,
+        "rate_of_interest": 4.75,
+        "term": 60,
+        "regular_payment": 1065.2,
+        "final_payment": 1065.2,
+        "total_amount_payable": 69611,
+        "total_charge_for_credit": 12616,
+        "amount_of_credit": 51296,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

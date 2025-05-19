@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:44:03.711Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.philippaul.co.uk/used/cars/toyota-c-hr-18-hybrid-excel-5dr-cvt-yj67grb-1",
+    "dealer_id": "5436",
+    "car_id": "26915248",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ67GRB",
+        "registration_date": "27/02/2018",
+        "mileage": 23768,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1000,
+        "balance": 14995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 321.49,
+        "final_payment": 322.49,
+        "total_amount_payable": 20290.4,
+        "total_charge_for_credit": 4295.4,
+        "amount_of_credit": 14995,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

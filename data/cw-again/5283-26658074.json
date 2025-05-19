@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:07:38.948Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ronskinnerandsons.co.uk/used-seat-ateca-tredegar-gwent-6586338",
+    "dealer_id": "5283",
+    "car_id": "26658074",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Seat",
+        "model": "ATECA",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI EVO Xperience DSG",
+        "registration_number": "YB24WXA",
+        "registration_date": "24/05/2024",
+        "mileage": 10000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 4599,
+        "balance": 18400,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 49,
+        "regular_payment": 306.6,
+        "final_payment": 9765,
+        "total_amount_payable": 29080.8,
+        "total_charge_for_credit": 6081.8,
+        "amount_of_credit": 18400,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 4.8,
+        "residual": 9755,
+        "price_to_buy": 9765
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22999,
+        "total_price": 22999,
+        "deposit": 4599,
+        "balance": 18400,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 394.49,
+        "final_payment": 394.49,
+        "total_amount_payable": 28268.4,
+        "total_charge_for_credit": 5269.4,
+        "amount_of_credit": 18400,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

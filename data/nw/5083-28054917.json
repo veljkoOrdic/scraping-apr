@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:57:31.437Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rmfisher.co.uk/used-car-details/used-cupra-formentor-20-tsi-vz1-dsg-4drive-euro-6-suv-grey-automatic-petrol/id-202505092217415/",
+    "dealer_id": "5083",
+    "car_id": "28054917",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW74PNE",
+        "registration_date": "29/11/2024",
+        "mileage": 250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 5324,
+        "balance": 30171,
+        "apr": 11.4,
+        "rate_of_interest": 11.38,
+        "term": 60,
+        "regular_payment": 653.45,
+        "final_payment": 663.45,
+        "total_amount_payable": 44541,
+        "total_charge_for_credit": 9046,
+        "amount_of_credit": 30171,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 5324,
+        "balance": 30171,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 49,
+        "regular_payment": 474.44,
+        "final_payment": 18280,
+        "total_amount_payable": 46377.12,
+        "total_charge_for_credit": 10882.12,
+        "amount_of_credit": 30171,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.084,
+        "residual": 18270,
+        "price_to_buy": 18280
+      }
+    ]
+  }
+]

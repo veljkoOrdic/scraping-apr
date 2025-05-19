@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:47:49.750Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ellisashtonmotorcompany.co.uk/cars/mercedes-benz/gclass/4.0-g63-v8-biturbo-amg/1440544/",
+    "dealer_id": "6474",
+    "car_id": "27783579",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "CA69FAO",
+        "registration_date": "30/12/2019",
+        "mileage": 54000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 117995,
+        "total_price": 117995,
+        "deposit": 11799.5,
+        "balance": 106195.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 55,
+        "regular_payment": 1845.71,
+        "final_payment": 43145.91,
+        "total_amount_payable": 154613.75,
+        "total_charge_for_credit": 36618.75,
+        "amount_of_credit": 106195.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 27.8,
+        "residual": 43144.91,
+        "price_to_buy": 43145.91
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 117995,
+        "total_price": 117995,
+        "deposit": 11799.5,
+        "balance": 106195.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 2276.79,
+        "final_payment": 2277.79,
+        "total_amount_payable": 148407.9,
+        "total_charge_for_credit": 30412.9,
+        "amount_of_credit": 106195.5,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:56:22.028Z",
+    "timestamp": "2025-05-15T17:52:24.102Z",
     "source": "new_vehicle_finance",
     "url": "https://www.windmillautosltd.co.uk/used-bmw-x3-bedfordshire-bedfordshire-6503285",
     "dealer_id": "3763",
@@ -12,6 +12,29 @@
         "registration_date": "15/03/2019",
         "mileage": 80000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22450,
+        "total_price": 22450,
+        "deposit": 2245,
+        "balance": 20205,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 442.17,
+        "final_payment": 452.17,
+        "balloon": 0,
+        "total_amount_payable": 28785.2,
+        "total_charge_for_credit": 6335.2,
+        "amount_of_credit": 20205,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 452.17
       },
       {
         "type": "finance_hp",

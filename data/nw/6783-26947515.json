@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:43:25.731Z",
+    "timestamp": "2025-05-15T18:57:41.746Z",
     "source": "new_vehicle_finance",
     "url": "https://www.tvscars.co.uk/details/used-car-in-bridgnorth/landrover/defender90/3.0-d250-mhev-first-edition-auto-4wd-euro-6-ss-3dr/1369926/",
     "dealer_id": "6783",
@@ -12,6 +12,29 @@
         "registration_date": "07/07/2021",
         "mileage": 45249,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42984,
+        "total_price": 42984,
+        "deposit": 4298.4,
+        "balance": 38685.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 971.48,
+        "final_payment": 971.48,
+        "balloon": 0,
+        "total_amount_payable": 50929.44,
+        "total_charge_for_credit": 7945.44,
+        "amount_of_credit": 38685.6,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 971.48
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 9.9,
         "rate_of_interest": 5.14,
         "term": 49,
-        "regular_payment": 634.25,
-        "final_payment": 19744.61,
-        "total_amount_payable": 54487.01,
-        "total_charge_for_credit": 11503.01,
+        "regular_payment": 638.55,
+        "final_payment": 19492.96,
+        "total_amount_payable": 54441.76,
+        "total_charge_for_credit": 11457.76,
         "amount_of_credit": 38685.6,
         "lender": "Santander Consumer Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.149,
-        "residual": 19744.61,
-        "price_to_buy": 19744.61
+        "residual": 19492.96,
+        "price_to_buy": 19492.96
       }
     ]
   }

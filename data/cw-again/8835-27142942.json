@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:29:11.159Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-car-in-welwyn-garden-city/skoda/superb/1.4-tsi-iv-13kwh-laurin-klement-dsg-euro-6-ss-5dr/1387364/",
+    "dealer_id": "8835",
+    "car_id": "27142942",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "SUPERB",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 TSI iV Laurin + Klement DSG",
+        "registration_number": "LV21MJX",
+        "registration_date": "30/03/2021",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 2200,
+        "balance": 19800,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 363.02,
+        "final_payment": 5173.91,
+        "total_amount_payable": 28792.09,
+        "total_charge_for_credit": 6792.09,
+        "amount_of_credit": 19800,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 4.1,
+        "residual": 5173.91,
+        "price_to_buy": 5173.91
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22000,
+        "total_price": 22000,
+        "deposit": 2200,
+        "balance": 19800,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 424.49,
+        "final_payment": 425.49,
+        "total_amount_payable": 27670.4,
+        "total_charge_for_credit": 5670.4,
+        "amount_of_credit": 19800,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

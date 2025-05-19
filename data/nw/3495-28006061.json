@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:32:13.479Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.inceblundell.com/used-hyundai-tucson-liverpool-merseyside-6932703",
+    "dealer_id": "3495",
+    "car_id": "28006061",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN67VCG",
+        "registration_date": "06/09/2017",
+        "mileage": 49000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10775,
+        "total_price": 10775,
+        "deposit": 200,
+        "balance": 10575,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 233.88,
+        "final_payment": 233.88,
+        "total_amount_payable": 14232.8,
+        "total_charge_for_credit": 3457.8,
+        "amount_of_credit": 10575,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

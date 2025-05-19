@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:26:59.403Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hcl-ltd.com/details/used-car-in-ashford/tesla/modely/dual-motor-long-range-auto-4wde-5dr/1414830/",
+    "dealer_id": "3275",
+    "car_id": "27476503",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD23YBH",
+        "registration_date": "24/06/2023",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28490,
+        "total_price": 28490,
+        "deposit": 2849,
+        "balance": 25641,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 526.75,
+        "final_payment": 527.75,
+        "total_amount_payable": 34455,
+        "total_charge_for_credit": 5965,
+        "amount_of_credit": 25641,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28490,
+        "total_price": 28490,
+        "deposit": 2849,
+        "balance": 25641,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 49,
+        "regular_payment": 385.52,
+        "final_payment": 14188.6,
+        "total_amount_payable": 35542.56,
+        "total_charge_for_credit": 7052.56,
+        "amount_of_credit": 25641,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 14187.6,
+        "price_to_buy": 14188.6
+      }
+    ]
+  }
+]

@@ -1,12 +1,85 @@
 [
   {
-    "timestamp": "2025-04-14T19:31:01.485Z",
+    "timestamp": "2025-05-15T15:45:00.864Z",
     "source": "new_vehicle_finance",
     "url": "https://www.car-planet.co.uk/used-mercedes-benz-g-class-watford-hertfordshire-6792917",
     "dealer_id": "7472",
     "car_id": "27446142",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM21GZT",
+        "registration_date": "26/03/2021",
+        "mileage": 26250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 134700,
+        "total_price": 134700,
+        "deposit": 13470,
+        "balance": 121230,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 2708.52,
+        "final_payment": 2718.52,
+        "balloon": 0,
+        "total_amount_payable": 175991.2,
+        "total_charge_for_credit": 41291.2,
+        "amount_of_credit": 121230,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 2718.52
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 134700,
+        "total_price": 134700,
+        "deposit": 74700,
+        "balance": 60000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1340.58,
+        "final_payment": 1341.58,
+        "total_amount_payable": 155135.8,
+        "total_charge_for_credit": 20435.8,
+        "amount_of_credit": 60000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 134700,
+        "total_price": 134700,
+        "deposit": 13470,
+        "balance": 100000,
+        "apr": 12.9,
+        "rate_of_interest": 6.21,
+        "term": 49,
+        "regular_payment": 1612.59,
+        "final_payment": 63983.42,
+        "total_amount_payable": 176087.74,
+        "total_charge_for_credit": 41387.74,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.56,
+        "residual": 63982.42,
+        "price_to_buy": 63983.42
+      }
+    ]
   }
 ]

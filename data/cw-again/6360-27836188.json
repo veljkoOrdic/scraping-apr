@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:37:01.379Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cortenmillercars.co.uk/details/used-car-in-boston/volkswagen/tiguan/1.5-tsi-active-dsg-euro-6-ss-5dr/1445807/",
+    "dealer_id": "6360",
+    "car_id": "27836188",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE SPECIAL EDITION",
+        "derivative": "1.5 TSI 150 Active DSG",
+        "registration_number": "BJ22JGF",
+        "registration_date": "29/03/2022",
+        "mileage": 23000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.36,
+        "term": 48,
+        "regular_payment": 404.94,
+        "final_payment": 10148.5,
+        "total_amount_payable": 32085.12,
+        "total_charge_for_credit": 7090.12,
+        "amount_of_credit": 22495.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.4,
+        "residual": 10147.5,
+        "price_to_buy": 10148.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 482.34,
+        "final_payment": 483.34,
+        "total_amount_payable": 31440.9,
+        "total_charge_for_credit": 6445.9,
+        "amount_of_credit": 22495.5,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

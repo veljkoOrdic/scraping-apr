@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:39:21.619Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoclaritydirect.co.uk/used-peugeot-3008-southport-merseyside-6794159",
+    "dealer_id": "6108",
+    "car_id": "27449163",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD67OLX",
+        "registration_date": "18/09/2017",
+        "mileage": 66952,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9465,
+        "total_price": 9465,
+        "deposit": 946,
+        "balance": 8519,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 178.82,
+        "final_payment": 179.82,
+        "total_amount_payable": 11676.2,
+        "total_charge_for_credit": 2211.2,
+        "amount_of_credit": 8519,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T11:51:27.869Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.danielmaxwellcarsales.co.uk/detail/1351935/used-land-rover-range-rover-sport-3-0-sdv6-hse-dynamic-5dr-automatic-stockport",
+    "dealer_id": "137",
+    "car_id": "27138910",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DH18GHJ",
+        "registration_date": "20/06/2018",
+        "mileage": 79621,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24981,
+        "total_price": 24981,
+        "deposit": 200,
+        "balance": 24781,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 520.17,
+        "final_payment": 521.17,
+        "total_amount_payable": 31411.2,
+        "total_charge_for_credit": 6430.2,
+        "amount_of_credit": 24781,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

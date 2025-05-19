@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:43:13.024Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/volkswagen/golf/2-0-golf-gti-performance-tsi-5dr-110",
+    "dealer_id": "3695",
+    "car_id": "27834039",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SR19ZSO",
+        "registration_date": "21/06/2019",
+        "mileage": 39800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19985,
+        "total_price": 19985,
+        "deposit": 0,
+        "balance": 19985,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 410.91,
+        "final_payment": 411.91,
+        "total_amount_payable": 24655.6,
+        "total_charge_for_credit": 4670.6,
+        "amount_of_credit": 19985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

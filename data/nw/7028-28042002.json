@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:46:42.409Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carterandhaines.co.uk/used/cars/mercedes-benz/e-class/2-1-e220-cdi-amg-sport-coupe-2dr-diesel-g-tronic-euro-5-s-s-170-ps-334",
+    "dealer_id": "7028",
+    "car_id": "28042002",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BL64SOH",
+        "registration_date": "27/12/2014",
+        "mileage": 88328,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8495,
+        "total_price": 8495,
+        "deposit": 849.5,
+        "balance": 7645.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 160.48,
+        "final_payment": 161.48,
+        "total_amount_payable": 10479.3,
+        "total_charge_for_credit": 1984.3,
+        "amount_of_credit": 7645.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

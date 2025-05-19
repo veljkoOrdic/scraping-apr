@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:18:00.029Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-suzuki-vitara-liverpool-merseyside-6841849",
+    "dealer_id": "4599",
+    "car_id": "27711541",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV21HLJ",
+        "registration_date": "31/03/2021",
+        "mileage": 43145,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 272.64,
+        "final_payment": 282.64,
+        "total_amount_payable": 17368.4,
+        "total_charge_for_credit": 3373.4,
+        "amount_of_credit": 12995,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 225.7,
+        "final_payment": 5892.25,
+        "total_amount_payable": 17725.85,
+        "total_charge_for_credit": 3730.85,
+        "amount_of_credit": 12995,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.09,
+        "residual": 5882.25,
+        "price_to_buy": 5892.25
+      }
+    ]
+  }
+]

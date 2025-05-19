@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:41:29.577Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-volkswagen-golf-r-line-etsi-dsg-hatchback-pure-white-automatic-petrol-hybrid/id-3530/",
+    "dealer_id": "6658",
+    "car_id": "26769380",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LM74BVN",
+        "registration_date": "06/01/2025",
+        "mileage": 699,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 9848,
+        "balance": 22147,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 590.03,
+        "final_payment": 600.03,
+        "total_amount_payable": 38179.44,
+        "total_charge_for_credit": 6184.44,
+        "amount_of_credit": 22147,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 9598.5,
+        "balance": 22396.5,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 375.96,
+        "final_payment": 14072.5,
+        "total_amount_payable": 41341.12,
+        "total_charge_for_credit": 9346.12,
+        "amount_of_credit": 22396.5,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.072,
+        "residual": 14062.5,
+        "price_to_buy": 14072.5
+      }
+    ]
+  }
+]

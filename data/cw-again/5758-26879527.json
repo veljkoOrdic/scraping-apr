@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:58:45.436Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stocktonkia.co.uk/used-car/used/kia-picanto-1.0-wave-hatchback-5dr-petrol-manual-euro-6-(66-bhp)-in-stockton-on-tees-teesside/64318",
+    "dealer_id": "5758",
+    "car_id": "26879527",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "1.0 Wave",
+        "registration_number": "CJ68HYB",
+        "registration_date": "25/02/2019",
+        "mileage": 19654,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9199,
+        "total_price": 9199,
+        "deposit": 1839.8,
+        "balance": 7359.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.08,
+        "term": 30,
+        "regular_payment": 189.55,
+        "final_payment": 2952.88,
+        "total_amount_payable": 10479.18,
+        "total_charge_for_credit": 1280.18,
+        "amount_of_credit": 7359.2,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 15000,
+        "excess_mileage_rate": 14.9,
+        "residual": 2952.88,
+        "price_to_buy": 2952.88
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9199,
+        "total_price": 9199,
+        "deposit": 1839.8,
+        "balance": 7359.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 154.48,
+        "final_payment": 154.48,
+        "total_amount_payable": 11108.6,
+        "total_charge_for_credit": 1909.6,
+        "amount_of_credit": 7359.2,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

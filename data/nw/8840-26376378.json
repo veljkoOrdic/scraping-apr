@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:31:32.831Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cjscarsales.co.uk/used/seat/ibiza/10-tsi-115-fr-sport-ez-5dr/askam-in-furness/cumbria/21476549",
+    "dealer_id": "8840",
+    "car_id": "26376378",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ19RNR",
+        "registration_date": "18/06/2019",
+        "mileage": 47200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 253.37,
+        "final_payment": 254.37,
+        "total_amount_payable": 16502.7,
+        "total_charge_for_credit": 3507.7,
+        "amount_of_credit": 11695.5,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

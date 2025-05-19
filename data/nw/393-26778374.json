@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:20:50.163Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browns-autos.co.uk/details/used-car-in-portslade/mini/countryman/1.5-cooper-auto-euro-6-ss-5dr/1356137/",
+    "dealer_id": "393",
+    "car_id": "26778374",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY18ETL",
+        "registration_date": "02/05/2018",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15750,
+        "total_price": 15750,
+        "deposit": 1575,
+        "balance": 14175,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 297.54,
+        "final_payment": 297.54,
+        "total_amount_payable": 19427.4,
+        "total_charge_for_credit": 3677.4,
+        "amount_of_credit": 14175,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

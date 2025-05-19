@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:49:28.457Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/select-audi-a3-1-4-tfsie-40-s-line-sportback-s-tronic-euro-6-s-s-5dr-13kwh-5-door-hatchback-red/ky70ebl",
+    "dealer_id": "5502",
+    "car_id": "27372351",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY70EBL",
+        "registration_date": "04/11/2020",
+        "mileage": 13688,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 10.9,
+        "rate_of_interest": 5.59,
+        "term": 36,
+        "regular_payment": 583.75,
+        "final_payment": 593.75,
+        "total_amount_payable": 23024,
+        "total_charge_for_credit": 3029,
+        "amount_of_credit": 17996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 342.18,
+        "final_payment": 10505.5,
+        "total_amount_payable": 24480.8,
+        "total_charge_for_credit": 4485.8,
+        "amount_of_credit": 17996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.06,
+        "residual": 10504.5,
+        "price_to_buy": 10505.5
+      }
+    ]
+  }
+]

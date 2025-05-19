@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:39:44.292Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.georgekingsley.co.uk/used/cars/audi/a5/sportback-tfsi-s-line-vorsprung-mhev-quantum-grey-with-fine-nappa-leather-2645",
+    "dealer_id": "5725",
+    "car_id": "26122631",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LY19JZV",
+        "registration_date": "07/03/2019",
+        "mileage": 59615,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 3749.25,
+        "balance": 21245.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 552.17,
+        "final_payment": 552.17,
+        "balloon": 0,
+        "total_amount_payable": 30253.41,
+        "total_charge_for_credit": 5258.41,
+        "amount_of_credit": 21245.75,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 552.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 3749.25,
+        "balance": 21245.75,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 533.51,
+        "final_payment": 534.51,
+        "total_amount_payable": 29358.73,
+        "total_charge_for_credit": 4363.73,
+        "amount_of_credit": 21245.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

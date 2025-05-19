@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:46:59.413Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dundeecars.co.uk/used/ford-fiesta-1.1l-zetec-hatchback-3dr-petrol-manual-euro-6-(85-bhp)-in-dundee-tayside/61156",
+    "dealer_id": "8576",
+    "car_id": "26336691",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.1 Zetec",
+        "registration_number": "SE18ZVL",
+        "registration_date": "30/04/2018",
+        "mileage": 61497,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 699.5,
+        "balance": 6295.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 35,
+        "regular_payment": 148.66,
+        "final_payment": 2473.13,
+        "total_amount_payable": 8227.07,
+        "total_charge_for_credit": 1232.07,
+        "amount_of_credit": 6295.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 29166,
+        "excess_mileage_rate": 2.4,
+        "residual": 2473.13,
+        "price_to_buy": 2473.13
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 699.5,
+        "balance": 6295.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 140.65,
+        "final_payment": 141.65,
+        "total_amount_payable": 9139.5,
+        "total_charge_for_credit": 2144.5,
+        "amount_of_credit": 6295.5,
+        "lender": "CarFinance247 Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

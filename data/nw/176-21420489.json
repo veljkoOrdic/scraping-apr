@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:36:49.683Z",
+    "timestamp": "2025-05-15T14:47:28.531Z",
     "source": "new_vehicle_finance",
     "url": "https://www.newtonsofashley.com/used-mercedes-benz-c-class-new-milton-hampshire-5347508",
     "dealer_id": "176",
@@ -12,6 +12,29 @@
         "registration_date": "01/07/2008",
         "mileage": 64000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499,
+        "balance": 4496,
+        "apr": 16.6,
+        "rate_of_interest": 6.74,
+        "term": 60,
+        "regular_payment": 107.99,
+        "final_payment": 107.99,
+        "balloon": 0,
+        "total_amount_payable": 6978.4,
+        "total_charge_for_credit": 1983.4,
+        "amount_of_credit": 4496,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 107.99
       }
     ]
   }

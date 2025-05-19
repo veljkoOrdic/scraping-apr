@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:13:37.028Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashridgevehicles.co.uk/used-land-rover-range-rover-sport-little-gaddesden-hertfordshire-6926396",
+    "dealer_id": "7750",
+    "car_id": "27972558",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY21NUC",
+        "registration_date": "16/04/2021",
+        "mileage": 32200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35999,
+        "total_price": 35999,
+        "deposit": 3599,
+        "balance": 32400,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 827.82,
+        "final_payment": 828.82,
+        "total_amount_payable": 43335.36,
+        "total_charge_for_credit": 7336.36,
+        "amount_of_credit": 32400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35999,
+        "total_price": 35999,
+        "deposit": 3599,
+        "balance": 32400,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 49,
+        "regular_payment": 555.6,
+        "final_payment": 16256.19,
+        "total_amount_payable": 46523.99,
+        "total_charge_for_credit": 10524.99,
+        "amount_of_credit": 32400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 16255.19,
+        "price_to_buy": 16256.19
+      }
+    ]
+  }
+]

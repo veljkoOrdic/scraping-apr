@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T23:28:55.656Z",
+    "timestamp": "2025-05-15T17:24:32.010Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bowkermotorgroup.co.uk/bmw-used-cars/asset/2023-bmw-x5-xdrive30d-m-sport",
     "dealer_id": "6025",
@@ -8,31 +8,10 @@
     "data": [
       {
         "type": "vehicle",
-        "registration_number": "YA23GNJ",
-        "registration_date": "21/06/2023",
-        "mileage": 9111,
+        "registration_number": "YC73UMG",
+        "registration_date": "30/09/2023",
+        "mileage": 3900,
         "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 59900,
-        "total_price": 59900,
-        "deposit": 6590,
-        "balance": 53310,
-        "apr": 9.9,
-        "rate_of_interest": 9.9,
-        "term": 48,
-        "regular_payment": 1338.74,
-        "final_payment": 1338.74,
-        "total_amount_payable": 70849.52,
-        "total_charge_for_credit": 10949.52,
-        "amount_of_credit": 53310,
-        "lender": "BMW Financial Services (GB) Limited",
-        "annual_mileage": 8000,
-        "excess_mileage_rate": 0,
-        "residual": 0
       }
     ]
   }

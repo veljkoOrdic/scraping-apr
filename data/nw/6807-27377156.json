@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:20.978Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-maxus-t90ev-ampthill-bedfordshire-6777862",
+    "dealer_id": "6807",
+    "car_id": "27377156",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NV73ZFT",
+        "registration_date": "22/12/2023",
+        "mileage": 2500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17866.8,
+        "total_price": 17866.8,
+        "deposit": 0,
+        "balance": 14889,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 353,
+        "final_payment": 354,
+        "total_amount_payable": 24158.8,
+        "total_charge_for_credit": 6292,
+        "amount_of_credit": 14889,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

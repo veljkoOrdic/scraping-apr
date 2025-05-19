@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T15:45:33.816Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.nottinghamcar.com/used-porsche-taycan-nottingham-nottinghamshire-6934440",
+    "dealer_id": "2683",
+    "car_id": "28027769",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "390kW 4S 79kWh",
+        "registration_number": "SV22LHK",
+        "registration_date": "30/03/2022",
+        "mileage": 44794,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43495,
+        "total_price": 43495,
+        "deposit": 4349,
+        "balance": 39146,
+        "apr": 9.5,
+        "rate_of_interest": 4.75,
+        "term": 48,
+        "regular_payment": 690.71,
+        "final_payment": 17211.96,
+        "total_amount_payable": 54024.33,
+        "total_charge_for_credit": 10529.33,
+        "amount_of_credit": 39146,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 16511.25,
+        "price_to_buy": 17211.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43495,
+        "total_price": 43495,
+        "deposit": 4349,
+        "balance": 39146,
+        "apr": 9.5,
+        "rate_of_interest": 4.75,
+        "term": 60,
+        "regular_payment": 814.61,
+        "final_payment": 814.61,
+        "total_amount_payable": 53225.6,
+        "total_charge_for_credit": 9730.6,
+        "amount_of_credit": 39146,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

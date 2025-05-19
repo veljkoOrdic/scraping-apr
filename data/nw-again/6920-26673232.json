@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:25:43.170Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rsgmotors.co.uk/used-ford-kuga-uxbridge-london-6591911",
+    "dealer_id": "6920",
+    "car_id": "26673232",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM17LEJ",
+        "registration_date": "24/07/2017",
+        "mileage": 102332,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8250,
+        "total_price": 8250,
+        "deposit": 825,
+        "balance": 7425,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 165.88,
+        "final_payment": 166.88,
+        "total_amount_payable": 10778.8,
+        "total_charge_for_credit": 2528.8,
+        "amount_of_credit": 7425,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

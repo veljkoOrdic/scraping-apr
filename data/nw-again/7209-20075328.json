@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:33:26.503Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carltonmotorco.co.uk/used-ford-transit-darlington-county-durham-5015291",
+    "dealer_id": "7209",
+    "car_id": "20075328",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HG19LOJ",
+        "registration_date": "07/05/2019",
+        "mileage": 101558,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20340,
+        "total_price": 20340,
+        "deposit": 3390,
+        "balance": 16950,
+        "apr": 11.4,
+        "rate_of_interest": 5.49,
+        "term": 60,
+        "regular_payment": 367.48,
+        "final_payment": 367.48,
+        "balloon": 0,
+        "total_amount_payable": 25438.8,
+        "total_charge_for_credit": 5098.8,
+        "amount_of_credit": 16950,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 367.48
+      }
+    ]
+  }
+]

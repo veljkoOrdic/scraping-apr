@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:08:24.126Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoinfusion.co.uk/used-ford-kuga-bristol-avon-6671869",
+    "dealer_id": "6607",
+    "car_id": "27445101",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO63FDJ",
+        "registration_date": "16/10/2013",
+        "mileage": 114517,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4349,
+        "total_price": 4349,
+        "deposit": 434,
+        "balance": 3915,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 41,
+        "regular_payment": 110.44,
+        "final_payment": 111.44,
+        "total_amount_payable": 4963.04,
+        "total_charge_for_credit": 614.04,
+        "amount_of_credit": 3915,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

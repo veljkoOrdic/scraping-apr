@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:14:13.539Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bexhillmotors.co.uk/used/cars/bentley/bentayga/4-0-v8-d-automatic-1805",
+    "dealer_id": "6749",
+    "car_id": "26444912",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AE18XFH",
+        "registration_date": "29/06/2018",
+        "mileage": 27000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 76999,
+        "total_price": 76999,
+        "deposit": 1000,
+        "balance": 75999,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 1732.55,
+        "final_payment": 1732.55,
+        "balloon": 0,
+        "total_amount_payable": 104953,
+        "total_charge_for_credit": 27954,
+        "amount_of_credit": 75999,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1732.55
+      }
+    ]
+  }
+]

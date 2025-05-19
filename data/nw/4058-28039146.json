@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:01:44.782Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suffolktradecentre.co.uk/details/used-car-in-newmarket/landrover/defender110/3.0-d250-mhev-x-dynamic-hse-auto-4wd-euro-6-ss-5dr/1464922/",
+    "dealer_id": "4058",
+    "car_id": "28039146",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FM73RNF",
+        "registration_date": "30/11/2023",
+        "mileage": 3000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69500,
+        "total_price": 69500,
+        "deposit": 13900,
+        "balance": 55600,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1167.07,
+        "final_payment": 1168.07,
+        "total_amount_payable": 83925.2,
+        "total_charge_for_credit": 14425.2,
+        "amount_of_credit": 55600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69500,
+        "total_price": 69500,
+        "deposit": 13900,
+        "balance": 55600,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 849.97,
+        "final_payment": 31983.7,
+        "total_amount_payable": 86682.26,
+        "total_charge_for_credit": 17182.26,
+        "amount_of_credit": 55600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 31982.7,
+        "price_to_buy": 31983.7
+      }
+    ]
+  }
+]

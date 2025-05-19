@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T20:08:03.832Z",
+    "timestamp": "2025-05-15T16:00:46.223Z",
     "source": "new_vehicle_finance",
     "url": "https://www.ourcar.co.uk/used-audi-a5-cabriolet-grainthorpe-lincolnshire-6610397",
     "dealer_id": "7667",
     "car_id": "26740237",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG12KLU",
+        "registration_date": "02/03/2012",
+        "mileage": 100345,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5990,
+        "total_price": 5990,
+        "deposit": 599,
+        "balance": 5391,
+        "apr": 11.9,
+        "rate_of_interest": 6.15,
+        "term": 48,
+        "regular_payment": 139.95,
+        "final_payment": 149.95,
+        "balloon": 0,
+        "total_amount_payable": 7326.6,
+        "total_charge_for_credit": 1336.6,
+        "amount_of_credit": 5391,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 149.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5990,
+        "total_price": 5990,
+        "deposit": 599,
+        "balance": 5391,
+        "apr": 10.9,
+        "rate_of_interest": 5.59,
+        "term": 21,
+        "regular_payment": 281.82,
+        "final_payment": 282.82,
+        "total_amount_payable": 6518.22,
+        "total_charge_for_credit": 528.22,
+        "amount_of_credit": 5391,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

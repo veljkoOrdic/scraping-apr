@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T16:47:49.762Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetwisevehiclesales.co.uk/used-bmw-m5-northern-island-northern-ireland-6693655",
+    "dealer_id": "6118",
+    "car_id": "27056669",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YNZ8020",
+        "registration_date": "12/03/2020",
+        "mileage": 22970,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 0,
+        "balance": 49995,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 1299.19,
+        "final_payment": 1309.19,
+        "balloon": 0,
+        "total_amount_payable": 62371.12,
+        "total_charge_for_credit": 12376.12,
+        "amount_of_credit": 49995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1309.19
+      }
+    ]
+  }
+]

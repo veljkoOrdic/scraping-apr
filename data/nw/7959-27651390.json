@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:41:37.386Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fgcars.uk/details/car-in-loughborough/bmw/x5/3.0-40d-m-sport-auto-xdrive-euro-6-ss-5dr/1428848/",
+    "dealer_id": "7959",
+    "car_id": "27651390",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SE65HYR",
+        "registration_date": "24/12/2015",
+        "mileage": 85792,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20478,
+        "total_price": 20478,
+        "deposit": 0,
+        "balance": 20478,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 448.26,
+        "final_payment": 449.26,
+        "total_amount_payable": 26896.6,
+        "total_charge_for_credit": 6418.6,
+        "amount_of_credit": 20478,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

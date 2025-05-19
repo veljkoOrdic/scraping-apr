@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:38:25.392Z",
+    "timestamp": "2025-05-15T16:42:42.321Z",
     "source": "new_vehicle_finance",
     "url": "https://www.colinludwellcars.co.uk/used-car-details/used-volkswagen-transporter-t32-tdi-kombi-highline-4motion-window-van-pure-grey-automatic-diesel/id-2022/",
     "dealer_id": "7985",
@@ -12,6 +12,29 @@
         "registration_date": "26/03/2024",
         "mileage": 1450,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 72000,
+        "total_price": 72000,
+        "deposit": 21000,
+        "balance": 51000,
+        "apr": 14,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 1166.07,
+        "final_payment": 1166.07,
+        "balloon": 0,
+        "total_amount_payable": 90964.2,
+        "total_charge_for_credit": 18964.2,
+        "amount_of_credit": 51000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1166.07
       },
       {
         "type": "finance_hp",

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:09:49.754Z",
+    "timestamp": "2025-05-15T15:34:58.914Z",
     "source": "new_vehicle_finance",
     "url": "https://www.llanellimotorcompany.co.uk/used-vehicle-details/Skoda-Fabia-U8507/",
     "dealer_id": "7446",
@@ -12,6 +12,29 @@
         "registration_date": "24/11/2017",
         "mileage": 36371,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 213.96,
+        "final_payment": 213.96,
+        "balloon": 0,
+        "total_amount_payable": 11169.58,
+        "total_charge_for_credit": 2174.58,
+        "amount_of_credit": 8095.5,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 213.96
       },
       {
         "type": "finance_hp",

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:35:43.897Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autopointautosdunbartonshire.co.uk/used-ford-ranger-argyll-and-bute-dunbartonshire-6884427",
+    "dealer_id": "3578",
+    "car_id": "27822535",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB72LBE",
+        "registration_date": "19/01/2023",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26979,
+        "total_price": 26979,
+        "deposit": 0,
+        "balance": 26979,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 578.41,
+        "final_payment": 579.41,
+        "total_amount_payable": 34705.6,
+        "total_charge_for_credit": 7726.6,
+        "amount_of_credit": 26979,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

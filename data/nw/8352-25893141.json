@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T23:33:50.040Z",
+    "timestamp": "2025-05-15T17:32:19.232Z",
     "source": "new_vehicle_finance",
     "url": "https://www.primemotorsessex.co.uk/used-volkswagen-golf-harlow-essex-6355482",
     "dealer_id": "8352",
@@ -12,6 +12,29 @@
         "registration_date": "06/03/2007",
         "mileage": 70000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11749,
+        "total_price": 11749,
+        "deposit": 1174,
+        "balance": 10575,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 231.37,
+        "final_payment": 241.37,
+        "balloon": 0,
+        "total_amount_payable": 15066.2,
+        "total_charge_for_credit": 3317.2,
+        "amount_of_credit": 10575,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 241.37
       }
     ]
   }

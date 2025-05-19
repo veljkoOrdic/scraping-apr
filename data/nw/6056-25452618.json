@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:33:52.322Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dinnages.co.uk/used-car-details/used-ford-puma-10t-ecoboost-mhev-st-line-suv-suv-frozen-white-manual-petrol-hybrid/id-1202/",
+    "dealer_id": "6056",
+    "car_id": "25452618",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX23LJL",
+        "registration_date": "13/03/2023",
+        "mileage": 17000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17000,
+        "total_price": 17000,
+        "deposit": 3400,
+        "balance": 13600,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 452.96,
+        "final_payment": 453.96,
+        "total_amount_payable": 19707.56,
+        "total_charge_for_credit": 2707.56,
+        "amount_of_credit": 13600,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17000,
+        "total_price": 17000,
+        "deposit": 3400,
+        "balance": 13600,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 50,
+        "regular_payment": 242.19,
+        "final_payment": 7110.3,
+        "total_amount_payable": 22377.61,
+        "total_charge_for_credit": 5377.61,
+        "amount_of_credit": 13600,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 0.04,
+        "residual": 7110.3,
+        "price_to_buy": 7110.3
+      }
+    ]
+  }
+]

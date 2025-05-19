@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:46:08.840Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitestonegarage.co.uk/used-nissan-micra-blackburn-lancashire-6206612",
+    "dealer_id": "8426",
+    "car_id": "25112205",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DN67NNW",
+        "registration_date": "30/09/2017",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7750,
+        "total_price": 7750,
+        "deposit": 775,
+        "balance": 6975,
+        "apr": 17.6,
+        "rate_of_interest": 8,
+        "term": 60,
+        "regular_payment": 170.92,
+        "final_payment": 170.92,
+        "balloon": 0,
+        "total_amount_payable": 11030.2,
+        "total_charge_for_credit": 3280.2,
+        "amount_of_credit": 6975,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 170.92
+      }
+    ]
+  }
+]

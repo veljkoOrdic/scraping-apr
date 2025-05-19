@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:00:06.721Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.surreyspecialistcars.co.uk/used-jaguar-xe-guildford-surrey-6680808",
+    "dealer_id": "9357",
+    "car_id": "27023000",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF17JSY",
+        "registration_date": "22/05/2017",
+        "mileage": 58690,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10840,
+        "total_price": 10840,
+        "deposit": 1084,
+        "balance": 9756,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 204.77,
+        "final_payment": 205.77,
+        "total_amount_payable": 13371.2,
+        "total_charge_for_credit": 2531.2,
+        "amount_of_credit": 9756,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

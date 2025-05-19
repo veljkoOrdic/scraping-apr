@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:12:51.361Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.merciamotors.co.uk/vehicle-details/used-hyundai-tucson-1-6-gdi-se-nav-euro-6-s-s-5dr-for-sale-in-sheffield-south-yorkshire-u4133/",
+    "dealer_id": "1695",
+    "car_id": "27332636",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA68TMO",
+        "registration_date": "28/09/2018",
+        "mileage": 46755,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11250,
+        "total_price": 11250,
+        "deposit": 1125,
+        "balance": 10125,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 221.52,
+        "final_payment": 231.52,
+        "total_amount_payable": 14426.2,
+        "total_charge_for_credit": 3176.2,
+        "amount_of_credit": 10125,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

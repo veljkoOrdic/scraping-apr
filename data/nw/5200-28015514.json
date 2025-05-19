@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:02.670Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.britanniamotorcompany.com/used-toyota-proace-city-verso-newport-gwent-6937077",
+    "dealer_id": "5200",
+    "car_id": "28015514",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CV74ZDO",
+        "registration_date": "22/11/2024",
+        "mileage": 2000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 2399,
+        "balance": 21591,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 462.91,
+        "final_payment": 462.91,
+        "total_amount_payable": 30173.6,
+        "total_charge_for_credit": 6183.6,
+        "amount_of_credit": 21591,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 2399,
+        "balance": 21591,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 346.11,
+        "final_payment": 12274,
+        "total_amount_payable": 31286.28,
+        "total_charge_for_credit": 7296.28,
+        "amount_of_credit": 21591,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0,
+        "residual": 12274,
+        "price_to_buy": 12274
+      }
+    ]
+  }
+]

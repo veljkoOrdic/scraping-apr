@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:00:45.312Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.auto-sportiva.com/vehicle/bmw-m2-in-kent-bcba4964-c9fe-4fcc-a2ef-b27c00b52f7f",
+    "dealer_id": "5545",
+    "car_id": "27011308",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD23HSR",
+        "registration_date": "19/07/2023",
+        "mileage": 5867,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48950,
+        "total_price": 48950,
+        "deposit": 7342.5,
+        "balance": 41607.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1026.64,
+        "final_payment": 1027.64,
+        "total_amount_payable": 56622.22,
+        "total_charge_for_credit": 7672.22,
+        "amount_of_credit": 41607.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48950,
+        "total_price": 48950,
+        "deposit": 7342.5,
+        "balance": 41607.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.33,
+        "term": 49,
+        "regular_payment": 549.19,
+        "final_payment": 27409,
+        "total_amount_payable": 61112.62,
+        "total_charge_for_credit": 12162.62,
+        "amount_of_credit": 41607.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.24,
+        "residual": 27408,
+        "price_to_buy": 27409
+      }
+    ]
+  }
+]

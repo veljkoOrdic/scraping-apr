@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T17:16:53.197Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.adcvehiclesales.co.uk/details/used-car-in-ashton-under-lyne/audi/s3/2.0-tfsi-s-tronic-quattro-euro-6-ss-4dr/1467585/",
+    "dealer_id": "7881",
+    "car_id": "28073479",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SALOON",
+        "derivative": "S3 TFSI Quattro S Tronic",
+        "registration_number": "MM21LMV",
+        "registration_date": "07/06/2021",
+        "mileage": 22031,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799.5,
+        "balance": 25195.5,
+        "apr": 12.1,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 553.49,
+        "final_payment": 553.49,
+        "total_amount_payable": 36008.9,
+        "total_charge_for_credit": 8013.9,
+        "amount_of_credit": 25195.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799.5,
+        "balance": 25195.5,
+        "apr": 12.1,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 448.68,
+        "final_payment": 13102.43,
+        "total_amount_payable": 36989.89,
+        "total_charge_for_credit": 8994.89,
+        "amount_of_credit": 25195.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12643.75,
+        "price_to_buy": 13102.43
+      }
+    ]
+  }
+]

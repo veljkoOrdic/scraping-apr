@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:39:26.529Z",
+    "timestamp": "2025-05-15T14:56:48.345Z",
     "source": "new_vehicle_finance",
     "url": "https://www.vanstar.co.uk/used-volkswagen-transporter-leeds-yorkshire-6394003",
     "dealer_id": "7201",
@@ -12,6 +12,29 @@
         "registration_date": "20/09/2022",
         "mileage": 8000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42989,
+        "total_price": 42989,
+        "deposit": 8597,
+        "balance": 34392,
+        "apr": 12.8,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 767.22,
+        "final_payment": 767.22,
+        "balloon": 0,
+        "total_amount_payable": 54630.2,
+        "total_charge_for_credit": 11641.2,
+        "amount_of_credit": 34392,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 767.22
       },
       {
         "type": "finance_hp",

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T13:52:18.422Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuegarageltd.co.uk/used-vauxhall-adam-dunstable-bedfordshire-6634263",
+    "dealer_id": "1894",
+    "car_id": "26823509",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV69OJL",
+        "registration_date": "30/09/2019",
+        "mileage": 61490,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7177,
+        "total_price": 7177,
+        "deposit": 717,
+        "balance": 6460,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 141.4,
+        "final_payment": 142.4,
+        "total_amount_payable": 9202,
+        "total_charge_for_credit": 2025,
+        "amount_of_credit": 6460,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

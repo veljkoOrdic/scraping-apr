@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:08:47.425Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.smtautomotive.co.uk/used/cars/land-rover/defender/2-0-defender-s-d-auto-4wd-5dr-622",
+    "dealer_id": "7106",
+    "car_id": "28006234",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 D240 S 110",
+        "registration_number": "YC70RLY",
+        "registration_date": "22/09/2020",
+        "mileage": 51715,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 0,
+        "balance": 39995,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 659.81,
+        "final_payment": 14385.71,
+        "total_amount_payable": 53314.5,
+        "total_charge_for_credit": 13319.5,
+        "amount_of_credit": 39995,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.07,
+        "residual": 14385.71,
+        "price_to_buy": 14385.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 0,
+        "balance": 39995,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 839.39,
+        "final_payment": 849.39,
+        "total_amount_payable": 50373.4,
+        "total_charge_for_credit": 10378.4,
+        "amount_of_credit": 39995,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

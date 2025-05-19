@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:42:28.501Z",
+    "timestamp": "2025-05-15T14:17:16.592Z",
     "source": "new_vehicle_finance",
     "url": "https://www.southandwestmotorsltd.co.uk/used-citroen-berlingo-bath-somerset-5445697",
     "dealer_id": "4736",
@@ -12,6 +12,29 @@
         "registration_date": "14/03/2018",
         "mileage": 116706,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5982,
+        "total_price": 5982,
+        "deposit": 997,
+        "balance": 4985,
+        "apr": 17.2,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 121.15,
+        "final_payment": 121.15,
+        "balloon": 0,
+        "total_amount_payable": 8266,
+        "total_charge_for_credit": 2284,
+        "amount_of_credit": 4985,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 121.15
       }
     ]
   }

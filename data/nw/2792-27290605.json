@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:56.491Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuevehicles.co.uk/used/cars/land-rover/range-rover-sport/3-0-range-rover-sport-hse-dynamic-sdv6-automaitc-4wd-5dr-national-deliver-503",
+    "dealer_id": "2792",
+    "car_id": "27290605",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY67HTU",
+        "registration_date": "17/11/2017",
+        "mileage": 37812,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 100,
+        "balance": 26895,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 600.79,
+        "final_payment": 610.79,
+        "balloon": 0,
+        "total_amount_payable": 36157.4,
+        "total_charge_for_credit": 9162.4,
+        "amount_of_credit": 26895,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 610.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26995,
+        "total_price": 26995,
+        "deposit": 100,
+        "balance": 26895,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 564.55,
+        "final_payment": 565.55,
+        "total_amount_payable": 33974,
+        "total_charge_for_credit": 6979,
+        "amount_of_credit": 26895,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

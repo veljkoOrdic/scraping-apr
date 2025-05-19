@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:50:41.301Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-ford-transit-custom-derry-county-londonderry-6877833",
+    "dealer_id": "5905",
+    "car_id": "27794760",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NIW555",
+        "registration_date": "24/11/2022",
+        "mileage": 682,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45995,
+        "total_price": 45995,
+        "deposit": 2299,
+        "balance": 43696,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 956.52,
+        "final_payment": 957.52,
+        "total_amount_payable": 59691.2,
+        "total_charge_for_credit": 13696.2,
+        "amount_of_credit": 43696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

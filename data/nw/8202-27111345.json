@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T22:58:48.197Z",
+    "timestamp": "2025-05-15T17:18:16.883Z",
     "source": "new_vehicle_finance",
     "url": "https://www.ns-cars.co.uk/used-land-rover-range-rover-sport-liverpool-merseyside-6708600",
     "dealer_id": "8202",
     "car_id": "27111345",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "JA19CKR",
-        "registration_date": "26/06/2019",
-        "mileage": 68900,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 30849,
-        "total_price": 30849,
-        "deposit": 6169,
-        "balance": 24680,
-        "apr": 10.9,
-        "rate_of_interest": 5.69,
-        "term": 54,
-        "regular_payment": 574.12,
-        "final_payment": 574.12,
-        "total_amount_payable": 37171.48,
-        "total_charge_for_credit": 6322.48,
-        "amount_of_credit": 24680,
-        "lender": "Octane Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 30849,
-        "total_price": 30849,
-        "deposit": 6169,
-        "balance": 24680,
-        "apr": 10.9,
-        "rate_of_interest": 10.9,
-        "term": 49,
-        "regular_payment": 397.21,
-        "final_payment": 13935.5,
-        "total_amount_payable": 39170.58,
-        "total_charge_for_credit": 8321.58,
-        "amount_of_credit": 24680,
-        "lender": "Octane Finance",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.07,
-        "residual": 13935.5,
-        "price_to_buy": 13935.5
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

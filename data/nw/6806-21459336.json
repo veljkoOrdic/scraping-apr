@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:46.005Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mcautosales.co.uk/used-skoda-kodiaq-magherafelt-londonderry-5357322",
+    "dealer_id": "6806",
+    "car_id": "21459336",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV69UYO",
+        "registration_date": "16/12/2019",
+        "mileage": 79000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 0,
+        "balance": 21495,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 50,
+        "regular_payment": 522.01,
+        "final_payment": 523.01,
+        "total_amount_payable": 26101.5,
+        "total_charge_for_credit": 4606.5,
+        "amount_of_credit": 21495,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

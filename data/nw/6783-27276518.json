@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:43:11.600Z",
+    "timestamp": "2025-05-15T18:57:32.804Z",
     "source": "new_vehicle_finance",
     "url": "https://www.tvscars.co.uk/details/used-van-in-bridgnorth/toyota/hilux/2.8-d-4d-invincible-x-auto-4wd-euro-6-ss-4dr/1399101/",
     "dealer_id": "6783",
@@ -12,6 +12,29 @@
         "registration_date": "05/01/2023",
         "mileage": 40500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 40180.8,
+        "total_price": 40180.8,
+        "deposit": 6696.8,
+        "balance": 33484,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 840.86,
+        "final_payment": 840.86,
+        "balloon": 0,
+        "total_amount_payable": 47058.08,
+        "total_charge_for_credit": 6877.28,
+        "amount_of_credit": 33484,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 840.86
       },
       {
         "type": "finance_hp",

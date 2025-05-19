@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:37:02.263Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.srmotorcompany.co.uk/details/car-in-glasgow/bentley/continental/6.0-w12-gt-speed-auto-4wd-euro-5-2dr/1461536/",
+    "dealer_id": "4375",
+    "car_id": "28005317",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX13GGO",
+        "registration_date": "30/04/2013",
+        "mileage": 76000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28990,
+        "total_price": 28990,
+        "deposit": 0,
+        "balance": 28990,
+        "apr": 9.9,
+        "rate_of_interest": 5.09,
+        "term": 35,
+        "regular_payment": 951.25,
+        "final_payment": 952.25,
+        "total_amount_payable": 33294.75,
+        "total_charge_for_credit": 4304.75,
+        "amount_of_credit": 28990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:28:36.429Z",
+    "timestamp": "2025-05-15T14:47:33.838Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kennymurraycarsltd.co.uk/used-bmw-4-series-fraserburgh-aberdeenshire-6643693",
     "dealer_id": "4914",
@@ -12,6 +12,29 @@
         "registration_date": "23/11/2018",
         "mileage": 36000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21750,
+        "total_price": 21750,
+        "deposit": 2175,
+        "balance": 19575,
+        "apr": 12.4,
+        "rate_of_interest": 6.53,
+        "term": 60,
+        "regular_payment": 432.81,
+        "final_payment": 442.81,
+        "balloon": 0,
+        "total_amount_payable": 28153.6,
+        "total_charge_for_credit": 6403.6,
+        "amount_of_credit": 19575,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 442.81
       },
       {
         "type": "finance_hp",
@@ -44,18 +67,18 @@
         "balance": 19575,
         "apr": 11.9,
         "rate_of_interest": 11.9,
-        "term": 43,
-        "regular_payment": 419.15,
-        "final_payment": 7615,
-        "total_amount_payable": 27394.3,
-        "total_charge_for_credit": 5644.3,
+        "term": 42,
+        "regular_payment": 423.74,
+        "final_payment": 7732.5,
+        "total_amount_payable": 27280.84,
+        "total_charge_for_credit": 5530.84,
         "amount_of_credit": 19575,
         "lender": "Evolution Funding",
         "annual_mileage": 8000,
-        "contract_mileage": 28667,
+        "contract_mileage": 28000,
         "excess_mileage_rate": 0.05,
-        "residual": 7614,
-        "price_to_buy": 7615
+        "residual": 7731.5,
+        "price_to_buy": 7732.5
       }
     ]
   }

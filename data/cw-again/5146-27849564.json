@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:46:21.230Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ronbrooks.co.uk/usedcars/2021-land-rover-defender-110-5-0-p525-v8-auto-4wd-euro-6-s-s-5dr/",
+    "dealer_id": "5146",
+    "car_id": "27849564",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE",
+        "derivative": "5.0 P525 V8 110",
+        "registration_number": "RA21USH",
+        "registration_date": "31/07/2021",
+        "mileage": 30169,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79650,
+        "total_price": 79650,
+        "deposit": 7965,
+        "balance": 71685,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 48,
+        "regular_payment": 1831.59,
+        "final_payment": 1831.59,
+        "total_amount_payable": 95881.32,
+        "total_charge_for_credit": 16231.32,
+        "amount_of_credit": 71685,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79650,
+        "total_price": 79650,
+        "deposit": 7965,
+        "balance": 71685,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 1267.3,
+        "final_payment": 34674,
+        "total_amount_payable": 102202.1,
+        "total_charge_for_credit": 22552.1,
+        "amount_of_credit": 71685,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 16.8,
+        "residual": 34664,
+        "price_to_buy": 34674
+      }
+    ]
+  }
+]

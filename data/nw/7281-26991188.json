@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:34.909Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/commercials/toyota/hilux/crew-cab-auto-4x4-invincible-x-4wd-cam-nav-euro-6-no-vat-4147",
+    "dealer_id": "7281",
+    "car_id": "26991188",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM23JYH",
+        "registration_date": "21/06/2023",
+        "mileage": 11392,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42989,
+        "total_price": 42989,
+        "deposit": 10747.25,
+        "balance": 32241.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 705.78,
+        "final_payment": 706.78,
+        "total_amount_payable": 53095.05,
+        "total_charge_for_credit": 10106.05,
+        "amount_of_credit": 32241.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

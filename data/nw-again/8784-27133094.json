@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:10:53.643Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/nissan/gt-r/recaro-258",
+    "dealer_id": "8784",
+    "car_id": "27133094",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX21VXZ",
+        "registration_date": "16/03/2021",
+        "mileage": 30500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 81950,
+        "total_price": 81950,
+        "deposit": 8195,
+        "balance": 73755,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1515.19,
+        "final_payment": 1516.19,
+        "total_amount_payable": 99107.4,
+        "total_charge_for_credit": 17157.4,
+        "amount_of_credit": 73755,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 81950,
+        "total_price": 81950,
+        "deposit": 8195,
+        "balance": 73755,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1141.47,
+        "final_payment": 29004.11,
+        "total_amount_payable": 104545.84,
+        "total_charge_for_credit": 22595.84,
+        "amount_of_credit": 73755,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 0.17,
+        "residual": 29003.11,
+        "price_to_buy": 29004.11
+      }
+    ]
+  }
+]

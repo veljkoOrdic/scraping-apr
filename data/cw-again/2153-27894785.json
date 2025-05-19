@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:29:06.880Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/porsche/718/4.0-gt4-rs-pdk-euro-6-ss-2dr/1451545/",
+    "dealer_id": "2153",
+    "car_id": "27894785",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYMAN",
+        "variant": "718  COUPE",
+        "derivative": "4.0 GT4 RS PDK",
+        "registration_number": "GY23FRU",
+        "registration_date": "12/05/2023",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 115295,
+        "total_price": 115295,
+        "deposit": 11529.5,
+        "balance": 103765.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1854.43,
+        "final_payment": 60342,
+        "total_amount_payable": 159029.71,
+        "total_charge_for_credit": 43734.71,
+        "amount_of_credit": 103765.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 118,
+        "residual": 60342,
+        "price_to_buy": 60342
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 115295,
+        "total_price": 115295,
+        "deposit": 11529.5,
+        "balance": 103765.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 2788.19,
+        "final_payment": 2788.19,
+        "total_amount_payable": 145362.62,
+        "total_charge_for_credit": 30067.62,
+        "amount_of_credit": 103765.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:16.040Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dcedgintonandsons.co.uk/used-abarth-595-redditch-warwickshire-6738864",
+    "dealer_id": "2756",
+    "car_id": "27288272",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO20BYS",
+        "registration_date": "06/03/2020",
+        "mileage": 5000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18950,
+        "total_price": 18950,
+        "deposit": 0,
+        "balance": 18950,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 397.76,
+        "final_payment": 398.76,
+        "total_amount_payable": 23866.6,
+        "total_charge_for_credit": 4916.6,
+        "amount_of_credit": 18950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:26:29.597Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ktcarsltd.com/used-vauxhall-mokka-weldon-northamptonshire-6560299",
+    "dealer_id": "3256",
+    "car_id": "26802972",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KU65AEF",
+        "registration_date": "03/09/2015",
+        "mileage": 47048,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 0,
+        "balance": 6495,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 171.64,
+        "final_payment": 172.64,
+        "total_amount_payable": 8239.72,
+        "total_charge_for_credit": 1744.72,
+        "amount_of_credit": 6495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

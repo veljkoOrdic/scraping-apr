@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T17:45:17.526Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.crmorrow.com/used/hyundai/tucson/16t-hybrid-n-line-s-5dr-auto-52024/newry/county-down/21579262",
+    "dealer_id": "8085",
+    "car_id": "27724965",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "TUCSON",
+        "variant": "ESTATE",
+        "derivative": "1.6T Hybrid N Line S",
+        "registration_number": "ISZ6888",
+        "registration_date": "02/01/2025",
+        "mileage": 3552,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 525.63,
+        "final_payment": 15930,
+        "total_amount_payable": 44133.61,
+        "total_charge_for_credit": 9143.61,
+        "amount_of_credit": 31491,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12.5,
+        "residual": 15930,
+        "price_to_buy": 15930
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34990,
+        "total_price": 34990,
+        "deposit": 3499,
+        "balance": 31491,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 790.81,
+        "final_payment": 790.81,
+        "total_amount_payable": 41457.88,
+        "total_charge_for_credit": 6467.88,
+        "amount_of_credit": 31491,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

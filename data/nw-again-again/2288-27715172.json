@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:39:25.278Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorvillagebristol.com/used-ford-transit-bristol-somerset-6856258",
+    "dealer_id": "2288",
+    "car_id": "27715172",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "JCY666",
+        "registration_date": "19/10/2016",
+        "mileage": 46000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999,
+        "balance": 44996,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 984.86,
+        "final_payment": 994.86,
+        "balloon": 0,
+        "total_amount_payable": 64100.6,
+        "total_charge_for_credit": 14105.6,
+        "amount_of_credit": 44996,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 994.86
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999,
+        "balance": 44996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 944.5,
+        "final_payment": 945.5,
+        "total_amount_payable": 61670,
+        "total_charge_for_credit": 11675,
+        "amount_of_credit": 44996,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

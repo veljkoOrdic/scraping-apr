@@ -1,85 +1,26 @@
 [
   {
-    "timestamp": "2025-04-14T20:38:32.600Z",
+    "timestamp": "2025-05-15T15:46:32.304Z",
     "source": "new_vehicle_finance",
     "url": "https://www.seniorcars.co.uk/details/used-car-in-market-harborough/ford/puma/1.0t-ecoboost-mhev-st-line-x-euro-6-ss-5dr/1231601/",
     "dealer_id": "5450",
     "car_id": "25247383",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "EU72NHX",
-        "registration_date": "22/12/2022",
-        "mileage": 24000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 16000,
-        "total_price": 16000,
-        "deposit": 1600,
-        "balance": 14400,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 302.25,
-        "final_payment": 303.25,
-        "total_amount_payable": 19736,
-        "total_charge_for_credit": 3736,
-        "amount_of_credit": 14400,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_lp",
-        "name": "LP",
-        "finance_type": "Lease Purchase",
-        "cash_price": 16000,
-        "total_price": 16000,
-        "deposit": 1600,
-        "balance": 14400,
-        "apr": 9.9,
-        "rate_of_interest": 4.85,
-        "term": 49,
-        "regular_payment": 232.86,
-        "final_payment": 7538.5,
-        "balloon": 7537.5,
-        "total_amount_payable": 20315.78,
-        "total_charge_for_credit": 4315.78,
-        "amount_of_credit": 14400,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 7537.5,
-        "price_to_buy": 7538.5
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 16000,
-        "total_price": 16000,
-        "deposit": 1600,
-        "balance": 14400,
-        "apr": 9.9,
-        "rate_of_interest": 4.85,
-        "term": 49,
-        "regular_payment": 233.27,
-        "final_payment": 7514.68,
-        "total_amount_payable": 20311.64,
-        "total_charge_for_credit": 4311.64,
-        "amount_of_credit": 14400,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.08,
-        "residual": 7513.68,
-        "price_to_buy": 7514.68
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.seniorcars.co.uk&quoteeUid=C69DCD23-7A8C-463D-BE77-B0BCF142EB6C&class=Car&condition=used&vrm=EU72NHX&registrationDate=22/12/2022&capCode=&capId=&cashPrice=16000&vatIncluded=true&vatQualifying=false&currentOdometerReading=24000&vehicleImageUrl=https://www.seniorcars.co.uk/assets/1231601/large/f550c840c7d9a8d64cef02eb3497da46_1231601.jpg&cashDepositType=Percentage&cashDeposit=1600&term=60&annualDistance=10000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.seniorcars.co.uk&quoteeUid=C69DCD23-7A8C-463D-BE77-B0BCF142EB6C&class=Car&condition=used&vrm=EU72NHX&registrationDate=22%2F12%2F2022&capCode=&capId=&cashPrice=16000&vatIncluded=true&vatQualifying=false&currentOdometerReading=24000&vehicleImageUrl=https%3A%2F%2Fwww.seniorcars.co.uk%2Fassets%2F1231601%2Flarge%2Ff550c840c7d9a8d64cef02eb3497da46_1231601.jpg&cashDepositType=Percentage&cashDeposit=1600&term=60&annualDistance=10000&dateOnForecourt=&origin=https%3A%2F%2Fwww.seniorcars.co.uk%2Fdetails%2Fused-car-in-market-harborough%2Fford%2Fpuma%2F1.0t-ecoboost-mhev-st-line-x-euro-6-ss-5dr%2F1231601%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

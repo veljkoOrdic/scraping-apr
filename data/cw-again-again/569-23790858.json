@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-16T11:47:01.863Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kbcarcentre.co.uk/used-dacia-sandero-stepway-burton-on-trent-staffordshire-5894960",
+    "dealer_id": "569",
+    "car_id": "23790858",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Dacia",
+        "model": "SANDERO STEPWAY",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "1.0 TCe Bi-Fuel SE Twenty",
+        "registration_number": "LP70GZX",
+        "registration_date": "22/02/2021",
+        "mileage": 17000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8000,
+        "total_price": 8000,
+        "deposit": 800,
+        "balance": 7200,
+        "apr": 14.2,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 165.16,
+        "final_payment": 165.16,
+        "total_amount_payable": 10709.6,
+        "total_charge_for_credit": 2709.6,
+        "amount_of_credit": 7200,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8000,
+        "total_price": 8000,
+        "deposit": 800,
+        "balance": 7200,
+        "apr": 14.3,
+        "rate_of_interest": 6.25,
+        "term": 48,
+        "regular_payment": 151.71,
+        "final_payment": 2860.46,
+        "total_amount_payable": 10790.83,
+        "total_charge_for_credit": 2790.83,
+        "amount_of_credit": 7200,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 2698.75,
+        "price_to_buy": 2860.46
+      }
+    ]
+  }
+]

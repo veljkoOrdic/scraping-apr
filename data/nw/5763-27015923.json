@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T22:23:36.917Z",
+    "timestamp": "2025-05-15T16:42:48.072Z",
     "source": "new_vehicle_finance",
     "url": "https://www.mount-vernon.co.uk/used/commercials/mercedes-benz/vito/2-1-113-cdi-dualiner-l1-5dr-8",
     "dealer_id": "5763",
     "car_id": "27015923",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV64JPF",
+        "registration_date": "10/12/2014",
+        "mileage": 53600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549.5,
+        "balance": 13945.5,
+        "apr": 15.4,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 384.07,
+        "final_payment": 384.07,
+        "balloon": 0,
+        "total_amount_payable": 19984.86,
+        "total_charge_for_credit": 4489.86,
+        "amount_of_credit": 13945.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 384.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549.5,
+        "balance": 13945.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 368.56,
+        "final_payment": 369.56,
+        "total_amount_payable": 19241.38,
+        "total_charge_for_credit": 3746.38,
+        "amount_of_credit": 13945.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

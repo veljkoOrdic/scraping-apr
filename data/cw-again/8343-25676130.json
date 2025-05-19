@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:15:14.390Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gkmotorsltd.co.uk/used-land-rover-defender-mansfield-woodhouse-nottinghamshire-6343825",
+    "dealer_id": "8343",
+    "car_id": "25676130",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "90 DIESEL",
+        "derivative": "3.0 D200 Hard Top",
+        "registration_number": "DU21OKA",
+        "registration_date": "17/05/2021",
+        "mileage": 56000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42253.2,
+        "total_price": 42253.2,
+        "deposit": 7042.2,
+        "balance": 35211,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 49,
+        "regular_payment": 726.46,
+        "final_payment": 11489,
+        "total_amount_payable": 53401.28,
+        "total_charge_for_credit": 11148.08,
+        "amount_of_credit": 35211,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 29,
+        "residual": 11489,
+        "price_to_buy": 11489
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42253.2,
+        "total_price": 42253.2,
+        "deposit": 7042.2,
+        "balance": 35211,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 770.79,
+        "final_payment": 770.79,
+        "total_amount_payable": 53289.6,
+        "total_charge_for_credit": 11036.4,
+        "amount_of_credit": 35211,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:56:02.905Z",
+    "timestamp": "2025-05-15T18:26:33.545Z",
     "source": "new_vehicle_finance",
     "url": "https://www.imperials.co.uk/used-car-details/used-ferrari-296-gts-30t-v6-spider-f1-dct-euro-6-convertible-blue-corsa-automatic-petrol-plug-in-hybrid/id-202408072640674/",
     "dealer_id": "6559",
@@ -12,6 +12,29 @@
         "registration_date": "03/01/2023",
         "mileage": 6900,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 249948,
+        "total_price": 249948,
+        "deposit": 87481,
+        "balance": 162467,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 3410.18,
+        "final_payment": 3420.18,
+        "balloon": 0,
+        "total_amount_payable": 292101.8,
+        "total_charge_for_credit": 42153.8,
+        "amount_of_credit": 162467,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 3420.18
       },
       {
         "type": "finance_hp",

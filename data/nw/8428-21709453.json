@@ -1,12 +1,18 @@
 [
   {
-    "timestamp": "2025-04-15T00:01:10.946Z",
+    "timestamp": "2025-05-15T17:47:06.258Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cliffordcarsales.co.uk/used-volkswagen-touareg-altnagelvin-county-londonderry-4695307",
     "dealer_id": "8428",
     "car_id": "21709453",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML57ZBE",
+        "registration_date": "30/10/2007",
+        "mileage": 105000,
+        "status": "Used"
+      }
+    ]
   }
 ]

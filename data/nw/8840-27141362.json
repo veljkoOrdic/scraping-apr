@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:31:45.550Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cjscarsales.co.uk/used/mercedes-benz/a-class/a35-4matic-executive-4dr-auto/askam-in-furness/cumbria/21545103",
+    "dealer_id": "8840",
+    "car_id": "27141362",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE69TWD",
+        "registration_date": "22/11/2019",
+        "mileage": 29800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 467.85,
+        "final_payment": 468.85,
+        "total_amount_payable": 30471.5,
+        "total_charge_for_credit": 6476.5,
+        "amount_of_credit": 21595.5,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

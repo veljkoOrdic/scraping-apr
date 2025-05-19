@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:23:47.207Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jlc-motors.co.uk/details/prestige-car-in-bowers-gifford/bmw/3series/2.0-320i-m-sport-auto-euro-6-ss-4dr/1448727/",
+    "dealer_id": "7798",
+    "car_id": "27867731",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BL69MHF",
+        "registration_date": "28/11/2019",
+        "mileage": 48000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18950,
+        "total_price": 18950,
+        "deposit": 1895,
+        "balance": 17055,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 373.34,
+        "final_payment": 373.34,
+        "total_amount_payable": 24295.4,
+        "total_charge_for_credit": 5345.4,
+        "amount_of_credit": 17055,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18950,
+        "total_price": 18950,
+        "deposit": 1895,
+        "balance": 17055,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 318.68,
+        "final_payment": 8201.5,
+        "total_amount_payable": 25393.14,
+        "total_charge_for_credit": 6443.14,
+        "amount_of_credit": 17055,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.05,
+        "residual": 8201.5,
+        "price_to_buy": 8201.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:29:16.969Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.davefoxcars.co.uk/used-bmw-m2-stone-staffordshire-6890821",
+    "dealer_id": "4831",
+    "car_id": "27852380",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M2",
+        "variant": "",
+        "derivative": "M2 Competition",
+        "registration_number": "VO70HTK",
+        "registration_date": "03/09/2020",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899,
+        "balance": 35096,
+        "apr": 11.9,
+        "rate_of_interest": 5.8,
+        "term": 48,
+        "regular_payment": 617.84,
+        "final_payment": 17910,
+        "total_amount_payable": 51466.32,
+        "total_charge_for_credit": 12471.32,
+        "amount_of_credit": 35096,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.5,
+        "residual": 17910,
+        "price_to_buy": 17910
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 3899,
+        "balance": 35096,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 768.31,
+        "final_payment": 769.31,
+        "total_amount_payable": 49998.6,
+        "total_charge_for_credit": 11003.6,
+        "amount_of_credit": 35096,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

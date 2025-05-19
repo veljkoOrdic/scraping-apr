@@ -1,39 +1,17 @@
 [
   {
-    "timestamp": "2025-04-14T21:38:03.970Z",
+    "timestamp": "2025-05-15T16:29:39.156Z",
     "source": "new_vehicle_finance",
     "url": "https://www.goodautos.co.uk/used-volkswagen-tiguan-saintfield-county-down-6739263",
     "dealer_id": "2015",
     "car_id": "27218797",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "VE66XRT",
-        "registration_date": "15/12/2016",
-        "mileage": 82570,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 16995,
-        "total_price": 16995,
-        "deposit": 1699,
-        "balance": 15296,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 327.93,
-        "final_payment": 328.93,
-        "total_amount_payable": 21375.8,
-        "total_charge_for_credit": 4380.8,
-        "amount_of_credit": 15296,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.goodautosni.co.uk&quoteeUid=5F1251A1BC42426086F7778AB22E2CF9&class=car&condition=used&vrm=VE66XRT&registrationDate=15%2F12%2F2016&capCode=&capId=&cashPrice=16995&currentOdometerReading=82570&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6739%2F6739263%2Ffull%2F162491687.jpg&term=60&cashDeposit=1699&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=25%2F02%2F2025&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.goodautosni.co.uk&quoteeUid=5F1251A1BC42426086F7778AB22E2CF9&class=car&condition=used&vrm=VE66XRT&registrationDate=15%2F12%2F2016&capCode=&capId=&cashPrice=16995&currentOdometerReading=82570&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6739%2F6739263%2Ffull%2F162491687.jpg&term=60&cashDeposit=1699&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=25%2F02%2F2025&usePersistedOptions=false&origin=https%3A%2F%2Fwww.goodautos.co.uk%2Fused-volkswagen-tiguan-saintfield-county-down-6739263&widgetId=iv-finance-widget"
+      ]
+    }
   }
 ]

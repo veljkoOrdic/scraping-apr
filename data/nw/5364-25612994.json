@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:21:06.344Z",
+    "timestamp": "2025-05-15T15:35:32.426Z",
     "source": "new_vehicle_finance",
     "url": "https://www.twells.co.uk/used/vauxhall/combo/2000-13-cdti-16v-h1-van/billinghay/lincolnshire/231932",
     "dealer_id": "5364",
@@ -12,6 +12,29 @@
         "registration_date": "03/03/2016",
         "mileage": 58490,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6495,
+        "total_price": 6495,
+        "deposit": 1000,
+        "balance": 5495,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 33,
+        "regular_payment": 196.83,
+        "final_payment": 196.83,
+        "balloon": 0,
+        "total_amount_payable": 7495.39,
+        "total_charge_for_credit": 1000.39,
+        "amount_of_credit": 5495,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 196.83
       }
     ]
   }

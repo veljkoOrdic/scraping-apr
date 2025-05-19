@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:08:07.194Z",
+    "timestamp": "2025-05-15T18:04:29.157Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kingsroadgarage.co.uk/vehicle-details/used-porsche-911-t-991-carrera-4s-for-sale-in-hertfordshire-u5074/",
     "dealer_id": "6375",
@@ -12,6 +12,29 @@
         "registration_date": "29/01/2016",
         "mileage": 24900,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 67950,
+        "total_price": 67950,
+        "deposit": 6795,
+        "balance": 61155,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1366.27,
+        "final_payment": 1376.27,
+        "balloon": 0,
+        "total_amount_payable": 88781.2,
+        "total_charge_for_credit": 20831.2,
+        "amount_of_credit": 61155,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1376.27
       }
     ]
   }

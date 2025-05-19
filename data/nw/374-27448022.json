@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:19:08.990Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cullodencarsales.co.uk/used/cars/renault/clio/1-0-clio-rs-line-tce-5dr-1689",
+    "dealer_id": "374",
+    "car_id": "27448022",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BG21KVZ",
+        "registration_date": "31/03/2021",
+        "mileage": 24761,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12795,
+        "total_price": 12795,
+        "deposit": 0,
+        "balance": 12795,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 274.32,
+        "final_payment": 275.32,
+        "total_amount_payable": 16460.2,
+        "total_charge_for_credit": 3665.2,
+        "amount_of_credit": 12795,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12795,
+        "total_price": 12795,
+        "deposit": 0,
+        "balance": 12795,
+        "apr": 10.9,
+        "rate_of_interest": 5.39,
+        "term": 49,
+        "regular_payment": 244.89,
+        "final_payment": 4898.19,
+        "total_amount_payable": 16652.91,
+        "total_charge_for_credit": 3857.91,
+        "amount_of_credit": 12795,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 4897.19,
+        "price_to_buy": 4898.19
+      }
+    ]
+  }
+]

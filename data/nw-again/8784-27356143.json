@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:10:58.480Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/land-rover/defender/v8-263",
+    "dealer_id": "8784",
+    "car_id": "27356143",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF21BKW",
+        "registration_date": "09/07/2021",
+        "mileage": 21000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79950,
+        "total_price": 79950,
+        "deposit": 7995,
+        "balance": 71955,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1478.21,
+        "final_payment": 1479.21,
+        "total_amount_payable": 96688.6,
+        "total_charge_for_credit": 16738.6,
+        "amount_of_credit": 71955,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79950,
+        "total_price": 79950,
+        "deposit": 7995,
+        "balance": 71955,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 1068.77,
+        "final_payment": 31594.04,
+        "total_amount_payable": 102646.47,
+        "total_charge_for_credit": 22696.47,
+        "amount_of_credit": 71955,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 0.14,
+        "residual": 31593.04,
+        "price_to_buy": 31594.04
+      }
+    ]
+  }
+]

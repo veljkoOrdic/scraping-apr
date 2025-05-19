@@ -1,12 +1,23 @@
 [
   {
-    "timestamp": "2025-04-15T00:12:18.712Z",
+    "timestamp": "2025-05-15T17:33:17.444Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cubomoto.co.uk/used-harley-davidson-softail-huddersfield-west-yorkshire-5955529",
     "dealer_id": "3551",
     "car_id": "24130357",
     "data": {
-      "type": "not_found"
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.cubomoto.co.uk&quoteeUid=9FD77DDCD36745F189A53417B434ADF7&class=motorbike&condition=used&vrm=FP18EYU&registrationDate=06%2F06%2F2018&capCode=&capId=&cashPrice=13490&currentOdometerReading=6426&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F5955%2F5955529%2Ffull%2F140490107.jpg&term=60&cashDeposit=1349&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=18%2F04%2F2024&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.cubomoto.co.uk&quoteeUid=9FD77DDCD36745F189A53417B434ADF7&class=motorbike&condition=used&vrm=FP18EYU&registrationDate=06%2F06%2F2018&capCode=&capId=&cashPrice=13490&currentOdometerReading=6426&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F5955%2F5955529%2Ffull%2F140490107.jpg&term=60&cashDeposit=1349&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=18%2F04%2F2024&usePersistedOptions=false&origin=https%3A%2F%2Fwww.cubomoto.co.uk%2Fused-harley-davidson-softail-huddersfield-west-yorkshire-5955529&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df"
+      ]
     }
   }
 ]

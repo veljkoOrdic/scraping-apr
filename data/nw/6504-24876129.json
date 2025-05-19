@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-05-15T18:19:55.256Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sbwakefield.co.uk/used/citroen/c3-aircross/12-puretech-110-shine-5dr/wakefield/west-yorkshire/21308984",
+    "dealer_id": "6504",
+    "car_id": "24876129",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD73ZZX",
+        "registration_date": "28/09/2023",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 291.48,
+        "final_payment": 291.48,
+        "balloon": 0,
+        "total_amount_payable": 18938.3,
+        "total_charge_for_credit": 4443.3,
+        "amount_of_credit": 13045.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 291.48
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449.5,
+        "balance": 13045.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 242.59,
+        "final_payment": 6525,
+        "total_amount_payable": 19376.23,
+        "total_charge_for_credit": 4881.23,
+        "amount_of_credit": 13045.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0.125,
+        "residual": 6525,
+        "price_to_buy": 6525
+      }
+    ]
+  }
+]

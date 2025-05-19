@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T15:36:16.692Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thegoodvancompany.co.uk/used-renault-trafic-preston-lancashire-6133743",
+    "dealer_id": "2409",
+    "car_id": "24788447",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "TRAFIC",
+        "variant": "SWB DIESEL",
+        "derivative": "SL28 Blue dCi 130 Business+ Van",
+        "registration_number": "FG23BDF",
+        "registration_date": "17/04/2023",
+        "mileage": 21683,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19188,
+        "total_price": 19188,
+        "deposit": 3198,
+        "balance": 15990,
+        "apr": 10.9,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 408.11,
+        "final_payment": 418.11,
+        "total_amount_payable": 22797.28,
+        "total_charge_for_credit": 3609.28,
+        "amount_of_credit": 15990,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19188,
+        "total_price": 19188,
+        "deposit": 3198,
+        "balance": 15990,
+        "apr": 10.9,
+        "rate_of_interest": 4.99,
+        "term": 48,
+        "regular_payment": 408.36,
+        "final_payment": 408.36,
+        "total_amount_payable": 22799.28,
+        "total_charge_for_credit": 3611.28,
+        "amount_of_credit": 15990,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:56:58.739Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanstar.co.uk/used-ford-ranger-leeds-yorkshire-6943322",
+    "dealer_id": "7201",
+    "car_id": "28101984",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LY23HVT",
+        "registration_date": "24/05/2023",
+        "mileage": 9000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 52989,
+        "total_price": 52989,
+        "deposit": 10597,
+        "balance": 42392,
+        "apr": 12.7,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 943.89,
+        "final_payment": 943.89,
+        "balloon": 0,
+        "total_amount_payable": 67230.4,
+        "total_charge_for_credit": 14241.4,
+        "amount_of_credit": 42392,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 943.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52989,
+        "total_price": 52989,
+        "deposit": 10597,
+        "balance": 42392,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 927.97,
+        "final_payment": 928.97,
+        "total_amount_payable": 66276.2,
+        "total_charge_for_credit": 13287.2,
+        "amount_of_credit": 42392,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 5000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:17:48.120Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ns-cars.co.uk/used-land-rover-discovery-sport-liverpool-merseyside-6792167",
+    "dealer_id": "8202",
+    "car_id": "27445851",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ67EKT",
+        "registration_date": "22/09/2017",
+        "mileage": 67900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13299,
+        "total_price": 13299,
+        "deposit": 2659,
+        "balance": 10640,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 247.52,
+        "final_payment": 247.52,
+        "total_amount_payable": 16025.08,
+        "total_charge_for_credit": 2726.08,
+        "amount_of_credit": 10640,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:33:16.605Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoscout48.com/cars/porsche/taycan/performance-79.2kwh-4s/1450127/",
+    "dealer_id": "8913",
+    "car_id": "27876997",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "390kW 4S 79kWh",
+        "registration_number": "SV21LRF",
+        "registration_date": "03/03/2021",
+        "mileage": 29750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44650,
+        "total_price": 44650,
+        "deposit": 4465,
+        "balance": 40185,
+        "apr": 10.9,
+        "rate_of_interest": 10.4,
+        "term": 48,
+        "regular_payment": 715.5,
+        "final_payment": 18596,
+        "total_amount_payable": 57405,
+        "total_charge_for_credit": 12755,
+        "amount_of_credit": 40185,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.97,
+        "residual": 18596,
+        "price_to_buy": 18596
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44650,
+        "total_price": 44650,
+        "deposit": 4465,
+        "balance": 40185,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1026.73,
+        "final_payment": 1027.73,
+        "total_amount_payable": 53749.04,
+        "total_charge_for_credit": 9099.04,
+        "amount_of_credit": 40185,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

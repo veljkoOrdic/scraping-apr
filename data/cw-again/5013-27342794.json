@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T17:36:39.116Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/1246065/2019-mercedes-benz-g-class-amg-edition-1/",
+    "dealer_id": "5013",
+    "car_id": "27342794",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON SPECIAL EDITIONS",
+        "derivative": "G63 Edition 1 Tip",
+        "registration_number": "VR11DGE",
+        "registration_date": "07/01/2019",
+        "mileage": 42939,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 129980,
+        "total_price": 129980,
+        "deposit": 12998,
+        "balance": 116982,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 43,
+        "regular_payment": 2162.45,
+        "final_payment": 59564.51,
+        "total_amount_payable": 163385.41,
+        "total_charge_for_credit": 33405.41,
+        "amount_of_credit": 116982,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 31.36,
+        "residual": 59563.51,
+        "price_to_buy": 59564.51
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 129980,
+        "total_price": 129980,
+        "deposit": 12998,
+        "balance": 116982,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 2508.29,
+        "final_payment": 2518.29,
+        "total_amount_payable": 163505.4,
+        "total_charge_for_credit": 33525.4,
+        "amount_of_credit": 116982,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:14:46.658Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorcityplymouth.co.uk/used-audi-q5-plymouth-devon-6810442",
+    "dealer_id": "6857",
+    "car_id": "27520017",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BV19UTJ",
+        "registration_date": "29/03/2019",
+        "mileage": 50022,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25599,
+        "total_price": 25599,
+        "deposit": 5119,
+        "balance": 20480,
+        "apr": 11.3,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 442.64,
+        "final_payment": 442.64,
+        "balloon": 0,
+        "total_amount_payable": 31677.4,
+        "total_charge_for_credit": 6078.4,
+        "amount_of_credit": 20480,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 442.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25599,
+        "total_price": 25599,
+        "deposit": 5119,
+        "balance": 20480,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 420.73,
+        "final_payment": 421.73,
+        "total_amount_payable": 30363.8,
+        "total_charge_for_credit": 4764.8,
+        "amount_of_credit": 20480,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

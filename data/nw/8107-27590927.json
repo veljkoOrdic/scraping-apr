@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:04:32.183Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/volkswagen/transporter-panel-van/highline/20-tdi-t30-highline-panel-van-5dr-diesel-dsg-fwd-lwb-euro-6-ss-150-ps/56793",
+    "dealer_id": "8107",
+    "car_id": "27590927",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CV24SKO",
+        "registration_date": "31/03/2024",
+        "mileage": 13826,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37192.8,
+        "total_price": 37192.8,
+        "deposit": 6198.8,
+        "balance": 30994,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 798.61,
+        "final_payment": 808.61,
+        "total_amount_payable": 44542.08,
+        "total_charge_for_credit": 7349.28,
+        "amount_of_credit": 30994,
+        "lender": "Volkswagen Financial Services (Commercial)",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

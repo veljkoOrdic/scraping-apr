@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:36:43.849Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.trooncars.co.uk/used-mercedes-benz-slk-leicester-leicestershire-6082682",
+    "dealer_id": "5412",
+    "car_id": "27826888",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV14VPZ",
+        "registration_date": "24/03/2014",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12500,
+        "total_price": 12500,
+        "deposit": 1250,
+        "balance": 11250,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 46,
+        "regular_payment": 292.61,
+        "final_payment": 293.61,
+        "total_amount_payable": 14711.06,
+        "total_charge_for_credit": 2211.06,
+        "amount_of_credit": 11250,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

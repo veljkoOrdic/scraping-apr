@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T14:47:41.766Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newtonsofashley.com/used-toyota-c-hr-new-milton-hampshire-6888458",
+    "dealer_id": "176",
+    "car_id": "27841007",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX17XOM",
+        "registration_date": "16/03/2017",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599,
+        "balance": 14396,
+        "apr": 14,
+        "rate_of_interest": 6.74,
+        "term": 60,
+        "regular_payment": 328.59,
+        "final_payment": 328.59,
+        "balloon": 0,
+        "total_amount_payable": 21314.4,
+        "total_charge_for_credit": 5319.4,
+        "amount_of_credit": 14396,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 328.59
+      }
+    ]
+  }
+]

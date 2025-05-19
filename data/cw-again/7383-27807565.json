@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-05-15T16:36:11.172Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mmccars.com/cars/bmw/x6/3.0-x6-xdrive40d-m-sport/1442846/",
+    "dealer_id": "7383",
+    "car_id": "27807565",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X6",
+        "variant": "",
+        "derivative": "X6 xDrive40d M Sport",
+        "registration_number": "ND18JWL",
+        "registration_date": "16/06/2018",
+        "mileage": 69990,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24999,
+        "total_price": 24999,
+        "deposit": 2499.9,
+        "balance": 22499.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 492.36,
+        "final_payment": 502.36,
+        "total_amount_payable": 32051.5,
+        "total_charge_for_credit": 7052.5,
+        "amount_of_credit": 22499.1,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

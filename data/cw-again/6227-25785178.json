@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:47:33.998Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bmw/bmw-ix-50-111-5kwh-m-sport-edition-auto-xdrive-5dr/",
+    "dealer_id": "6227",
+    "car_id": "25785178",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "I Series",
+        "variant": "",
+        "derivative": "iX xDrive50 M Sport Edition",
+        "registration_number": "PE72YCW",
+        "registration_date": "15/09/2022",
+        "mileage": 18426,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52000,
+        "total_price": 52000,
+        "deposit": 5200,
+        "balance": 46800,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 48,
+        "regular_payment": 778.21,
+        "final_payment": 25498,
+        "total_amount_payable": 67273.87,
+        "total_charge_for_credit": 15273.87,
+        "amount_of_credit": 46800,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9.6,
+        "residual": 25488,
+        "price_to_buy": 25498
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52000,
+        "total_price": 52000,
+        "deposit": 5200,
+        "balance": 46800,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 60,
+        "regular_payment": 1003.38,
+        "final_payment": 1003.38,
+        "total_amount_payable": 65402.8,
+        "total_charge_for_credit": 13402.8,
+        "amount_of_credit": 46800,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

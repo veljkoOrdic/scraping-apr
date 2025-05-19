@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:15:00.477Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.royhannamotors.com/used-honda-civic-county-antrim-county-antrim-6658942",
+    "dealer_id": "6858",
+    "car_id": "26910766",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OW68WUE",
+        "registration_date": "30/01/2019",
+        "mileage": 41800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11950,
+        "total_price": 11950,
+        "deposit": 1195,
+        "balance": 10755,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 240.18,
+        "final_payment": 250.18,
+        "balloon": 0,
+        "total_amount_payable": 15615.8,
+        "total_charge_for_credit": 3665.8,
+        "amount_of_credit": 10755,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 250.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11950,
+        "total_price": 11950,
+        "deposit": 1195,
+        "balance": 10755,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 225.74,
+        "final_payment": 226.74,
+        "total_amount_payable": 14740.4,
+        "total_charge_for_credit": 2790.4,
+        "amount_of_credit": 10755,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

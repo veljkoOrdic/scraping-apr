@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:13:34.762Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashridgevehicles.co.uk/used-land-rover-range-rover-evoque-little-gaddesden-hertfordshire-6864249",
+    "dealer_id": "7750",
+    "car_id": "27752743",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ72VZB",
+        "registration_date": "18/11/2022",
+        "mileage": 9800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30599,
+        "total_price": 30599,
+        "deposit": 3059,
+        "balance": 27540,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 703.65,
+        "final_payment": 704.65,
+        "total_amount_payable": 36835.2,
+        "total_charge_for_credit": 6236.2,
+        "amount_of_credit": 27540,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30599,
+        "total_price": 30599,
+        "deposit": 3059,
+        "balance": 27540,
+        "apr": 10.9,
+        "rate_of_interest": 5.32,
+        "term": 49,
+        "regular_payment": 452.67,
+        "final_payment": 14987.32,
+        "total_amount_payable": 39774.48,
+        "total_charge_for_credit": 9175.48,
+        "amount_of_credit": 27540,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 14986.32,
+        "price_to_buy": 14987.32
+      }
+    ]
+  }
+]

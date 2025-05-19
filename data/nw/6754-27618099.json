@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:55:04.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/audi/s4/3.0-tfsi-v6-tiptronic-quattro-euro-6-ss-4dr/1426982/",
+    "dealer_id": "6754",
+    "car_id": "27618099",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ67ZZW",
+        "registration_date": "17/11/2017",
+        "mileage": 59500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 999.95,
+        "balance": 18999.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 527.27,
+        "final_payment": 528.27,
+        "total_amount_payable": 26309.91,
+        "total_charge_for_credit": 6310.91,
+        "amount_of_credit": 18999.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

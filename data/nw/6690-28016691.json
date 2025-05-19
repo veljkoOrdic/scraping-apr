@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:50:07.033Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hewsonmotorhub.co.uk/vehicle-details/used-vauxhall-astra-cdti-se-for-sale-in-market-harborough-leicestershire-u1801/",
+    "dealer_id": "6690",
+    "car_id": "28016691",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR13TYA",
+        "registration_date": "20/04/2013",
+        "mileage": 124948,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 1750,
+        "total_price": 1750,
+        "deposit": 0,
+        "balance": 1750,
+        "apr": 19.3,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 44.19,
+        "final_payment": 44.19,
+        "balloon": 0,
+        "total_amount_payable": 2651.4,
+        "total_charge_for_credit": 901.4,
+        "amount_of_credit": 1750,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 44.19
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 1750,
+        "total_price": 1750,
+        "deposit": 0,
+        "balance": 1750,
+        "apr": 9.9,
+        "rate_of_interest": 5.07,
+        "term": 35,
+        "regular_payment": 57.4,
+        "final_payment": 58.4,
+        "total_amount_payable": 2010,
+        "total_charge_for_credit": 260,
+        "amount_of_credit": 1750,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

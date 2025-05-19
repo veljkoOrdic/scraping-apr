@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:11:40.022Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebonyandivorymotors-scunthorpe.co.uk/used-audi-a3-scunthorpe-lincolnshire-6117526",
+    "dealer_id": "6642",
+    "car_id": "24716734",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "M29BBO",
+        "registration_date": "31/10/2014",
+        "mileage": 77808,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7990,
+        "total_price": 7990,
+        "deposit": 199,
+        "balance": 7791,
+        "apr": 11.9,
+        "rate_of_interest": 6.15,
+        "term": 41,
+        "regular_payment": 229.93,
+        "final_payment": 229.93,
+        "balloon": 0,
+        "total_amount_payable": 9626.13,
+        "total_charge_for_credit": 1636.13,
+        "amount_of_credit": 7791,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 229.93
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7990,
+        "total_price": 7990,
+        "deposit": 199,
+        "balance": 7791,
+        "apr": 11.9,
+        "rate_of_interest": 11.24,
+        "term": 41,
+        "regular_payment": 229.93,
+        "final_payment": 229.93,
+        "total_amount_payable": 9626.13,
+        "total_charge_for_credit": 1636.13,
+        "amount_of_credit": 7791,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

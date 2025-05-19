@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:24:51.037Z",
+    "timestamp": "2025-05-15T14:44:12.297Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rdmdirect.co.uk/used-porsche-taycan-burton-on-trent-staffordshire-4848027",
     "dealer_id": "131",
@@ -12,6 +12,29 @@
         "registration_date": "18/12/2020",
         "mileage": 18522,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64000,
+        "total_price": 64000,
+        "deposit": 300,
+        "balance": 63700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 1683.4,
+        "final_payment": 1693.4,
+        "balloon": 0,
+        "total_amount_payable": 81113.2,
+        "total_charge_for_credit": 17113.2,
+        "amount_of_credit": 63700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1693.4
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 13.9,
         "rate_of_interest": 7.24,
         "term": 48,
-        "regular_payment": 1309.72,
-        "final_payment": 26483.5,
-        "balloon": 26482.5,
-        "total_amount_payable": 88340.34,
-        "total_charge_for_credit": 24340.34,
+        "regular_payment": 1359.73,
+        "final_payment": 23401,
+        "balloon": 23400,
+        "total_amount_payable": 87608.31,
+        "total_charge_for_credit": 23608.31,
         "amount_of_credit": 63700,
         "lender": "MI Vehicle Finance Limited",
         "annual_mileage": 8000,
         "excess_mileage_rate": 0,
-        "residual": 26482.5,
-        "price_to_buy": 26483.5
+        "residual": 23400,
+        "price_to_buy": 23401
       },
       {
         "type": "finance_pcp",
@@ -66,19 +89,19 @@
         "deposit": 300,
         "balance": 63700,
         "apr": 12.9,
-        "rate_of_interest": 6.33,
+        "rate_of_interest": 6.34,
         "term": 49,
-        "regular_payment": 1259.26,
-        "final_payment": 26348.1,
-        "total_amount_payable": 87092.58,
-        "total_charge_for_credit": 23092.58,
+        "regular_payment": 1261.82,
+        "final_payment": 26189.36,
+        "total_amount_payable": 87056.72,
+        "total_charge_for_credit": 23056.72,
         "amount_of_credit": 63700,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 8000,
         "contract_mileage": 32667,
         "excess_mileage_rate": 0.28,
-        "residual": 26347.1,
-        "price_to_buy": 26348.1
+        "residual": 26188.36,
+        "price_to_buy": 26189.36
       }
     ]
   }

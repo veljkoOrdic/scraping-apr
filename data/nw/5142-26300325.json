@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:01:33.986Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-volkswagen-touran-gateshead-tyne-and-wear-6460198",
+    "dealer_id": "5142",
+    "car_id": "26300325",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WG68HLD",
+        "registration_date": "11/11/2018",
+        "mileage": 79901,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11490,
+        "total_price": 11490,
+        "deposit": 574,
+        "balance": 10916,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 229.12,
+        "final_payment": 230.12,
+        "total_amount_payable": 14322.2,
+        "total_charge_for_credit": 2832.2,
+        "amount_of_credit": 10916,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

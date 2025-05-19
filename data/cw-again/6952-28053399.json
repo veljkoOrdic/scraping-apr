@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T15:46:49.183Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.watsonsmotorworks.co.uk/cars/ford/kuga/st-line-x-2.0tdci-190ps-awd-automatic-one-owner-with-only-15437-miles/1466342/",
+    "dealer_id": "6952",
+    "car_id": "28053399",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "DIESEL ESTATE",
+        "derivative": "2.0 EcoBlue 190 ST-Line X Edition",
+        "registration_number": "LO70VCY",
+        "registration_date": "11/01/2021",
+        "mileage": 15437,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 12.2,
+        "rate_of_interest": 6,
+        "term": 48,
+        "regular_payment": 465.29,
+        "final_payment": 9336.54,
+        "total_amount_payable": 33804.67,
+        "total_charge_for_credit": 7809.67,
+        "amount_of_credit": 23395.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 8861.25,
+        "price_to_buy": 9336.54
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 12.1,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 514.49,
+        "final_payment": 514.49,
+        "total_amount_payable": 33468.9,
+        "total_charge_for_credit": 7473.9,
+        "amount_of_credit": 23395.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

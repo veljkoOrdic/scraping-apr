@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:33:57.116Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dinnages.co.uk/used-car-details/used-ford-focus-23t-ecoboost-st-estate-5dr-pe-estate-agate-black-automatic-petrol/id-4071/",
+    "dealer_id": "6056",
+    "car_id": "26862961",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX23NLF",
+        "registration_date": "10/03/2023",
+        "mileage": 35871,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23690,
+        "total_price": 23690,
+        "deposit": 4738,
+        "balance": 18952,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 631.22,
+        "final_payment": 632.22,
+        "total_amount_payable": 27462.92,
+        "total_charge_for_credit": 3772.92,
+        "amount_of_credit": 18952,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23690,
+        "total_price": 23690,
+        "deposit": 4738,
+        "balance": 18952,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 50,
+        "regular_payment": 322.08,
+        "final_payment": 10891.5,
+        "total_amount_payable": 31411.42,
+        "total_charge_for_credit": 7721.42,
+        "amount_of_credit": 18952,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 0.07,
+        "residual": 10891.5,
+        "price_to_buy": 10891.5
+      }
+    ]
+  }
+]

@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T02:14:15.962Z",
+    "timestamp": "2025-05-15T18:55:02.147Z",
     "source": "new_vehicle_finance",
     "url": "https://www.norwichcarstore.co.uk/used-mercedes-benz-a-class-norwich-norfolk-6446497",
     "dealer_id": "9218",
     "car_id": "26086302",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "KS24HWH",
-        "registration_date": "10/04/2024",
-        "mileage": 6769,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 37995,
-        "total_price": 37995,
-        "deposit": 3799,
-        "balance": 34196,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 717.79,
-        "final_payment": 718.79,
-        "total_amount_payable": 46867.4,
-        "total_charge_for_credit": 8872.4,
-        "amount_of_credit": 34196,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 37995,
-        "total_price": 37995,
-        "deposit": 3799,
-        "balance": 34196,
-        "apr": 9.9,
-        "rate_of_interest": 4.89,
-        "term": 49,
-        "regular_payment": 611.21,
-        "final_payment": 14492.5,
-        "total_amount_payable": 47629.58,
-        "total_charge_for_credit": 9634.58,
-        "amount_of_credit": 34196,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.14,
-        "residual": 14491.5,
-        "price_to_buy": 14492.5
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:19:24.526Z",
+    "timestamp": "2025-05-15T16:13:03.509Z",
     "source": "new_vehicle_finance",
     "url": "https://www.jeffwhitemotors.co.uk/used-volkswagen-golf-cardiff-glamorgan-5988471",
     "dealer_id": "5624",
@@ -12,6 +12,29 @@
         "registration_date": "09/03/2021",
         "mileage": 30010,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23488,
+        "total_price": 23488,
+        "deposit": 0,
+        "balance": 23488,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 514.16,
+        "final_payment": 514.16,
+        "balloon": 0,
+        "total_amount_payable": 30849.6,
+        "total_charge_for_credit": 7361.6,
+        "amount_of_credit": 23488,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 514.16
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 10.9,
         "rate_of_interest": 5.66,
         "term": 49,
-        "regular_payment": 393.99,
-        "final_payment": 12309.25,
-        "total_amount_payable": 31220.77,
-        "total_charge_for_credit": 7732.77,
+        "regular_payment": 395.94,
+        "final_payment": 12193,
+        "total_amount_payable": 31198.12,
+        "total_charge_for_credit": 7710.12,
         "amount_of_credit": 23488,
         "lender": "Northridge Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.15,
-        "residual": 12299.25,
-        "price_to_buy": 12309.25
+        "residual": 12183,
+        "price_to_buy": 12193
       }
     ]
   }

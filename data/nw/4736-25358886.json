@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T14:31:01.339Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.southandwestmotorsltd.co.uk/used-mercedes-benz-c-class-bath-somerset-5581136",
+    "dealer_id": "4736",
+    "car_id": "25358886",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF16VHD",
+        "registration_date": "29/03/2016",
+        "mileage": 69427,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24975,
+        "total_price": 24975,
+        "deposit": 2497,
+        "balance": 22478,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 58,
+        "regular_payment": 484.57,
+        "final_payment": 484.57,
+        "balloon": 0,
+        "total_amount_payable": 30602.06,
+        "total_charge_for_credit": 5627.06,
+        "amount_of_credit": 22478,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 484.57
+      }
+    ]
+  }
+]

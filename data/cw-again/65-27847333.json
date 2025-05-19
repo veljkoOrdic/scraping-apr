@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:23:20.982Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.brookemotcentre.co.uk/details/used-car-in-brooke-industrial-park/audi/rs6/4.0-tfsi-v8-vorsprung-tiptronic-quattro-euro-6-ss-5dr/1445943/",
+    "dealer_id": "65",
+    "car_id": "27847333",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Vorsprung Tiptronic",
+        "registration_number": "WR20WDO",
+        "registration_date": "10/07/2020",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69990,
+        "total_price": 69990,
+        "deposit": 6999,
+        "balance": 62991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1064.92,
+        "final_payment": 23410.19,
+        "total_amount_payable": 93239.47,
+        "total_charge_for_credit": 23249.47,
+        "amount_of_credit": 62991,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.58,
+        "residual": 23409.19,
+        "price_to_buy": 23410.19
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69990,
+        "total_price": 69990,
+        "deposit": 6999,
+        "balance": 62991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1322.22,
+        "final_payment": 1323.22,
+        "total_amount_payable": 86333.2,
+        "total_charge_for_credit": 16343.2,
+        "amount_of_credit": 62991,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

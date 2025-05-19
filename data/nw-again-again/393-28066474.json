@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T11:58:34.796Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browns-autos.co.uk/details/used-car-in-portslade/bmw/8series/3.0-840i-steptronic-euro-6-ss-2dr/1467106/",
+    "dealer_id": "393",
+    "car_id": "28066474",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S15EYD",
+        "registration_date": "31/01/2020",
+        "mileage": 62015,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 604.44,
+        "final_payment": 604.44,
+        "total_amount_payable": 39465.9,
+        "total_charge_for_credit": 7470.9,
+        "amount_of_credit": 28795.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 563.76,
+        "final_payment": 10269.5,
+        "total_amount_payable": 40529.48,
+        "total_charge_for_credit": 8534.48,
+        "amount_of_credit": 28795.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.07,
+        "residual": 10269.5,
+        "price_to_buy": 10269.5
+      }
+    ]
+  }
+]

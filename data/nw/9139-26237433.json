@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:49:25.131Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hynesmotors.com/used-volkswagen-tiguan-rathfriland-county-down-6483866",
+    "dealer_id": "9139",
+    "car_id": "26237433",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE22ODB",
+        "registration_date": "11/07/2022",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17945,
+        "total_price": 17945,
+        "deposit": 1794,
+        "balance": 16151,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 360.85,
+        "final_payment": 361.85,
+        "total_amount_payable": 23446,
+        "total_charge_for_credit": 5501,
+        "amount_of_credit": 16151,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

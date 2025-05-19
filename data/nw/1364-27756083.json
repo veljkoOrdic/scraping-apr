@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:59:10.015Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shareshillmotorcompany.co.uk/cars/peugeot/partnertepee/1.6-hdi-tepee-s/1438749/",
+    "dealer_id": "1364",
+    "car_id": "27756083",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF12AAV",
+        "registration_date": "16/03/2012",
+        "mileage": 65823,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 10,
+        "balance": 4989,
+        "apr": 16.2,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 119.02,
+        "final_payment": 119.02,
+        "balloon": 0,
+        "total_amount_payable": 7151.2,
+        "total_charge_for_credit": 2152.2,
+        "amount_of_credit": 4989,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 119.02
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 10,
+        "balance": 4989,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 132.09,
+        "final_payment": 132.09,
+        "total_amount_payable": 7935.4,
+        "total_charge_for_credit": 2936.4,
+        "amount_of_credit": 4989,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

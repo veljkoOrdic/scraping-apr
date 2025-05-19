@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:07:08.124Z",
+    "timestamp": "2025-05-15T17:31:40.337Z",
     "source": "new_vehicle_finance",
     "url": "https://www.belgravecommercials.co.uk/used-vauxhall-combo-plympton-devon-5947358",
     "dealer_id": "3456",
@@ -12,6 +12,29 @@
         "registration_date": "30/06/2020",
         "mileage": 74658,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8400,
+        "total_price": 8400,
+        "deposit": 1400,
+        "balance": 7000,
+        "apr": 12.1,
+        "rate_of_interest": 5.1,
+        "term": 60,
+        "regular_payment": 153.74,
+        "final_payment": 153.74,
+        "balloon": 0,
+        "total_amount_payable": 10624.4,
+        "total_charge_for_credit": 2224.4,
+        "amount_of_credit": 7000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 153.74
       },
       {
         "type": "finance_hp",

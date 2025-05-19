@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:12:21.590Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lvmc.co.uk/used-land-rover-range-rover-evoque-high-ongar-essex-6735614",
+    "dealer_id": "29",
+    "car_id": "27203265",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER EVOQUE",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "2.0 D150 R-Dynamic S 2WD",
+        "registration_number": "YK20FLZ",
+        "registration_date": "12/06/2020",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 4622,
+        "balance": 13868,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 216.4,
+        "final_payment": 9541,
+        "total_amount_payable": 24333.8,
+        "total_charge_for_credit": 5843.8,
+        "amount_of_credit": 13868,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 13,
+        "residual": 9531,
+        "price_to_buy": 9541
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 4622,
+        "balance": 13868,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 309.73,
+        "final_payment": 319.73,
+        "total_amount_payable": 23215.8,
+        "total_charge_for_credit": 4725.8,
+        "amount_of_credit": 13868,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

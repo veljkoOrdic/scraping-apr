@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:20:43.243Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aspirecarsipswichltd.co.uk/cars/bmw/x5/3.0-x5-xdrive30d-m-sport/1454409/",
+    "dealer_id": "6840",
+    "car_id": "27926973",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MW69CFU",
+        "registration_date": "11/12/2019",
+        "mileage": 68701,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32498,
+        "total_price": 32498,
+        "deposit": 3249.8,
+        "balance": 29248.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 613.93,
+        "final_payment": 614.93,
+        "total_amount_payable": 40086.6,
+        "total_charge_for_credit": 7588.6,
+        "amount_of_credit": 29248.2,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:26:47.739Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.apexcarsdirect.co.uk/used-audi-e-tron-wiltshire-wiltshire-6816645",
+    "dealer_id": "7326",
+    "car_id": "27641464",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ21YGA",
+        "registration_date": "30/03/2021",
+        "mileage": 51000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599,
+        "balance": 23396,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 480.64,
+        "final_payment": 481.64,
+        "total_amount_payable": 31438.4,
+        "total_charge_for_credit": 5443.4,
+        "amount_of_credit": 23396,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599,
+        "balance": 23396,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 375.45,
+        "final_payment": 11881,
+        "total_amount_payable": 32126.15,
+        "total_charge_for_credit": 6131.15,
+        "amount_of_credit": 23396,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 11880,
+        "price_to_buy": 11881
+      }
+    ]
+  }
+]

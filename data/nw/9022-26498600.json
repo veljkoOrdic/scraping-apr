@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:40:30.951Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.burchautos.com/used-seat-leon-newtownards-county-down-6538521",
+    "dealer_id": "9022",
+    "car_id": "26498600",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV67VDD",
+        "registration_date": "11/01/2018",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299,
+        "balance": 11696,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 250.75,
+        "final_payment": 251.75,
+        "total_amount_payable": 16345,
+        "total_charge_for_credit": 3350,
+        "amount_of_credit": 11696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

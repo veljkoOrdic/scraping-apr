@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:40:48.141Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.georgekingsley.co.uk/used/cars/audi/sq8/sq8-tdi-quattro-vorsprung-mhev-one-owner-full-audi-service-history-2752",
+    "dealer_id": "5725",
+    "car_id": "26855360",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV20KVT",
+        "registration_date": "25/03/2020",
+        "mileage": 36950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 9449.25,
+        "balance": 53545.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1391.64,
+        "final_payment": 1391.64,
+        "balloon": 0,
+        "total_amount_payable": 76247.97,
+        "total_charge_for_credit": 13252.97,
+        "amount_of_credit": 53545.75,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1391.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62995,
+        "total_price": 62995,
+        "deposit": 9449.25,
+        "balance": 53545.75,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1344.64,
+        "final_payment": 1345.64,
+        "total_amount_payable": 73992.97,
+        "total_charge_for_credit": 10997.97,
+        "amount_of_credit": 53545.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:38:09.877Z",
+    "timestamp": "2025-05-15T15:22:52.627Z",
     "source": "new_vehicle_finance",
     "url": "https://www.nathanielcars.co.uk/cars/mercedes-benz-gle-class-gle350de-4matic-amg-line/",
     "dealer_id": "7300",
@@ -12,6 +12,29 @@
         "registration_date": "03/12/2021",
         "mileage": 17446,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46495,
+        "total_price": 46495,
+        "deposit": 4649.5,
+        "balance": 41845.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 859.66,
+        "final_payment": 859.66,
+        "balloon": 0,
+        "total_amount_payable": 56229.1,
+        "total_charge_for_credit": 9734.1,
+        "amount_of_credit": 41845.5,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 859.66
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 8.9,
         "rate_of_interest": 4.61,
         "term": 49,
-        "regular_payment": 653.35,
-        "final_payment": 21766.38,
-        "total_amount_payable": 57776.68,
-        "total_charge_for_credit": 11281.68,
+        "regular_payment": 658.23,
+        "final_payment": 21486.72,
+        "total_amount_payable": 57731.26,
+        "total_charge_for_credit": 11236.26,
         "amount_of_credit": 41845.5,
         "lender": "Santander Consumer Finance",
         "annual_mileage": 6000,
         "contract_mileage": 24500,
         "excess_mileage_rate": 0.149,
-        "residual": 21766.38,
-        "price_to_buy": 21766.38
+        "residual": 21486.72,
+        "price_to_buy": 21486.72
       }
     ]
   }

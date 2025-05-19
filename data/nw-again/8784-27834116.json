@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:11:14.448Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/ford/mustang/bullitt-273",
+    "dealer_id": "8784",
+    "car_id": "27834116",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV68LLT",
+        "registration_date": "26/10/2018",
+        "mileage": 15100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41500,
+        "total_price": 41500,
+        "deposit": 4150,
+        "balance": 37350,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 767.29,
+        "final_payment": 768.29,
+        "total_amount_payable": 50188.4,
+        "total_charge_for_credit": 8688.4,
+        "amount_of_credit": 37350,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41500,
+        "total_price": 41500,
+        "deposit": 4150,
+        "balance": 37350,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 41,
+        "regular_payment": 679.68,
+        "final_payment": 18425,
+        "total_amount_payable": 49762.2,
+        "total_charge_for_credit": 8262.2,
+        "amount_of_credit": 37350,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "contract_mileage": 23917,
+        "excess_mileage_rate": 0.07,
+        "residual": 18424,
+        "price_to_buy": 18425
+      }
+    ]
+  }
+]

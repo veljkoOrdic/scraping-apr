@@ -1,39 +1,17 @@
 [
   {
-    "timestamp": "2025-04-14T18:16:24.590Z",
+    "timestamp": "2025-05-15T15:06:59.487Z",
     "source": "new_vehicle_finance",
     "url": "https://www.beehivecars.co.uk/used-audi-a5-bolton-lancashire-6424704",
     "dealer_id": "7230",
     "car_id": "26569284",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "KN18NBX",
-        "registration_date": "20/03/2018",
-        "mileage": 101509,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 12650,
-        "total_price": 12650,
-        "deposit": 1265,
-        "balance": 11385,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 285.9,
-        "final_payment": 285.9,
-        "total_amount_payable": 14988.2,
-        "total_charge_for_credit": 2338.2,
-        "amount_of_credit": 11385,
-        "lender": "Motion Finance (2017) Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.parksidedirect.co.uk&quoteeUid=5E9947A19EC04F65AD5B42188BEC0949&class=car&condition=used&vrm=KN18NBX&registrationDate=20%2F03%2F2018&capCode=&capId=&cashPrice=12450&currentOdometerReading=101509&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6424%2F6424704%2Ffull%2F156003128.jpg&term=48&cashDeposit=1245&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=21%2F10%2F2024&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.parksidedirect.co.uk&quoteeUid=5E9947A19EC04F65AD5B42188BEC0949&class=car&condition=used&vrm=KN18NBX&registrationDate=20%2F03%2F2018&capCode=&capId=&cashPrice=12450&currentOdometerReading=101509&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6424%2F6424704%2Ffull%2F156003128.jpg&term=48&cashDeposit=1245&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=21%2F10%2F2024&usePersistedOptions=false&origin=https%3A%2F%2Fwww.beehivecars.co.uk%2Fused-audi-a5-bolton-lancashire-6424704&widgetId=iv-finance-widget"
+      ]
+    }
   }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:57:35.285Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.richardhardie.co.uk/used-car-details/used-audi-e-tron-gt-934kwh-auto-quattro-4dr-saloon-grey-automatic-electric/id-202504281800463/",
+    "dealer_id": "5538",
+    "car_id": "27929181",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PF22VDX",
+        "registration_date": "08/07/2022",
+        "mileage": 16797,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45999,
+        "total_price": 45999,
+        "deposit": 4599,
+        "balance": 41400,
+        "apr": 13.5,
+        "rate_of_interest": 7.13,
+        "term": 60,
+        "regular_payment": 936.15,
+        "final_payment": 946.15,
+        "total_amount_payable": 60778,
+        "total_charge_for_credit": 14779,
+        "amount_of_credit": 41400,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45999,
+        "total_price": 45999,
+        "deposit": 4599,
+        "balance": 41400,
+        "apr": 13.5,
+        "rate_of_interest": 7.04,
+        "term": 49,
+        "regular_payment": 840.26,
+        "final_payment": 16641,
+        "total_amount_payable": 61572.48,
+        "total_charge_for_credit": 15573.48,
+        "amount_of_credit": 41400,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 16631,
+        "price_to_buy": 16641
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:12:24.291Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jsholmes.com/used/renault/megane-e-tech/ev60-160kw-iconic-60kwh-optimum-charge-5dr-auto/wisbech/cambridgeshire/21538323",
+    "dealer_id": "5943",
+    "car_id": "27031509",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "MEGANE E-TECH",
+        "variant": "HATCHBACK",
+        "derivative": "EV60 160kW Iconic 60kWh Optimum Charge",
+        "registration_number": "GY73WRT",
+        "registration_date": "21/10/2023",
+        "mileage": 14000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22990,
+        "total_price": 22990,
+        "deposit": 2299,
+        "balance": 20691,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 462.3,
+        "final_payment": 462.3,
+        "total_amount_payable": 30037,
+        "total_charge_for_credit": 7047,
+        "amount_of_credit": 20691,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22990,
+        "total_price": 22990,
+        "deposit": 2299,
+        "balance": 20691,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 381.29,
+        "final_payment": 10281,
+        "total_amount_payable": 30881.92,
+        "total_charge_for_credit": 7891.92,
+        "amount_of_credit": 20691,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 10281,
+        "price_to_buy": 10281
+      }
+    ]
+  }
+]

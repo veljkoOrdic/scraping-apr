@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:52:22.582Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/-range-rover-range-rover-sport-3-0-p460e-dynamic-se-5dr-5-door-suv-carpathian-grey/ks24hmo",
+    "dealer_id": "5502",
+    "car_id": "28032045",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS24HMO",
+        "registration_date": "10/04/2024",
+        "mileage": 1818,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82495,
+        "total_price": 82495,
+        "deposit": 8249,
+        "balance": 74246,
+        "apr": 10.9,
+        "rate_of_interest": 10.38,
+        "term": 36,
+        "regular_payment": 2409.35,
+        "final_payment": 2409.35,
+        "total_amount_payable": 94985.6,
+        "total_charge_for_credit": 12490.6,
+        "amount_of_credit": 74246,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82495,
+        "total_price": 82495,
+        "deposit": 8249,
+        "balance": 74246,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 36,
+        "regular_payment": 1455.85,
+        "final_payment": 41532,
+        "total_amount_payable": 100735.75,
+        "total_charge_for_credit": 18240.75,
+        "amount_of_credit": 74246,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.12,
+        "residual": 41522,
+        "price_to_buy": 41532
+      }
+    ]
+  }
+]

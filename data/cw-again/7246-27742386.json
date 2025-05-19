@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:18:35.011Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.reflexautos.co.uk/vehicle-details/used-land-rover-range-rover-sport-d250-mhev-hse-for-sale-in-shepperton-u10874/",
+    "dealer_id": "7246",
+    "car_id": "27742386",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 HSE",
+        "registration_number": "AF22NWG",
+        "registration_date": "31/03/2022",
+        "mileage": 24584,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39985,
+        "total_price": 39985,
+        "deposit": 3998.5,
+        "balance": 35986.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 753.75,
+        "final_payment": 14108.75,
+        "total_amount_payable": 53533.5,
+        "total_charge_for_credit": 13548.5,
+        "amount_of_credit": 35986.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 13345,
+        "price_to_buy": 14108.75
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39985,
+        "total_price": 39985,
+        "deposit": 3998.5,
+        "balance": 35986.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 820.19,
+        "final_payment": 830.19,
+        "total_amount_payable": 53219.9,
+        "total_charge_for_credit": 13234.9,
+        "amount_of_credit": 35986.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

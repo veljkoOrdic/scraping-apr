@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:32:59.048Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bcperformance.co.uk/cars/volkswagen/golf/2.0-tsi-bluemotion-tech-r/1452955/",
+    "dealer_id": "6901",
+    "car_id": "27903196",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LV64YCE",
+        "registration_date": "10/12/2014",
+        "mileage": 57274,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16499,
+        "total_price": 16499,
+        "deposit": 1649.9,
+        "balance": 14849.1,
+        "apr": 14.9,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 345.15,
+        "final_payment": 345.15,
+        "balloon": 0,
+        "total_amount_payable": 22358.9,
+        "total_charge_for_credit": 5859.9,
+        "amount_of_credit": 14849.1,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 345.15
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16499,
+        "total_price": 16499,
+        "deposit": 1649.9,
+        "balance": 14849.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 345.42,
+        "final_payment": 346.42,
+        "total_amount_payable": 20303.58,
+        "total_charge_for_credit": 3804.58,
+        "amount_of_credit": 14849.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

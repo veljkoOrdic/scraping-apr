@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:23:26.784Z",
+    "source": "new_vehicle_finance",
+    "url": "https://jpmotortrade.co.uk/vehicle/name/hyundai-i10-go-se/",
+    "dealer_id": "4306",
+    "car_id": "27162372",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK18KFZ",
+        "registration_date": "06/03/2018",
+        "mileage": 63804,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6295,
+        "total_price": 6295,
+        "deposit": 0,
+        "balance": 6295,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 140.53,
+        "final_payment": 150.53,
+        "balloon": 0,
+        "total_amount_payable": 8441.8,
+        "total_charge_for_credit": 2146.8,
+        "amount_of_credit": 6295,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 150.53
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6295,
+        "total_price": 6295,
+        "deposit": 0,
+        "balance": 6295,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 129.32,
+        "final_payment": 130.32,
+        "total_amount_payable": 7760.2,
+        "total_charge_for_credit": 1465.2,
+        "amount_of_credit": 6295,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

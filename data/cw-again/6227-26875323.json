@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:48:05.539Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/bentley/bentley-mulsanne-6-75-v8-speed-auto-euro-6-4dr/",
+    "dealer_id": "6227",
+    "car_id": "26875323",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Bentley",
+        "model": "MULSANNE",
+        "variant": "SALOON",
+        "derivative": "6.8 V8 Speed",
+        "registration_number": "LC70XFP",
+        "registration_date": "22/12/2020",
+        "mileage": 27832,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 124975,
+        "total_price": 124975,
+        "deposit": 12497.5,
+        "balance": 112477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 2200.52,
+        "final_payment": 38452,
+        "total_amount_payable": 154373.94,
+        "total_charge_for_credit": 29398.94,
+        "amount_of_credit": 112477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 38442,
+        "price_to_buy": 38452
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 124975,
+        "total_price": 124975,
+        "deposit": 12497.5,
+        "balance": 112477.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 2360.99,
+        "final_payment": 2360.99,
+        "total_amount_payable": 154156.9,
+        "total_charge_for_credit": 29181.9,
+        "amount_of_credit": 112477.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

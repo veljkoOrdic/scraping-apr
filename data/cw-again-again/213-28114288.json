@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-05-16T11:35:54.316Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarsitelondon.co.uk/details/used-car-in-bromley/porsche/macan/3.0t-v6-s-pdk-4wd-euro-6-ss-5dr/1471613/",
+    "dealer_id": "213",
+    "car_id": "28114288",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "S PDK",
+        "registration_number": "MJ69TLX",
+        "registration_date": "29/10/2019",
+        "mileage": 70000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 3299.5,
+        "balance": 29695.5,
+        "apr": 13.8,
+        "rate_of_interest": 7,
+        "term": 60,
+        "regular_payment": 676.02,
+        "final_payment": 676.02,
+        "total_amount_payable": 43860.7,
+        "total_charge_for_credit": 10865.7,
+        "amount_of_credit": 29695.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

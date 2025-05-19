@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:10:14.760Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/audi/a6/45-tfsi-265-quattro-black-edition-5dr-s-tronic/cheltenham/gloucestershire/21580137",
+    "dealer_id": "6614",
+    "car_id": "27745118",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS71SDY",
+        "registration_date": "05/01/2022",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 572.97,
+        "final_payment": 573.97,
+        "total_amount_payable": 37478.2,
+        "total_charge_for_credit": 6488.2,
+        "amount_of_credit": 27891,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30990,
+        "total_price": 30990,
+        "deposit": 3099,
+        "balance": 27891,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 465.29,
+        "final_payment": 12796.35,
+        "total_amount_payable": 38229.27,
+        "total_charge_for_credit": 7239.27,
+        "amount_of_credit": 27891,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.18,
+        "residual": 12795.35,
+        "price_to_buy": 12796.35
+      }
+    ]
+  }
+]

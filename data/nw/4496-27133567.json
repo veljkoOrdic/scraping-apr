@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:48:14.290Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dalesautomotive.co.uk/used-subaru-xv-kelbrook-lancashire-6685121",
+    "dealer_id": "4496",
+    "car_id": "27133567",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PL71LXG",
+        "registration_date": "30/09/2021",
+        "mileage": 26935,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 444.03,
+        "final_payment": 445.03,
+        "total_amount_payable": 23313.44,
+        "total_charge_for_credit": 3318.44,
+        "amount_of_credit": 17996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 8.9,
+        "rate_of_interest": 4.41,
+        "term": 49,
+        "regular_payment": 315.47,
+        "final_payment": 7380.78,
+        "total_amount_payable": 24522.34,
+        "total_charge_for_credit": 4527.34,
+        "amount_of_credit": 17996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.08,
+        "residual": 7379.78,
+        "price_to_buy": 7380.78
+      }
+    ]
+  }
+]

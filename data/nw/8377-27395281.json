@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:36:48.574Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.select-a-car.co.uk/details/used-car-in-leicester/nissan/qashqai/1.5-dci-acenta-premium-euro-6-ss-5dr/1407601/",
+    "dealer_id": "8377",
+    "car_id": "27395281",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MXZ7766",
+        "registration_date": "03/12/2018",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8495,
+        "total_price": 8495,
+        "deposit": 849.5,
+        "balance": 7645.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 174.18,
+        "final_payment": 184.18,
+        "balloon": 0,
+        "total_amount_payable": 11310.3,
+        "total_charge_for_credit": 2815.3,
+        "amount_of_credit": 7645.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 184.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8495,
+        "total_price": 8495,
+        "deposit": 849.5,
+        "balance": 7645.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 174.18,
+        "final_payment": 184.18,
+        "total_amount_payable": 11310.3,
+        "total_charge_for_credit": 2815.3,
+        "amount_of_credit": 7645.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

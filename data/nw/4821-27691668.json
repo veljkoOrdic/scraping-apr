@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:38:01.227Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jmmotorsltd.co.uk/used-mercedes-benz-x-class-harefield-middlesex-6851127",
+    "dealer_id": "4821",
+    "car_id": "27691668",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "TF69TLF",
+        "registration_date": "17/10/2019",
+        "mileage": 83620,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26340,
+        "total_price": 26340,
+        "deposit": 0,
+        "balance": 21950,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 480.48,
+        "final_payment": 481.48,
+        "total_amount_payable": 33219.8,
+        "total_charge_for_credit": 6879.8,
+        "amount_of_credit": 21950,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,10 +1,18 @@
 [
   {
-    "timestamp": "2025-05-12T14:05:22.541Z",
+    "timestamp": "2025-05-13T09:26:54.581Z",
     "source": "new_vehicle_finance",
-    "url": "https://www.phoenixcarcentre.com/individual-car?car_id=97",
+    "url": "https://www.phoenixcarcentre.com/individual-car/?car_id=97",
     "dealer_id": "178",
     "car_id": "22486365",
-    "data": "Redirected !!!"
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "H636LJA",
+        "registration_date": "19/09/1990",
+        "mileage": 82645,
+        "status": "Used"
+      }
+    ]
   }
 ]

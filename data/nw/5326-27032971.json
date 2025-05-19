@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:30:43.339Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverydole.co.uk/used/ford/tourneo-connect/15-ecoblue-120-titanium-5dr/exeter/devon/21538910",
+    "dealer_id": "5326",
+    "car_id": "27032971",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV19NFX",
+        "registration_date": "29/08/2019",
+        "mileage": 58325,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 4799.6,
+        "balance": 7199.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.68,
+        "term": 48,
+        "regular_payment": 184.06,
+        "final_payment": 185.06,
+        "total_amount_payable": 13635.48,
+        "total_charge_for_credit": 1636.48,
+        "amount_of_credit": 7199.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

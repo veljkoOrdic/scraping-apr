@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:46:20.830Z",
+    "timestamp": "2025-05-15T17:14:32.346Z",
     "source": "new_vehicle_finance",
     "url": "https://www.jmcvansales.co.uk/used-mercedes-benz-sprinter-dukinfield-cheshire-5811256",
     "dealer_id": "8170",
@@ -12,6 +12,29 @@
         "registration_date": "29/04/2021",
         "mileage": 33658,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32394,
+        "total_price": 32394,
+        "deposit": 5399,
+        "balance": 26995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 554.44,
+        "final_payment": 564.44,
+        "balloon": 0,
+        "total_amount_payable": 38675.4,
+        "total_charge_for_credit": 6281.4,
+        "amount_of_credit": 26995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 564.44
       },
       {
         "type": "finance_hp",

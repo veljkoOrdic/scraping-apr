@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:46:09.430Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fontain.co.uk/vehicle/used-audi-rs6-avant-tfsi-v8-for-sale-in-iver-buckinghamshire-u13426/",
+    "dealer_id": "7355",
+    "car_id": "27926278",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BD65OSP",
+        "registration_date": "09/09/2015",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39950,
+        "total_price": 39950,
+        "deposit": 11985,
+        "balance": 27965,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 586.99,
+        "final_payment": 587.99,
+        "total_amount_payable": 47205.4,
+        "total_charge_for_credit": 7255.4,
+        "amount_of_credit": 27965,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

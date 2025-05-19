@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:02:34.304Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.henrys-cars.com/suzuki/used-cars/suzuki-across-2-5-18-1kwh-e-cvt-4wd-euro-6-s-s-5dr-ks72hmx",
+    "dealer_id": "7642",
+    "car_id": "27320385",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "ACROSS",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV E-Four CVT",
+        "registration_number": "KS72HMX",
+        "registration_date": "31/12/2022",
+        "mileage": 35501,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249.5,
+        "balance": 20245.5,
+        "apr": 10.4,
+        "rate_of_interest": 9.92,
+        "term": 48,
+        "regular_payment": 345.61,
+        "final_payment": 10153,
+        "total_amount_payable": 28646.17,
+        "total_charge_for_credit": 6151.17,
+        "amount_of_credit": 20245.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9.6,
+        "residual": 10143,
+        "price_to_buy": 10153
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22495,
+        "total_price": 22495,
+        "deposit": 2249.5,
+        "balance": 20245.5,
+        "apr": 10.4,
+        "rate_of_interest": 9.92,
+        "term": 48,
+        "regular_payment": 512.67,
+        "final_payment": 522.67,
+        "total_amount_payable": 26867.66,
+        "total_charge_for_credit": 4372.66,
+        "amount_of_credit": 20245.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

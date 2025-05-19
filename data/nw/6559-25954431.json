@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:49:27.522Z",
+    "timestamp": "2025-05-15T18:23:47.736Z",
     "source": "new_vehicle_finance",
     "url": "https://www.imperials.co.uk/used-car-details/used-porsche-911-36-996-carrera-4s-awd-2dr-coupe-basalt-black-manual-petrol/id-202410165248674/",
     "dealer_id": "6559",
@@ -12,6 +12,29 @@
         "registration_date": "20/03/2003",
         "mileage": 44000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28911,
+        "total_price": 28911,
+        "deposit": 10118,
+        "balance": 18793,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 394.35,
+        "final_payment": 404.35,
+        "balloon": 0,
+        "total_amount_payable": 33789,
+        "total_charge_for_credit": 4878,
+        "amount_of_credit": 18793,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 404.35
       }
     ]
   }

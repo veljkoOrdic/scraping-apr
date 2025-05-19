@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:31:13.682Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bayercarsales.co.uk/used-porsche-911-fareham-hampshire-6431115",
+    "dealer_id": "1734",
+    "car_id": "26037354",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HD52ODT",
+        "registration_date": "07/02/2003",
+        "mileage": 19441,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 33985,
+        "total_price": 33985,
+        "deposit": 3398,
+        "balance": 30587,
+        "apr": 14.1,
+        "rate_of_interest": 7.15,
+        "term": 60,
+        "regular_payment": 699.95,
+        "final_payment": 699.95,
+        "balloon": 0,
+        "total_amount_payable": 45395,
+        "total_charge_for_credit": 11410,
+        "amount_of_credit": 30587,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 699.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:30:51.120Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cavendishuk.co.uk/cars/bmw/x5/2.0-x5-xdrive40e-m-sport/1373230/",
+    "dealer_id": "4339",
+    "car_id": "26978822",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GC66CCF",
+        "registration_date": "24/09/2016",
+        "mileage": 64000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 405.1,
+        "final_payment": 406.1,
+        "total_amount_payable": 26406.5,
+        "total_charge_for_credit": 5411.5,
+        "amount_of_credit": 18895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

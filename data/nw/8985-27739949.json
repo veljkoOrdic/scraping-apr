@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:37:42.921Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bridgendvans.co.uk/vehicle-details/used-volkswagen-transporter-tdi-t32-highline-for-sale-in-bridgend-mid-glamorgan-u677/",
+    "dealer_id": "8985",
+    "car_id": "27739949",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ24PYX",
+        "registration_date": "31/07/2024",
+        "mileage": 6322,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57594,
+        "total_price": 57594,
+        "deposit": 9599,
+        "balance": 38396,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 805.95,
+        "final_payment": 806.95,
+        "total_amount_payable": 67556,
+        "total_charge_for_credit": 9962,
+        "amount_of_credit": 38396,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

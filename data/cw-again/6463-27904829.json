@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T14:46:50.274Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beavergarages.co.uk/cars/mazda/mx-30/0.8-17.8kwh-r-ev-exclusive-line/1452394/",
+    "dealer_id": "6463",
+    "car_id": "27904829",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "MX-30",
+        "variant": "HATCHBACK",
+        "derivative": "125kW R-EV Exclusive Line",
+        "registration_number": "WA24KDO",
+        "registration_date": "31/05/2024",
+        "mileage": 2050,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 15,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 482.29,
+        "final_payment": 482.29,
+        "total_amount_payable": 31236.9,
+        "total_charge_for_credit": 8241.9,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299.5,
+        "balance": 20695.5,
+        "apr": 15.2,
+        "rate_of_interest": 7.5,
+        "term": 48,
+        "regular_payment": 418.01,
+        "final_payment": 9742.5,
+        "total_amount_payable": 32106.48,
+        "total_charge_for_credit": 9111.48,
+        "amount_of_credit": 20695.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 9732.5,
+        "price_to_buy": 9742.5
+      }
+    ]
+  }
+]

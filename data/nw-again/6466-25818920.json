@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:12.841Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorplanet.co.uk/used-ford-transit-greater-manchester-greater-manchester-6339773",
+    "dealer_id": "6466",
+    "car_id": "25818920",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YO68KDX",
+        "registration_date": "21/01/2019",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17970,
+        "total_price": 17970,
+        "deposit": 0,
+        "balance": 17970,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 393.25,
+        "final_payment": 403.25,
+        "balloon": 0,
+        "total_amount_payable": 23605,
+        "total_charge_for_credit": 5635,
+        "amount_of_credit": 17970,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 403.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17970,
+        "total_price": 17970,
+        "deposit": 0,
+        "balance": 17970,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 393.25,
+        "final_payment": 403.25,
+        "total_amount_payable": 23605,
+        "total_charge_for_credit": 5635,
+        "amount_of_credit": 17970,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:12:49.461Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thevaluecarcentre.com/details/used-car-in-norwich/landrover/defender110/3.0-d250-mhev-x-dynamic-se-auto-4wd-euro-6-ss-5dr/1437620/",
+    "dealer_id": "50",
+    "car_id": "27740803",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 X-Dynamic SE 110",
+        "registration_number": "RJ70UUA",
+        "registration_date": "06/01/2021",
+        "mileage": 53000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49990,
+        "total_price": 49990,
+        "deposit": 4999,
+        "balance": 44991,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 944.38,
+        "final_payment": 945.38,
+        "total_amount_payable": 61662.8,
+        "total_charge_for_credit": 11672.8,
+        "amount_of_credit": 44991,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49990,
+        "total_price": 49990,
+        "deposit": 4999,
+        "balance": 44991,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 795.55,
+        "final_payment": 15969.77,
+        "total_amount_payable": 67906.22,
+        "total_charge_for_credit": 17916.22,
+        "amount_of_credit": 44991,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.41,
+        "residual": 15968.77,
+        "price_to_buy": 15969.77
+      }
+    ]
+  }
+]

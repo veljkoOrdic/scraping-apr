@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:38.199Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuevehicles.co.uk/used/cars/mini/hatch/2-0-john-cooper-works-3dr-national-delivery-290",
+    "dealer_id": "2792",
+    "car_id": "25764422",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ME16EBX",
+        "registration_date": "31/05/2016",
+        "mileage": 28691,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 100,
+        "balance": 12895,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 287.99,
+        "final_payment": 297.99,
+        "balloon": 0,
+        "total_amount_payable": 17389.4,
+        "total_charge_for_credit": 4394.4,
+        "amount_of_credit": 12895,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 297.99
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 100,
+        "balance": 12895,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 270.68,
+        "final_payment": 271.68,
+        "total_amount_payable": 16341.8,
+        "total_charge_for_credit": 3346.8,
+        "amount_of_credit": 12895,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

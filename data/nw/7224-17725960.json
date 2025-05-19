@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:02:25.113Z",
+    "timestamp": "2025-05-15T15:01:58.080Z",
     "source": "new_vehicle_finance",
     "url": "https://www.yourcarsupermarket.com/used-porsche-911-birmingham-west-midlands-4302030",
     "dealer_id": "7224",
@@ -12,6 +12,29 @@
         "registration_date": "08/05/1989",
         "mileage": 64000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 90000,
+        "total_price": 90000,
+        "deposit": 9000,
+        "balance": 81000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1809.66,
+        "final_payment": 1819.66,
+        "balloon": 0,
+        "total_amount_payable": 117589.6,
+        "total_charge_for_credit": 27589.6,
+        "amount_of_credit": 81000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1819.66
       }
     ]
   }

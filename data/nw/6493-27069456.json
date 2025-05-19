@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:18:59.452Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tjcarsales.co.uk/cars/vauxhall/adam/1.4-i-jam/1380366/",
+    "dealer_id": "6493",
+    "car_id": "27069456",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM65YHN",
+        "registration_date": "25/02/2016",
+        "mileage": 61205,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5295,
+        "total_price": 5295,
+        "deposit": 529.5,
+        "balance": 4765.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 100.02,
+        "final_payment": 101.02,
+        "total_amount_payable": 6531.7,
+        "total_charge_for_credit": 1236.7,
+        "amount_of_credit": 4765.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

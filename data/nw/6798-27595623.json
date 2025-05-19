@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:47:07.104Z",
+    "timestamp": "2025-05-15T19:02:08.520Z",
     "source": "new_vehicle_finance",
     "url": "https://www.carcart.co.uk/used-renault-zoe-birmingham-west-midlands-6824663",
     "dealer_id": "6798",
@@ -12,6 +12,29 @@
         "registration_date": "27/11/2015",
         "mileage": 38006,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4390,
+        "total_price": 4390,
+        "deposit": 878,
+        "balance": 3512,
+        "apr": 11.8,
+        "rate_of_interest": 6.17,
+        "term": 60,
+        "regular_payment": 76.6,
+        "final_payment": 86.6,
+        "balloon": 0,
+        "total_amount_payable": 5484,
+        "total_charge_for_credit": 1094,
+        "amount_of_credit": 3512,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 86.6
       },
       {
         "type": "finance_hp",

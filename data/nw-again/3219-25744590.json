@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:31:00.479Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmillar.co.uk/details/used-audi-a5-hatchback-2.0-tfsi-40-s-line-sportback-s-tronic-euro-6-(ss)-5dr-petrol-semi-auto-ibis-white-Id=3206444",
+    "dealer_id": "3219",
+    "car_id": "25744590",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CV70NDX",
+        "registration_date": "05/11/2020",
+        "mileage": 19959,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24999,
+        "total_price": 24999,
+        "deposit": 0,
+        "balance": 24999,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 638.72,
+        "final_payment": 639.72,
+        "total_amount_payable": 30659.56,
+        "total_charge_for_credit": 5660.56,
+        "amount_of_credit": 24999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24999,
+        "total_price": 24999,
+        "deposit": 0,
+        "balance": 24999,
+        "apr": 10.9,
+        "rate_of_interest": 5.37,
+        "term": 49,
+        "regular_payment": 459.57,
+        "final_payment": 10698.53,
+        "total_amount_payable": 32757.89,
+        "total_charge_for_credit": 7758.89,
+        "amount_of_credit": 24999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "contract_mileage": 36750,
+        "excess_mileage_rate": 0.12,
+        "residual": 10697.53,
+        "price_to_buy": 10698.53
+      }
+    ]
+  }
+]

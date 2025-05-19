@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:35:19.263Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.llanellimotorcompany.co.uk/used-vehicle-details/Volkswagen-Transporter-U8675/",
+    "dealer_id": "7446",
+    "car_id": "25980499",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL66BSO",
+        "registration_date": "19/11/2016",
+        "mileage": 51243,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 523.19,
+        "final_payment": 523.19,
+        "balloon": 0,
+        "total_amount_payable": 27312.62,
+        "total_charge_for_credit": 5317.62,
+        "amount_of_credit": 19795.5,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 523.19
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 497.11,
+        "final_payment": 498.11,
+        "total_amount_payable": 26061.78,
+        "total_charge_for_credit": 4066.78,
+        "amount_of_credit": 19795.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

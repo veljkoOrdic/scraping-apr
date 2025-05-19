@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-15T01:26:10.626Z",
+    "timestamp": "2025-05-15T18:03:50.197Z",
     "source": "new_vehicle_finance",
     "url": "https://www.hamcarcentre.co.uk/used-iveco-daily-poole-dorset-6615671",
     "dealer_id": "4206",
     "car_id": "26755513",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK72TVY",
+        "registration_date": "07/12/2022",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22788,
+        "total_price": 22788,
+        "deposit": 0,
+        "balance": 18990,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 398.6,
+        "final_payment": 399.6,
+        "total_amount_payable": 27715,
+        "total_charge_for_credit": 4927,
+        "amount_of_credit": 18990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:14:07.014Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mccabeautos.co.uk/used-bmw-2-series-gran-coupe-belfast-county-down-6807178",
+    "dealer_id": "1719",
+    "car_id": "27503681",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VGZ2186",
+        "registration_date": "01/09/2021",
+        "mileage": 40500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17950,
+        "total_price": 17950,
+        "deposit": 2692,
+        "balance": 15258,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 396.38,
+        "final_payment": 406.38,
+        "total_amount_payable": 21728.24,
+        "total_charge_for_credit": 3778.24,
+        "amount_of_credit": 15258,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17950,
+        "total_price": 17950,
+        "deposit": 2692,
+        "balance": 15258,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 239.47,
+        "final_payment": 9565.75,
+        "total_amount_payable": 23752.31,
+        "total_charge_for_credit": 5802.31,
+        "amount_of_credit": 15258,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.15,
+        "residual": 9555.75,
+        "price_to_buy": 9565.75
+      }
+    ]
+  }
+]

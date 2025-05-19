@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:57:50.410Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carpointuk.co.uk/details/used-car-in-newport/mg/zs/1.5-vti-tech-exclusive-euro-6-ss-5dr/1380421/",
+    "dealer_id": "6786",
+    "car_id": "27074999",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CA69WZT",
+        "registration_date": "30/12/2019",
+        "mileage": 59437,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 500,
+        "balance": 8499,
+        "apr": 12.9,
+        "rate_of_interest": 6.57,
+        "term": 60,
+        "regular_payment": 188.18,
+        "final_payment": 238.18,
+        "total_amount_payable": 11890.8,
+        "total_charge_for_credit": 2891.8,
+        "amount_of_credit": 8499,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8999,
+        "total_price": 8999,
+        "deposit": 500,
+        "balance": 8499,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 55,
+        "regular_payment": 162.85,
+        "final_payment": 3063.7,
+        "total_amount_payable": 12357.6,
+        "total_charge_for_credit": 3358.6,
+        "amount_of_credit": 8499,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 0.02,
+        "residual": 3062.7,
+        "price_to_buy": 3063.7
+      }
+    ]
+  }
+]

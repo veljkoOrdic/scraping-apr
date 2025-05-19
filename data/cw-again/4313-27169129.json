@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:44:41.682Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.withamgarage.co.uk/used-citroen-c1-melton-mowbray-leicestershire-6727678",
+    "dealer_id": "4313",
+    "car_id": "27169129",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "C1",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 VTi 72 Urban Ride",
+        "registration_number": "MT71LFG",
+        "registration_date": "14/02/2022",
+        "mileage": 29114,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8295,
+        "total_price": 8295,
+        "deposit": 829,
+        "balance": 7466,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 48,
+        "regular_payment": 135.2,
+        "final_payment": 3061,
+        "total_amount_payable": 10379.6,
+        "total_charge_for_credit": 2084.6,
+        "amount_of_credit": 7466,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 4.5,
+        "residual": 3060,
+        "price_to_buy": 3061
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8295,
+        "total_price": 8295,
+        "deposit": 829,
+        "balance": 7466,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 187.46,
+        "final_payment": 188.46,
+        "total_amount_payable": 9828.08,
+        "total_charge_for_credit": 1533.08,
+        "amount_of_credit": 7466,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

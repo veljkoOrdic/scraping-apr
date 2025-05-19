@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:17:43.519Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ns-cars.co.uk/used-nissan-juke-liverpool-merseyside-6927579",
+    "dealer_id": "8202",
+    "car_id": "28011087",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VA65DPO",
+        "registration_date": "01/01/2016",
+        "mileage": 62692,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6199,
+        "total_price": 6199,
+        "deposit": 1239,
+        "balance": 4960,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 115.38,
+        "final_payment": 115.38,
+        "total_amount_payable": 7469.52,
+        "total_charge_for_credit": 1270.52,
+        "amount_of_credit": 4960,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

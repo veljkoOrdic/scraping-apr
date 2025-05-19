@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T14:03:11.645Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmillar.co.uk/details/used-volkswagen-tiguan-allspace-estate-1.5-tsi-life-5dr-dsg-petrol-semi-auto-kings-red-Id=4936319",
+    "dealer_id": "3219",
+    "car_id": "27250128",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WG24FDP",
+        "registration_date": "30/04/2024",
+        "mileage": 437,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27975,
+        "total_price": 27975,
+        "deposit": 0,
+        "balance": 27975,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 714.76,
+        "final_payment": 715.76,
+        "total_amount_payable": 34309.48,
+        "total_charge_for_credit": 6334.48,
+        "amount_of_credit": 27975,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27975,
+        "total_price": 27975,
+        "deposit": 0,
+        "balance": 27975,
+        "apr": 10.9,
+        "rate_of_interest": 5.33,
+        "term": 49,
+        "regular_payment": 473.4,
+        "final_payment": 14413.38,
+        "total_amount_payable": 37136.58,
+        "total_charge_for_credit": 9161.58,
+        "amount_of_credit": 27975,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "contract_mileage": 36750,
+        "excess_mileage_rate": 0.16,
+        "residual": 14412.38,
+        "price_to_buy": 14413.38
+      }
+    ]
+  }
+]

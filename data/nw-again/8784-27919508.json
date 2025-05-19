@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:11:30.023Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovero.co.uk/used/cars/toyota/yaris/gr-y-circuit-280",
+    "dealer_id": "8784",
+    "car_id": "27919508",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV22BHO",
+        "registration_date": "04/03/2022",
+        "mileage": 6700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 3250,
+        "balance": 29250,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 600.89,
+        "final_payment": 601.89,
+        "total_amount_payable": 39304.4,
+        "total_charge_for_credit": 6804.4,
+        "amount_of_credit": 29250,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32500,
+        "total_price": 32500,
+        "deposit": 3250,
+        "balance": 29250,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 474.36,
+        "final_payment": 9908.51,
+        "total_amount_payable": 41145.75,
+        "total_charge_for_credit": 8645.75,
+        "amount_of_credit": 29250,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 7000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 0.05,
+        "residual": 9907.51,
+        "price_to_buy": 9908.51
+      }
+    ]
+  }
+]

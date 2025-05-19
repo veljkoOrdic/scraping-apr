@@ -1,12 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T22:37:39.406Z",
+    "timestamp": "2025-05-15T17:08:42.897Z",
     "source": "new_vehicle_finance",
     "url": "https://www.pjcommercial.com/used-mercedes-benz-vito-smethwick-west-midlands-5642460",
     "dealer_id": "8144",
     "car_id": "22700041",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR63HKC",
+        "registration_date": "31/12/2013",
+        "mileage": 174814,
+        "status": "Used"
+      }
+    ]
   }
 ]

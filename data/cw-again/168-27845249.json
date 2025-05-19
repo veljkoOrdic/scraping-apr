@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T14:25:21.105Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.martoncars.co.uk/cars/ford/transit/2.0-350-ecoblue-trend-fwd-l3-h2-euro-6-ss-5dr/1446640/",
+    "dealer_id": "168",
+    "car_id": "27845249",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 130ps H2 Trend Van",
+        "registration_number": "CV71RYZ",
+        "registration_date": "18/11/2021",
+        "mileage": 33000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 14.2,
+        "rate_of_interest": 6.75,
+        "term": 48,
+        "regular_payment": 295.06,
+        "final_payment": 4682.56,
+        "total_amount_payable": 20050.38,
+        "total_charge_for_credit": 5050.38,
+        "amount_of_credit": 13500,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 4377.5,
+        "price_to_buy": 4682.56
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 14.1,
+        "rate_of_interest": 6.75,
+        "term": 60,
+        "regular_payment": 308.74,
+        "final_payment": 308.74,
+        "total_amount_payable": 20024.4,
+        "total_charge_for_credit": 5024.4,
+        "amount_of_credit": 13500,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

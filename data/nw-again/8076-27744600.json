@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:28:48.918Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/used-vans/citroen-berlingo-1-5-bluehdi-1000-enterprise-m-swb-euro-6-s-s-5dr-5-door-panel-van-grey/cj21ldv",
+    "dealer_id": "8076",
+    "car_id": "27744600",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CJ21LDV",
+        "registration_date": "15/07/2021",
+        "mileage": 56122,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11550,
+        "total_price": 11550,
+        "deposit": 2888,
+        "balance": 8662,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 221.3,
+        "final_payment": 222.3,
+        "total_amount_payable": 13511.4,
+        "total_charge_for_credit": 1961.4,
+        "amount_of_credit": 8662,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

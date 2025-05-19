@@ -1,39 +1,21 @@
 [
   {
-    "timestamp": "2025-04-14T18:43:31.300Z",
+    "timestamp": "2025-05-15T14:53:34.627Z",
     "source": "new_vehicle_finance",
     "url": "https://www.heartysofpeterborough.co.uk/used-nissan-leaf-peterborough-cambridgeshire-5073203",
     "dealer_id": "5078",
     "car_id": "20270233",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "Y23YNG",
-        "registration_date": "31/03/2016",
-        "mileage": 18179,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 6490,
-        "total_price": 6490,
-        "deposit": 649,
-        "balance": 5841,
-        "apr": 11.9,
-        "rate_of_interest": 6.18,
-        "term": 48,
-        "regular_payment": 151.79,
-        "final_payment": 152.79,
-        "total_amount_payable": 7935.92,
-        "total_charge_for_credit": 1445.92,
-        "amount_of_credit": 5841,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.heartysofpeterborough&quoteeUid=71E663719EEB47F999D7D1B8881241D3&class=car&condition=used&vrm=Y23YNG&registrationDate=31%2F03%2F2016&capCode=&capId=&cashPrice=6490&currentOdometerReading=18179&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F5073%2F5073203%2Ffull%2F116949940.jpg&term=48&cashDeposit=649&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=06%2F04%2F2023&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.heartysofpeterborough&quoteeUid=71E663719EEB47F999D7D1B8881241D3&class=car&condition=used&vrm=Y23YNG&registrationDate=31%2F03%2F2016&capCode=&capId=&cashPrice=6490&currentOdometerReading=18179&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F5073%2F5073203%2Ffull%2F116949940.jpg&term=48&cashDeposit=649&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=06%2F04%2F2023&usePersistedOptions=false&origin=https%3A%2F%2Fwww.heartysofpeterborough.co.uk%2Fused-nissan-leaf-peterborough-cambridgeshire-5073203&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json"
+      ]
+    }
   }
 ]

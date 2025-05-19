@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:44.091Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bellevuevehicles.co.uk/used/cars/mercedes-benz/a-class/2-0-amg-a-35-4matic-automatic-4wd-5dr-national-delivery-389",
+    "dealer_id": "2792",
+    "car_id": "26354054",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW69RVF",
+        "registration_date": "17/09/2019",
+        "mileage": 70633,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 100,
+        "balance": 17895,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 399.71,
+        "final_payment": 409.71,
+        "balloon": 0,
+        "total_amount_payable": 24092.6,
+        "total_charge_for_credit": 6097.6,
+        "amount_of_credit": 17895,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 409.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 100,
+        "balance": 17895,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 375.63,
+        "final_payment": 376.63,
+        "total_amount_payable": 22638.8,
+        "total_charge_for_credit": 4643.8,
+        "amount_of_credit": 17895,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

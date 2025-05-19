@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:36:34.199Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/mazda-cx-80-vx74hpz/",
+    "dealer_id": "8984",
+    "car_id": "28018945",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mazda",
+        "model": "CX-80",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV Takumi Plus [Conv/DAP/Pan]",
+        "registration_number": "VX74 HPZ",
+        "registration_date": "10/01/2025",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47995,
+        "total_price": 47995,
+        "deposit": 4799.5,
+        "balance": 43195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 818.95,
+        "final_payment": 24208.71,
+        "total_amount_payable": 57671.46,
+        "total_charge_for_credit": 9676.46,
+        "amount_of_credit": 43195.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 13.34,
+        "residual": 24208.71,
+        "price_to_buy": 24208.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47995,
+        "total_price": 47995,
+        "deposit": 4799.5,
+        "balance": 43195.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 1383.2,
+        "final_payment": 1384.2,
+        "total_amount_payable": 54595.7,
+        "total_charge_for_credit": 6600.7,
+        "amount_of_credit": 43195.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

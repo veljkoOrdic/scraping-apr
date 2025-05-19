@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:11:38.879Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.nmg.co.uk/used-mclaren-570s-peterborough-cambridgeshire-6859525",
+    "dealer_id": "6437",
+    "car_id": "27851543",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SF65AZZ",
+        "registration_date": "10/12/2015",
+        "mileage": 23500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78390,
+        "total_price": 78390,
+        "deposit": 7839,
+        "balance": 70551,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1544.39,
+        "final_payment": 1545.39,
+        "total_amount_payable": 100503.4,
+        "total_charge_for_credit": 22113.4,
+        "amount_of_credit": 70551,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

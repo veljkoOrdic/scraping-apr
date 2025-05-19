@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:12:09.729Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-audi-a1-14-tfsi-sport-sportback-5dr-p-hatchback-mythos-black-manual-petrol/id-1077/",
+    "dealer_id": "6658",
+    "car_id": "27817738",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LM67ZFJ",
+        "registration_date": "14/11/2017",
+        "mileage": 68900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 2698,
+        "balance": 6297,
+        "apr": 13.4,
+        "rate_of_interest": 13.29,
+        "term": 29,
+        "regular_payment": 252.82,
+        "final_payment": 262.82,
+        "total_amount_payable": 10039.78,
+        "total_charge_for_credit": 1044.78,
+        "amount_of_credit": 6297,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 2698,
+        "balance": 6297,
+        "apr": 13.4,
+        "rate_of_interest": 13.32,
+        "term": 29,
+        "regular_payment": 122.96,
+        "final_payment": 4510,
+        "total_amount_payable": 10650.88,
+        "total_charge_for_credit": 1655.88,
+        "amount_of_credit": 6297,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 19333,
+        "excess_mileage_rate": 0,
+        "residual": 4500,
+        "price_to_buy": 4510
+      }
+    ]
+  }
+]

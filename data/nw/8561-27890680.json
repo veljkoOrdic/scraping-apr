@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:04:22.409Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mattjohnsonprestigecars.co.uk/used/cars/maserati/levante/v6-gransport-2044",
+    "dealer_id": "8561",
+    "car_id": "27890680",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "609GEH",
+        "registration_date": "23/12/2020",
+        "mileage": 25415,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38950,
+        "total_price": 38950,
+        "deposit": 3895,
+        "balance": 35055,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 880.29,
+        "final_payment": 881.29,
+        "total_amount_payable": 46149.92,
+        "total_charge_for_credit": 7199.92,
+        "amount_of_credit": 35055,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38950,
+        "total_price": 38950,
+        "deposit": 3895,
+        "balance": 35055,
+        "apr": 9.9,
+        "rate_of_interest": 4.93,
+        "term": 49,
+        "regular_payment": 684.72,
+        "final_payment": 11451.86,
+        "total_amount_payable": 48213.42,
+        "total_charge_for_credit": 9263.42,
+        "amount_of_credit": 35055,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.1,
+        "residual": 11450.86,
+        "price_to_buy": 11451.86
+      }
+    ]
+  }
+]

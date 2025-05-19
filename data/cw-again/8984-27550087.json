@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:36:26.890Z",
+    "source": "codeweavers_calculator",
+    "url": "https://edwardsmotors.co.uk/usedcars/kia-niro-ve72hzx/",
+    "dealer_id": "8984",
+    "car_id": "27550087",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi Hybrid 4 DCT",
+        "registration_number": "VE72 HZX",
+        "registration_date": "31/01/2023",
+        "mileage": 7318,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 411.45,
+        "final_payment": 14410.97,
+        "total_amount_payable": 31411.22,
+        "total_charge_for_credit": 5416.22,
+        "amount_of_credit": 23395.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 8.86,
+        "residual": 14410.97,
+        "price_to_buy": 14410.97
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 36,
+        "regular_payment": 749.15,
+        "final_payment": 750.15,
+        "total_amount_payable": 29569.9,
+        "total_charge_for_credit": 3574.9,
+        "amount_of_credit": 23395.5,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

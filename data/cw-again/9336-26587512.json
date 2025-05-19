@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:49:37.082Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.edenautomotive.co.uk/used/audi-a6-2.0l-tdi-s-line-saloon-4dr-diesel-semi-automatic-euro-6-(201-bhp)-in-faversham-kent/57202",
+    "dealer_id": "9336",
+    "car_id": "26587512",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "DIESEL SALOON",
+        "derivative": "40 TDI S Line S Tronic",
+        "registration_number": "RO68AAK",
+        "registration_date": "28/09/2018",
+        "mileage": 80000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19950,
+        "total_price": 19950,
+        "deposit": 1995,
+        "balance": 17955,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 40,
+        "regular_payment": 401.64,
+        "final_payment": 7121.42,
+        "total_amount_payable": 24780.38,
+        "total_charge_for_credit": 4830.38,
+        "amount_of_credit": 17955,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 33333,
+        "excess_mileage_rate": 5.9,
+        "residual": 7121.42,
+        "price_to_buy": 7121.42
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19950,
+        "total_price": 19950,
+        "deposit": 1995,
+        "balance": 17955,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 393.03,
+        "final_payment": 394.03,
+        "total_amount_payable": 25577.8,
+        "total_charge_for_credit": 5627.8,
+        "amount_of_credit": 17955,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

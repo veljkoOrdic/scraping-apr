@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:04:09.005Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/citroen/berlingo-van/driver-m/15-bluehdi-1000-driver-m-panel-van-5dr-diesel-manual-swb-euro-6-ss-100-ps/54602",
+    "dealer_id": "8107",
+    "car_id": "27016391",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ21AVH",
+        "registration_date": "30/06/2021",
+        "mileage": 49190,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11154,
+        "total_price": 11154,
+        "deposit": 0,
+        "balance": 9295,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 241.56,
+        "final_payment": 242.56,
+        "total_amount_payable": 13454.88,
+        "total_charge_for_credit": 2300.88,
+        "amount_of_credit": 9295,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

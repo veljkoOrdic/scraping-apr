@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:59:41.293Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/bentley/bentayga/4.0-d-v8stunning-examplebeautiful-trimmed-two-tone-leatherrespectable-colour/1449455/",
+    "dealer_id": "6287",
+    "car_id": "27868424",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KF18FME",
+        "registration_date": "12/03/2018",
+        "mileage": 48567,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 67970,
+        "total_price": 67970,
+        "deposit": 6797,
+        "balance": 61173,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 1450.28,
+        "final_payment": 1460.28,
+        "balloon": 0,
+        "total_amount_payable": 93823.8,
+        "total_charge_for_credit": 25853.8,
+        "amount_of_credit": 61173,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1460.28
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67970,
+        "total_price": 67970,
+        "deposit": 6797,
+        "balance": 61173,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1311.52,
+        "final_payment": 1312.52,
+        "total_amount_payable": 85489.2,
+        "total_charge_for_credit": 17519.2,
+        "amount_of_credit": 61173,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

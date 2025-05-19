@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:31:52.810Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.collissmotors.co.uk/used-audi-q7-warminster-wiltshire-6890395",
+    "dealer_id": "4009",
+    "car_id": "27847622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "Black Edition",
+        "derivative": "Q7 Black Edition 55 TFSI quattro 340 PS tiptronic",
+        "registration_number": "WR23YXY",
+        "registration_date": "26/04/2023",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 49495,
+        "total_price": 49495,
+        "deposit": 4949,
+        "balance": 44546,
+        "apr": 11.5,
+        "rate_of_interest": 5.75,
+        "term": 48,
+        "regular_payment": 1150.46,
+        "final_payment": 1150.46,
+        "total_amount_payable": 60171.08,
+        "total_charge_for_credit": 10676.08,
+        "amount_of_credit": 44546,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49495,
+        "total_price": 49495,
+        "deposit": 4949,
+        "balance": 44546,
+        "apr": 11.4,
+        "rate_of_interest": 5.75,
+        "term": 48,
+        "regular_payment": 812.44,
+        "final_payment": 20882.44,
+        "total_amount_payable": 64016.12,
+        "total_charge_for_credit": 14521.12,
+        "amount_of_credit": 44546,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 20060,
+        "price_to_buy": 20882.44
+      }
+    ]
+  }
+]

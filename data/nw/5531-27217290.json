@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T20:55:48.981Z",
+    "timestamp": "2025-05-15T15:54:52.961Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cardifftradesales.co.uk/used-mercedes-benz-c-class-cardiff-south-glamorgan-6738906",
     "dealer_id": "5531",
     "car_id": "27217290",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY66LOF",
+        "registration_date": "17/10/2016",
+        "mileage": 48008,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16991,
+        "total_price": 16991,
+        "deposit": 1699,
+        "balance": 15292,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 314.14,
+        "final_payment": 315.14,
+        "total_amount_payable": 20548.4,
+        "total_charge_for_credit": 3557.4,
+        "amount_of_credit": 15292,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

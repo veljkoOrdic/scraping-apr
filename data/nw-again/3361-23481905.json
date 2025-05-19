@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:34:55.220Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mvmprestige.co.uk/used-ford-focus-dunfermline-fife-5824804",
+    "dealer_id": "3361",
+    "car_id": "23481905",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS17XGZ",
+        "registration_date": "31/05/2017",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24950,
+        "total_price": 24950,
+        "deposit": 2495,
+        "balance": 22455,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 481.3,
+        "final_payment": 491.3,
+        "total_amount_payable": 31383,
+        "total_charge_for_credit": 6433,
+        "amount_of_credit": 22455,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:02:42.129Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dvscommercials.co.uk/vehicle-details/used-ford-transit-2-0-350-ecoblue-leader-for-sale-leicester-rd-u2764/",
+    "dealer_id": "8524",
+    "car_id": "26876887",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN22MHV",
+        "registration_date": "04/04/2022",
+        "mileage": 61050,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19078.8,
+        "total_price": 19078.8,
+        "deposit": 3179.8,
+        "balance": 12719.2,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 272.68,
+        "final_payment": 273.68,
+        "total_amount_payable": 22721.4,
+        "total_charge_for_credit": 3642.6,
+        "amount_of_credit": 12719.2,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:55:04.568Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.richardhardie.co.uk/used-car-details/used-renault-captur-15-dci-energy-signature-x-nav-suv-blue-manual-diesel/id-202501117937783/",
+    "dealer_id": "5538",
+    "car_id": "26732466",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ67VZX",
+        "registration_date": "08/01/2018",
+        "mileage": 61495,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8499,
+        "total_price": 8499,
+        "deposit": 849,
+        "balance": 7650,
+        "apr": 13.5,
+        "rate_of_interest": 7.07,
+        "term": 55,
+        "regular_payment": 184.17,
+        "final_payment": 194.17,
+        "total_amount_payable": 10988.35,
+        "total_charge_for_credit": 2489.35,
+        "amount_of_credit": 7650,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8499,
+        "total_price": 8499,
+        "deposit": 849,
+        "balance": 7650,
+        "apr": 13.5,
+        "rate_of_interest": 6.86,
+        "term": 20,
+        "regular_payment": 246.79,
+        "final_payment": 4228,
+        "total_amount_payable": 9766.01,
+        "total_charge_for_credit": 1267.01,
+        "amount_of_credit": 7650,
+        "lender": "CA Auto Finance UK Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 16667,
+        "excess_mileage_rate": 0.06,
+        "residual": 4218,
+        "price_to_buy": 4228
+      }
+    ]
+  }
+]

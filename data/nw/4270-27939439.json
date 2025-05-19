@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:14:20.855Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mdpatrickmotors.co.uk/details/used-car-in-chester-le-street/volkswagen/transporter/amazing-spec-camper-dsg/1456431/",
+    "dealer_id": "4270",
+    "car_id": "27939439",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ18CMX",
+        "registration_date": "24/08/2018",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 0,
+        "balance": 35829.17,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 752.07,
+        "final_payment": 753.07,
+        "total_amount_payable": 52291.03,
+        "total_charge_for_credit": 9296.03,
+        "amount_of_credit": 35829.17,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

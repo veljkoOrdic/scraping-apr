@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T18:37:18.271Z",
+    "timestamp": "2025-05-15T14:50:24.416Z",
     "source": "new_vehicle_finance",
     "url": "http://www.mcmullinmotors.co.uk/used/renault/clio/15-dci-90-dynamique-medianav-energy-5dr/plymouth/devon/20822811",
     "dealer_id": "4974",
     "car_id": "26475743",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "HT14EJG",
-        "registration_date": "25/07/2014",
-        "mileage": 115069,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4600,
-        "total_price": 4600,
-        "deposit": 0,
-        "balance": 4600,
-        "apr": 21.9,
-        "rate_of_interest": 11.5,
-        "term": 48,
-        "regular_payment": 139.9,
-        "final_payment": 139.9,
-        "total_amount_payable": 6715.2,
-        "total_charge_for_credit": 2115.2,
-        "amount_of_credit": 4600,
-        "lender": "First Response Finance Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

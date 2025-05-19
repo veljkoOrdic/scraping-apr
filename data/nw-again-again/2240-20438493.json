@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:37:41.303Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-mercedes-sl-newark-nottinghamshire-5111174",
+    "dealer_id": "2240",
+    "car_id": "20438493",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "E943OWX",
+        "registration_date": "02/03/1988",
+        "mileage": 128981,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 1000,
+        "balance": 19000,
+        "apr": 12.4,
+        "rate_of_interest": 6.53,
+        "term": 60,
+        "regular_payment": 420.09,
+        "final_payment": 430.09,
+        "balloon": 0,
+        "total_amount_payable": 26215.4,
+        "total_charge_for_credit": 6215.4,
+        "amount_of_credit": 19000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 430.09
+      }
+    ]
+  }
+]

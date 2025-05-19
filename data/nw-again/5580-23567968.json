@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:02:12.920Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pdnagington.co.uk/vehicle-details/used-ford-puma-1-0t-ecoboost-mhev-titanium-suv-5dr-petrol-dct-euro-6-s-s-125-ps-for-sale-u1464/",
+    "dealer_id": "5580",
+    "car_id": "23567968",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BT71ULG",
+        "registration_date": "16/12/2021",
+        "mileage": 1358,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1650,
+        "balance": 14845,
+        "apr": 10.8,
+        "rate_of_interest": 5.66,
+        "term": 60,
+        "regular_payment": 317.48,
+        "final_payment": 327.48,
+        "total_amount_payable": 20708.8,
+        "total_charge_for_credit": 4213.8,
+        "amount_of_credit": 14845,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1650,
+        "balance": 14845,
+        "apr": 10.8,
+        "rate_of_interest": 5.6,
+        "term": 49,
+        "regular_payment": 237.65,
+        "final_payment": 8403,
+        "total_amount_payable": 21460.2,
+        "total_charge_for_credit": 4965.2,
+        "amount_of_credit": 14845,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0,
+        "residual": 8393,
+        "price_to_buy": 8403
+      }
+    ]
+  }
+]

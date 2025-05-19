@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:17.624Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/commercials/volkswagen/transporter/crew-cab-lwb-l2h1-t32-150bhp-kombi-highline-alloys-air-con-sensors-euro-6-2068",
+    "dealer_id": "7281",
+    "car_id": "25300997",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RK20VOD",
+        "registration_date": "12/03/2020",
+        "mileage": 28314,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34773.6,
+        "total_price": 34773.6,
+        "deposit": 7244.5,
+        "balance": 27529.1,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 602.61,
+        "final_payment": 603.61,
+        "total_amount_payable": 43402.1,
+        "total_charge_for_credit": 8628.5,
+        "amount_of_credit": 27529.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

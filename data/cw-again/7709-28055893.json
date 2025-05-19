@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:06:46.063Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/skoda-karoq-1-0-tsi-se-nav-plus-suv-5dr-petrol-manual-euro-6-s-s-115-ps-af68zps",
+    "dealer_id": "7709",
+    "car_id": "28055893",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "KAROQ",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI SE L DSG",
+        "registration_number": "AJ22LXY",
+        "registration_date": "01/03/2022",
+        "mileage": 25048,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2199,
+        "balance": 19791,
+        "apr": 11.3,
+        "rate_of_interest": 11.26,
+        "term": 48,
+        "regular_payment": 508.79,
+        "final_payment": 518.79,
+        "total_amount_payable": 26630.92,
+        "total_charge_for_credit": 4640.92,
+        "amount_of_credit": 19791,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21990,
+        "total_price": 21990,
+        "deposit": 2949,
+        "balance": 19041,
+        "apr": 11.3,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 304.59,
+        "final_payment": 11350,
+        "total_amount_payable": 28614.73,
+        "total_charge_for_credit": 6624.73,
+        "amount_of_credit": 19041,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 6,
+        "residual": 11340,
+        "price_to_buy": 11350
+      }
+    ]
+  }
+]

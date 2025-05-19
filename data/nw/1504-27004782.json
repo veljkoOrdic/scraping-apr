@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:01:08.306Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ovms.co.uk/used-car-details/used-ford-transit-20-350-ecoblue-leader-tipper--manual-diesel/id-202502068828758/",
+    "dealer_id": "1504",
+    "car_id": "27004782",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB71HPN",
+        "registration_date": "22/12/2021",
+        "mileage": 72261,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15900,
+        "total_price": 15900,
+        "deposit": 1000,
+        "balance": 14900,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 332.79,
+        "final_payment": 342.79,
+        "balloon": 0,
+        "total_amount_payable": 20977.4,
+        "total_charge_for_credit": 5077.4,
+        "amount_of_credit": 14900,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 342.79
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15900,
+        "total_price": 15900,
+        "deposit": 1000,
+        "balance": 14900,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 60,
+        "regular_payment": 332.91,
+        "final_payment": 332.91,
+        "total_amount_payable": 20974.6,
+        "total_charge_for_credit": 5074.6,
+        "amount_of_credit": 14900,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

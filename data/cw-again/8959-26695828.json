@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:33:22.003Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.theoceangroup.co.uk/bmw-used-cars/asset/2023-bmw-i7-edrive50-m-sport/",
+    "dealer_id": "8959",
+    "car_id": "26695828",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "i7",
+        "variant": "",
+        "derivative": "i7 eDrive50 M Sport",
+        "registration_number": "WK73TZF",
+        "registration_date": "01/01/2023",
+        "mileage": 6785,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 65900,
+        "total_price": 65900,
+        "deposit": 6590,
+        "balance": 59310,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1593.65,
+        "final_payment": 1594.65,
+        "total_amount_payable": 83086.2,
+        "total_charge_for_credit": 17186.2,
+        "amount_of_credit": 59310,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 65900,
+        "total_price": 65900,
+        "deposit": 6590,
+        "balance": 59310,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 1079.14,
+        "final_payment": 33307.5,
+        "total_amount_payable": 90617.08,
+        "total_charge_for_credit": 24717.08,
+        "amount_of_credit": 59310,
+        "lender": "BMW Group Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 21.92,
+        "residual": 33307.5,
+        "price_to_buy": 33307.5
+      }
+    ]
+  }
+]

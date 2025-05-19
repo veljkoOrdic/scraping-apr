@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:44:59.661Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.silsoeprestigemotors.co.uk/used/cars/bmw/x3/3-0-x3-m-competition-edition-auto-4wd-5dr-543",
+    "dealer_id": "7516",
+    "car_id": "27997626",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 M Competition",
+        "registration_number": "DA04ODZ",
+        "registration_date": "22/11/2019",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50294,
+        "total_price": 50294,
+        "deposit": 5029.4,
+        "balance": 45264.6,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 54,
+        "regular_payment": 807.28,
+        "final_payment": 15927.89,
+        "total_amount_payable": 63743.13,
+        "total_charge_for_credit": 13449.13,
+        "amount_of_credit": 45264.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 45000,
+        "excess_mileage_rate": 10.07,
+        "residual": 15927.89,
+        "price_to_buy": 15927.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50294,
+        "total_price": 50294,
+        "deposit": 5029.4,
+        "balance": 45264.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 950.18,
+        "final_payment": 950.18,
+        "total_amount_payable": 62040.2,
+        "total_charge_for_credit": 11746.2,
+        "amount_of_credit": 45264.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

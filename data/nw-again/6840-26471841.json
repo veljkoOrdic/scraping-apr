@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:20:24.650Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aspirecarsipswichltd.co.uk/cars/porsche/taycan/performance-79.2kwh-4s/1332444/",
+    "dealer_id": "6840",
+    "car_id": "26471841",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "K30DYA",
+        "registration_date": "04/11/2020",
+        "mileage": 45504,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 755.47,
+        "final_payment": 756.47,
+        "total_amount_payable": 49328.2,
+        "total_charge_for_credit": 9338.2,
+        "amount_of_credit": 35991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 640.9,
+        "final_payment": 15393.46,
+        "total_amount_payable": 50155.66,
+        "total_charge_for_credit": 10165.66,
+        "amount_of_credit": 35991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 15392.46,
+        "price_to_buy": 15393.46
+      }
+    ]
+  }
+]

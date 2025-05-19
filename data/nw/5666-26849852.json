@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:41:26.081Z",
+    "timestamp": "2025-05-15T16:24:40.139Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bettercar.co.uk/used-ford-fiesta-henfield-west-sussex-6642784",
     "dealer_id": "5666",
@@ -10,8 +10,31 @@
         "type": "vehicle",
         "registration_number": "EY19GXT",
         "registration_date": "28/03/2019",
-        "mileage": 41694,
+        "mileage": 42211,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 1000,
+        "balance": 7990,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 167.72,
+        "final_payment": 167.72,
+        "balloon": 0,
+        "total_amount_payable": 11063.2,
+        "total_charge_for_credit": 2073.2,
+        "amount_of_credit": 7990,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 167.72
       },
       {
         "type": "finance_hp",

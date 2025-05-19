@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:50:34.010Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/jaguar/f-type/3.0-v6-auto-euro-6-ss-2dr/1278089/",
+    "dealer_id": "7543",
+    "car_id": "25834255",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MW65LTV",
+        "registration_date": "27/11/2015",
+        "mileage": 36500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25795,
+        "total_price": 25795,
+        "deposit": 2579.5,
+        "balance": 23215.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 487.3,
+        "final_payment": 488.3,
+        "total_amount_payable": 31818.5,
+        "total_charge_for_credit": 6023.5,
+        "amount_of_credit": 23215.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

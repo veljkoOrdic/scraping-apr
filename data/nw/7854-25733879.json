@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:52:41.225Z",
+    "timestamp": "2025-05-15T16:25:40.134Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bmvehicles.co.uk/details/used-car-in-letchworth-garden-city/mercedes-benz/aclass/1.5-a180d-amg-line-premium-7g-dct-euro-6-ss-5dr/1271552/",
     "dealer_id": "7854",
@@ -12,6 +12,29 @@
         "registration_date": "27/09/2018",
         "mileage": 69000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1000,
+        "balance": 13495,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 49,
+        "regular_payment": 356.82,
+        "final_payment": 366.82,
+        "balloon": 0,
+        "total_amount_payable": 18494.18,
+        "total_charge_for_credit": 3999.18,
+        "amount_of_credit": 13495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 366.82
       },
       {
         "type": "finance_hp",

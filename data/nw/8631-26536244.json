@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:06:01.160Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thecar-collection.co.uk/cars/seat/ateca/1.6-tdi-xcellence/1337119/",
+    "dealer_id": "8631",
+    "car_id": "26536244",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LT70GYP",
+        "registration_date": "11/09/2020",
+        "mileage": 16000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 99,
+        "balance": 17896,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 399.73,
+        "final_payment": 409.73,
+        "total_amount_payable": 24092.8,
+        "total_charge_for_credit": 6097.8,
+        "amount_of_credit": 17896,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 99,
+        "balance": 17896,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 49,
+        "regular_payment": 376.07,
+        "final_payment": 6018,
+        "total_amount_payable": 24168.36,
+        "total_charge_for_credit": 6173.36,
+        "amount_of_credit": 17896,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 6008,
+        "price_to_buy": 6018
+      }
+    ]
+  }
+]

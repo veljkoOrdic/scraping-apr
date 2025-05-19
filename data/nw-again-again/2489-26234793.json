@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T13:42:15.041Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.christchurchmotorcompany.co.uk/used-ford-mustang-christchurch-dorset-6485312",
+    "dealer_id": "2489",
+    "car_id": "26234793",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE65YLS",
+        "registration_date": "29/01/2016",
+        "mileage": 16000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 100,
+        "balance": 25395,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 532.93,
+        "final_payment": 542.93,
+        "total_amount_payable": 32085.8,
+        "total_charge_for_credit": 6590.8,
+        "amount_of_credit": 25395,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

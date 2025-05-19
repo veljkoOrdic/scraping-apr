@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T15:48:17.728Z",
+    "source": "codeweavers_calculator",
+    "url": "https://juddbrothers.co.uk/car/2019-toyota-hi-lux-2-4-d-4d-invincible-x-ltd-ed-auto-150-bhp/",
+    "dealer_id": "6957",
+    "car_id": "27469919",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "HILUX",
+        "variant": "DIESEL",
+        "derivative": "Invincible X D/Cab Pick Up 2.4 D-4D",
+        "registration_number": "DA19JFX",
+        "registration_date": "23/04/2019",
+        "mileage": 76,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25794,
+        "total_price": 25794,
+        "deposit": 4299,
+        "balance": 21495,
+        "apr": 12,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 471.27,
+        "final_payment": 481.27,
+        "total_amount_payable": 32585.2,
+        "total_charge_for_credit": 6791.2,
+        "amount_of_credit": 21495,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25794,
+        "total_price": 25794,
+        "deposit": 4299,
+        "balance": 21495,
+        "apr": 12,
+        "rate_of_interest": 5.9,
+        "term": 60,
+        "regular_payment": 471.49,
+        "final_payment": 471.49,
+        "total_amount_payable": 32588.4,
+        "total_charge_for_credit": 6794.4,
+        "amount_of_credit": 21495,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

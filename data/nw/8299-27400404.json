@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:25:26.573Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jrrcars.co.uk/used/commercials/mercedes-benz/vito/2-0-vito-119-premium-cdi-auto-452",
+    "dealer_id": "8299",
+    "car_id": "27400404",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PL22YMS",
+        "registration_date": "03/03/2022",
+        "mileage": 28000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39594,
+        "total_price": 39594,
+        "deposit": 3299.5,
+        "balance": 36294.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 761.84,
+        "final_payment": 762.84,
+        "total_amount_payable": 49010.9,
+        "total_charge_for_credit": 9416.9,
+        "amount_of_credit": 36294.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

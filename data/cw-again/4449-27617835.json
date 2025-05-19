@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:07:12.364Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.robertscars.co.uk/used-vehicle-details/used-land-rover-defender-30-d250-hse-110-5dr-auto-115-estate-grey-automatic-diesel/id-74198316/",
+    "dealer_id": "4449",
+    "car_id": "27617835",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D250 HSE 110",
+        "registration_number": "X20WHY",
+        "registration_date": "12/12/2023",
+        "mileage": 11500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 6000,
+        "balance": 53995,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 973.46,
+        "final_payment": 22623.42,
+        "total_amount_payable": 86057.56,
+        "total_charge_for_credit": 26062.56,
+        "amount_of_credit": 53995,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 13.35,
+        "residual": 22622.42,
+        "price_to_buy": 22623.42
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 6000,
+        "balance": 53995,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 1181.97,
+        "final_payment": 1182.97,
+        "total_amount_payable": 76919.2,
+        "total_charge_for_credit": 16924.2,
+        "amount_of_credit": 53995,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:35:06.602Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.peebles-autocentre.co.uk/details/used-car-in-peebles/audi/q5/2.0-tdi-40-s-line-s-tronic-quattro-euro-6-ss-5dr/1461904/",
+    "dealer_id": "8870",
+    "car_id": "28010373",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KT69EXJ",
+        "registration_date": "17/02/2020",
+        "mileage": 18322,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849.5,
+        "balance": 25645.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 549.82,
+        "final_payment": 550.82,
+        "total_amount_payable": 35839.7,
+        "total_charge_for_credit": 7344.7,
+        "amount_of_credit": 25645.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

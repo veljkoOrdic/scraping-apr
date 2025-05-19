@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:01:51.672Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-audi-sq7-gateshead-tyne-and-wear-6899202",
+    "dealer_id": "5142",
+    "car_id": "27930390",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF18AKX",
+        "registration_date": "03/03/2018",
+        "mileage": 45645,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 1799,
+        "balance": 34191,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 717.68,
+        "final_payment": 718.68,
+        "total_amount_payable": 44860.8,
+        "total_charge_for_credit": 8870.8,
+        "amount_of_credit": 34191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

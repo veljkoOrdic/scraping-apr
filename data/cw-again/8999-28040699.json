@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:37:12.638Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.prestigemotorskent.co.uk/car/2670/used-2019-audi-q7-tdi-quattro-s-line-black-edition-london-sevenoaks-kent",
+    "dealer_id": "8999",
+    "car_id": "28040699",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro Black Edition Tiptronic",
+        "registration_number": "KO19TTF",
+        "registration_date": "23/05/2019",
+        "mileage": 79693,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28500,
+        "total_price": 28500,
+        "deposit": 2850,
+        "balance": 25650,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 466.58,
+        "final_payment": 12535.31,
+        "total_amount_payable": 37314.57,
+        "total_charge_for_credit": 8814.57,
+        "amount_of_credit": 25650,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.8,
+        "residual": 12534.31,
+        "price_to_buy": 12535.31
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28500,
+        "total_price": 28500,
+        "deposit": 2850,
+        "balance": 25650,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 538.4,
+        "final_payment": 539.4,
+        "total_amount_payable": 35155,
+        "total_charge_for_credit": 6655,
+        "amount_of_credit": 25650,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

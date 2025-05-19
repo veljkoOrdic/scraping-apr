@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T16:46:39.979Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetwisevehiclesales.co.uk/used-mercedes-benz-c-class-northern-island-northern-ireland-6337372",
+    "dealer_id": "6118",
+    "car_id": "25642982",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EXZ5638",
+        "registration_date": "08/03/2013",
+        "mileage": 52719,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 0,
+        "balance": 23995,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 623.46,
+        "final_payment": 633.46,
+        "balloon": 0,
+        "total_amount_payable": 29936.08,
+        "total_charge_for_credit": 5941.08,
+        "amount_of_credit": 23995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 633.46
+      }
+    ]
+  }
+]

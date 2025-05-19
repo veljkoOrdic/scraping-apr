@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:01:02.741Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.saveonusedcars.co.uk/used/volkswagen/transporter/20-tdi-110-highline-van/scunthorpe/lincolnshire/245698",
+    "dealer_id": "7219",
+    "car_id": "27834621",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VN20EHW",
+        "registration_date": "16/07/2020",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39980,
+        "total_price": 39980,
+        "deposit": 2000,
+        "balance": 37980,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 1003.78,
+        "final_payment": 1004.78,
+        "total_amount_payable": 50182.44,
+        "total_charge_for_credit": 10202.44,
+        "amount_of_credit": 37980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

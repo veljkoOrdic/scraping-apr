@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:15:38.113Z",
+    "timestamp": "2025-05-15T17:47:44.456Z",
     "source": "new_vehicle_finance",
     "url": "https://www.suprenocars.com/details/used-car-in-ashford/volkswagen/caravelle/2.0-bitdi-bluemotion-tech-executive-dsg-euro-6-ss-5dr/1326581/",
     "dealer_id": "6190",
@@ -12,6 +12,29 @@
         "registration_date": "01/09/2018",
         "mileage": 45500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 38975,
+        "total_price": 38975,
+        "deposit": 3897.5,
+        "balance": 35077.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 752.83,
+        "final_payment": 752.83,
+        "balloon": 0,
+        "total_amount_payable": 49067.3,
+        "total_charge_for_credit": 10092.3,
+        "amount_of_credit": 35077.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 752.83
       },
       {
         "type": "finance_hp",

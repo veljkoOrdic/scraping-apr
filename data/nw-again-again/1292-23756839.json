@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T13:49:12.566Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gammers.net/vans/ford/ranger/2.0-ecoblue-wildtrak/1118663/",
+    "dealer_id": "1292",
+    "car_id": "23756839",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV22HXC",
+        "registration_date": "14/04/2022",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39598.8,
+        "total_price": 39598.8,
+        "deposit": 0,
+        "balance": 32999,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 857.62,
+        "final_payment": 858.62,
+        "total_amount_payable": 47766.56,
+        "total_charge_for_credit": 8167.76,
+        "amount_of_credit": 32999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

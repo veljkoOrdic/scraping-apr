@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:37:00.735Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bridgendvans.co.uk/vehicle-details/used-ford-transit-custom-320-ecoblue-limited-for-sale-in-bridgend-mid-glamorgan-u651/",
+    "dealer_id": "8985",
+    "car_id": "27283723",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP23TWG",
+        "registration_date": "31/05/2023",
+        "mileage": 22275,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35994,
+        "total_price": 35994,
+        "deposit": 5999,
+        "balance": 23996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 503.68,
+        "final_payment": 504.68,
+        "total_amount_payable": 42219.8,
+        "total_charge_for_credit": 6225.8,
+        "amount_of_credit": 23996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

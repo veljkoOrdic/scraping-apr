@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:36:02.368Z",
+    "timestamp": "2025-05-15T14:55:52.003Z",
     "source": "new_vehicle_finance",
     "url": "https://www.m4sales.co.uk/vehicle-details/used-ford-transit-460-ecoblue-leader-16-seat-wheelchair-access-for-sale-minibus-centre-u7078/",
     "dealer_id": "7199",
@@ -12,6 +12,29 @@
         "registration_date": "14/12/2020",
         "mileage": 22255,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39594,
+        "total_price": 39594,
+        "deposit": 6599,
+        "balance": 32995,
+        "apr": 13.2,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 741.93,
+        "final_payment": 741.93,
+        "balloon": 0,
+        "total_amount_payable": 51114.8,
+        "total_charge_for_credit": 11520.8,
+        "amount_of_credit": 32995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 741.93
       },
       {
         "type": "finance_hp",

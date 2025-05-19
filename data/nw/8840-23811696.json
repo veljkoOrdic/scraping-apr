@@ -1,26 +1,18 @@
 [
   {
-    "timestamp": "2025-04-15T01:31:33.059Z",
+    "timestamp": "2025-05-15T18:31:39.454Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cjscarsales.co.uk/used/mercedes-benz/e-class/e63-4dr-auto-bi-turbo/askam-in-furness/cumbria/21030469",
     "dealer_id": "8840",
     "car_id": "23811696",
-    "data": {
-      "type": "candidates",
-      "urls": [
-        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.cjscarsales.co.uk&usePersistedOptions=false&quoteeUid=38E7CE1E-60D2-4140-8EDB-A5C22ABC37FA&class=car&condition=used&vrm=YS62RAX&registrationDate=07/01/2013&capId=53309&cashPrice=16995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=83979&vehicleImageUrl=https://www.cjscarsales.co.uk/media/images/192908247/mercedes-benz-e-class-petrol-saloon.jpeg&term=60&cashDeposit=1699.5&annualDistance=10000&random=fu5a3i",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.cjscarsales.co.uk&usePersistedOptions=false&quoteeUid=38E7CE1E-60D2-4140-8EDB-A5C22ABC37FA&class=car&condition=used&vrm=YS62RAX&registrationDate=07%2F01%2F2013&capId=53309&cashPrice=16995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=83979&vehicleImageUrl=https%3A%2F%2Fwww.cjscarsales.co.uk%2Fmedia%2Fimages%2F192908247%2Fmercedes-benz-e-class-petrol-saloon.jpeg&term=60&cashDeposit=1699.5&annualDistance=10000&random=fu5a3i&origin=https%3A%2F%2Fwww.cjscarsales.co.uk%2Fused%2Fmercedes-benz%2Fe-class%2Fe63-4dr-auto-bi-turbo%2Faskam-in-furness%2Fcumbria%2F21030469&widgetId=iv-finance-widget",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.303037b2.chunk.css",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.74c9437c.chunk.js",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.919f6208.chunk.js",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
-        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
-        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
-        "https://newvehicle.com/public-platform/v1/funders",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
-        "https://newvehicle.com/dataplane/v1/track"
-      ]
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YS62RAX",
+        "registration_date": "07/01/2013",
+        "mileage": 83979,
+        "status": "Used"
+      }
+    ]
   }
 ]

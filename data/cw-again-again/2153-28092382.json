@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T13:37:30.634Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/audi/rs6/4.0-tfsi-v8-launch-edition-tiptronic-quattro-euro-6-ss-5dr/1469500/",
+    "dealer_id": "2153",
+    "car_id": "28092382",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT SPECIAL EDITION",
+        "derivative": "RS 6 TFSI Quattro Launch Edition Tiptronic",
+        "registration_number": "CK69XBV",
+        "registration_date": "28/01/2020",
+        "mileage": 44000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64295,
+        "total_price": 64295,
+        "deposit": 6429.5,
+        "balance": 57865.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 1059.88,
+        "final_payment": 27846.9,
+        "total_amount_payable": 84090.76,
+        "total_charge_for_credit": 19795.76,
+        "amount_of_credit": 57865.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.75,
+        "residual": 27846.9,
+        "price_to_buy": 27846.9
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64295,
+        "total_price": 64295,
+        "deposit": 6429.5,
+        "balance": 57865.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1427.83,
+        "final_payment": 1427.83,
+        "total_amount_payable": 74965.34,
+        "total_charge_for_credit": 10670.34,
+        "amount_of_credit": 57865.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

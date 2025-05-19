@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:43:22.250Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lakesidecars.com/used-tesla-model-s-harlow-essex-6511241",
+    "dealer_id": "9064",
+    "car_id": "26334340",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD69LAA",
+        "registration_date": "01/10/2019",
+        "mileage": 49937,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31989,
+        "total_price": 31989,
+        "deposit": 3198,
+        "balance": 28791,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 591.46,
+        "final_payment": 592.46,
+        "total_amount_payable": 38686.6,
+        "total_charge_for_credit": 6697.6,
+        "amount_of_credit": 28791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

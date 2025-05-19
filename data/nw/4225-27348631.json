@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:05:48.635Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stirling-cars.com/used-bentley-continental-hoddesdon-hertfordshire-6769148",
+    "dealer_id": "4225",
+    "car_id": "27348631",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BF64JCJ",
+        "registration_date": "31/10/2014",
+        "mileage": 74046,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 41989,
+        "total_price": 41989,
+        "deposit": 4198,
+        "balance": 37791,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 48,
+        "regular_payment": 932.32,
+        "final_payment": 942.32,
+        "balloon": 0,
+        "total_amount_payable": 48959.36,
+        "total_charge_for_credit": 6970.36,
+        "amount_of_credit": 37791,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 942.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41989,
+        "total_price": 41989,
+        "deposit": 4198,
+        "balance": 37791,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 932.49,
+        "final_payment": 933.49,
+        "total_amount_payable": 48958.52,
+        "total_charge_for_credit": 6969.52,
+        "amount_of_credit": 37791,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

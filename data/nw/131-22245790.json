@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:21:16.075Z",
+    "timestamp": "2025-05-15T14:43:38.394Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rdmdirect.co.uk/used-audi-sq5-burton-on-trent-staffordshire-5473603",
     "dealer_id": "131",
@@ -12,6 +12,29 @@
         "registration_date": "05/03/2014",
         "mileage": 90644,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13000,
+        "total_price": 13000,
+        "deposit": 300,
+        "balance": 12700,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 335.49,
+        "final_payment": 345.49,
+        "balloon": 0,
+        "total_amount_payable": 16413.52,
+        "total_charge_for_credit": 3413.52,
+        "amount_of_credit": 12700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 345.49
       },
       {
         "type": "finance_hp",

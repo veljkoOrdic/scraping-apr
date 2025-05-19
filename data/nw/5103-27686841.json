@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:59:44.107Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abcar-sales.co.uk/details/used-car-in-gunnislake/mercedes-benz/vclass/2.2-v250d-bluetec-sport-g-tronic+-euro-6-ss-5dr-7-seat/1431768/",
+    "dealer_id": "5103",
+    "car_id": "27686841",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MM16VMR",
+        "registration_date": "21/06/2016",
+        "mileage": 46000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30999,
+        "total_price": 30999,
+        "deposit": 1000,
+        "balance": 29999,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 670.26,
+        "final_payment": 671.26,
+        "total_amount_payable": 41216.6,
+        "total_charge_for_credit": 10217.6,
+        "amount_of_credit": 29999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

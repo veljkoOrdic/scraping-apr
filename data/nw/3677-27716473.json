@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T00:37:08.007Z",
+    "timestamp": "2025-05-15T17:42:16.200Z",
     "source": "new_vehicle_finance",
     "url": "https://www.parklandmotors.co.uk/used-porsche-taycan-costock-leicestershire-6859092",
     "dealer_id": "3677",
     "car_id": "27716473",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "KU21RPW",
-        "registration_date": "18/03/2021",
-        "mileage": 24847,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 48995,
-        "total_price": 48995,
-        "deposit": 4899,
-        "balance": 44096,
-        "apr": 11.9,
-        "rate_of_interest": 6.27,
-        "term": 60,
-        "regular_payment": 965.16,
-        "final_payment": 975.16,
-        "total_amount_payable": 62818.6,
-        "total_charge_for_credit": 13823.6,
-        "amount_of_credit": 44096,
-        "lender": "Tandem",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 48995,
-        "total_price": 48995,
-        "deposit": 4899,
-        "balance": 44096,
-        "apr": 9.9,
-        "rate_of_interest": 5.14,
-        "term": 49,
-        "regular_payment": 806.94,
-        "final_payment": 17588.74,
-        "total_amount_payable": 61220.86,
-        "total_charge_for_credit": 12225.86,
-        "amount_of_credit": 44096,
-        "lender": "Santander Consumer Finance",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.149,
-        "residual": 17588.74,
-        "price_to_buy": 17588.74
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

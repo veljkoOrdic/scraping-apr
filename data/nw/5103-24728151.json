@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:59:38.692Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abcar-sales.co.uk/details/used-car-in-gunnislake/porsche/cayenne/3.0-td-v6-tiptronics-4wd-euro-6-ss-5dr/931621/",
+    "dealer_id": "5103",
+    "car_id": "24728151",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV64WZB",
+        "registration_date": "01/12/2014",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20499,
+        "total_price": 20499,
+        "deposit": 1000,
+        "balance": 19499,
+        "apr": 12.9,
+        "rate_of_interest": 6.76,
+        "term": 54,
+        "regular_payment": 470.96,
+        "final_payment": 471.96,
+        "total_amount_payable": 26432.84,
+        "total_charge_for_credit": 5933.84,
+        "amount_of_credit": 19499,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:14:42.026Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorcityplymouth.co.uk/used-audi-q3-plymouth-devon-6800989",
+    "dealer_id": "6857",
+    "car_id": "27473212",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP17WHV",
+        "registration_date": "01/03/2017",
+        "mileage": 57112,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 4199,
+        "balance": 16800,
+        "apr": 11.5,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 364.44,
+        "final_payment": 364.44,
+        "balloon": 0,
+        "total_amount_payable": 26065.4,
+        "total_charge_for_credit": 5066.4,
+        "amount_of_credit": 16800,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 364.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20999,
+        "total_price": 20999,
+        "deposit": 4199,
+        "balance": 16800,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 345.13,
+        "final_payment": 346.13,
+        "total_amount_payable": 24907.8,
+        "total_charge_for_credit": 3908.8,
+        "amount_of_credit": 16800,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

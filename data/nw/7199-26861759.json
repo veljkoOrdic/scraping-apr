@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:55:43.105Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.m4sales.co.uk/vehicle-details/used-renault-trafic-dci-blue-30-sport-lwb-l-r-a-c-fsh-euro-6-for-sale-van-centre-u6950/",
+    "dealer_id": "7199",
+    "car_id": "26861759",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB72PVE",
+        "registration_date": "13/01/2023",
+        "mileage": 60643,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27594,
+        "total_price": 27594,
+        "deposit": 4599,
+        "balance": 22995,
+        "apr": 13.4,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 519.43,
+        "final_payment": 519.43,
+        "balloon": 0,
+        "total_amount_payable": 35764.8,
+        "total_charge_for_credit": 8170.8,
+        "amount_of_credit": 22995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 519.43
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27594,
+        "total_price": 27594,
+        "deposit": 0,
+        "balance": 22995,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 524.21,
+        "final_payment": 525.21,
+        "total_amount_payable": 36052.6,
+        "total_charge_for_credit": 8458.6,
+        "amount_of_credit": 22995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

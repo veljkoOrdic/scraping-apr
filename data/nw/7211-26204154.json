@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:58:41.230Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.leicestervancentre.com/used-mercedes-benz-sprinter-leicester-leicestershire-6475126",
+    "dealer_id": "7211",
+    "car_id": "26204154",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WX21UMT",
+        "registration_date": "01/03/2021",
+        "mileage": 149000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21588,
+        "total_price": 21588,
+        "deposit": 7196,
+        "balance": 14392,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 308.56,
+        "final_payment": 308.56,
+        "total_amount_payable": 25709.6,
+        "total_charge_for_credit": 4121.6,
+        "amount_of_credit": 14392,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

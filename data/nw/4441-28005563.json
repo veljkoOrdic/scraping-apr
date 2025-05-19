@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:41:51.367Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gerryhillcars.com/our-cars/aberdare-dacia-sandero-ambiance-tce-7409/",
+    "dealer_id": "4441",
+    "car_id": "28005563",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "S6WSH",
+        "registration_date": "23/04/2014",
+        "mileage": 30195,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4990,
+        "total_price": 4990,
+        "deposit": 499,
+        "balance": 4491,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 47,
+        "regular_payment": 118.67,
+        "final_payment": 119.67,
+        "total_amount_payable": 6077.49,
+        "total_charge_for_credit": 1087.49,
+        "amount_of_credit": 4491,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

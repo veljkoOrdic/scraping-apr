@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:09:42.622Z",
+    "timestamp": "2025-05-15T19:09:00.113Z",
     "source": "new_vehicle_finance",
     "url": "https://www.elderwoodmotors.co.uk/used-bmw-3-series-peterborough-cambridgeshire-6086733",
     "dealer_id": "6834",
@@ -12,6 +12,29 @@
         "registration_date": "18/06/2011",
         "mileage": 120000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3990,
+        "total_price": 3990,
+        "deposit": 10,
+        "balance": 3980,
+        "apr": 13.4,
+        "rate_of_interest": 7.05,
+        "term": 60,
+        "regular_payment": 89.71,
+        "final_payment": 99.71,
+        "balloon": 0,
+        "total_amount_payable": 5402.6,
+        "total_charge_for_credit": 1412.6,
+        "amount_of_credit": 3980,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 99.71
       },
       {
         "type": "finance_hp",

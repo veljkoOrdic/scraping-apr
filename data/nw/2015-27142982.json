@@ -1,62 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T21:38:38.644Z",
+    "timestamp": "2025-05-15T16:29:53.319Z",
     "source": "new_vehicle_finance",
     "url": "https://www.goodautos.co.uk/used-skoda-kodiaq-saintfield-county-down-6718934",
     "dealer_id": "2015",
     "car_id": "27142982",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "AYZ8768",
-        "registration_date": "02/06/2021",
-        "mileage": 42847,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 22995,
-        "total_price": 22995,
-        "deposit": 2299,
-        "balance": 20696,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 443.7,
-        "final_payment": 444.7,
-        "total_amount_payable": 28922,
-        "total_charge_for_credit": 5927,
-        "amount_of_credit": 20696,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 22995,
-        "total_price": 22995,
-        "deposit": 2299,
-        "balance": 20696,
-        "apr": 10.9,
-        "rate_of_interest": 5.32,
-        "term": 49,
-        "regular_payment": 347.8,
-        "final_payment": 10807.63,
-        "total_amount_payable": 29801.03,
-        "total_charge_for_credit": 6806.03,
-        "amount_of_credit": 20696,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.12,
-        "residual": 10806.63,
-        "price_to_buy": 10807.63
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.goodautosni.co.uk&quoteeUid=5F1251A1BC42426086F7778AB22E2CF9&class=car&condition=used&vrm=AYZ8768&registrationDate=02%2F06%2F2021&capCode=&capId=&cashPrice=22995&currentOdometerReading=42847&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6718%2F6718934%2Ffull%2F160778901.jpg&term=60&cashDeposit=2299&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=18%2F02%2F2025&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.goodautosni.co.uk&quoteeUid=5F1251A1BC42426086F7778AB22E2CF9&class=car&condition=used&vrm=AYZ8768&registrationDate=02%2F06%2F2021&capCode=&capId=&cashPrice=22995&currentOdometerReading=42847&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6718%2F6718934%2Ffull%2F160778901.jpg&term=60&cashDeposit=2299&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=18%2F02%2F2025&usePersistedOptions=false&origin=https%3A%2F%2Fwww.goodautos.co.uk%2Fused-skoda-kodiaq-saintfield-county-down-6718934&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

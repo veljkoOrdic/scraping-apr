@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:49:26.867Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.landc-group.co.uk/used-volkswagen-transporter-portslade-east-sussex-6952794",
+    "dealer_id": "8010",
+    "car_id": "28078271",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ14UTC",
+        "registration_date": "29/04/2014",
+        "mileage": 91789,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22990,
+        "total_price": 22990,
+        "deposit": 2299,
+        "balance": 20691,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 47,
+        "regular_payment": 546.8,
+        "final_payment": 547.8,
+        "total_amount_payable": 27999.6,
+        "total_charge_for_credit": 5009.6,
+        "amount_of_credit": 20691,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

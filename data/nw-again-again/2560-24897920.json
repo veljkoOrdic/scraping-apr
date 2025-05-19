@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:43:05.636Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.radfordsgarage.co.uk/used-jaguar-xj-mansfield-nottinghamshire-6066560",
+    "dealer_id": "2560",
+    "car_id": "24897920",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD59EZG",
+        "registration_date": "30/09/2009",
+        "mileage": 117000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6000,
+        "total_price": 6000,
+        "deposit": 600,
+        "balance": 5400,
+        "apr": 14.4,
+        "rate_of_interest": 7.6,
+        "term": 60,
+        "regular_payment": 124.22,
+        "final_payment": 134.22,
+        "balloon": 0,
+        "total_amount_payable": 8063.2,
+        "total_charge_for_credit": 2063.2,
+        "amount_of_credit": 5400,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 134.22
+      }
+    ]
+  }
+]

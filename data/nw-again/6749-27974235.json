@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:14:21.911Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bexhillmotors.co.uk/used/cars/land-rover/range-rover-sport/hse-dynamic-automatic-2078",
+    "dealer_id": "6749",
+    "car_id": "27974235",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK20GYU",
+        "registration_date": "12/03/2020",
+        "mileage": 69000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30999,
+        "total_price": 30999,
+        "deposit": 1000,
+        "balance": 29999,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 683.89,
+        "final_payment": 683.89,
+        "balloon": 0,
+        "total_amount_payable": 42033.4,
+        "total_charge_for_credit": 11034.4,
+        "amount_of_credit": 29999,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 683.89
+      }
+    ]
+  }
+]

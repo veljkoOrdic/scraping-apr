@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:58:05.685Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blakedowncarcompany.co.uk/details/car-in-wombourne/audi/tt/2.0-tfsi-40-s-line-s-tronic-euro-6-ss-3dr/1436427/",
+    "dealer_id": "5965",
+    "car_id": "27743432",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA19AGV",
+        "registration_date": "29/03/2019",
+        "mileage": 54800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18499,
+        "total_price": 18499,
+        "deposit": 1849.9,
+        "balance": 16649.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 349.46,
+        "final_payment": 350.46,
+        "total_amount_payable": 22818.5,
+        "total_charge_for_credit": 4319.5,
+        "amount_of_credit": 16649.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

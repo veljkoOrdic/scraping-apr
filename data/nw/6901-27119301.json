@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T16:42:25.121Z",
+    "timestamp": "2025-05-15T14:32:53.966Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bcperformance.co.uk/cars/bmw/x1/2.0-x1-sdrive18d-sport/1385291/",
     "dealer_id": "6901",
@@ -12,6 +12,29 @@
         "registration_date": "29/03/2018",
         "mileage": 53224,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14499,
+        "total_price": 14499,
+        "deposit": 1449.9,
+        "balance": 13049.1,
+        "apr": 15,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 304.27,
+        "final_payment": 304.27,
+        "balloon": 0,
+        "total_amount_payable": 19706.1,
+        "total_charge_for_credit": 5207.1,
+        "amount_of_credit": 13049.1,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 304.27
       },
       {
         "type": "finance_hp",

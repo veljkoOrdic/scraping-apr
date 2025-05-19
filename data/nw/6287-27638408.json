@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:58:10.780Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/jaguar/f-type/3.0-v6lovely-milesbuy-in-time-for-summer/1428610/",
+    "dealer_id": "6287",
+    "car_id": "27638408",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT14DHA",
+        "registration_date": "02/06/2014",
+        "mileage": 19949,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25970,
+        "total_price": 25970,
+        "deposit": 2597,
+        "balance": 23373,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 554.05,
+        "final_payment": 564.05,
+        "balloon": 0,
+        "total_amount_payable": 35850,
+        "total_charge_for_credit": 9880,
+        "amount_of_credit": 23373,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 564.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25970,
+        "total_price": 25970,
+        "deposit": 2597,
+        "balance": 23373,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 597.18,
+        "final_payment": 598.18,
+        "total_amount_payable": 31262.64,
+        "total_charge_for_credit": 5292.64,
+        "amount_of_credit": 23373,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:25:10.408Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jrrcars.co.uk/used/cars/mercedes-benz/gle/2-1-gle-250-amg-night-edition-d-4matic-auto-4wd-5dr-186",
+    "dealer_id": "8299",
+    "car_id": "25760179",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KT18OLC",
+        "registration_date": "29/05/2018",
+        "mileage": 96000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 1900,
+        "balance": 17100,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 358.93,
+        "final_payment": 359.93,
+        "total_amount_payable": 23436.8,
+        "total_charge_for_credit": 4436.8,
+        "amount_of_credit": 17100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

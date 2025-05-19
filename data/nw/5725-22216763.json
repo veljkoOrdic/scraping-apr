@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:19:57.940Z",
+    "timestamp": "2025-05-15T16:41:26.627Z",
     "source": "new_vehicle_finance",
     "url": "https://www.georgekingsley.co.uk/used/cars/lamborghini/urus/v8-orange-akrapovic-exhaust-pan-roof-b-o-massage-seats-blind-spot-acc-2137",
     "dealer_id": "5725",
@@ -12,6 +12,29 @@
         "registration_date": "14/10/2022",
         "mileage": 11950,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 229995,
+        "total_price": 229995,
+        "deposit": 79995,
+        "balance": 150000,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 3898.45,
+        "final_payment": 3898.45,
+        "balloon": 0,
+        "total_amount_payable": 267120.6,
+        "total_charge_for_credit": 37125.6,
+        "amount_of_credit": 150000,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 3898.45
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 9.9,
         "rate_of_interest": 4.74,
         "term": 49,
-        "regular_payment": 933.64,
-        "final_payment": 92366.68,
-        "total_amount_payable": 267176.4,
-        "total_charge_for_credit": 37181.4,
+        "regular_payment": 950.84,
+        "final_payment": 91359.47,
+        "total_amount_payable": 266994.79,
+        "total_charge_for_credit": 36999.79,
         "amount_of_credit": 100000,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 8000,
         "contract_mileage": 32667,
-        "excess_mileage_rate": 0.78,
-        "residual": 92365.68,
-        "price_to_buy": 92366.68
+        "excess_mileage_rate": 0.76,
+        "residual": 91358.47,
+        "price_to_buy": 91359.47
       }
     ]
   }

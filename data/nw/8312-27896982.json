@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:25:49.097Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.drivenofyork.co.uk/used-mini-hatch-tadcaster-yorkshire-6870126",
+    "dealer_id": "8312",
+    "car_id": "27896982",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL67DYM",
+        "registration_date": "29/09/2017",
+        "mileage": 69282,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7800,
+        "total_price": 7800,
+        "deposit": 780,
+        "balance": 7020,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 150.38,
+        "final_payment": 160.38,
+        "balloon": 0,
+        "total_amount_payable": 9812.8,
+        "total_charge_for_credit": 2012.8,
+        "amount_of_credit": 7020,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 160.38
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7800,
+        "total_price": 7800,
+        "deposit": 780,
+        "balance": 7020,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 160.02,
+        "final_payment": 161.02,
+        "total_amount_payable": 10382.2,
+        "total_charge_for_credit": 2582.2,
+        "amount_of_credit": 7020,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

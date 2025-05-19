@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T21:55:35.387Z",
+    "timestamp": "2025-05-15T16:35:57.135Z",
     "source": "new_vehicle_finance",
     "url": "https://www.lonsdalecarsales.co.uk/details/used-car-in-whitchurch/fiat/500/1.2-eco-pop-star-euro-6-ss-3dr/1404036/",
     "dealer_id": "2158",
     "car_id": "27335978",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "WF17ULV",
-        "registration_date": "25/04/2017",
-        "mileage": 34000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 6300,
-        "total_price": 6300,
-        "deposit": 630,
-        "balance": 5670,
-        "apr": 9.9,
-        "rate_of_interest": 5.16,
-        "term": 60,
-        "regular_payment": 118.89,
-        "final_payment": 128.89,
-        "total_amount_payable": 7773.4,
-        "total_charge_for_credit": 1473.4,
-        "amount_of_credit": 5670,
-        "lender": "Evolution Funding",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

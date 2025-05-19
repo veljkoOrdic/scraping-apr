@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T20:39:07.999Z",
+    "timestamp": "2025-05-15T16:08:25.399Z",
     "source": "new_vehicle_finance",
     "url": "https://www.fleetsalesleicester.co.uk/used-volvo-xc90-cosby-leicestershire-6523173",
     "dealer_id": "1583",
     "car_id": "26502134",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "YY21JGO",
-        "registration_date": "20/05/2021",
-        "mileage": 35886,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 37500,
-        "total_price": 37500,
-        "deposit": 2500,
-        "balance": 35000,
-        "apr": 8.9,
-        "rate_of_interest": 4.65,
-        "term": 60,
-        "regular_payment": 719.03,
-        "final_payment": 720.03,
-        "total_amount_payable": 45642.8,
-        "total_charge_for_credit": 8142.8,
-        "amount_of_credit": 35000,
-        "lender": "Admiral Car Finance",
-        "annual_mileage": 8000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 37500,
-        "total_price": 37500,
-        "deposit": 2500,
-        "balance": 35000,
-        "apr": 8.9,
-        "rate_of_interest": 4.61,
-        "term": 48,
-        "regular_payment": 613.05,
-        "final_payment": 14896,
-        "total_amount_payable": 46209.35,
-        "total_charge_for_credit": 8709.35,
-        "amount_of_credit": 35000,
-        "lender": "Admiral Car Finance",
-        "annual_mileage": 8000,
-        "contract_mileage": 32000,
-        "excess_mileage_rate": 0.15,
-        "residual": 14895,
-        "price_to_buy": 14896
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

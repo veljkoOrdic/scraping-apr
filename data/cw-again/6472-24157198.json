@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:46:59.898Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.specialistcars-stoke.co.uk/used-mercedes-benz-b-class-stoke-on-trent-staffordshire-5978679",
+    "dealer_id": "6472",
+    "car_id": "24157198",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "B-Class",
+        "variant": "B-Class 247 Hatchback",
+        "derivative": "B200d Sport Auto MY20 2019",
+        "registration_number": "SN70UTM",
+        "registration_date": "01/09/2020",
+        "mileage": 29024,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17250,
+        "total_price": 17250,
+        "deposit": 1725,
+        "balance": 15525,
+        "apr": 10.4,
+        "rate_of_interest": 9.93,
+        "term": 48,
+        "regular_payment": 281.51,
+        "final_payment": 6613,
+        "total_amount_payable": 21850.48,
+        "total_charge_for_credit": 4600.48,
+        "amount_of_credit": 15525,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 6603,
+        "price_to_buy": 6613
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17250,
+        "total_price": 17250,
+        "deposit": 1725,
+        "balance": 15525,
+        "apr": 10.4,
+        "rate_of_interest": 5.38,
+        "term": 48,
+        "regular_payment": 393.04,
+        "final_payment": 403.04,
+        "total_amount_payable": 20600.92,
+        "total_charge_for_credit": 3350.92,
+        "amount_of_credit": 15525,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

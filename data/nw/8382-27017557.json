@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T23:39:07.640Z",
+    "timestamp": "2025-05-15T17:37:38.018Z",
     "source": "new_vehicle_finance",
     "url": "https://www.dysoncars.co.uk/details/used-car-in-waltham-abbey/vauxhall/mokkax/1.4i-turbo-active-euro-6-ss-5dr/1376651/",
     "dealer_id": "8382",
     "car_id": "27017557",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "DP66AOZ",
-        "registration_date": "30/12/2016",
-        "mileage": 111817,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4195,
-        "total_price": 4195,
-        "deposit": 419.5,
-        "balance": 3775.5,
-        "apr": 8.9,
-        "rate_of_interest": 4.65,
-        "term": 60,
-        "regular_payment": 77.55,
-        "final_payment": 78.55,
-        "total_amount_payable": 5073.5,
-        "total_charge_for_credit": 878.5,
-        "amount_of_credit": 3775.5,
-        "lender": "Auto Union Finance Ltd",
-        "annual_mileage": 8000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

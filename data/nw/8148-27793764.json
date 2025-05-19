@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:11:05.738Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.yourcargroup.co.uk/details/used-car-in-newport/audi/q8/3.0-tfsi-v6-55-black-edition-tiptronic-quattro-euro-6-ss-5dr/1441912/",
+    "dealer_id": "8148",
+    "car_id": "27793764",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VK22PNN",
+        "registration_date": "07/04/2022",
+        "mileage": 46000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46990,
+        "total_price": 46990,
+        "deposit": 4699,
+        "balance": 42291,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 887.72,
+        "final_payment": 888.72,
+        "total_amount_payable": 57963.2,
+        "total_charge_for_credit": 10973.2,
+        "amount_of_credit": 42291,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46990,
+        "total_price": 46990,
+        "deposit": 4699,
+        "balance": 42291,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 707.8,
+        "final_payment": 21286,
+        "total_amount_payable": 59251.6,
+        "total_charge_for_credit": 12261.6,
+        "amount_of_credit": 42291,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 21285,
+        "price_to_buy": 21286
+      }
+    ]
+  }
+]

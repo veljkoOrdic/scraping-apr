@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:19:12.555Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.uplandsmotorcompany.co.uk/used-bmw-4-series-cuffley-hertfordshire-6691495",
+    "dealer_id": "3203",
+    "car_id": "27095369",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WH63LXD",
+        "registration_date": "10/12/2013",
+        "mileage": 20500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10990,
+        "total_price": 10990,
+        "deposit": 1099,
+        "balance": 9891,
+        "apr": 11.9,
+        "rate_of_interest": 6.15,
+        "term": 42,
+        "regular_payment": 286.19,
+        "final_payment": 287.19,
+        "total_amount_payable": 13119.98,
+        "total_charge_for_credit": 2129.98,
+        "amount_of_credit": 9891,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

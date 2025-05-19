@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:31:12.047Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.severnsidecarcompany.co.uk/used-land-rover-discovery-bridgend-mid-glamorgan-6921197",
+    "dealer_id": "1004",
+    "car_id": "27955467",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "Y8CPW",
+        "registration_date": "28/06/2018",
+        "mileage": 60520,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 0,
+        "balance": 25995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 557.31,
+        "final_payment": 558.31,
+        "total_amount_payable": 33439.6,
+        "total_charge_for_credit": 7444.6,
+        "amount_of_credit": 25995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

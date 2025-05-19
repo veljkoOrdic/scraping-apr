@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:22:03.451Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.richardsanders.co.uk/used-car-details/used-audi-s4-avant-30-tdi-v6-black-edition-estat-estate-black-automatic-diesel/id-1228/",
+    "dealer_id": "7283",
+    "car_id": "27878284",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A4",
+        "variant": "DIESEL AVANT",
+        "derivative": "S4 TDI 341 Quattro Black Ed Tiptronic [C+S]",
+        "registration_number": "DX72WXM",
+        "registration_date": "30/01/2023",
+        "mileage": 20532,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 4000,
+        "balance": 35995,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 611.69,
+        "final_payment": 14738.28,
+        "total_amount_payable": 54827.99,
+        "total_charge_for_credit": 14832.99,
+        "amount_of_credit": 35995,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 10.48,
+        "residual": 14738.28,
+        "price_to_buy": 14738.28
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 4000,
+        "balance": 35995,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 787.94,
+        "final_payment": 788.94,
+        "total_amount_payable": 51277.4,
+        "total_charge_for_credit": 11282.4,
+        "amount_of_credit": 35995,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

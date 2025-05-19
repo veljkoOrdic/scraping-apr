@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T18:29:47.857Z",
+    "timestamp": "2025-05-15T14:47:53.781Z",
     "source": "new_vehicle_finance",
     "url": "https://www.justnicecleancars.co.uk/used-vehicle-details/Vauxhall-Corsa-U5155/",
     "dealer_id": "4945",
     "car_id": "26298497",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "VK18OWY",
-        "registration_date": "29/03/2018",
-        "mileage": 20869,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 8295,
-        "total_price": 8295,
-        "deposit": 829.5,
-        "balance": 7465.5,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 156.69,
-        "final_payment": 157.69,
-        "total_amount_payable": 10231.9,
-        "total_charge_for_credit": 1936.9,
-        "amount_of_credit": 7465.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.justnicecleancars.co.uk&quoteeUid=b041e133-7d3f-4762-acc3-399eae7c29cf&class=&condition=Used&vrm=&registrationDate=01/01/1970&cashPrice=&vatIncluded=true&vatQualifying=false&currentOdometerReading=0&vehicleImageUrl=https://www.justnicecleancars.co.uk/app/themes/justnicecleancars_theme/static/images/awaiting-image.jpg&cashDeposit=0&term=60&annualDistance=10000&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.justnicecleancars.co.uk&quoteeUid=b041e133-7d3f-4762-acc3-399eae7c29cf&class=&condition=Used&vrm=&registrationDate=01%2F01%2F1970&cashPrice=&vatIncluded=true&vatQualifying=false&currentOdometerReading=0&vehicleImageUrl=https%3A%2F%2Fwww.justnicecleancars.co.uk%2Fapp%2Fthemes%2Fjustnicecleancars_theme%2Fstatic%2Fimages%2Fawaiting-image.jpg&cashDeposit=0&term=60&annualDistance=10000&usePersistedOptions=false&origin=https%3A%2F%2Fwww.justnicecleancars.co.uk%2Fused-vehicle-details%2FVauxhall-Corsa-U5155%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

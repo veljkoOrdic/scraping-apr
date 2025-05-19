@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:10:29.381Z",
+    "timestamp": "2025-05-15T18:38:49.385Z",
     "source": "new_vehicle_finance",
     "url": "https://www.tradecarsandcommercials.co.uk/used-ford-fiesta-prudhoe-northumberland-6242557",
     "dealer_id": "6641",
@@ -12,6 +12,29 @@
         "registration_date": "28/09/2018",
         "mileage": 23000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10000,
+        "total_price": 10000,
+        "deposit": 1000,
+        "balance": 9000,
+        "apr": 14.2,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 206.48,
+        "final_payment": 206.48,
+        "balloon": 0,
+        "total_amount_payable": 13388.8,
+        "total_charge_for_credit": 3388.8,
+        "amount_of_credit": 9000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 206.48
       },
       {
         "type": "finance_hp",

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:19:06.536Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tjcarsales.co.uk/cars/kia/sportage/1.6-gdi-2/1373054/",
+    "dealer_id": "6493",
+    "car_id": "26979040",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU68PZE",
+        "registration_date": "10/09/2018",
+        "mileage": 44484,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 226.59,
+        "final_payment": 227.59,
+        "total_amount_payable": 14795.9,
+        "total_charge_for_credit": 2800.9,
+        "amount_of_credit": 10795.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

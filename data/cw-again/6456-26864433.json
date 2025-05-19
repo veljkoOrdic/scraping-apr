@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-05-15T14:45:41.515Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.humphriesandparks.net/used/cars/suzuki/s-cross/motion-2936",
+    "dealer_id": "6456",
+    "car_id": "26864433",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.5 Hybrid Motion AGS",
+        "registration_date": "08/05/2024",
+        "mileage": 3527,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18749,
+        "total_price": 18749,
+        "deposit": 1874.9,
+        "balance": 16874.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.18,
+        "term": 49,
+        "regular_payment": 292.59,
+        "final_payment": 9525,
+        "total_amount_payable": 25444.22,
+        "total_charge_for_credit": 6695.22,
+        "amount_of_credit": 16874.1,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 4.8,
+        "residual": 9515,
+        "price_to_buy": 9525
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18749,
+        "total_price": 18749,
+        "deposit": 1874.9,
+        "balance": 16874.1,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 60,
+        "regular_payment": 377.02,
+        "final_payment": 377.02,
+        "total_amount_payable": 24496.1,
+        "total_charge_for_credit": 5747.1,
+        "amount_of_credit": 16874.1,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T17:37:19.287Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/7123129/2019-lamborghini-huracan-performante/",
+    "dealer_id": "5013",
+    "car_id": "27801957",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "COUPE SPECIAL EDITION",
+        "derivative": "LP 610-4 Avio LDF",
+        "registration_number": "ML68HCV",
+        "registration_date": "31/01/2019",
+        "mileage": 12327,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 194980,
+        "total_price": 194980,
+        "deposit": 34980,
+        "balance": 160000,
+        "apr": 12.4,
+        "rate_of_interest": 12.4,
+        "term": 33,
+        "regular_payment": 3736.14,
+        "final_payment": 79690,
+        "total_amount_payable": 234226.48,
+        "total_charge_for_credit": 39246.48,
+        "amount_of_credit": 160000,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 27500,
+        "excess_mileage_rate": 118,
+        "residual": 79680,
+        "price_to_buy": 79690
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 194980,
+        "total_price": 194980,
+        "deposit": 19498,
+        "balance": 175482,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 3762.63,
+        "final_payment": 3772.63,
+        "total_amount_payable": 245265.8,
+        "total_charge_for_credit": 50285.8,
+        "amount_of_credit": 175482,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

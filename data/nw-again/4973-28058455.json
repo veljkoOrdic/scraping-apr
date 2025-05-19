@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:31:05.967Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.batemanlynchcars.co.uk/used-maserati-grancabrio-liskeard-cornwall-6946139",
+    "dealer_id": "4973",
+    "car_id": "28058455",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EO03MAZ",
+        "registration_date": "09/07/2016",
+        "mileage": 23000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399,
+        "balance": 39596,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 866.65,
+        "final_payment": 876.65,
+        "balloon": 0,
+        "total_amount_payable": 56408,
+        "total_charge_for_credit": 12413,
+        "amount_of_credit": 39596,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 876.65
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 4399,
+        "balance": 39596,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 813.43,
+        "final_payment": 814.43,
+        "total_amount_payable": 53205.8,
+        "total_charge_for_credit": 9210.8,
+        "amount_of_credit": 39596,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

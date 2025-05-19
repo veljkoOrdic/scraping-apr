@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:29:38.561Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.winfordroadgarages.co.uk/used-car-details/used-ford-fiesta-10-125ps-active-mhev-hatchback-frozen-white-automatic-petrol/id-11523/",
+    "dealer_id": "6601",
+    "car_id": "25064056",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB23WCT",
+        "registration_date": "22/06/2023",
+        "mileage": 1130,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17600,
+        "total_price": 17600,
+        "deposit": 3520,
+        "balance": 14080,
+        "apr": 10.4,
+        "rate_of_interest": 5.45,
+        "term": 60,
+        "regular_payment": 298.58,
+        "final_payment": 308.58,
+        "total_amount_payable": 21444.8,
+        "total_charge_for_credit": 3844.8,
+        "amount_of_credit": 14080,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17600,
+        "total_price": 17600,
+        "deposit": 3520,
+        "balance": 14080,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 49,
+        "regular_payment": 203.9,
+        "final_payment": 9033,
+        "total_amount_payable": 22340.2,
+        "total_charge_for_credit": 4740.2,
+        "amount_of_credit": 14080,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0,
+        "residual": 9023,
+        "price_to_buy": 9033
+      }
+    ]
+  }
+]

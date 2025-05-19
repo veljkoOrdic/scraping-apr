@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:56:01.501Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kcsofsurrey.co.uk/used-bmw-3-series-addlestone-surrey-6855187",
+    "dealer_id": "6776",
+    "car_id": "27872291",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD62WAO",
+        "registration_date": "25/09/2012",
+        "mileage": 51000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8690,
+        "total_price": 8690,
+        "deposit": 1738,
+        "balance": 6952,
+        "apr": 10.9,
+        "rate_of_interest": 5.58,
+        "term": 28,
+        "regular_payment": 280.64,
+        "final_payment": 281.64,
+        "total_amount_payable": 9596.92,
+        "total_charge_for_credit": 906.92,
+        "amount_of_credit": 6952,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

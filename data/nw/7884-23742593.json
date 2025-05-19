@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:04:44.805Z",
+    "timestamp": "2025-05-15T16:30:09.959Z",
     "source": "new_vehicle_finance",
     "url": "https://www.1stchoicemotors.co.uk/used/volkswagen/golf/20-tsi-300-r-3dr-4motion-dsg/london/greater-london/21202470",
     "dealer_id": "7884",
@@ -12,6 +12,29 @@
         "registration_date": "28/06/2019",
         "mileage": 56000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2500,
+        "balance": 18995,
+        "apr": 15.1,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 443.32,
+        "final_payment": 443.32,
+        "balloon": 0,
+        "total_amount_payable": 29099.2,
+        "total_charge_for_credit": 7604.2,
+        "amount_of_credit": 18995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 443.32
       },
       {
         "type": "finance_hp",
@@ -44,18 +67,18 @@
         "balance": 18995,
         "apr": 12.4,
         "rate_of_interest": 12.4,
-        "term": 50,
-        "regular_payment": 384.11,
-        "final_payment": 6675,
-        "total_amount_payable": 27996.39,
-        "total_charge_for_credit": 6501.39,
+        "term": 49,
+        "regular_payment": 386.63,
+        "final_payment": 6839.5,
+        "total_amount_payable": 27897.74,
+        "total_charge_for_credit": 6402.74,
         "amount_of_credit": 18995,
         "lender": "Auto Union Finance Ltd",
         "annual_mileage": 10000,
-        "contract_mileage": 41667,
+        "contract_mileage": 40833,
         "excess_mileage_rate": 0.05,
-        "residual": 6674,
-        "price_to_buy": 6675
+        "residual": 6838.5,
+        "price_to_buy": 6839.5
       }
     ]
   }

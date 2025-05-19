@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T13:56:53.070Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dextercars.com/details/used-car-in-le47an/tesla/model3/dual-motor-long-range-auto-4wde-4dr/1443344/",
+    "dealer_id": "2745",
+    "car_id": "27803653",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL 3",
+        "variant": "SALOON",
+        "derivative": "Long Range",
+        "registration_number": "GJ22XTR",
+        "registration_date": "29/03/2022",
+        "mileage": 49000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 2000,
+        "balance": 18000,
+        "apr": 11.9,
+        "rate_of_interest": 5.84,
+        "term": 48,
+        "regular_payment": 335.62,
+        "final_payment": 8055,
+        "total_amount_payable": 26165.76,
+        "total_charge_for_credit": 6165.76,
+        "amount_of_credit": 18000,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 11.5,
+        "residual": 8055,
+        "price_to_buy": 8055
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20000,
+        "total_price": 20000,
+        "deposit": 2000,
+        "balance": 18000,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 467.85,
+        "final_payment": 468.85,
+        "total_amount_payable": 24457.8,
+        "total_charge_for_credit": 4457.8,
+        "amount_of_credit": 18000,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

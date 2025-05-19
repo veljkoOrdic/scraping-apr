@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:38:01.011Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-aston-martin-vantage-newark-nottinghamshire-6414465",
+    "dealer_id": "2240",
+    "car_id": "25967536",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV64BVC",
+        "registration_date": "01/09/2014",
+        "mileage": 38000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44911,
+        "total_price": 44911,
+        "deposit": 2245,
+        "balance": 42666,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 943.5,
+        "final_payment": 953.5,
+        "balloon": 0,
+        "total_amount_payable": 58865,
+        "total_charge_for_credit": 13954,
+        "amount_of_credit": 42666,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 953.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44911,
+        "total_price": 44911,
+        "deposit": 2245,
+        "balance": 42666,
+        "apr": 12.7,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 947.54,
+        "final_payment": 997.54,
+        "total_amount_payable": 59197.4,
+        "total_charge_for_credit": 14286.4,
+        "amount_of_credit": 42666,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:24:03.759Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-ford-ranger-30t-v6-ecoboost-raptor-auto-4-pickup-conquer-grey-automatic-petrol/id-202502209326044/",
+    "dealer_id": "6559",
+    "car_id": "27168623",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HK23OFR",
+        "registration_date": "22/05/2023",
+        "mileage": 24000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42948,
+        "total_price": 42948,
+        "deposit": 15031,
+        "balance": 27917,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 585.87,
+        "final_payment": 595.87,
+        "balloon": 0,
+        "total_amount_payable": 50193.2,
+        "total_charge_for_credit": 7245.2,
+        "amount_of_credit": 27917,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 595.87
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42948,
+        "total_price": 42948,
+        "deposit": 15031,
+        "balance": 27917,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 585.99,
+        "final_payment": 586.99,
+        "total_amount_payable": 50191.4,
+        "total_charge_for_credit": 7243.4,
+        "amount_of_credit": 27917,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

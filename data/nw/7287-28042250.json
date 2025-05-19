@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:12:23.053Z",
+    "source": "new_vehicle_finance",
+    "url": "https://richlee.co.uk/stocklist/21825/mini-hatch-16-one-3dr",
+    "dealer_id": "7287",
+    "car_id": "28042250",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL61EOH",
+        "registration_date": "30/11/2011",
+        "mileage": 58101,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3795,
+        "total_price": 3795,
+        "deposit": 379.5,
+        "balance": 3415.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.6,
+        "term": 18,
+        "regular_payment": 205.69,
+        "final_payment": 206.69,
+        "total_amount_payable": 4082.92,
+        "total_charge_for_credit": 287.92,
+        "amount_of_credit": 3415.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

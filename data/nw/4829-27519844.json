@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:43:38.161Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fastlanemotorcars.co.uk/used-land-rover-range-rover-velar-stoke-on-trent-staffordshire-6809709",
+    "dealer_id": "4829",
+    "car_id": "27519844",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV69EFL",
+        "registration_date": "24/09/2019",
+        "mileage": 31000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899,
+        "balance": 26096,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 559.48,
+        "final_payment": 560.48,
+        "total_amount_payable": 36468.8,
+        "total_charge_for_credit": 7473.8,
+        "amount_of_credit": 26096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

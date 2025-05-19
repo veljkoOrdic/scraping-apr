@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:53:05.035Z",
+    "timestamp": "2025-05-15T16:58:36.216Z",
     "source": "new_vehicle_finance",
     "url": "https://www.smvcommercials.co.uk/vehicle-details/used-man-tgs-35-400-8x4-insulated-tipper-for-sale-smv-trucks-only-u51/",
     "dealer_id": "2612",
@@ -12,6 +12,29 @@
         "registration_date": "27/04/2016",
         "mileage": 270000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 2199.5,
+        "balance": 24194.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 551.45,
+        "final_payment": 561.45,
+        "balloon": 0,
+        "total_amount_payable": 35296.5,
+        "total_charge_for_credit": 8902.5,
+        "amount_of_credit": 24194.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 561.45
       }
     ]
   }

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:17:10.652Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.oakwoodmotorcompany.com/used-audi-rs6-avant-bury-greater-manchester-6861948",
+    "dealer_id": "7208",
+    "car_id": "27726757",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A6",
+        "variant": "RS 6 AVANT",
+        "derivative": "RS 6 TFSI Quattro Tiptronic",
+        "registration_number": "BK21AXT",
+        "registration_date": "12/03/2021",
+        "mileage": 48577,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499,
+        "balance": 58496,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 49,
+        "regular_payment": 1052.28,
+        "final_payment": 24397,
+        "total_amount_payable": 81405.44,
+        "total_charge_for_credit": 16410.44,
+        "amount_of_credit": 58496,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 14.4,
+        "residual": 24387,
+        "price_to_buy": 24397
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499,
+        "balance": 58496,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1201.61,
+        "final_payment": 1211.61,
+        "total_amount_payable": 78605.6,
+        "total_charge_for_credit": 13610.6,
+        "amount_of_credit": 58496,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

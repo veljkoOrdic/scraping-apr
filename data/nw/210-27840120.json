@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:52:46.811Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/citroen--ami/bt72wcf",
+    "dealer_id": "210",
+    "car_id": "27840120",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BT72WCF",
+        "registration_date": "11/01/2023",
+        "mileage": 6765,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4699,
+        "total_price": 4699,
+        "deposit": 469,
+        "balance": 4230,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 111.78,
+        "final_payment": 112.78,
+        "total_amount_payable": 5835.44,
+        "total_charge_for_credit": 1136.44,
+        "amount_of_credit": 4230,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 4699,
+        "total_price": 4699,
+        "deposit": 469,
+        "balance": 4230,
+        "apr": 12.9,
+        "rate_of_interest": 6.28,
+        "term": 49,
+        "regular_payment": 77.99,
+        "final_payment": 2099.61,
+        "total_amount_payable": 6312.13,
+        "total_charge_for_credit": 1613.13,
+        "amount_of_credit": 4230,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.02,
+        "residual": 2098.61,
+        "price_to_buy": 2099.61
+      }
+    ]
+  }
+]

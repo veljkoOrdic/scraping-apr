@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T18:35:53.765Z",
+    "timestamp": "2025-05-15T15:14:04.987Z",
     "source": "new_vehicle_finance",
     "url": "https://www.craignairncarworld.co.uk/used-toyota-corolla-kirkcaldy-fife-6227308",
     "dealer_id": "362",
     "car_id": "25195318",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "SV70RUH",
-        "registration_date": "01/10/2020",
-        "mileage": 8900,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 18995,
-        "total_price": 18995,
-        "deposit": 1899,
-        "balance": 17096,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 358.85,
-        "final_payment": 359.85,
-        "total_amount_payable": 23431,
-        "total_charge_for_credit": 4436,
-        "amount_of_credit": 17096,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 8000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 18995,
-        "total_price": 18995,
-        "deposit": 1899,
-        "balance": 17096,
-        "apr": 9.9,
-        "rate_of_interest": 4.85,
-        "term": 49,
-        "regular_payment": 274.95,
-        "final_payment": 9038.22,
-        "total_amount_payable": 24134.82,
-        "total_charge_for_credit": 5139.82,
-        "amount_of_credit": 17096,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 8000,
-        "contract_mileage": 32667,
-        "excess_mileage_rate": 0.08,
-        "residual": 9037.22,
-        "price_to_buy": 9038.22
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

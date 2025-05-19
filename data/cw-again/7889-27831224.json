@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:17:24.137Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rsmotorhouse.co.uk/details/used-car-in-leeds/jeep/renegade/1.0-gse-t3-night-eagle-euro-6-ss-5dr/1445463/",
+    "dealer_id": "7889",
+    "car_id": "27831224",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jeep",
+        "model": "RENEGADE",
+        "variant": "HATCHBACK SPECIAL EDITION",
+        "derivative": "1.0 T3 GSE Night Eagle II",
+        "registration_number": "KX70OUG",
+        "registration_date": "19/10/2020",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7490,
+        "total_price": 7490,
+        "deposit": 749,
+        "balance": 6741,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 89.64,
+        "final_payment": 4932,
+        "total_amount_payable": 9983.72,
+        "total_charge_for_credit": 2493.72,
+        "amount_of_credit": 6741,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 3.94,
+        "residual": 4922,
+        "price_to_buy": 4932
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7490,
+        "total_price": 7490,
+        "deposit": 749,
+        "balance": 6741,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 144.53,
+        "final_payment": 144.53,
+        "total_amount_payable": 9420.8,
+        "total_charge_for_credit": 1930.8,
+        "amount_of_credit": 6741,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:20:50.145Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aberdeenautos.co.uk/cars/bmw/1series/2.0-m135i-xdrive/1425189/",
+    "dealer_id": "9128",
+    "car_id": "27632288",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG20JXH",
+        "registration_date": "01/03/2020",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 453.29,
+        "final_payment": 454.29,
+        "total_amount_payable": 29597.9,
+        "total_charge_for_credit": 5602.9,
+        "amount_of_credit": 21595.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

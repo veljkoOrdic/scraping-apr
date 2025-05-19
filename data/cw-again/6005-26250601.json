@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-05-15T19:22:43.459Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sinclairgroup.co.uk/used-car-details/used-land-rover-defender-110-20-p400e-xs-edition-5dr-automatic-petrol-plug-in-hybrid/id-202411146289974/",
+    "dealer_id": "6005",
+    "car_id": "26250601",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://services.codeweavers.net/api/action-availability/start-checkout",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/credit-check?",
+        "https://services.codeweavers.net/api/finance/quote/5d195d20-aa1e-437b-bda8-b07f6beec696",
+        "https://services.codeweavers.net/api/websockets/pusher/vehicleChannelNameForQuote/5d195d20-aa1e-437b-bda8-b07f6beec696",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/checkout?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/reserve?",
+        "https://services.codeweavers.net/api/websockets/pusher/authenticate"
+      ]
+    }
+  }
+]

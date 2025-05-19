@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:36:20.439Z",
+    "timestamp": "2025-05-15T16:22:33.698Z",
     "source": "new_vehicle_finance",
     "url": "https://www.jjmotors.co.uk/used/suzuki/s-cross/motion-boosterjet-mhev/llanelli/carmarthenshire/20984735",
     "dealer_id": "5646",
@@ -12,6 +12,29 @@
         "registration_date": "28/01/2022",
         "mileage": 15067,
         "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.38,
+        "term": 49,
+        "regular_payment": 269.7,
+        "final_payment": 5858.5,
+        "total_amount_payable": 20403.6,
+        "total_charge_for_credit": 4408.6,
+        "amount_of_credit": 14395.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5857.5,
+        "price_to_buy": 5858.5
       },
       {
         "type": "finance_hp",
@@ -33,29 +56,6 @@
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
         "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 15995,
-        "total_price": 15995,
-        "deposit": 1599.5,
-        "balance": 14395.5,
-        "apr": 10.9,
-        "rate_of_interest": 5.37,
-        "term": 49,
-        "regular_payment": 268.63,
-        "final_payment": 5922.25,
-        "total_amount_payable": 20415.99,
-        "total_charge_for_credit": 4420.99,
-        "amount_of_credit": 14395.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.06,
-        "residual": 5921.25,
-        "price_to_buy": 5922.25
       }
     ]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:26:46.514Z",
+    "timestamp": "2025-05-15T19:14:32.526Z",
     "source": "new_vehicle_finance",
     "url": "https://www.motorcityplymouth.co.uk/used-renault-captur-plymouth-devon-6384202",
     "dealer_id": "6857",
@@ -12,6 +12,29 @@
         "registration_date": "27/06/2017",
         "mileage": 60124,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10999,
+        "total_price": 10999,
+        "deposit": 2199,
+        "balance": 8800,
+        "apr": 12.4,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 194.44,
+        "final_payment": 194.44,
+        "balloon": 0,
+        "total_amount_payable": 13865.4,
+        "total_charge_for_credit": 2866.4,
+        "amount_of_credit": 8800,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 194.44
       },
       {
         "type": "finance_hp",

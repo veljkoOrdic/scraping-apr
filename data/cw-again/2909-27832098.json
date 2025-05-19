@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:53:28.498Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.curtiscars.co.uk/used-cars/toyota-land-28d-active-auto-4wd-euro-6-3dr/24339/",
+    "dealer_id": "2909",
+    "car_id": "27832098",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "LAND CRUISER",
+        "variant": "DIESEL SW",
+        "derivative": "2.8 D-4D Active 5 Seats",
+        "registration_number": "RRZ6860",
+        "registration_date": "10/09/2020",
+        "mileage": 32689,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 45450,
+        "total_price": 45450,
+        "deposit": 4545,
+        "balance": 40905,
+        "apr": 9.7,
+        "rate_of_interest": 6.5,
+        "term": 49,
+        "regular_payment": 768.23,
+        "final_payment": 14895,
+        "total_amount_payable": 56315.04,
+        "total_charge_for_credit": 10865.04,
+        "amount_of_credit": 40905,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 12,
+        "residual": 14895,
+        "price_to_buy": 14895
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45450,
+        "total_price": 45450,
+        "deposit": 4545,
+        "balance": 40905,
+        "apr": 9.7,
+        "rate_of_interest": 5.08,
+        "term": 60,
+        "regular_payment": 854.96,
+        "final_payment": 854.96,
+        "total_amount_payable": 55842.6,
+        "total_charge_for_credit": 10392.6,
+        "amount_of_credit": 40905,
+        "lender": "Toyota Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

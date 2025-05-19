@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:14:14.315Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tollcrossgarage.com/vehicle-details/used-bmw-m6-v8-for-sale-in-rutherglen-glasgow-u6211/",
+    "dealer_id": "6482",
+    "car_id": "27866507",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC15OSM",
+        "registration_date": "24/04/2015",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30000,
+        "total_price": 30000,
+        "deposit": 3000,
+        "balance": 27000,
+        "apr": 8.9,
+        "rate_of_interest": 4.58,
+        "term": 36,
+        "regular_payment": 853,
+        "final_payment": 854,
+        "total_amount_payable": 33709,
+        "total_charge_for_credit": 3709,
+        "amount_of_credit": 27000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

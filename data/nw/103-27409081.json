@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:34:10.857Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebbsfleetspecialistcars.co.uk/used-volkswagen-golf-gravesend-kent-6784349",
+    "dealer_id": "103",
+    "car_id": "27409081",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT64WLN",
+        "registration_date": "08/09/2014",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8750,
+        "total_price": 8750,
+        "deposit": 875,
+        "balance": 7875,
+        "apr": 12.9,
+        "rate_of_interest": 6.74,
+        "term": 51,
+        "regular_payment": 198.62,
+        "final_payment": 199.62,
+        "total_amount_payable": 11005.62,
+        "total_charge_for_credit": 2255.62,
+        "amount_of_credit": 7875,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

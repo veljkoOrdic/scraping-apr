@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:25:38.426Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmillar.co.uk/details/used-audi-r8-coupe-5.2-fsi-%5B570%5D-v10-performance-ed-2dr-s-tronic-rwd-petrol-semi-auto-mythos-black-Id=3694775",
+    "dealer_id": "3219",
+    "car_id": "28076600",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST74LOF",
+        "registration_date": "05/11/2024",
+        "mileage": 2010,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 129999,
+        "total_price": 129999,
+        "deposit": 0,
+        "balance": 75000,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1916.28,
+        "final_payment": 1917.28,
+        "total_amount_payable": 146981.44,
+        "total_charge_for_credit": 16982.44,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 129999,
+        "total_price": 129999,
+        "deposit": 0,
+        "balance": 100000,
+        "apr": 10.9,
+        "rate_of_interest": 5.29,
+        "term": 49,
+        "regular_payment": 1509.17,
+        "final_payment": 62453.5,
+        "total_amount_payable": 164892.66,
+        "total_charge_for_credit": 34893.66,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "contract_mileage": 36750,
+        "excess_mileage_rate": 0.78,
+        "residual": 62452.5,
+        "price_to_buy": 62453.5
+      }
+    ]
+  }
+]

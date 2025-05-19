@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:50:29.677Z",
+    "timestamp": "2025-05-15T16:34:12.356Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kaimparkgarage.co.uk/used-lamborghini-urus-bathgate-west-lothian-6296882",
     "dealer_id": "2056",
@@ -12,6 +12,29 @@
         "registration_date": "01/03/2024",
         "mileage": 5000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 229995,
+        "total_price": 229995,
+        "deposit": 79995,
+        "balance": 150000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 3081.55,
+        "final_payment": 3081.55,
+        "balloon": 0,
+        "total_amount_payable": 264888,
+        "total_charge_for_credit": 34893,
+        "amount_of_credit": 150000,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 3081.55
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 8.9,
         "rate_of_interest": 4.61,
         "term": 49,
-        "regular_payment": 1829.61,
-        "final_payment": 107438.5,
-        "balloon": 107437.5,
-        "total_amount_payable": 275254.78,
-        "total_charge_for_credit": 45259.78,
+        "regular_payment": 2053.95,
+        "final_payment": 94561,
+        "balloon": 94560,
+        "total_amount_payable": 273145.6,
+        "total_charge_for_credit": 43150.6,
         "amount_of_credit": 150000,
         "lender": "MI Vehicle Finance Limited",
         "annual_mileage": 8000,
         "excess_mileage_rate": 0,
-        "residual": 107437.5,
-        "price_to_buy": 107438.5
+        "residual": 94560,
+        "price_to_buy": 94561
       }
     ]
   }

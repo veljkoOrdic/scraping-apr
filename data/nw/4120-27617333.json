@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:02:54.856Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.russellham.co.uk/used-ford-fiesta-plymouth-devon-6834601",
+    "dealer_id": "4120",
+    "car_id": "27617333",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD12TFY",
+        "registration_date": "01/03/2012",
+        "mileage": 45677,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 249,
+        "balance": 4746,
+        "apr": 12.9,
+        "rate_of_interest": 6.59,
+        "term": 21,
+        "regular_payment": 252.07,
+        "final_payment": 253.07,
+        "total_amount_payable": 5543.47,
+        "total_charge_for_credit": 548.47,
+        "amount_of_credit": 4746,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

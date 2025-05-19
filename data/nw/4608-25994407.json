@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:04:40.604Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ascarsltd.co.uk/details/used-car-in-lu6-1nx/audi/e-tron/55-black-edition-auto-quattro-5dr-95kwh/1291657/",
+    "dealer_id": "4608",
+    "car_id": "25994407",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WP70GXF",
+        "registration_date": "29/01/2021",
+        "mileage": 62013,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 0,
+        "balance": 24990,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 627.54,
+        "final_payment": 628.54,
+        "total_amount_payable": 30122.92,
+        "total_charge_for_credit": 5132.92,
+        "amount_of_credit": 24990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24990,
+        "total_price": 24990,
+        "deposit": 0,
+        "balance": 24990,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 433.17,
+        "final_payment": 11381.02,
+        "total_amount_payable": 32173.18,
+        "total_charge_for_credit": 7183.18,
+        "amount_of_credit": 24990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.12,
+        "residual": 11380.02,
+        "price_to_buy": 11381.02
+      }
+    ]
+  }
+]

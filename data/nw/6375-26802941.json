@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T18:04:17.712Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kingsroadgarage.co.uk/vehicle-details/used-volkswagen-caravelle-bitdi-bluemotion-tech-executive-for-sale-in-hertfordshire-u5174/",
+    "dealer_id": "6375",
+    "car_id": "26802941",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BP19OAW",
+        "registration_date": "17/04/2019",
+        "mileage": 62000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 703.58,
+        "final_payment": 713.58,
+        "balloon": 0,
+        "total_amount_payable": 45724.3,
+        "total_charge_for_credit": 10729.3,
+        "amount_of_credit": 31495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 713.58
+      }
+    ]
+  }
+]

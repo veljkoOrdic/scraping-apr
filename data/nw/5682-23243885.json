@@ -1,62 +1,17 @@
 [
   {
-    "timestamp": "2025-04-14T21:45:55.390Z",
+    "timestamp": "2025-05-15T16:28:40.747Z",
     "source": "new_vehicle_finance",
     "url": "https://www.pentagon-group.co.uk/used-cars/vauxhall/grandland-hybrid/gs/16-142kwh-gs-suv-5dr-petrol-plug-in-hybrid-auto-euro-6-ss-225-ps/38981",
     "dealer_id": "5682",
     "car_id": "23243885",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "ME73UCR",
-        "registration_date": "31/01/2024",
-        "mileage": 13999,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 23950,
-        "total_price": 23950,
-        "deposit": 1000,
-        "balance": 22950,
-        "apr": 10.9,
-        "rate_of_interest": 5.66,
-        "term": 48,
-        "regular_payment": 586.37,
-        "final_payment": 587.37,
-        "total_amount_payable": 29146.76,
-        "total_charge_for_credit": 5196.76,
-        "amount_of_credit": 22950,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 23950,
-        "total_price": 23950,
-        "deposit": 1000,
-        "balance": 22950,
-        "apr": 10.9,
-        "rate_of_interest": 5.36,
-        "term": 49,
-        "regular_payment": 413.27,
-        "final_payment": 10337.5,
-        "total_amount_payable": 31174.46,
-        "total_charge_for_credit": 7224.46,
-        "amount_of_credit": 22950,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.12,
-        "residual": 10336.5,
-        "price_to_buy": 10337.5
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.pentagon&quoteeUid=7029550C-F68C-45CB-AB12-1108F99DC20E&class=car&condition=used&vrm=ME73UCR&cashPrice=22990.00&currentOdometerReading=14999&term=48&cashDeposit=1000&annualDistance=10000&registrationDate=31%2F01%2F2024&capId=100562&capCode=VAGL16GL65HXTA++++++&vehicleImageUrl=https://www.pentagon-group.co.uk/images/used-vehicle-photos/1/ME73UCR-1.jpg&vatIncluded=true&vatQualifying=false&cashDepositType=Amount",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.pentagon&quoteeUid=7029550C-F68C-45CB-AB12-1108F99DC20E&class=car&condition=used&vrm=ME73UCR&cashPrice=22990.00&currentOdometerReading=14999&term=48&cashDeposit=1000&annualDistance=10000&registrationDate=31%2F01%2F2024&capId=100562&capCode=VAGL16GL65HXTA%20%20%20%20%20%20&vehicleImageUrl=https%3A%2F%2Fwww.pentagon-group.co.uk%2Fimages%2Fused-vehicle-photos%2F1%2FME73UCR-1.jpg&vatIncluded=true&vatQualifying=false&cashDepositType=Amount&origin=https%3A%2F%2Fwww.pentagon-group.co.uk%2Fused-cars%2Fvauxhall%2Fgrandland-hybrid%2Fgs%2F16-142kwh-gs-suv-5dr-petrol-plug-in-hybrid-auto-euro-6-ss-225-ps%2F38981&widgetId=iv-finance-widget"
+      ]
+    }
   }
 ]

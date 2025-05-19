@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:54:28.998Z",
+    "timestamp": "2025-05-15T19:04:03.588Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cars4youltd.co.uk/used-toyota-prius-broxburn-west-lothian-4036024",
     "dealer_id": "6813",
@@ -12,6 +12,29 @@
         "registration_date": "08/05/2008",
         "mileage": 133000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4750,
+        "total_price": 4750,
+        "deposit": 475,
+        "balance": 4275,
+        "apr": 13.8,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 97.32,
+        "final_payment": 97.32,
+        "balloon": 0,
+        "total_amount_payable": 6314.2,
+        "total_charge_for_credit": 1564.2,
+        "amount_of_credit": 4275,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 97.32
       }
     ]
   }

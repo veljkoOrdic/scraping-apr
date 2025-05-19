@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:27:56.984Z",
+    "source": "new_vehicle_finance",
+    "url": "https://janautos.co.uk/vehicle/name/volkswagen-golf-life-etsi-dsg-2/",
+    "dealer_id": "3285",
+    "car_id": "24246490",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GM21SXR",
+        "registration_date": "29/06/2021",
+        "mileage": 41650,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 0,
+        "balance": 16490,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 368.31,
+        "final_payment": 378.31,
+        "total_amount_payable": 22108.6,
+        "total_charge_for_credit": 5618.6,
+        "amount_of_credit": 16490,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16490,
+        "total_price": 16490,
+        "deposit": 0,
+        "balance": 16490,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 311.88,
+        "final_payment": 4954.76,
+        "total_amount_payable": 23355.68,
+        "total_charge_for_credit": 6865.68,
+        "amount_of_credit": 16490,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 0.04,
+        "residual": 4953.76,
+        "price_to_buy": 4954.76
+      }
+    ]
+  }
+]

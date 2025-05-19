@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:50:45.611Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ilexcarsales.co.uk/used-bmw-m3-derry-county-londonderry-6908374",
+    "dealer_id": "5905",
+    "car_id": "27930527",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "B16YLA",
+        "registration_date": "30/10/2021",
+        "mileage": 37056,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 2749,
+        "balance": 52246,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1143.68,
+        "final_payment": 1144.68,
+        "total_amount_payable": 71370.8,
+        "total_charge_for_credit": 16375.8,
+        "amount_of_credit": 52246,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 2749,
+        "balance": 52246,
+        "apr": 11.9,
+        "rate_of_interest": 5.87,
+        "term": 49,
+        "regular_payment": 1021.4,
+        "final_payment": 20488.6,
+        "total_amount_payable": 72264.8,
+        "total_charge_for_credit": 17269.8,
+        "amount_of_credit": 52246,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.24,
+        "residual": 20487.6,
+        "price_to_buy": 20488.6
+      }
+    ]
+  }
+]

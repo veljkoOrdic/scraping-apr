@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:30:52.853Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverydole.co.uk/used/isuzu/d-max/19-dl20-double-cab-4x4/exeter/devon/243382",
+    "dealer_id": "5326",
+    "car_id": "27376099",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ22UOK",
+        "registration_date": "05/03/2022",
+        "mileage": 25500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28798.8,
+        "total_price": 28798.8,
+        "deposit": 9599.6,
+        "balance": 14399.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 367.9,
+        "final_payment": 368.9,
+        "total_amount_payable": 32059.6,
+        "total_charge_for_credit": 3260.8,
+        "amount_of_credit": 14399.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

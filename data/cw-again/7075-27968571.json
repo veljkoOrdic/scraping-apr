@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:06:32.759Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carcogroup.co.uk/used-car-details/used-alpine-a110-18l-turbo-300-s-enstone-editi-automatic-petrol/id-210151086/",
+    "dealer_id": "7075",
+    "car_id": "27968571",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alpine",
+        "model": "A110",
+        "variant": "COUPE SPECIAL EDITION",
+        "derivative": "1.8L Turbo 300 S Enstone Edition DCT",
+        "registration_number": "HT73OGX",
+        "registration_date": "11/01/2024",
+        "mileage": 5681,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69110,
+        "total_price": 69110,
+        "deposit": 13822,
+        "balance": 55288,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 770.38,
+        "final_payment": 32062,
+        "total_amount_payable": 82862.24,
+        "total_charge_for_credit": 13752.24,
+        "amount_of_credit": 55288,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 32062,
+        "price_to_buy": 32062
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69110,
+        "total_price": 69110,
+        "deposit": 13822,
+        "balance": 55288,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 1340.1,
+        "final_payment": 1340.1,
+        "total_amount_payable": 78146.8,
+        "total_charge_for_credit": 9036.8,
+        "amount_of_credit": 55288,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

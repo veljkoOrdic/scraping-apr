@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:21:01.562Z",
+    "timestamp": "2025-05-15T19:13:43.608Z",
     "source": "new_vehicle_finance",
     "url": "https://www.lutontradecentre.com/used-land-rover-range-rover-evoque-luton-bedfordshire-6428918",
     "dealer_id": "6846",
@@ -12,6 +12,29 @@
         "registration_date": "11/09/2019",
         "mileage": 36404,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20875,
+        "total_price": 20875,
+        "deposit": 2087,
+        "balance": 18788,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 411.28,
+        "final_payment": 411.28,
+        "balloon": 0,
+        "total_amount_payable": 26763.8,
+        "total_charge_for_credit": 5888.8,
+        "amount_of_credit": 18788,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 411.28
       }
     ]
   }

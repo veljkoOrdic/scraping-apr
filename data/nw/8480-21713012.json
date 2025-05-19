@@ -1,39 +1,20 @@
 [
   {
-    "timestamp": "2025-04-15T00:11:16.185Z",
+    "timestamp": "2025-05-15T17:52:39.881Z",
     "source": "new_vehicle_finance",
     "url": "https://www.diesels-direct.co.uk/used/ford/focus/16-tdci-edge-5dr/halesworth/suffolk/21014516",
     "dealer_id": "8480",
     "car_id": "21713012",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "PO12FDU",
-        "registration_date": "14/06/2012",
-        "mileage": 73000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4995,
-        "total_price": 4995,
-        "deposit": 500,
-        "balance": 4495,
-        "apr": 13.9,
-        "rate_of_interest": 7.09,
-        "term": 25,
-        "regular_payment": 206.36,
-        "final_payment": 207.36,
-        "total_amount_payable": 5660,
-        "total_charge_for_credit": 665,
-        "amount_of_credit": 4495,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=dieselsdirect&usePersistedOptions=false&quoteeUid=C37AC7C0-C995-421C-AE3E-620CFF20F83A&class=car&condition=used&vrm=PO12FDU&registrationDate=14/06/2012&capId=50250&cashPrice=4995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=73000&vehicleImageUrl=https://www.diesels-direct.co.uk/media/images/171393063/ford-focus-diesel-hatchback.jpeg&term=36&cashDeposit=500&annualDistance=10000&random=wgb2tw",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=dieselsdirect&usePersistedOptions=false&quoteeUid=C37AC7C0-C995-421C-AE3E-620CFF20F83A&class=car&condition=used&vrm=PO12FDU&registrationDate=14%2F06%2F2012&capId=50250&cashPrice=4995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=73000&vehicleImageUrl=https%3A%2F%2Fwww.diesels-direct.co.uk%2Fmedia%2Fimages%2F171393063%2Fford-focus-diesel-hatchback.jpeg&term=36&cashDeposit=500&annualDistance=10000&random=wgb2tw&origin=https%3A%2F%2Fwww.diesels-direct.co.uk%2Fused%2Fford%2Ffocus%2F16-tdci-edge-5dr%2Fhalesworth%2Fsuffolk%2F21014516&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

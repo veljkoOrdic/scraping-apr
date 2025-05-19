@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:56:16.366Z",
+    "timestamp": "2025-05-15T18:26:38.221Z",
     "source": "new_vehicle_finance",
     "url": "https://www.imperials.co.uk/used-car-details/used-rolls-royce-spectre-120kwh-auto-4wd-2dr-coupe-diamond-black-with-phoenix-red-coachline-automatic-electric/id-202409043641111/",
     "dealer_id": "6559",
@@ -12,6 +12,29 @@
         "registration_date": "05/01/2024",
         "mileage": 3000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 349948,
+        "total_price": 349948,
+        "deposit": 149948,
+        "balance": 200000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 4198.02,
+        "final_payment": 4208.02,
+        "balloon": 0,
+        "total_amount_payable": 401839.2,
+        "total_charge_for_credit": 51891.2,
+        "amount_of_credit": 200000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 4208.02
       },
       {
         "type": "finance_hp",

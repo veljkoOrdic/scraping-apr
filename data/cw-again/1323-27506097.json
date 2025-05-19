@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:00:56.933Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wilsonautotrade.co.uk/used-vauxhall-corsa-darlington-county-durham-6807416",
+    "dealer_id": "1323",
+    "car_id": "27506097",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK SPECIAL EDS",
+        "derivative": "1.4 Energy",
+        "registration_number": "YG19FWV",
+        "registration_date": "29/03/2019",
+        "mileage": 57000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 6990,
+        "total_price": 6990,
+        "deposit": 699,
+        "balance": 6291,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 35,
+        "regular_payment": 161.02,
+        "final_payment": 2539,
+        "total_amount_payable": 8712.68,
+        "total_charge_for_credit": 1722.68,
+        "amount_of_credit": 6291,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 29166,
+        "excess_mileage_rate": 7,
+        "residual": 2539,
+        "price_to_buy": 2539
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6990,
+        "total_price": 6990,
+        "deposit": 699,
+        "balance": 6291,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 140.56,
+        "final_payment": 140.56,
+        "total_amount_payable": 9132.6,
+        "total_charge_for_credit": 2142.6,
+        "amount_of_credit": 6291,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

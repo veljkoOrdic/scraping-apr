@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:08.437Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/maserati-levante-gt-sport-pack-5doors-suv-automatic-petrol?id=1509389",
+    "dealer_id": "6006",
+    "car_id": "27799076",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV71VRO",
+        "registration_date": "13/12/2021",
+        "mileage": 14172,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42950,
+        "total_price": 42950,
+        "deposit": 0,
+        "balance": 42950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1097.38,
+        "final_payment": 1098.38,
+        "total_amount_payable": 52675.24,
+        "total_charge_for_credit": 9725.24,
+        "amount_of_credit": 42950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

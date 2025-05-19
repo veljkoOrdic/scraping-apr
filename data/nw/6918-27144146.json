@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:35:14.122Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.gtheritage.com/used-land-rover-range-rover-evoque-henley-on-thames-oxfordshire-6720456",
+    "dealer_id": "6918",
+    "car_id": "27144146",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF61HZD",
+        "registration_date": "19/10/2011",
+        "mileage": 103800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7997,
+        "total_price": 7997,
+        "deposit": 799,
+        "balance": 7198,
+        "apr": 9.9,
+        "rate_of_interest": 5.11,
+        "term": 17,
+        "regular_payment": 454.08,
+        "final_payment": 455.08,
+        "total_amount_payable": 8519.36,
+        "total_charge_for_credit": 522.36,
+        "amount_of_credit": 7198,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

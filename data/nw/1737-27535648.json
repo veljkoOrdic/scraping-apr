@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T21:13:17.561Z",
+    "timestamp": "2025-05-15T16:18:45.713Z",
     "source": "new_vehicle_finance",
     "url": "https://www.centralgarageford.co.uk/used/cars/ford/focus/1-5-ecoblue-st-line-euro-6-s-s-5dr-136",
     "dealer_id": "1737",
     "car_id": "27535648",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "SN71LKA",
-        "registration_date": "07/10/2021",
-        "mileage": 40052,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 14100,
-        "total_price": 14100,
-        "deposit": 1410,
-        "balance": 12690,
-        "apr": 9.9,
-        "rate_of_interest": 9.45,
-        "term": 48,
-        "regular_payment": 318.68,
-        "final_payment": 318.68,
-        "total_amount_payable": 16706.64,
-        "total_charge_for_credit": 2606.64,
-        "amount_of_credit": 12690,
-        "lender": "Black Horse Limited",
-        "annual_mileage": 8000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=centralgarageford.co.uk&quoteeUid=E4528B79-122D-48C0-B2F2-2B1B6B708C90&class=car&condition=used&vrm=SN71LKA&registrationDate=07/10/2021&cashPrice=14100&currentOdometerReading=40052&vehicleImageUrl=https://67cdn.co.uk/423/3/464936/1746696907681c7acb70901_ec9c3832ebe94111a69502d8935d3e15.jpg?width=350&crop=auto&term=48&cashDepositType=percentageOfCashPrice&cashDeposit=10&annualDistance=8000&capId=83541&usePersistedOptions=false&excludeVatAsDeposit=true",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=centralgarageford.co.uk&quoteeUid=E4528B79-122D-48C0-B2F2-2B1B6B708C90&class=car&condition=used&vrm=SN71LKA&registrationDate=07%2F10%2F2021&cashPrice=14100&currentOdometerReading=40052&vehicleImageUrl=https%3A%2F%2F67cdn.co.uk%2F423%2F3%2F464936%2F1746696907681c7acb70901_ec9c3832ebe94111a69502d8935d3e15.jpg%3Fwidth%3D350&crop=auto&term=48&cashDepositType=percentageOfCashPrice&cashDeposit=10&annualDistance=8000&capId=83541&usePersistedOptions=false&excludeVatAsDeposit=true&origin=https%3A%2F%2Fwww.centralgarageford.co.uk%2Fused%2Fcars%2Fford%2Ffocus%2F1-5-ecoblue-st-line-euro-6-s-s-5dr-136&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

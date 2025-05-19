@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:51:39.190Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastangliacarsales.co.uk/details/used-car-in-newbourne-road/mercedes-benz/cclass/6.3-c63-v8-amg-edition-125-spds-mct-euro-5-2dr/1350778/",
+    "dealer_id": "7545",
+    "car_id": "26708529",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU14OBY",
+        "registration_date": "01/03/2014",
+        "mileage": 44898,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 10,
+        "balance": 24985,
+        "apr": 12.9,
+        "rate_of_interest": 6.69,
+        "term": 45,
+        "regular_payment": 694.57,
+        "final_payment": 695.57,
+        "total_amount_payable": 31266.65,
+        "total_charge_for_credit": 6271.65,
+        "amount_of_credit": 24985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

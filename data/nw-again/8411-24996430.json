@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T18:51:57.285Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.slhsvansales.co.uk/used-ford-transit-custom-littlehampton-west-sussex-6181573",
+    "dealer_id": "8411",
+    "car_id": "24996430",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM21LRO",
+        "registration_date": "28/06/2021",
+        "mileage": 80300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16800,
+        "total_price": 16800,
+        "deposit": 5600,
+        "balance": 11200,
+        "apr": 16.7,
+        "rate_of_interest": 8,
+        "term": 60,
+        "regular_payment": 269.5,
+        "final_payment": 269.5,
+        "balloon": 0,
+        "total_amount_payable": 21770,
+        "total_charge_for_credit": 4970,
+        "amount_of_credit": 11200,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 269.5
+      }
+    ]
+  }
+]

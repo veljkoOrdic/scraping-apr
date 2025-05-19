@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:38:52.192Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-ford-ranger-newry-northern-ireland-6830639",
+    "dealer_id": "9001",
+    "car_id": "27592642",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH73VZN",
+        "registration_date": "21/09/2023",
+        "mileage": 12000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39995,
+        "total_price": 39995,
+        "deposit": 3999,
+        "balance": 35996,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 771.73,
+        "final_payment": 772.73,
+        "total_amount_payable": 50303.8,
+        "total_charge_for_credit": 10308.8,
+        "amount_of_credit": 35996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

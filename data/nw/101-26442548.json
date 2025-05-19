@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:33:20.507Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reynoldsmotorgroup.co.uk/used-audi-s3-southend-on-sea-essex-6538727",
+    "dealer_id": "101",
+    "car_id": "26442548",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE18NOH",
+        "registration_date": "01/03/2018",
+        "mileage": 71600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 0,
+        "balance": 19000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 398.82,
+        "final_payment": 399.82,
+        "total_amount_payable": 23930.2,
+        "total_charge_for_credit": 4930.2,
+        "amount_of_credit": 19000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

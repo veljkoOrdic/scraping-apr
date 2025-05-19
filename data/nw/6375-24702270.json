@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:03:17.237Z",
+    "timestamp": "2025-05-15T18:03:29.830Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kingsroadgarage.co.uk/vehicle-details/used-jaguar-s-type-v8-r-for-sale-in-hertfordshire-u5093/",
     "dealer_id": "6375",
@@ -12,6 +12,29 @@
         "registration_date": "02/03/2005",
         "mileage": 74000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 899.5,
+        "balance": 8095.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 180.76,
+        "final_payment": 190.76,
+        "balloon": 0,
+        "total_amount_payable": 11755.1,
+        "total_charge_for_credit": 2760.1,
+        "amount_of_credit": 8095.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 190.76
       }
     ]
   }

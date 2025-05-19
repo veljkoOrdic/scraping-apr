@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:52:17.356Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.breeze.co.uk/used/volkswagen/tiguan/tsi-ehybrid-dsg-match/poole/dorset/21560727",
+    "dealer_id": "6543",
+    "car_id": "27411356",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TIGUAN",
+        "variant": "ESTATE",
+        "derivative": "1.5 TSI eHybrid Match DSG",
+        "registration_number": "YC74VWT",
+        "registration_date": "25/10/2024",
+        "mileage": 5778,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3849,
+        "balance": 32141,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 540.23,
+        "final_payment": 17267.5,
+        "total_amount_payable": 47047.54,
+        "total_charge_for_credit": 11057.54,
+        "amount_of_credit": 32141,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.98,
+        "residual": 17257.5,
+        "price_to_buy": 17267.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35990,
+        "total_price": 35990,
+        "deposit": 3849,
+        "balance": 32141,
+        "apr": 11.1,
+        "rate_of_interest": 11.07,
+        "term": 60,
+        "regular_payment": 691.57,
+        "final_payment": 701.57,
+        "total_amount_payable": 45353.2,
+        "total_charge_for_credit": 9363.2,
+        "amount_of_credit": 32141,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

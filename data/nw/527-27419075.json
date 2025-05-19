@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:03.222Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beenhamgarage.co.uk/vehicle-details/used-volkswagen-polo-tsi-se-for-sale-in-reading-berkshire-u2796/",
+    "dealer_id": "527",
+    "car_id": "27419075",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK69GYE",
+        "registration_date": "14/10/2019",
+        "mileage": 51696,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 248.48,
+        "final_payment": 249.48,
+        "total_amount_payable": 13027.54,
+        "total_charge_for_credit": 2032.54,
+        "amount_of_credit": 9895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

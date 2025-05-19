@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:09:02.288Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rydersofwarrington.co.uk/used/hyundai/santa-fe/16-tgdi-hybrid-ultimate-5dr-4wd-auto/warrington/cheshire/21600292",
+    "dealer_id": "7112",
+    "car_id": "28052004",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "SANTA FE",
+        "variant": "ESTATE",
+        "derivative": "1.6 TGDi Hybrid Ultimate",
+        "registration_number": "MH73NVR",
+        "registration_date": "22/12/2023",
+        "mileage": 8305,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36280,
+        "total_price": 36280,
+        "deposit": 3628,
+        "balance": 32652,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 834.28,
+        "final_payment": 834.28,
+        "total_amount_payable": 43673.44,
+        "total_charge_for_credit": 7393.44,
+        "amount_of_credit": 32652,
+        "lender": "Hyundai Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36280,
+        "total_price": 36280,
+        "deposit": 3628,
+        "balance": 32652,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 48,
+        "regular_payment": 549.82,
+        "final_payment": 16986.11,
+        "total_amount_payable": 47005.47,
+        "total_charge_for_credit": 10725.47,
+        "amount_of_credit": 32652,
+        "lender": "Hyundai Motor Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 7.5,
+        "residual": 16986.11,
+        "price_to_buy": 16986.11
+      }
+    ]
+  }
+]

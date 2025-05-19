@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:30:39.481Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cavendishuk.co.uk/cars/renault/clio/1.5-dynamique-s-nav-dci-90/1287105/",
+    "dealer_id": "4339",
+    "car_id": "25936228",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV18MXH",
+        "registration_date": "16/04/2018",
+        "mileage": 86000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5995,
+        "total_price": 5995,
+        "deposit": 599.5,
+        "balance": 5395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 115.67,
+        "final_payment": 116.67,
+        "total_amount_payable": 7540.7,
+        "total_charge_for_credit": 1545.7,
+        "amount_of_credit": 5395.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

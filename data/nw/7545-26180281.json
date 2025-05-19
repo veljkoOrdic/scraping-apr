@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:51:33.834Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastangliacarsales.co.uk/details/used-car-in-newbourne-road/jaguar/xk/5.0-v8-portfolio-auto-euro-5-2dr/1307498/",
+    "dealer_id": "7545",
+    "car_id": "26180281",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY61RLZ",
+        "registration_date": "09/09/2011",
+        "mileage": 43200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16990,
+        "total_price": 16990,
+        "deposit": 10,
+        "balance": 16980,
+        "apr": 12.9,
+        "rate_of_interest": 6.65,
+        "term": 15,
+        "regular_payment": 1226.14,
+        "final_payment": 1227.14,
+        "total_amount_payable": 18403.1,
+        "total_charge_for_credit": 1413.1,
+        "amount_of_credit": 16980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

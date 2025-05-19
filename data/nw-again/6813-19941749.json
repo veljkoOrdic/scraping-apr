@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:18:44.414Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cars4youltd.co.uk/used-mercedes-benz-b-class-broxburn-west-lothian-4996143",
+    "dealer_id": "6813",
+    "car_id": "19941749",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ66YBP",
+        "registration_date": "15/09/2016",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 11.7,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 215.59,
+        "final_payment": 215.59,
+        "balloon": 0,
+        "total_amount_payable": 14034.4,
+        "total_charge_for_credit": 3039.4,
+        "amount_of_credit": 9896,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 215.59
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099,
+        "balance": 9896,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 207.71,
+        "final_payment": 208.71,
+        "total_amount_payable": 13562.6,
+        "total_charge_for_credit": 2567.6,
+        "amount_of_credit": 9896,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

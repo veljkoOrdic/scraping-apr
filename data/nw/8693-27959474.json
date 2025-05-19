@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:12:41.420Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.1br.co.uk/used-bmw-4-series-convertible-petersfield-hampshire-6921812",
+    "dealer_id": "8693",
+    "car_id": "27959474",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GV22FMO",
+        "registration_date": "03/08/2022",
+        "mileage": 7700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 0,
+        "balance": 36490,
+        "apr": 10.9,
+        "rate_of_interest": 5.75,
+        "term": 60,
+        "regular_payment": 782.98,
+        "final_payment": 783.98,
+        "total_amount_payable": 46979.8,
+        "total_charge_for_credit": 10489.8,
+        "amount_of_credit": 36490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 0,
+        "balance": 36490,
+        "apr": 9.9,
+        "rate_of_interest": 4.9,
+        "term": 49,
+        "regular_payment": 667.02,
+        "final_payment": 14597.68,
+        "total_amount_payable": 46614.64,
+        "total_charge_for_credit": 10124.64,
+        "amount_of_credit": 36490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 14596.68,
+        "price_to_buy": 14597.68
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:51:21.070Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carsalesni.com/used-audi-q7-omagh-fermanagh-6767267",
+    "dealer_id": "5912",
+    "car_id": "27488750",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL70LYC",
+        "registration_date": "30/11/2020",
+        "mileage": 61800,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38450,
+        "total_price": 38450,
+        "deposit": 3845,
+        "balance": 34605,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 726.37,
+        "final_payment": 727.37,
+        "total_amount_payable": 47428.2,
+        "total_charge_for_credit": 8978.2,
+        "amount_of_credit": 34605,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38450,
+        "total_price": 38450,
+        "deposit": 3845,
+        "balance": 34605,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 623.62,
+        "final_payment": 14367.25,
+        "total_amount_payable": 48146.01,
+        "total_charge_for_credit": 9696.01,
+        "amount_of_credit": 34605,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 14366.25,
+        "price_to_buy": 14367.25
+      }
+    ]
+  }
+]

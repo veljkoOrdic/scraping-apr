@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T11:57:59.941Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kintorecarsales.co.uk/vehicle-details/used-bmw-4-series-3-0-435d-m-sport-xdrive-coupe-automatic-euro-6-for-sale-midmill-kintore-u3019/",
+    "dealer_id": "358",
+    "car_id": "27867762",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK18KZO",
+        "registration_date": "06/03/2018",
+        "mileage": 47300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 250,
+        "balance": 20745,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 435.44,
+        "final_payment": 436.44,
+        "total_amount_payable": 26377.4,
+        "total_charge_for_credit": 5382.4,
+        "amount_of_credit": 20745,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

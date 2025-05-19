@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-05-16T13:42:41.481Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ascars.co.uk/used/cars/tesla/model-y/-dual-motor-long-range-auto-4wde-5dr-122",
+    "dealer_id": "2335",
+    "car_id": "27461207",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL Y",
+        "variant": "HATCHBACK",
+        "derivative": "Long Range",
+        "registration_date": "14/02/2022",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29999,
+        "total_price": 29999,
+        "deposit": 2999.9,
+        "balance": 26999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 455.58,
+        "final_payment": 14448,
+        "total_amount_payable": 38860.16,
+        "total_charge_for_credit": 8861.16,
+        "amount_of_credit": 26999.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 21,
+        "residual": 14438,
+        "price_to_buy": 14448
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29999,
+        "total_price": 29999,
+        "deposit": 2999.9,
+        "balance": 26999.1,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 578.73,
+        "final_payment": 588.73,
+        "total_amount_payable": 37733.7,
+        "total_charge_for_credit": 7734.7,
+        "amount_of_credit": 26999.1,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

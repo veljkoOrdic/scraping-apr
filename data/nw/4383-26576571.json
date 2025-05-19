@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:38:48.091Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bromboroughroadcarsales.co.uk/detail/1348408/used-mini-countryman-1-5-cooper-exclusive-5dr-automatic-wirral",
+    "dealer_id": "4383",
+    "car_id": "26576571",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP69SVR",
+        "registration_date": "24/10/2019",
+        "mileage": 35632,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 344.66,
+        "final_payment": 345.66,
+        "total_amount_payable": 22430.1,
+        "total_charge_for_credit": 4935.1,
+        "amount_of_credit": 15745.5,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 53,
+        "regular_payment": 293.93,
+        "final_payment": 6085.28,
+        "total_amount_payable": 23119.14,
+        "total_charge_for_credit": 5624.14,
+        "amount_of_credit": 15745.5,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 44167,
+        "excess_mileage_rate": 0.04,
+        "residual": 6084.28,
+        "price_to_buy": 6085.28
+      }
+    ]
+  }
+]

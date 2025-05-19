@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:58.779Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/land-rover--range-rover-velar/yg73scl",
+    "dealer_id": "210",
+    "car_id": "27390718",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG73SCL",
+        "registration_date": "28/11/2023",
+        "mileage": 16778,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46250,
+        "total_price": 46250,
+        "deposit": 4625,
+        "balance": 41625,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1027.08,
+        "final_payment": 1028.08,
+        "total_amount_payable": 53925.84,
+        "total_charge_for_credit": 7675.84,
+        "amount_of_credit": 41625,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46250,
+        "total_price": 46250,
+        "deposit": 4625,
+        "balance": 41625,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 49,
+        "regular_payment": 613.53,
+        "final_payment": 23740.3,
+        "total_amount_payable": 57814.74,
+        "total_charge_for_credit": 11564.74,
+        "amount_of_credit": 41625,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 23739.3,
+        "price_to_buy": 23740.3
+      }
+    ]
+  }
+]

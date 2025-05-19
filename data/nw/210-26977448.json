@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:55:09.570Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/porsche--taycan/ao21lgx",
+    "dealer_id": "210",
+    "car_id": "26977448",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO21LGX",
+        "registration_date": "13/04/2021",
+        "mileage": 13972,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 61500,
+        "total_price": 61500,
+        "deposit": 6150,
+        "balance": 55350,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1365.74,
+        "final_payment": 1366.74,
+        "total_amount_payable": 71706.52,
+        "total_charge_for_credit": 10206.52,
+        "amount_of_credit": 55350,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 61500,
+        "total_price": 61500,
+        "deposit": 6150,
+        "balance": 55350,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 49,
+        "regular_payment": 894.01,
+        "final_payment": 27079.87,
+        "total_amount_payable": 76142.35,
+        "total_charge_for_credit": 14642.35,
+        "amount_of_credit": 55350,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 27078.87,
+        "price_to_buy": 27079.87
+      }
+    ]
+  }
+]

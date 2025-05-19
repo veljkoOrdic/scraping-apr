@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:39:42.816Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eclipsecarsales.co.uk/used-bmw-1-series-winchester-hampshire-6325783",
+    "dealer_id": "4402",
+    "car_id": "25593556",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO70TWZ",
+        "registration_date": "20/01/2021",
+        "mileage": 21000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 1000,
+        "balance": 24495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 514.16,
+        "final_payment": 515.16,
+        "total_amount_payable": 31850.6,
+        "total_charge_for_credit": 6355.6,
+        "amount_of_credit": 24495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25495,
+        "total_price": 25495,
+        "deposit": 1000,
+        "balance": 24495,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 416.59,
+        "final_payment": 11624.27,
+        "total_amount_payable": 32620.59,
+        "total_charge_for_credit": 7125.59,
+        "amount_of_credit": 24495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.16,
+        "residual": 11623.27,
+        "price_to_buy": 11624.27
+      }
+    ]
+  }
+]

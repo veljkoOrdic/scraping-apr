@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:30.817Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-tesla-model-y-ampthill-bedfordshire-6798950",
+    "dealer_id": "6807",
+    "car_id": "27462879",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BK22BZE",
+        "registration_date": "08/03/2022",
+        "mileage": 38300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24389,
+        "total_price": 24389,
+        "deposit": 2438,
+        "balance": 21951,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 460.76,
+        "final_payment": 461.76,
+        "total_amount_payable": 30084.6,
+        "total_charge_for_credit": 5695.6,
+        "amount_of_credit": 21951,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24389,
+        "total_price": 24389,
+        "deposit": 2438,
+        "balance": 21951,
+        "apr": 9.9,
+        "rate_of_interest": 4.81,
+        "term": 49,
+        "regular_payment": 316,
+        "final_payment": 13773.38,
+        "total_amount_payable": 31379.38,
+        "total_charge_for_credit": 6990.38,
+        "amount_of_credit": 21951,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 13772.38,
+        "price_to_buy": 13773.38
+      }
+    ]
+  }
+]

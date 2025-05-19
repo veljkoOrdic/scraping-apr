@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:42:58.180Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetwisevehiclesales.co.uk/used-toyota-hi-lux-northern-island-northern-ireland-6890072",
+    "dealer_id": "6118",
+    "car_id": "27848911",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD73UCV",
+        "registration_date": "19/10/2023",
+        "mileage": 19000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43194,
+        "total_price": 43194,
+        "deposit": 0,
+        "balance": 43194,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 1122.43,
+        "final_payment": 1132.43,
+        "balloon": 0,
+        "total_amount_payable": 53886.64,
+        "total_charge_for_credit": 10692.64,
+        "amount_of_credit": 43194,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1132.43
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:38:15.533Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-bmw-x3-newark-nottinghamshire-6863211",
+    "dealer_id": "2240",
+    "car_id": "27753103",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR72CJJ",
+        "registration_date": "09/11/2022",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32911,
+        "total_price": 32911,
+        "deposit": 1645,
+        "balance": 31266,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 691.37,
+        "final_payment": 701.37,
+        "balloon": 0,
+        "total_amount_payable": 43137.2,
+        "total_charge_for_credit": 10226.2,
+        "amount_of_credit": 31266,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 701.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32911,
+        "total_price": 32911,
+        "deposit": 1645,
+        "balance": 31266,
+        "apr": 12.7,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 694.37,
+        "final_payment": 744.37,
+        "total_amount_payable": 43407.2,
+        "total_charge_for_credit": 10496.2,
+        "amount_of_credit": 31266,
+        "lender": "Oodle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

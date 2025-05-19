@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:12:34.477Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jsholmes.com/used/nissan/ariya/225kw-evolve-87kwh-22kwch-5dr-e-4orce-auto/wisbech/cambridgeshire/21585438",
+    "dealer_id": "5943",
+    "car_id": "27818906",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "ARIYA",
+        "variant": "ELECTRIC HATCHBACK",
+        "derivative": "225kW Evolve 87kWh 22kWCh e-4ORCE",
+        "registration_number": "NA24EGD",
+        "registration_date": "28/03/2024",
+        "mileage": 9146,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36990,
+        "total_price": 36990,
+        "deposit": 3699,
+        "balance": 33291,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 743.82,
+        "final_payment": 743.82,
+        "total_amount_payable": 48328.2,
+        "total_charge_for_credit": 11338.2,
+        "amount_of_credit": 33291,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36990,
+        "total_price": 36990,
+        "deposit": 3699,
+        "balance": 33291,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 601.71,
+        "final_payment": 17273,
+        "total_amount_payable": 49854.08,
+        "total_charge_for_credit": 12864.08,
+        "amount_of_credit": 33291,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 17273,
+        "price_to_buy": 17273
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:13:55.990Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aylesbury-tradecentre.co.uk/details/used-car-in-aston-clinton/bmw/x5/3.0-40d-m-sport-auto-xdrive-euro-6-ss-5dr/1312415/",
+    "dealer_id": "6873",
+    "car_id": "26239279",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO18XJJ",
+        "registration_date": "26/06/2018",
+        "mileage": 45400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28594,
+        "total_price": 28594,
+        "deposit": 2859.4,
+        "balance": 25734.6,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 551.62,
+        "final_payment": 561.62,
+        "balloon": 0,
+        "total_amount_payable": 35966.6,
+        "total_charge_for_credit": 7372.6,
+        "amount_of_credit": 25734.6,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 561.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28594,
+        "total_price": 28594,
+        "deposit": 2859.4,
+        "balance": 25734.6,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 551.62,
+        "final_payment": 561.62,
+        "total_amount_payable": 35966.6,
+        "total_charge_for_credit": 7372.6,
+        "amount_of_credit": 25734.6,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

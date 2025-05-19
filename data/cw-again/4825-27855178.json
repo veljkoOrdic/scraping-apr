@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:28:26.619Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.almondellmotorcompany.co.uk/used-nissan-x-trail-broxburn-west-lothian-6893448",
+    "dealer_id": "4825",
+    "car_id": "27855178",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "X-TRAIL",
+        "variant": "DIESEL STATION WAGON",
+        "derivative": "1.7 dCi Acenta",
+        "registration_number": "SA70AWY",
+        "registration_date": "01/09/2020",
+        "mileage": 35025,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549,
+        "balance": 13946,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 356.32,
+        "final_payment": 356.32,
+        "total_amount_payable": 18652.36,
+        "total_charge_for_credit": 3157.36,
+        "amount_of_credit": 13946,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 1549,
+        "balance": 13946,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 263.65,
+        "final_payment": 5750,
+        "total_amount_payable": 19690.55,
+        "total_charge_for_credit": 4195.55,
+        "amount_of_credit": 13946,
+        "lender": "Car Money",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.95,
+        "residual": 5750,
+        "price_to_buy": 5750
+      }
+    ]
+  }
+]

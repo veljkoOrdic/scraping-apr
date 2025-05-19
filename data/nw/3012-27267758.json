@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:10:37.734Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.banchorycarcentre.co.uk/used-dacia-sandero-banchory-aberdeenshire-6751780",
+    "dealer_id": "3012",
+    "car_id": "27267758",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST22OAJ",
+        "registration_date": "19/05/2022",
+        "mileage": 19500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 188.82,
+        "final_payment": 189.82,
+        "total_amount_payable": 12329.2,
+        "total_charge_for_credit": 2334.2,
+        "amount_of_credit": 8996,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 49,
+        "regular_payment": 164.59,
+        "final_payment": 3590.5,
+        "total_amount_payable": 12489.82,
+        "total_charge_for_credit": 2494.82,
+        "amount_of_credit": 8996,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.09,
+        "residual": 3580.5,
+        "price_to_buy": 3590.5
+      }
+    ]
+  }
+]

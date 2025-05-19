@@ -1,22 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:24:06.284Z",
-    "source": "new_vehicle_finance",
-    "url": "https://www.motorvillagebristol.com/used-land-rover-range-rover-sport-bristol-somerset-6496590",
-    "dealer_id": "2288",
-    "car_id": "26280319",
-    "data": {
-      "type": "candidates",
-      "urls": [
-        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.motorvillagebristol.com&quoteeUid=8514BD5DD1B54278AC739CF0437A1831&class=car&condition=used&vrm=PY67DFA&registrationDate=30%2F11%2F2017&capCode=&capId=&cashPrice=24995&currentOdometerReading=64100&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6496%2F6496590%2Ffull%2F155218417.jpg&term=60&cashDeposit=2499&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=18%2F11%2F2024&usePersistedOptions=false",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.motorvillagebristol.com&quoteeUid=8514BD5DD1B54278AC739CF0437A1831&class=car&condition=used&vrm=PY67DFA&registrationDate=30%2F11%2F2017&capCode=&capId=&cashPrice=24995&currentOdometerReading=64100&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6496%2F6496590%2Ffull%2F155218417.jpg&term=60&cashDeposit=2499&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=18%2F11%2F2024&usePersistedOptions=false&origin=https%3A%2F%2Fwww.motorvillagebristol.com%2Fused-land-rover-range-rover-sport-bristol-somerset-6496590&widgetId=iv-finance-widget",
-        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.303037b2.chunk.css"
-      ]
-    }
-  },
-  {
-    "timestamp": "2025-04-14T22:24:10.897Z",
+    "timestamp": "2025-05-15T16:47:54.123Z",
     "source": "new_vehicle_finance",
     "url": "https://www.motorvillagebristol.com/used-land-rover-range-rover-sport-bristol-somerset-6496590",
     "dealer_id": "2288",
@@ -28,6 +12,29 @@
         "registration_date": "30/11/2017",
         "mileage": 64100,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499,
+        "balance": 22496,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 492.33,
+        "final_payment": 502.33,
+        "balloon": 0,
+        "total_amount_payable": 32048.8,
+        "total_charge_for_credit": 7053.8,
+        "amount_of_credit": 22496,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 502.33
       },
       {
         "type": "finance_hp",

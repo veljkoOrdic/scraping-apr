@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:55:14.354Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.redlionmotors.co.uk/details/used-car-in-epping/audi/q7/3.0-tfsi-v6-55-s-line-tiptronic-quattro-euro-6-ss-5dr/1449839/",
+    "dealer_id": "7619",
+    "car_id": "27883501",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "ESTATE",
+        "derivative": "55 TFSI Quattro S Line Tiptronic",
+        "registration_number": "WK72YRO",
+        "registration_date": "13/12/2022",
+        "mileage": 21335,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42999,
+        "total_price": 42999,
+        "deposit": 4299.9,
+        "balance": 38699.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 621.54,
+        "final_payment": 13555.09,
+        "total_amount_payable": 54525.85,
+        "total_charge_for_credit": 11526.85,
+        "amount_of_credit": 38699.1,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 9.03,
+        "residual": 13554.09,
+        "price_to_buy": 13555.09
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42999,
+        "total_price": 42999,
+        "deposit": 4299.9,
+        "balance": 38699.1,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 795.01,
+        "final_payment": 796.01,
+        "total_amount_payable": 52001.5,
+        "total_charge_for_credit": 9002.5,
+        "amount_of_credit": 38699.1,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

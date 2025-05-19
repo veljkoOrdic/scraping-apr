@@ -1,62 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T21:46:22.784Z",
+    "timestamp": "2025-05-15T16:28:58.152Z",
     "source": "new_vehicle_finance",
     "url": "https://www.pentagon-group.co.uk/used-cars/vauxhall/astra-electric/ultimate/54kwh-ultimate-hatchback-5dr-electric-auto-156-ps/43198",
     "dealer_id": "5682",
     "car_id": "24246290",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "FD73HZK",
-        "registration_date": "27/11/2023",
-        "mileage": 12999,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 30195,
-        "total_price": 30195,
-        "deposit": 1000,
-        "balance": 29195,
-        "apr": 10.9,
-        "rate_of_interest": 5.66,
-        "term": 48,
-        "regular_payment": 745.93,
-        "final_payment": 746.93,
-        "total_amount_payable": 36805.64,
-        "total_charge_for_credit": 6610.64,
-        "amount_of_credit": 29195,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 30195,
-        "total_price": 30195,
-        "deposit": 1000,
-        "balance": 29195,
-        "apr": 10.9,
-        "rate_of_interest": 5.39,
-        "term": 49,
-        "regular_payment": 559.64,
-        "final_payment": 11125,
-        "total_amount_payable": 38987.72,
-        "total_charge_for_credit": 8792.72,
-        "amount_of_credit": 29195,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.16,
-        "residual": 11124,
-        "price_to_buy": 11125
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.pentagon&quoteeUid=7029550C-F68C-45CB-AB12-1108F99DC20E&class=car&condition=used&vrm=FD73HZK&cashPrice=30195.00&currentOdometerReading=13999&term=48&cashDeposit=1000&annualDistance=10000&registrationDate=27%2F11%2F2023&capId=102087&capCode=VAAS00ULT5HE+A++9+++&vehicleImageUrl=https://www.pentagon-group.co.uk/images/used-vehicle-photos/1/FD73HZK-1.jpg&vatIncluded=true&vatQualifying=false&cashDepositType=Amount",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.pentagon&quoteeUid=7029550C-F68C-45CB-AB12-1108F99DC20E&class=car&condition=used&vrm=FD73HZK&cashPrice=30195.00&currentOdometerReading=13999&term=48&cashDeposit=1000&annualDistance=10000&registrationDate=27%2F11%2F2023&capId=102087&capCode=VAAS00ULT5HE%20A%20%209%20%20%20&vehicleImageUrl=https%3A%2F%2Fwww.pentagon-group.co.uk%2Fimages%2Fused-vehicle-photos%2F1%2FFD73HZK-1.jpg&vatIncluded=true&vatQualifying=false&cashDepositType=Amount&origin=https%3A%2F%2Fwww.pentagon-group.co.uk%2Fused-cars%2Fvauxhall%2Fastra-electric%2Fultimate%2F54kwh-ultimate-hatchback-5dr-electric-auto-156-ps%2F43198&widgetId=iv-finance-widget",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df"
+      ]
+    }
   }
 ]

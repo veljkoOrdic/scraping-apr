@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:01:32.106Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2024-porsche-911-t-hybrid-992-carrera-4-gts-pdk-4wd-euro-6-2-door-1",
+    "dealer_id": "4386",
+    "car_id": "27761264",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] TARGA 4",
+        "derivative": "GTS t-Hybrid PDK",
+        "registration_number": "WR74SFO",
+        "registration_date": "12/12/2024",
+        "mileage": 483,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 149490,
+        "total_price": 149490,
+        "deposit": 12500,
+        "balance": 136990,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2407.2,
+        "final_payment": 91186.25,
+        "total_amount_payable": 187938.25,
+        "total_charge_for_credit": 38448.25,
+        "amount_of_credit": 136990,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 28.2,
+        "residual": 91176.25,
+        "price_to_buy": 91186.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 149490,
+        "total_price": 149490,
+        "deposit": 12500,
+        "balance": 136990,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 4494.79,
+        "final_payment": 4504.79,
+        "total_amount_payable": 174322.44,
+        "total_charge_for_credit": 24832.44,
+        "amount_of_credit": 136990,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

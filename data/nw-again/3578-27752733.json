@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:37:20.419Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autopointautosdunbartonshire.co.uk/used-nissan-juke-argyll-and-bute-dunbartonshire-6865707",
+    "dealer_id": "3578",
+    "car_id": "27752733",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YJ66DLL",
+        "registration_date": "22/02/2017",
+        "mileage": 100000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4979,
+        "total_price": 4979,
+        "deposit": 0,
+        "balance": 4979,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 106.74,
+        "final_payment": 107.74,
+        "total_amount_payable": 6405.4,
+        "total_charge_for_credit": 1426.4,
+        "amount_of_credit": 4979,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

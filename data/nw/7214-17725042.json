@@ -1,39 +1,22 @@
 [
   {
-    "timestamp": "2025-04-14T17:53:37.878Z",
+    "timestamp": "2025-05-15T14:59:21.640Z",
     "source": "new_vehicle_finance",
     "url": "https://www.colinfranciscars.com/used-cars/mini-cooper-15d/33035",
     "dealer_id": "7214",
     "car_id": "17725042",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "CK18VMA",
-        "registration_date": "23/07/2018",
-        "mileage": 47000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 12950,
-        "total_price": 12950,
-        "deposit": 1295,
-        "balance": 11655,
-        "apr": 9.9,
-        "rate_of_interest": 5.18,
-        "term": 60,
-        "regular_payment": 244.52,
-        "final_payment": 254.52,
-        "total_amount_payable": 15976.2,
-        "total_charge_for_credit": 3026.2,
-        "amount_of_credit": 11655,
-        "lender": "Northridge Finance",
-        "annual_mileage": 8000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.colinfranciscars.com&quoteeUid=4AAAC7C8-73A6-48D0-BA86-2DEE47AFAB1C&class=car&condition=used&vrm=CK18%20VMA&registrationDate=23/07/2018&capCode=&capId=&cashPrice=12950&vatIncluded=&currentOdometerReading=47000&vehicleImageUrl=https%3A%2F%2Fwww%2Ecolinfranciscars%2Ecom%2Fcarimages/20211202_150557.jpg&cashDepositType=percentageOfCashPrice&cashDeposit=10&term=60&annualDistance=8000&dateOnForecourt=&usePersistedOptions=false",
+        "https://quoteware3.ivendi.com/paymentsearch/",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.colinfranciscars.com&quoteeUid=4AAAC7C8-73A6-48D0-BA86-2DEE47AFAB1C&class=car&condition=used&vrm=CK18VMA&registrationDate=23%2F07%2F2018&capCode=&capId=&cashPrice=12950&vatIncluded=&currentOdometerReading=47000&vehicleImageUrl=https%3A%2F%2Fwww.colinfranciscars.com%2Fcarimages%2F20211202_150557.jpg&cashDepositType=percentageOfCashPrice&cashDeposit=10&term=60&annualDistance=8000&dateOnForecourt=&usePersistedOptions=false&origin=https%3A%2F%2Fwww.colinfranciscars.com%2Fused-cars%2Fmini-cooper-15d%2F33035&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json"
+      ]
+    }
   }
 ]

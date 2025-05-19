@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:30:46.981Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/porsche/macan/2.9t-v6-s-pdk-4wd-euro-6-ss-5dr/1468132/",
+    "dealer_id": "3382",
+    "car_id": "28075720",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HX71YUN",
+        "registration_date": "30/11/2021",
+        "mileage": 34220,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 45395,
+        "total_price": 45395,
+        "deposit": 30395,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 53805.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

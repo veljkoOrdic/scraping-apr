@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:12:27.681Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jsholmes.com/used/nissan/qashqai/13-dig-t-mh-158-n-connecta-5dr-xtronic/wisbech/cambridgeshire/21580839",
+    "dealer_id": "5943",
+    "car_id": "27755788",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "HATCHBACK",
+        "derivative": "1.3 DiG-T MH 158 N-Connecta Xtronic",
+        "registration_number": "KU74WJD",
+        "registration_date": "30/11/2024",
+        "mileage": 150,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28990,
+        "total_price": 28990,
+        "deposit": 2899,
+        "balance": 26091,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 559.38,
+        "final_payment": 559.38,
+        "total_amount_payable": 36461.8,
+        "total_charge_for_credit": 7471.8,
+        "amount_of_credit": 26091,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28990,
+        "total_price": 28990,
+        "deposit": 2899,
+        "balance": 26091,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 48,
+        "regular_payment": 479.48,
+        "final_payment": 13046.28,
+        "total_amount_payable": 38960.32,
+        "total_charge_for_credit": 9970.32,
+        "amount_of_credit": 26091,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40148,
+        "excess_mileage_rate": 8,
+        "residual": 13046.28,
+        "price_to_buy": 13046.28
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:00:39.575Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fitzroymotorco.co.uk/details/specialist-car-in-ringwood/porsche/macan/2.0t-pdk-4wd-euro-6-ss-5dr/1454312/",
+    "dealer_id": "9375",
+    "car_id": "27927098",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YO15JKJ",
+        "registration_date": "28/07/2015",
+        "mileage": 57852,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.64,
+        "term": 60,
+        "regular_payment": 429.49,
+        "final_payment": 439.49,
+        "balloon": 0,
+        "total_amount_payable": 27928.9,
+        "total_charge_for_credit": 6433.9,
+        "amount_of_credit": 19345.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 439.49
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 12.6,
+        "rate_of_interest": 6.64,
+        "term": 60,
+        "regular_payment": 429.49,
+        "final_payment": 439.49,
+        "total_amount_payable": 27928.9,
+        "total_charge_for_credit": 6433.9,
+        "amount_of_credit": 19345.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

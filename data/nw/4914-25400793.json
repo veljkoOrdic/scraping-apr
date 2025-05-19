@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:28:01.499Z",
+    "timestamp": "2025-05-15T14:47:28.466Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kennymurraycarsltd.co.uk/used-bmw-x1-fraserburgh-aberdeenshire-6281182",
     "dealer_id": "4914",
@@ -12,6 +12,29 @@
         "registration_date": "21/10/2019",
         "mileage": 22000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18250,
+        "total_price": 18250,
+        "deposit": 1825,
+        "balance": 16425,
+        "apr": 12.4,
+        "rate_of_interest": 6.53,
+        "term": 60,
+        "regular_payment": 363.14,
+        "final_payment": 373.14,
+        "balloon": 0,
+        "total_amount_payable": 23623.4,
+        "total_charge_for_credit": 5373.4,
+        "amount_of_credit": 16425,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 373.14
       },
       {
         "type": "finance_hp",

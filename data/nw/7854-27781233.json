@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:26:08.003Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bmvehicles.co.uk/details/used-car-in-letchworth-garden-city/mercedes-benz/gleclass/5.5-gle63-v8-amg-s-night-edition-coupe-spds+7gt-4matic-euro-6-ss-5dr/1157099/",
+    "dealer_id": "7854",
+    "car_id": "27781233",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EN19VYL",
+        "registration_date": "29/04/2019",
+        "mileage": 48000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 1000,
+        "balance": 42995,
+        "apr": 13.9,
+        "rate_of_interest": 7.25,
+        "term": 49,
+        "regular_payment": 1137.17,
+        "final_payment": 1147.17,
+        "balloon": 0,
+        "total_amount_payable": 56731.33,
+        "total_charge_for_credit": 12736.33,
+        "amount_of_credit": 42995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1147.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43995,
+        "total_price": 43995,
+        "deposit": 1000,
+        "balance": 42995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 1061.4,
+        "final_payment": 1071.4,
+        "total_amount_payable": 53018.6,
+        "total_charge_for_credit": 9023.6,
+        "amount_of_credit": 42995,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

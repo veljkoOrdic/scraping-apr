@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:04:36.546Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jjmotors.co.uk/used/suzuki/swace/18-hybrid-motion-5dr-cvt/bridgend/south-glamorgan/21454083",
+    "dealer_id": "5646",
+    "car_id": "26126829",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU24NZN",
+        "registration_date": "29/03/2024",
+        "mileage": 7900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23749,
+        "total_price": 23749,
+        "deposit": 2374.9,
+        "balance": 21374.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.85,
+        "term": 61,
+        "regular_payment": 462.21,
+        "final_payment": 463.21,
+        "total_amount_payable": 30108.5,
+        "total_charge_for_credit": 6359.5,
+        "amount_of_credit": 21374.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23749,
+        "total_price": 23749,
+        "deposit": 2374.9,
+        "balance": 21374.1,
+        "apr": 10.9,
+        "rate_of_interest": 5.36,
+        "term": 49,
+        "regular_payment": 388.42,
+        "final_payment": 9416.88,
+        "total_amount_payable": 30435.94,
+        "total_charge_for_credit": 6686.94,
+        "amount_of_credit": 21374.1,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 9415.88,
+        "price_to_buy": 9416.88
+      }
+    ]
+  }
+]

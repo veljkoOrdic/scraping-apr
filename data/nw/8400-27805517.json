@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:39:33.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.voguemotorgroup.com/used-mercedes-benz-b-class-derby-derbyshire-6879520",
+    "dealer_id": "8400",
+    "car_id": "27805517",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN17EFG",
+        "registration_date": "08/03/2017",
+        "mileage": 26576,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11999,
+        "total_price": 11999,
+        "deposit": 500,
+        "balance": 11499,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 251.59,
+        "final_payment": 261.59,
+        "total_amount_payable": 15605.4,
+        "total_charge_for_credit": 3606.4,
+        "amount_of_credit": 11499,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

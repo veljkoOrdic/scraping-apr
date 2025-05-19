@@ -1,39 +1,21 @@
 [
   {
-    "timestamp": "2025-04-14T22:46:54.432Z",
+    "timestamp": "2025-05-15T17:14:49.683Z",
     "source": "new_vehicle_finance",
     "url": "https://www.time-motors.co.uk/used-citroen-berlingo-nottingham-nottinghamshire-6799810",
     "dealer_id": "8172",
     "car_id": "27462959",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "PJ18BYK",
-        "registration_date": "23/07/2018",
-        "mileage": 130535,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4782,
-        "total_price": 4782,
-        "deposit": 0,
-        "balance": 3985,
-        "apr": 11.9,
-        "rate_of_interest": 6.26,
-        "term": 60,
-        "regular_payment": 87.22,
-        "final_payment": 88.22,
-        "total_amount_payable": 6031.2,
-        "total_charge_for_credit": 1249.2,
-        "amount_of_credit": 3985,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.timemotors.co.uk&quoteeUid=BDD13B36132949C5A91729242664FE56&class=lcv&condition=used&vrm=PJ18BYK&registrationDate=23%2F07%2F2018&capCode=&capId=&cashPrice=3985&currentOdometerReading=130535&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6799%2F6799810%2Ffull%2F163162926.jpg&term=60&cashDeposit=&cashDepositType=flatRate&vatIncluded=false&vatQualifying=true&annualDistance=10000&dateOnForecourt=18%2F03%2F2025&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.timemotors.co.uk&quoteeUid=BDD13B36132949C5A91729242664FE56&class=lcv&condition=used&vrm=PJ18BYK&registrationDate=23%2F07%2F2018&capCode=&capId=&cashPrice=3985&currentOdometerReading=130535&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6799%2F6799810%2Ffull%2F163162926.jpg&term=60&cashDeposit=&cashDepositType=flatRate&vatIncluded=false&vatQualifying=true&annualDistance=10000&dateOnForecourt=18%2F03%2F2025&usePersistedOptions=false&origin=https%3A%2F%2Fwww.time-motors.co.uk%2Fused-citroen-berlingo-nottingham-nottinghamshire-6799810&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json"
+      ]
+    }
   }
 ]

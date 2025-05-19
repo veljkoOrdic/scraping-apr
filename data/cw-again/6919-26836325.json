@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:46:08.429Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.phoenixrc-autos.co.uk/used-rolls-royce-wraith-huddersfield-west-yorkshire-6626223",
+    "dealer_id": "6919",
+    "car_id": "26836325",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Rolls-Royce",
+        "model": "WRAITH",
+        "variant": "COUPE",
+        "derivative": "2dr",
+        "registration_number": "LF17KDZ",
+        "registration_date": "16/03/2017",
+        "mileage": 19490,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 127999,
+        "total_price": 127999,
+        "deposit": 27999,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 6.62,
+        "term": 46,
+        "regular_payment": 1981.27,
+        "final_payment": 36202.5,
+        "total_amount_payable": 153358.65,
+        "total_charge_for_credit": 25359.65,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "contract_mileage": 23000,
+        "excess_mileage_rate": 65,
+        "residual": 36202.5,
+        "price_to_buy": 36202.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 127999,
+        "total_price": 127999,
+        "deposit": 27999,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2099.08,
+        "final_payment": 2099.08,
+        "total_amount_payable": 153943.8,
+        "total_charge_for_credit": 25944.8,
+        "amount_of_credit": 100000,
+        "lender": "Car Money",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T11:59:08.758Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beenhamgarage.co.uk/vehicle-details/used-volkswagen-golf-tsi-r-for-sale-in-reading-berkshire-u2837/",
+    "dealer_id": "527",
+    "car_id": "27844620",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC71VXX",
+        "registration_date": "25/02/2022",
+        "mileage": 34760,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29795,
+        "total_price": 29795,
+        "deposit": 2979.5,
+        "balance": 26815.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 673.38,
+        "final_payment": 674.38,
+        "total_amount_payable": 35302.74,
+        "total_charge_for_credit": 5507.74,
+        "amount_of_credit": 26815.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29795,
+        "total_price": 29795,
+        "deposit": 2979.5,
+        "balance": 26815.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 436.64,
+        "final_payment": 13862.32,
+        "total_amount_payable": 37800.54,
+        "total_charge_for_credit": 8005.54,
+        "amount_of_credit": 26815.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 13861.32,
+        "price_to_buy": 13862.32
+      }
+    ]
+  }
+]

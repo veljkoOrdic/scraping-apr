@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:13:40.275Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mdpatrickmotors.co.uk/details/used-car-in-chester-le-street/ford/kuga/2.0-tdci-titanium-x-awd-euro-5-5dr/1457101/",
+    "dealer_id": "4270",
+    "car_id": "27953268",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NJ14VXO",
+        "registration_date": "14/03/2014",
+        "mileage": 48200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8495,
+        "total_price": 8495,
+        "deposit": 849.5,
+        "balance": 7645.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 45,
+        "regular_payment": 202.52,
+        "final_payment": 203.52,
+        "total_amount_payable": 9963.9,
+        "total_charge_for_credit": 1468.9,
+        "amount_of_credit": 7645.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:08.677Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-audi-q5-liverpool-merseyside-6869222",
+    "dealer_id": "4599",
+    "car_id": "27772505",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DF21YFT",
+        "registration_date": "23/06/2021",
+        "mileage": 25521,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 1000,
+        "balance": 26995,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 566.51,
+        "final_payment": 576.51,
+        "total_amount_payable": 35000.6,
+        "total_charge_for_credit": 7005.6,
+        "amount_of_credit": 26995,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 1000,
+        "balance": 26995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 435.5,
+        "final_payment": 14192.5,
+        "total_amount_payable": 36096.5,
+        "total_charge_for_credit": 8101.5,
+        "amount_of_credit": 26995,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.15,
+        "residual": 14182.5,
+        "price_to_buy": 14192.5
+      }
+    ]
+  }
+]

@@ -1,39 +1,24 @@
 [
   {
-    "timestamp": "2025-04-14T19:14:52.474Z",
+    "timestamp": "2025-05-15T15:36:44.217Z",
     "source": "new_vehicle_finance",
     "url": "https://www.blightsmotors.co.uk/used/volkswagen/transporter/20-tdi-150-highline-van/bideford/devon/228257",
     "dealer_id": "7447",
     "car_id": "24955358",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "GJ70FMO",
-        "registration_date": "30/09/2020",
-        "mileage": 56441,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 26388,
-        "total_price": 26388,
-        "deposit": 6597,
-        "balance": 19791,
-        "apr": 11.1,
-        "rate_of_interest": 5.83,
-        "term": 60,
-        "regular_payment": 425.97,
-        "final_payment": 435.97,
-        "total_amount_payable": 32165.2,
-        "total_charge_for_credit": 5777.2,
-        "amount_of_credit": 19791,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.blightsmotors.co.uk%20&usePersistedOptions=false&quoteeUid=9FFE6F14-DA6C-40DE-B3D3-AEA280EADAB4&class=lcv&condition=used&vrm=GJ70FMO&registrationDate=30/09/2020&capId=45902&cashPrice=21990&vatIncluded=false&vatQualifying=true&excludeVatAsDeposit=false&currentOdometerReading=56441&vehicleImageUrl=https://www.blightsmotors.co.uk/media/images/184673381/volkswagen-transporter-diesel.jpg&term=60&cashDeposit=2199&annualDistance=10000&random=ittv",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.blightsmotors.co.uk%20&usePersistedOptions=false&quoteeUid=9FFE6F14-DA6C-40DE-B3D3-AEA280EADAB4&class=lcv&condition=used&vrm=GJ70FMO&registrationDate=30%2F09%2F2020&capId=45902&cashPrice=21990&vatIncluded=false&vatQualifying=true&excludeVatAsDeposit=false&currentOdometerReading=56441&vehicleImageUrl=https%3A%2F%2Fwww.blightsmotors.co.uk%2Fmedia%2Fimages%2F184673381%2Fvolkswagen-transporter-diesel.jpg&term=60&cashDeposit=2199&annualDistance=10000&random=ittv&origin=https%3A%2F%2Fwww.blightsmotors.co.uk%2Fused%2Fvolkswagen%2Ftransporter%2F20-tdi-150-highline-van%2Fbideford%2Fdevon%2F228257&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

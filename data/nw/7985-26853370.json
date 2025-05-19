@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:42:02.500Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-ford-transit-custom-20-320-ecoblue-limited-crew-v-combi-van-white-manual-diesel/id-13540/",
+    "dealer_id": "7985",
+    "car_id": "26853370",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN71AYZ",
+        "registration_date": "24/09/2021",
+        "mileage": 43200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23280,
+        "total_price": 23280,
+        "deposit": 6790,
+        "balance": 16490,
+        "apr": 14.8,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 382.41,
+        "final_payment": 382.41,
+        "balloon": 0,
+        "total_amount_payable": 29734.6,
+        "total_charge_for_credit": 6454.6,
+        "amount_of_credit": 16490,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 382.41
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23280,
+        "total_price": 23280,
+        "deposit": 2910,
+        "balance": 16490,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 346.12,
+        "final_payment": 347.12,
+        "total_amount_payable": 27558.2,
+        "total_charge_for_credit": 4278.2,
+        "amount_of_credit": 16490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

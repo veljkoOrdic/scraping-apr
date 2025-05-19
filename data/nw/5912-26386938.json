@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:51:12.563Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carsalesni.com/used-bmw-5-series-omagh-fermanagh-6523448",
+    "dealer_id": "5912",
+    "car_id": "26386938",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL70YCX",
+        "registration_date": "28/02/2021",
+        "mileage": 53000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25900,
+        "total_price": 25900,
+        "deposit": 2590,
+        "balance": 23310,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 489.28,
+        "final_payment": 490.28,
+        "total_amount_payable": 31947.8,
+        "total_charge_for_credit": 6047.8,
+        "amount_of_credit": 23310,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25900,
+        "total_price": 25900,
+        "deposit": 2590,
+        "balance": 23310,
+        "apr": 9.9,
+        "rate_of_interest": 4.9,
+        "term": 49,
+        "regular_payment": 434.39,
+        "final_payment": 8839.48,
+        "total_amount_payable": 32280.2,
+        "total_charge_for_credit": 6380.2,
+        "amount_of_credit": 23310,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 8838.48,
+        "price_to_buy": 8839.48
+      }
+    ]
+  }
+]

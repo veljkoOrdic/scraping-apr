@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:01:09.867Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.teesvalleymotors.co.uk/used/ford-kuga-2.5-duratec-14.4kwh-st-line-x-edition-cvt-euro-6-(s/s)-5dr-in-darlington-durham/66549",
+    "dealer_id": "5222",
+    "car_id": "27186855",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "KUGA",
+        "variant": "ESTATE",
+        "derivative": "2.5 PHEV ST-Line X Edition CVT",
+        "registration_number": "NV73DJE",
+        "registration_date": "27/02/2024",
+        "mileage": 7618,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26230,
+        "total_price": 26230,
+        "deposit": 2623,
+        "balance": 23607,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 60,
+        "regular_payment": 516.77,
+        "final_payment": 516.77,
+        "total_amount_payable": 33629.2,
+        "total_charge_for_credit": 7399.2,
+        "amount_of_credit": 23607,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26230,
+        "total_price": 26230,
+        "deposit": 2623,
+        "balance": 23607,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 49,
+        "regular_payment": 444.02,
+        "final_payment": 10323,
+        "total_amount_payable": 34258.96,
+        "total_charge_for_credit": 8028.96,
+        "amount_of_credit": 23607,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 10313,
+        "price_to_buy": 10323
+      }
+    ]
+  }
+]

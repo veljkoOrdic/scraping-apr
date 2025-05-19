@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:13:31.566Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashridgevehicles.co.uk/used-tesla-model-y-little-gaddesden-hertfordshire-6849091",
+    "dealer_id": "7750",
+    "car_id": "27683818",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LJ73HCM",
+        "registration_date": "14/12/2023",
+        "mileage": 1700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28999,
+        "total_price": 28999,
+        "deposit": 2899,
+        "balance": 26100,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 666.85,
+        "final_payment": 667.85,
+        "total_amount_payable": 34908.8,
+        "total_charge_for_credit": 5909.8,
+        "amount_of_credit": 26100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28999,
+        "total_price": 28999,
+        "deposit": 2899,
+        "balance": 26100,
+        "apr": 10.9,
+        "rate_of_interest": 5.3,
+        "term": 49,
+        "regular_payment": 406.08,
+        "final_payment": 15572.8,
+        "total_amount_payable": 37963.64,
+        "total_charge_for_credit": 8964.64,
+        "amount_of_credit": 26100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 15571.8,
+        "price_to_buy": 15572.8
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T15:22:33.684Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.southandwestmotorsltd.co.uk/used-porsche-cayenne-bath-somerset-5416070",
+    "dealer_id": "4736",
+    "car_id": "26812597",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "C9AGM",
+        "registration_date": "25/11/2019",
+        "mileage": 31121,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 79885,
+        "total_price": 79885,
+        "deposit": 7988,
+        "balance": 71897,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1509.17,
+        "final_payment": 1509.17,
+        "balloon": 0,
+        "total_amount_payable": 98538.2,
+        "total_charge_for_credit": 18653.2,
+        "amount_of_credit": 71897,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1509.17
+      }
+    ]
+  }
+]

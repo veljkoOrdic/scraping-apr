@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:17.649Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tregoningsofcornwall.com/used-audi-tt-wadebridge-cornwall-6231959",
+    "dealer_id": "5305",
+    "car_id": "25217971",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU66YLA",
+        "registration_date": "08/09/2016",
+        "mileage": 53383,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 1899,
+        "balance": 17096,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 444.3,
+        "final_payment": 445.3,
+        "total_amount_payable": 23226.4,
+        "total_charge_for_credit": 4231.4,
+        "amount_of_credit": 17096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

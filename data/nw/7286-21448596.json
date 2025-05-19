@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:23:51.955Z",
+    "timestamp": "2025-05-15T15:10:23.905Z",
     "source": "new_vehicle_finance",
     "url": "https://www.polesworth-garage.com/used-cars/kia/kia-stonic-1-0t-gdi-99-2-5dr/",
     "dealer_id": "7286",
@@ -45,17 +45,40 @@
         "apr": 11.9,
         "rate_of_interest": 11.28,
         "term": 48,
-        "regular_payment": 267.31,
-        "final_payment": 5300,
-        "total_amount_payable": 17863.57,
-        "total_charge_for_credit": 4368.57,
+        "regular_payment": 268.52,
+        "final_payment": 5228,
+        "total_amount_payable": 17848.44,
+        "total_charge_for_credit": 4353.44,
         "amount_of_credit": 13495,
         "lender": "Suzuki Financial Services Limited",
         "annual_mileage": 8000,
         "contract_mileage": 32000,
         "excess_mileage_rate": 0.04,
-        "residual": 5290,
-        "price_to_buy": 5300
+        "residual": 5218,
+        "price_to_buy": 5228
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 0,
+        "balance": 13495,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 350.57,
+        "final_payment": 360.57,
+        "balloon": 0,
+        "total_amount_payable": 16837.36,
+        "total_charge_for_credit": 3342.36,
+        "amount_of_credit": 13495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 360.57
       }
     ]
   }

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:35:32.572Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cmcautomotive.co.uk/details/prestige-car-in-stockport/bmw/1series/1.5-116d-se-business-euro-6-ss-5dr/1425813/",
+    "dealer_id": "2349",
+    "car_id": "27596222",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "1 Series",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "116d SE Business [Nav/Servotronic]",
+        "registration_number": "LR18ULJ",
+        "registration_date": "30/05/2018",
+        "mileage": 65592,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8980,
+        "total_price": 8980,
+        "deposit": 898,
+        "balance": 8082,
+        "apr": 13.6,
+        "rate_of_interest": 13.6,
+        "term": 25,
+        "regular_payment": 211.01,
+        "final_payment": 4742,
+        "total_amount_payable": 10704.24,
+        "total_charge_for_credit": 1724.24,
+        "amount_of_credit": 8082,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 20833,
+        "excess_mileage_rate": 7,
+        "residual": 4732,
+        "price_to_buy": 4742
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8980,
+        "total_price": 8980,
+        "deposit": 898,
+        "balance": 8082,
+        "apr": 10.4,
+        "rate_of_interest": 5.4,
+        "term": 48,
+        "regular_payment": 204.74,
+        "final_payment": 204.74,
+        "total_amount_payable": 10725.52,
+        "total_charge_for_credit": 1745.52,
+        "amount_of_credit": 8082,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

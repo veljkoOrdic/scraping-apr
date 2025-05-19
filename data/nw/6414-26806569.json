@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:10:12.246Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-seat-cupra-leon-chelmsford-essex-6626676",
+    "dealer_id": "6414",
+    "car_id": "26806569",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX16JNN",
+        "registration_date": "01/03/2016",
+        "mileage": 86000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949,
+        "balance": 8546,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 57,
+        "regular_payment": 198.26,
+        "final_payment": 198.26,
+        "balloon": 0,
+        "total_amount_payable": 12249.82,
+        "total_charge_for_credit": 2754.82,
+        "amount_of_credit": 8546,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 198.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 949,
+        "balance": 8546,
+        "apr": 16.9,
+        "rate_of_interest": 8.99,
+        "term": 60,
+        "regular_payment": 206.43,
+        "final_payment": 216.43,
+        "total_amount_payable": 13344.8,
+        "total_charge_for_credit": 3849.8,
+        "amount_of_credit": 8546,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

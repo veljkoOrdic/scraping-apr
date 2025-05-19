@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:09:04.753Z",
+    "timestamp": "2025-05-15T16:01:06.745Z",
     "source": "new_vehicle_finance",
     "url": "https://www.ourcar.co.uk/used-ford-s-max-grainthorpe-lincolnshire-6645791",
     "dealer_id": "7667",
@@ -12,6 +12,29 @@
         "registration_date": "21/10/2020",
         "mileage": 39644,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16895,
+        "total_price": 16895,
+        "deposit": 1689,
+        "balance": 15206,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 395.04,
+        "final_payment": 405.04,
+        "balloon": 0,
+        "total_amount_payable": 20660.92,
+        "total_charge_for_credit": 3765.92,
+        "amount_of_credit": 15206,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 405.04
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 13.4,
         "rate_of_interest": 6.98,
         "term": 48,
-        "regular_payment": 282.47,
-        "final_payment": 7900.37,
-        "balloon": 7900.37,
-        "total_amount_payable": 22865.46,
-        "total_charge_for_credit": 5970.46,
+        "regular_payment": 284.12,
+        "final_payment": 7799.52,
+        "balloon": 7799.52,
+        "total_amount_payable": 22842.16,
+        "total_charge_for_credit": 5947.16,
         "amount_of_credit": 15206,
         "lender": "Auto Union Finance Ltd",
         "annual_mileage": 8000,
         "excess_mileage_rate": 0,
-        "residual": 7900.37,
-        "price_to_buy": 7900.37
+        "residual": 7799.52,
+        "price_to_buy": 7799.52
       },
       {
         "type": "finance_pcp",
@@ -66,19 +89,19 @@
         "deposit": 1689,
         "balance": 15206,
         "apr": 10.9,
-        "rate_of_interest": 5.31,
+        "rate_of_interest": 5.32,
         "term": 49,
-        "regular_payment": 249.1,
-        "final_payment": 8325.39,
-        "total_amount_payable": 21971.19,
-        "total_charge_for_credit": 5076.19,
+        "regular_payment": 250.88,
+        "final_payment": 8219.22,
+        "total_amount_payable": 21950.46,
+        "total_charge_for_credit": 5055.46,
         "amount_of_credit": 15206,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 8000,
         "contract_mileage": 32667,
-        "excess_mileage_rate": 0.1,
-        "residual": 8324.39,
-        "price_to_buy": 8325.39
+        "excess_mileage_rate": 0.08,
+        "residual": 8218.22,
+        "price_to_buy": 8219.22
       }
     ]
   }

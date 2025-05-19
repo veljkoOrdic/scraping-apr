@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:06.510Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beenhamgarage.co.uk/vehicle-details/used-volkswagen-polo-tsi-r-line-for-sale-in-reading-berkshire-u2778/",
+    "dealer_id": "527",
+    "car_id": "27216993",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE70FXZ",
+        "registration_date": "11/12/2020",
+        "mileage": 36996,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 1529.5,
+        "balance": 13765.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 345.67,
+        "final_payment": 346.67,
+        "total_amount_payable": 18122.66,
+        "total_charge_for_credit": 2827.66,
+        "amount_of_credit": 13765.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15295,
+        "total_price": 15295,
+        "deposit": 1529.5,
+        "balance": 13765.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.9,
+        "term": 49,
+        "regular_payment": 256.91,
+        "final_payment": 5197.68,
+        "total_amount_payable": 19058.86,
+        "total_charge_for_credit": 3763.86,
+        "amount_of_credit": 13765.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 5196.68,
+        "price_to_buy": 5197.68
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T16:37:12.357Z",
+    "timestamp": "2025-05-15T14:31:31.796Z",
     "source": "new_vehicle_finance",
     "url": "https://www.clubclasscarsyork.com/used-volkswagen-golf-dunnington-north-yorkshire-6815836",
     "dealer_id": "6887",
@@ -12,6 +12,29 @@
         "registration_date": "16/01/2020",
         "mileage": 60500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 385.7,
+        "final_payment": 395.7,
+        "balloon": 0,
+        "total_amount_payable": 25151,
+        "total_charge_for_credit": 5156,
+        "amount_of_credit": 17996,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 395.7
       },
       {
         "type": "finance_hp",
@@ -33,6 +56,29 @@
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
         "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 56,
+        "regular_payment": 325.21,
+        "final_payment": 5489.18,
+        "total_amount_payable": 25374.73,
+        "total_charge_for_credit": 5379.73,
+        "amount_of_credit": 17996,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 46667,
+        "excess_mileage_rate": 0.05,
+        "residual": 5488.18,
+        "price_to_buy": 5489.18
       }
     ]
   }

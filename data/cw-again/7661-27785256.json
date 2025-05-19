@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:03:20.566Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fratellicars.com/used/cars/mini/hatch/john-cooper-works-417",
+    "dealer_id": "7661",
+    "car_id": "27785256",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 John Cooper Works II [Chili Pk] 8Spd",
+        "registration_number": "AL20JCW",
+        "registration_date": "23/06/2020",
+        "mileage": 31660,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 314.96,
+        "final_payment": 8017,
+        "total_amount_payable": 25135.58,
+        "total_charge_for_credit": 5140.58,
+        "amount_of_credit": 17995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.09,
+        "residual": 8017,
+        "price_to_buy": 8017
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 451.74,
+        "final_payment": 461.74,
+        "total_amount_payable": 23693.02,
+        "total_charge_for_credit": 3698.02,
+        "amount_of_credit": 17995.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

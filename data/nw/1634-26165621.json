@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:51:59.486Z",
+    "timestamp": "2025-05-15T16:11:33.207Z",
     "source": "new_vehicle_finance",
     "url": "https://www.johnkeeble.co.uk/used-citroen-grand-c4-spacetourer-ipswich-suffolk-6464110",
     "dealer_id": "1634",
@@ -12,6 +12,29 @@
         "registration_date": "30/09/2020",
         "mileage": 42080,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13799,
+        "total_price": 13799,
+        "deposit": 1379,
+        "balance": 12420,
+        "apr": 11.7,
+        "rate_of_interest": 6.15,
+        "term": 60,
+        "regular_payment": 270.63,
+        "final_payment": 280.63,
+        "balloon": 0,
+        "total_amount_payable": 17626.8,
+        "total_charge_for_credit": 3827.8,
+        "amount_of_credit": 12420,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 280.63
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 10.9,
         "rate_of_interest": 5.65,
         "term": 49,
-        "regular_payment": 240.47,
-        "final_payment": 4590.25,
-        "total_amount_payable": 17511.81,
-        "total_charge_for_credit": 3712.81,
+        "regular_payment": 241.63,
+        "final_payment": 4520.5,
+        "total_amount_payable": 17497.74,
+        "total_charge_for_credit": 3698.74,
         "amount_of_credit": 12420,
         "lender": "Northridge Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.09,
-        "residual": 4580.25,
-        "price_to_buy": 4590.25
+        "residual": 4510.5,
+        "price_to_buy": 4520.5
       }
     ]
   }

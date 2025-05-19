@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T17:00:44.985Z",
+    "timestamp": "2025-05-15T18:53:08.776Z",
     "source": "new_vehicle_finance",
     "url": "https://www.suttonautomotive.co.uk/details/used-car-in-sutton-coldfield/volvo/xc90/2.0-d5-powerpulse-r-design-pro-auto-4wd-euro-6-ss-5dr/1328990/",
     "dealer_id": "4555",
     "car_id": "26431269",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP18OLE",
+        "registration_date": "09/03/2018",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26690,
+        "total_price": 26690,
+        "deposit": 2669,
+        "balance": 24021,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 504.22,
+        "final_payment": 505.22,
+        "total_amount_payable": 32923.2,
+        "total_charge_for_credit": 6233.2,
+        "amount_of_credit": 24021,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

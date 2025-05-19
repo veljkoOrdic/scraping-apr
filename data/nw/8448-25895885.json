@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:10:34.531Z",
+    "timestamp": "2025-05-15T17:52:17.408Z",
     "source": "new_vehicle_finance",
     "url": "https://jmvcars.co.uk/vehicle/name/mercedes-s-class-s-500-amg-line-premium/",
     "dealer_id": "8448",
@@ -12,6 +12,29 @@
         "registration_date": "31/03/2017",
         "mileage": 55000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39975,
+        "total_price": 39975,
+        "deposit": 2000,
+        "balance": 37975,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 814.17,
+        "final_payment": 814.17,
+        "balloon": 0,
+        "total_amount_payable": 50850.2,
+        "total_charge_for_credit": 10875.2,
+        "amount_of_credit": 37975,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 814.17
       },
       {
         "type": "finance_hp",

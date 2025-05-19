@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:09:38.297Z",
+    "timestamp": "2025-05-15T16:31:14.144Z",
     "source": "new_vehicle_finance",
     "url": "https://www.1stchoicemotors.co.uk/used/mclaren/720/v8-2dr-ssg-auto/london/greater-london/20978749",
     "dealer_id": "7884",
@@ -12,6 +12,29 @@
         "registration_date": "27/06/2017",
         "mileage": 30500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 128949,
+        "total_price": 128949,
+        "deposit": 2500,
+        "balance": 126449,
+        "apr": 14.3,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 2905.81,
+        "final_payment": 2905.81,
+        "balloon": 0,
+        "total_amount_payable": 176848.6,
+        "total_charge_for_credit": 47899.6,
+        "amount_of_credit": 126449,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 2905.81
       },
       {
         "type": "finance_hp",
@@ -44,18 +67,18 @@
         "balance": 126449,
         "apr": 12.4,
         "rate_of_interest": 12.4,
-        "term": 26,
-        "regular_payment": 3915.7,
-        "final_payment": 51513,
-        "total_amount_payable": 151905.5,
-        "total_charge_for_credit": 22956.5,
+        "term": 25,
+        "regular_payment": 4020.68,
+        "final_payment": 52077,
+        "total_amount_payable": 151073.32,
+        "total_charge_for_credit": 22124.32,
         "amount_of_credit": 126449,
         "lender": "Auto Union Finance Ltd",
         "annual_mileage": 10000,
-        "contract_mileage": 21667,
+        "contract_mileage": 20833,
         "excess_mileage_rate": 0.31,
-        "residual": 51512,
-        "price_to_buy": 51513
+        "residual": 52076,
+        "price_to_buy": 52077
       }
     ]
   }

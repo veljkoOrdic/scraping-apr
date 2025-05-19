@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:53:13.281Z",
+    "timestamp": "2025-05-15T17:16:02.646Z",
     "source": "new_vehicle_finance",
     "url": "https://www.platinumcarsalesltd.co.uk/used-cars/merthyr-tydfil-lamborghini-aventador-v12-50th-anniversary-ed/",
     "dealer_id": "8180",
@@ -12,6 +12,29 @@
         "registration_date": "02/01/2014",
         "mileage": 12000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 299995,
+        "total_price": 299995,
+        "deposit": 99995,
+        "balance": 200000,
+        "apr": 13,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 5292.58,
+        "final_payment": 5292.58,
+        "balloon": 0,
+        "total_amount_payable": 354038.84,
+        "total_charge_for_credit": 54043.84,
+        "amount_of_credit": 200000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 5292.58
       },
       {
         "type": "finance_hp",

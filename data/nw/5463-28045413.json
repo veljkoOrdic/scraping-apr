@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:48:23.142Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.prosportscars.co.uk/used-vauxhall-corsa-hull-north-humberside-6678170",
+    "dealer_id": "5463",
+    "car_id": "28045413",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP15UKO",
+        "registration_date": "21/05/2015",
+        "mileage": 90300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4400,
+        "total_price": 4400,
+        "deposit": 0,
+        "balance": 4400,
+        "apr": 7.9,
+        "rate_of_interest": 7.54,
+        "term": 48,
+        "regular_payment": 106.65,
+        "final_payment": 106.65,
+        "total_amount_payable": 5119.2,
+        "total_charge_for_credit": 719.2,
+        "amount_of_credit": 4400,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

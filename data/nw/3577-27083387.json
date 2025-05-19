@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:34:40.436Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lanarkshirecarsales.co.uk/used-renault-clio-north-lanarkshire-lanarkshire-6703629",
+    "dealer_id": "3577",
+    "car_id": "27083387",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NY19UDJ",
+        "registration_date": "23/07/2019",
+        "mileage": 110912,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5395,
+        "total_price": 5395,
+        "deposit": 0,
+        "balance": 5395,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 113.23,
+        "final_payment": 114.23,
+        "total_amount_payable": 6794.8,
+        "total_charge_for_credit": 1399.8,
+        "amount_of_credit": 5395,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

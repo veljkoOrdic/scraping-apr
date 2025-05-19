@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:39:25.350Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eclipsecarsales.co.uk/used-ford-transit-custom-winchester-hampshire-6521038",
+    "dealer_id": "4402",
+    "car_id": "26375481",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HY18ZVA",
+        "registration_date": "23/03/2018",
+        "mileage": 78000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11394,
+        "total_price": 11394,
+        "deposit": 0,
+        "balance": 11394,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 239.16,
+        "final_payment": 240.16,
+        "total_amount_payable": 14350.6,
+        "total_charge_for_credit": 2956.6,
+        "amount_of_credit": 11394,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:04:23.261Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/vauxhall/vivaro-panel/prime/20-turbo-d-3100-prime-panel-van-6dr-diesel-manual-l2-h1-euro-6-ss-145-ps/38718",
+    "dealer_id": "8107",
+    "car_id": "23911856",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY23MSV",
+        "registration_date": "06/03/2023",
+        "mileage": 20999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25194,
+        "total_price": 25194,
+        "deposit": 0,
+        "balance": 20995,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 545.64,
+        "final_payment": 546.64,
+        "total_amount_payable": 30390.72,
+        "total_charge_for_credit": 5196.72,
+        "amount_of_credit": 20995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

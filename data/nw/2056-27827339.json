@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:32:18.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kaimparkgarage.co.uk/used-land-rover-range-rover-sport-bathgate-west-lothian-6878063",
+    "dealer_id": "2056",
+    "car_id": "27827339",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OY69OOE",
+        "registration_date": "01/09/2019",
+        "mileage": 59000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 3549,
+        "balance": 31946,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 656.29,
+        "final_payment": 656.29,
+        "balloon": 0,
+        "total_amount_payable": 42926.4,
+        "total_charge_for_credit": 7431.4,
+        "amount_of_credit": 31946,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 656.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35495,
+        "total_price": 35495,
+        "deposit": 3549,
+        "balance": 31946,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 656.28,
+        "final_payment": 657.28,
+        "total_amount_payable": 42926.8,
+        "total_charge_for_credit": 7431.8,
+        "amount_of_credit": 31946,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

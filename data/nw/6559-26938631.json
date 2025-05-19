@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:23:58.876Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-bentley-continental-60-w12-gt-speed-auto-4wd-euro-coupe-black-sapphire-automatic-petrol/id-202501308586581/",
+    "dealer_id": "6559",
+    "car_id": "26938631",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD15BFV",
+        "registration_date": "30/04/2015",
+        "mileage": 36000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 38948,
+        "total_price": 38948,
+        "deposit": 13631,
+        "balance": 25317,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 531.29,
+        "final_payment": 541.29,
+        "balloon": 0,
+        "total_amount_payable": 45518.4,
+        "total_charge_for_credit": 6570.4,
+        "amount_of_credit": 25317,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 541.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38948,
+        "total_price": 38948,
+        "deposit": 13631,
+        "balance": 25317,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 59,
+        "regular_payment": 538.46,
+        "final_payment": 539.46,
+        "total_amount_payable": 45401.14,
+        "total_charge_for_credit": 6453.14,
+        "amount_of_credit": 25317,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

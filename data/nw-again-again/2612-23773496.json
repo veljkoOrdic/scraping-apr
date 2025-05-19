@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:44:14.215Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.smvcommercials.co.uk/vehicle-details/used-volkswagen-transporter-fridge-van-2-0tdi-t28-bluemotion-tech-trendline-for-sale-smv-car-lcv-u225/",
+    "dealer_id": "2612",
+    "car_id": "23773496",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WO68KHZ",
+        "registration_date": "13/02/2019",
+        "mileage": 153249,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11994,
+        "total_price": 11994,
+        "deposit": 2998.5,
+        "balance": 8995.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 204.95,
+        "final_payment": 214.95,
+        "balloon": 0,
+        "total_amount_payable": 15305.5,
+        "total_charge_for_credit": 3311.5,
+        "amount_of_credit": 8995.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 214.95
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:53:40.483Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.m-bcars.com/used-toyota-hi-lux-kinross-scotland-6939426",
+    "dealer_id": "2920",
+    "car_id": "28025871",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "HILUX",
+        "variant": "DIESEL",
+        "derivative": "Icon D/Cab Pick Up 2.4 D-4D [3.5t Tow]",
+        "registration_number": "SD20JKF",
+        "registration_date": "11/08/2020",
+        "mileage": 24385,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499,
+        "balance": 22496,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 492.44,
+        "final_payment": 493.44,
+        "total_amount_payable": 32046.4,
+        "total_charge_for_credit": 7051.4,
+        "amount_of_credit": 22496,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499,
+        "balance": 22496,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 49,
+        "regular_payment": 478.47,
+        "final_payment": 7978,
+        "total_amount_payable": 33443.56,
+        "total_charge_for_credit": 8448.56,
+        "amount_of_credit": 22496,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 18,
+        "residual": 7968,
+        "price_to_buy": 7978
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:35:11.712Z",
+    "timestamp": "2025-05-15T16:06:26.813Z",
     "source": "new_vehicle_finance",
     "url": "https://www.surecardirect.co.uk/details/used-van-in-fishponds/vauxhall/movano/0/773082/",
     "dealer_id": "1579",
@@ -12,6 +12,29 @@
         "registration_date": "18/07/2013",
         "mileage": 179921,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15594,
+        "total_price": 15594,
+        "deposit": 2599,
+        "balance": 12995,
+        "apr": 12.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 343.29,
+        "final_payment": 353.29,
+        "balloon": 0,
+        "total_amount_payable": 19086.92,
+        "total_charge_for_credit": 3492.92,
+        "amount_of_credit": 12995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 353.29
       }
     ]
   }

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:56:19.636Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kcsofsurrey.co.uk/used-bmw-x5-addlestone-surrey-6798434",
+    "dealer_id": "6776",
+    "car_id": "27597718",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ17NZS",
+        "registration_date": "31/03/2017",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 5598,
+        "balance": 22392,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 480.07,
+        "final_payment": 481.07,
+        "total_amount_payable": 34403.2,
+        "total_charge_for_credit": 6413.2,
+        "amount_of_credit": 22392,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

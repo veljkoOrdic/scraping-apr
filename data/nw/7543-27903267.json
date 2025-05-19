@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:51:06.433Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/jaguar/f-type/5.0-v8-r-auto-awd-euro-6-ss-2dr/1452181/",
+    "dealer_id": "7543",
+    "car_id": "27903267",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM21GYF",
+        "registration_date": "06/05/2021",
+        "mileage": 24000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1038.94,
+        "final_payment": 1039.94,
+        "total_amount_payable": 67836.9,
+        "total_charge_for_credit": 12841.9,
+        "amount_of_credit": 49495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 818.26,
+        "final_payment": 24864.92,
+        "total_amount_payable": 69640.9,
+        "total_charge_for_credit": 14645.9,
+        "amount_of_credit": 49495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.26,
+        "residual": 24863.92,
+        "price_to_buy": 24864.92
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:47:01.062Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kendrickcars.co.uk/used-land-rover-defender-nottingham-nottinghamshire-6907446",
+    "dealer_id": "2257",
+    "car_id": "27906167",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX23UVM",
+        "registration_date": "28/03/2023",
+        "mileage": 23000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69949,
+        "total_price": 69949,
+        "deposit": 10492,
+        "balance": 59457,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1493.08,
+        "final_payment": 1494.08,
+        "total_amount_payable": 82160.84,
+        "total_charge_for_credit": 12211.84,
+        "amount_of_credit": 59457,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69949,
+        "total_price": 69949,
+        "deposit": 10492,
+        "balance": 59457,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 1011.89,
+        "final_payment": 28174.3,
+        "total_amount_payable": 87237.02,
+        "total_charge_for_credit": 17288.02,
+        "amount_of_credit": 59457,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.28,
+        "residual": 28173.3,
+        "price_to_buy": 28174.3
+      }
+    ]
+  }
+]

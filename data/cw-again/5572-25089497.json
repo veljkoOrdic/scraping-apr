@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T18:34:41.456Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.vr-eps.com/used-ferrari-488-warrington-cheshire-6196636",
+    "dealer_id": "5572",
+    "car_id": "25089497",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ferrari",
+        "model": "488 GTB",
+        "variant": "COUPE",
+        "derivative": "2dr",
+        "registration_number": "DG67MLU",
+        "registration_date": "20/10/2017",
+        "mileage": 15747,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 168000,
+        "total_price": 168000,
+        "deposit": 16800,
+        "balance": 151200,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 2433.62,
+        "final_payment": 92685.6,
+        "total_amount_payable": 223865.74,
+        "total_charge_for_credit": 55865.74,
+        "amount_of_credit": 151200,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 168000,
+        "total_price": 168000,
+        "deposit": 16800,
+        "balance": 151200,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 3309.85,
+        "final_payment": 3309.85,
+        "total_amount_payable": 215391,
+        "total_charge_for_credit": 47391,
+        "amount_of_credit": 151200,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:09:01.617Z",
+    "timestamp": "2025-05-15T17:42:53.714Z",
     "source": "new_vehicle_finance",
     "url": "https://www.fleetwisevehiclesales.co.uk/used-mercedes-benz-vito-northern-island-northern-ireland-6682343",
     "dealer_id": "6118",
@@ -12,6 +12,29 @@
         "registration_date": "12/03/2019",
         "mileage": 31980,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 39594,
+        "total_price": 39594,
+        "deposit": 0,
+        "balance": 39594,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 1028.87,
+        "final_payment": 1038.87,
+        "balloon": 0,
+        "total_amount_payable": 49395.76,
+        "total_charge_for_credit": 9801.76,
+        "amount_of_credit": 39594,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1038.87
       }
     ]
   }

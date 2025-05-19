@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:57:37.828Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/bmw/1series/1.5-118i-m-sport-5-doorcomfort-packageonly-3-ownershexagon-alcantara-seats/1465145/",
+    "dealer_id": "6287",
+    "car_id": "28042236",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DP66OHK",
+        "registration_date": "23/12/2016",
+        "mileage": 39734,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11470,
+        "total_price": 11470,
+        "deposit": 1147,
+        "balance": 10323,
+        "apr": 15.9,
+        "rate_of_interest": 8.44,
+        "term": 60,
+        "regular_payment": 244.64,
+        "final_payment": 254.64,
+        "balloon": 0,
+        "total_amount_payable": 15835.4,
+        "total_charge_for_credit": 4365.4,
+        "amount_of_credit": 10323,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 254.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11470,
+        "total_price": 11470,
+        "deposit": 1147,
+        "balance": 10323,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 221.31,
+        "final_payment": 222.31,
+        "total_amount_payable": 14426.6,
+        "total_charge_for_credit": 2956.6,
+        "amount_of_credit": 10323,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

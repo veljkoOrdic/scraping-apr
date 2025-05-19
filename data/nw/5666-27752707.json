@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:24:45.160Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bettercar.co.uk/used-nissan-qashqai-henfield-west-sussex-6863815",
+    "dealer_id": "5666",
+    "car_id": "27752707",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EJ67CKC",
+        "registration_date": "30/12/2017",
+        "mileage": 50062,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10490,
+        "total_price": 10490,
+        "deposit": 1000,
+        "balance": 9490,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 199.2,
+        "final_payment": 199.2,
+        "balloon": 0,
+        "total_amount_payable": 12952,
+        "total_charge_for_credit": 2462,
+        "amount_of_credit": 9490,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 199.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10490,
+        "total_price": 10490,
+        "deposit": 1000,
+        "balance": 9490,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 203.34,
+        "final_payment": 213.34,
+        "total_amount_payable": 13210.4,
+        "total_charge_for_credit": 2720.4,
+        "amount_of_credit": 9490,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

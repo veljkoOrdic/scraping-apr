@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:41:47.832Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fgcars.uk/details/car-in-loughborough/lamborghini/urus/4.0-v8-biturbo-auto-4wd-euro-6-5dr/1461148/",
+    "dealer_id": "7959",
+    "car_id": "28004584",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "F1TYM",
+        "registration_date": "16/02/2021",
+        "mileage": 11477,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 199978,
+        "total_price": 199978,
+        "deposit": 0,
+        "balance": 75000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1641.78,
+        "final_payment": 1642.78,
+        "total_amount_payable": 223485.8,
+        "total_charge_for_credit": 23507.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 199978,
+        "total_price": 199978,
+        "deposit": 0,
+        "balance": 100000,
+        "apr": 11.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 1230.92,
+        "final_payment": 83308.79,
+        "total_amount_payable": 242370.95,
+        "total_charge_for_credit": 42392.95,
+        "amount_of_credit": 100000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.68,
+        "residual": 83307.79,
+        "price_to_buy": 83308.79
+      }
+    ]
+  }
+]

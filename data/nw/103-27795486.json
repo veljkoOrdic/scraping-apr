@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:34:25.783Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebbsfleetspecialistcars.co.uk/used-audi-a3-gravesend-kent-6877844",
+    "dealer_id": "103",
+    "car_id": "27795486",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF54PEF",
+        "registration_date": "18/07/2023",
+        "mileage": 1500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27000,
+        "total_price": 27000,
+        "deposit": 2700,
+        "balance": 24300,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 542.92,
+        "final_payment": 543.92,
+        "total_amount_payable": 35276.2,
+        "total_charge_for_credit": 8276.2,
+        "amount_of_credit": 24300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27000,
+        "total_price": 27000,
+        "deposit": 2700,
+        "balance": 24300,
+        "apr": 12.9,
+        "rate_of_interest": 6.24,
+        "term": 49,
+        "regular_payment": 416.32,
+        "final_payment": 14029.3,
+        "total_amount_payable": 36712.66,
+        "total_charge_for_credit": 9712.66,
+        "amount_of_credit": 24300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 14028.3,
+        "price_to_buy": 14029.3
+      }
+    ]
+  }
+]

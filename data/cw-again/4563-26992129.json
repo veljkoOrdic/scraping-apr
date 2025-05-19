@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:13:50.321Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ewens.co.uk/used-cars/honda-civic-2-0-h-i-mmd-elegance-ecvt-euro-6-s-s-5dr-sw72obk",
+    "dealer_id": "4563",
+    "car_id": "26992129",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "CIVIC",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 eHEV Elegance CVT",
+        "registration_number": "SW72OBK",
+        "registration_date": "19/10/2022",
+        "mileage": 13000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24475,
+        "total_price": 24475,
+        "deposit": 2447.5,
+        "balance": 22027.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 369.52,
+        "final_payment": 11806.62,
+        "total_amount_payable": 31621.56,
+        "total_charge_for_credit": 7146.56,
+        "amount_of_credit": 22027.5,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 6.72,
+        "residual": 11796.62,
+        "price_to_buy": 11806.62
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24475,
+        "total_price": 24475,
+        "deposit": 2447.5,
+        "balance": 22027.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 562.62,
+        "final_payment": 572.62,
+        "total_amount_payable": 29463.26,
+        "total_charge_for_credit": 4988.26,
+        "amount_of_credit": 22027.5,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:30:18.011Z",
+    "timestamp": "2025-05-15T16:49:25.737Z",
     "source": "new_vehicle_finance",
     "url": "https://www.newmacharmotors.co.uk/vehicle-details/used-audi-tt-tfsi-s-line-for-sale-in-newmachar-aberdeenshire-u1373/",
     "dealer_id": "5870",
@@ -12,6 +12,29 @@
         "registration_date": "01/12/2015",
         "mileage": 47000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 99,
+        "balance": 15896,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 344.26,
+        "final_payment": 354.26,
+        "balloon": 0,
+        "total_amount_payable": 20764.6,
+        "total_charge_for_credit": 4769.6,
+        "amount_of_credit": 15896,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 354.26
       },
       {
         "type": "finance_hp",

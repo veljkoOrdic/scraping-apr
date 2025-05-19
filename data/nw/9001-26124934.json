@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:38:39.093Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-mercedes-benz-glc-newry-northern-ireland-6454684",
+    "dealer_id": "9001",
+    "car_id": "26124934",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW69OYE",
+        "registration_date": "29/02/2020",
+        "mileage": 72000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23500,
+        "total_price": 23500,
+        "deposit": 2350,
+        "balance": 21150,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 453.44,
+        "final_payment": 454.44,
+        "total_amount_payable": 29557.4,
+        "total_charge_for_credit": 6057.4,
+        "amount_of_credit": 21150,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

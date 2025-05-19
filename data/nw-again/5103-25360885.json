@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:34:12.333Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.abcar-sales.co.uk/details/used-car-in-gunnislake/porsche/panamera/3.0d-v6-platinum-edition-tiptronics-euro-5-ss-5dr/1240361/",
+    "dealer_id": "5103",
+    "car_id": "25360885",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD13YZE",
+        "registration_date": "29/03/2013",
+        "mileage": 58000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19999,
+        "total_price": 19999,
+        "deposit": 1000,
+        "balance": 18999,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 34,
+        "regular_payment": 663.66,
+        "final_payment": 664.66,
+        "total_amount_payable": 23565.44,
+        "total_charge_for_credit": 3566.44,
+        "amount_of_credit": 18999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

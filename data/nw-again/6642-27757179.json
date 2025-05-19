@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:11:55.102Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebonyandivorymotors-scunthorpe.co.uk/used-audi-q7-scunthorpe-lincolnshire-6869068",
+    "dealer_id": "6642",
+    "car_id": "27757179",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ68GHF",
+        "registration_date": "15/11/2018",
+        "mileage": 79727,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 199,
+        "balance": 27791,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 722.28,
+        "final_payment": 722.28,
+        "balloon": 0,
+        "total_amount_payable": 34868.44,
+        "total_charge_for_credit": 6878.44,
+        "amount_of_credit": 27791,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 722.28
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 199,
+        "balance": 27791,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 722.28,
+        "final_payment": 722.28,
+        "total_amount_payable": 34868.44,
+        "total_charge_for_credit": 6878.44,
+        "amount_of_credit": 27791,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

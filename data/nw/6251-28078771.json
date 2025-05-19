@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:52:50.316Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.delphgarage.co.uk/used-ford-transit-halesowen-west-midlands-6952390",
+    "dealer_id": "6251",
+    "car_id": "28078771",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF22ABX",
+        "registration_date": "16/08/2022",
+        "mileage": 69000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13794,
+        "total_price": 13794,
+        "deposit": 0,
+        "balance": 11495,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 256.82,
+        "final_payment": 257.82,
+        "total_amount_payable": 17709.2,
+        "total_charge_for_credit": 3915.2,
+        "amount_of_credit": 11495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:40:01.158Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caldermotor.co.uk/used-mercedes-benz-c-class-west-lothian-scotland-6621715",
+    "dealer_id": "4826",
+    "car_id": "26822826",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA67UUX",
+        "registration_date": "27/09/2017",
+        "mileage": 61000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099,
+        "balance": 18896,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 388.19,
+        "final_payment": 388.19,
+        "balloon": 0,
+        "total_amount_payable": 25390.4,
+        "total_charge_for_credit": 4395.4,
+        "amount_of_credit": 18896,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 388.19
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099,
+        "balance": 18896,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 388.18,
+        "final_payment": 389.18,
+        "total_amount_payable": 25390.8,
+        "total_charge_for_credit": 4395.8,
+        "amount_of_credit": 18896,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

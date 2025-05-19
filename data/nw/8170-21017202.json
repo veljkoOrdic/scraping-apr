@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:45:20.478Z",
+    "timestamp": "2025-05-15T17:13:25.457Z",
     "source": "new_vehicle_finance",
     "url": "https://www.jmcvansales.co.uk/used-ford-transit-dukinfield-cheshire-5215121",
     "dealer_id": "8170",
@@ -12,6 +12,29 @@
         "registration_date": "17/10/2019",
         "mileage": 50000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17994,
+        "total_price": 17994,
+        "deposit": 2999,
+        "balance": 14995,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 307.92,
+        "final_payment": 317.92,
+        "balloon": 0,
+        "total_amount_payable": 21484.2,
+        "total_charge_for_credit": 3490.2,
+        "amount_of_credit": 14995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 317.92
       },
       {
         "type": "finance_hp",

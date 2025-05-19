@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T18:53:10.209Z",
+    "timestamp": "2025-05-15T15:24:14.325Z",
     "source": "new_vehicle_finance",
     "url": "https://www.pwmotorcompany.co.uk/used-skoda-superb-stoke-on-trent-staffordshire-6260366",
     "dealer_id": "468",
     "car_id": "25324526",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "BL21GMU",
-        "registration_date": "31/03/2021",
-        "mileage": 84000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 13995,
-        "total_price": 13995,
-        "deposit": 1399,
-        "balance": 12596,
-        "apr": 7.9,
-        "rate_of_interest": 4.12,
-        "term": 60,
-        "regular_payment": 253.15,
-        "final_payment": 254.15,
-        "total_amount_payable": 16589,
-        "total_charge_for_credit": 2594,
-        "amount_of_credit": 12596,
-        "lender": "MI Vehicle Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

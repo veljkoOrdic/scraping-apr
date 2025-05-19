@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:57:37.256Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tvscars.co.uk/details/used-van-in-bridgnorth/landrover/defender90/3.0-d200-mhev-hard-top-suv-auto-4wd-swb-euro-6-ss-3dr/1449150/",
+    "dealer_id": "6783",
+    "car_id": "27868440",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FX21VJC",
+        "registration_date": "02/03/2021",
+        "mileage": 58970,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43180.8,
+        "total_price": 43180.8,
+        "deposit": 7196.8,
+        "balance": 35984,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 903.64,
+        "final_payment": 903.64,
+        "balloon": 0,
+        "total_amount_payable": 50571.52,
+        "total_charge_for_credit": 7390.72,
+        "amount_of_credit": 35984,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 903.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43180.8,
+        "total_price": 43180.8,
+        "deposit": 7196.8,
+        "balance": 35984,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 903.62,
+        "final_payment": 904.62,
+        "total_amount_payable": 50571.56,
+        "total_charge_for_credit": 7390.76,
+        "amount_of_credit": 35984,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

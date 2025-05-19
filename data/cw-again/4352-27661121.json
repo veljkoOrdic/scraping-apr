@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:49:05.331Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.grimsbycarsltd.co.uk/details/used-car-in-grimsby/landrover/rangerover/4.4-sd-v8-autobiography-auto-4wd-euro-6-ss-5dr/1429895/",
+    "dealer_id": "4352",
+    "car_id": "27661121",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "4.4 SDV8biography",
+        "registration_number": "OY70SFJ",
+        "registration_date": "01/09/2020",
+        "mileage": 34000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 50990,
+        "total_price": 50990,
+        "deposit": 5099,
+        "balance": 45891,
+        "apr": 9.7,
+        "rate_of_interest": 4.9,
+        "term": 60,
+        "regular_payment": 959.5,
+        "final_payment": 959.5,
+        "total_amount_payable": 62669,
+        "total_charge_for_credit": 11679,
+        "amount_of_credit": 45891,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 50990,
+        "total_price": 50990,
+        "deposit": 5099,
+        "balance": 45891,
+        "apr": 9.8,
+        "rate_of_interest": 4.9,
+        "term": 48,
+        "regular_payment": 829.85,
+        "final_payment": 19391.1,
+        "total_amount_payable": 63493.05,
+        "total_charge_for_credit": 12503.05,
+        "amount_of_credit": 45891,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 18551.25,
+        "price_to_buy": 19391.1
+      }
+    ]
+  }
+]

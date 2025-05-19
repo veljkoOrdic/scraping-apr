@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:58:42.374Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.stocktonkia.co.uk/used-car/used/kia-niro-1.6-gdi-4-suv-5dr-petrol-hybrid-dct-euro-6-(s/s)-(139-bhp)-in-stockton-on-tees-teesside/63454",
+    "dealer_id": "5758",
+    "car_id": "26739463",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "NIRO",
+        "variant": "ESTATE",
+        "derivative": "1.6 GDi Hybrid 4 DCT",
+        "registration_number": "GJ70KXK",
+        "registration_date": "11/09/2020",
+        "mileage": 15476,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 3799.8,
+        "balance": 15199.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 48,
+        "regular_payment": 242.28,
+        "final_payment": 8161.93,
+        "total_amount_payable": 23591.17,
+        "total_charge_for_credit": 4592.17,
+        "amount_of_credit": 15199.2,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 8161.93,
+        "price_to_buy": 8161.93
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18999,
+        "total_price": 18999,
+        "deposit": 3799.8,
+        "balance": 15199.2,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 319.04,
+        "final_payment": 319.04,
+        "total_amount_payable": 22942.2,
+        "total_charge_for_credit": 3943.2,
+        "amount_of_credit": 15199.2,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

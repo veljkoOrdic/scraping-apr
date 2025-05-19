@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:59:06.764Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmallinggarage.co.uk/used/cars/vauxhall/viva/se-ac-cheap-small-first-car-1939",
+    "dealer_id": "5098",
+    "car_id": "27259551",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ17WVT",
+        "registration_date": "31/03/2017",
+        "mileage": 106000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3495,
+        "total_price": 3495,
+        "deposit": 0,
+        "balance": 3495,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 76.51,
+        "final_payment": 76.51,
+        "total_amount_payable": 4590.6,
+        "total_charge_for_credit": 1095.6,
+        "amount_of_credit": 3495,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

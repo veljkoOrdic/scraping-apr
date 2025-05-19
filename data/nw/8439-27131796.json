@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:07:56.985Z",
+    "timestamp": "2025-05-15T17:50:35.579Z",
     "source": "new_vehicle_finance",
     "url": "https://www.aglees-cars.com/used-seat-ibiza-galashiels-scotland-6702873",
     "dealer_id": "8439",
@@ -12,6 +12,29 @@
         "registration_date": "23/10/2014",
         "mileage": 64000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 500,
+        "balance": 4495,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 98.27,
+        "final_payment": 108.27,
+        "balloon": 0,
+        "total_amount_payable": 6406.2,
+        "total_charge_for_credit": 1411.2,
+        "amount_of_credit": 4495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 108.27
       },
       {
         "type": "finance_hp",

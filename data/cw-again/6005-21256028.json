@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-05-15T19:20:40.099Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sinclairgroup.co.uk/used-car-details/used-audi-e-tron-s-s-37000-kw-automatic-/id-202304226542983/",
+    "dealer_id": "6005",
+    "car_id": "21256028",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://services.codeweavers.net/api/action-availability/start-checkout",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/credit-check?",
+        "https://services.codeweavers.net/api/finance/quote/282bef28-3d8a-42bb-8521-37e80b04039b",
+        "https://services.codeweavers.net/api/websockets/pusher/vehicleChannelNameForQuote/282bef28-3d8a-42bb-8521-37e80b04039b",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/reserve?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/checkout?",
+        "https://services.codeweavers.net/api/websockets/pusher/authenticate"
+      ]
+    }
+  }
+]

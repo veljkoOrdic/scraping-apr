@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:54:31.480Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cardifftradesales.co.uk/used-ford-ranger-cardiff-south-glamorgan-6851685",
+    "dealer_id": "5531",
+    "car_id": "27723654",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP70NLY",
+        "registration_date": "30/09/2020",
+        "mileage": 59967,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22491,
+        "total_price": 22491,
+        "deposit": 2249,
+        "balance": 20242,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 415.83,
+        "final_payment": 416.83,
+        "total_amount_payable": 27199.8,
+        "total_charge_for_credit": 4708.8,
+        "amount_of_credit": 20242,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]
