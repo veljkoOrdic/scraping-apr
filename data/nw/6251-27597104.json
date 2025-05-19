@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:52:45.524Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.delphgarage.co.uk/used-ford-transit-connect-swb-halesowen-west-midlands-6830872",
+    "dealer_id": "6251",
+    "car_id": "27597104",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BG70LGU",
+        "registration_date": "17/11/2020",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8394,
+        "total_price": 8394,
+        "deposit": 0,
+        "balance": 6995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 156.28,
+        "final_payment": 157.28,
+        "total_amount_payable": 10776.8,
+        "total_charge_for_credit": 2382.8,
+        "amount_of_credit": 6995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

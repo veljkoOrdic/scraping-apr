@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:41:01.731Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.georgekingsley.co.uk/used/cars/bentley/continental/gt-v8-s-mds-mulliner-driving-spec-adaptive-cruise-control-ceramic-brakes-2900",
+    "dealer_id": "5725",
+    "car_id": "28029065",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LF18HNE",
+        "registration_date": "29/03/2018",
+        "mileage": 9950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 74995,
+        "total_price": 74995,
+        "deposit": 11249.25,
+        "balance": 63745.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1656.73,
+        "final_payment": 1656.73,
+        "balloon": 0,
+        "total_amount_payable": 90772.29,
+        "total_charge_for_credit": 15777.29,
+        "amount_of_credit": 63745.75,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1656.73
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 74995,
+        "total_price": 74995,
+        "deposit": 11249.25,
+        "balance": 63745.75,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1600.78,
+        "final_payment": 1601.78,
+        "total_amount_payable": 88087.69,
+        "total_charge_for_credit": 13092.69,
+        "amount_of_credit": 63745.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

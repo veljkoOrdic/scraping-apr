@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-05-15T14:35:26.348Z",
+    "source": "scuk_calculator_v1",
+    "url": "https://www.handmcars.co.uk/cars-for-sale/oxfordshire/car/1854/land-rover-range-rover-vogue-se",
+    "dealer_id": "3367",
+    "car_id": "26830064",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "Range Rover",
+        "derivative": "Vogue SE",
+        "variant": null,
+        "registration_number": "EY68UZB",
+        "registration_date": "2018-09-01",
+        "mileage": "65000",
+        "status": "USED"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "CS",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 3000,
+        "balance": null,
+        "apr": "14.9",
+        "rate_of_interest": "7.77",
+        "term": "48",
+        "regular_payment": "737.13",
+        "final_payment": "737.13",
+        "total_amount_payable": 38382.24,
+        "total_charge_for_credit": "8392.24",
+        "amount_of_credit": "26990.00",
+        "lender": "Santander Car",
+        "annual_mileage": null,
+        "contract_mileage": null,
+        "excess_mileage_rate": null,
+        "residual": null,
+        "price_to_buy": null
+      },
+      {
+        "type": "finance_ppb",
+        "name": "PPB",
+        "finance_type": "PPB",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 3000,
+        "balance": null,
+        "apr": "14.9",
+        "rate_of_interest": "7.71",
+        "term": "41",
+        "regular_payment": "831.6",
+        "final_payment": "831.6",
+        "total_amount_payable": 37095.6,
+        "total_charge_for_credit": "7105.6",
+        "amount_of_credit": "26990.00",
+        "lender": "Santander Car",
+        "annual_mileage": "10000",
+        "contract_mileage": "10000",
+        "excess_mileage_rate": null,
+        "residual": null,
+        "price_to_buy": null
+      }
+    ]
+  }
+]

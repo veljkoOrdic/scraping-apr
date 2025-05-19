@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T09:21:51.139Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.f1csm.co.uk/used-ferrari-f430-falkirk-stirlingshire-6864952",
+    "dealer_id": "28",
+    "car_id": "27740043",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GX07ZMY",
+        "registration_date": "24/07/2008",
+        "mileage": 15507,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 84990,
+        "total_price": 84990,
+        "deposit": 8499,
+        "balance": 76491,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1708.92,
+        "final_payment": 1718.92,
+        "balloon": 0,
+        "total_amount_payable": 111044.2,
+        "total_charge_for_credit": 26054.2,
+        "amount_of_credit": 76491,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1718.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 84990,
+        "total_price": 84990,
+        "deposit": 69990,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 93400.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

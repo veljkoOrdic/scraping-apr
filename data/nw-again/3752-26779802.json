@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:46:02.704Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stanleystreetmotors.co.uk/details/car-in-lowestoft/audi/q5/2.0-tdi-40-sport-s-tronic-quattro-euro-6-ss-5dr/1116383/",
+    "dealer_id": "3752",
+    "car_id": "26779802",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN69ZTD",
+        "registration_date": "16/09/2019",
+        "mileage": 38289,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22695,
+        "total_price": 22695,
+        "deposit": 0,
+        "balance": 22695,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 507.06,
+        "final_payment": 508.06,
+        "total_amount_payable": 30424.6,
+        "total_charge_for_credit": 7729.6,
+        "amount_of_credit": 22695,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

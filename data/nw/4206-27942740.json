@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:04:33.571Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hamcarcentre.co.uk/used-land-rover-discovery-poole-dorset-6915875",
+    "dealer_id": "4206",
+    "car_id": "27942740",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK22UEN",
+        "registration_date": "27/03/2022",
+        "mileage": 45000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53988,
+        "total_price": 53988,
+        "deposit": 0,
+        "balance": 44990,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 944.36,
+        "final_payment": 945.36,
+        "total_amount_payable": 65660.6,
+        "total_charge_for_credit": 11672.6,
+        "amount_of_credit": 44990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

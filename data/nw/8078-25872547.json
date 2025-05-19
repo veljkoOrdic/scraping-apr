@@ -1,18 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T22:14:50.166Z",
+    "timestamp": "2025-05-15T17:01:42.911Z",
     "source": "new_vehicle_finance",
     "url": "https://www.manchestervansales.com/used-volkswagen-crafter-stalybridge-greater-manchester-6378658",
     "dealer_id": "8078",
     "car_id": "25872547",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "MF74XCK",
-        "registration_date": "19/12/2024",
-        "mileage": 100,
-        "status": "New"
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.manchestervansales.com&quoteeUid=6a0b902087a24e24ba65c89dc3a26989&class=lcv&condition=used&vrm=MF74XCK&registrationDate=08%2F10%2F2024&capCode=&capId=&cashPrice=51995&currentOdometerReading=100&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6378%2F6378658%2Ffull%2F151944512.jpg&term=60&cashDeposit=&cashDepositType=flatRate&vatIncluded=false&vatQualifying=true&annualDistance=10000&dateOnForecourt=03%2F10%2F2024&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.manchestervansales.com&quoteeUid=6a0b902087a24e24ba65c89dc3a26989&class=lcv&condition=used&vrm=MF74XCK&registrationDate=08%2F10%2F2024&capCode=&capId=&cashPrice=51995&currentOdometerReading=100&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6378%2F6378658%2Ffull%2F151944512.jpg&term=60&cashDeposit=&cashDepositType=flatRate&vatIncluded=false&vatQualifying=true&annualDistance=10000&dateOnForecourt=03%2F10%2F2024&usePersistedOptions=false&origin=https%3A%2F%2Fwww.manchestervansales.com%2Fused-volkswagen-crafter-stalybridge-greater-manchester-6378658&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:22:18.352Z",
+    "timestamp": "2025-05-15T15:35:44.900Z",
     "source": "new_vehicle_finance",
     "url": "https://www.twells.co.uk/used/ford/transit/20-ecoblue-130ps-l3-h2-leader-van/billinghay/lincolnshire/231936",
     "dealer_id": "5364",
@@ -12,6 +12,29 @@
         "registration_date": "09/12/2021",
         "mileage": 17000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22794,
+        "total_price": 22794,
+        "deposit": 4799,
+        "balance": 17995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 402.06,
+        "final_payment": 402.06,
+        "balloon": 0,
+        "total_amount_payable": 28922.6,
+        "total_charge_for_credit": 6128.6,
+        "amount_of_credit": 17995,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 402.06
       }
     ]
   }

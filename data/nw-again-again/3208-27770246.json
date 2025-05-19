@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T14:02:00.902Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caledoniavehiclesolutions.co.uk/used-mg-mg-hs-ayr-ayrshire-6869535",
+    "dealer_id": "3208",
+    "car_id": "27770246",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "XHZ8991",
+        "registration_date": "15/12/2020",
+        "mileage": 22391,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299,
+        "balance": 11696,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 245.49,
+        "final_payment": 246.49,
+        "total_amount_payable": 16029.4,
+        "total_charge_for_credit": 3034.4,
+        "amount_of_credit": 11696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299,
+        "balance": 11696,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 208.65,
+        "final_payment": 4980.66,
+        "total_amount_payable": 16294.86,
+        "total_charge_for_credit": 3299.86,
+        "amount_of_credit": 11696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 4979.66,
+        "price_to_buy": 4980.66
+      }
+    ]
+  }
+]

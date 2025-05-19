@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:55:20.952Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/alfaromeo/stelvio/2.9-v6-bi-turbo-quadrifoglio-auto-q4-awd-euro-6-ss-5dr/1415123/",
+    "dealer_id": "6754",
+    "car_id": "27477105",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN68LKK",
+        "registration_date": "08/11/2018",
+        "mileage": 19900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34999,
+        "total_price": 34999,
+        "deposit": 1749.95,
+        "balance": 33249.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 922.75,
+        "final_payment": 923.75,
+        "total_amount_payable": 46042.95,
+        "total_charge_for_credit": 11043.95,
+        "amount_of_credit": 33249.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

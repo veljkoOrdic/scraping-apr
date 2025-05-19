@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:46:54.212Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aberdeenautos.co.uk/vans/volkswagen/caddy/2.0-tdi-c20-bluemotion-tech-trendline/1441941/",
+    "dealer_id": "9128",
+    "car_id": "27817388",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GF68DLX",
+        "registration_date": "29/10/2018",
+        "mileage": 47240,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 1299.5,
+        "balance": 11695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 245.48,
+        "final_payment": 246.48,
+        "total_amount_payable": 16029.3,
+        "total_charge_for_credit": 3034.3,
+        "amount_of_credit": 11695.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

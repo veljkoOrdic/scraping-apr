@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:58:48.654Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aphynes.com/details/used-car-in-altrincham/ford/fiesta/1.25-zetec-euro-5-3dr/1457320/",
+    "dealer_id": "3054",
+    "car_id": "27957273",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML64YGA",
+        "registration_date": "23/10/2014",
+        "mileage": 108306,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3250,
+        "total_price": 3250,
+        "deposit": 812.5,
+        "balance": 2437.5,
+        "apr": 18.2,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 60.4,
+        "final_payment": 60.4,
+        "balloon": 0,
+        "total_amount_payable": 4436.5,
+        "total_charge_for_credit": 1186.5,
+        "amount_of_credit": 2437.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 60.4
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3250,
+        "total_price": 3250,
+        "deposit": 812.5,
+        "balance": 2437.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 53.35,
+        "final_payment": 54.35,
+        "total_amount_payable": 4014.5,
+        "total_charge_for_credit": 764.5,
+        "amount_of_credit": 2437.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

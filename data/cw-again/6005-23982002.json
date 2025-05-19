@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-05-15T19:21:08.951Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sinclairgroup.co.uk/used-car-details/used-audi-q2-sport-30-tfsi-110-ps-6-speed-manual-petrol/id-202404118514379/",
+    "dealer_id": "6005",
+    "car_id": "23982002",
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://plugins.codeweavers.net/scripts/v1/platform/launcher?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://plugins.codeweavers.net/scripts/v1/codeweavers/finance?ApiKey=2Pe6cr2gI4P7vBOqB1",
+        "https://services.codeweavers.net/api/action-availability/start-checkout",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/credit-check?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/checkout?",
+        "https://services.codeweavers.net/api/app-configurations/customer-commerce/reserve?",
+        "https://services.codeweavers.net/api/websockets/pusher/vehicleChannelNameForQuote/84e447e0-87d1-40d7-a1c8-be41a7f12962",
+        "https://services.codeweavers.net/api/finance/quote/84e447e0-87d1-40d7-a1c8-be41a7f12962",
+        "https://services.codeweavers.net/api/websockets/pusher/authenticate"
+      ]
+    }
+  }
+]

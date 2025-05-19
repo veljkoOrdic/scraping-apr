@@ -1,0 +1,64 @@
+[
+  {
+    "timestamp": "2025-05-15T18:53:17.267Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bexhillmotors.co.uk/used/cars/porsche/taycan/turbo-93kwh-sport-design-pack-pan-roof-1726",
+    "dealer_id": "6749",
+    "car_id": "27933532",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BC70UZJ",
+        "registration_date": "18/12/2020",
+        "mileage": 52000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 48999,
+        "total_price": 48999,
+        "deposit": 1000,
+        "balance": 47999,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 1094.24,
+        "final_payment": 1094.24,
+        "balloon": 0,
+        "total_amount_payable": 66654.4,
+        "total_charge_for_credit": 17655.4,
+        "amount_of_credit": 47999,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1094.24
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48999,
+        "total_price": 48999,
+        "deposit": 1000,
+        "balance": 47999,
+        "apr": 13.9,
+        "rate_of_interest": 7.25,
+        "term": 49,
+        "regular_payment": 999.11,
+        "final_payment": 18402.3,
+        "total_amount_payable": 67359.58,
+        "total_charge_for_credit": 18360.58,
+        "amount_of_credit": 47999,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 18402.3,
+        "price_to_buy": 18402.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T11:52:52.724Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newtonsofashley.com/used-audi-a8-new-milton-hampshire-6758761",
+    "dealer_id": "176",
+    "car_id": "27291630",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK64UOS",
+        "registration_date": "14/11/2014",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 2299,
+        "balance": 20696,
+        "apr": 13.6,
+        "rate_of_interest": 6.74,
+        "term": 60,
+        "regular_payment": 468.98,
+        "final_payment": 468.98,
+        "balloon": 0,
+        "total_amount_payable": 30437.8,
+        "total_charge_for_credit": 7442.8,
+        "amount_of_credit": 20696,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 468.98
+      }
+    ]
+  }
+]

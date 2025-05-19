@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:01:33.036Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ovms.co.uk/used-car-details/used-land-rover-discovery-30-d300-mhev-hse-suv-5dr-dies-automatic-diesel/id-202504030926669/",
+    "dealer_id": "1504",
+    "car_id": "27685985",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DN21MOF",
+        "registration_date": "30/04/2021",
+        "mileage": 37158,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 52794,
+        "total_price": 52794,
+        "deposit": 1000,
+        "balance": 51794,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1157.11,
+        "final_payment": 1167.11,
+        "balloon": 0,
+        "total_amount_payable": 70436.6,
+        "total_charge_for_credit": 17642.6,
+        "amount_of_credit": 51794,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1167.11
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52794,
+        "total_price": 52794,
+        "deposit": 1000,
+        "balance": 51794,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 1157.23,
+        "final_payment": 1157.23,
+        "total_amount_payable": 70433.8,
+        "total_charge_for_credit": 17639.8,
+        "amount_of_credit": 51794,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

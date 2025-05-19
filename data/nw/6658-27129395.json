@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:41:19.512Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-audi-a3-15-tfsi-35-sport-saloon-4dr-p-saloon-mythos-black-metallic-automatic-petrol/id-3791/",
+    "dealer_id": "6658",
+    "car_id": "27129395",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO23PTU",
+        "registration_date": "30/06/2023",
+        "mileage": 12900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 7198,
+        "balance": 16797,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 447.5,
+        "final_payment": 457.5,
+        "total_amount_payable": 28688,
+        "total_charge_for_credit": 4693,
+        "amount_of_credit": 16797,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 7198,
+        "balance": 16797,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 268.97,
+        "final_payment": 11350,
+        "total_amount_payable": 31189.59,
+        "total_charge_for_credit": 7194.59,
+        "amount_of_credit": 16797,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 11340,
+        "price_to_buy": 11350
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:41:08.092Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjwarner.co.uk/used-car-details/used-volkswagen-t-roc-10-tsi-gpf-se-suv-5dr-petrol-suv-pure-white-manual-petrol/id-15649/",
+    "dealer_id": "6658",
+    "car_id": "27575985",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GD69OZF",
+        "registration_date": "20/01/2020",
+        "mileage": 50365,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 4348,
+        "balance": 10147,
+        "apr": 13.4,
+        "rate_of_interest": 13.36,
+        "term": 48,
+        "regular_payment": 270.25,
+        "final_payment": 280.25,
+        "total_amount_payable": 17330,
+        "total_charge_for_credit": 2835,
+        "amount_of_credit": 10147,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 4348,
+        "balance": 10147,
+        "apr": 13.4,
+        "rate_of_interest": 13.38,
+        "term": 48,
+        "regular_payment": 167.81,
+        "final_payment": 6535,
+        "total_amount_payable": 18770.07,
+        "total_charge_for_credit": 4275.07,
+        "amount_of_credit": 10147,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 0,
+        "residual": 6525,
+        "price_to_buy": 6535
+      }
+    ]
+  }
+]

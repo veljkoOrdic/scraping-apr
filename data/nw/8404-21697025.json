@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T23:46:29.836Z",
+    "timestamp": "2025-05-15T17:40:02.819Z",
     "source": "new_vehicle_finance",
     "url": "https://www.autosnorthwest.co.uk/used-skoda-fabia-oldham-greater-manchester-2017500",
     "dealer_id": "8404",
     "car_id": "21697025",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT13HUV",
+        "registration_date": "01/03/2013",
+        "mileage": 57623,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12500,
+        "total_price": 12500,
+        "deposit": 1250,
+        "balance": 11250,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 241.07,
+        "final_payment": 251.07,
+        "balloon": 0,
+        "total_amount_payable": 15724.2,
+        "total_charge_for_credit": 3224.2,
+        "amount_of_credit": 11250,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 251.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12500,
+        "total_price": 12500,
+        "deposit": 1250,
+        "balance": 11250,
+        "apr": 10.5,
+        "rate_of_interest": 5.49,
+        "term": 56,
+        "regular_payment": 252.37,
+        "final_payment": 253.37,
+        "total_amount_payable": 15383.72,
+        "total_charge_for_credit": 2883.72,
+        "amount_of_credit": 11250,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

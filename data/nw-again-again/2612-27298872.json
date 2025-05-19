@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:53:34.242Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.smvcommercials.co.uk/vehicle-details/used-volkswagen-transporter-tdi-t30-startline-for-sale-smv-car-lcv-u407/",
+    "dealer_id": "2612",
+    "car_id": "27298872",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN71SOA",
+        "registration_date": "13/10/2021",
+        "mileage": 55254,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 5098.5,
+        "balance": 15295.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 348.57,
+        "final_payment": 358.57,
+        "balloon": 0,
+        "total_amount_payable": 26022.7,
+        "total_charge_for_credit": 5628.7,
+        "amount_of_credit": 15295.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 358.57
+      }
+    ]
+  }
+]

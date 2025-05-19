@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:56:47.197Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.desirablecar.com/used-tesla-model-3-coalville-leicestershire-6724397",
+    "dealer_id": "5957",
+    "car_id": "27156775",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MW71KLK",
+        "registration_date": "22/12/2021",
+        "mileage": 38358,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19887,
+        "total_price": 19887,
+        "deposit": 2983,
+        "balance": 16904,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 347.26,
+        "final_payment": 348.26,
+        "total_amount_payable": 23819.6,
+        "total_charge_for_credit": 3932.6,
+        "amount_of_credit": 16904,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19887,
+        "total_price": 19887,
+        "deposit": 2983,
+        "balance": 16904,
+        "apr": 8.9,
+        "rate_of_interest": 4.39,
+        "term": 49,
+        "regular_payment": 284.73,
+        "final_payment": 7598.8,
+        "total_amount_payable": 24248.84,
+        "total_charge_for_credit": 4361.84,
+        "amount_of_credit": 16904,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.1,
+        "residual": 7597.8,
+        "price_to_buy": 7598.8
+      }
+    ]
+  }
+]

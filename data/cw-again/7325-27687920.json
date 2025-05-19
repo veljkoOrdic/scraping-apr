@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:27:00.664Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kingsbridgeautos.co.uk/used-audi-a5-cabriolet-york-yorkshire-6852442",
+    "dealer_id": "7325",
+    "car_id": "27687920",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A5",
+        "variant": "Edition 1",
+        "derivative": "A5 Cabriolet Edition 1 40 TFSI 204 PS S tronic",
+        "registration_number": "GX71XCB",
+        "registration_date": "09/12/2021",
+        "mileage": 21750,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30746,
+        "total_price": 30746,
+        "deposit": 3074,
+        "balance": 27672,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 515.43,
+        "final_payment": 11858.37,
+        "total_amount_payable": 39157.58,
+        "total_charge_for_credit": 8411.58,
+        "amount_of_credit": 27672,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 7.63,
+        "residual": 11858.37,
+        "price_to_buy": 11858.37
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30746,
+        "total_price": 30746,
+        "deposit": 3074,
+        "balance": 27672,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 593.27,
+        "final_payment": 594.27,
+        "total_amount_payable": 38671.2,
+        "total_charge_for_credit": 7925.2,
+        "amount_of_credit": 27672,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:46:35.182Z",
+    "timestamp": "2025-05-15T14:57:56.801Z",
     "source": "new_vehicle_finance",
     "url": "https://www.carltonmotorco.co.uk/used-iveco-eurocargo-darlington-county-durham-1528551",
     "dealer_id": "7209",
@@ -12,6 +12,29 @@
         "registration_date": "10/04/2013",
         "mileage": 104929,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5940,
+        "total_price": 5940,
+        "deposit": 990,
+        "balance": 4950,
+        "apr": 13.8,
+        "rate_of_interest": 5.49,
+        "term": 60,
+        "regular_payment": 112.58,
+        "final_payment": 112.58,
+        "balloon": 0,
+        "total_amount_payable": 7744.8,
+        "total_charge_for_credit": 1804.8,
+        "amount_of_credit": 4950,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 112.58
       }
     ]
   }

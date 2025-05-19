@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:24:08.732Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-land-rover-defender-110-30-d300-mhev-x-dynamic-hse-ha-suv-carpathian-grey-with-contrast-black-roof-automatic-diesel/id-202502078854710/",
+    "dealer_id": "6559",
+    "car_id": "27016692",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DU23YSD",
+        "registration_date": "01/03/2023",
+        "mileage": 64000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 57600,
+        "total_price": 57600,
+        "deposit": 26400,
+        "balance": 31200,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 654.78,
+        "final_payment": 664.78,
+        "balloon": 0,
+        "total_amount_payable": 65696.8,
+        "total_charge_for_credit": 8096.8,
+        "amount_of_credit": 31200,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 664.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 57600,
+        "total_price": 57600,
+        "deposit": 16800,
+        "balance": 31200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 654.9,
+        "final_payment": 655.9,
+        "total_amount_payable": 65695,
+        "total_charge_for_credit": 8095,
+        "amount_of_credit": 31200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

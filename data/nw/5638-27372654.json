@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:20:46.103Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carnetltd.co.uk/vehicle-details/used-audi-s4-tdi-v6-black-edition-for-sale-in-burntwood-u2178/",
+    "dealer_id": "5638",
+    "car_id": "27372654",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC69XRS",
+        "registration_date": "16/10/2019",
+        "mileage": 41500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26890,
+        "total_price": 26890,
+        "deposit": 0,
+        "balance": 26890,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 576.5,
+        "final_payment": 577.5,
+        "total_amount_payable": 34591,
+        "total_charge_for_credit": 7701,
+        "amount_of_credit": 26890,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

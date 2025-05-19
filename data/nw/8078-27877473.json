@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:02:06.582Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-mercedes-benz-sprinter-stalybridge-greater-manchester-6901528",
+    "dealer_id": "8078",
+    "car_id": "27877473",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV74GXX",
+        "registration_date": "15/01/2025",
+        "mileage": 500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 119994,
+        "total_price": 119994,
+        "deposit": 19999,
+        "balance": 99995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 2143.74,
+        "final_payment": 2153.74,
+        "balloon": 0,
+        "total_amount_payable": 148633.4,
+        "total_charge_for_credit": 28639.4,
+        "amount_of_credit": 99995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 2153.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 119994,
+        "total_price": 119994,
+        "deposit": 19999,
+        "balance": 99995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2098.97,
+        "final_payment": 2098.97,
+        "total_amount_payable": 145937.2,
+        "total_charge_for_credit": 25943.2,
+        "amount_of_credit": 99995,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

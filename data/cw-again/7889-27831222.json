@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:17:16.279Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rsmotorhouse.co.uk/details/used-car-in-leeds/bmw/x5/4.4i-v8-competition-auto-xdrive-euro-6-ss-5dr/1445649/",
+    "dealer_id": "7889",
+    "car_id": "27831222",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X5",
+        "variant": "",
+        "derivative": "X5 M Competition",
+        "registration_number": "YH22ZDL",
+        "registration_date": "22/03/2022",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72990,
+        "total_price": 72990,
+        "deposit": 7299,
+        "balance": 65691,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 49,
+        "regular_payment": 1204.91,
+        "final_payment": 28276,
+        "total_amount_payable": 93410.68,
+        "total_charge_for_credit": 20420.68,
+        "amount_of_credit": 65691,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 18.99,
+        "residual": 28266,
+        "price_to_buy": 28276
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72990,
+        "total_price": 72990,
+        "deposit": 7299,
+        "balance": 65691,
+        "apr": 10.9,
+        "rate_of_interest": 10.39,
+        "term": 60,
+        "regular_payment": 1408.4,
+        "final_payment": 1408.4,
+        "total_amount_payable": 91803,
+        "total_charge_for_credit": 18813,
+        "amount_of_credit": 65691,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

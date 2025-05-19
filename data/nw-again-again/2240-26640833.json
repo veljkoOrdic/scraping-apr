@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:38:10.761Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-vauxhall-astra-newark-nottinghamshire-6584573",
+    "dealer_id": "2240",
+    "car_id": "26640833",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR06NXT",
+        "registration_date": "03/05/2006",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3500,
+        "total_price": 3500,
+        "deposit": 175,
+        "balance": 3325,
+        "apr": 12.4,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 73.42,
+        "final_payment": 83.42,
+        "balloon": 0,
+        "total_amount_payable": 4590.2,
+        "total_charge_for_credit": 1090.2,
+        "amount_of_credit": 3325,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 83.42
+      }
+    ]
+  }
+]

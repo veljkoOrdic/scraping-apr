@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:43:50.524Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jamesglen.co.uk/used/cars/bmw/7-series/3-0-730d-xdrive-m-sport-mhev-auto-4wd-4dr-108",
+    "dealer_id": "3695",
+    "car_id": "27795601",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SC21YNK",
+        "registration_date": "24/06/2021",
+        "mileage": 45634,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34985,
+        "total_price": 34985,
+        "deposit": 0,
+        "balance": 34985,
+        "apr": 8.9,
+        "rate_of_interest": 4.67,
+        "term": 60,
+        "regular_payment": 719.33,
+        "final_payment": 720.33,
+        "total_amount_payable": 43160.8,
+        "total_charge_for_credit": 8175.8,
+        "amount_of_credit": 34985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 34985,
+        "total_price": 34985,
+        "deposit": 0,
+        "balance": 34985,
+        "apr": 8.9,
+        "rate_of_interest": 4.43,
+        "term": 49,
+        "regular_payment": 654.15,
+        "final_payment": 12002.98,
+        "total_amount_payable": 43402.18,
+        "total_charge_for_credit": 8417.18,
+        "amount_of_credit": 34985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 12001.98,
+        "price_to_buy": 12002.98
+      }
+    ]
+  }
+]

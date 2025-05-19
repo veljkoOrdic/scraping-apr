@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:53:36.534Z",
+    "timestamp": "2025-05-15T17:16:17.505Z",
     "source": "new_vehicle_finance",
     "url": "https://www.platinumcarsalesltd.co.uk/used-cars/merthyr-tydfil-land-rover-range-rover-evoque-si4-dynamic-lux/",
     "dealer_id": "8180",
@@ -12,6 +12,29 @@
         "registration_date": "22/05/2012",
         "mileage": 106000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10995,
+        "total_price": 10995,
+        "deposit": 1099.5,
+        "balance": 9895.5,
+        "apr": 15.1,
+        "rate_of_interest": 6.75,
+        "term": 48,
+        "regular_payment": 271.08,
+        "final_payment": 271.08,
+        "balloon": 0,
+        "total_amount_payable": 14111.34,
+        "total_charge_for_credit": 3116.34,
+        "amount_of_credit": 9895.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 271.08
       },
       {
         "type": "finance_hp",

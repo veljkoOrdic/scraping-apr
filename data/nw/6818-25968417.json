@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:01:23.972Z",
+    "timestamp": "2025-05-15T19:06:11.698Z",
     "source": "new_vehicle_finance",
     "url": "https://www.leedsmotorcompany.co.uk/used-mercedes-benz-a-class-leeds-west-yorkshire-6358998",
     "dealer_id": "6818",
@@ -12,6 +12,29 @@
         "registration_date": "16/12/2015",
         "mileage": 54000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 299,
+        "balance": 12196,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 327.55,
+        "final_payment": 337.55,
+        "balloon": 0,
+        "total_amount_payable": 16031.4,
+        "total_charge_for_credit": 3536.4,
+        "amount_of_credit": 12196,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 337.55
       }
     ]
   }

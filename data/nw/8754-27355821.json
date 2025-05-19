@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T01:12:33.808Z",
+    "timestamp": "2025-05-15T18:19:22.634Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sjonesltd.co.uk/cars-for-sale/bournemouth/car/1178/tesla-model-s-long-range-plus-over-350-miles-range-autopilot-adaptive-air-suspension-immersive-sound-system-premium-black-interior-2-year-extended-warranty",
     "dealer_id": "8754",
     "car_id": "27355821",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "YB70RWJ",
-        "registration_date": "12/12/2020",
-        "mileage": 37859,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 36000,
-        "total_price": 36000,
-        "deposit": 3600,
-        "balance": 32400,
-        "apr": 14.9,
-        "rate_of_interest": 7.77,
-        "term": 48,
-        "regular_payment": 884.87,
-        "final_payment": 885.87,
-        "total_amount_payable": 46074.76,
-        "total_charge_for_credit": 10074.76,
-        "amount_of_credit": 32400,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 36000,
-        "total_price": 36000,
-        "deposit": 3600,
-        "balance": 32400,
-        "apr": 9.9,
-        "rate_of_interest": 4.88,
-        "term": 49,
-        "regular_payment": 574.24,
-        "final_payment": 14016.46,
-        "total_amount_payable": 45179.98,
-        "total_charge_for_credit": 9179.98,
-        "amount_of_credit": 32400,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.18,
-        "residual": 14015.46,
-        "price_to_buy": 14016.46
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T12:04:43.508Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.braidwoodmotors.com/used-bmw-4-series-livingston-west-lothian-6910896",
+    "dealer_id": "1142",
+    "car_id": "27922125",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ST73PYZ",
+        "registration_date": "11/10/2023",
+        "mileage": 4816,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48990,
+        "total_price": 48990,
+        "deposit": 4899,
+        "balance": 44091,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 905.78,
+        "final_payment": 906.78,
+        "total_amount_payable": 59246.8,
+        "total_charge_for_credit": 10256.8,
+        "amount_of_credit": 44091,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48990,
+        "total_price": 48990,
+        "deposit": 4899,
+        "balance": 44091,
+        "apr": 8.9,
+        "rate_of_interest": 4.4,
+        "term": 49,
+        "regular_payment": 748.49,
+        "final_payment": 19486,
+        "total_amount_payable": 60312.52,
+        "total_charge_for_credit": 11322.52,
+        "amount_of_credit": 44091,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 19485,
+        "price_to_buy": 19486
+      }
+    ]
+  }
+]

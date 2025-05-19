@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:55:46.574Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.synergy-motors.com/details/used-car-in-croydon/porsche/taycan/performance-plus-93.4kwh-turbo-s-auto-4wd-4dr-11kw-charger/1322604/",
+    "dealer_id": "7658",
+    "car_id": "26352931",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF70PZJ",
+        "registration_date": "04/11/2020",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1038.94,
+        "final_payment": 1039.94,
+        "total_amount_payable": 67836.9,
+        "total_charge_for_credit": 12841.9,
+        "amount_of_credit": 49495.5,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54995,
+        "total_price": 54995,
+        "deposit": 5499.5,
+        "balance": 49495.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 858.25,
+        "final_payment": 22523.5,
+        "total_amount_payable": 69219,
+        "total_charge_for_credit": 14224,
+        "amount_of_credit": 49495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 22522.5,
+        "price_to_buy": 22523.5
+      }
+    ]
+  }
+]

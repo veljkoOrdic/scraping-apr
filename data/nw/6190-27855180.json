@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:47:34.387Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.suprenocars.com/details/used-car-in-ashford/alfaromeo/stelvio/2.0t-veloce-auto-q4-awd-euro-6-ss-5dr/1447159/",
+    "dealer_id": "6190",
+    "car_id": "27855180",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP20KKV",
+        "registration_date": "03/07/2020",
+        "mileage": 30500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27824,
+        "total_price": 27824,
+        "deposit": 2782.4,
+        "balance": 25041.6,
+        "apr": 11.1,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 539.57,
+        "final_payment": 539.57,
+        "balloon": 0,
+        "total_amount_payable": 35156.6,
+        "total_charge_for_credit": 7332.6,
+        "amount_of_credit": 25041.6,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 539.57
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27824,
+        "total_price": 27824,
+        "deposit": 2782.4,
+        "balance": 25041.6,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 514.43,
+        "final_payment": 515.43,
+        "total_amount_payable": 33649.2,
+        "total_charge_for_credit": 5825.2,
+        "amount_of_credit": 25041.6,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

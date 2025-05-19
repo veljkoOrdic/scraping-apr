@@ -1,85 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T02:44:59.890Z",
+    "timestamp": "2025-05-15T19:00:50.572Z",
     "source": "new_vehicle_finance",
     "url": "https://www.thegermancargroup.co.uk/cars/porsche/macan/2.9-t-v6-s/1436957/",
     "dealer_id": "6790",
     "car_id": "27740449",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "DA72FVN",
-        "registration_date": "01/12/2022",
-        "mileage": 25850,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 59890,
-        "total_price": 59890,
-        "deposit": 5989,
-        "balance": 53901,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 1353.56,
-        "final_payment": 1354.56,
-        "total_amount_payable": 70960.88,
-        "total_charge_for_credit": 11070.88,
-        "amount_of_credit": 53901,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_lp",
-        "name": "LP",
-        "finance_type": "Lease Purchase",
-        "cash_price": 59890,
-        "total_price": 59890,
-        "deposit": 5989,
-        "balance": 53901,
-        "apr": 10.9,
-        "rate_of_interest": 5.37,
-        "term": 49,
-        "regular_payment": 998.88,
-        "final_payment": 22591,
-        "balloon": 22590,
-        "total_amount_payable": 76526.24,
-        "total_charge_for_credit": 16636.24,
-        "amount_of_credit": 53901,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 22590,
-        "price_to_buy": 22591
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 59890,
-        "total_price": 59890,
-        "deposit": 5989,
-        "balance": 53901,
-        "apr": 9.9,
-        "rate_of_interest": 4.89,
-        "term": 49,
-        "regular_payment": 968.27,
-        "final_payment": 22559.24,
-        "total_amount_payable": 75025.2,
-        "total_charge_for_credit": 15135.2,
-        "amount_of_credit": 53901,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.2,
-        "residual": 22558.24,
-        "price_to_buy": 22559.24
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

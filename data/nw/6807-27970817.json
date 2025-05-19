@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:49.017Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-bmw-ix-ampthill-bedfordshire-6925157",
+    "dealer_id": "6807",
+    "car_id": "27970817",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB71EFM",
+        "registration_date": "31/12/2021",
+        "mileage": 55000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36989,
+        "total_price": 36989,
+        "deposit": 3698,
+        "balance": 33291,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 698.79,
+        "final_payment": 699.79,
+        "total_amount_payable": 45626.4,
+        "total_charge_for_credit": 8637.4,
+        "amount_of_credit": 33291,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36989,
+        "total_price": 36989,
+        "deposit": 3698,
+        "balance": 33291,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 500.61,
+        "final_payment": 19637.88,
+        "total_amount_payable": 47365.16,
+        "total_charge_for_credit": 10376.16,
+        "amount_of_credit": 33291,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.26,
+        "residual": 19636.88,
+        "price_to_buy": 19637.88
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T11:36:21.251Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.beechmotorco.co.uk/details/used-car-in-congleton/jaguar/f-pace/2.0-p400e-17.1kwh-r-dynamic-se-auto-awd-euro-6-ss-5dr/1465802/",
+    "dealer_id": "244",
+    "car_id": "28055544",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-PACE",
+        "variant": "ESTATE",
+        "derivative": "2.0 P400e R-Dynamic SE",
+        "registration_number": "OU71YHD",
+        "registration_date": "30/09/2021",
+        "mileage": 30000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32490,
+        "total_price": 32490,
+        "deposit": 3249,
+        "balance": 29241,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 389.12,
+        "final_payment": 19075,
+        "total_amount_payable": 41001.76,
+        "total_charge_for_credit": 8511.76,
+        "amount_of_credit": 29241,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 19065,
+        "price_to_buy": 19075
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32490,
+        "total_price": 32490,
+        "deposit": 3249,
+        "balance": 29241,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 600.66,
+        "final_payment": 610.66,
+        "total_amount_payable": 39298.6,
+        "total_charge_for_credit": 6808.6,
+        "amount_of_credit": 29241,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T18:08:04.850Z",
+    "timestamp": "2025-05-15T15:02:24.993Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bellacars.co.uk/used-alfa-romeo-giulietta-huddersfield-west-yorkshire-6118287",
     "dealer_id": "253",
     "car_id": "24728165",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE15AVG",
+        "registration_date": "28/03/2015",
+        "mileage": 81042,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8790,
+        "total_price": 8790,
+        "deposit": 1000,
+        "balance": 7790,
+        "apr": 8.9,
+        "rate_of_interest": 4.62,
+        "term": 58,
+        "regular_payment": 164.32,
+        "final_payment": 174.32,
+        "total_amount_payable": 10540.56,
+        "total_charge_for_credit": 1750.56,
+        "amount_of_credit": 7790,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

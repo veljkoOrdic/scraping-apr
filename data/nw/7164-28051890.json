@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:41.905Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-santa-fe-1-6h-t-gdi-hybrid-ultimate-5dr-automatic-5-door-suv-green/ca74fsz",
+    "dealer_id": "7164",
+    "car_id": "28051890",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CA74FSZ",
+        "registration_date": "16/01/2025",
+        "mileage": 3671,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46869,
+        "total_price": 46869,
+        "deposit": 0,
+        "balance": 46869,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1004.86,
+        "final_payment": 1004.86,
+        "total_amount_payable": 60291.6,
+        "total_charge_for_credit": 13422.6,
+        "amount_of_credit": 46869,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46869,
+        "total_price": 46869,
+        "deposit": 0,
+        "balance": 46869,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 836.05,
+        "final_payment": 21585.1,
+        "total_amount_payable": 61715.5,
+        "total_charge_for_credit": 14846.5,
+        "amount_of_credit": 46869,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.149,
+        "residual": 21585.1,
+        "price_to_buy": 21585.1
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:45:58.141Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-volkswagen-id.3-hatfield-hertfordshire-6622423",
+    "dealer_id": "4492",
+    "car_id": "26777444",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ71OVL",
+        "registration_date": "22/09/2021",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 3000,
+        "balance": 12000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 251.88,
+        "final_payment": 252.88,
+        "total_amount_payable": 18113.8,
+        "total_charge_for_credit": 3113.8,
+        "amount_of_credit": 12000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 3000,
+        "balance": 12000,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 184.58,
+        "final_payment": 6836.5,
+        "total_amount_payable": 18696.34,
+        "total_charge_for_credit": 3696.34,
+        "amount_of_credit": 12000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 6835.5,
+        "price_to_buy": 6836.5
+      }
+    ]
+  }
+]

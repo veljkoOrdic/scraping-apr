@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:14:27.340Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.peebles-autocentre.co.uk/details/used-car-in-peebles/audi/s3/2.0-tfsi-vorsprung-sportback-s-tronic-quattro-euro-6-ss-5dr/1443897/",
+    "dealer_id": "8870",
+    "car_id": "27821135",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FB21XGW",
+        "registration_date": "08/04/2021",
+        "mileage": 13187,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39000,
+        "total_price": 39000,
+        "deposit": 3900,
+        "balance": 35100,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 752.52,
+        "final_payment": 753.52,
+        "total_amount_payable": 49052.2,
+        "total_charge_for_credit": 10052.2,
+        "amount_of_credit": 35100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39000,
+        "total_price": 39000,
+        "deposit": 3900,
+        "balance": 35100,
+        "apr": 10.9,
+        "rate_of_interest": 5.36,
+        "term": 49,
+        "regular_payment": 633.52,
+        "final_payment": 15722.81,
+        "total_amount_payable": 50031.77,
+        "total_charge_for_credit": 11031.77,
+        "amount_of_credit": 35100,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 15721.81,
+        "price_to_buy": 15722.81
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:29:55.869Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesnuttcars.co.uk/details/used-car-in-redditch/porsche/911/3.0t-991-carrera-t-euro-6-ss-2dr/1363184/",
+    "dealer_id": "8843",
+    "car_id": "28041777",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[991] CARRERA COUPE",
+        "derivative": "T",
+        "registration_number": "A11FLN",
+        "registration_date": "20/03/2018",
+        "mileage": 7057,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 22,
+        "regular_payment": 2170.46,
+        "final_payment": 38894,
+        "total_amount_payable": 92473.16,
+        "total_charge_for_credit": 12478.16,
+        "amount_of_credit": 71995.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 18333,
+        "excess_mileage_rate": 118,
+        "residual": 38894,
+        "price_to_buy": 38894
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999.5,
+        "balance": 71995.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1511.31,
+        "final_payment": 1511.31,
+        "total_amount_payable": 98678.1,
+        "total_charge_for_credit": 18683.1,
+        "amount_of_credit": 71995.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

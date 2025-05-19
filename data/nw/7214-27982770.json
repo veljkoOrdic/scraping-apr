@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:59:52.412Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinfranciscars.com/used-cars/citroen-relay-40-l4h2-22bluehdi-ss-motorhome/37669",
+    "dealer_id": "7214",
+    "car_id": "27982770",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA22OYL",
+        "registration_date": "24/03/2022",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44950,
+        "total_price": 44950,
+        "deposit": 4495,
+        "balance": 40455,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 849.05,
+        "final_payment": 859.05,
+        "balloon": 0,
+        "total_amount_payable": 55448,
+        "total_charge_for_credit": 10498,
+        "amount_of_credit": 40455,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 859.05
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44950,
+        "total_price": 44950,
+        "deposit": 4495,
+        "balance": 40455,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 849.05,
+        "final_payment": 859.05,
+        "total_amount_payable": 55448,
+        "total_charge_for_credit": 10498,
+        "amount_of_credit": 40455,
+        "lender": "Northridge Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

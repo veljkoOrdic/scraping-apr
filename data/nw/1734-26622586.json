@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:10:43.478Z",
+    "timestamp": "2025-05-15T16:16:41.281Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bayercarsales.co.uk/used-land-rover-range-rover-fareham-hampshire-6577368",
     "dealer_id": "1734",
@@ -12,6 +12,29 @@
         "registration_date": "24/06/2023",
         "mileage": 11529,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 121000,
+        "total_price": 121000,
+        "deposit": 12100,
+        "balance": 108900,
+        "apr": 13.7,
+        "rate_of_interest": 7.15,
+        "term": 60,
+        "regular_payment": 2471.78,
+        "final_payment": 2471.78,
+        "balloon": 0,
+        "total_amount_payable": 160406.8,
+        "total_charge_for_credit": 39406.8,
+        "amount_of_credit": 108900,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 2471.78
       },
       {
         "type": "finance_hp",
@@ -43,19 +66,19 @@
         "deposit": 12100,
         "balance": 100000,
         "apr": 12.9,
-        "rate_of_interest": 6.25,
+        "rate_of_interest": 6.26,
         "term": 49,
-        "regular_payment": 1758.85,
-        "final_payment": 54901.3,
-        "total_amount_payable": 160326.1,
-        "total_charge_for_credit": 39326.1,
+        "regular_payment": 1768.65,
+        "final_payment": 54292.6,
+        "total_amount_payable": 160187.8,
+        "total_charge_for_credit": 39187.8,
         "amount_of_credit": 100000,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.5,
-        "residual": 54900.3,
-        "price_to_buy": 54901.3
+        "residual": 54291.6,
+        "price_to_buy": 54292.6
       }
     ]
   }

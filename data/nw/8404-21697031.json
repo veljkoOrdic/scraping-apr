@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T23:45:49.212Z",
+    "timestamp": "2025-05-15T17:39:58.277Z",
     "source": "new_vehicle_finance",
     "url": "https://www.autosnorthwest.co.uk/used-land-rover-freelander-oldham-greater-manchester-4184577",
     "dealer_id": "8404",
@@ -14,25 +14,27 @@
         "status": "Used"
       },
       {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
         "cash_price": 6500,
         "total_price": 6500,
         "deposit": 650,
         "balance": 5850,
-        "apr": 12.5,
-        "rate_of_interest": 6.51,
-        "term": 12,
-        "regular_payment": 519.24,
-        "final_payment": 520.24,
-        "total_amount_payable": 6881.88,
-        "total_charge_for_credit": 381.88,
+        "apr": 10.9,
+        "rate_of_interest": 5.7,
+        "term": 60,
+        "regular_payment": 125.3,
+        "final_payment": 135.3,
+        "balloon": 0,
+        "total_amount_payable": 8178,
+        "total_charge_for_credit": 1678,
         "amount_of_credit": 5850,
-        "lender": "Blue Motor Finance",
+        "lender": "Close Brothers Motor Finance",
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
-        "residual": 0
+        "residual": 0,
+        "price_to_buy": 135.3
       }
     ]
   }

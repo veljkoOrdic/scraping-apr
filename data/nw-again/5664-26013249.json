@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:05:03.332Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fairleecarsales.co.uk/cars/dacia/sanderostepway/0.9-stepway-ambiance-tce-90/1294151/",
+    "dealer_id": "5664",
+    "car_id": "26013249",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HW14HFV",
+        "registration_date": "03/05/2014",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.7,
+        "term": 60,
+        "regular_payment": 96.26,
+        "final_payment": 106.26,
+        "balloon": 0,
+        "total_amount_payable": 6285.1,
+        "total_charge_for_credit": 1290.1,
+        "amount_of_credit": 4495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 106.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 47,
+        "regular_payment": 116.82,
+        "final_payment": 117.82,
+        "total_amount_payable": 5991.04,
+        "total_charge_for_credit": 996.04,
+        "amount_of_credit": 4495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

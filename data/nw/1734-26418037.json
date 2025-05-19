@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:07:15.204Z",
+    "timestamp": "2025-05-15T16:14:54.805Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bayercarsales.co.uk/used-porsche-taycan-fareham-hampshire-6531201",
     "dealer_id": "1734",
@@ -12,6 +12,29 @@
         "registration_date": "05/11/2021",
         "mileage": 52910,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46985,
+        "total_price": 46985,
+        "deposit": 4698,
+        "balance": 42287,
+        "apr": 13.9,
+        "rate_of_interest": 7.15,
+        "term": 60,
+        "regular_payment": 964.66,
+        "final_payment": 964.66,
+        "balloon": 0,
+        "total_amount_payable": 62577.6,
+        "total_charge_for_credit": 15592.6,
+        "amount_of_credit": 42287,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 964.66
       },
       {
         "type": "finance_hp",
@@ -43,19 +66,19 @@
         "deposit": 4698,
         "balance": 42287,
         "apr": 12.9,
-        "rate_of_interest": 6.28,
+        "rate_of_interest": 6.29,
         "term": 49,
-        "regular_payment": 781.17,
-        "final_payment": 20893.15,
-        "total_amount_payable": 63087.31,
-        "total_charge_for_credit": 16102.31,
+        "regular_payment": 783.28,
+        "final_payment": 20762.42,
+        "total_amount_payable": 63057.86,
+        "total_charge_for_credit": 16072.86,
         "amount_of_credit": 42287,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.3,
-        "residual": 20892.15,
-        "price_to_buy": 20893.15
+        "residual": 20761.42,
+        "price_to_buy": 20762.42
       }
     ]
   }

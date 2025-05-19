@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:18:32.390Z",
+    "timestamp": "2025-05-15T16:41:07.780Z",
     "source": "new_vehicle_finance",
     "url": "https://www.georgekingsley.co.uk/used/cars/porsche/911/carrera-4s-pdk-front-axle-lift-sports-chrono-2505",
     "dealer_id": "5725",
@@ -12,6 +12,29 @@
         "registration_date": "27/12/2019",
         "mileage": 25006,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 77995,
+        "total_price": 77995,
+        "deposit": 11699.25,
+        "balance": 66295.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1723.01,
+        "final_payment": 1723.01,
+        "balloon": 0,
+        "total_amount_payable": 94403.73,
+        "total_charge_for_credit": 16408.73,
+        "amount_of_credit": 66295.75,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1723.01
       },
       {
         "type": "finance_hp",

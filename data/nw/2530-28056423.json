@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:55:43.046Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.monarchmotorco.co.uk/used-cupra-formentor-redditch-worcestershire-6947816",
+    "dealer_id": "2530",
+    "car_id": "28056423",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DP23GVL",
+        "registration_date": "14/07/2023",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 1000,
+        "balance": 22990,
+        "apr": 9.6,
+        "rate_of_interest": 5.03,
+        "term": 60,
+        "regular_payment": 479.48,
+        "final_payment": 480.48,
+        "total_amount_payable": 29769.8,
+        "total_charge_for_credit": 5779.8,
+        "amount_of_credit": 22990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 1000,
+        "balance": 22990,
+        "apr": 9.6,
+        "rate_of_interest": 4.71,
+        "term": 49,
+        "regular_payment": 377.81,
+        "final_payment": 11437,
+        "total_amount_payable": 30571.88,
+        "total_charge_for_credit": 6581.88,
+        "amount_of_credit": 22990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "contract_mileage": 49000,
+        "excess_mileage_rate": 0.1,
+        "residual": 11436,
+        "price_to_buy": 11437
+      }
+    ]
+  }
+]

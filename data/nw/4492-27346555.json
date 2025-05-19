@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:47:23.468Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-bmw-m4-hatfield-hertfordshire-6769908",
+    "dealer_id": "4492",
+    "car_id": "27346555",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CN72VVD",
+        "registration_date": "31/10/2022",
+        "mileage": 15700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 10800,
+        "balance": 43200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 906.79,
+        "final_payment": 907.79,
+        "total_amount_payable": 65208.4,
+        "total_charge_for_credit": 11208.4,
+        "amount_of_credit": 43200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 10800,
+        "balance": 43200,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 657.85,
+        "final_payment": 25000.62,
+        "total_amount_payable": 67377.42,
+        "total_charge_for_credit": 13377.42,
+        "amount_of_credit": 43200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.28,
+        "residual": 24999.62,
+        "price_to_buy": 25000.62
+      }
+    ]
+  }
+]

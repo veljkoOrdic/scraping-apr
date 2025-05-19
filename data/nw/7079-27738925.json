@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:28:25.557Z",
+    "timestamp": "2025-05-15T14:51:57.717Z",
     "source": "new_vehicle_finance",
     "url": "https://www.mfimotorgroup.com/used/toyota/corolla/20-hybrid-gr-sport-5dr-cvt/london/greater-london/21580232",
     "dealer_id": "7079",
@@ -12,6 +12,29 @@
         "registration_date": "24/10/2023",
         "mileage": 7000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23490,
+        "total_price": 23490,
+        "deposit": 2349,
+        "balance": 21141,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 443.64,
+        "final_payment": 453.64,
+        "balloon": 0,
+        "total_amount_payable": 28977.4,
+        "total_charge_for_credit": 5487.4,
+        "amount_of_credit": 21141,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 453.64
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 10.9,
         "rate_of_interest": 5.67,
         "term": 49,
-        "regular_payment": 352.98,
-        "final_payment": 11177.5,
-        "balloon": 11177.5,
-        "total_amount_payable": 30469.54,
-        "total_charge_for_credit": 6979.54,
+        "regular_payment": 355.83,
+        "final_payment": 11007.5,
+        "balloon": 11007.5,
+        "total_amount_payable": 30436.34,
+        "total_charge_for_credit": 6946.34,
         "amount_of_credit": 21141,
         "lender": "Santander Consumer Finance",
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
-        "residual": 11177.5,
-        "price_to_buy": 11177.5
+        "residual": 11007.5,
+        "price_to_buy": 11007.5
       },
       {
         "type": "finance_pcp",
@@ -68,17 +91,17 @@
         "apr": 9.9,
         "rate_of_interest": 5.13,
         "term": 48,
-        "regular_payment": 336.654382433839,
-        "final_payment": 11630.4,
-        "total_amount_payable": 29802.16,
-        "total_charge_for_credit": 6312.16,
+        "regular_payment": 339.580855794157,
+        "final_payment": 11463.33,
+        "total_amount_payable": 29772.63,
+        "total_charge_for_credit": 6282.63,
         "amount_of_credit": 21141,
         "lender": "Close Brothers Motor Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40000,
         "excess_mileage_rate": 0.12,
-        "residual": 11283.75,
-        "price_to_buy": 11630.4
+        "residual": 11113.75,
+        "price_to_buy": 11463.33
       }
     ]
   }

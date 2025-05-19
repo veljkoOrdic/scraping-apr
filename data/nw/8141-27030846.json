@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:07:53.546Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jsvans.co.uk/used-ford-transit-connect-stockport-cheshire-6687612",
+    "dealer_id": "8141",
+    "car_id": "27030846",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM16LHB",
+        "registration_date": "23/06/2016",
+        "mileage": 138000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4500,
+        "total_price": 4500,
+        "deposit": 750,
+        "balance": 3750,
+        "apr": 11.9,
+        "rate_of_interest": 6.23,
+        "term": 60,
+        "regular_payment": 81.97,
+        "final_payment": 91.97,
+        "balloon": 0,
+        "total_amount_payable": 5678.2,
+        "total_charge_for_credit": 1178.2,
+        "amount_of_credit": 3750,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 91.97
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4500,
+        "total_price": 4500,
+        "deposit": 0,
+        "balance": 3750,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 95.87,
+        "final_payment": 96.87,
+        "total_amount_payable": 5448.63,
+        "total_charge_for_credit": 948.63,
+        "amount_of_credit": 3750,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:50:54.432Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motormill.co.uk/used-bmw-3-series-warrington-cheshire-6633408",
+    "dealer_id": "6691",
+    "car_id": "26838399",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA20XET",
+        "registration_date": "15/07/2020",
+        "mileage": 89277,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549,
+        "balance": 13950,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 298.96,
+        "final_payment": 308.96,
+        "total_amount_payable": 19496.6,
+        "total_charge_for_credit": 3997.6,
+        "amount_of_credit": 13950,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15499,
+        "total_price": 15499,
+        "deposit": 1549,
+        "balance": 13950,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 244.05,
+        "final_payment": 6897.07,
+        "total_amount_payable": 19916.42,
+        "total_charge_for_credit": 4417.42,
+        "amount_of_credit": 13950,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 6887.07,
+        "price_to_buy": 6897.07
+      }
+    ]
+  }
+]

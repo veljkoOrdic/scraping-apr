@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:25:08.712Z",
+    "timestamp": "2025-05-15T15:11:28.578Z",
     "source": "new_vehicle_finance",
     "url": "https://www.polesworth-garage.com/used-cars/ferrari/ferrari-portofino-gt-2dr-auto/",
     "dealer_id": "7286",
@@ -33,6 +33,29 @@
         "annual_mileage": 8000,
         "excess_mileage_rate": 0,
         "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 124995,
+        "total_price": 124995,
+        "deposit": 0,
+        "balance": 124995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 3138.74,
+        "final_payment": 3148.74,
+        "balloon": 0,
+        "total_amount_payable": 150669.52,
+        "total_charge_for_credit": 25674.52,
+        "amount_of_credit": 124995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 3148.74
       }
     ]
   }

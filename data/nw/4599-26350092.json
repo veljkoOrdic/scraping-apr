@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:01:58.465Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-kia-niro-liverpool-merseyside-6513302",
+    "dealer_id": "4599",
+    "car_id": "26350092",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL21MXM",
+        "registration_date": "26/04/2021",
+        "mileage": 34241,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15796,
+        "total_price": 15796,
+        "deposit": 1000,
+        "balance": 14796,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 310.45,
+        "final_payment": 320.45,
+        "total_amount_payable": 19637,
+        "total_charge_for_credit": 3841,
+        "amount_of_credit": 14796,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15796,
+        "total_price": 15796,
+        "deposit": 1000,
+        "balance": 14796,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 239.58,
+        "final_payment": 7727.5,
+        "total_amount_payable": 20227.34,
+        "total_charge_for_credit": 4431.34,
+        "amount_of_credit": 14796,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.15,
+        "residual": 7717.5,
+        "price_to_buy": 7727.5
+      }
+    ]
+  }
+]

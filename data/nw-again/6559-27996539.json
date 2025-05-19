@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:07:53.928Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-porsche-911-38t-991-turbo-s-pdk-4wd-euro-convertible-jet-black-metallic-automatic-petrol/id-202505021993437/",
+    "dealer_id": "6559",
+    "car_id": "27996539",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SM67XFG",
+        "registration_date": "27/10/2017",
+        "mileage": 25000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 94948,
+        "total_price": 94948,
+        "deposit": 33231,
+        "balance": 61717,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1295.36,
+        "final_payment": 1305.36,
+        "balloon": 0,
+        "total_amount_payable": 110962.6,
+        "total_charge_for_credit": 16014.6,
+        "amount_of_credit": 61717,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1305.36
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 94948,
+        "total_price": 94948,
+        "deposit": 33231,
+        "balance": 61717,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1295.47,
+        "final_payment": 1296.47,
+        "total_amount_payable": 110960.2,
+        "total_charge_for_credit": 16012.2,
+        "amount_of_credit": 61717,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

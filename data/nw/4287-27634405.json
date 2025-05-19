@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:55:07.094Z",
+    "timestamp": "2025-05-15T18:19:39.076Z",
     "source": "new_vehicle_finance",
     "url": "https://www.autoimagebarrow.co.uk/cars/renault/captur/1.0-iconic-tce-90-my21/1427275/",
     "dealer_id": "4287",
@@ -12,6 +12,29 @@
         "registration_date": "25/03/2021",
         "mileage": 25000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 14.9,
+        "rate_of_interest": 7.64,
+        "term": 36,
+        "regular_payment": 383.96,
+        "final_payment": 393.96,
+        "balloon": 0,
+        "total_amount_payable": 15082.06,
+        "total_charge_for_credit": 2587.06,
+        "amount_of_credit": 11245.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 393.96
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 12.9,
         "rate_of_interest": 6.23,
         "term": 37,
-        "regular_payment": 234.89,
-        "final_payment": 6095.85,
-        "total_amount_payable": 15801.39,
-        "total_charge_for_credit": 3306.39,
+        "regular_payment": 236.22,
+        "final_payment": 6037.62,
+        "total_amount_payable": 15791.04,
+        "total_charge_for_credit": 3296.04,
         "amount_of_credit": 11245.5,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 10000,
         "contract_mileage": 30833,
         "excess_mileage_rate": 0.06,
-        "residual": 6094.85,
-        "price_to_buy": 6095.85
+        "residual": 6036.62,
+        "price_to_buy": 6037.62
       }
     ]
   }

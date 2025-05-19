@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:30:13.877Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carsalesfactory.co.uk/used-volkswagen-transporter-bury-greater-manchester-6719673",
+    "dealer_id": "8432",
+    "car_id": "27140904",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T32 LWB DIESEL",
+        "derivative": "2.0 BiTDI 204 Highline Kombi Van DSG",
+        "registration_number": "MV74YGG",
+        "registration_date": "02/09/2024",
+        "mileage": 1393,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64794,
+        "total_price": 64794,
+        "deposit": 10799,
+        "balance": 53995,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1166.71,
+        "final_payment": 13777.96,
+        "total_amount_payable": 79412.33,
+        "total_charge_for_credit": 14618.33,
+        "amount_of_credit": 53995,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 12601.25,
+        "price_to_buy": 13777.96
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64794,
+        "total_price": 64794,
+        "deposit": 10799,
+        "balance": 53995,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1157.29,
+        "final_payment": 1167.29,
+        "total_amount_payable": 80246.4,
+        "total_charge_for_credit": 15452.4,
+        "amount_of_credit": 53995,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

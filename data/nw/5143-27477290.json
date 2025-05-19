@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:16:40.236Z",
+    "timestamp": "2025-05-15T15:03:01.491Z",
     "source": "new_vehicle_finance",
     "url": "https://www.brockhallcarsales.co.uk/used-mercedes-benz-c-class-blackburn-lancashire-6803292",
     "dealer_id": "5143",
@@ -12,6 +12,29 @@
         "registration_date": "31/01/2017",
         "mileage": 41955,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16950,
+        "total_price": 16950,
+        "deposit": 1695,
+        "balance": 15255,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 326.94,
+        "final_payment": 336.94,
+        "balloon": 0,
+        "total_amount_payable": 21321.4,
+        "total_charge_for_credit": 4371.4,
+        "amount_of_credit": 15255,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 336.94
       }
     ]
   }

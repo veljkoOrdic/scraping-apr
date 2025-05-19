@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T15:32:17.274Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-land-rover-defender-oldham-greater-manchester-6917147",
+    "dealer_id": "6862",
+    "car_id": "27960538",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE",
+        "derivative": "5.0 P525 V8 110",
+        "registration_number": "EY71NDL",
+        "registration_date": "01/10/2021",
+        "mileage": 40000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89949,
+        "total_price": 89949,
+        "deposit": 8994,
+        "balance": 80955,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1469.51,
+        "final_payment": 36923.39,
+        "total_amount_payable": 114984.36,
+        "total_charge_for_credit": 25035.36,
+        "amount_of_credit": 80955,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 19.85,
+        "residual": 36923.39,
+        "price_to_buy": 36923.39
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 89949,
+        "total_price": 89949,
+        "deposit": 8994,
+        "balance": 80955,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1735.65,
+        "final_payment": 1735.65,
+        "total_amount_payable": 113133,
+        "total_charge_for_credit": 23184,
+        "amount_of_credit": 80955,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

@@ -1,18 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T17:46:44.584Z",
+    "timestamp": "2025-05-15T14:51:00.410Z",
     "source": "new_vehicle_finance",
     "url": "https://www.mandtmotorcompany.com/details/used-car-in-newbury/ford/focus/2.5-rs-3dr/628050/",
     "dealer_id": "194",
     "car_id": "23336886",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "RK10RXR",
-        "registration_date": "30/06/2010",
-        "mileage": 65000,
-        "status": "Used"
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=mandtmotorcompany.com&quoteeUid=3CD3F727-D198-480A-A87B-D5B0259ADAFB&class=Car&condition=used&vrm=RK10RXR&registrationDate=30/06/2010&capCode=&capId=&cashPrice=28180&vatIncluded=true&vatQualifying=false&currentOdometerReading=65000&vehicleImageUrl=https://www.mandtmotorcompany.com/assets/628050/large/0a11bdfd9f67928ee57174b14b9e0da8_628050.jpg&cashDepositType=Percentage&cashDeposit=1409&term=60&annualDistance=15000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=mandtmotorcompany.com&quoteeUid=3CD3F727-D198-480A-A87B-D5B0259ADAFB&class=Car&condition=used&vrm=RK10RXR&registrationDate=30%2F06%2F2010&capCode=&capId=&cashPrice=28180&vatIncluded=true&vatQualifying=false&currentOdometerReading=65000&vehicleImageUrl=https%3A%2F%2Fwww.mandtmotorcompany.com%2Fassets%2F628050%2Flarge%2F0a11bdfd9f67928ee57174b14b9e0da8_628050.jpg&cashDepositType=Percentage&cashDeposit=1409&term=60&annualDistance=15000&dateOnForecourt=&origin=https%3A%2F%2Fwww.mandtmotorcompany.com%2Fdetails%2Fused-car-in-newbury%2Fford%2Ffocus%2F2.5-rs-3dr%2F628050%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css"
+      ]
+    }
   }
 ]

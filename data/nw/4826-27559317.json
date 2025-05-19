@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:39:45.427Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.caldermotor.co.uk/used-audi-a5-west-lothian-scotland-6786012",
+    "dealer_id": "4826",
+    "car_id": "27559317",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YF18HRX",
+        "registration_date": "22/05/2018",
+        "mileage": 91500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12750,
+        "total_price": 12750,
+        "deposit": 1275,
+        "balance": 11475,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 235.74,
+        "final_payment": 235.74,
+        "balloon": 0,
+        "total_amount_payable": 15419.4,
+        "total_charge_for_credit": 2669.4,
+        "amount_of_credit": 11475,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 235.74
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12750,
+        "total_price": 12750,
+        "deposit": 1275,
+        "balance": 11475,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 235.73,
+        "final_payment": 236.73,
+        "total_amount_payable": 15419.8,
+        "total_charge_for_credit": 2669.8,
+        "amount_of_credit": 11475,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,8 +1,8 @@
 [
   {
-    "timestamp": "2025-04-14T20:39:47.836Z",
+    "timestamp": "2025-05-15T16:19:16.177Z",
     "source": "new_vehicle_finance",
-    "url": "https://www.thedonaldsgroup.com/used-car-details/used-volvo-v90-ultra-t8-awd-plug-in-hybrid-el-automatic-petrol-plug-in-hybrid/id-202502259459308/",
+    "url": "https://www.thedonaldsgroup.com/used-car-details/used-volvo-v90-ultra-t8-awd-plug-in-hybrid-el-automatic-petrol/id-202502259459308/",
     "dealer_id": "7767",
     "car_id": "27204268",
     "data": [
@@ -14,27 +14,50 @@
         "status": "Used"
       },
       {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 52950,
+        "total_price": 52950,
+        "deposit": 5295,
+        "balance": 47655,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 1053.96,
+        "final_payment": 1053.96,
+        "balloon": 0,
+        "total_amount_payable": 68532.6,
+        "total_charge_for_credit": 15582.6,
+        "amount_of_credit": 47655,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1053.96
+      },
+      {
         "type": "finance_pcp",
         "name": "PCP",
         "finance_type": "PCP",
-        "cash_price": 55890,
-        "total_price": 55890,
-        "deposit": 5589,
-        "balance": 50301,
+        "cash_price": 52950,
+        "total_price": 52950,
+        "deposit": 5295,
+        "balance": 47655,
         "apr": 12.4,
         "rate_of_interest": 6.46,
         "term": 49,
-        "regular_payment": 999.53,
-        "final_payment": 19606.67,
-        "total_amount_payable": 73173.11,
-        "total_charge_for_credit": 17283.11,
-        "amount_of_credit": 50301,
+        "regular_payment": 931.79,
+        "final_payment": 19507.5,
+        "total_amount_payable": 69528.42,
+        "total_charge_for_credit": 16578.42,
+        "amount_of_credit": 47655,
         "lender": "Santander Consumer Finance",
         "annual_mileage": 8000,
         "contract_mileage": 32667,
         "excess_mileage_rate": 0.149,
-        "residual": 19606.67,
-        "price_to_buy": 19606.67
+        "residual": 19507.5,
+        "price_to_buy": 19507.5
       }
     ]
   }

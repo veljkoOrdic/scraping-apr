@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:49:40.002Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.atlasautos.co.uk/used-peugeot-e-3008-manningtree-essex-6555390",
+    "dealer_id": "4528",
+    "car_id": "26527908",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RY24HTX",
+        "registration_date": "31/07/2024",
+        "mileage": 2000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30000,
+        "total_price": 30000,
+        "deposit": 0,
+        "balance": 30000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 629.71,
+        "final_payment": 630.71,
+        "total_amount_payable": 37783.6,
+        "total_charge_for_credit": 7783.6,
+        "amount_of_credit": 30000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30000,
+        "total_price": 30000,
+        "deposit": 0,
+        "balance": 30000,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 505.5,
+        "final_payment": 14512.38,
+        "total_amount_payable": 38776.38,
+        "total_charge_for_credit": 8776.38,
+        "amount_of_credit": 30000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 14511.38,
+        "price_to_buy": 14512.38
+      }
+    ]
+  }
+]

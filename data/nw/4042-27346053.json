@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:59:06.773Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wirralcarsales.com/used-ds-automobiles-ds-3-ellesmere-port-cheshire-6750952",
+    "dealer_id": "4042",
+    "car_id": "27346053",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD66MBU",
+        "registration_date": "30/09/2016",
+        "mileage": 52161,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5900,
+        "total_price": 5900,
+        "deposit": 590,
+        "balance": 5310,
+        "apr": 9.9,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 111.33,
+        "final_payment": 121.33,
+        "balloon": 0,
+        "total_amount_payable": 7279.8,
+        "total_charge_for_credit": 1379.8,
+        "amount_of_credit": 5310,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 121.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5900,
+        "total_price": 5900,
+        "deposit": 590,
+        "balance": 5310,
+        "apr": 11.5,
+        "rate_of_interest": 6.02,
+        "term": 60,
+        "regular_payment": 115.15,
+        "final_payment": 125.15,
+        "total_amount_payable": 7509,
+        "total_charge_for_credit": 1609,
+        "amount_of_credit": 5310,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

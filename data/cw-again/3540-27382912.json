@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:18:56.821Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.goldstonecars.co.uk/used-jaguar-f-type-hitchin-hertfordshire-6779171",
+    "dealer_id": "3540",
+    "car_id": "27382912",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Jaguar",
+        "model": "F-TYPE",
+        "variant": "COUPE",
+        "derivative": "3.0 [380] Supercharged V6 R-Dynamic",
+        "registration_number": "WA68XOO",
+        "registration_date": "11/09/2018",
+        "mileage": 24000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399,
+        "balance": 30596,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 628.49,
+        "final_payment": 628.49,
+        "total_amount_payable": 41108.4,
+        "total_charge_for_credit": 7113.4,
+        "amount_of_credit": 30596,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 33995,
+        "total_price": 33995,
+        "deposit": 3399,
+        "balance": 30596,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 28,
+        "regular_payment": 632.57,
+        "final_payment": 19073,
+        "total_amount_payable": 38918.82,
+        "total_charge_for_credit": 4923.82,
+        "amount_of_credit": 30596,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 23333,
+        "excess_mileage_rate": 26,
+        "residual": 19063,
+        "price_to_buy": 19073
+      }
+    ]
+  }
+]

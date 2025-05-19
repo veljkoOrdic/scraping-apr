@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:51:23.688Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastangliacarsales.co.uk/details/used-car-in-newbourne-road/peugeot/208/1.2-puretech-allure-euro-6-ss-5dr/1379726/",
+    "dealer_id": "7545",
+    "car_id": "27052677",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP70DUV",
+        "registration_date": "30/09/2020",
+        "mileage": 50300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 10,
+        "balance": 9985,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 223.08,
+        "final_payment": 224.08,
+        "total_amount_payable": 13395.8,
+        "total_charge_for_credit": 3400.8,
+        "amount_of_credit": 9985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 10,
+        "balance": 9985,
+        "apr": 12.9,
+        "rate_of_interest": 6.36,
+        "term": 49,
+        "regular_payment": 203.46,
+        "final_payment": 3753.39,
+        "total_amount_payable": 13529.47,
+        "total_charge_for_credit": 3534.47,
+        "amount_of_credit": 9985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.06,
+        "residual": 3752.39,
+        "price_to_buy": 3753.39
+      }
+    ]
+  }
+]

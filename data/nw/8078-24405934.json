@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:11:29.107Z",
+    "timestamp": "2025-05-15T17:00:25.479Z",
     "source": "new_vehicle_finance",
     "url": "https://www.manchestervansales.com/used-citroen-berlingo-stalybridge-greater-manchester-6040292",
     "dealer_id": "8078",
@@ -12,6 +12,29 @@
         "registration_date": "20/07/2020",
         "mileage": 79000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12594,
+        "total_price": 12594,
+        "deposit": 2099,
+        "balance": 10495,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 224.88,
+        "final_payment": 234.88,
+        "balloon": 0,
+        "total_amount_payable": 15601.8,
+        "total_charge_for_credit": 3007.8,
+        "amount_of_credit": 10495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 234.88
       },
       {
         "type": "finance_hp",

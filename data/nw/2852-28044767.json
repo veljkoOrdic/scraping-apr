@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:05:36.221Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adamsandsons.co.uk/details/used-van-in-oakham/volkswagen/transporter/2.0-tdi-t28-highline-fwd-swb-euro-6-ss-5dr/1464609/",
+    "dealer_id": "2852",
+    "car_id": "28044767",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE71XKK",
+        "registration_date": "17/01/2022",
+        "mileage": 8356,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50000,
+        "total_price": 50000,
+        "deposit": 5000,
+        "balance": 45000,
+        "apr": 10.6,
+        "rate_of_interest": 5.56,
+        "term": 60,
+        "regular_payment": 958.59,
+        "final_payment": 968.59,
+        "total_amount_payable": 62525.4,
+        "total_charge_for_credit": 12525.4,
+        "amount_of_credit": 45000,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 60000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

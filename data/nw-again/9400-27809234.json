@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:26:52.618Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.allcars.direct/used-jaguar-f-pace-houghton-le-spring-tyne-and-wear-6858498",
+    "dealer_id": "9400",
+    "car_id": "27809234",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV68KUH",
+        "registration_date": "22/09/2018",
+        "mileage": 58091,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21999,
+        "total_price": 21999,
+        "deposit": 250,
+        "balance": 21749,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 456.52,
+        "final_payment": 457.52,
+        "total_amount_payable": 27642.2,
+        "total_charge_for_credit": 5643.2,
+        "amount_of_credit": 21749,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

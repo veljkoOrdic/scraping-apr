@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:11:00.255Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.alphacarsonlinenyorks.co.uk/used-audi-tt-catterick-garrison-north-yorkshire-6881855",
+    "dealer_id": "4252",
+    "car_id": "27806223",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA18ZPJ",
+        "registration_date": "31/05/2018",
+        "mileage": 49006,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 0,
+        "balance": 14495,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 317.18,
+        "final_payment": 327.18,
+        "total_amount_payable": 19040.8,
+        "total_charge_for_credit": 4545.8,
+        "amount_of_credit": 14495,
+        "lender": "V12 Vehicle Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

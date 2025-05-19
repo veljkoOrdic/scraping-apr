@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:09:48.953Z",
+    "timestamp": "2025-05-15T17:43:01.993Z",
     "source": "new_vehicle_finance",
     "url": "https://www.fleetwisevehiclesales.co.uk/used-land-rover-defender-northern-island-northern-ireland-6569829",
     "dealer_id": "6118",
@@ -12,6 +12,29 @@
         "registration_date": "25/09/2020",
         "mileage": 58500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 41995,
+        "total_price": 41995,
+        "deposit": 0,
+        "balance": 41995,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 1091.27,
+        "final_payment": 1101.27,
+        "balloon": 0,
+        "total_amount_payable": 52390.96,
+        "total_charge_for_credit": 10395.96,
+        "amount_of_credit": 41995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1101.27
       }
     ]
   }

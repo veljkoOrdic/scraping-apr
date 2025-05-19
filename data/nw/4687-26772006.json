@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:07:50.948Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lakesidecarsales.co.uk/used-mitsubishi-colt-redditch-worcestershire-6683170",
+    "dealer_id": "4687",
+    "car_id": "26772006",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RV61VNA",
+        "registration_date": "16/09/2011",
+        "mileage": 55908,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3999,
+        "total_price": 3999,
+        "deposit": 0,
+        "balance": 3999,
+        "apr": 12.9,
+        "rate_of_interest": 6.62,
+        "term": 16,
+        "regular_payment": 272.01,
+        "final_payment": 273.01,
+        "total_amount_payable": 4353.16,
+        "total_charge_for_credit": 354.16,
+        "amount_of_credit": 3999,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

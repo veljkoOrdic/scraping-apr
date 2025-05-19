@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:32:53.857Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kaimparkgarage.co.uk/used-volkswagen-amarok-bathgate-west-lothian-6871723",
+    "dealer_id": "2056",
+    "car_id": "27840974",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FX25ZSO",
+        "registration_date": "10/04/2025",
+        "mileage": 25,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64194,
+        "total_price": 64194,
+        "deposit": 0,
+        "balance": 64194,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1318.78,
+        "final_payment": 1318.78,
+        "balloon": 0,
+        "total_amount_payable": 79126.8,
+        "total_charge_for_credit": 14932.8,
+        "amount_of_credit": 64194,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1318.78
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64194,
+        "total_price": 64194,
+        "deposit": 0,
+        "balance": 64194,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1318.77,
+        "final_payment": 1319.77,
+        "total_amount_payable": 79127.2,
+        "total_charge_for_credit": 14933.2,
+        "amount_of_credit": 64194,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

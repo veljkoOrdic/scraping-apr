@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T14:29:27.363Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wesellsmallcars.co.uk/used-vauxhall-grandland-x-southampton-hampshire-6665415",
+    "dealer_id": "6292",
+    "car_id": "26938097",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "GRANDLAND X",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo SRi Nav",
+        "registration_number": "SJ21JRH",
+        "registration_date": "26/08/2021",
+        "mileage": 66000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10989,
+        "total_price": 10989,
+        "deposit": 1098,
+        "balance": 9891,
+        "apr": 12,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 216.77,
+        "final_payment": 216.77,
+        "total_amount_payable": 14104.2,
+        "total_charge_for_credit": 3115.2,
+        "amount_of_credit": 9891,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10989,
+        "total_price": 10989,
+        "deposit": 1098,
+        "balance": 9891,
+        "apr": 11.9,
+        "rate_of_interest": 5.4,
+        "term": 60,
+        "regular_payment": 216.56,
+        "final_payment": 226.56,
+        "total_amount_payable": 14101.6,
+        "total_charge_for_credit": 3112.6,
+        "amount_of_credit": 9891,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:03:03.236Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jw-autos.co.uk/used/cars/volkswagen/golf/e-golf-4240",
+    "dealer_id": "8558",
+    "car_id": "26825419",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE70VTK",
+        "registration_date": "30/09/2020",
+        "mileage": 57869,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9800,
+        "total_price": 9800,
+        "deposit": 500,
+        "balance": 9300,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 60,
+        "regular_payment": 191.06,
+        "final_payment": 191.06,
+        "total_amount_payable": 11963.6,
+        "total_charge_for_credit": 2163.6,
+        "amount_of_credit": 9300,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9800,
+        "total_price": 9800,
+        "deposit": 500,
+        "balance": 9300,
+        "apr": 8.9,
+        "rate_of_interest": 8.52,
+        "term": 48,
+        "regular_payment": 191.52,
+        "final_payment": 2355,
+        "total_amount_payable": 11856.44,
+        "total_charge_for_credit": 2056.44,
+        "amount_of_credit": 9300,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.08,
+        "residual": 2345,
+        "price_to_buy": 2355
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T13:50:39.513Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/porsche/panamera/4.0t-v8-turbo-saloon-pdk-4wd-euro-6-ss-5dr/1436149/",
+    "dealer_id": "2153",
+    "car_id": "27733102",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "PANAMERA",
+        "variant": "HATCHBACK",
+        "derivative": "4.0 V8 Turbo PDK",
+        "registration_number": "AL54YED",
+        "registration_date": "30/07/2019",
+        "mileage": 53063,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49295,
+        "total_price": 49295,
+        "deposit": 4929.5,
+        "balance": 44365.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 821.64,
+        "final_payment": 20814.9,
+        "total_amount_payable": 64361.48,
+        "total_charge_for_credit": 15066.48,
+        "amount_of_credit": 44365.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 16.09,
+        "residual": 20814.9,
+        "price_to_buy": 20814.9
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49295,
+        "total_price": 49295,
+        "deposit": 4929.5,
+        "balance": 44365.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.56,
+        "term": 48,
+        "regular_payment": 1094.71,
+        "final_payment": 1094.71,
+        "total_amount_payable": 57475.58,
+        "total_charge_for_credit": 8180.58,
+        "amount_of_credit": 44365.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

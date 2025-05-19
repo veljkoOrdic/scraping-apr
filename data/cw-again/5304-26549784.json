@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:15:07.743Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.simssuzuki.co.uk/used-cars/used/vauxhall-crossland-1.2-turbo-[130]-elite-nav-5dr-in-darlington-durham/62400",
+    "dealer_id": "5304",
+    "car_id": "26549784",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CROSSLAND",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo [130] Elite Nav",
+        "registration_number": "DV71RYC",
+        "registration_date": "08/11/2021",
+        "mileage": 29199,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11992,
+        "total_price": 11992,
+        "deposit": 1199.2,
+        "balance": 10792.8,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 216.92,
+        "final_payment": 216.92,
+        "total_amount_payable": 14214.4,
+        "total_charge_for_credit": 2222.4,
+        "amount_of_credit": 10792.8,
+        "lender": "Santander Consumer"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11992,
+        "total_price": 11992,
+        "deposit": 1199.2,
+        "balance": 10792.8,
+        "apr": 7.9,
+        "rate_of_interest": 4.09,
+        "term": 48,
+        "regular_payment": 191.49,
+        "final_payment": 3945.91,
+        "total_amount_payable": 14336.63,
+        "total_charge_for_credit": 2344.63,
+        "amount_of_credit": 10792.8,
+        "lender": "Santander Consumer",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 14.9,
+        "residual": 3945.91,
+        "price_to_buy": 3945.91
+      }
+    ]
+  }
+]

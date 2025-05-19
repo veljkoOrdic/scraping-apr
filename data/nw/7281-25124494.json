@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:08:33.348Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradevansuk.com/used/commercials/ford/transit/lwb-dropside-with-curtain-cover-350-euro-6-no-vat-1987",
+    "dealer_id": "7281",
+    "car_id": "25124494",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN19NOU",
+        "registration_date": "19/03/2019",
+        "mileage": 122191,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8994,
+        "total_price": 8994,
+        "deposit": 2248.5,
+        "balance": 6745.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 147.65,
+        "final_payment": 148.65,
+        "total_amount_payable": 11108.5,
+        "total_charge_for_credit": 2114.5,
+        "amount_of_credit": 6745.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

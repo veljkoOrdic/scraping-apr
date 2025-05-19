@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:27:49.843Z",
+    "timestamp": "2025-05-15T14:51:53.780Z",
     "source": "new_vehicle_finance",
     "url": "https://www.mfimotorgroup.com/used/jaguar/e-pace/20d-180-r-dynamic-hse-5dr-auto/london/greater-london/20795561",
     "dealer_id": "7079",
@@ -12,6 +12,29 @@
         "registration_date": "27/09/2018",
         "mileage": 42000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18490,
+        "total_price": 18490,
+        "deposit": 1849,
+        "balance": 16641,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 349.18,
+        "final_payment": 359.18,
+        "balloon": 0,
+        "total_amount_payable": 22809.8,
+        "total_charge_for_credit": 4319.8,
+        "amount_of_credit": 16641,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 359.18
       },
       {
         "type": "finance_hp",

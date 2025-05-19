@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:35:00.563Z",
+    "timestamp": "2025-05-15T14:55:33.406Z",
     "source": "new_vehicle_finance",
     "url": "https://www.m4sales.co.uk/vehicle-details/used-citroen-berlingo-bluehdi-1000-enterprise-swb-a-c-euro-6-for-sale-van-centre-u6334/",
     "dealer_id": "7199",
@@ -12,6 +12,29 @@
         "registration_date": "11/09/2019",
         "mileage": 72606,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13194,
+        "total_price": 13194,
+        "deposit": 2199,
+        "balance": 10995,
+        "apr": 14.3,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 252.43,
+        "final_payment": 252.43,
+        "balloon": 0,
+        "total_amount_payable": 17344.8,
+        "total_charge_for_credit": 4150.8,
+        "amount_of_credit": 10995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 252.43
       },
       {
         "type": "finance_hp",

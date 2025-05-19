@@ -1,8 +1,8 @@
 [
   {
-    "timestamp": "2025-04-14T20:50:38.380Z",
+    "timestamp": "2025-05-15T16:11:15.300Z",
     "source": "new_vehicle_finance",
-    "url": "https://northparkcarsales.co.uk/vehicle/name/mazda-cx-3-sport-nav-balance-after-1000-minimum-px-allowance-9990-tc/",
+    "url": "https://northparkcarsales.co.uk/vehicle/name/mazda-cx-3-sport-nav-manual-petrol-four-wheel-drive-heated-leather-seats-sat-nav-balance-after-1000-minimum-px-allowance-9990-tc/",
     "dealer_id": "1632",
     "car_id": "26326293",
     "data": [
@@ -12,6 +12,29 @@
         "registration_date": "31/07/2015",
         "mileage": 50000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9990,
+        "total_price": 9990,
+        "deposit": 0,
+        "balance": 9990,
+        "apr": 11.9,
+        "rate_of_interest": 6.2,
+        "term": 50,
+        "regular_payment": 251.42,
+        "final_payment": 251.42,
+        "balloon": 0,
+        "total_amount_payable": 12571,
+        "total_charge_for_credit": 2581,
+        "amount_of_credit": 9990,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 251.42
       },
       {
         "type": "finance_hp",

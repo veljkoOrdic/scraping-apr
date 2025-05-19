@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:47:50.074Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autostradacars.com/our-cars/somerset-land-rover-defender-110-td-xs-station-wagon-5857/",
+    "dealer_id": "7512",
+    "car_id": "27774034",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC63HUO",
+        "registration_date": "30/12/2013",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 0,
+        "balance": 36995,
+        "apr": 8.9,
+        "rate_of_interest": 4.59,
+        "term": 43,
+        "regular_payment": 1001.99,
+        "final_payment": 1002.99,
+        "total_amount_payable": 43086.57,
+        "total_charge_for_credit": 6091.57,
+        "amount_of_credit": 36995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

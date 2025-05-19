@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:23:37.629Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-maserati-quattroporte-47-v8-s-auto-euro-4-4dr-saloon-blue-oceano-automatic-petrol/id-202502189225956/",
+    "dealer_id": "6559",
+    "car_id": "27182503",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EU10EJK",
+        "registration_date": "28/06/2010",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14948,
+        "total_price": 14948,
+        "deposit": 5231,
+        "balance": 9717,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 203.84,
+        "final_payment": 213.84,
+        "balloon": 0,
+        "total_amount_payable": 17471.4,
+        "total_charge_for_credit": 2523.4,
+        "amount_of_credit": 9717,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 213.84
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14948,
+        "total_price": 14948,
+        "deposit": 5231,
+        "balance": 9717,
+        "apr": 12.9,
+        "rate_of_interest": 6.69,
+        "term": 13,
+        "regular_payment": 801.64,
+        "final_payment": 802.64,
+        "total_amount_payable": 15653.32,
+        "total_charge_for_credit": 705.32,
+        "amount_of_credit": 9717,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

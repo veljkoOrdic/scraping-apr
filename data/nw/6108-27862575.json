@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:40:03.691Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autoclaritydirect.co.uk/used-audi-q5-southport-merseyside-6895731",
+    "dealer_id": "6108",
+    "car_id": "27862575",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VU21JZK",
+        "registration_date": "01/03/2021",
+        "mileage": 41124,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29465,
+        "total_price": 29465,
+        "deposit": 2946,
+        "balance": 26519,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 556.65,
+        "final_payment": 557.65,
+        "total_amount_payable": 36346,
+        "total_charge_for_credit": 6881,
+        "amount_of_credit": 26519,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29465,
+        "total_price": 29465,
+        "deposit": 2946,
+        "balance": 26519,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 445.88,
+        "final_payment": 13231,
+        "total_amount_payable": 37133.36,
+        "total_charge_for_credit": 7668.36,
+        "amount_of_credit": 26519,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 13230,
+        "price_to_buy": 13231
+      }
+    ]
+  }
+]

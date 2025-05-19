@@ -1,12 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T23:32:37.008Z",
+    "timestamp": "2025-05-15T17:31:25.190Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sloughvan.com/used-porsche-cayenne-slough-berkshire-6744881",
     "dealer_id": "8337",
     "car_id": "27234808",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK22HRR",
+        "registration_date": "11/03/2022",
+        "mileage": 36407,
+        "status": "Used"
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:42:38.116Z",
+    "timestamp": "2025-05-15T18:19:49.961Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sbwakefield.co.uk/used/citroen/c3-aircross/12-puretech-110-flair-5dr-6-speed/wakefield/west-yorkshire/21363714",
     "dealer_id": "6504",
@@ -14,6 +14,29 @@
         "status": "Used"
       },
       {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9820,
+        "total_price": 9820,
+        "deposit": 982,
+        "balance": 8838,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 197.47,
+        "final_payment": 197.47,
+        "balloon": 0,
+        "total_amount_payable": 12830.2,
+        "total_charge_for_credit": 3010.2,
+        "amount_of_credit": 8838,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 197.47
+      },
+      {
         "type": "finance_pcp",
         "name": "PCP",
         "finance_type": "PCP",
@@ -22,19 +45,19 @@
         "deposit": 982,
         "balance": 8838,
         "apr": 12.9,
-        "rate_of_interest": 6.66,
-        "term": 40,
-        "regular_payment": 174.93,
-        "final_payment": 4838,
-        "total_amount_payable": 12642.27,
-        "total_charge_for_credit": 2822.27,
+        "rate_of_interest": 6.65,
+        "term": 39,
+        "regular_payment": 176.67,
+        "final_payment": 4883,
+        "total_amount_payable": 12578.46,
+        "total_charge_for_credit": 2758.46,
         "amount_of_credit": 8838,
         "lender": "Stellantis Financial Services",
         "annual_mileage": 8000,
-        "contract_mileage": 26667,
+        "contract_mileage": 26000,
         "excess_mileage_rate": 0.125,
-        "residual": 4838,
-        "price_to_buy": 4838
+        "residual": 4883,
+        "price_to_buy": 4883
       }
     ]
   }

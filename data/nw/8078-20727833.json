@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:01:47.138Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.manchestervansales.com/used-volkswagen-crafter-stalybridge-greater-manchester-5181173",
+    "dealer_id": "8078",
+    "car_id": "20727833",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MM74UYG",
+        "registration_date": "20/01/2025",
+        "mileage": 100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 67194,
+        "total_price": 67194,
+        "deposit": 11199,
+        "balance": 55995,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1200.39,
+        "final_payment": 1210.39,
+        "balloon": 0,
+        "total_amount_payable": 83232.4,
+        "total_charge_for_credit": 16038.4,
+        "amount_of_credit": 55995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1210.39
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 67194,
+        "total_price": 67194,
+        "deposit": 11199,
+        "balance": 55995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1175.38,
+        "final_payment": 1175.38,
+        "total_amount_payable": 81721.8,
+        "total_charge_for_credit": 14527.8,
+        "amount_of_credit": 55995,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

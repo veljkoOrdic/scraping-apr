@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:07:56.896Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.midwaycarsalesltd.co.uk/used-citroen-dispatch-adlington-cheshire-6824261",
+    "dealer_id": "4456",
+    "car_id": "27564122",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Citroen",
+        "model": "DISPATCH",
+        "variant": "M DIESEL",
+        "derivative": "1000 1.5 BlueHDi 100 Van Enterprise Pro",
+        "registration_number": "WN22JOJ",
+        "registration_date": "31/03/2022",
+        "mileage": 72969,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12336,
+        "total_price": 12336,
+        "deposit": 2056,
+        "balance": 10280,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 228.44,
+        "final_payment": 2684,
+        "total_amount_payable": 15705.12,
+        "total_charge_for_credit": 3369.12,
+        "amount_of_credit": 10280,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 9,
+        "residual": 2684,
+        "price_to_buy": 2684
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12336,
+        "total_price": 12336,
+        "deposit": 2056,
+        "balance": 10280,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 229.69,
+        "final_payment": 229.69,
+        "total_amount_payable": 15837.4,
+        "total_charge_for_credit": 3501.4,
+        "amount_of_credit": 10280,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

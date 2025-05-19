@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T15:36:18.173Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blightsmotors.co.uk/used/ford/kuga/15-ecoboost-zetec-5dr-2wd/bideford/devon/21443947",
+    "dealer_id": "7447",
+    "car_id": "26003558",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP18SDO",
+        "registration_date": "06/07/2018",
+        "mileage": 53597,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10490,
+        "total_price": 10490,
+        "deposit": 1049,
+        "balance": 9441,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 210.94,
+        "final_payment": 210.94,
+        "balloon": 0,
+        "total_amount_payable": 13705.4,
+        "total_charge_for_credit": 3215.4,
+        "amount_of_credit": 9441,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 210.94
+      }
+    ]
+  }
+]

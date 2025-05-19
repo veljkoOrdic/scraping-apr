@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:11:47.959Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motorplanet.co.uk/used-bmw-1-series-greater-manchester-greater-manchester-6808060",
+    "dealer_id": "6466",
+    "car_id": "27927846",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YK66TDX",
+        "registration_date": "05/09/2016",
+        "mileage": 45000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9650,
+        "total_price": 9650,
+        "deposit": 965,
+        "balance": 8685,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 190,
+        "final_payment": 200,
+        "balloon": 0,
+        "total_amount_payable": 12375,
+        "total_charge_for_credit": 2725,
+        "amount_of_credit": 8685,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 200
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9650,
+        "total_price": 9650,
+        "deposit": 965,
+        "balance": 8685,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 189.99,
+        "final_payment": 199.99,
+        "total_amount_payable": 12374.4,
+        "total_charge_for_credit": 2724.4,
+        "amount_of_credit": 8685,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

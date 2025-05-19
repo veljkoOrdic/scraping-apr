@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:57:57.863Z",
+    "timestamp": "2025-05-15T19:05:11.198Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cars4youltd.co.uk/used-audi-q7-broxburn-west-lothian-6745278",
     "dealer_id": "6813",
@@ -12,6 +12,29 @@
         "registration_date": "14/05/2021",
         "mileage": 76000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35995,
+        "total_price": 35995,
+        "deposit": 3599,
+        "balance": 32396,
+        "apr": 10.5,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 689.03,
+        "final_payment": 689.03,
+        "balloon": 0,
+        "total_amount_payable": 44940.8,
+        "total_charge_for_credit": 8945.8,
+        "amount_of_credit": 32396,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 689.03
       },
       {
         "type": "finance_hp",

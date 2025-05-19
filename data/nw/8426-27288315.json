@@ -1,12 +1,41 @@
 [
   {
-    "timestamp": "2025-04-15T00:00:07.172Z",
+    "timestamp": "2025-05-15T17:46:57.440Z",
     "source": "new_vehicle_finance",
     "url": "https://www.whitestonegarage.co.uk/used-volkswagen-transporter-blackburn-lancashire-6754584",
     "dealer_id": "8426",
     "car_id": "27288315",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MP19OBM",
+        "registration_date": "26/08/2019",
+        "mileage": 128000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499,
+        "balance": 31496,
+        "apr": 15.6,
+        "rate_of_interest": 8,
+        "term": 60,
+        "regular_payment": 743.07,
+        "final_payment": 743.07,
+        "balloon": 0,
+        "total_amount_payable": 48083.2,
+        "total_charge_for_credit": 13088.2,
+        "amount_of_credit": 31496,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 743.07
+      }
+    ]
   }
 ]

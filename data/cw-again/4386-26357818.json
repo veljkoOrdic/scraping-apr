@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:53:28.501Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dicklovett.co.uk/porsche/used-cars/2024-porsche-cayenne-v6-e-hybrid-18",
+    "dealer_id": "4386",
+    "car_id": "26357818",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "COUPE",
+        "derivative": "E-Hybrid Tiptronic S",
+        "registration_number": "CN74VJG",
+        "registration_date": "29/10/2024",
+        "mileage": 7320,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 93990,
+        "total_price": 93990,
+        "deposit": 12500,
+        "balance": 81490,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 1502.12,
+        "final_payment": 51333.75,
+        "total_amount_payable": 116407.95,
+        "total_charge_for_credit": 22417.95,
+        "amount_of_credit": 81490,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 19.8,
+        "residual": 51323.75,
+        "price_to_buy": 51333.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 93990,
+        "total_price": 93990,
+        "deposit": 12500,
+        "balance": 81490,
+        "apr": 11.7,
+        "rate_of_interest": 11.74,
+        "term": 36,
+        "regular_payment": 2673.78,
+        "final_payment": 2683.78,
+        "total_amount_payable": 108766.08,
+        "total_charge_for_credit": 14776.08,
+        "amount_of_credit": 81490,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

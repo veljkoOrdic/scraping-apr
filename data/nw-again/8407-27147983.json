@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:51:53.002Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.macmillanmotorcompany.co.uk/used-land-rover-discovery-sport-middlesbrough-north-yorkshire-6718796",
+    "dealer_id": "8407",
+    "car_id": "27147983",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NU69YCY",
+        "registration_date": "17/09/2019",
+        "mileage": 48318,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099,
+        "balance": 18896,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 405.11,
+        "final_payment": 406.11,
+        "total_amount_payable": 26406.6,
+        "total_charge_for_credit": 5411.6,
+        "amount_of_credit": 18896,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

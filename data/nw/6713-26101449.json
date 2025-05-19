@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:30:35.081Z",
+    "timestamp": "2025-05-15T18:51:18.141Z",
     "source": "new_vehicle_finance",
     "url": "https://www.northernmotorhouse.co.uk/details/used-car-in-shipley/volkswagen/tiguan/2.0-tdi-bluemotion-tech-r-line-dsg-4motion-euro-6-ss-5dr/1300603/",
     "dealer_id": "6713",
@@ -12,6 +12,29 @@
         "registration_date": "16/11/2016",
         "mileage": 125000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1399.5,
+        "balance": 12595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 321.65,
+        "final_payment": 331.65,
+        "balloon": 0,
+        "total_amount_payable": 16848.7,
+        "total_charge_for_credit": 2853.7,
+        "amount_of_credit": 12595.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 331.65
       },
       {
         "type": "finance_hp",

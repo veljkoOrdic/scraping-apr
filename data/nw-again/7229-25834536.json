@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:37:06.036Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.baxterandsimpsonbucks.co.uk/used-vauxhall-vivaro-life-little-marlow-buckinghamshire-6379518",
+    "dealer_id": "7229",
+    "car_id": "25834536",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HV70NXX",
+        "registration_date": "26/02/2021",
+        "mileage": 42720,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17490,
+        "total_price": 17490,
+        "deposit": 1749,
+        "balance": 15741,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 330.4,
+        "final_payment": 331.4,
+        "total_amount_payable": 21574,
+        "total_charge_for_credit": 4084,
+        "amount_of_credit": 15741,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

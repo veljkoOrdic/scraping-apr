@@ -1,12 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T23:31:00.510Z",
+    "timestamp": "2025-05-15T17:31:18.023Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sloughvan.com/used-mercedes-benz-sprinter-slough-berkshire-6767985",
     "dealer_id": "8337",
     "car_id": "27335250",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX74OHO",
+        "registration_date": "21/11/2024",
+        "mileage": 1776,
+        "status": "Used"
+      }
+    ]
   }
 ]

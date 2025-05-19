@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:49:19.065Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.winterstokemotorcompany.co.uk/vehicle-details/used-suzuki-jimny-sz5-for-sale-bristol-u90292/",
+    "dealer_id": "5477",
+    "car_id": "27856117",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "JB74W-203906",
+        "registration_date": "01/11/2023",
+        "mileage": 210,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 1299.75,
+        "balance": 24695.25,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 620.14,
+        "final_payment": 621.14,
+        "total_amount_payable": 31067.47,
+        "total_charge_for_credit": 5072.47,
+        "amount_of_credit": 24695.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:51:29.138Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.eastangliacarsales.co.uk/details/used-car-in-newbourne-road/bmw/3series/2.0-320d-sport-auto-xdrive-euro-6-ss-4dr/1397461/",
+    "dealer_id": "7545",
+    "car_id": "27271777",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AX16FCA",
+        "registration_date": "16/07/2016",
+        "mileage": 51162,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12995,
+        "total_price": 12995,
+        "deposit": 10,
+        "balance": 12985,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 290.11,
+        "final_payment": 291.11,
+        "total_amount_payable": 17417.6,
+        "total_charge_for_credit": 4422.6,
+        "amount_of_credit": 12985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

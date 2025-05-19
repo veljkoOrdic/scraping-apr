@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:27:12.256Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.horderns.co.uk/used-cars/used/suzuki-sx4-s-cross-1.4l-ultra-boosterjet-mhev-4x4-suv-5dr-hybrid-manual-euro-6-(127-bhp)-in-high-peak-derbyshire/71713",
+    "dealer_id": "5474",
+    "car_id": "27807580",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "S-CROSS",
+        "variant": "HATCHBACK",
+        "derivative": "1.4 Boosterjet 48V Hybrid Ultra ALLGRIP",
+        "registration_number": "YP23HBK",
+        "registration_date": "31/03/2023",
+        "mileage": 11315,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 488.45,
+        "final_payment": 488.45,
+        "total_amount_payable": 25645.1,
+        "total_charge_for_credit": 3650.1,
+        "amount_of_credit": 19795.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.54,
+        "term": 48,
+        "regular_payment": 347.44,
+        "final_payment": 8385,
+        "total_amount_payable": 26914.18,
+        "total_charge_for_credit": 4919.18,
+        "amount_of_credit": 19795.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 8375,
+        "price_to_buy": 8385
+      }
+    ]
+  }
+]

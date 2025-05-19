@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:56:37.885Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rmfisher.co.uk/used-car-details/used-seat-ibiza-10-tsi-se-technology-euro-6-hatchback-blue-manual-petrol/id-202504231615919/",
+    "dealer_id": "5083",
+    "car_id": "27878300",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PE18EJL",
+        "registration_date": "09/03/2018",
+        "mileage": 56040,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 1349,
+        "balance": 7646,
+        "apr": 11.4,
+        "rate_of_interest": 11.32,
+        "term": 33,
+        "regular_payment": 268.72,
+        "final_payment": 278.72,
+        "total_amount_payable": 10226.76,
+        "total_charge_for_credit": 1231.76,
+        "amount_of_credit": 7646,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8995,
+        "total_price": 8995,
+        "deposit": 1349,
+        "balance": 7646,
+        "apr": 11.4,
+        "rate_of_interest": 11.33,
+        "term": 33,
+        "regular_payment": 183.48,
+        "final_payment": 3452.5,
+        "total_amount_payable": 10672.86,
+        "total_charge_for_credit": 1677.86,
+        "amount_of_credit": 7646,
+        "lender": "Volkswagen Financial Services (UK Limited)",
+        "annual_mileage": 12000,
+        "contract_mileage": 33000,
+        "excess_mileage_rate": 0,
+        "residual": 3442.5,
+        "price_to_buy": 3452.5
+      }
+    ]
+  }
+]

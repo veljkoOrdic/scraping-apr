@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:08:57.808Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.britanniamotorcompany.com/used-volkswagen-polo-newport-gwent-6514186",
+    "dealer_id": "5200",
+    "car_id": "26346871",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PF72RTU",
+        "registration_date": "10/01/2023",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 308.54,
+        "final_payment": 308.54,
+        "total_amount_payable": 20111.4,
+        "total_charge_for_credit": 4121.4,
+        "amount_of_credit": 14391,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1599,
+        "balance": 14391,
+        "apr": 10.9,
+        "rate_of_interest": 5.67,
+        "term": 49,
+        "regular_payment": 248.66,
+        "final_payment": 7108,
+        "total_amount_payable": 20642.68,
+        "total_charge_for_credit": 4652.68,
+        "amount_of_credit": 14391,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0,
+        "residual": 7108,
+        "price_to_buy": 7108
+      }
+    ]
+  }
+]

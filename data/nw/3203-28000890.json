@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:19:42.570Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.uplandsmotorcompany.co.uk/used-bmw-x5-cuffley-hertfordshire-6931470",
+    "dealer_id": "3203",
+    "car_id": "28000890",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YG70GVW",
+        "registration_date": "18/11/2020",
+        "mileage": 52000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 787.85,
+        "final_payment": 788.85,
+        "total_amount_payable": 51271,
+        "total_charge_for_credit": 11281,
+        "amount_of_credit": 35991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39990,
+        "total_price": 39990,
+        "deposit": 3999,
+        "balance": 35991,
+        "apr": 11.9,
+        "rate_of_interest": 5.8,
+        "term": 49,
+        "regular_payment": 634.07,
+        "final_payment": 18349.75,
+        "total_amount_payable": 52784.11,
+        "total_charge_for_credit": 12794.11,
+        "amount_of_credit": 35991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 18348.75,
+        "price_to_buy": 18349.75
+      }
+    ]
+  }
+]

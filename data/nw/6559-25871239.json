@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:51:45.360Z",
+    "timestamp": "2025-05-15T18:24:24.033Z",
     "source": "new_vehicle_finance",
     "url": "https://www.imperials.co.uk/used-car-details/used-ferrari-f430-43-spider-f1-dct-2dr-convertible-grigio-titanio-automatic-petrol/id-202410074928166/",
     "dealer_id": "6559",
@@ -12,6 +12,29 @@
         "registration_date": "01/09/2005",
         "mileage": 30000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64948,
+        "total_price": 64948,
+        "deposit": 22731,
+        "balance": 42217,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 886.04,
+        "final_payment": 896.04,
+        "balloon": 0,
+        "total_amount_payable": 75903.4,
+        "total_charge_for_credit": 10955.4,
+        "amount_of_credit": 42217,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 896.04
       }
     ]
   }

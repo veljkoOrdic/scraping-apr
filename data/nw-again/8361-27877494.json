@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:46:40.358Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mkcarsales.co.uk/used/volkswagen/tiguan/15-tsi-evo-150-match-5dr-dsg-kr20cjv/milton-keynes/buckinghamshire/21588776",
+    "dealer_id": "8361",
+    "car_id": "27877494",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR20CJV",
+        "registration_date": "30/06/2020",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17595,
+        "total_price": 17595,
+        "deposit": 0,
+        "balance": 17595,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 457.27,
+        "final_payment": 458.27,
+        "total_amount_payable": 21949.96,
+        "total_charge_for_credit": 4354.96,
+        "amount_of_credit": 17595,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17595,
+        "total_price": 17595,
+        "deposit": 0,
+        "balance": 17595,
+        "apr": 11.9,
+        "rate_of_interest": 5.85,
+        "term": 49,
+        "regular_payment": 333.85,
+        "final_payment": 7516.61,
+        "total_amount_payable": 23541.41,
+        "total_charge_for_credit": 5946.41,
+        "amount_of_credit": 17595,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.08,
+        "residual": 7515.61,
+        "price_to_buy": 7516.61
+      }
+    ]
+  }
+]

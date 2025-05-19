@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:47:01.600Z",
+    "timestamp": "2025-05-15T16:21:48.877Z",
     "source": "new_vehicle_finance",
     "url": "https://www.gdmotors.co.uk/details/used-van-in-armadale/vauxhall/vivaro/1.6-cdti-2700-ecoflex-l1-h1-ss-5dr/1271024/",
     "dealer_id": "7791",
@@ -12,6 +12,29 @@
         "registration_date": "11/06/2015",
         "mileage": 100375,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 0,
+        "balance": 6995,
+        "apr": 13.4,
+        "rate_of_interest": 7.06,
+        "term": 60,
+        "regular_payment": 157.76,
+        "final_payment": 167.76,
+        "balloon": 0,
+        "total_amount_payable": 9475.6,
+        "total_charge_for_credit": 2480.6,
+        "amount_of_credit": 6995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 167.76
       },
       {
         "type": "finance_hp",

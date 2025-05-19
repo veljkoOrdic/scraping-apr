@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:23:46.984Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fairleecarsales.co.uk/cars/nissan/qashqai/acenta-dig-t-smart-vision/966251/",
+    "dealer_id": "5664",
+    "car_id": "23433694",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX66XSF",
+        "registration_date": "06/09/2016",
+        "mileage": 68000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 192.73,
+        "final_payment": 202.73,
+        "balloon": 0,
+        "total_amount_payable": 12573.3,
+        "total_charge_for_credit": 2578.3,
+        "amount_of_credit": 8995.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 202.73
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999.5,
+        "balance": 8995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 192.85,
+        "final_payment": 193.85,
+        "total_amount_payable": 12571.5,
+        "total_charge_for_credit": 2576.5,
+        "amount_of_credit": 8995.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

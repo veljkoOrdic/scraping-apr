@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:55:56.569Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.m4sales.co.uk/vehicle-details/used-ford-transit-460-ecoblue-leader-17-seat-for-sale-minibus-centre-u7274/",
+    "dealer_id": "7199",
+    "car_id": "28078054",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WV73ZRD",
+        "registration_date": "28/09/2023",
+        "mileage": 3520,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 43194,
+        "total_price": 43194,
+        "deposit": 0,
+        "balance": 43194,
+        "apr": 13.1,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 968.85,
+        "final_payment": 968.85,
+        "balloon": 0,
+        "total_amount_payable": 58131,
+        "total_charge_for_credit": 14937,
+        "amount_of_credit": 43194,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 968.85
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43194,
+        "total_price": 43194,
+        "deposit": 0,
+        "balance": 43194,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 984.68,
+        "final_payment": 985.68,
+        "total_amount_payable": 59081.8,
+        "total_charge_for_credit": 15887.8,
+        "amount_of_credit": 43194,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

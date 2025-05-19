@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:57:42.532Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/mini/hatch/2.0-3-door-hatch-cooper-s-sport-jcwjohn-cooper-works-styling/1465821/",
+    "dealer_id": "6287",
+    "car_id": "28055908",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WP68WPX",
+        "registration_date": "24/12/2018",
+        "mileage": 34785,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15470,
+        "total_price": 15470,
+        "deposit": 1547,
+        "balance": 13923,
+        "apr": 15.9,
+        "rate_of_interest": 8.44,
+        "term": 60,
+        "regular_payment": 330,
+        "final_payment": 340,
+        "balloon": 0,
+        "total_amount_payable": 21357,
+        "total_charge_for_credit": 5887,
+        "amount_of_credit": 13923,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 340
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15470,
+        "total_price": 15470,
+        "deposit": 1547,
+        "balance": 13923,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 298.49,
+        "final_payment": 299.49,
+        "total_amount_payable": 19457.4,
+        "total_charge_for_credit": 3987.4,
+        "amount_of_credit": 13923,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

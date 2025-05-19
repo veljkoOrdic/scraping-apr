@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T15:31:53.010Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-volkswagen-golf-oldham-greater-manchester-6887308",
+    "dealer_id": "6862",
+    "car_id": "27850320",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI 245 GTI Performance",
+        "registration_number": "VK18HGE",
+        "registration_date": "05/04/2018",
+        "mileage": 55000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 18449,
+        "total_price": 18449,
+        "deposit": 1844,
+        "balance": 16605,
+        "apr": 10.9,
+        "rate_of_interest": 5.6,
+        "term": 34,
+        "regular_payment": 399.51,
+        "final_payment": 6943.51,
+        "total_amount_payable": 21971.34,
+        "total_charge_for_credit": 3522.34,
+        "amount_of_credit": 16605,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 28333,
+        "excess_mileage_rate": 6.11,
+        "residual": 6943.51,
+        "price_to_buy": 6943.51
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18449,
+        "total_price": 18449,
+        "deposit": 1844,
+        "balance": 16605,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 356.01,
+        "final_payment": 356.01,
+        "total_amount_payable": 23204.6,
+        "total_charge_for_credit": 4755.6,
+        "amount_of_credit": 16605,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

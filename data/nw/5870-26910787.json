@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:30:25.198Z",
+    "timestamp": "2025-05-15T16:49:44.352Z",
     "source": "new_vehicle_finance",
     "url": "https://www.newmacharmotors.co.uk/vehicle-details/used-audi-q5-tfsie-s-line-for-sale-in-newmachar-aberdeenshire-u1446/",
     "dealer_id": "5870",
@@ -12,6 +12,29 @@
         "registration_date": "30/03/2022",
         "mileage": 35000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 99,
+        "balance": 28896,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 625.9,
+        "final_payment": 635.9,
+        "balloon": 0,
+        "total_amount_payable": 37663,
+        "total_charge_for_credit": 8668,
+        "amount_of_credit": 28896,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 635.9
       },
       {
         "type": "finance_hp",
@@ -42,20 +65,20 @@
         "total_price": 28995,
         "deposit": 99,
         "balance": 28896,
-        "apr": 11.9,
-        "rate_of_interest": 5.85,
-        "term": 49,
-        "regular_payment": 551.09,
-        "final_payment": 12173.5,
-        "balloon": 12172.5,
-        "total_amount_payable": 38724.82,
-        "total_charge_for_credit": 9729.82,
+        "apr": 11.4,
+        "rate_of_interest": 5.92,
+        "term": 48,
+        "regular_payment": 554.061850757203,
+        "final_payment": 11954.06,
+        "balloon": 11390,
+        "total_amount_payable": 38093.97,
+        "total_charge_for_credit": 9098.97,
         "amount_of_credit": 28896,
-        "lender": "Motonovo Finance Limited",
+        "lender": "Close Brothers Motor Finance",
         "annual_mileage": 12000,
         "excess_mileage_rate": 0,
-        "residual": 12172.5,
-        "price_to_buy": 12173.5
+        "residual": 11390,
+        "price_to_buy": 11954.06
       },
       {
         "type": "finance_pcp",
@@ -68,17 +91,17 @@
         "apr": 10.9,
         "rate_of_interest": 5.37,
         "term": 49,
-        "regular_payment": 534.44,
-        "final_payment": 12173.76,
-        "total_amount_payable": 37925.88,
-        "total_charge_for_credit": 8930.88,
+        "regular_payment": 536.62,
+        "final_payment": 12043.79,
+        "total_amount_payable": 37900.55,
+        "total_charge_for_credit": 8905.55,
         "amount_of_credit": 28896,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 12000,
         "contract_mileage": 49000,
         "excess_mileage_rate": 0.14,
-        "residual": 12172.76,
-        "price_to_buy": 12173.76
+        "residual": 12042.79,
+        "price_to_buy": 12043.79
       }
     ]
   }

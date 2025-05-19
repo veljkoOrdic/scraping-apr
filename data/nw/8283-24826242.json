@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T23:12:17.483Z",
+    "timestamp": "2025-05-15T17:24:57.514Z",
     "source": "new_vehicle_finance",
     "url": "https://www.vansco.co.uk/vehicle-details/used-land-rover-defender-90-3-0-d300-mhev-75th-limited-edition-suv-3dr-diesel-auto-4wd-euro-6-s-s-300-ps-for-sale-vansco-333-showroom-u10222/",
     "dealer_id": "8283",
@@ -12,6 +12,29 @@
         "registration_date": "14/08/2023",
         "mileage": 24000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 9995,
+        "balance": 50000,
+        "apr": 12.2,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 1101.41,
+        "final_payment": 1101.41,
+        "balloon": 0,
+        "total_amount_payable": 76079.6,
+        "total_charge_for_credit": 16084.6,
+        "amount_of_credit": 50000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1101.41
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 13.9,
         "rate_of_interest": 7.25,
         "term": 49,
-        "regular_payment": 832.37,
-        "final_payment": 32364.75,
-        "balloon": 32363.75,
-        "total_amount_payable": 82313.51,
-        "total_charge_for_credit": 22318.51,
+        "regular_payment": 838.08,
+        "final_payment": 32003.5,
+        "balloon": 32002.5,
+        "total_amount_payable": 82226.34,
+        "total_charge_for_credit": 22231.34,
         "amount_of_credit": 50000,
         "lender": "MI Vehicle Finance Limited",
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
-        "residual": 32363.75,
-        "price_to_buy": 32364.75
+        "residual": 32002.5,
+        "price_to_buy": 32003.5
       },
       {
         "type": "finance_pcp",
@@ -68,17 +91,17 @@
         "apr": 12.3,
         "rate_of_interest": 6.25,
         "term": 48,
-        "regular_payment": 770.29,
-        "final_payment": 33462.79,
-        "total_amount_payable": 79661.42,
-        "total_charge_for_credit": 19666.42,
+        "regular_payment": 776.97,
+        "final_payment": 33065.72,
+        "total_amount_payable": 79578.31,
+        "total_charge_for_credit": 19583.31,
         "amount_of_credit": 50000,
         "lender": "Close Brothers Motor Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40000,
         "excess_mileage_rate": 0.12,
-        "residual": 32682.5,
-        "price_to_buy": 33462.79
+        "residual": 32278.75,
+        "price_to_buy": 33065.72
       }
     ]
   }

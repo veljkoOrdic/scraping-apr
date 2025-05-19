@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:57:54.428Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carpointuk.co.uk/details/used-car-in-newport/bmw/1series/1.5-118i-m-sport-euro-6-ss-5dr/1276432/",
+    "dealer_id": "6786",
+    "car_id": "25805226",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PF66EOE",
+        "registration_date": "19/10/2016",
+        "mileage": 24362,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12599,
+        "total_price": 12599,
+        "deposit": 500,
+        "balance": 12099,
+        "apr": 12.9,
+        "rate_of_interest": 6.64,
+        "term": 60,
+        "regular_payment": 268.61,
+        "final_payment": 318.61,
+        "total_amount_payable": 16716.6,
+        "total_charge_for_credit": 4117.6,
+        "amount_of_credit": 12099,
+        "lender": "Oodle Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

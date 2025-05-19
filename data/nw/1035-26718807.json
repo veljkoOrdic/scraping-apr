@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:10:25.861Z",
+    "timestamp": "2025-05-15T15:32:52.656Z",
     "source": "new_vehicle_finance",
     "url": "https://www.xways.co.uk/used-bmw-1-series-halstead-essex-6605733",
     "dealer_id": "1035",
@@ -12,6 +12,29 @@
         "registration_date": "26/10/2018",
         "mileage": 39000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20495,
+        "total_price": 20495,
+        "deposit": 2049,
+        "balance": 18446,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 412.02,
+        "final_payment": 422.02,
+        "balloon": 0,
+        "total_amount_payable": 26780.2,
+        "total_charge_for_credit": 6285.2,
+        "amount_of_credit": 18446,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 422.02
       },
       {
         "type": "finance_hp",

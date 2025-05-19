@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:58:09.440Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.albamotorcompanyltd.co.uk/used-mercedes-benz-c-class-edinburgh-midlothian-6777437",
+    "dealer_id": "3885",
+    "car_id": "27377236",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ66GHK",
+        "registration_date": "25/11/2016",
+        "mileage": 72500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13995,
+        "total_price": 13995,
+        "deposit": 1000,
+        "balance": 12995,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 284.34,
+        "final_payment": 294.34,
+        "balloon": 0,
+        "total_amount_payable": 18070.4,
+        "total_charge_for_credit": 4075.4,
+        "amount_of_credit": 12995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 294.34
+      }
+    ]
+  }
+]

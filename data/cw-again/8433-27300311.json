@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:30:51.940Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hartingtonmotors.co.uk/used-porsche-taycan-standish-wigan-greater-manchester-6737749",
+    "dealer_id": "8433",
+    "car_id": "27300311",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "420kW 4S 93kWh",
+        "registration_number": "88BC",
+        "registration_date": "01/03/2021",
+        "mileage": 30498,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48495,
+        "total_price": 48495,
+        "deposit": 4849,
+        "balance": 43646,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 718.18,
+        "final_payment": 14023.81,
+        "total_amount_payable": 61245.43,
+        "total_charge_for_credit": 12750.43,
+        "amount_of_credit": 43646,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.5,
+        "residual": 14022.81,
+        "price_to_buy": 14023.81
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48495,
+        "total_price": 48495,
+        "deposit": 4849,
+        "balance": 43646,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 60,
+        "regular_payment": 896.64,
+        "final_payment": 897.64,
+        "total_amount_payable": 58648.4,
+        "total_charge_for_credit": 10153.4,
+        "amount_of_credit": 43646,
+        "lender": "Auto Union Finance Ltd.",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

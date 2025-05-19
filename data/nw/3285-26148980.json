@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:28:04.416Z",
+    "source": "new_vehicle_finance",
+    "url": "https://janautos.co.uk/vehicle/name/volkswagen-caddy-maxi-caddy-maxi-1-5-tsi-life-dsg-euro-6-s-s-5dr-applecarplay7seatssensor/",
+    "dealer_id": "3285",
+    "car_id": "26148980",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ23HKV",
+        "registration_date": "20/06/2023",
+        "mileage": 38523,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31788,
+        "total_price": 31788,
+        "deposit": 0,
+        "balance": 31788,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 710.12,
+        "final_payment": 720.12,
+        "total_amount_payable": 42617.2,
+        "total_charge_for_credit": 10829.2,
+        "amount_of_credit": 31788,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:37:56.211Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorvans.co.uk/used/commercials/ford/transit-custom/genuine-ms-rt-sport-crew-cab-swb-l1h1-310-alloys-air-con-1775",
+    "dealer_id": "7281",
+    "car_id": "24818825",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LT68OJR",
+        "registration_date": "03/09/2018",
+        "mileage": 39946,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28776,
+        "total_price": 28776,
+        "deposit": 5995,
+        "balance": 22781,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 498.68,
+        "final_payment": 499.68,
+        "total_amount_payable": 35916.8,
+        "total_charge_for_credit": 7140.8,
+        "amount_of_credit": 22781,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 20000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

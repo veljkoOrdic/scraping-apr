@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:56:26.317Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jrccars.co.uk/cars/volkswagen/cc/2.0-tdi-bluemotion-tech/1468279/",
+    "dealer_id": "6781",
+    "car_id": "28078078",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BN61NRY",
+        "registration_date": "20/09/2011",
+        "mileage": 115000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3450,
+        "total_price": 3450,
+        "deposit": 345,
+        "balance": 3105,
+        "apr": 14.9,
+        "rate_of_interest": 7.86,
+        "term": 60,
+        "regular_payment": 72.08,
+        "final_payment": 82.08,
+        "balloon": 0,
+        "total_amount_payable": 4679.8,
+        "total_charge_for_credit": 1229.8,
+        "amount_of_credit": 3105,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 82.08
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3450,
+        "total_price": 3450,
+        "deposit": 345,
+        "balance": 3105,
+        "apr": 14.9,
+        "rate_of_interest": 7.86,
+        "term": 60,
+        "regular_payment": 72.08,
+        "final_payment": 82.08,
+        "total_amount_payable": 4679.8,
+        "total_charge_for_credit": 1229.8,
+        "amount_of_credit": 3105,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:04:49.794Z",
+    "timestamp": "2025-05-15T18:04:23.336Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kingsroadgarage.co.uk/vehicle-details/used-jaguar-f-type-v8-first-edition-for-sale-in-hertfordshire-u5191/",
     "dealer_id": "6375",
@@ -12,6 +12,29 @@
         "registration_date": "20/10/2020",
         "mileage": 35000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 40995,
+        "total_price": 40995,
+        "deposit": 4099.5,
+        "balance": 36895.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 824.24,
+        "final_payment": 834.24,
+        "balloon": 0,
+        "total_amount_payable": 53563.9,
+        "total_charge_for_credit": 12568.9,
+        "amount_of_credit": 36895.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 834.24
       },
       {
         "type": "finance_pcp",

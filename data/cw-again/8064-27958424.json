@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:44:30.469Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.themanchestermotorcompany.co.uk/used-land-rover-range-rover-bolton-greater-manchester-6922573",
+    "dealer_id": "8064",
+    "car_id": "27958424",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 SDV6 Vogue SE",
+        "registration_number": "HG68XML",
+        "registration_date": "29/10/2018",
+        "mileage": 67200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28790,
+        "total_price": 28790,
+        "deposit": 2879,
+        "balance": 25911,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 41,
+        "regular_payment": 545.41,
+        "final_payment": 12804.53,
+        "total_amount_payable": 37499.93,
+        "total_charge_for_credit": 8709.93,
+        "amount_of_credit": 25911,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 34166,
+        "excess_mileage_rate": 8.28,
+        "residual": 12804.53,
+        "price_to_buy": 12804.53
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28790,
+        "total_price": 28790,
+        "deposit": 2879,
+        "balance": 25911,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 575.44,
+        "final_payment": 575.44,
+        "total_amount_payable": 37405.4,
+        "total_charge_for_credit": 8615.4,
+        "amount_of_credit": 25911,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

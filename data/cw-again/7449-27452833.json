@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:37:11.335Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mjmotorcompany.co.uk/used/cars/skoda/fabia/1-0-fabia-monte-carlo-tsi-5dr-143",
+    "dealer_id": "7449",
+    "car_id": "27452833",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "FABIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 Monte Carlo",
+        "registration_number": "KO18DTX",
+        "registration_date": "16/07/2018",
+        "mileage": 54000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 8895,
+        "total_price": 8895,
+        "deposit": 889.5,
+        "balance": 8005.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 26,
+        "regular_payment": 214.38,
+        "final_payment": 4284,
+        "total_amount_payable": 10533,
+        "total_charge_for_credit": 1638,
+        "amount_of_credit": 8005.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 21666,
+        "excess_mileage_rate": 7,
+        "residual": 4284,
+        "price_to_buy": 4284
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8895,
+        "total_price": 8895,
+        "deposit": 889.5,
+        "balance": 8005.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 178.86,
+        "final_payment": 178.86,
+        "total_amount_payable": 11621.1,
+        "total_charge_for_credit": 2726.1,
+        "amount_of_credit": 8005.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-15T01:57:49.442Z",
+    "timestamp": "2025-05-15T18:21:32.439Z",
     "source": "new_vehicle_finance",
     "url": "https://www.tonesusedcars.com/used-jaguar-e-pace-hartlepool-county-durham-6492480",
     "dealer_id": "4304",
     "car_id": "26265206",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA69PVZ",
+        "registration_date": "15/11/2019",
+        "mileage": 41302,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 0,
+        "balance": 19995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 437.69,
+        "final_payment": 438.69,
+        "total_amount_payable": 26262.4,
+        "total_charge_for_credit": 6267.4,
+        "amount_of_credit": 19995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

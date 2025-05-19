@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:01:58.031Z",
+    "timestamp": "2025-05-15T19:06:16.217Z",
     "source": "new_vehicle_finance",
     "url": "https://www.leedsmotorcompany.co.uk/used-nissan-x-trail-leeds-west-yorkshire-6624975",
     "dealer_id": "6818",
@@ -14,6 +14,29 @@
         "status": "Used"
       },
       {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19895,
+        "total_price": 19895,
+        "deposit": 299,
+        "balance": 19596,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 526.39,
+        "final_payment": 536.39,
+        "balloon": 0,
+        "total_amount_payable": 25575.72,
+        "total_charge_for_credit": 5680.72,
+        "amount_of_credit": 19596,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 536.39
+      },
+      {
         "type": "finance_pcp",
         "name": "PCP",
         "finance_type": "PCP",
@@ -24,17 +47,17 @@
         "apr": 13.9,
         "rate_of_interest": 7.24,
         "term": 48,
-        "regular_payment": 409.163132197031,
-        "final_payment": 7771.66,
-        "total_amount_payable": 27301.33,
-        "total_charge_for_credit": 7406.33,
+        "regular_payment": 410.859438069413,
+        "final_payment": 7667.11,
+        "total_amount_payable": 27276.5,
+        "total_charge_for_credit": 7381.5,
         "amount_of_credit": 19596,
         "lender": "Close Brothers Motor Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40000,
         "excess_mileage_rate": 0.12,
-        "residual": 7352.5,
-        "price_to_buy": 7771.66
+        "residual": 7246.25,
+        "price_to_buy": 7667.11
       }
     ]
   }

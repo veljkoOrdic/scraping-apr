@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T19:01:22.860Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.orchardmillmotorcompany.co.uk/cars/renault/clio/1.2-dynamique-tomtom/1356043/",
+    "dealer_id": "6791",
+    "car_id": "26778946",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS12SVJ",
+        "registration_date": "30/03/2012",
+        "mileage": 74000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3295,
+        "total_price": 3295,
+        "deposit": 329.5,
+        "balance": 2965.5,
+        "apr": 16,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 70.45,
+        "final_payment": 70.45,
+        "balloon": 0,
+        "total_amount_payable": 4556.5,
+        "total_charge_for_credit": 1261.5,
+        "amount_of_credit": 2965.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 70.45
+      }
+    ]
+  }
+]

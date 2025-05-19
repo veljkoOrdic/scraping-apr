@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T00:54:37.080Z",
+    "timestamp": "2025-05-15T18:10:51.782Z",
     "source": "new_vehicle_finance",
-    "url": "https://www.warfordcarsltd.co.uk/details/used-car-in-altrincham/porsche/718spyder/4.0-rs-spyder-pdk-euro-6-ss-2dr/1435499/",
+    "url": "https://www.warfordcarsltd.co.uk/details/car-in-altrincham/porsche/718spyder/4.0-rs-spyder-pdk-euro-6-ss-2dr/1435499/",
     "dealer_id": "8670",
     "car_id": "27733614",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "PK24EUL",
-        "registration_date": "05/06/2024",
-        "mileage": 1385,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 134995,
-        "total_price": 134995,
-        "deposit": 34995,
-        "balance": 100000,
-        "apr": 8.9,
-        "rate_of_interest": 4.61,
-        "term": 48,
-        "regular_payment": 2467.32,
-        "final_payment": 2477.32,
-        "total_amount_payable": 153436.36,
-        "total_charge_for_credit": 18441.36,
-        "amount_of_credit": 100000,
-        "lender": "Northridge Finance",
-        "annual_mileage": 6000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 134995,
-        "total_price": 134995,
-        "deposit": 13499.5,
-        "balance": 121495.5,
-        "apr": 11.9,
-        "rate_of_interest": 6.19,
-        "term": 48,
-        "regular_payment": 2079.72,
-        "final_payment": 67108,
-        "total_amount_payable": 178354.34,
-        "total_charge_for_credit": 43359.34,
-        "amount_of_credit": 121495.5,
-        "lender": "CA Auto Finance UK Ltd",
-        "annual_mileage": 6000,
-        "contract_mileage": 24000,
-        "excess_mileage_rate": 0.12,
-        "residual": 67098,
-        "price_to_buy": 67108
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

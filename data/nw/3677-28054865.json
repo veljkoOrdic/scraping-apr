@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:41:32.104Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.parklandmotors.co.uk/used-mercedes-benz-e-class-costock-leicestershire-6945504",
+    "dealer_id": "3677",
+    "car_id": "28054865",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF68RVO",
+        "registration_date": "30/09/2018",
+        "mileage": 10,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30153,
+        "total_price": 30153,
+        "deposit": 3015,
+        "balance": 27138,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 569.65,
+        "final_payment": 569.65,
+        "balloon": 0,
+        "total_amount_payable": 37194,
+        "total_charge_for_credit": 7041,
+        "amount_of_credit": 27138,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 569.65
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30153,
+        "total_price": 30153,
+        "deposit": 3015,
+        "balance": 27138,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 569.65,
+        "final_payment": 570.65,
+        "total_amount_payable": 37195,
+        "total_charge_for_credit": 7042,
+        "amount_of_credit": 27138,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

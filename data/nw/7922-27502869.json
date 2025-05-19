@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:37:12.179Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehighlinecargroup.co.uk/used/cars/mercedes-benz/a-class/2-0-a45-amg-4matic-auto-4wd-5dr-243",
+    "dealer_id": "7922",
+    "car_id": "27502869",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EF14UCB",
+        "registration_date": "01/07/2014",
+        "mileage": 66000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 302.17,
+        "final_payment": 302.17,
+        "total_amount_payable": 19729.7,
+        "total_charge_for_credit": 3734.7,
+        "amount_of_credit": 14395.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

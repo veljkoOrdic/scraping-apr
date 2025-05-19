@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:01:17.496Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.selectmotorsgb.co.uk/details/used-car-in-colindale/tesla/modely/dual-motor-long-range-auto-4wde-5dr/1404848/",
+    "dealer_id": "7633",
+    "car_id": "27346523",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL Y",
+        "variant": "HATCHBACK",
+        "derivative": "Long Range",
+        "registration_number": "LD73XRN",
+        "registration_date": "07/10/2023",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28989,
+        "total_price": 28989,
+        "deposit": 2898.9,
+        "balance": 26090.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 398.82,
+        "final_payment": 14726.25,
+        "total_amount_payable": 37167.33,
+        "total_charge_for_credit": 8178.33,
+        "amount_of_credit": 26090.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 10.17,
+        "residual": 14726.25,
+        "price_to_buy": 14726.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28989,
+        "total_price": 28989,
+        "deposit": 2898.9,
+        "balance": 26090.1,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 547.64,
+        "final_payment": 548.64,
+        "total_amount_payable": 35758.3,
+        "total_charge_for_credit": 6769.3,
+        "amount_of_credit": 26090.1,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

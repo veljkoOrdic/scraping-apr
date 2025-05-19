@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T22:40:47.273Z",
+    "timestamp": "2025-05-15T16:55:17.113Z",
     "source": "new_vehicle_finance",
     "url": "https://www.djautos.com/used-skoda-karoq-leighton-buzzard-bedfordshire-5036096",
     "dealer_id": "2495",
     "car_id": "20105158",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "BL69JXX",
-        "registration_date": "02/12/2019",
-        "mileage": 36000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 13195,
-        "total_price": 13195,
-        "deposit": 1319,
-        "balance": 11876,
-        "apr": 11.9,
-        "rate_of_interest": 6.27,
-        "term": 60,
-        "regular_payment": 259.96,
-        "final_payment": 260.96,
-        "total_amount_payable": 16917.6,
-        "total_charge_for_credit": 3722.6,
-        "amount_of_credit": 11876,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

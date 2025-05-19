@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:53.717Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.verdicars.com/details/used-car-in-redhill/audi/a3/2.0-tfsi-s-line-s-tronic-quattro-euro-6-ss-2dr/1435102/",
+    "dealer_id": "7178",
+    "car_id": "27939688",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CE67OAJ",
+        "registration_date": "27/09/2017",
+        "mileage": 33000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17289,
+        "total_price": 17289,
+        "deposit": 864.45,
+        "balance": 16424.55,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 412.44,
+        "final_payment": 413.44,
+        "total_amount_payable": 20662.57,
+        "total_charge_for_credit": 3373.57,
+        "amount_of_credit": 16424.55,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

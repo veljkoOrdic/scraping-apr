@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T11:58:45.377Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.whitethorcars.co.uk/details/used-car-in-leicester/porsche/cayenne/4.0t-v8-turbo-tiptronics-4wd-euro-6-ss-5dr/1467367/",
+    "dealer_id": "397",
+    "car_id": "28066100",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AX69NFJ",
+        "registration_date": "03/09/2019",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62500,
+        "total_price": 62500,
+        "deposit": 2500,
+        "balance": 60000,
+        "apr": 7.9,
+        "rate_of_interest": 4.12,
+        "term": 60,
+        "regular_payment": 1205.92,
+        "final_payment": 1206.92,
+        "total_amount_payable": 74856.2,
+        "total_charge_for_credit": 12356.2,
+        "amount_of_credit": 60000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

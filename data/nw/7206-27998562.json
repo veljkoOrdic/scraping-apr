@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:57:51.120Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autochoicecarsupermarket.com/used-bentley-bentayga-blackburn-lancashire-6929959",
+    "dealer_id": "7206",
+    "car_id": "27998562",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX67TXN",
+        "registration_date": "01/01/2018",
+        "mileage": 69642,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 69985,
+        "total_price": 69985,
+        "deposit": 6998,
+        "balance": 62987,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1350.43,
+        "final_payment": 1350.43,
+        "total_amount_payable": 88023.8,
+        "total_charge_for_credit": 18038.8,
+        "amount_of_credit": 62987,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

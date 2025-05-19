@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:57:31.787Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.desirablecar.com/used-audi-q4-e-tron-coalville-leicestershire-6868652",
+    "dealer_id": "5957",
+    "car_id": "27763478",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ73FVD",
+        "registration_date": "15/11/2023",
+        "mileage": 10000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35687,
+        "total_price": 35687,
+        "deposit": 5353,
+        "balance": 30334,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 623.16,
+        "final_payment": 624.16,
+        "total_amount_payable": 42743.6,
+        "total_charge_for_credit": 7056.6,
+        "amount_of_credit": 30334,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

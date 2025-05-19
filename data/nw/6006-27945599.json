@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:21:14.093Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lamborghini-revuelto--2doors-coupe-automatic-petrol?id=1515470",
+    "dealer_id": "6006",
+    "car_id": "27945599",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV12REV",
+        "registration_date": "27/07/2019",
+        "mileage": 1600,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 539950,
+        "total_price": 539950,
+        "deposit": 0,
+        "balance": 539950,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 13912.71,
+        "final_payment": 13922.71,
+        "total_amount_payable": 667820.08,
+        "total_charge_for_credit": 127870.08,
+        "amount_of_credit": 539950,
+        "lender": "Automobili Lamborghini S.p.A.",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-05-15T15:41:59.658Z",
+    "source": "scuk_calculator_v1",
+    "url": "https://www.lesliecars.co.uk/cars/smart/fortwo/0.9-petrol-t--prime-premium-automatic-2-door/780265/",
+    "dealer_id": "6793",
+    "car_id": "18925294",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": null,
+        "model": null,
+        "derivative": null,
+        "variant": null,
+        "registration_number": "GY66EVX",
+        "registration_date": "2016-10-10",
+        "mileage": "24176",
+        "status": null
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "CS",
+        "cash_price": 10454,
+        "total_price": 10454,
+        "deposit": 1050,
+        "balance": null,
+        "apr": "10.9",
+        "rate_of_interest": "5.66",
+        "term": "48",
+        "regular_payment": "240.28",
+        "final_payment": "240.28",
+        "total_amount_payable": 12583.44,
+        "total_charge_for_credit": "2129.44",
+        "amount_of_credit": "9404.00",
+        "lender": "Santander Car",
+        "annual_mileage": null,
+        "contract_mileage": null,
+        "excess_mileage_rate": null,
+        "residual": null,
+        "price_to_buy": null
+      },
+      {
+        "type": "finance_ppb",
+        "name": "PPB",
+        "finance_type": "PPB",
+        "cash_price": 10454,
+        "total_price": 10454,
+        "deposit": 1050,
+        "balance": null,
+        "apr": "10.9",
+        "rate_of_interest": "5.62",
+        "term": "18",
+        "regular_payment": "339.33",
+        "final_payment": "4442",
+        "total_amount_payable": 11599.94,
+        "total_charge_for_credit": "1145.94",
+        "amount_of_credit": "9404.00",
+        "lender": "Santander Car",
+        "annual_mileage": "8000",
+        "contract_mileage": "8000",
+        "excess_mileage_rate": null,
+        "residual": "4442",
+        "price_to_buy": "4442"
+      }
+    ]
+  }
+]

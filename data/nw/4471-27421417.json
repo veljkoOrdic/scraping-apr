@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:44:04.328Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.woodstockcarsales.co.uk/used-dacia-duster-witney-oxfordshire-6789044",
+    "dealer_id": "4471",
+    "car_id": "27421417",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ML22RFN",
+        "registration_date": "12/05/2022",
+        "mileage": 17000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 316.17,
+        "final_payment": 317.17,
+        "total_amount_payable": 16576.16,
+        "total_charge_for_credit": 2586.16,
+        "amount_of_credit": 12591,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13990,
+        "total_price": 13990,
+        "deposit": 1399,
+        "balance": 12591,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 203.93,
+        "final_payment": 6572.85,
+        "total_amount_payable": 17760.49,
+        "total_charge_for_credit": 3770.49,
+        "amount_of_credit": 12591,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 6571.85,
+        "price_to_buy": 6572.85
+      }
+    ]
+  }
+]

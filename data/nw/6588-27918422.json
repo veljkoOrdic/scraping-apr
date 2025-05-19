@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:27:33.546Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.streetcars-crewe.co.uk/cars/ford/fiesta/1.25-zetec/1453898/",
+    "dealer_id": "6588",
+    "car_id": "27918422",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NK65RVW",
+        "registration_date": "17/09/2015",
+        "mileage": 96700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4290,
+        "total_price": 4290,
+        "deposit": 429,
+        "balance": 3861,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 81.05,
+        "final_payment": 81.05,
+        "total_amount_payable": 5292,
+        "total_charge_for_credit": 1002,
+        "amount_of_credit": 3861,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

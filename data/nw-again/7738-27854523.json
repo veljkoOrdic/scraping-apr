@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:04:08.593Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hothatches.co.uk/listings/kf18dbo/",
+    "dealer_id": "7738",
+    "car_id": "27854523",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KF18DBO",
+        "registration_date": "09/03/2018",
+        "mileage": 28923,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 62500,
+        "total_price": 62500,
+        "deposit": 6250,
+        "balance": 56250,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1387.96,
+        "final_payment": 1388.96,
+        "total_amount_payable": 72873.08,
+        "total_charge_for_credit": 10373.08,
+        "amount_of_credit": 56250,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

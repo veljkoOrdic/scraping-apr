@@ -1,12 +1,85 @@
 [
   {
-    "timestamp": "2025-04-15T01:46:00.667Z",
+    "timestamp": "2025-05-15T18:22:15.499Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sourceanycar.com/used-audi-q4-e-tron-leeds-west-yorkshire-6631986",
     "dealer_id": "6533",
     "car_id": "26819693",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR71LWO",
+        "registration_date": "24/09/2021",
+        "mileage": 50650,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 2550,
+        "balance": 22950,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 481.73,
+        "final_payment": 482.73,
+        "total_amount_payable": 31454.8,
+        "total_charge_for_credit": 5954.8,
+        "amount_of_credit": 22950,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 2550,
+        "balance": 22950,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 436.7,
+        "final_payment": 9913.29,
+        "balloon": 9913.29,
+        "total_amount_payable": 38228.59,
+        "total_charge_for_credit": 12728.59,
+        "amount_of_credit": 22950,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 9913.29,
+        "price_to_buy": 9913.29
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25500,
+        "total_price": 25500,
+        "deposit": 2550,
+        "balance": 22950,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 365.67,
+        "final_payment": 9230.2,
+        "total_amount_payable": 33354.73,
+        "total_charge_for_credit": 7854.73,
+        "amount_of_credit": 22950,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.06,
+        "residual": 9229.2,
+        "price_to_buy": 9230.2
+      }
+    ]
   }
 ]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T14:23:22.915Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lkcars.co.uk/cars/toyota/yaris/1.6-t-gr-circuit/1443108/",
+    "dealer_id": "6270",
+    "car_id": "27803774",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "GR YARIS",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 [Circuit Pack]",
+        "registration_number": "FP71LBJ",
+        "registration_date": "08/09/2021",
+        "mileage": 8000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 10,
+        "balance": 30985,
+        "apr": 13.5,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 827.77,
+        "final_payment": 827.77,
+        "total_amount_payable": 39742.96,
+        "total_charge_for_credit": 8747.96,
+        "amount_of_credit": 30985,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 10,
+        "balance": 30985,
+        "apr": 13.4,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 652.5,
+        "final_payment": 11415,
+        "total_amount_payable": 42092.5,
+        "total_charge_for_credit": 11097.5,
+        "amount_of_credit": 30985,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 10752.5,
+        "price_to_buy": 11415
+      }
+    ]
+  }
+]

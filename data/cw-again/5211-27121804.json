@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:00:23.918Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.westawaymotors.co.uk/used/ford/ranger/pick-up-double-cab-wildtrak-20-ecoblue-205-auto/northampton/northamptonshire/241772",
+    "dealer_id": "5211",
+    "car_id": "27121804",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 205",
+        "registration_number": "YS73DFP",
+        "registration_date": "24/10/2023",
+        "mileage": 39000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38988,
+        "total_price": 38988,
+        "deposit": 9747,
+        "balance": 29241,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 613.79,
+        "final_payment": 613.79,
+        "total_amount_payable": 46574.4,
+        "total_charge_for_credit": 7586.4,
+        "amount_of_credit": 29241,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38988,
+        "total_price": 38988,
+        "deposit": 9747,
+        "balance": 29241,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 49,
+        "regular_payment": 572.75,
+        "final_payment": 9459,
+        "total_amount_payable": 46698,
+        "total_charge_for_credit": 7710,
+        "amount_of_credit": 29241,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 9.6,
+        "residual": 9449,
+        "price_to_buy": 9459
+      }
+    ]
+  }
+]

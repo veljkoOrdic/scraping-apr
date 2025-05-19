@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:43:15.000Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jimreidvehiclesales.co.uk/used/cars/porsche/macan/2-0t-242-pdk-996",
+    "dealer_id": "5100",
+    "car_id": "27930924",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "5dr PDK",
+        "registration_number": "YX70XHT",
+        "registration_date": "30/10/2020",
+        "mileage": 35650,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799.9,
+        "balance": 34199.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 584.19,
+        "final_payment": 18540,
+        "total_amount_payable": 50381.02,
+        "total_charge_for_credit": 12382.02,
+        "amount_of_credit": 34199.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 18530,
+        "price_to_buy": 18540
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37999,
+        "total_price": 37999,
+        "deposit": 3799.9,
+        "balance": 34199.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 888.66,
+        "final_payment": 898.66,
+        "total_amount_payable": 46465.58,
+        "total_charge_for_credit": 8466.58,
+        "amount_of_credit": 34199.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

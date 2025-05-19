@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:40:24.713Z",
+    "timestamp": "2025-05-15T16:23:39.568Z",
     "source": "new_vehicle_finance",
     "url": "https://www.fairleecarsales.co.uk/cars/renault/scenic/1.4-tce-tomtom-edition/1232994/",
     "dealer_id": "5664",
@@ -12,6 +12,50 @@
         "registration_date": "01/09/2009",
         "mileage": 68000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 399.5,
+        "balance": 3595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 60,
+        "regular_payment": 76.96,
+        "final_payment": 86.96,
+        "balloon": 0,
+        "total_amount_payable": 5027.1,
+        "total_charge_for_credit": 1032.1,
+        "amount_of_credit": 3595.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 86.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 399.5,
+        "balance": 3595.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 60,
+        "regular_payment": 76.96,
+        "final_payment": 86.96,
+        "total_amount_payable": 5027.1,
+        "total_charge_for_credit": 1032.1,
+        "amount_of_credit": 3595.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
       }
     ]
   }

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:49:04.307Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.acorn-group.co.uk/usedcars/land-rover-defender-90-50-p525-v8-auto-4wd-euro-6-ss-3dr",
+    "dealer_id": "6231",
+    "car_id": "27767488",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "ESTATE",
+        "derivative": "5.0 P525 V8 90",
+        "registration_number": "SJ22CPO",
+        "registration_date": "30/03/2022",
+        "mileage": 5641,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 78995,
+        "total_price": 78995,
+        "deposit": 4000,
+        "balance": 74995,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1223.01,
+        "final_payment": 39579.44,
+        "total_amount_payable": 101060.91,
+        "total_charge_for_credit": 22065.91,
+        "amount_of_credit": 74995,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 18.7,
+        "residual": 39579.44,
+        "price_to_buy": 39579.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 78995,
+        "total_price": 78995,
+        "deposit": 4000,
+        "balance": 74995,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1883.28,
+        "final_payment": 1884.28,
+        "total_amount_payable": 94398.44,
+        "total_charge_for_credit": 15403.44,
+        "amount_of_credit": 74995,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

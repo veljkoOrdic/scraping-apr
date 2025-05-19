@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:49:54.501Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lukscars.co.uk/used-vehicle-details/used-bmw-2-series-gran-tourer-15-216d-se-dct-euro-6-ss-5-mpv-black-automatic-diesel/id-202501188160798/",
+    "dealer_id": "6972",
+    "car_id": "27185088",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "2 Series",
+        "variant": "",
+        "derivative": "216d SE Gran Tourer",
+        "registration_number": "MA70PGY",
+        "registration_date": "24/09/2020",
+        "mileage": 89548,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10895,
+        "total_price": 10895,
+        "deposit": 1090,
+        "balance": 9805,
+        "apr": 9.9,
+        "rate_of_interest": 6.54,
+        "term": 49,
+        "regular_payment": 188.97,
+        "final_payment": 3352.5,
+        "total_amount_payable": 13513.06,
+        "total_charge_for_credit": 2618.06,
+        "amount_of_credit": 9805,
+        "lender": "Car Money CE",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 12,
+        "residual": 3352.5,
+        "price_to_buy": 3352.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10895,
+        "total_price": 10895,
+        "deposit": 1090,
+        "balance": 9805,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 205.81,
+        "final_payment": 205.81,
+        "total_amount_payable": 13438.6,
+        "total_charge_for_credit": 2543.6,
+        "amount_of_credit": 9805,
+        "lender": "Car Money CE",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

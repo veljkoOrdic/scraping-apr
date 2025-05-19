@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:57:07.993Z",
+    "timestamp": "2025-05-15T16:59:49.192Z",
     "source": "new_vehicle_finance",
     "url": "https://www.smvcommercials.co.uk/vehicle-details/used-levc-tx-vista-for-sale-smv-car-lcv-u403/",
     "dealer_id": "2612",
@@ -8,10 +8,33 @@
     "data": [
       {
         "type": "vehicle",
-        "registration_number": "HJ74FKU",
-        "registration_date": "13/11/2024",
+        "registration_number": "HJ25BXS",
+        "registration_date": "30/04/2025",
         "mileage": 100,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499.5,
+        "balance": 58495.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 1333.41,
+        "final_payment": 1343.41,
+        "balloon": 0,
+        "total_amount_payable": 86514.1,
+        "total_charge_for_credit": 21519.1,
+        "amount_of_credit": 58495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1343.41
       }
     ]
   }

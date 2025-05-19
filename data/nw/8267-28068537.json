@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:22:35.262Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.roadlinkltd.co.uk/used-smart-forfour-hayes-middlesex-6949809",
+    "dealer_id": "8267",
+    "car_id": "28068537",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK15VWC",
+        "registration_date": "29/04/2015",
+        "mileage": 58686,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4990,
+        "total_price": 4990,
+        "deposit": 499,
+        "balance": 4491,
+        "apr": 8.9,
+        "rate_of_interest": 4.6,
+        "term": 47,
+        "regular_payment": 112.78,
+        "final_payment": 113.78,
+        "total_amount_payable": 5800.66,
+        "total_charge_for_credit": 810.66,
+        "amount_of_credit": 4491,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

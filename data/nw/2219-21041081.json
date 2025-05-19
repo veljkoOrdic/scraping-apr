@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:02:19.462Z",
+    "timestamp": "2025-05-15T16:39:38.849Z",
     "source": "new_vehicle_finance",
     "url": "https://www.brooklandscars.com/used-bmw-2-series-coupe-corby-northamptonshire-5252688",
     "dealer_id": "2219",
@@ -12,6 +12,29 @@
         "registration_date": "20/09/2018",
         "mileage": 23507,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16495,
+        "total_price": 16495,
+        "deposit": 1649,
+        "balance": 14846,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 318.17,
+        "final_payment": 328.17,
+        "balloon": 0,
+        "total_amount_payable": 20749.2,
+        "total_charge_for_credit": 4254.2,
+        "amount_of_credit": 14846,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 328.17
       },
       {
         "type": "finance_hp",

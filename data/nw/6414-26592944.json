@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:18:44.275Z",
+    "timestamp": "2025-05-15T18:10:16.643Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rightcarmove.com/used-audi-s3-chelmsford-essex-6372351",
     "dealer_id": "6414",
@@ -12,6 +12,29 @@
         "registration_date": "03/07/2015",
         "mileage": 93594,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199,
+        "balance": 10796,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 280.81,
+        "final_payment": 280.81,
+        "balloon": 0,
+        "total_amount_payable": 14958.69,
+        "total_charge_for_credit": 2963.69,
+        "amount_of_credit": 10796,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 280.81
       },
       {
         "type": "finance_hp",

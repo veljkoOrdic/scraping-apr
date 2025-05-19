@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:47:44.402Z",
+    "timestamp": "2025-05-15T14:58:06.260Z",
     "source": "new_vehicle_finance",
     "url": "https://www.carltonmotorco.co.uk/used-ford-transit-darlington-county-durham-4145535",
     "dealer_id": "7209",
@@ -12,6 +12,29 @@
         "registration_date": "21/12/2018",
         "mileage": 91499,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17940,
+        "total_price": 17940,
+        "deposit": 2990,
+        "balance": 14950,
+        "apr": 11.6,
+        "rate_of_interest": 5.49,
+        "term": 60,
+        "regular_payment": 325,
+        "final_payment": 325,
+        "balloon": 0,
+        "total_amount_payable": 22490,
+        "total_charge_for_credit": 4550,
+        "amount_of_credit": 14950,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 325
       }
     ]
   }

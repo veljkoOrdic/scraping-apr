@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:34:15.268Z",
+    "timestamp": "2025-05-15T19:15:46.133Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rosscars.co.uk/used-honda-jazz-swansea-glamorgan-6504853",
     "dealer_id": "6859",
@@ -12,6 +12,29 @@
         "registration_date": "04/11/2015",
         "mileage": 23944,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049,
+        "balance": 9446,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 206.65,
+        "final_payment": 216.65,
+        "balloon": 0,
+        "total_amount_payable": 13458,
+        "total_charge_for_credit": 2963,
+        "amount_of_credit": 9446,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 216.65
       },
       {
         "type": "finance_hp",

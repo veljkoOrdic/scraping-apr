@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:15:35.886Z",
+    "source": "new_vehicle_finance",
+    "url": "https://smithssportsandperformance.co.uk/vehicle-details/used-mercedes-benz-c-class-c63-v8-biturbo-amg-s-night-edition-prem-plus-for-sale-in-leicestershire-u55848/",
+    "dealer_id": "4727",
+    "car_id": "27889455",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SE73NKH",
+        "registration_date": "29/09/2023",
+        "mileage": 4000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899.5,
+        "balance": 62095.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1559.34,
+        "final_payment": 1560.34,
+        "total_amount_payable": 81748.82,
+        "total_charge_for_credit": 12753.82,
+        "amount_of_credit": 62095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899.5,
+        "balance": 62095.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 1087.44,
+        "final_payment": 27630.4,
+        "total_amount_payable": 86727.02,
+        "total_charge_for_credit": 17732.02,
+        "amount_of_credit": 62095.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 27629.4,
+        "price_to_buy": 27630.4
+      }
+    ]
+  }
+]

@@ -1,39 +1,26 @@
 [
   {
-    "timestamp": "2025-04-14T21:39:31.602Z",
+    "timestamp": "2025-05-15T16:31:20.999Z",
     "source": "new_vehicle_finance",
     "url": "https://www.autochoicebristol.com/details/used-car-in-bristol/audi/s8/4.0-tfsi-v8-tiptronic-quattro-euro-5-4dr/1424481/",
     "dealer_id": "2016",
     "car_id": "27578299",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "WV63HLA",
-        "registration_date": "09/09/2013",
-        "mileage": 60000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 20999,
-        "total_price": 20999,
-        "deposit": 2099.9,
-        "balance": 18899.1,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 396.71,
-        "final_payment": 397.71,
-        "total_amount_payable": 25903.5,
-        "total_charge_for_credit": 4904.5,
-        "amount_of_credit": 18899.1,
-        "lender": "Admiral Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.autochoicebristol.com&quoteeUid=4BCCA06C-9DD0-4FED-B624-0DCD5E91F982&class=Car&condition=used&vrm=WV63HLA&registrationDate=09/09/2013&capCode=&capId=&cashPrice=20499&vatIncluded=true&vatQualifying=false&currentOdometerReading=60000&vehicleImageUrl=https://www.autochoicebristol.com/assets/1424481/large/806e7f9ac760d781f2dae0abf2f294a1_1424481.jpg&cashDepositType=Percentage&cashDeposit=2049.9&term=60&annualDistance=10000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.autochoicebristol.com&quoteeUid=4BCCA06C-9DD0-4FED-B624-0DCD5E91F982&class=Car&condition=used&vrm=WV63HLA&registrationDate=09%2F09%2F2013&capCode=&capId=&cashPrice=20499&vatIncluded=true&vatQualifying=false&currentOdometerReading=60000&vehicleImageUrl=https%3A%2F%2Fwww.autochoicebristol.com%2Fassets%2F1424481%2Flarge%2F806e7f9ac760d781f2dae0abf2f294a1_1424481.jpg&cashDepositType=Percentage&cashDeposit=2049.9&term=60&annualDistance=10000&dateOnForecourt=&origin=https%3A%2F%2Fwww.autochoicebristol.com%2Fdetails%2Fused-car-in-bristol%2Faudi%2Fs8%2F4.0-tfsi-v8-tiptronic-quattro-euro-5-4dr%2F1424481%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

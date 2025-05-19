@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:04:32.848Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tlscarsales.co.uk/details/used-car-in-thorpe-le-soken/audi/q5/2.0-tfsi-45-edition-1-s-tronic-quattro-euro-6-ss-5dr/1465237/",
+    "dealer_id": "1525",
+    "car_id": "28039113",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q5",
+        "variant": "ESTATE SPECIAL EDITIONS",
+        "derivative": "45 TFSI Quattro Edition 1 S Tronic",
+        "registration_number": "EA71LVV",
+        "registration_date": "11/11/2021",
+        "mileage": 26919,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36400,
+        "total_price": 36400,
+        "deposit": 3640,
+        "balance": 32760,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 49,
+        "regular_payment": 504.66,
+        "final_payment": 17941,
+        "total_amount_payable": 45300.02,
+        "total_charge_for_credit": 8900.02,
+        "amount_of_credit": 32760,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 26,
+        "residual": 17931,
+        "price_to_buy": 17941
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36400,
+        "total_price": 36400,
+        "deposit": 3640,
+        "balance": 32760,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 672.95,
+        "final_payment": 682.95,
+        "total_amount_payable": 44027,
+        "total_charge_for_credit": 7627,
+        "amount_of_credit": 32760,
+        "lender": "Finset Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

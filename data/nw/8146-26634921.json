@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:09:42.822Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fgcars.uk/details/van-in-loughborough/volkswagen/amarok/3.0-tdi-v6-bluemotion-tech-highline-auto-4motion-euro-6-ss-4dr/1345102/",
+    "dealer_id": "8146",
+    "car_id": "26634921",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YT67XZH",
+        "registration_date": "25/09/2017",
+        "mileage": 93999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21600,
+        "total_price": 21600,
+        "deposit": 0,
+        "balance": 18000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 394.02,
+        "final_payment": 395.02,
+        "total_amount_payable": 27242.2,
+        "total_charge_for_credit": 5642.2,
+        "amount_of_credit": 18000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

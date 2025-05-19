@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:03:07.776Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jw-autos.co.uk/used/cars/mini/hatch/one-classic-4092",
+    "dealer_id": "8558",
+    "car_id": "26183012",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR71BPZ",
+        "registration_date": "15/10/2021",
+        "mileage": 11008,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14800,
+        "total_price": 14800,
+        "deposit": 500,
+        "balance": 14300,
+        "apr": 13.9,
+        "rate_of_interest": 13.07,
+        "term": 60,
+        "regular_payment": 326,
+        "final_payment": 326,
+        "total_amount_payable": 20060,
+        "total_charge_for_credit": 5260,
+        "amount_of_credit": 14300,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14800,
+        "total_price": 14800,
+        "deposit": 500,
+        "balance": 14300,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 49,
+        "regular_payment": 251.4,
+        "final_payment": 7323,
+        "total_amount_payable": 19890.2,
+        "total_charge_for_credit": 5090.2,
+        "amount_of_credit": 14300,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 7313,
+        "price_to_buy": 7323
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:59:43.188Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wirralcarsales.com/used-land-rover-discovery-sport-ellesmere-port-cheshire-6684554",
+    "dealer_id": "4042",
+    "car_id": "27016584",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX15BWC",
+        "registration_date": "01/04/2015",
+        "mileage": 34340,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17950,
+        "total_price": 17950,
+        "deposit": 1795,
+        "balance": 16155,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 338.98,
+        "final_payment": 348.98,
+        "balloon": 0,
+        "total_amount_payable": 22143.8,
+        "total_charge_for_credit": 4193.8,
+        "amount_of_credit": 16155,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 348.98
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17950,
+        "total_price": 17950,
+        "deposit": 1795,
+        "balance": 16155,
+        "apr": 11.5,
+        "rate_of_interest": 6.03,
+        "term": 58,
+        "regular_payment": 359.7,
+        "final_payment": 369.7,
+        "total_amount_payable": 22667.6,
+        "total_charge_for_credit": 4717.6,
+        "amount_of_credit": 16155,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

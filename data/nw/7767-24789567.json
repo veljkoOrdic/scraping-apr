@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:36:51.993Z",
+    "timestamp": "2025-05-15T16:15:42.787Z",
     "source": "new_vehicle_finance",
     "url": "https://www.thedonaldsgroup.com/used-car-details/used-mg-mg-zs-15-vti-tech-exclusive-euro-6--manual-petrol/id-202406281232005/",
     "dealer_id": "7767",
@@ -12,6 +12,29 @@
         "registration_date": "23/10/2018",
         "mileage": 7750,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11245,
+        "total_price": 11245,
+        "deposit": 1124,
+        "balance": 10121,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 212.45,
+        "final_payment": 212.45,
+        "balloon": 0,
+        "total_amount_payable": 13871,
+        "total_charge_for_credit": 2626,
+        "amount_of_credit": 10121,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 212.45
       }
     ]
   }

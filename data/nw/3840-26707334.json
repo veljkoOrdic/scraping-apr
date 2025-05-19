@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:53:24.313Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wealdstonemotors.co.uk/used-audi-q2-north-harrow-middlesex-6600722",
+    "dealer_id": "3840",
+    "car_id": "26707334",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS21PBO",
+        "registration_date": "30/04/2021",
+        "mileage": 22000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25850,
+        "total_price": 25850,
+        "deposit": 2585,
+        "balance": 23265,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 488.34,
+        "final_payment": 489.34,
+        "total_amount_payable": 31886.4,
+        "total_charge_for_credit": 6036.4,
+        "amount_of_credit": 23265,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25850,
+        "total_price": 25850,
+        "deposit": 2585,
+        "balance": 23265,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 414.92,
+        "final_payment": 9913.31,
+        "total_amount_payable": 32414.47,
+        "total_charge_for_credit": 6564.47,
+        "amount_of_credit": 23265,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 9912.31,
+        "price_to_buy": 9913.31
+      }
+    ]
+  }
+]

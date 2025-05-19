@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:47:32.843Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-mercedes-benz-v-class-hatfield-hertfordshire-6788447",
+    "dealer_id": "4492",
+    "car_id": "27431572",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY24UBB",
+        "registration_date": "26/06/2024",
+        "mileage": 18500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 73000,
+        "total_price": 73000,
+        "deposit": 14600,
+        "balance": 58400,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1225.85,
+        "final_payment": 1226.85,
+        "total_amount_payable": 88152,
+        "total_charge_for_credit": 15152,
+        "amount_of_credit": 58400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

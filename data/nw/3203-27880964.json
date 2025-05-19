@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:19:08.089Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.uplandsmotorcompany.co.uk/used-smart-forfour-cuffley-hertfordshire-6902767",
+    "dealer_id": "3203",
+    "car_id": "27880964",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK17OVV",
+        "registration_date": "30/03/2017",
+        "mileage": 34200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 177.1,
+        "final_payment": 178.1,
+        "total_amount_payable": 11526,
+        "total_charge_for_credit": 2536,
+        "amount_of_credit": 8091,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

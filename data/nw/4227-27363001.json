@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:07:36.754Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ajcars.com/used/audi/a4/1-8t-fsi-170-se-technik-5dr-multitronic/aetv83479819/",
+    "dealer_id": "4227",
+    "car_id": "27363001",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF15WUG",
+        "registration_date": "31/03/2015",
+        "mileage": 76329,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8850,
+        "total_price": 8850,
+        "deposit": 885,
+        "balance": 7965,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 58,
+        "regular_payment": 182.42,
+        "final_payment": 183.42,
+        "total_amount_payable": 11466.36,
+        "total_charge_for_credit": 2616.36,
+        "amount_of_credit": 7965,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

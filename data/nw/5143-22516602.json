@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:15:29.323Z",
+    "timestamp": "2025-05-15T15:02:52.425Z",
     "source": "new_vehicle_finance",
     "url": "https://www.brockhallcarsales.co.uk/used-renault-trafic-blackburn-lancashire-5600098",
     "dealer_id": "5143",
@@ -12,6 +12,29 @@
         "registration_date": "21/12/2017",
         "mileage": 120000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9300,
+        "total_price": 9300,
+        "deposit": 0,
+        "balance": 9300,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 199.26,
+        "final_payment": 209.26,
+        "balloon": 0,
+        "total_amount_payable": 11965.6,
+        "total_charge_for_credit": 2665.6,
+        "amount_of_credit": 9300,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 209.26
       }
     ]
   }

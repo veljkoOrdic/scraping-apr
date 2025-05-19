@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:13:32.120Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartsofhoniton.co.uk/used/toyota/aygo/10-x-trend-vvt-i-5dr/honiton/devon/21571024",
+    "dealer_id": "8739",
+    "car_id": "27575016",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HK69EYW",
+        "registration_date": "23/12/2019",
+        "mileage": 29000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 0,
+        "balance": 9495,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 212.13,
+        "final_payment": 213.13,
+        "total_amount_payable": 12728.8,
+        "total_charge_for_credit": 3233.8,
+        "amount_of_credit": 9495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T23:54:21.752Z",
+    "timestamp": "2025-05-15T17:43:40.817Z",
     "source": "new_vehicle_finance",
     "url": "https://www.vanza.co.uk/used-land-rover-defender-cardiff-glamorgan-6402560",
     "dealer_id": "8413",
     "car_id": "26182284",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PY64NNG",
+        "registration_date": "24/11/2014",
+        "mileage": 49478,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34800,
+        "total_price": 34800,
+        "deposit": 5800,
+        "balance": 29000,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 621.63,
+        "final_payment": 631.63,
+        "balloon": 0,
+        "total_amount_payable": 43107.8,
+        "total_charge_for_credit": 8307.8,
+        "amount_of_credit": 29000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 631.63
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34800,
+        "total_price": 34800,
+        "deposit": 5800,
+        "balance": 29000,
+        "apr": 10.9,
+        "rate_of_interest": 5.69,
+        "term": 54,
+        "regular_payment": 674.47,
+        "final_payment": 684.47,
+        "total_amount_payable": 42231.38,
+        "total_charge_for_credit": 7431.38,
+        "amount_of_credit": 29000,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

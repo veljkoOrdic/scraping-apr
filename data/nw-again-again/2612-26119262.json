@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:44:19.314Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.smvcommercials.co.uk/vehicle-details/used-ford-transit-350-ecoblue-leader-for-sale-smv-car-lcv-u266/",
+    "dealer_id": "2612",
+    "car_id": "26119262",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BP22XJN",
+        "registration_date": "10/08/2022",
+        "mileage": 50215,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27540,
+        "total_price": 27540,
+        "deposit": 6885,
+        "balance": 20655,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 470.76,
+        "final_payment": 480.76,
+        "balloon": 0,
+        "total_amount_payable": 35140.6,
+        "total_charge_for_credit": 7600.6,
+        "amount_of_credit": 20655,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 480.76
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:34:45.255Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mvmprestige.co.uk/used-ford-ranger-dunfermline-fife-5318157",
+    "dealer_id": "3361",
+    "car_id": "21295509",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LS70UPK",
+        "registration_date": "30/09/2020",
+        "mileage": 29400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29950,
+        "total_price": 29950,
+        "deposit": 2995,
+        "balance": 26955,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 577.78,
+        "final_payment": 587.78,
+        "total_amount_payable": 37671.8,
+        "total_charge_for_credit": 7721.8,
+        "amount_of_credit": 26955,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

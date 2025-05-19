@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:51:48.136Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jmautosalesltd.co.uk/used-volkswagen-sharan-magherafelt-northern-ireland-6535738",
+    "dealer_id": "5926",
+    "car_id": "26431287",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FP63CNJ",
+        "registration_date": "08/11/2013",
+        "mileage": 131000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5995,
+        "total_price": 5995,
+        "deposit": 299,
+        "balance": 5696,
+        "apr": 9.9,
+        "rate_of_interest": 5.1,
+        "term": 41,
+        "regular_payment": 163.15,
+        "final_payment": 164.15,
+        "total_amount_payable": 6989.15,
+        "total_charge_for_credit": 994.15,
+        "amount_of_credit": 5696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

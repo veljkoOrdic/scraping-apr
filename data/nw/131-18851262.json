@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:21:51.378Z",
+    "timestamp": "2025-05-15T14:43:43.198Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rdmdirect.co.uk/used-tesla-model-s-burton-on-trent-staffordshire-4728902",
     "dealer_id": "131",
@@ -12,6 +12,29 @@
         "registration_date": "13/01/2016",
         "mileage": 66000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19000,
+        "total_price": 19000,
+        "deposit": 300,
+        "balance": 18700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 494.07,
+        "final_payment": 504.07,
+        "balloon": 0,
+        "total_amount_payable": 24025.36,
+        "total_charge_for_credit": 5025.36,
+        "amount_of_credit": 18700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 504.07
       },
       {
         "type": "finance_hp",

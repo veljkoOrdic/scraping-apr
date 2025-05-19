@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:30:56.660Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.batemanlynchcars.co.uk/used-volvo-xc60-liskeard-cornwall-6908065",
+    "dealer_id": "4973",
+    "car_id": "27909493",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK14HTX",
+        "registration_date": "01/03/2014",
+        "mileage": 135000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 699,
+        "balance": 6296,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 137.7,
+        "final_payment": 147.7,
+        "balloon": 0,
+        "total_amount_payable": 8971,
+        "total_charge_for_credit": 1976,
+        "amount_of_credit": 6296,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 147.7
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6995,
+        "total_price": 6995,
+        "deposit": 699,
+        "balance": 6296,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 45,
+        "regular_payment": 172.26,
+        "final_payment": 173.26,
+        "total_amount_payable": 8451.7,
+        "total_charge_for_credit": 1456.7,
+        "amount_of_credit": 6296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:30:42.386Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cavendishuk.co.uk/cars/mercedes-benz/glaclass/2.1-gla200d-sport/1196038/",
+    "dealer_id": "4339",
+    "car_id": "24749065",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KS18ZNB",
+        "registration_date": "30/04/2018",
+        "mileage": 98000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12795,
+        "total_price": 12795,
+        "deposit": 1279.5,
+        "balance": 11515.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 246.88,
+        "final_payment": 247.88,
+        "total_amount_payable": 16093.3,
+        "total_charge_for_credit": 3298.3,
+        "amount_of_credit": 11515.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

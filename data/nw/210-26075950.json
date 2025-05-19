@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:47.952Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/land-rover--range-rover-evoque/kr24wdf",
+    "dealer_id": "210",
+    "car_id": "26075950",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR24WDF",
+        "registration_date": "17/05/2024",
+        "mileage": 21323,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36999,
+        "total_price": 36999,
+        "deposit": 3699,
+        "balance": 33300,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 821.66,
+        "final_payment": 822.66,
+        "total_amount_payable": 43139.68,
+        "total_charge_for_credit": 6140.68,
+        "amount_of_credit": 33300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36999,
+        "total_price": 36999,
+        "deposit": 3699,
+        "balance": 33300,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 49,
+        "regular_payment": 506.06,
+        "final_payment": 18117.25,
+        "total_amount_payable": 46107.13,
+        "total_charge_for_credit": 9108.13,
+        "amount_of_credit": 33300,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 18116.25,
+        "price_to_buy": 18117.25
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:28:41.391Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mortonparkmotorcompany.co.uk/details/car-in-darlington/fiat/500/1.2-lounge-euro-6-ss-3dr/1408683/",
+    "dealer_id": "6883",
+    "car_id": "27404829",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WM65VFP",
+        "registration_date": "30/12/2015",
+        "mileage": 98900,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3990,
+        "total_price": 3990,
+        "deposit": 0,
+        "balance": 3990,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 87.33,
+        "final_payment": 88.33,
+        "total_amount_payable": 5240.8,
+        "total_charge_for_credit": 1250.8,
+        "amount_of_credit": 3990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

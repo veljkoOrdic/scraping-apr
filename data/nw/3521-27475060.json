@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:32:30.882Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hartleywintneygarage.net/used-vehicle-details/used-land-rover-range-rover-sport-30-sd-v6-hse-auto-4wd-euro-5-suv-black-automatic-diesel/id-202503130097298/",
+    "dealer_id": "3521",
+    "car_id": "27475060",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LO14TPX",
+        "registration_date": "03/07/2014",
+        "mileage": 79000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15811,
+        "total_price": 15811,
+        "deposit": 1581,
+        "balance": 14230,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 298.7,
+        "final_payment": 298.7,
+        "total_amount_payable": 19503,
+        "total_charge_for_credit": 3692,
+        "amount_of_credit": 14230,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

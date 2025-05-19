@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:49:23.943Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.duckworth.co.uk/used-cars/select-fiat-500e-42kwh-la-prima-auto-3dr-3-door-hatchback-grey/ap71cgy",
+    "dealer_id": "5502",
+    "car_id": "27898329",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP71CGY",
+        "registration_date": "06/11/2021",
+        "mileage": 43649,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12499,
+        "total_price": 12499,
+        "deposit": 1249,
+        "balance": 11250,
+        "apr": 10.9,
+        "rate_of_interest": 5.58,
+        "term": 36,
+        "regular_payment": 364.83,
+        "final_payment": 374.83,
+        "total_amount_payable": 14392.88,
+        "total_charge_for_credit": 1893.88,
+        "amount_of_credit": 11250,
+        "lender": "Evolution Funding",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12499,
+        "total_price": 12499,
+        "deposit": 1249,
+        "balance": 11250,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 36,
+        "regular_payment": 245.08,
+        "final_payment": 5288.5,
+        "total_amount_payable": 15115.3,
+        "total_charge_for_credit": 2616.3,
+        "amount_of_credit": 11250,
+        "lender": "Evolution Funding",
+        "annual_mileage": 12000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.03,
+        "residual": 5287.5,
+        "price_to_buy": 5288.5
+      }
+    ]
+  }
+]

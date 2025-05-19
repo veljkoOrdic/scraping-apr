@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:49:33.253Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stanleystreetmotors.co.uk/details/car-in-lowestoft/fiat/500/1.2-lounge-euro-6-ss-3dr/1346221/",
+    "dealer_id": "3752",
+    "car_id": "26651715",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WM17XKF",
+        "registration_date": "25/05/2017",
+        "mileage": 35050,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6895,
+        "total_price": 6895,
+        "deposit": 0,
+        "balance": 6895,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 154.04,
+        "final_payment": 155.04,
+        "total_amount_payable": 9243.4,
+        "total_charge_for_credit": 2348.4,
+        "amount_of_credit": 6895,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

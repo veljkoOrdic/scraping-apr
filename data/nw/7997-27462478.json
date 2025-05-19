@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:46:03.276Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.greenawayautos.co.uk/details/car-in-pontypridd/audi/q5/2.0-tfsi-45-sport-s-tronic-quattro-euro-6-ss-5dr/1413940/",
+    "dealer_id": "7997",
+    "car_id": "27462478",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM69SPU",
+        "registration_date": "30/09/2019",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21491,
+        "total_price": 21491,
+        "deposit": 2149.1,
+        "balance": 19341.9,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 432.04,
+        "final_payment": 442.04,
+        "balloon": 0,
+        "total_amount_payable": 28081.5,
+        "total_charge_for_credit": 6590.5,
+        "amount_of_credit": 19341.9,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 442.04
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21491,
+        "total_price": 21491,
+        "deposit": 2149.1,
+        "balance": 19341.9,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 440.93,
+        "final_payment": 441.93,
+        "total_amount_payable": 28605.9,
+        "total_charge_for_credit": 7114.9,
+        "amount_of_credit": 19341.9,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

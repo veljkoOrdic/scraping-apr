@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:43:03.500Z",
+    "timestamp": "2025-05-15T14:30:11.190Z",
     "source": "new_vehicle_finance",
     "url": "https://www.southandwestmotorsltd.co.uk/used-audi-a4-bath-somerset-5593428",
     "dealer_id": "4736",
@@ -12,6 +12,29 @@
         "registration_date": "26/07/2016",
         "mileage": 116806,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7855,
+        "total_price": 7855,
+        "deposit": 785,
+        "balance": 7070,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 148.4,
+        "final_payment": 148.4,
+        "balloon": 0,
+        "total_amount_payable": 9689,
+        "total_charge_for_credit": 1834,
+        "amount_of_credit": 7070,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 148.4
       }
     ]
   }

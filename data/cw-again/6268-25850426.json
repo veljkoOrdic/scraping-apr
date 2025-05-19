@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T20:00:25.130Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bespokemotorworks.co.uk/used-aston-martin-dbx-stockton-on-tees-cleveland-6210899",
+    "dealer_id": "6268",
+    "car_id": "25850426",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DBX",
+        "variant": "ESTATE",
+        "derivative": "V8 DBX707 Touchtronic",
+        "registration_number": "NV72EHG",
+        "registration_date": "12/01/2023",
+        "mileage": 11000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 132995,
+        "total_price": 132995,
+        "deposit": 13299,
+        "balance": 119696,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1790.03,
+        "final_payment": 56970.59,
+        "total_amount_payable": 175881.36,
+        "total_charge_for_credit": 42886.36,
+        "amount_of_credit": 119696,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 32.47,
+        "residual": 56970.59,
+        "price_to_buy": 56970.59
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 132995,
+        "total_price": 132995,
+        "deposit": 13299,
+        "balance": 119696,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 2512.5,
+        "final_payment": 2513.5,
+        "total_amount_payable": 164050,
+        "total_charge_for_credit": 31055,
+        "amount_of_credit": 119696,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

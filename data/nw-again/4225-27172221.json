@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:53:33.103Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stirling-cars.com/used-mercedes-benz-sprinter-hoddesdon-hertfordshire-6727669",
+    "dealer_id": "4225",
+    "car_id": "27172221",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KN68XKS",
+        "registration_date": "26/09/2018",
+        "mileage": 125858,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 79989,
+        "total_price": 79989,
+        "deposit": 7998,
+        "balance": 71991,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 1776.2,
+        "final_payment": 1786.2,
+        "balloon": 0,
+        "total_amount_payable": 93265.6,
+        "total_charge_for_credit": 13276.6,
+        "amount_of_credit": 71991,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1786.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79989,
+        "total_price": 79989,
+        "deposit": 7998,
+        "balance": 71991,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 1807.84,
+        "final_payment": 1808.84,
+        "total_amount_payable": 94775.32,
+        "total_charge_for_credit": 14786.32,
+        "amount_of_credit": 71991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

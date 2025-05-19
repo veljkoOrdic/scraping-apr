@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:11:28.504Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sidegatemotorpark.com/details/used-car-in-great-yarmouth/mercedes-benz/eclass/2.9-e400d-amg-line-night-edition-premium-plus-g-tronic+-4matic-euro-6-ss-2dr/1456324/",
+    "dealer_id": "5215",
+    "car_id": "27939444",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EA71OBO",
+        "registration_date": "08/11/2021",
+        "mileage": 41397,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35410,
+        "total_price": 35410,
+        "deposit": 0,
+        "balance": 35410,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 791.15,
+        "final_payment": 792.15,
+        "total_amount_payable": 47470,
+        "total_charge_for_credit": 12060,
+        "amount_of_credit": 35410,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 35410,
+        "total_price": 35410,
+        "deposit": 0,
+        "balance": 35410,
+        "apr": 12.9,
+        "rate_of_interest": 6.29,
+        "term": 49,
+        "regular_payment": 663.23,
+        "final_payment": 16930.23,
+        "total_amount_payable": 48765.27,
+        "total_charge_for_credit": 13355.27,
+        "amount_of_credit": 35410,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 16929.23,
+        "price_to_buy": 16930.23
+      }
+    ]
+  }
+]

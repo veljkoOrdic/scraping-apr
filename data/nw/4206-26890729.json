@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:04:24.684Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hamcarcentre.co.uk/used-volkswagen-caddy-poole-dorset-6651593",
+    "dealer_id": "4206",
+    "car_id": "26890729",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VK24HWC",
+        "registration_date": "27/04/2024",
+        "mileage": 9000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25990,
+        "total_price": 25990,
+        "deposit": 2599,
+        "balance": 23391,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 490.98,
+        "final_payment": 491.98,
+        "total_amount_payable": 32058.8,
+        "total_charge_for_credit": 6068.8,
+        "amount_of_credit": 23391,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

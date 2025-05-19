@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:48:20.346Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.portlandautos.co.uk/vehicles/porsche/porsche-911-4-0-992-gt3-euro-6-2dr/",
+    "dealer_id": "6227",
+    "car_id": "28050084",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "911",
+        "variant": "[992] GT COUPE",
+        "derivative": "GT3",
+        "registration_number": "VX72SOA",
+        "registration_date": "08/10/2022",
+        "mileage": 5713,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 169975,
+        "total_price": 169975,
+        "deposit": 16997.5,
+        "balance": 152977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.48,
+        "term": 48,
+        "regular_payment": 2712.77,
+        "final_payment": 68288,
+        "total_amount_payable": 212785.69,
+        "total_charge_for_credit": 42810.69,
+        "amount_of_credit": 152977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.4,
+        "residual": 68278,
+        "price_to_buy": 68288
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 169975,
+        "total_price": 169975,
+        "deposit": 16997.5,
+        "balance": 152977.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 60,
+        "regular_payment": 3211.12,
+        "final_payment": 3211.12,
+        "total_amount_payable": 209664.7,
+        "total_charge_for_credit": 39689.7,
+        "amount_of_credit": 152977.5,
+        "lender": "Black Horse",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,39 +1,26 @@
 [
   {
-    "timestamp": "2025-04-14T20:38:44.485Z",
+    "timestamp": "2025-05-15T15:47:34.386Z",
     "source": "new_vehicle_finance",
     "url": "https://www.seniorcars.co.uk/details/used-car-in-market-harborough/bmw/8series/3.0-840d-steptronic-xdrive-euro-6-ss-2dr/1430829/",
     "dealer_id": "5450",
     "car_id": "27669318",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "VF69HRU",
-        "registration_date": "16/09/2019",
-        "mileage": 28250,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 34000,
-        "total_price": 34000,
-        "deposit": 3400,
-        "balance": 30600,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 642.3,
-        "final_payment": 643.3,
-        "total_amount_payable": 41939,
-        "total_charge_for_credit": 7939,
-        "amount_of_credit": 30600,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.seniorcars.co.uk&quoteeUid=C69DCD23-7A8C-463D-BE77-B0BCF142EB6C&class=Car&condition=used&vrm=VF69HRU&registrationDate=16/09/2019&capCode=&capId=&cashPrice=34000&vatIncluded=true&vatQualifying=false&currentOdometerReading=28250&vehicleImageUrl=https://www.seniorcars.co.uk/assets/1430829/large/f0fb7cb7df8cd14b2ab7d0e19e05d749_1430829.jpg&cashDepositType=Percentage&cashDeposit=3400&term=60&annualDistance=10000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.seniorcars.co.uk&quoteeUid=C69DCD23-7A8C-463D-BE77-B0BCF142EB6C&class=Car&condition=used&vrm=VF69HRU&registrationDate=16%2F09%2F2019&capCode=&capId=&cashPrice=34000&vatIncluded=true&vatQualifying=false&currentOdometerReading=28250&vehicleImageUrl=https%3A%2F%2Fwww.seniorcars.co.uk%2Fassets%2F1430829%2Flarge%2Ff0fb7cb7df8cd14b2ab7d0e19e05d749_1430829.jpg&cashDepositType=Percentage&cashDeposit=3400&term=60&annualDistance=10000&dateOnForecourt=&origin=https%3A%2F%2Fwww.seniorcars.co.uk%2Fdetails%2Fused-car-in-market-harborough%2Fbmw%2F8series%2F3.0-840d-steptronic-xdrive-euro-6-ss-2dr%2F1430829%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

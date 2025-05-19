@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:25:10.153Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.webuycars-sussex.com/used-vehicle-details/Kia-Picanto-U2845/",
+    "dealer_id": "5447",
+    "car_id": "27107884",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Kia",
+        "model": "PICANTO",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 2",
+        "registration_number": "GY68UDS",
+        "registration_date": "29/11/2018",
+        "mileage": 28185,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749.5,
+        "balance": 6745.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.89,
+        "term": 42,
+        "regular_payment": 138.96,
+        "final_payment": 2825.07,
+        "total_amount_payable": 9271.93,
+        "total_charge_for_credit": 1776.93,
+        "amount_of_credit": 6745.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 1.86,
+        "residual": 2824.07,
+        "price_to_buy": 2825.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749.5,
+        "balance": 6745.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 141.58,
+        "final_payment": 142.58,
+        "total_amount_payable": 9245.3,
+        "total_charge_for_credit": 1750.3,
+        "amount_of_credit": 6745.5,
+        "lender": "Motion Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

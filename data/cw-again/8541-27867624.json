@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:40:37.726Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cameroncarsni.co.uk/used-audi-q7-ballymoney-northern-ireland-6896720",
+    "dealer_id": "8541",
+    "car_id": "27867624",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "DIESEL ESTATE",
+        "derivative": "50 TDI Quattro Black Edition Tiptronic",
+        "registration_number": "BT72OCJ",
+        "registration_date": "23/11/2022",
+        "mileage": 41428,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46945,
+        "total_price": 46945,
+        "deposit": 4694,
+        "balance": 42251,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 707.78,
+        "final_payment": 21224.03,
+        "total_amount_payable": 59183.69,
+        "total_charge_for_credit": 12238.69,
+        "amount_of_credit": 42251,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 12,
+        "residual": 20506.25,
+        "price_to_buy": 21224.03
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46945,
+        "total_price": 46945,
+        "deposit": 4694,
+        "balance": 42251,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 886.92,
+        "final_payment": 896.92,
+        "total_amount_payable": 57919.2,
+        "total_charge_for_credit": 10974.2,
+        "amount_of_credit": 42251,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

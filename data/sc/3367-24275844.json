@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-05-15T14:33:36.297Z",
+    "source": "scuk_calculator_v1",
+    "url": "https://www.handmcars.co.uk/cars-for-sale/oxfordshire/car/1700/ford-fiesta-active-mhev-ecoboost-t",
+    "dealer_id": "3367",
+    "car_id": "24275844",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "Fiesta",
+        "derivative": "Active MHEV EcoBoost T",
+        "variant": null,
+        "registration_number": "YB21WTJ",
+        "registration_date": "2021-04-01",
+        "mileage": "79000",
+        "status": "USED"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "CS",
+        "cash_price": 8490,
+        "total_price": 8490,
+        "deposit": 850,
+        "balance": null,
+        "apr": "14.9",
+        "rate_of_interest": "7.77",
+        "term": "48",
+        "regular_payment": "208.66",
+        "final_payment": "208.66",
+        "total_amount_payable": 10865.68,
+        "total_charge_for_credit": "2375.68",
+        "amount_of_credit": "7640.00",
+        "lender": "Santander Car",
+        "annual_mileage": null,
+        "contract_mileage": null,
+        "excess_mileage_rate": null,
+        "residual": null,
+        "price_to_buy": null
+      },
+      {
+        "type": "finance_ppb",
+        "name": "PPB",
+        "finance_type": "PPB",
+        "cash_price": 8490,
+        "total_price": 8490,
+        "deposit": 850,
+        "balance": null,
+        "apr": "14.9",
+        "rate_of_interest": "7.77",
+        "term": "48",
+        "regular_payment": "174.01",
+        "final_payment": "2237",
+        "total_amount_payable": 11439.48,
+        "total_charge_for_credit": "2949.48",
+        "amount_of_credit": "7640.00",
+        "lender": "Santander Car",
+        "annual_mileage": "10000",
+        "contract_mileage": "10000",
+        "excess_mileage_rate": null,
+        "residual": "2237",
+        "price_to_buy": "2237"
+      }
+    ]
+  }
+]

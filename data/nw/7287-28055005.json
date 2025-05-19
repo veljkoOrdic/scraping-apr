@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:15:33.069Z",
+    "source": "new_vehicle_finance",
+    "url": "https://richlee.co.uk/stocklist/21836/land-rover-range-rover-30-range-rover-westminister-black-d-mhev-auto-4wd-5dr",
+    "dealer_id": "7287",
+    "car_id": "28055005",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EY71JGX",
+        "registration_date": "20/09/2021",
+        "mileage": 42000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 964.68,
+        "final_payment": 965.68,
+        "total_amount_payable": 62881.3,
+        "total_charge_for_credit": 12886.3,
+        "amount_of_credit": 44995.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49995,
+        "total_price": 49995,
+        "deposit": 4999.5,
+        "balance": 44995.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.37,
+        "term": 49,
+        "regular_payment": 833.78,
+        "final_payment": 18862.3,
+        "total_amount_payable": 63883.24,
+        "total_charge_for_credit": 13888.24,
+        "amount_of_credit": 44995.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.18,
+        "residual": 18861.3,
+        "price_to_buy": 18862.3
+      }
+    ]
+  }
+]

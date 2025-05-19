@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:32:52.532Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1350403/used-kia-sorento-2-2-crdi-2-5dr-semi-automatic-dukinfield",
+    "dealer_id": "6611",
+    "car_id": "26909718",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MA74ZXE",
+        "registration_date": "26/09/2024",
+        "mileage": 4227,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37994,
+        "total_price": 37994,
+        "deposit": 13297.9,
+        "balance": 24696.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 609.37,
+        "final_payment": 609.37,
+        "total_amount_payable": 42547.66,
+        "total_charge_for_credit": 4553.66,
+        "amount_of_credit": 24696.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 37994,
+        "total_price": 37994,
+        "deposit": 13297.9,
+        "balance": 24696.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 299.68,
+        "final_payment": 17777.39,
+        "total_amount_payable": 45459.93,
+        "total_charge_for_credit": 7465.93,
+        "amount_of_credit": 24696.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 17777.39,
+        "price_to_buy": 17777.39
+      }
+    ]
+  }
+]

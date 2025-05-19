@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:04:56.906Z",
+    "timestamp": "2025-05-15T16:14:36.920Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bayercarsales.co.uk/used-tesla-model-x-fareham-hampshire-4352275",
     "dealer_id": "1734",
@@ -12,6 +12,29 @@
         "registration_date": "20/09/2017",
         "mileage": 99941,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29985,
+        "total_price": 29985,
+        "deposit": 2998,
+        "balance": 26987,
+        "apr": 14.2,
+        "rate_of_interest": 7.15,
+        "term": 60,
+        "regular_payment": 618.5,
+        "final_payment": 618.5,
+        "balloon": 0,
+        "total_amount_payable": 40108,
+        "total_charge_for_credit": 10123,
+        "amount_of_credit": 26987,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 618.5
       },
       {
         "type": "finance_hp",

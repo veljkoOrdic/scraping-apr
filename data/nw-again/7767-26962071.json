@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T18:07:15.328Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thedonaldsgroup.com/used-car-details/used-volvo-xc60-ultimate-b5-awd-mild-hybrid-pe-automatic-petrol/id-202502018642998/",
+    "dealer_id": "7767",
+    "car_id": "26962071",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AV74JGF",
+        "registration_date": "03/09/2024",
+        "mileage": 7150,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 45994,
+        "total_price": 45994,
+        "deposit": 4599,
+        "balance": 41395,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 915.51,
+        "final_payment": 915.51,
+        "balloon": 0,
+        "total_amount_payable": 59529.6,
+        "total_charge_for_credit": 13535.6,
+        "amount_of_credit": 41395,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 915.51
+      }
+    ]
+  }
+]

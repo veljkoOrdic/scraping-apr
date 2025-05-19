@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:13.011Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tregoningsofcornwall.com/used-ford-puma-wadebridge-cornwall-5578427",
+    "dealer_id": "5305",
+    "car_id": "25040648",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY70GWZ",
+        "registration_date": "21/09/2020",
+        "mileage": 45848,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349,
+        "balance": 12146,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 315.65,
+        "final_payment": 316.65,
+        "total_amount_payable": 16501.2,
+        "total_charge_for_credit": 3006.2,
+        "amount_of_credit": 12146,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13495,
+        "total_price": 13495,
+        "deposit": 1349,
+        "balance": 12146,
+        "apr": 11.9,
+        "rate_of_interest": 5.81,
+        "term": 49,
+        "regular_payment": 217.86,
+        "final_payment": 5956.54,
+        "total_amount_payable": 17762.82,
+        "total_charge_for_credit": 4267.82,
+        "amount_of_credit": 12146,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 5955.54,
+        "price_to_buy": 5956.54
+      }
+    ]
+  }
+]

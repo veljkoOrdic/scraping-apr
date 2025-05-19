@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:26:27.114Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.handsautosales.co.uk/details/used-car-in-chertsey/audi/q3/2.0-tdi-35-black-edition-sportback-s-tronic-euro-6-ss-5dr/1459369/",
+    "dealer_id": "4803",
+    "car_id": "27984556",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q3",
+        "variant": "DIESEL SPORTBACK",
+        "derivative": "35 TDI Black Edition S Tronic",
+        "registration_number": "BK22AAO",
+        "registration_date": "05/03/2022",
+        "mileage": 43300,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 547.88,
+        "final_payment": 547.88,
+        "total_amount_payable": 35772.8,
+        "total_charge_for_credit": 6772.8,
+        "amount_of_credit": 26100,
+        "lender": "Car Money S",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29000,
+        "total_price": 29000,
+        "deposit": 2900,
+        "balance": 26100,
+        "apr": 16.9,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 524.41,
+        "final_payment": 10129.41,
+        "total_amount_payable": 43969.6,
+        "total_charge_for_credit": 14969.6,
+        "amount_of_credit": 26100,
+        "lender": "Car Money S",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.68,
+        "residual": 9605,
+        "price_to_buy": 10129.41
+      }
+    ]
+  }
+]

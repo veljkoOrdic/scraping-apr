@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T20:00:44.437Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bespokemotorworks.co.uk/used-land-rover-range-rover-sport-stockton-on-tees-cleveland-6856750",
+    "dealer_id": "6268",
+    "car_id": "27713797",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "3.0 P400 Dynamic SE",
+        "registration_number": "FJ72YVM",
+        "registration_date": "14/10/2022",
+        "mileage": 31000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899,
+        "balance": 62096,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1012.28,
+        "final_payment": 23250.29,
+        "total_amount_payable": 89873.81,
+        "total_charge_for_credit": 20878.81,
+        "amount_of_credit": 62096,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.18,
+        "residual": 23250.29,
+        "price_to_buy": 23250.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 68995,
+        "total_price": 68995,
+        "deposit": 6899,
+        "balance": 62096,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 1303.43,
+        "final_payment": 1304.43,
+        "total_amount_payable": 85105.8,
+        "total_charge_for_credit": 16110.8,
+        "amount_of_credit": 62096,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

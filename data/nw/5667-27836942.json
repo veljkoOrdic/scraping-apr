@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:26:34.980Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/electric-hybrid/toyota-highlander-2-5-vvt-h-excel-cvt-4wd-euro-6-s-s-5dr-5-door-suv-blue/rk73phy",
+    "dealer_id": "5667",
+    "car_id": "27836942",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RK73PHY",
+        "registration_date": "20/10/2023",
+        "mileage": 16229,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46899,
+        "total_price": 46899,
+        "deposit": 4690,
+        "balance": 42209,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 1078.45,
+        "final_payment": 1079.45,
+        "total_amount_payable": 56456.6,
+        "total_charge_for_credit": 9557.6,
+        "amount_of_credit": 42209,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46899,
+        "total_price": 46899,
+        "deposit": 4690,
+        "balance": 42209,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 752.98,
+        "final_payment": 20022,
+        "total_amount_payable": 60102.06,
+        "total_charge_for_credit": 13203.06,
+        "amount_of_credit": 42209,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.11,
+        "residual": 20022,
+        "price_to_buy": 20022
+      }
+    ]
+  }
+]

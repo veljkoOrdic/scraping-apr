@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T11:59:21.950Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hollandmotorco.co.uk/used-volkswagen-golf-letchworth-garden-city-hertfordshire-6904646",
+    "dealer_id": "718",
+    "car_id": "27894699",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK14HGL",
+        "registration_date": "01/03/2014",
+        "mileage": 32000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8489,
+        "total_price": 8489,
+        "deposit": 848,
+        "balance": 7641,
+        "apr": 8.9,
+        "rate_of_interest": 4.63,
+        "term": 60,
+        "regular_payment": 156.84,
+        "final_payment": 166.84,
+        "balloon": 0,
+        "total_amount_payable": 10268.4,
+        "total_charge_for_credit": 1779.4,
+        "amount_of_credit": 7641,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 166.84
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:24:54.692Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.howardsgroup.co.uk/electric-hybrid/citroen-ami-5-4kwh-my-ami-buggy-auto-2dr-lhd-2-door-coupe-/kv73nnb",
+    "dealer_id": "5667",
+    "car_id": "26566416",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV73NNB",
+        "registration_date": "06/09/2023",
+        "mileage": 502,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 950,
+        "balance": 8545,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 218.33,
+        "final_payment": 218.33,
+        "balloon": 0,
+        "total_amount_payable": 11429.84,
+        "total_charge_for_credit": 1934.84,
+        "amount_of_credit": 8545,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 218.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9495,
+        "total_price": 9495,
+        "deposit": 950,
+        "balance": 8545,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 218.31,
+        "final_payment": 219.31,
+        "total_amount_payable": 11429.88,
+        "total_charge_for_credit": 1934.88,
+        "amount_of_credit": 8545,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

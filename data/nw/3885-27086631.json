@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:12:01.993Z",
+    "timestamp": "2025-05-15T17:58:22.995Z",
     "source": "new_vehicle_finance",
     "url": "https://www.albamotorcompanyltd.co.uk/used-land-rover-discovery-edinburgh-midlothian-6702831",
     "dealer_id": "3885",
@@ -12,6 +12,29 @@
         "registration_date": "02/08/2018",
         "mileage": 68000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 1000,
+        "balance": 22995,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 503.25,
+        "final_payment": 513.25,
+        "balloon": 0,
+        "total_amount_payable": 31205,
+        "total_charge_for_credit": 7210,
+        "amount_of_credit": 22995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 513.25
       }
     ]
   }

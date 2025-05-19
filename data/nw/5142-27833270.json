@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:01:40.404Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crowtherlodgemotorcompany.co.uk/used-audi-e-tron-gateshead-tyne-and-wear-6887854",
+    "dealer_id": "5142",
+    "car_id": "27833270",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RE21BHX",
+        "registration_date": "28/04/2021",
+        "mileage": 46222,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 1199,
+        "balance": 22791,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 478.39,
+        "final_payment": 479.39,
+        "total_amount_payable": 29903.4,
+        "total_charge_for_credit": 5913.4,
+        "amount_of_credit": 22791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23990,
+        "total_price": 23990,
+        "deposit": 1199,
+        "balance": 22791,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 387.41,
+        "final_payment": 10827.29,
+        "total_amount_payable": 30621.97,
+        "total_charge_for_credit": 6631.97,
+        "amount_of_credit": 22791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 10826.29,
+        "price_to_buy": 10827.29
+      }
+    ]
+  }
+]

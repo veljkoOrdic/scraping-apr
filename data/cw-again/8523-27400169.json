@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:39:19.437Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thevanhub.com/used/commercials/ford/transit-custom/300-limited-ecoblue-2-0-swb-225",
+    "dealer_id": "8523",
+    "car_id": "27400169",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT CUSTOM",
+        "variant": "300 L1 DIESEL FWD",
+        "derivative": "2.0 EcoBlue 136ps H1 Van Limited",
+        "registration_number": "BD24RVA",
+        "registration_date": "29/08/2024",
+        "mileage": 5350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 0,
+        "balance": 32995,
+        "apr": 12.6,
+        "rate_of_interest": 11.93,
+        "term": 48,
+        "regular_payment": 706.6,
+        "final_payment": 9951,
+        "total_amount_payable": 43867.8,
+        "total_charge_for_credit": 10872.8,
+        "amount_of_credit": 32995,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.4,
+        "residual": 9951,
+        "price_to_buy": 9951
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 32995,
+        "total_price": 32995,
+        "deposit": 0,
+        "balance": 32995,
+        "apr": 12.6,
+        "rate_of_interest": 6.65,
+        "term": 60,
+        "regular_payment": 732.76,
+        "final_payment": 732.76,
+        "total_amount_payable": 43965.6,
+        "total_charge_for_credit": 10970.6,
+        "amount_of_credit": 32995,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

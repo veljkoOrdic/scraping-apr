@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:14:20.974Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aphynes.com/details/used-car-in-altrincham/audi/a5/1.8-tfsi-euro-5-2dr/1437171/",
+    "dealer_id": "3054",
+    "car_id": "27742504",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BC11VSP",
+        "registration_date": "28/07/2011",
+        "mileage": 44500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 6235,
+        "total_price": 6235,
+        "deposit": 1558.75,
+        "balance": 4676.25,
+        "apr": 15,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 108.9,
+        "final_payment": 108.9,
+        "balloon": 0,
+        "total_amount_payable": 8092.75,
+        "total_charge_for_credit": 1857.75,
+        "amount_of_credit": 4676.25,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 108.9
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6235,
+        "total_price": 6235,
+        "deposit": 1558.75,
+        "balance": 4676.25,
+        "apr": 11.9,
+        "rate_of_interest": 6.09,
+        "term": 26,
+        "regular_payment": 203.57,
+        "final_payment": 204.57,
+        "total_amount_payable": 6852.57,
+        "total_charge_for_credit": 617.57,
+        "amount_of_credit": 4676.25,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

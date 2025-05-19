@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:37:46.197Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sarahcoxcars.co.uk/used-ferrari-f430-newark-nottinghamshire-5940208",
+    "dealer_id": "2240",
+    "car_id": "23991450",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX06CKC",
+        "registration_date": "09/03/2006",
+        "mileage": 18000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 86911,
+        "total_price": 86911,
+        "deposit": 4345,
+        "balance": 82566,
+        "apr": 12.4,
+        "rate_of_interest": 6.54,
+        "term": 60,
+        "regular_payment": 1825.95,
+        "final_payment": 1835.95,
+        "balloon": 0,
+        "total_amount_payable": 113912,
+        "total_charge_for_credit": 27001,
+        "amount_of_credit": 82566,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1835.95
+      }
+    ]
+  }
+]

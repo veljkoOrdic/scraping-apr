@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:07:23.908Z",
+    "timestamp": "2025-05-15T17:42:35.793Z",
     "source": "new_vehicle_finance",
     "url": "https://www.fleetwisevehiclesales.co.uk/used-toyota-corolla-northern-island-northern-ireland-6499922",
     "dealer_id": "6118",
@@ -14,6 +14,29 @@
         "status": "Used"
       },
       {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 0,
+        "balance": 15995,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 415.54,
+        "final_payment": 425.54,
+        "balloon": 0,
+        "total_amount_payable": 19955.92,
+        "total_charge_for_credit": 3960.92,
+        "amount_of_credit": 15995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 425.54
+      },
+      {
         "type": "finance_pcp",
         "name": "PCP",
         "finance_type": "PCP",
@@ -24,17 +47,17 @@
         "apr": 11.9,
         "rate_of_interest": 6.19,
         "term": 48,
-        "regular_payment": 307.56716378296,
-        "final_payment": 6841.32,
-        "total_amount_payable": 21296.98,
-        "total_charge_for_credit": 5301.98,
+        "regular_payment": 309.328367928482,
+        "final_payment": 6736.83,
+        "total_amount_payable": 21275.26,
+        "total_charge_for_credit": 5280.26,
         "amount_of_credit": 15995,
         "lender": "Close Brothers Motor Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40000,
         "excess_mileage_rate": 0.12,
-        "residual": 6523.75,
-        "price_to_buy": 6841.32
+        "residual": 6417.5,
+        "price_to_buy": 6736.83
       }
     ]
   }

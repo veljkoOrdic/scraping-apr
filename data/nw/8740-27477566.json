@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:15:12.765Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjapprovedusedcars.co.uk/details/used-car-in-hinckley/jaguar/f-type/5.0-v8-r-auto-awd-euro-6-ss-2dr/1415787/",
+    "dealer_id": "8740",
+    "car_id": "27477566",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OV17UFM",
+        "registration_date": "30/03/2017",
+        "mileage": 21000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 40990,
+        "total_price": 40990,
+        "deposit": 4099,
+        "balance": 36891,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 840.89,
+        "final_payment": 850.89,
+        "balloon": 0,
+        "total_amount_payable": 54562.4,
+        "total_charge_for_credit": 13572.4,
+        "amount_of_credit": 36891,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 850.89
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40990,
+        "total_price": 40990,
+        "deposit": 4099,
+        "balance": 36891,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 774.36,
+        "final_payment": 775.36,
+        "total_amount_payable": 50561.6,
+        "total_charge_for_credit": 9571.6,
+        "amount_of_credit": 36891,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

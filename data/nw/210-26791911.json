@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:36.744Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.stebbings.co.uk/used/car/audi--a4-avant/yr73fnm",
+    "dealer_id": "210",
+    "car_id": "26791911",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR73FNM",
+        "registration_date": "11/09/2023",
+        "mileage": 24662,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25058,
+        "total_price": 25058,
+        "deposit": 2505,
+        "balance": 22553,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 566.34,
+        "final_payment": 567.34,
+        "total_amount_payable": 29690.32,
+        "total_charge_for_credit": 4632.32,
+        "amount_of_credit": 22553,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25058,
+        "total_price": 25058,
+        "deposit": 2505,
+        "balance": 22553,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 343.58,
+        "final_payment": 13043.5,
+        "total_amount_payable": 32040.34,
+        "total_charge_for_credit": 6982.34,
+        "amount_of_credit": 22553,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 13042.5,
+        "price_to_buy": 13043.5
+      }
+    ]
+  }
+]

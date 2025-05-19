@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:13.280Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carcart.co.uk/used-mini-hatch-birmingham-west-midlands-6613258",
+    "dealer_id": "6798",
+    "car_id": "26751340",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NA66DBY",
+        "registration_date": "24/11/2016",
+        "mileage": 21864,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9190,
+        "total_price": 9190,
+        "deposit": 1838,
+        "balance": 7352,
+        "apr": 11.8,
+        "rate_of_interest": 6.19,
+        "term": 60,
+        "regular_payment": 160.48,
+        "final_payment": 170.48,
+        "balloon": 0,
+        "total_amount_payable": 11476.8,
+        "total_charge_for_credit": 2286.8,
+        "amount_of_credit": 7352,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 170.48
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9190,
+        "total_price": 9190,
+        "deposit": 1838,
+        "balance": 7352,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 160.81,
+        "final_payment": 170.81,
+        "total_amount_payable": 11496.6,
+        "total_charge_for_credit": 2306.6,
+        "amount_of_credit": 7352,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

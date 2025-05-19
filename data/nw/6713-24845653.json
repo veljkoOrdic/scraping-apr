@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:31:07.341Z",
+    "timestamp": "2025-05-15T18:51:28.906Z",
     "source": "new_vehicle_finance",
     "url": "https://www.northernmotorhouse.co.uk/details/used-car-in-shipley/mercedes-benz/aclass/2.0-a35-amg-premium-plus-spds-dct-4matic-euro-6-ss-5dr/1201751/",
     "dealer_id": "6713",
@@ -12,6 +12,29 @@
         "registration_date": "13/11/2019",
         "mileage": 41500,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649.5,
+        "balance": 23845.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 609.1,
+        "final_payment": 619.1,
+        "balloon": 0,
+        "total_amount_payable": 31896.3,
+        "total_charge_for_credit": 5401.3,
+        "amount_of_credit": 23845.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 619.1
       },
       {
         "type": "finance_hp",

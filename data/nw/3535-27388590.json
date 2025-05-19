@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:32:39.805Z",
+    "source": "new_vehicle_finance",
+    "url": "https://keeperscars.co.uk/vehicle/name/mercedes-a-class-1-5-a180d-amg-line-5dr/",
+    "dealer_id": "3535",
+    "car_id": "27388590",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SD19UEM",
+        "registration_date": "27/08/2019",
+        "mileage": 131700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9567,
+        "total_price": 9567,
+        "deposit": 500,
+        "balance": 9067,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 198.48,
+        "final_payment": 198.48,
+        "total_amount_payable": 12408.8,
+        "total_charge_for_credit": 2841.8,
+        "amount_of_credit": 9067,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

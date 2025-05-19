@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T14:55:20.193Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.kentvehicles.co.uk/details/car-in-herne-common/mercedes-benz/sclass/4.0-s63l-v8-amg-executive-spds-mct-euro-6-ss-4dr/1460370/",
+    "dealer_id": "6570",
+    "car_id": "27998524",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "S-Class",
+        "variant": "AMG SALOON",
+        "derivative": "S63L Executive MCT",
+        "registration_number": "VX19PLV",
+        "registration_date": "31/05/2019",
+        "mileage": 42000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 63880,
+        "total_price": 63880,
+        "deposit": 6388,
+        "balance": 57492,
+        "apr": 12.6,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 1277.12,
+        "final_payment": 1287.12,
+        "total_amount_payable": 83025.2,
+        "total_charge_for_credit": 19145.2,
+        "amount_of_credit": 57492,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 63880,
+        "total_price": 63880,
+        "deposit": 6388,
+        "balance": 57492,
+        "apr": 12.6,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 1277.34,
+        "final_payment": 1277.34,
+        "total_amount_payable": 83028.4,
+        "total_charge_for_credit": 19148.4,
+        "amount_of_credit": 57492,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

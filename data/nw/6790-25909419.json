@@ -1,85 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T02:44:40.684Z",
+    "timestamp": "2025-05-15T18:59:16.673Z",
     "source": "new_vehicle_finance",
     "url": "https://www.thegermancargroup.co.uk/cars/mercedes-benz/aclass/2.0-a35-amg-edition/1284590/",
     "dealer_id": "6790",
     "car_id": "25909419",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "YH22TTX",
-        "registration_date": "31/05/2022",
-        "mileage": 19008,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 30990,
-        "total_price": 30990,
-        "deposit": 3099,
-        "balance": 27891,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 700.39,
-        "final_payment": 701.39,
-        "total_amount_payable": 36718.72,
-        "total_charge_for_credit": 5728.72,
-        "amount_of_credit": 27891,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_lp",
-        "name": "LP",
-        "finance_type": "Lease Purchase",
-        "cash_price": 30990,
-        "total_price": 30990,
-        "deposit": 3099,
-        "balance": 27891,
-        "apr": 10.9,
-        "rate_of_interest": 5.37,
-        "term": 49,
-        "regular_payment": 520.07,
-        "final_payment": 11498.5,
-        "balloon": 11497.5,
-        "total_amount_payable": 39560.86,
-        "total_charge_for_credit": 8570.86,
-        "amount_of_credit": 27891,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 11497.5,
-        "price_to_buy": 11498.5
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 30990,
-        "total_price": 30990,
-        "deposit": 3099,
-        "balance": 27891,
-        "apr": 9.9,
-        "rate_of_interest": 4.89,
-        "term": 49,
-        "regular_payment": 503.95,
-        "final_payment": 11502.21,
-        "total_amount_payable": 38790.81,
-        "total_charge_for_credit": 7800.81,
-        "amount_of_credit": 27891,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.1,
-        "residual": 11501.21,
-        "price_to_buy": 11502.21
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

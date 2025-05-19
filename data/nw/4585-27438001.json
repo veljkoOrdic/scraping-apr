@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:00:06.234Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.buyandgocars.co.uk/used-mercedes-benz-s-class-cardiff-glamorgan-6770835",
+    "dealer_id": "4585",
+    "car_id": "27438001",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN21XNZ",
+        "registration_date": "30/03/2021",
+        "mileage": 33505,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47160,
+        "total_price": 47160,
+        "deposit": 1000,
+        "balance": 46160,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 968.92,
+        "final_payment": 969.92,
+        "total_amount_payable": 59136.2,
+        "total_charge_for_credit": 11976.2,
+        "amount_of_credit": 46160,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47160,
+        "total_price": 47160,
+        "deposit": 1000,
+        "balance": 46160,
+        "apr": 9.9,
+        "rate_of_interest": 4.9,
+        "term": 49,
+        "regular_payment": 851.11,
+        "final_payment": 18037.48,
+        "total_amount_payable": 59890.76,
+        "total_charge_for_credit": 12730.76,
+        "amount_of_credit": 46160,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.16,
+        "residual": 18036.48,
+        "price_to_buy": 18037.48
+      }
+    ]
+  }
+]

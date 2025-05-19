@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:36:44.392Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.select-a-car.co.uk/details/used-car-in-leicester/vauxhall/insignia/1.6-cdti-ecoflex-sri-euro-6-ss-5dr/1415285/",
+    "dealer_id": "8377",
+    "car_id": "27479104",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ65UBR",
+        "registration_date": "15/01/2016",
+        "mileage": 103000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3290,
+        "total_price": 3290,
+        "deposit": 329,
+        "balance": 2961,
+        "apr": 13.9,
+        "rate_of_interest": 7.31,
+        "term": 60,
+        "regular_payment": 67.38,
+        "final_payment": 77.38,
+        "balloon": 0,
+        "total_amount_payable": 4381.8,
+        "total_charge_for_credit": 1091.8,
+        "amount_of_credit": 2961,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 77.38
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3290,
+        "total_price": 3290,
+        "deposit": 329,
+        "balance": 2961,
+        "apr": 13.9,
+        "rate_of_interest": 7.31,
+        "term": 60,
+        "regular_payment": 67.38,
+        "final_payment": 77.38,
+        "total_amount_payable": 4381.8,
+        "total_charge_for_credit": 1091.8,
+        "amount_of_credit": 2961,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:43:53.827Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashbankgarage.co.uk/used/hyundai/ix20/14-active-hatchback-5dr-petrol-manual-euro-5-90-bhp/stoke-on-trent/staffordshire/21603816",
+    "dealer_id": "4830",
+    "car_id": "28099471",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DE14WPM",
+        "registration_date": "18/04/2014",
+        "mileage": 56000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4950,
+        "total_price": 4950,
+        "deposit": 495,
+        "balance": 4455,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 47,
+        "regular_payment": 115.77,
+        "final_payment": 116.77,
+        "total_amount_payable": 5937.19,
+        "total_charge_for_credit": 987.19,
+        "amount_of_credit": 4455,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

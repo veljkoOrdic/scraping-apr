@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:39:30.572Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.saspecialistcars.co.uk/cars/bmw/m3/3.0-m3-competition-saloon/1459314/",
+    "dealer_id": "9149",
+    "car_id": "27982455",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "M3 Competition",
+        "variant": "",
+        "derivative": "M3 Competition Saloon",
+        "registration_number": "YE21VLM",
+        "registration_date": "26/05/2021",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 9.5,
+        "rate_of_interest": 9.5,
+        "term": 48,
+        "regular_payment": 812.75,
+        "final_payment": 22526.93,
+        "total_amount_payable": 66025.68,
+        "total_charge_for_credit": 13030.68,
+        "amount_of_credit": 47695.5,
+        "lender": "Forward Asset Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 14.58,
+        "residual": 22526.93,
+        "price_to_buy": 22526.93
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 9.5,
+        "rate_of_interest": 9.5,
+        "term": 48,
+        "regular_payment": 1189.38,
+        "final_payment": 1190.38,
+        "total_amount_payable": 62390.74,
+        "total_charge_for_credit": 9395.74,
+        "amount_of_credit": 47695.5,
+        "lender": "Forward Asset Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

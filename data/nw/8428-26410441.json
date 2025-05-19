@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:47:25.221Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cliffordcarsales.co.uk/used-bmw-x5-altnagelvin-county-londonderry-6528562",
+    "dealer_id": "8428",
+    "car_id": "26410441",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "UGZ3020",
+        "registration_date": "21/05/2021",
+        "mileage": 60000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 500,
+        "balance": 38495,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 877.56,
+        "final_payment": 878.56,
+        "total_amount_payable": 53154.6,
+        "total_charge_for_credit": 14159.6,
+        "amount_of_credit": 38495,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 38995,
+        "total_price": 38995,
+        "deposit": 500,
+        "balance": 38495,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 766.74,
+        "final_payment": 17530.13,
+        "total_amount_payable": 54066.91,
+        "total_charge_for_credit": 15071.91,
+        "amount_of_credit": 38495,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 17530.13,
+        "price_to_buy": 17530.13
+      }
+    ]
+  }
+]

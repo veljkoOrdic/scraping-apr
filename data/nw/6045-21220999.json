@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:33:16.501Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.belmontautos.co.uk/used-peugeot-208-glasgow-scotland-5285328",
+    "dealer_id": "6045",
+    "car_id": "21220999",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SH68UWU",
+        "registration_date": "30/11/2018",
+        "mileage": 14254,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8499,
+        "total_price": 8499,
+        "deposit": 300,
+        "balance": 8199,
+        "apr": 12.4,
+        "rate_of_interest": 6.52,
+        "term": 60,
+        "regular_payment": 181.21,
+        "final_payment": 191.21,
+        "total_amount_payable": 11182.6,
+        "total_charge_for_credit": 2683.6,
+        "amount_of_credit": 8199,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:36:39.611Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandles.co.uk/used-cars/porsche/911/30t-992-carrera-t-pdk-euro-6-ss-2dr/kf72uap",
+    "dealer_id": "2228",
+    "car_id": "27967789",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KF72UAP",
+        "registration_date": "10/09/2022",
+        "mileage": 12500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 89999,
+        "total_price": 89999,
+        "deposit": 8999.9,
+        "balance": 80999.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 1809.64,
+        "final_payment": 1819.64,
+        "total_amount_payable": 117588.3,
+        "total_charge_for_credit": 27589.3,
+        "amount_of_credit": 80999.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 89999,
+        "total_price": 89999,
+        "deposit": 8999.9,
+        "balance": 80999.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 1492.51,
+        "final_payment": 40255.75,
+        "total_amount_payable": 120896.13,
+        "total_charge_for_credit": 30897.13,
+        "amount_of_credit": 80999.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 40245.75,
+        "price_to_buy": 40255.75
+      }
+    ]
+  }
+]

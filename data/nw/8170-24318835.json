@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:45:07.447Z",
+    "timestamp": "2025-05-15T17:13:21.120Z",
     "source": "new_vehicle_finance",
     "url": "https://www.jmcvansales.co.uk/used-peugeot-partner-dukinfield-cheshire-5953855",
     "dealer_id": "8170",
@@ -12,6 +12,29 @@
         "registration_date": "30/06/2020",
         "mileage": 59126,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11994,
+        "total_price": 11994,
+        "deposit": 1999,
+        "balance": 9995,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 205.2,
+        "final_payment": 215.2,
+        "balloon": 0,
+        "total_amount_payable": 14321,
+        "total_charge_for_credit": 2327,
+        "amount_of_credit": 9995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 215.2
       },
       {
         "type": "finance_hp",

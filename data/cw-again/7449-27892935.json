@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:37:13.912Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.mjmotorcompany.co.uk/used/cars/audi/a1/1-0-a1-sportback-30-tfsi-s-line-semi-auto-5dr-171",
+    "dealer_id": "7449",
+    "car_id": "27892935",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A1",
+        "variant": "SPORTBACK",
+        "derivative": "30 TFSI S Line S Tronic",
+        "registration_number": "EF68FYK",
+        "registration_date": "08/01/2019",
+        "mileage": 53000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 43,
+        "regular_payment": 298.07,
+        "final_payment": 6559.55,
+        "total_amount_payable": 20677.99,
+        "total_charge_for_credit": 4682.99,
+        "amount_of_credit": 14395.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 35833,
+        "excess_mileage_rate": 4.32,
+        "residual": 6559.55,
+        "price_to_buy": 6559.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599.5,
+        "balance": 14395.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 321.62,
+        "final_payment": 321.62,
+        "total_amount_payable": 20896.7,
+        "total_charge_for_credit": 4901.7,
+        "amount_of_credit": 14395.5,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

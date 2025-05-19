@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:44:08.732Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.woodstockcarsales.co.uk/used-vauxhall-mokka-witney-oxfordshire-6841580",
+    "dealer_id": "4471",
+    "car_id": "27634334",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VW11BET",
+        "registration_date": "31/01/2022",
+        "mileage": 15000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16790,
+        "total_price": 16790,
+        "deposit": 1679,
+        "balance": 15111,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 379.45,
+        "final_payment": 380.45,
+        "total_amount_payable": 19893.6,
+        "total_charge_for_credit": 3103.6,
+        "amount_of_credit": 15111,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16790,
+        "total_price": 16790,
+        "deposit": 1679,
+        "balance": 15111,
+        "apr": 9.9,
+        "rate_of_interest": 4.87,
+        "term": 49,
+        "regular_payment": 257.64,
+        "final_payment": 7132.97,
+        "total_amount_payable": 21178.69,
+        "total_charge_for_credit": 4388.69,
+        "amount_of_credit": 15111,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.08,
+        "residual": 7131.97,
+        "price_to_buy": 7132.97
+      }
+    ]
+  }
+]

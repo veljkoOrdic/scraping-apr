@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:24:52.850Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dsalmon.co.uk/used/alfa-romeo/stelvio/20t-sprint-auto-q4-awd-euro-6-ss-5dr/colchester/essex/21597329",
+    "dealer_id": "8771",
+    "car_id": "27999197",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alfa Romeo",
+        "model": "STELVIO",
+        "variant": "ESTATE",
+        "derivative": "2.0 Turbo 280 Veloce",
+        "registration_number": "EA25NVT",
+        "registration_date": "30/04/2025",
+        "mileage": 500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 10.4,
+        "rate_of_interest": 5.39,
+        "term": 48,
+        "regular_payment": 902.31,
+        "final_payment": 18841,
+        "total_amount_payable": 66549.07,
+        "total_charge_for_credit": 13554.07,
+        "amount_of_credit": 47695.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 44,
+        "residual": 18831,
+        "price_to_buy": 18841
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299.5,
+        "balance": 47695.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 1022.27,
+        "final_payment": 1032.27,
+        "total_amount_payable": 66645.7,
+        "total_charge_for_credit": 13650.7,
+        "amount_of_credit": 47695.5,
+        "lender": "CA Auto Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

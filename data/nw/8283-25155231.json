@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T23:08:05.268Z",
+    "timestamp": "2025-05-15T17:24:32.615Z",
     "source": "new_vehicle_finance",
     "url": "https://www.vansco.co.uk/vehicle-details/used-peugeot-partner-1-6-bluehdi-756-s-panel-van-6dr-diesel-manual-l2-112-g-km-97-64-bhp-for-sale-vansco-southampton-airport-u9966/",
     "dealer_id": "8283",
@@ -12,6 +12,29 @@
         "registration_date": "30/04/2018",
         "mileage": 103000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5754,
+        "total_price": 5754,
+        "deposit": 959,
+        "balance": 4795,
+        "apr": 15.4,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 112.55,
+        "final_payment": 112.55,
+        "balloon": 0,
+        "total_amount_payable": 7712,
+        "total_charge_for_credit": 1958,
+        "amount_of_credit": 4795,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 112.55
       },
       {
         "type": "finance_hp",

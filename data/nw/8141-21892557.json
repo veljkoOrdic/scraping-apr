@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T22:35:03.960Z",
+    "timestamp": "2025-05-15T17:08:12.904Z",
     "source": "new_vehicle_finance",
     "url": "https://www.jsvans.co.uk/used-ford-transit-stockport-cheshire-5454697",
     "dealer_id": "8141",
     "car_id": "21892557",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HW20HXL",
+        "registration_date": "05/03/2020",
+        "mileage": 63000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 0,
+        "balance": 18995,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 415.69,
+        "final_payment": 425.69,
+        "balloon": 0,
+        "total_amount_payable": 24951.4,
+        "total_charge_for_credit": 5956.4,
+        "amount_of_credit": 18995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 425.69
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 0,
+        "balance": 18995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 415.8,
+        "final_payment": 416.8,
+        "total_amount_payable": 24949,
+        "total_charge_for_credit": 5954,
+        "amount_of_credit": 18995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

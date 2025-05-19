@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:51:22.521Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.grangeroadmotors.com/vehicle-details/used-vauxhall-combo-for-sale-grm-autos-grange-road-u1463/",
+    "dealer_id": "6238",
+    "car_id": "26418625",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR68WAU",
+        "registration_date": "27/09/2018",
+        "mileage": 59370,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7020,
+        "total_price": 7020,
+        "deposit": 1872,
+        "balance": 5148,
+        "apr": 10.8,
+        "rate_of_interest": 5.64,
+        "term": 60,
+        "regular_payment": 110.01,
+        "final_payment": 120.01,
+        "total_amount_payable": 8482.6,
+        "total_charge_for_credit": 1462.6,
+        "amount_of_credit": 5148,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

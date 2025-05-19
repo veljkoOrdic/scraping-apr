@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:55:30.827Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/porsche/macan/2.9t-v6-s-pdk-4wd-euro-6-ss-5dr/1407792/",
+    "dealer_id": "6754",
+    "car_id": "27393591",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KT71EOA",
+        "registration_date": "18/02/2022",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 48499,
+        "total_price": 48499,
+        "deposit": 2424.95,
+        "balance": 46074.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 1278.69,
+        "final_payment": 1279.69,
+        "total_amount_payable": 63803.07,
+        "total_charge_for_credit": 15304.07,
+        "amount_of_credit": 46074.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 48499,
+        "total_price": 48499,
+        "deposit": 2424.95,
+        "balance": 46074.05,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 764.8,
+        "final_payment": 22964.5,
+        "total_amount_payable": 62099.85,
+        "total_charge_for_credit": 13600.85,
+        "amount_of_credit": 46074.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.2,
+        "residual": 22963.5,
+        "price_to_buy": 22964.5
+      }
+    ]
+  }
+]

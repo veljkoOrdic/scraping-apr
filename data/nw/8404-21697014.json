@@ -1,12 +1,41 @@
 [
   {
-    "timestamp": "2025-04-14T23:47:01.965Z",
+    "timestamp": "2025-05-15T17:40:08.050Z",
     "source": "new_vehicle_finance",
     "url": "https://www.autosnorthwest.co.uk/used-land-rover-defender-oldham-greater-manchester-4103025",
     "dealer_id": "8404",
     "car_id": "21697014",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PH56GUN",
+        "registration_date": "29/11/2006",
+        "mileage": 107000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18000,
+        "total_price": 18000,
+        "deposit": 1800,
+        "balance": 16200,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 347.2,
+        "final_payment": 357.2,
+        "balloon": 0,
+        "total_amount_payable": 22642,
+        "total_charge_for_credit": 4642,
+        "amount_of_credit": 16200,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 357.2
+      }
+    ]
   }
 ]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:53:08.736Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fortune.co.uk/used-honda-jazz-edinburgh-scotland-6897017",
+    "dealer_id": "8418",
+    "car_id": "27868980",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SP64XCF",
+        "registration_date": "30/09/2014",
+        "mileage": 10330,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10750,
+        "total_price": 10750,
+        "deposit": 1075,
+        "balance": 9675,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 198.75,
+        "final_payment": 199.75,
+        "total_amount_payable": 13001,
+        "total_charge_for_credit": 2251,
+        "amount_of_credit": 9675,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

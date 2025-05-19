@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:31:50.711Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cjscarsales.co.uk/used/audi/a4/35-tdi-black-edition-5dr-s-tronic/askam-in-furness/cumbria/21587728",
+    "dealer_id": "8840",
+    "car_id": "27859798",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DA71WBV",
+        "registration_date": "23/02/2022",
+        "mileage": 36925,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 506.85,
+        "final_payment": 507.85,
+        "total_amount_payable": 33011.5,
+        "total_charge_for_credit": 7016.5,
+        "amount_of_credit": 23395.5,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 2599.5,
+        "balance": 23395.5,
+        "apr": 11.4,
+        "rate_of_interest": 5.93,
+        "term": 49,
+        "regular_payment": 438.38,
+        "final_payment": 9921,
+        "total_amount_payable": 33562.74,
+        "total_charge_for_credit": 7567.74,
+        "amount_of_credit": 23395.5,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0,
+        "residual": 9920,
+        "price_to_buy": 9921
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:43:22.443Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jimreidvehiclesales.co.uk/used/cars/ford/puma/1-0-125-petrol-titanium-mhev-manual-1010",
+    "dealer_id": "5100",
+    "car_id": "28054119",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "PUMA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost Hybrid mHEV Titanium",
+        "registration_number": "SH22GXM",
+        "registration_date": "31/05/2022",
+        "mileage": 31117,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14999,
+        "total_price": 14999,
+        "deposit": 1499.9,
+        "balance": 13499.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 241.88,
+        "final_payment": 6636,
+        "total_amount_payable": 19746.14,
+        "total_charge_for_credit": 4747.14,
+        "amount_of_credit": 13499.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 9,
+        "residual": 6626,
+        "price_to_buy": 6636
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14999,
+        "total_price": 14999,
+        "deposit": 1499.9,
+        "balance": 13499.1,
+        "apr": 11.9,
+        "rate_of_interest": 11.27,
+        "term": 48,
+        "regular_payment": 350.67,
+        "final_payment": 360.67,
+        "total_amount_payable": 18342.06,
+        "total_charge_for_credit": 3343.06,
+        "amount_of_credit": 13499.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

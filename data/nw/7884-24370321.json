@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:04:09.637Z",
+    "timestamp": "2025-05-15T16:30:04.683Z",
     "source": "new_vehicle_finance",
     "url": "https://www.1stchoicemotors.co.uk/used/bmw/1-series/118i-136-m-sport-5dr-live-cockpit-professional/london/greater-london/21257062",
     "dealer_id": "7884",
@@ -12,6 +12,29 @@
         "registration_date": "17/06/2022",
         "mileage": 21800,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18995,
+        "total_price": 18995,
+        "deposit": 2500,
+        "balance": 16495,
+        "apr": 15.2,
+        "rate_of_interest": 7.5,
+        "term": 60,
+        "regular_payment": 386.03,
+        "final_payment": 386.03,
+        "balloon": 0,
+        "total_amount_payable": 25661.8,
+        "total_charge_for_credit": 6666.8,
+        "amount_of_credit": 16495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 386.03
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 13.9,
         "rate_of_interest": 7.36,
         "term": 60,
-        "regular_payment": 279.43,
-        "final_payment": 8403.16,
-        "balloon": 8403.16,
-        "total_amount_payable": 27389.53,
-        "total_charge_for_credit": 8394.53,
+        "regular_payment": 280.93,
+        "final_payment": 8278.34,
+        "balloon": 8278.34,
+        "total_amount_payable": 27353.21,
+        "total_charge_for_credit": 8358.21,
         "amount_of_credit": 16495,
         "lender": "Auto Union Finance Ltd",
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
-        "residual": 8403.16,
-        "price_to_buy": 8403.16
+        "residual": 8278.34,
+        "price_to_buy": 8278.34
       },
       {
         "type": "finance_pcp",
@@ -68,17 +91,17 @@
         "apr": 9.9,
         "rate_of_interest": 4.82,
         "term": 49,
-        "regular_payment": 244.58,
-        "final_payment": 9932.5,
-        "total_amount_payable": 24172.34,
-        "total_charge_for_credit": 5177.34,
+        "regular_payment": 246.9,
+        "final_payment": 9796.97,
+        "total_amount_payable": 24148.17,
+        "total_charge_for_credit": 5153.17,
         "amount_of_credit": 16495,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.14,
-        "residual": 9931.5,
-        "price_to_buy": 9932.5
+        "residual": 9795.97,
+        "price_to_buy": 9796.97
       }
     ]
   }

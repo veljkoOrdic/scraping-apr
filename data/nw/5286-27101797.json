@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:23:33.032Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carquay.co.uk/used/cars/land-rover/range-rover-sport/3-0-sd-v6-autobiography-dynamic-auto-4wd-euro-5-s-s-5dr-5389",
+    "dealer_id": "5286",
+    "car_id": "27101797",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "OU15ZNV",
+        "registration_date": "13/03/2015",
+        "mileage": 50000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 499.38,
+        "final_payment": 500.38,
+        "total_amount_payable": 26070.74,
+        "total_charge_for_credit": 5075.74,
+        "amount_of_credit": 18895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

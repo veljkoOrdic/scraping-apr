@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:15:07.937Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjapprovedusedcars.co.uk/details/used-car-in-hinckley/jaguar/f-pace/5.0-v8-svr-quickshift-awd-euro-6-ss-5dr/1425543/",
+    "dealer_id": "8740",
+    "car_id": "27595886",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AD19BYC",
+        "registration_date": "14/06/2019",
+        "mileage": 47400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 35690,
+        "total_price": 35690,
+        "deposit": 3569,
+        "balance": 32121,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 732.15,
+        "final_payment": 742.15,
+        "balloon": 0,
+        "total_amount_payable": 47508,
+        "total_charge_for_credit": 11818,
+        "amount_of_credit": 32121,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 742.15
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35690,
+        "total_price": 35690,
+        "deposit": 3569,
+        "balance": 32121,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 674.23,
+        "final_payment": 675.23,
+        "total_amount_payable": 44023.8,
+        "total_charge_for_credit": 8333.8,
+        "amount_of_credit": 32121,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

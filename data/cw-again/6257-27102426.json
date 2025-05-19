@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:57:14.744Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.monaghanbros.co.uk/used/bmw/7-series/730ld-mht-4dr-auto/enniskillen/county-fermanagh/21542663",
+    "dealer_id": "6257",
+    "car_id": "27102426",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "7 Series",
+        "variant": "DIESEL SALOON",
+        "derivative": "730Ld MHT",
+        "registration_number": "SRZ6218",
+        "registration_date": "25/05/2021",
+        "mileage": 65500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099.5,
+        "balance": 27895.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 551.19,
+        "final_payment": 10589,
+        "total_amount_payable": 40145.62,
+        "total_charge_for_credit": 9150.62,
+        "amount_of_credit": 27895.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 10579,
+        "price_to_buy": 10589
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099.5,
+        "balance": 27895.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 724.82,
+        "final_payment": 734.82,
+        "total_amount_payable": 37900.86,
+        "total_charge_for_credit": 6905.86,
+        "amount_of_credit": 27895.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

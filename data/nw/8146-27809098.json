@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:09:47.964Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fgcars.uk/details/van-in-loughborough/landrover/discovery/3.0-d300-mhev-hse-auto-4wd-euro-6-ss-5dr/1443500/",
+    "dealer_id": "8146",
+    "car_id": "27809098",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FJ71YOM",
+        "registration_date": "01/09/2021",
+        "mileage": 66350,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 54000,
+        "total_price": 54000,
+        "deposit": 0,
+        "balance": 45000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 985.06,
+        "final_payment": 986.06,
+        "total_amount_payable": 68104.6,
+        "total_charge_for_credit": 14104.6,
+        "amount_of_credit": 45000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

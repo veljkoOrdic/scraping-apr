@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:55:15.314Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/bmw/8series/3.0-840d-steptronic-xdrive-euro-6-ss-2dr/1434859/",
+    "dealer_id": "6754",
+    "car_id": "27715864",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB68ZNN",
+        "registration_date": "19/11/2018",
+        "mileage": 57887,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28999,
+        "total_price": 28999,
+        "deposit": 1449.95,
+        "balance": 27549.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 764.56,
+        "final_payment": 765.56,
+        "total_amount_payable": 38149.83,
+        "total_charge_for_credit": 9150.83,
+        "amount_of_credit": 27549.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

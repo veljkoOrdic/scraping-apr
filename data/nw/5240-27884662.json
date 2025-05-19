@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:21:36.701Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ronlee.co.uk/used/nissan/qashqai/13-dig-t-mh-158-n-connecta-5dr-xtronic/halifax/west-yorkshire/21589274",
+    "dealer_id": "5240",
+    "car_id": "27884662",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DP24ZZE",
+        "registration_date": "18/07/2024",
+        "mileage": 8748,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 0,
+        "balance": 25995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 569.03,
+        "final_payment": 570.03,
+        "total_amount_payable": 34142.8,
+        "total_charge_for_credit": 8147.8,
+        "amount_of_credit": 25995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 0,
+        "balance": 25995,
+        "apr": 11.9,
+        "rate_of_interest": 5.83,
+        "term": 49,
+        "regular_payment": 481.53,
+        "final_payment": 11818,
+        "total_amount_payable": 34931.44,
+        "total_charge_for_credit": 8936.44,
+        "amount_of_credit": 25995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 11817,
+        "price_to_buy": 11818
+      }
+    ]
+  }
+]

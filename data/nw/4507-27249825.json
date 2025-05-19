@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:48:54.752Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.billingcarandvancentre.co.uk/used/mini/hatchback/15-cooper-classic-ii-5dr/northampton/northamptonshire/21552036",
+    "dealer_id": "4507",
+    "car_id": "27249825",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WD70KBU",
+        "registration_date": "12/02/2021",
+        "mileage": 27470,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 0,
+        "balance": 12490,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 319.11,
+        "final_payment": 320.11,
+        "total_amount_payable": 15318.28,
+        "total_charge_for_credit": 2828.28,
+        "amount_of_credit": 12490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12490,
+        "total_price": 12490,
+        "deposit": 0,
+        "balance": 12490,
+        "apr": 10.9,
+        "rate_of_interest": 5.35,
+        "term": 49,
+        "regular_payment": 221.61,
+        "final_payment": 5823.29,
+        "total_amount_payable": 16460.57,
+        "total_charge_for_credit": 3970.57,
+        "amount_of_credit": 12490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.06,
+        "residual": 5822.29,
+        "price_to_buy": 5823.29
+      }
+    ]
+  }
+]

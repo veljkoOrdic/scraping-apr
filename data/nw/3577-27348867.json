@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:34:37.055Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lanarkshirecarsales.co.uk/used-fiat-panda-north-lanarkshire-lanarkshire-6770430",
+    "dealer_id": "3577",
+    "car_id": "27348867",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MF17LRU",
+        "registration_date": "17/03/2017",
+        "mileage": 50470,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 3995,
+        "total_price": 3995,
+        "deposit": 0,
+        "balance": 3995,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 83.85,
+        "final_payment": 84.85,
+        "total_amount_payable": 5032,
+        "total_charge_for_credit": 1037,
+        "amount_of_credit": 3995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

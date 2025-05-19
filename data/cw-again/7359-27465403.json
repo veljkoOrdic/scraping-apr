@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:30:22.508Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarfinancehub.co.uk/used/cars/vauxhall/grandland-x/elite-nav-s-s-334",
+    "dealer_id": "7359",
+    "car_id": "27465403",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "QASHQAI",
+        "variant": "DIESEL HATCHBACK",
+        "derivative": "1.5 dCi 115 Acenta Premium",
+        "registration_number": "FY68SWW",
+        "registration_date": "30/11/2018",
+        "mileage": 66773,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049.5,
+        "balance": 9445.5,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 42,
+        "regular_payment": 227.71,
+        "final_payment": 3898.64,
+        "total_amount_payable": 14284.25,
+        "total_charge_for_credit": 3789.25,
+        "amount_of_credit": 9445.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 35000,
+        "excess_mileage_rate": 2.66,
+        "residual": 3898.64,
+        "price_to_buy": 3898.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049.5,
+        "balance": 9445.5,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 60,
+        "regular_payment": 228.27,
+        "final_payment": 229.27,
+        "total_amount_payable": 14746.7,
+        "total_charge_for_credit": 4251.7,
+        "amount_of_credit": 9445.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

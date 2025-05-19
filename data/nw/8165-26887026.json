@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:12:37.914Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premiermotors.co.uk/ford/used/ford/kuga/25-phev-st-line-x-5dr-cvt/newport/isle-of-wight/21526580",
+    "dealer_id": "8165",
+    "car_id": "26887026",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HW74CKK",
+        "registration_date": "02/09/2024",
+        "mileage": 5500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31490,
+        "total_price": 31490,
+        "deposit": 6298,
+        "balance": 25192,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 632.61,
+        "final_payment": 633.61,
+        "total_amount_payable": 36664.28,
+        "total_charge_for_credit": 5174.28,
+        "amount_of_credit": 25192,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 31490,
+        "total_price": 31490,
+        "deposit": 6298,
+        "balance": 25192,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 390.8,
+        "final_payment": 14159.12,
+        "total_amount_payable": 39215.52,
+        "total_charge_for_credit": 7725.52,
+        "amount_of_credit": 25192,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.14,
+        "residual": 14158.12,
+        "price_to_buy": 14159.12
+      }
+    ]
+  }
+]

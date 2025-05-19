@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:03:50.545Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hothatches.co.uk/listings/xx03hss/",
+    "dealer_id": "7738",
+    "car_id": "27854522",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "XX03HSS",
+        "registration_date": "25/11/2014",
+        "mileage": 39000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44950,
+        "total_price": 44950,
+        "deposit": 4495,
+        "balance": 40455,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 998.22,
+        "final_payment": 999.22,
+        "total_amount_payable": 52410.56,
+        "total_charge_for_credit": 7460.56,
+        "amount_of_credit": 40455,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

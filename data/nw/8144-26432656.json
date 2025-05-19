@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:08:56.522Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pjcommercial.com/used-mercedes-benz-sprinter-smethwick-west-midlands-6532661",
+    "dealer_id": "8144",
+    "car_id": "26432656",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KP20FZR",
+        "registration_date": "09/07/2020",
+        "mileage": 87080,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26394,
+        "total_price": 26394,
+        "deposit": 0,
+        "balance": 21995,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 491.42,
+        "final_payment": 492.42,
+        "total_amount_payable": 33885.2,
+        "total_charge_for_credit": 7491.2,
+        "amount_of_credit": 21995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

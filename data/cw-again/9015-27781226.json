@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T19:38:07.629Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.avon-automotive.com/details/used-car-in-bristol/tesla/modely/dual-motor-performance-auto-4wde-5dr/1440593/",
+    "dealer_id": "9015",
+    "car_id": "27781226",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Tesla",
+        "model": "MODEL Y",
+        "variant": "HATCHBACK",
+        "derivative": "Performance",
+        "registration_number": "WP72XPF",
+        "registration_date": "22/12/2022",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 3199.5,
+        "balance": 28795.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 604.44,
+        "final_payment": 604.44,
+        "total_amount_payable": 39465.9,
+        "total_charge_for_credit": 7470.9,
+        "amount_of_credit": 28795.5,
+        "lender": "LowRateCarFinance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_lp",
+        "name": "LP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 31995,
+        "total_price": 31995,
+        "deposit": 11995.01,
+        "balance": 19999.99,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 220.72,
+        "final_payment": 15326,
+        "total_amount_payable": 40564.21,
+        "total_charge_for_credit": 8569.21,
+        "amount_of_credit": 19999.99,
+        "lender": "LowRateCarFinance Limited"
+      }
+    ]
+  }
+]

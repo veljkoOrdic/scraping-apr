@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:35:38.139Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.saveonusedcars.co.uk/used/volkswagen/crafter/20-tdi-140ps-trendline-van-auto/scunthorpe/lincolnshire/234441",
+    "dealer_id": "7219",
+    "car_id": "26000779",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK73OCZ",
+        "registration_date": "04/10/2023",
+        "mileage": 25682,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38988,
+        "total_price": 38988,
+        "deposit": 2000,
+        "balance": 30490,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 805.82,
+        "final_payment": 806.82,
+        "total_amount_payable": 47178.36,
+        "total_charge_for_credit": 8190.36,
+        "amount_of_credit": 30490,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

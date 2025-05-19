@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:26:34.793Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.castlemotors.net/vehicle-details/used-mercedes-benz-c-class-c63-v8-biturbo-amg-for-sale-in-hampshire-u6179/",
+    "dealer_id": "509",
+    "car_id": "27756711",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RK17EWV",
+        "registration_date": "31/03/2017",
+        "mileage": 34624,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31950,
+        "total_price": 31950,
+        "deposit": 6390,
+        "balance": 25560,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 525.08,
+        "final_payment": 526.08,
+        "total_amount_payable": 37895.8,
+        "total_charge_for_credit": 5945.8,
+        "amount_of_credit": 25560,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

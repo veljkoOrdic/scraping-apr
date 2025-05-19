@@ -1,12 +1,85 @@
 [
   {
-    "timestamp": "2025-04-14T18:07:33.576Z",
+    "timestamp": "2025-05-15T14:41:15.049Z",
     "source": "new_vehicle_finance",
     "url": "https://www.caldermotor.co.uk/used-bentley-bentayga-west-lothian-scotland-5221097",
     "dealer_id": "4826",
     "car_id": "20935814",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EX19WXZ",
+        "registration_date": "09/03/2019",
+        "mileage": 24650,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299,
+        "balance": 65696,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1349.64,
+        "final_payment": 1349.64,
+        "balloon": 0,
+        "total_amount_payable": 88277.4,
+        "total_charge_for_credit": 15282.4,
+        "amount_of_credit": 65696,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1349.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299,
+        "balance": 65696,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1349.63,
+        "final_payment": 1350.63,
+        "total_amount_payable": 88277.8,
+        "total_charge_for_credit": 15282.8,
+        "amount_of_credit": 65696,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299,
+        "balance": 65696,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 45,
+        "regular_payment": 1141.4,
+        "final_payment": 31279.5,
+        "total_amount_payable": 88800.1,
+        "total_charge_for_credit": 15805.1,
+        "amount_of_credit": 65696,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 0.13,
+        "residual": 31278.5,
+        "price_to_buy": 31279.5
+      }
+    ]
   }
 ]

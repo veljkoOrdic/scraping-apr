@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:53:56.332Z",
+    "timestamp": "2025-05-15T17:16:27.204Z",
     "source": "new_vehicle_finance",
     "url": "https://www.platinumcarsalesltd.co.uk/used-cars/merthyr-tydfil-porsche-macan-pdk-black-pack-2560/",
     "dealer_id": "8180",
@@ -12,6 +12,29 @@
         "registration_date": "24/07/2015",
         "mileage": 71000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199.5,
+        "balance": 19795.5,
+        "apr": 13.9,
+        "rate_of_interest": 6.7,
+        "term": 48,
+        "regular_payment": 532.18,
+        "final_payment": 532.18,
+        "balloon": 0,
+        "total_amount_payable": 27744.14,
+        "total_charge_for_credit": 5749.14,
+        "amount_of_credit": 19795.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 532.18
       },
       {
         "type": "finance_hp",

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:25:48.848Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rsgmotors.co.uk/used-skoda-octavia-uxbridge-london-6889857",
+    "dealer_id": "6920",
+    "car_id": "27836637",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KR68BXC",
+        "registration_date": "15/11/2018",
+        "mileage": 57781,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15800,
+        "total_price": 15800,
+        "deposit": 1580,
+        "balance": 14220,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 317.71,
+        "final_payment": 318.71,
+        "total_amount_payable": 20643.6,
+        "total_charge_for_credit": 4843.6,
+        "amount_of_credit": 14220,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

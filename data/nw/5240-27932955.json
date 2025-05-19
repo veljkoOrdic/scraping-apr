@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:21:32.956Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ronlee.co.uk/used/peugeot/3008/12-puretech-gt-premium-5dr-eat8/halifax/west-yorkshire/21592338",
+    "dealer_id": "5240",
+    "car_id": "27932955",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AK22UTW",
+        "registration_date": "18/07/2022",
+        "mileage": 9835,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 0,
+        "balance": 23995,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 525.25,
+        "final_payment": 526.25,
+        "total_amount_payable": 31516,
+        "total_charge_for_credit": 7521,
+        "amount_of_credit": 23995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 0,
+        "balance": 23995,
+        "apr": 11.9,
+        "rate_of_interest": 5.84,
+        "term": 49,
+        "regular_payment": 451.93,
+        "final_payment": 10455.56,
+        "total_amount_payable": 32148.2,
+        "total_charge_for_credit": 8153.2,
+        "amount_of_credit": 23995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 10454.56,
+        "price_to_buy": 10455.56
+      }
+    ]
+  }
+]

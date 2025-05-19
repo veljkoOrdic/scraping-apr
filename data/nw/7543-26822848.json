@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:50:14.937Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubittcars.co.uk/details/used-car-in-bingley/volkswagen/golf/2.0-tdi-bluemotion-tech-gtd-euro-6-ss-5dr/1360681/",
+    "dealer_id": "7543",
+    "car_id": "26822848",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BF17WMO",
+        "registration_date": "18/07/2017",
+        "mileage": 85000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 236.04,
+        "final_payment": 237.04,
+        "total_amount_payable": 15412.9,
+        "total_charge_for_credit": 2917.9,
+        "amount_of_credit": 11245.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

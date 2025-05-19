@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:50:18.728Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hewsonmotorhub.co.uk/vehicle-details/used-mini-clubman-cooper-s-sport-for-sale-in-market-harborough-leicestershire-u1723/",
+    "dealer_id": "6690",
+    "car_id": "26657556",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YL69LKP",
+        "registration_date": "29/01/2020",
+        "mileage": 74817,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14000,
+        "total_price": 14000,
+        "deposit": 0,
+        "balance": 14000,
+        "apr": 11.2,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 301.95,
+        "final_payment": 301.95,
+        "balloon": 0,
+        "total_amount_payable": 18117,
+        "total_charge_for_credit": 4117,
+        "amount_of_credit": 14000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 301.95
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14000,
+        "total_price": 14000,
+        "deposit": 0,
+        "balance": 14000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 293.86,
+        "final_payment": 294.86,
+        "total_amount_payable": 17632.6,
+        "total_charge_for_credit": 3632.6,
+        "amount_of_credit": 14000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

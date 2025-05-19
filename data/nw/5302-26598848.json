@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:24:34.517Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.anchorcars.co.uk/used/cars/tesla/model-3/standard-range-plus-saloon-4dr-electric-motor-auto-rwd-241-bhp-3624",
+    "dealer_id": "5302",
+    "car_id": "26598848",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BJ69VPL",
+        "registration_date": "28/09/2019",
+        "mileage": 45360,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14484,
+        "total_price": 14484,
+        "deposit": 1000,
+        "balance": 13484,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 350.43,
+        "final_payment": 351.43,
+        "total_amount_payable": 17821.64,
+        "total_charge_for_credit": 3337.64,
+        "amount_of_credit": 13484,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

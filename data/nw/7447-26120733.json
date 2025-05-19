@@ -1,62 +1,17 @@
 [
   {
-    "timestamp": "2025-04-14T19:14:16.328Z",
+    "timestamp": "2025-05-15T15:36:30.526Z",
     "source": "new_vehicle_finance",
     "url": "https://www.blightsmotors.co.uk/used/ford/kuga/20-ecoblue-190-st-line-5dr-auto-awd/bideford/devon/21454525",
     "dealer_id": "7447",
     "car_id": "26120733",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "MF70WCY",
-        "registration_date": "18/09/2020",
-        "mileage": 45580,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 18990,
-        "total_price": 18990,
-        "deposit": 1899,
-        "balance": 17091,
-        "apr": 11.1,
-        "rate_of_interest": 5.83,
-        "term": 60,
-        "regular_payment": 367.84,
-        "final_payment": 377.84,
-        "total_amount_payable": 23979.4,
-        "total_charge_for_credit": 4989.4,
-        "amount_of_credit": 17091,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 18990,
-        "total_price": 18990,
-        "deposit": 1899,
-        "balance": 17091,
-        "apr": 11.1,
-        "rate_of_interest": 5.76,
-        "term": 49,
-        "regular_payment": 310.77,
-        "final_payment": 7638,
-        "total_amount_payable": 24453.96,
-        "total_charge_for_credit": 5463.96,
-        "amount_of_credit": 17091,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0,
-        "residual": 7628,
-        "price_to_buy": 7638
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.blightsmotors.co.uk%20&usePersistedOptions=false&quoteeUid=9FFE6F14-DA6C-40DE-B3D3-AEA280EADAB4&class=car&condition=used&vrm=MF70WCY&registrationDate=18/09/2020&capId=91457&cashPrice=18990&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=45580&vehicleImageUrl=https://www.blightsmotors.co.uk/media/images/188669992/ford-kuga-diesel-hatchback.jpg&term=60&cashDeposit=1899&annualDistance=10000&random=ztg2f",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.blightsmotors.co.uk%20&usePersistedOptions=false&quoteeUid=9FFE6F14-DA6C-40DE-B3D3-AEA280EADAB4&class=car&condition=used&vrm=MF70WCY&registrationDate=18%2F09%2F2020&capId=91457&cashPrice=18990&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=45580&vehicleImageUrl=https%3A%2F%2Fwww.blightsmotors.co.uk%2Fmedia%2Fimages%2F188669992%2Fford-kuga-diesel-hatchback.jpg&term=60&cashDeposit=1899&annualDistance=10000&random=ztg2f&origin=https%3A%2F%2Fwww.blightsmotors.co.uk%2Fused%2Fford%2Fkuga%2F20-ecoblue-190-st-line-5dr-auto-awd%2Fbideford%2Fdevon%2F21454525&widgetId=iv-finance-widget"
+      ]
+    }
   }
 ]

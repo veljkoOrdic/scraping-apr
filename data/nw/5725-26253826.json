@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:17:14.999Z",
+    "timestamp": "2025-05-15T16:40:43.109Z",
     "source": "new_vehicle_finance",
     "url": "https://www.georgekingsley.co.uk/used/cars/porsche/cayenne/v8-turbo-tiptronic-s-17k-options-pdcc-adaptive-cruise-night-vision-2655",
     "dealer_id": "5725",
@@ -12,6 +12,29 @@
         "registration_date": "28/05/2019",
         "mileage": 58817,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 59995,
+        "total_price": 59995,
+        "deposit": 8999.25,
+        "balance": 50995.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 1325.36,
+        "final_payment": 1325.36,
+        "balloon": 0,
+        "total_amount_payable": 72616.53,
+        "total_charge_for_credit": 12621.53,
+        "amount_of_credit": 50995.75,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1325.36
       },
       {
         "type": "finance_hp",

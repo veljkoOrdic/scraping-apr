@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:43:39.726Z",
+    "timestamp": "2025-05-15T18:20:04.186Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sbwakefield.co.uk/used/citroen/berlingo/berlingo-flair-xtr-p-tech/wakefield/west-yorkshire/21463065",
     "dealer_id": "6504",
@@ -12,6 +12,29 @@
         "registration_date": "18/01/2023",
         "mileage": 26516,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21495,
+        "total_price": 21495,
+        "deposit": 2149.5,
+        "balance": 19345.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 432.24,
+        "final_payment": 432.24,
+        "balloon": 0,
+        "total_amount_payable": 28083.9,
+        "total_charge_for_credit": 6588.9,
+        "amount_of_credit": 19345.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 432.24
       }
     ]
   }

@@ -1,39 +1,21 @@
 [
   {
-    "timestamp": "2025-04-14T19:07:55.087Z",
+    "timestamp": "2025-05-15T15:01:20.291Z",
     "source": "new_vehicle_finance",
     "url": "https://www.crowtherlodgemotorcompany.co.uk/used-vauxhall-insignia-gateshead-tyne-and-wear-6807087",
     "dealer_id": "5142",
     "car_id": "27536064",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "GX65COU",
-        "registration_date": "03/12/2015",
-        "mileage": 80592,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4990,
-        "total_price": 4990,
-        "deposit": 249,
-        "balance": 4741,
-        "apr": 9.9,
-        "rate_of_interest": 5.18,
-        "term": 60,
-        "regular_payment": 99.5,
-        "final_payment": 100.5,
-        "total_amount_payable": 6220,
-        "total_charge_for_credit": 1230,
-        "amount_of_credit": 4741,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.crowtherlodgemotorcompany.&quoteeUid=DFC9CC569B244A5B919B077746EC9DE5&class=car&condition=used&vrm=GX65COU&registrationDate=03%2F12%2F2015&capCode=&capId=&cashPrice=4990&currentOdometerReading=80592&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6807%2F6807087%2Ffull%2F163093022.jpg&term=60&cashDeposit=249&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=20%2F03%2F2025&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.crowtherlodgemotorcompany.&quoteeUid=DFC9CC569B244A5B919B077746EC9DE5&class=car&condition=used&vrm=GX65COU&registrationDate=03%2F12%2F2015&capCode=&capId=&cashPrice=4990&currentOdometerReading=80592&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6807%2F6807087%2Ffull%2F163093022.jpg&term=60&cashDeposit=249&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=20%2F03%2F2025&usePersistedOptions=false&origin=https%3A%2F%2Fwww.crowtherlodgemotorcompany.co.uk%2Fused-vauxhall-insignia-gateshead-tyne-and-wear-6807087&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

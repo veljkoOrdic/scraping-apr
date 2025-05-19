@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T13:53:39.261Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.smvcommercials.co.uk/vehicle-details/used-volkswagen-transporter-tdi-t30-highline-for-sale-smv-car-lcv-u412/",
+    "dealer_id": "2612",
+    "car_id": "27520087",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK74GZN",
+        "registration_date": "30/09/2024",
+        "mileage": 1990,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 46794,
+        "total_price": 46794,
+        "deposit": 11698.5,
+        "balance": 35095.5,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 799.96,
+        "final_payment": 809.96,
+        "balloon": 0,
+        "total_amount_payable": 59706.1,
+        "total_charge_for_credit": 12912.1,
+        "amount_of_credit": 35095.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 809.96
+      }
+    ]
+  }
+]

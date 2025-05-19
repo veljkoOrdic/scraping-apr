@@ -1,39 +1,25 @@
 [
   {
-    "timestamp": "2025-04-15T01:18:04.910Z",
+    "timestamp": "2025-05-15T18:10:00.690Z",
     "source": "new_vehicle_finance",
     "url": "https://www.yorkshirevehiclesolutions.co.uk/used/lamborghini/huracan/52-v10-lp-640-2-sto-ldf-euro-6-ss-2dr/york/north-yorkshire/21483454",
     "dealer_id": "6406",
     "car_id": "26456133",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "LS23HRZ",
-        "registration_date": "29/07/2023",
-        "mileage": 2000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 284995,
-        "total_price": 284995,
-        "deposit": 28499.5,
-        "balance": 75000,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 1883.4,
-        "final_payment": 1884.4,
-        "total_amount_payable": 300399.2,
-        "total_charge_for_credit": 15404.2,
-        "amount_of_credit": 75000,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.yorkshirevehiclesolutions.&usePersistedOptions=false&quoteeUid=876a1d0c-6359-4ad6-9a50-f45faffd1550&class=car&condition=used&vrm=LS23HRZ&registrationDate=29/07/2023&capId=96671&cashPrice=284995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=2000&vehicleImageUrl=https://www.yorkshirevehiclesolutions.co.uk/media/images/189617219/lamborghini-huracan-petrol-coupe.jpg&term=48&cashDeposit=28499.5&annualDistance=10000&random=mrixhg",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.yorkshirevehiclesolutions.&usePersistedOptions=false&quoteeUid=876a1d0c-6359-4ad6-9a50-f45faffd1550&class=car&condition=used&vrm=LS23HRZ&registrationDate=29%2F07%2F2023&capId=96671&cashPrice=284995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=2000&vehicleImageUrl=https%3A%2F%2Fwww.yorkshirevehiclesolutions.co.uk%2Fmedia%2Fimages%2F189617219%2Flamborghini-huracan-petrol-coupe.jpg&term=48&cashDeposit=28499.5&annualDistance=10000&random=mrixhg&origin=https%3A%2F%2Fwww.yorkshirevehiclesolutions.co.uk%2Fused%2Flamborghini%2Fhuracan%2F52-v10-lp-640-2-sto-ldf-euro-6-ss-2dr%2Fyork%2Fnorth-yorkshire%2F21483454&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

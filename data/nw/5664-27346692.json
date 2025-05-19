@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:24:29.197Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fairleecarsales.co.uk/cars/volkswagen/tiguan/2.0-tdi-r-line-tech/1404784/",
+    "dealer_id": "5664",
+    "car_id": "27346692",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EK19VKU",
+        "registration_date": "13/03/2019",
+        "mileage": 43000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 482.17,
+        "final_payment": 492.17,
+        "balloon": 0,
+        "total_amount_payable": 31439.7,
+        "total_charge_for_credit": 6444.7,
+        "amount_of_credit": 22495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 492.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 482.28,
+        "final_payment": 483.28,
+        "total_amount_payable": 31437.3,
+        "total_charge_for_credit": 6442.3,
+        "amount_of_credit": 22495.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

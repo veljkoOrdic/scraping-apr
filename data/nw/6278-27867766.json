@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:55:47.602Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lanepearson.co.uk/vehicle-details/Land-Rover-Defender-90-U5536/",
+    "dealer_id": "6278",
+    "car_id": "27867766",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ24BTY",
+        "registration_date": "04/03/2024",
+        "mileage": 16185,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64794,
+        "total_price": 64794,
+        "deposit": 8099.25,
+        "balance": 56694.75,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1164.71,
+        "final_payment": 1165.71,
+        "total_amount_payable": 77982.85,
+        "total_charge_for_credit": 13188.85,
+        "amount_of_credit": 56694.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

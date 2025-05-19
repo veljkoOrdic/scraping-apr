@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:36:36.317Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cubomoto.co.uk/used-triumph-tiger-1200-huddersfield-west-yorkshire-6137592",
+    "dealer_id": "3551",
+    "car_id": "24810941",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV23YFL",
+        "registration_date": "11/07/2023",
+        "mileage": 1102,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11790,
+        "total_price": 11790,
+        "deposit": 1179,
+        "balance": 10611,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 232.27,
+        "final_payment": 233.27,
+        "total_amount_payable": 15116.2,
+        "total_charge_for_credit": 3326.2,
+        "amount_of_credit": 10611,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11790,
+        "total_price": 11790,
+        "deposit": 1179,
+        "balance": 10611,
+        "apr": 11.9,
+        "rate_of_interest": 5.78,
+        "term": 49,
+        "regular_payment": 178.91,
+        "final_payment": 5898.91,
+        "total_amount_payable": 15665.59,
+        "total_charge_for_credit": 3875.59,
+        "amount_of_credit": 10611,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 5897.91,
+        "price_to_buy": 5898.91
+      }
+    ]
+  }
+]

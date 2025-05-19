@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:31:37.208Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.spirecarsltd.co.uk/details/used-car-in-middlesex/mercedes-benz/eclass/2.0-e220d-amg-line-premium-g-tronic+-euro-6-ss-2dr/1429066/",
+    "dealer_id": "4738",
+    "car_id": "27654754",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FSZ8485",
+        "registration_date": "27/04/2018",
+        "mileage": 54111,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19990,
+        "total_price": 19990,
+        "deposit": 1999,
+        "balance": 17991,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 369.47,
+        "final_payment": 379.47,
+        "balloon": 0,
+        "total_amount_payable": 24177.2,
+        "total_charge_for_credit": 4187.2,
+        "amount_of_credit": 17991,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 379.47
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19990,
+        "total_price": 19990,
+        "deposit": 1999,
+        "balance": 17991,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 369.59,
+        "final_payment": 370.59,
+        "total_amount_payable": 24175.4,
+        "total_charge_for_credit": 4185.4,
+        "amount_of_credit": 17991,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

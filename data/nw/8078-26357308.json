@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:15:51.793Z",
+    "timestamp": "2025-05-15T17:01:51.661Z",
     "source": "new_vehicle_finance",
     "url": "https://www.manchestervansales.com/used-ford-ranger-stalybridge-greater-manchester-6515797",
     "dealer_id": "8078",
@@ -12,6 +12,29 @@
         "registration_date": "20/12/2024",
         "mileage": 250,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 74394,
+        "total_price": 74394,
+        "deposit": 12399,
+        "balance": 61995,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1329.03,
+        "final_payment": 1339.03,
+        "balloon": 0,
+        "total_amount_payable": 92150.8,
+        "total_charge_for_credit": 17756.8,
+        "amount_of_credit": 61995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1339.03
       },
       {
         "type": "finance_hp",

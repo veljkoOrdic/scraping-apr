@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-16T12:04:03.356Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rivieracarcentre.co.uk/used-fiat-multipla-paignton-devon-5880172",
+    "dealer_id": "1073",
+    "car_id": "26365999",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GY55PFA",
+        "registration_date": "01/09/2005",
+        "mileage": 61423,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 2495,
+        "total_price": 2495,
+        "deposit": 249,
+        "balance": 2246,
+        "apr": 19.2,
+        "rate_of_interest": 6.2,
+        "term": 60,
+        "regular_payment": 56.68,
+        "final_payment": 56.68,
+        "balloon": 0,
+        "total_amount_payable": 3649.8,
+        "total_charge_for_credit": 1154.8,
+        "amount_of_credit": 2246,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 56.68
+      }
+    ]
+  }
+]

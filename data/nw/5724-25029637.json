@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T16:38:05.113Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hawkins.co.uk/used-car-details/used-kia-ceed-15-t-gdi-isg-3-lunar-silver-manual-petrol/id-4169/",
+    "dealer_id": "5724",
+    "car_id": "25029637",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK73XGH",
+        "registration_date": "26/09/2023",
+        "mileage": 1000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099,
+        "balance": 18896,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 49,
+        "regular_payment": 360.45,
+        "final_payment": 7956.28,
+        "total_amount_payable": 27356.88,
+        "total_charge_for_credit": 6361.88,
+        "amount_of_credit": 18896,
+        "lender": "Kia Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.149,
+        "residual": 7956.28,
+        "price_to_buy": 7956.28
+      }
+    ]
+  }
+]

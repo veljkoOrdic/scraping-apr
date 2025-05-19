@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:49:33.880Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-audi-q2-wigan-lancashire-6755174",
+    "dealer_id": "1094",
+    "car_id": "27404420",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q2",
+        "variant": "DIESEL ESTATE",
+        "derivative": "30 TDI S Line S Tronic",
+        "registration_number": "FL69GFJ",
+        "registration_date": "30/09/2019",
+        "mileage": 43250,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599,
+        "balance": 14396,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 361.46,
+        "final_payment": 362.46,
+        "total_amount_payable": 18950.08,
+        "total_charge_for_credit": 2955.08,
+        "amount_of_credit": 14396,
+        "lender": "MotoNovo Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15995,
+        "total_price": 15995,
+        "deposit": 1599,
+        "balance": 14396,
+        "apr": 12.6,
+        "rate_of_interest": 12.6,
+        "term": 48,
+        "regular_payment": 283.07,
+        "final_payment": 6121.43,
+        "total_amount_payable": 21024.72,
+        "total_charge_for_credit": 5029.72,
+        "amount_of_credit": 14396,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.09,
+        "residual": 6121.43,
+        "price_to_buy": 6121.43
+      }
+    ]
+  }
+]

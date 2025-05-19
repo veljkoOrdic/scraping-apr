@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T23:50:50.089Z",
+    "timestamp": "2025-05-15T17:41:33.759Z",
     "source": "new_vehicle_finance",
     "url": "https://www.macmillanmotorcompany.co.uk/used-land-rover-range-rover-middlesbrough-north-yorkshire-6822261",
     "dealer_id": "8407",
     "car_id": "27566025",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "SB66KGE",
-        "registration_date": "30/12/2016",
-        "mileage": 58261,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 28995,
-        "total_price": 28995,
-        "deposit": 2899,
-        "balance": 26096,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 559.48,
-        "final_payment": 560.48,
-        "total_amount_payable": 36468.8,
-        "total_charge_for_credit": 7473.8,
-        "amount_of_credit": 26096,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.macmillanmotorcompany.com&quoteeUid=306EFC34FFE245F0882238A1CD9AB982&class=car&condition=used&vrm=SB66KGE&registrationDate=30%2F12%2F2016&capCode=&capId=&cashPrice=27495&currentOdometerReading=58261&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6822%2F6822261%2Ffull%2F163242654.jpg&term=60&cashDeposit=2749&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=26%2F03%2F2025&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.macmillanmotorcompany.com&quoteeUid=306EFC34FFE245F0882238A1CD9AB982&class=car&condition=used&vrm=SB66KGE&registrationDate=30%2F12%2F2016&capCode=&capId=&cashPrice=27495&currentOdometerReading=58261&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6822%2F6822261%2Ffull%2F163242654.jpg&term=60&cashDeposit=2749&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=26%2F03%2F2025&usePersistedOptions=false&origin=https%3A%2F%2Fwww.macmillanmotorcompany.co.uk%2Fused-land-rover-range-rover-middlesbrough-north-yorkshire-6822261&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

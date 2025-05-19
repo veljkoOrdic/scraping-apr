@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:27.156Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bbcars.co.uk/used-renault-trafic-bridport-dorset-6400937",
+    "dealer_id": "6800",
+    "car_id": "26310622",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Renault",
+        "model": "TRAFIC",
+        "variant": "LWB DIESEL",
+        "derivative": "LL30 Blue dCi 130 Advance [Safety] Van",
+        "registration_number": "FG74GJF",
+        "registration_date": "14/10/2024",
+        "mileage": 200,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29988,
+        "total_price": 29988,
+        "deposit": 4998,
+        "balance": 24990,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 547.07,
+        "final_payment": 547.07,
+        "total_amount_payable": 37822.2,
+        "total_charge_for_credit": 7834.2,
+        "amount_of_credit": 24990,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29988,
+        "total_price": 29988,
+        "deposit": 4998,
+        "balance": 24990,
+        "apr": 11.9,
+        "rate_of_interest": 11.3,
+        "term": 48,
+        "regular_payment": 515.53,
+        "final_payment": 8161,
+        "total_amount_payable": 37904.44,
+        "total_charge_for_credit": 7916.44,
+        "amount_of_credit": 24990,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 3.8,
+        "residual": 8161,
+        "price_to_buy": 8161
+      }
+    ]
+  }
+]

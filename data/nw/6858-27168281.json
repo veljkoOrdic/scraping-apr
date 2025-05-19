@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:15:04.932Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.royhannamotors.com/used-bmw-3-series-county-antrim-county-antrim-6685070",
+    "dealer_id": "6858",
+    "car_id": "27168281",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DU69VFO",
+        "registration_date": "12/09/2019",
+        "mileage": 23400,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19450,
+        "total_price": 19450,
+        "deposit": 1945,
+        "balance": 17505,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 383.07,
+        "final_payment": 393.07,
+        "balloon": 0,
+        "total_amount_payable": 24939.2,
+        "total_charge_for_credit": 5489.2,
+        "amount_of_credit": 17505,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 393.07
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19450,
+        "total_price": 19450,
+        "deposit": 1945,
+        "balance": 17505,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 367.43,
+        "final_payment": 368.43,
+        "total_amount_payable": 23991.8,
+        "total_charge_for_credit": 4541.8,
+        "amount_of_credit": 17505,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

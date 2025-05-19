@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:40:58.842Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dowstorey.co.uk/cars/audi/a3/1.5-tfsi-cod-black-edition-sportback-s-tronic-euro-6-ss-5dr/1396574/",
+    "dealer_id": "6110",
+    "car_id": "27002807",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WH18CLU",
+        "registration_date": "09/08/2018",
+        "mileage": 56500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15000,
+        "total_price": 15000,
+        "deposit": 1500,
+        "balance": 13500,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 283.36,
+        "final_payment": 284.36,
+        "total_amount_payable": 18502.6,
+        "total_charge_for_credit": 3502.6,
+        "amount_of_credit": 13500,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

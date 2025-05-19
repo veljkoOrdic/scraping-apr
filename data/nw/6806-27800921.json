@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:05.902Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mcautosales.co.uk/used-audi-rs6-avant-magherafelt-londonderry-6878877",
+    "dealer_id": "6806",
+    "car_id": "27800921",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RS60TKS",
+        "registration_date": "01/02/2018",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46995,
+        "total_price": 46995,
+        "deposit": 0,
+        "balance": 46995,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 50,
+        "regular_payment": 1141.3,
+        "final_payment": 1142.3,
+        "total_amount_payable": 57066,
+        "total_charge_for_credit": 10071,
+        "amount_of_credit": 46995,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

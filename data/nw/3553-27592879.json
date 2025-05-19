@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:33:31.410Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.seankearneycars.com/car-details/mitsubishi-l200-372427383",
+    "dealer_id": "3553",
+    "car_id": "27592879",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SV20WUC",
+        "registration_date": "23/03/2020",
+        "mileage": 99000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16800,
+        "total_price": 16800,
+        "deposit": 3360,
+        "balance": 13440,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 349.3,
+        "final_payment": 349.3,
+        "balloon": 0,
+        "total_amount_payable": 20126.4,
+        "total_charge_for_credit": 3326.4,
+        "amount_of_credit": 13440,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 349.3
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16800,
+        "total_price": 16800,
+        "deposit": 3360,
+        "balance": 13440,
+        "apr": 11.9,
+        "rate_of_interest": 6.17,
+        "term": 48,
+        "regular_payment": 349.14,
+        "final_payment": 359.14,
+        "total_amount_payable": 20128.72,
+        "total_charge_for_credit": 3328.72,
+        "amount_of_credit": 13440,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

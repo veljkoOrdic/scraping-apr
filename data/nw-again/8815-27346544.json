@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:11:53.231Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmotorcompanykingston.co.uk/used-jaguar-f-type-new-malden-london-6770992",
+    "dealer_id": "8815",
+    "car_id": "27346544",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RA73UWV",
+        "registration_date": "19/01/2024",
+        "mileage": 2280,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999,
+        "balance": 71996,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1511.24,
+        "final_payment": 1512.24,
+        "total_amount_payable": 98674.4,
+        "total_charge_for_credit": 18679.4,
+        "amount_of_credit": 71996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 79995,
+        "total_price": 79995,
+        "deposit": 7999,
+        "balance": 71996,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 1269.46,
+        "final_payment": 31530.25,
+        "total_amount_payable": 100463.33,
+        "total_charge_for_credit": 20468.33,
+        "amount_of_credit": 71996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.38,
+        "residual": 31529.25,
+        "price_to_buy": 31530.25
+      }
+    ]
+  }
+]

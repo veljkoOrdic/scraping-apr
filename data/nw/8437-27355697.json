@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:48:54.217Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mssmotorgroup.com/used-volkswagen-amarok-clacton-on-sea-essex-6733861",
+    "dealer_id": "8437",
+    "car_id": "27355697",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SY14LFM",
+        "registration_date": "10/03/2014",
+        "mileage": 110000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 45,
+        "regular_payment": 242.22,
+        "final_payment": 243.22,
+        "total_amount_payable": 11899.9,
+        "total_charge_for_credit": 1904.9,
+        "amount_of_credit": 8996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

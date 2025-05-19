@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T00:43:41.434Z",
+    "timestamp": "2025-05-15T17:45:54.480Z",
     "source": "new_vehicle_finance",
     "url": "https://www.westcountrycarsyeovil.co.uk/used-mercedes-benz-slc-yeovil-somerset-5561014",
     "dealer_id": "3717",
     "car_id": "22593489",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "VX66NHE",
-        "registration_date": "30/09/2016",
-        "mileage": 80000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 11500,
-        "total_price": 11500,
-        "deposit": 1150,
-        "balance": 10350,
-        "apr": 9.4,
-        "rate_of_interest": 4.85,
-        "term": 48,
-        "regular_payment": 257.47,
-        "final_payment": 267.47,
-        "total_amount_payable": 13518.56,
-        "total_charge_for_credit": 2018.56,
-        "amount_of_credit": 10350,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

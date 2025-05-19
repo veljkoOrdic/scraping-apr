@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:42:48.652Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanza.co.uk/used-ford-kuga-cardiff-glamorgan-6819073",
+    "dealer_id": "8413",
+    "car_id": "27824759",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VA17HVD",
+        "registration_date": "30/08/2017",
+        "mileage": 93250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8750,
+        "total_price": 8750,
+        "deposit": 875,
+        "balance": 7875,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 168.71,
+        "final_payment": 178.71,
+        "balloon": 0,
+        "total_amount_payable": 11007.6,
+        "total_charge_for_credit": 2257.6,
+        "amount_of_credit": 7875,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 178.71
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8750,
+        "total_price": 8750,
+        "deposit": 875,
+        "balance": 7875,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 168.71,
+        "final_payment": 178.71,
+        "total_amount_payable": 11007.6,
+        "total_charge_for_credit": 2257.6,
+        "amount_of_credit": 7875,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

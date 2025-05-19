@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:39:19.341Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.adampurvescars.com/used/nissan/navara/double-cab-pick-up-n-guard-23dci-190-tt-4wd-auto/galashiels/scottish-borders/245641",
+    "dealer_id": "3667",
+    "car_id": "27821923",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BT21ZMX",
+        "registration_date": "16/03/2021",
+        "mileage": 10890,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29994,
+        "total_price": 29994,
+        "deposit": 7498.5,
+        "balance": 22495.5,
+        "apr": 7.9,
+        "rate_of_interest": 7.61,
+        "term": 60,
+        "regular_payment": 452.13,
+        "final_payment": 452.13,
+        "total_amount_payable": 34626.3,
+        "total_charge_for_credit": 4632.3,
+        "amount_of_credit": 22495.5,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

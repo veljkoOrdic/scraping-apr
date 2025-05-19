@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:43:05.418Z",
+    "timestamp": "2025-05-15T18:20:00.762Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sbwakefield.co.uk/used/citroen/berlingo/15-bluehdi-130-flair-m-5dr-eat8/wakefield/west-yorkshire/21282211",
     "dealer_id": "6504",
@@ -12,6 +12,29 @@
         "registration_date": "17/10/2019",
         "mileage": 11794,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799.5,
+        "balance": 16195.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 361.86,
+        "final_payment": 361.86,
+        "balloon": 0,
+        "total_amount_payable": 23511.1,
+        "total_charge_for_credit": 5516.1,
+        "amount_of_credit": 16195.5,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 361.86
       }
     ]
   }

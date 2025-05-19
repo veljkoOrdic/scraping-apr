@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:48:59.767Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mjmcarsales.co.uk/used-jaguar-f-type-bishop-auckland-county-durham-6788875",
+    "dealer_id": "7522",
+    "car_id": "27488775",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SA71LCF",
+        "registration_date": "26/01/2022",
+        "mileage": 25205,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699,
+        "balance": 33296,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 698.9,
+        "final_payment": 699.9,
+        "total_amount_payable": 45634,
+        "total_charge_for_credit": 8639,
+        "amount_of_credit": 33296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699,
+        "balance": 33296,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 560.66,
+        "final_payment": 16129,
+        "total_amount_payable": 46739.68,
+        "total_charge_for_credit": 9744.68,
+        "amount_of_credit": 33296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.18,
+        "residual": 16128,
+        "price_to_buy": 16129
+      }
+    ]
+  }
+]

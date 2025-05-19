@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:27:46.237Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fleetsalesleicester.co.uk/used-volkswagen-caddy-maxi-cosby-leicestershire-6616371",
+    "dealer_id": "1583",
+    "car_id": "26859371",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MK70KWJ",
+        "registration_date": "03/11/2020",
+        "mileage": 112223,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8850,
+        "total_price": 8850,
+        "deposit": 2500,
+        "balance": 6350,
+        "apr": 9.9,
+        "rate_of_interest": 5.16,
+        "term": 60,
+        "regular_payment": 133.16,
+        "final_payment": 143.16,
+        "balloon": 0,
+        "total_amount_payable": 10499.6,
+        "total_charge_for_credit": 1649.6,
+        "amount_of_credit": 6350,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 143.16
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8850,
+        "total_price": 8850,
+        "deposit": 2500,
+        "balance": 6350,
+        "apr": 9.9,
+        "rate_of_interest": 9.43,
+        "term": 60,
+        "regular_payment": 133.29,
+        "final_payment": 133.29,
+        "total_amount_payable": 10497.4,
+        "total_charge_for_credit": 1647.4,
+        "amount_of_credit": 6350,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

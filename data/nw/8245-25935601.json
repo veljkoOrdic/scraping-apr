@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T23:04:05.178Z",
+    "timestamp": "2025-05-15T17:21:59.252Z",
     "source": "new_vehicle_finance",
     "url": "https://wizmotors.co.uk/vehicle/name/mercedes-benz-c-class-2-1-c220d-amg-line-premium-plus-coupe-2dr-diesel-g-tronic-euro-6-s-s-170-ps/",
     "dealer_id": "8245",
     "car_id": "25935601",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "DV66XBM",
-        "registration_date": "30/09/2016",
-        "mileage": 75553,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 14399,
-        "total_price": 14399,
-        "deposit": 1439.9,
-        "balance": 12959.1,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 277.86,
-        "final_payment": 287.86,
-        "total_amount_payable": 18121.5,
-        "total_charge_for_credit": 3722.5,
-        "amount_of_credit": 12959.1,
-        "lender": "Tandem",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=wizmotors.co.uk&quoteeUid=3303CB8F-AB53-4F68-0ACE-CEA35F16C86D&class=car&condition=used&vrm=DV66XBM&registrationDate=30/09/2016&cashPrice=13899&vatIncluded=true&currentOdometerReading=75553&vehicleImageUrl=https://aacarsdna.com/images/vehicles/10/large/ed83d266795bb23fdd2892aab3c43aa8.jpg&term=60&cashDeposit=10.00&cashDepositType=percentageOfCashPrice",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=wizmotors.co.uk&quoteeUid=3303CB8F-AB53-4F68-0ACE-CEA35F16C86D&class=car&condition=used&vrm=DV66XBM&registrationDate=30%2F09%2F2016&cashPrice=13899&vatIncluded=true&currentOdometerReading=75553&vehicleImageUrl=https%3A%2F%2Faacarsdna.com%2Fimages%2Fvehicles%2F10%2Flarge%2Fed83d266795bb23fdd2892aab3c43aa8.jpg&term=60&cashDeposit=10.00&cashDepositType=percentageOfCashPrice&origin=https%3A%2F%2Fwizmotors.co.uk%2Fvehicle%2Fname%2Fmercedes-benz-c-class-2-1-c220d-amg-line-premium-plus-coupe-2dr-diesel-g-tronic-euro-6-s-s-170-ps%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

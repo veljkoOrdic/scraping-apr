@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:49:45.714Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.motor-class.co.uk/used-lamborghini-urus-wigan-lancashire-6879310",
+    "dealer_id": "1094",
+    "car_id": "27799150",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8",
+        "registration_number": "EU19DPO",
+        "registration_date": "01/03/2019",
+        "mileage": 52500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 154995,
+        "total_price": 154995,
+        "deposit": 15499,
+        "balance": 139496,
+        "apr": 11.6,
+        "rate_of_interest": 6.03,
+        "term": 48,
+        "regular_payment": 3607.13,
+        "final_payment": 3608.13,
+        "total_amount_payable": 188642.24,
+        "total_charge_for_credit": 33647.24,
+        "amount_of_credit": 139496,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 154995,
+        "total_price": 154995,
+        "deposit": 15499,
+        "balance": 139496,
+        "apr": 12.6,
+        "rate_of_interest": 12.6,
+        "term": 45,
+        "regular_payment": 2844.1,
+        "final_payment": 60124.25,
+        "total_amount_payable": 200763.65,
+        "total_charge_for_credit": 45768.65,
+        "amount_of_credit": 139496,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 36.6,
+        "residual": 60124.25,
+        "price_to_buy": 60124.25
+      }
+    ]
+  }
+]

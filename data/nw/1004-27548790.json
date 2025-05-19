@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:30:31.018Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.severnsidecarcompany.co.uk/used-volkswagen-golf-bridgend-mid-glamorgan-6821033",
+    "dealer_id": "1004",
+    "car_id": "27548790",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AP15MYF",
+        "registration_date": "30/06/2015",
+        "mileage": 29630,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 0,
+        "balance": 12495,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 267.88,
+        "final_payment": 268.88,
+        "total_amount_payable": 16073.8,
+        "total_charge_for_credit": 3578.8,
+        "amount_of_credit": 12495,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

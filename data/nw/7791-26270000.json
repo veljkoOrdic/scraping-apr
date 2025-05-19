@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T20:47:10.428Z",
+    "timestamp": "2025-05-15T16:22:12.037Z",
     "source": "new_vehicle_finance",
     "url": "https://www.gdmotors.co.uk/details/used-van-in-armadale/renault/trafic/1.6-dci-energy-29-sport-nav-crew-van-lwb-euro-6-ss-6dr/1315051/",
     "dealer_id": "7791",
     "car_id": "26270000",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "K8RTS",
-        "registration_date": "30/06/2019",
-        "mileage": 40279,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 20394,
-        "total_price": 20394,
-        "deposit": 0,
-        "balance": 20394,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 437.23,
-        "final_payment": 438.23,
-        "total_amount_payable": 26234.8,
-        "total_charge_for_credit": 5840.8,
-        "amount_of_credit": 20394,
-        "lender": "Blue Motor Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

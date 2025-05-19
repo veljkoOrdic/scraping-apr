@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T00:07:21.821Z",
+    "timestamp": "2025-05-15T17:31:45.486Z",
     "source": "new_vehicle_finance",
     "url": "https://www.belgravecommercials.co.uk/used-vauxhall-vivaro-plympton-devon-6185316",
     "dealer_id": "3456",
@@ -12,6 +12,29 @@
         "registration_date": "27/09/2019",
         "mileage": 69151,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12600,
+        "total_price": 12600,
+        "deposit": 2100,
+        "balance": 10500,
+        "apr": 11.3,
+        "rate_of_interest": 5.1,
+        "term": 60,
+        "regular_payment": 226.95,
+        "final_payment": 226.95,
+        "balloon": 0,
+        "total_amount_payable": 15717,
+        "total_charge_for_credit": 3117,
+        "amount_of_credit": 10500,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 226.95
       },
       {
         "type": "finance_hp",

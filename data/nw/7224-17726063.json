@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:01:13.185Z",
+    "timestamp": "2025-05-15T15:01:40.142Z",
     "source": "new_vehicle_finance",
     "url": "https://www.yourcarsupermarket.com/used-bentley-arnage-birmingham-west-midlands-3887257",
     "dealer_id": "7224",
@@ -12,6 +12,29 @@
         "registration_date": "10/06/2004",
         "mileage": 40000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30000,
+        "total_price": 30000,
+        "deposit": 3000,
+        "balance": 27000,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 603.14,
+        "final_payment": 613.14,
+        "balloon": 0,
+        "total_amount_payable": 39198.4,
+        "total_charge_for_credit": 9198.4,
+        "amount_of_credit": 27000,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 613.14
       }
     ]
   }

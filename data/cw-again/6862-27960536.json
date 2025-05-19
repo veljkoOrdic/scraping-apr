@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T15:32:08.719Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.a1ortos.co.uk/used-land-rover-defender-oldham-greater-manchester-6902655",
+    "dealer_id": "6862",
+    "car_id": "27960536",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "DEFENDER",
+        "variant": "DIESEL ESTATE",
+        "derivative": "3.0 D300 X-Dynamic HSE 110",
+        "registration_number": "MW73YMO",
+        "registration_date": "23/10/2023",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 69949,
+        "total_price": 69949,
+        "deposit": 6994,
+        "balance": 62955,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 1084.43,
+        "final_payment": 32109.08,
+        "total_amount_payable": 90071.29,
+        "total_charge_for_credit": 20122.29,
+        "amount_of_credit": 62955,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17.42,
+        "residual": 32109.08,
+        "price_to_buy": 32109.08
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 69949,
+        "total_price": 69949,
+        "deposit": 6994,
+        "balance": 62955,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1349.74,
+        "final_payment": 1349.74,
+        "total_amount_payable": 87978.4,
+        "total_charge_for_credit": 18029.4,
+        "amount_of_credit": 62955,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

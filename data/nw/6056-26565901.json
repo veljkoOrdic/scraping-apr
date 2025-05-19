@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:33:47.453Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.dinnages.co.uk/used-car-details/used-ford-fiesta-10t-ecoboost-mhev-vignale-edi-hatchback-agate-black-manual-petrol/id-126683105789512347/",
+    "dealer_id": "6056",
+    "car_id": "26565901",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VE70YAJ",
+        "registration_date": "30/01/2021",
+        "mileage": 44618,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 2400,
+        "balance": 9600,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 36,
+        "regular_payment": 319.73,
+        "final_payment": 320.73,
+        "total_amount_payable": 13911.28,
+        "total_charge_for_credit": 1911.28,
+        "amount_of_credit": 9600,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 2400,
+        "balance": 9600,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 50,
+        "regular_payment": 182,
+        "final_payment": 4315.5,
+        "total_amount_payable": 15633.5,
+        "total_charge_for_credit": 3633.5,
+        "amount_of_credit": 9600,
+        "lender": "DSG Financial Services Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 25000,
+        "excess_mileage_rate": 0.03,
+        "residual": 4315.5,
+        "price_to_buy": 4315.5
+      }
+    ]
+  }
+]

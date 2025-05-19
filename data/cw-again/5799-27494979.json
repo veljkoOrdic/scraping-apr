@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:45.698Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.pooleaudi.co.uk/used/audi/q7/suv-vorsprung-55-tfsi-quattro-340-ps-tiptronic/poole/dorset/21565598",
+    "dealer_id": "5799",
+    "car_id": "27494979",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "ESTATE",
+        "derivative": "55 TFSI Quattro Vorsprung Tiptronic",
+        "registration_number": "HG74OSO",
+        "registration_date": "29/11/2024",
+        "mileage": 5000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 82000,
+        "total_price": 82000,
+        "deposit": 12550,
+        "balance": 69450,
+        "apr": 11.1,
+        "rate_of_interest": 11.13,
+        "term": 60,
+        "regular_payment": 1496.07,
+        "final_payment": 1506.07,
+        "total_amount_payable": 102324.2,
+        "total_charge_for_credit": 20324.2,
+        "amount_of_credit": 69450,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 82000,
+        "total_price": 82000,
+        "deposit": 12550,
+        "balance": 69450,
+        "apr": 11.3,
+        "rate_of_interest": 11.31,
+        "term": 49,
+        "regular_payment": 1178.02,
+        "final_payment": 36656.25,
+        "total_amount_payable": 105751.21,
+        "total_charge_for_credit": 23751.21,
+        "amount_of_credit": 69450,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32666,
+        "excess_mileage_rate": 12.98,
+        "residual": 36646.25,
+        "price_to_buy": 36656.25
+      }
+    ]
+  }
+]

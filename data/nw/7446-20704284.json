@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:10:46.391Z",
+    "timestamp": "2025-05-15T15:35:12.253Z",
     "source": "new_vehicle_finance",
     "url": "https://www.llanellimotorcompany.co.uk/used-vehicle-details/Mercedes-Benz-A-Class-U8287/",
     "dealer_id": "7446",
@@ -12,6 +12,29 @@
         "registration_date": "31/01/2020",
         "mileage": 27964,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17495,
+        "total_price": 17495,
+        "deposit": 1749.5,
+        "balance": 15745.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 416.15,
+        "final_payment": 416.15,
+        "balloon": 0,
+        "total_amount_payable": 21724.7,
+        "total_charge_for_credit": 4229.7,
+        "amount_of_credit": 15745.5,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 416.15
       },
       {
         "type": "finance_hp",

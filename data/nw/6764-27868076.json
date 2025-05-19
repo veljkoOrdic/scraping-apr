@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:55:52.494Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vwaudiwoking.co.uk/vehicle-details/used-audi-a3-cabriolet-tfsi-cod-s-line-for-sale-internal-u13652/",
+    "dealer_id": "6764",
+    "car_id": "27868076",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "ET66CPE",
+        "registration_date": "20/01/2017",
+        "mileage": 38200,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15275,
+        "total_price": 15275,
+        "deposit": 1000,
+        "balance": 14275,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 312.47,
+        "final_payment": 313.47,
+        "total_amount_payable": 19749.2,
+        "total_charge_for_credit": 4474.2,
+        "amount_of_credit": 14275,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

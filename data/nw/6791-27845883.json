@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T19:01:32.882Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.orchardmillmotorcompany.co.uk/cars/audi/a5/2.0-tfsi-s-line/1446759/",
+    "dealer_id": "6791",
+    "car_id": "27845883",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WN67DUJ",
+        "registration_date": "27/09/2017",
+        "mileage": 81000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15795,
+        "total_price": 15795,
+        "deposit": 1579.5,
+        "balance": 14215.5,
+        "apr": 11.6,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 309.52,
+        "final_payment": 309.52,
+        "balloon": 0,
+        "total_amount_payable": 20150.7,
+        "total_charge_for_credit": 4355.7,
+        "amount_of_credit": 14215.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 309.52
+      }
+    ]
+  }
+]

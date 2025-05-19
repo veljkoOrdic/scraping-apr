@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:50:30.470Z",
+    "source": "new_vehicle_finance",
+    "url": "https://centralmotorslye.co.uk/vehicle/name/vauxhall-adam-slam/",
+    "dealer_id": "4534",
+    "car_id": "26732972",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ64UHF",
+        "registration_date": "04/09/2014",
+        "mileage": 72014,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4695,
+        "total_price": 4695,
+        "deposit": 0,
+        "balance": 4695,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 122.01,
+        "final_payment": 123.01,
+        "total_amount_payable": 5857.48,
+        "total_charge_for_credit": 1162.48,
+        "amount_of_credit": 4695,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:10:50.960Z",
+    "timestamp": "2025-05-15T19:09:06.655Z",
     "source": "new_vehicle_finance",
     "url": "https://www.elderwoodmotors.co.uk/used-skoda-kodiaq-peterborough-cambridgeshire-6132231",
     "dealer_id": "6834",
@@ -12,6 +12,29 @@
         "registration_date": "29/03/2019",
         "mileage": 61786,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 13790,
+        "total_price": 13790,
+        "deposit": 10,
+        "balance": 13780,
+        "apr": 13.4,
+        "rate_of_interest": 7.07,
+        "term": 60,
+        "regular_payment": 310.89,
+        "final_payment": 320.89,
+        "balloon": 0,
+        "total_amount_payable": 18673.4,
+        "total_charge_for_credit": 4883.4,
+        "amount_of_credit": 13780,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 320.89
       },
       {
         "type": "finance_hp",

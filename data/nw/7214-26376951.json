@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:54:18.969Z",
+    "timestamp": "2025-05-15T14:59:57.345Z",
     "source": "new_vehicle_finance",
     "url": "https://www.colinfranciscars.com/used-cars/bmw-x5-xdrive40d-m-sport-mhev-auto-7-seater/37335",
     "dealer_id": "7214",
@@ -12,6 +12,29 @@
         "registration_date": "21/04/2023",
         "mileage": 19000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 62950,
+        "total_price": 62950,
+        "deposit": 6295,
+        "balance": 56655,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1189.1,
+        "final_payment": 1199.1,
+        "balloon": 0,
+        "total_amount_payable": 77651,
+        "total_charge_for_credit": 14701,
+        "amount_of_credit": 56655,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1199.1
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 9.9,
         "rate_of_interest": 5.14,
         "term": 49,
-        "regular_payment": 947.63,
-        "final_payment": 27817,
-        "total_amount_payable": 79598.24,
-        "total_charge_for_credit": 16648.24,
+        "regular_payment": 953.59,
+        "final_payment": 27468.25,
+        "total_amount_payable": 79535.57,
+        "total_charge_for_credit": 16585.57,
         "amount_of_credit": 56655,
         "lender": "Northridge Finance",
         "annual_mileage": 8000,
         "contract_mileage": 32667,
         "excess_mileage_rate": 0.22,
-        "residual": 27807,
-        "price_to_buy": 27817
+        "residual": 27458.25,
+        "price_to_buy": 27468.25
       }
     ]
   }

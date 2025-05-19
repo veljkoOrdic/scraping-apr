@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:34:49.818Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.hurlinghamcars.com/vehicle/546457/volkswagen-golf-20-tsi-gti-hatchback-5dr-petrol-dsg-euro-6-s-s-245-ps-in-fulham-wandsworth-battersea-london",
+    "dealer_id": "6060",
+    "car_id": "27877101",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "GOLF",
+        "variant": "HATCHBACK",
+        "derivative": "2.0 TSI GTI DSG",
+        "registration_number": "GV23EJF",
+        "registration_date": "31/05/2023",
+        "mileage": 10407,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 427.86,
+        "final_payment": 12228.1,
+        "total_amount_payable": 40470.84,
+        "total_charge_for_credit": 10480.84,
+        "amount_of_credit": 26991,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 11.18,
+        "residual": 12228.1,
+        "price_to_buy": 12228.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29990,
+        "total_price": 29990,
+        "deposit": 2999,
+        "balance": 26991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 566.59,
+        "final_payment": 567.59,
+        "total_amount_payable": 36995.4,
+        "total_charge_for_credit": 7005.4,
+        "amount_of_credit": 26991,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

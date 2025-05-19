@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T00:13:51.071Z",
+    "timestamp": "2025-05-15T17:55:00.769Z",
     "source": "new_vehicle_finance",
     "url": "https://www.dunelmcarsales.co.uk/used-car-details/used-bmw-3-series-20-330e-12kwh-m-sport-touring-estate-black-metallic-automatic-petrol-plug-in-hybrid/id-4718/",
     "dealer_id": "8482",
     "car_id": "26036967",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "PY70DVX",
-        "registration_date": "09/12/2020",
-        "mileage": 78000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 19995,
-        "total_price": 19995,
-        "deposit": 500,
-        "balance": 19495,
-        "apr": 39.8,
-        "rate_of_interest": 21,
-        "term": 48,
-        "regular_payment": 747.31,
-        "final_payment": 747.31,
-        "total_amount_payable": 36370.88,
-        "total_charge_for_credit": 16375.88,
-        "amount_of_credit": 19495,
-        "lender": "Moneybarn",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:19:37.725Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jeanpierrelimited.co.uk/details/car-in-southampton,/volkswagen/id.3/pro-performance-58kwh-max-auto-5dr/1375314/",
+    "dealer_id": "1908",
+    "car_id": "27032133",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "ID.3",
+        "variant": "HATCHBACK",
+        "derivative": "150kW Max Pro Performance 58kWh",
+        "registration_number": "BG22KXP",
+        "registration_date": "07/06/2022",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17690,
+        "total_price": 17690,
+        "deposit": 1769,
+        "balance": 15921,
+        "apr": 10.4,
+        "rate_of_interest": 9.94,
+        "term": 48,
+        "regular_payment": 259.88,
+        "final_payment": 8483,
+        "total_amount_payable": 22726.24,
+        "total_charge_for_credit": 5036.24,
+        "amount_of_credit": 15921,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.21,
+        "residual": 8483,
+        "price_to_buy": 8483
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17690,
+        "total_price": 17690,
+        "deposit": 1769,
+        "balance": 15921,
+        "apr": 10.4,
+        "rate_of_interest": 5.46,
+        "term": 60,
+        "regular_payment": 337.79,
+        "final_payment": 337.79,
+        "total_amount_payable": 22036.4,
+        "total_charge_for_credit": 4346.4,
+        "amount_of_credit": 15921,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

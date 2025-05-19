@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:30:06.731Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/seat/leon/1.2-tsi-se-dynamic-technology-euro-6-ss-5dr/1298733/",
+    "dealer_id": "3382",
+    "car_id": "26077539",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FY67BHU",
+        "registration_date": "30/09/2017",
+        "mileage": 84442,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6350,
+        "total_price": 6350,
+        "deposit": 635,
+        "balance": 5715,
+        "apr": 21.9,
+        "rate_of_interest": 11.77,
+        "term": 60,
+        "regular_payment": 151.31,
+        "final_payment": 151.31,
+        "total_amount_payable": 9713.6,
+        "total_charge_for_credit": 3363.6,
+        "amount_of_credit": 5715,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

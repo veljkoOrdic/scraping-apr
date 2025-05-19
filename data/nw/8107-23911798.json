@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:04:18.053Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/vauxhall/combo-e/sportive/2300-50kwh-sportive-panel-van-5dr-electric-auto-l1-74kw-charger-136-ps/21942",
+    "dealer_id": "8107",
+    "car_id": "23911798",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YP72KNM",
+        "registration_date": "28/10/2022",
+        "mileage": 12999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20394,
+        "total_price": 20394,
+        "deposit": 0,
+        "balance": 16995,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 441.68,
+        "final_payment": 442.68,
+        "total_amount_payable": 24600.64,
+        "total_charge_for_credit": 4206.64,
+        "amount_of_credit": 16995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

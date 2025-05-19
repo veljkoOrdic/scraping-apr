@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:47:09.893Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.kennymurraycarsltd.co.uk/used-kia-proceed-fraserburgh-aberdeenshire-6613740",
+    "dealer_id": "4914",
+    "car_id": "26745183",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SB15KXE",
+        "registration_date": "14/05/2015",
+        "mileage": 66000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 5750,
+        "total_price": 5750,
+        "deposit": 575,
+        "balance": 5175,
+        "apr": 12.4,
+        "rate_of_interest": 6.51,
+        "term": 60,
+        "regular_payment": 114.33,
+        "final_payment": 124.33,
+        "balloon": 0,
+        "total_amount_payable": 7444.8,
+        "total_charge_for_credit": 1694.8,
+        "amount_of_credit": 5175,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 124.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5750,
+        "total_price": 5750,
+        "deposit": 575,
+        "balance": 5175,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 47,
+        "regular_payment": 134.48,
+        "final_payment": 135.48,
+        "total_amount_payable": 6896.56,
+        "total_charge_for_credit": 1146.56,
+        "amount_of_credit": 5175,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

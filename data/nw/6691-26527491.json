@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:50:45.446Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motormill.co.uk/used-vauxhall-corsa-warrington-cheshire-6555232",
+    "dealer_id": "6691",
+    "car_id": "26527491",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SL70KJX",
+        "registration_date": "25/09/2020",
+        "mileage": 15606,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 192.83,
+        "final_payment": 202.83,
+        "total_amount_payable": 12578.8,
+        "total_charge_for_credit": 2579.8,
+        "amount_of_credit": 9000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9999,
+        "total_price": 9999,
+        "deposit": 999,
+        "balance": 9000,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 167.26,
+        "final_payment": 3879.09,
+        "total_amount_payable": 12739.31,
+        "total_charge_for_credit": 2740.31,
+        "amount_of_credit": 9000,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0,
+        "residual": 3869.09,
+        "price_to_buy": 3879.09
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:00:34.692Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sdautomotiveltd.co.uk/used-mini-electric-hatch-sutton-in-ashfield-nottinghamshire-6551877",
+    "dealer_id": "6299",
+    "car_id": "26502905",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ71YDS",
+        "registration_date": "30/11/2021",
+        "mileage": 17904,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14495,
+        "total_price": 14495,
+        "deposit": 1449,
+        "balance": 13046,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 285.57,
+        "final_payment": 286.57,
+        "total_amount_payable": 18584.2,
+        "total_charge_for_credit": 4089.2,
+        "amount_of_credit": 13046,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:48:07.078Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.liverydole.co.uk/used/isuzu/d-max/19-arctic-trucks-at35-double-cab-4x4-auto/exeter/devon/246110",
+    "dealer_id": "5326",
+    "car_id": "27934671",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ25XVV",
+        "registration_date": "04/04/2025",
+        "mileage": 4000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 77998.8,
+        "total_price": 77998.8,
+        "deposit": 25999.6,
+        "balance": 38999.4,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 996.44,
+        "final_payment": 997.44,
+        "total_amount_payable": 86829.52,
+        "total_charge_for_credit": 8830.72,
+        "amount_of_credit": 38999.4,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

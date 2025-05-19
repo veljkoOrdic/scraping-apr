@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:28:47.269Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.squirecars.co.uk/vehicle-details/used-mercedes-benz-slc-slc250d-amg-line-for-sale-in-abertillery-gwent-u798/",
+    "dealer_id": "7340",
+    "car_id": "26401319",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK66XGB",
+        "registration_date": "31/10/2016",
+        "mileage": 116948,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049.5,
+        "balance": 9445.5,
+        "apr": 16.2,
+        "rate_of_interest": 7.25,
+        "term": 48,
+        "regular_payment": 263.25,
+        "final_payment": 263.25,
+        "balloon": 0,
+        "total_amount_payable": 13685.5,
+        "total_charge_for_credit": 3190.5,
+        "amount_of_credit": 9445.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 263.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10495,
+        "total_price": 10495,
+        "deposit": 1049.5,
+        "balance": 9445.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 245.49,
+        "final_payment": 245.49,
+        "total_amount_payable": 12833.02,
+        "total_charge_for_credit": 2338.02,
+        "amount_of_credit": 9445.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:53:13.253Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.oakleyprestige.co.uk/used/cars/mercedes-benz/cla-class/1-3-cla180-amg-line-night-edition-premium-plus-coupe-7g-dct-euro-6-s-s-66",
+    "dealer_id": "6260",
+    "car_id": "27671288",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HX72XYD",
+        "registration_date": "11/11/2022",
+        "mileage": 26500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 2799,
+        "balance": 25191,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 632.59,
+        "final_payment": 633.59,
+        "total_amount_payable": 33164.32,
+        "total_charge_for_credit": 5174.32,
+        "amount_of_credit": 25191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27990,
+        "total_price": 27990,
+        "deposit": 2799,
+        "balance": 25191,
+        "apr": 9.9,
+        "rate_of_interest": 4.83,
+        "term": 49,
+        "regular_payment": 385.14,
+        "final_payment": 14488.62,
+        "total_amount_payable": 35774.34,
+        "total_charge_for_credit": 7784.34,
+        "amount_of_credit": 25191,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.2,
+        "residual": 14487.62,
+        "price_to_buy": 14488.62
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:49:47.499Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.scottmotorcompany.co.uk/used-kia-ceed-tamworth-staffordshire-6780418",
+    "dealer_id": "190",
+    "car_id": "27391223",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC18KTF",
+        "registration_date": "24/05/2018",
+        "mileage": 43705,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 10299,
+        "total_price": 10299,
+        "deposit": 1029,
+        "balance": 9270,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 194.57,
+        "final_payment": 195.57,
+        "total_amount_payable": 12704.2,
+        "total_charge_for_credit": 2405.2,
+        "amount_of_credit": 9270,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

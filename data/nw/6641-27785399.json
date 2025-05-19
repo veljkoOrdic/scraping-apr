@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:38:52.954Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradecarsandcommercials.co.uk/used-ford-ranger-prudhoe-northumberland-6724468",
+    "dealer_id": "6641",
+    "car_id": "27785399",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CY69LHX",
+        "registration_date": "31/01/2020",
+        "mileage": 90000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 18900,
+        "total_price": 18900,
+        "deposit": 0,
+        "balance": 18900,
+        "apr": 13.2,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 425.1,
+        "final_payment": 425.1,
+        "balloon": 0,
+        "total_amount_payable": 25506,
+        "total_charge_for_credit": 6606,
+        "amount_of_credit": 18900,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 425.1
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 18900,
+        "total_price": 18900,
+        "deposit": 0,
+        "balance": 18900,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 396.71,
+        "final_payment": 397.71,
+        "total_amount_payable": 23803.6,
+        "total_charge_for_credit": 4903.6,
+        "amount_of_credit": 18900,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

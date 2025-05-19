@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:21:57.681Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sourceanycar.com/used-citroen-c3-leeds-west-yorkshire-6900983",
+    "dealer_id": "6533",
+    "car_id": "27882542",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YB19YGT",
+        "registration_date": "26/06/2019",
+        "mileage": 22680,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9500,
+        "total_price": 9500,
+        "deposit": 950,
+        "balance": 8550,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 179.46,
+        "final_payment": 180.46,
+        "total_amount_payable": 11718.6,
+        "total_charge_for_credit": 2218.6,
+        "amount_of_credit": 8550,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9500,
+        "total_price": 9500,
+        "deposit": 950,
+        "balance": 8550,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 155.69,
+        "final_payment": 3455.5,
+        "total_amount_payable": 11878.62,
+        "total_charge_for_credit": 2378.62,
+        "amount_of_credit": 8550,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.02,
+        "residual": 3454.5,
+        "price_to_buy": 3455.5
+      }
+    ]
+  }
+]

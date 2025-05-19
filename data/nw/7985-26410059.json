@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:42:07.247Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-audi-a6-saloon-20-tdiblack-edition-saloon-s-saloon-white-automatic-diesel/id-6665/",
+    "dealer_id": "7985",
+    "car_id": "26410059",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WR69XJK",
+        "registration_date": "16/12/2019",
+        "mileage": 67700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20500,
+        "total_price": 20500,
+        "deposit": 3075,
+        "balance": 17425,
+        "apr": 14.7,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 403.64,
+        "final_payment": 403.64,
+        "balloon": 0,
+        "total_amount_payable": 27293.4,
+        "total_charge_for_credit": 6793.4,
+        "amount_of_credit": 17425,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 403.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20500,
+        "total_price": 20500,
+        "deposit": 3075,
+        "balance": 17425,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 365.76,
+        "final_payment": 366.76,
+        "total_amount_payable": 25021.6,
+        "total_charge_for_credit": 4521.6,
+        "amount_of_credit": 17425,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

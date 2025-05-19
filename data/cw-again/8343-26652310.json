@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T18:15:31.492Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.gkmotorsltd.co.uk/used-mercedes-benz-glb-mansfield-woodhouse-nottinghamshire-6587173",
+    "dealer_id": "8343",
+    "car_id": "26652310",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "GLB",
+        "variant": "ESTATE",
+        "derivative": "GLB 200 AMG Line Premium + Night Ed 7G-Tronic",
+        "registration_number": "RE23PWU",
+        "registration_date": "31/03/2023",
+        "mileage": 37292,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30888,
+        "total_price": 30888,
+        "deposit": 3088,
+        "balance": 27800,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 60,
+        "regular_payment": 493.11,
+        "final_payment": 9746.02,
+        "total_amount_payable": 41927.51,
+        "total_charge_for_credit": 11039.51,
+        "amount_of_credit": 27800,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.2,
+        "residual": 9746.02,
+        "price_to_buy": 9746.02
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 30888,
+        "total_price": 30888,
+        "deposit": 3088,
+        "balance": 27800,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 608.56,
+        "final_payment": 608.56,
+        "total_amount_payable": 39601.6,
+        "total_charge_for_credit": 8713.6,
+        "amount_of_credit": 27800,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

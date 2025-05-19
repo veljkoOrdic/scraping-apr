@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:06:49.609Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.commercialvans.co.uk/vans/ford/transit/2.0-460-ecoblue-leader-l4h3-minibus/1278968/",
+    "dealer_id": "8136",
+    "car_id": "25838802",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YR71HVJ",
+        "registration_date": "14/09/2021",
+        "mileage": 18132,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39594,
+        "total_price": 39594,
+        "deposit": 1649.75,
+        "balance": 31345.25,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 800.87,
+        "final_payment": 801.87,
+        "total_amount_payable": 46691.51,
+        "total_charge_for_credit": 7097.51,
+        "amount_of_credit": 31345.25,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

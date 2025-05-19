@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:13:12.711Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.dvsscotland.co.uk/details/used-car-in-airdrie/bmw/x3/2.0-20d-m-sport-auto-xdrive-euro-6-ss-5dr/1399843/",
+    "dealer_id": "3407",
+    "car_id": "27285243",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "X3",
+        "variant": "",
+        "derivative": "X3 xDrive20d M Sport",
+        "registration_number": "SL20HZF",
+        "registration_date": "17/06/2020",
+        "mileage": 33000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849.5,
+        "balance": 25645.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 49,
+        "regular_payment": 499.88,
+        "final_payment": 11048.5,
+        "total_amount_payable": 37892.24,
+        "total_charge_for_credit": 9397.24,
+        "amount_of_credit": 25645.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 17,
+        "residual": 11047.5,
+        "price_to_buy": 11048.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28495,
+        "total_price": 28495,
+        "deposit": 2849.5,
+        "balance": 25645.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 60,
+        "regular_payment": 572.99,
+        "final_payment": 573.99,
+        "total_amount_payable": 37229.9,
+        "total_charge_for_credit": 8734.9,
+        "amount_of_credit": 25645.5,
+        "lender": "Mann Island Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-16T12:03:16.233Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.keyautotrade.co.uk/cars/porsche/taycan/performance-79.2kwh-4s/1440339/",
+    "dealer_id": "1512",
+    "car_id": "27782023",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "TAYCAN",
+        "variant": "SALOON",
+        "derivative": "390kW 4S 79kWh",
+        "registration_number": "CK21ZHG",
+        "registration_date": "30/04/2021",
+        "mileage": 20000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 47000,
+        "total_price": 47000,
+        "deposit": 4700,
+        "balance": 42300,
+        "apr": 9,
+        "rate_of_interest": 4.5,
+        "term": 60,
+        "regular_payment": 870.77,
+        "final_payment": 870.77,
+        "total_amount_payable": 56946.2,
+        "total_charge_for_credit": 9946.2,
+        "amount_of_credit": 42300,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 47000,
+        "total_price": 47000,
+        "deposit": 4700,
+        "balance": 42300,
+        "apr": 9,
+        "rate_of_interest": 4.5,
+        "term": 48,
+        "regular_payment": 739.05,
+        "final_payment": 18301.55,
+        "total_amount_payable": 57736.9,
+        "total_charge_for_credit": 10736.9,
+        "amount_of_credit": 42300,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 17552.5,
+        "price_to_buy": 18301.55
+      }
+    ]
+  }
+]

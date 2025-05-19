@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T13:50:46.298Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/lamborghini/huracan/5.2-v10-lp-640-4-performante-ldf-4wd-euro-6-ss-2dr/1395504/",
+    "dealer_id": "2153",
+    "car_id": "27894784",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "HURACAN",
+        "variant": "COUPE",
+        "derivative": "LP 640-4 Performante LDF",
+        "registration_number": "WX17ANP",
+        "registration_date": "04/07/2017",
+        "mileage": 10266,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 184295,
+        "total_price": 184295,
+        "deposit": 34295,
+        "balance": 150000,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 25,
+        "regular_payment": 4188.21,
+        "final_payment": 76347.81,
+        "total_amount_payable": 211159.85,
+        "total_charge_for_credit": 26864.85,
+        "amount_of_credit": 150000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 20833,
+        "excess_mileage_rate": 49.47,
+        "residual": 76347.81,
+        "price_to_buy": 76347.81
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 184295,
+        "total_price": 184295,
+        "deposit": 24295,
+        "balance": 160000,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 4299.22,
+        "final_payment": 4299.22,
+        "total_amount_payable": 230657.56,
+        "total_charge_for_credit": 46362.56,
+        "amount_of_credit": 160000,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

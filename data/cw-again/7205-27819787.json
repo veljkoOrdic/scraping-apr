@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:16:26.821Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fuscovehiclesales.com/used-porsche-macan-county-down-northern-ireland-6390969",
+    "dealer_id": "7205",
+    "car_id": "27819787",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "GTS PDK",
+        "registration_number": "HN20FOV",
+        "registration_date": "10/06/2020",
+        "mileage": 38221,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 42990,
+        "total_price": 42990,
+        "deposit": 4299,
+        "balance": 38691,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 846.69,
+        "final_payment": 856.69,
+        "total_amount_payable": 55110.4,
+        "total_charge_for_credit": 12120.4,
+        "amount_of_credit": 38691,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42990,
+        "total_price": 42990,
+        "deposit": 4299,
+        "balance": 38691,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 658.27,
+        "final_payment": 21599.52,
+        "total_amount_payable": 56837.21,
+        "total_charge_for_credit": 13847.21,
+        "amount_of_credit": 38691,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 20931.25,
+        "price_to_buy": 21599.52
+      }
+    ]
+  }
+]

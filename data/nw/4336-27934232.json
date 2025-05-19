@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:29:58.222Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bjhmotors.co.uk/used-bmw-x5-worcester-worcestershire-6913935",
+    "dealer_id": "4336",
+    "car_id": "27934232",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "N27RJL",
+        "registration_date": "30/10/2015",
+        "mileage": 85000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16995,
+        "total_price": 16995,
+        "deposit": 1000,
+        "balance": 15995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 401.65,
+        "final_payment": 402.65,
+        "total_amount_payable": 20280.2,
+        "total_charge_for_credit": 3285.2,
+        "amount_of_credit": 15995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

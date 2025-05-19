@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:10:28.567Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aspirecarsipswichltd.co.uk/cars/porsche/macan/3.0-td-v6-s/1130165/",
+    "dealer_id": "6840",
+    "car_id": "23883039",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX14NDV",
+        "registration_date": "25/04/2014",
+        "mileage": 75436,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19490,
+        "total_price": 19490,
+        "deposit": 1949,
+        "balance": 17541,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 47,
+        "regular_payment": 448.19,
+        "final_payment": 449.19,
+        "total_amount_payable": 23014.93,
+        "total_charge_for_credit": 3524.93,
+        "amount_of_credit": 17541,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:44:47.630Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.silsoeprestigemotors.co.uk/used/cars/bmw/5-series/3-0-540i-xdrive-m-sport-auto-4wd-4dr-347",
+    "dealer_id": "7516",
+    "car_id": "26852950",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "BMW",
+        "model": "5 Series",
+        "variant": "",
+        "derivative": "540i xDrive M Sport Saloon",
+        "registration_number": "LS18ZPM",
+        "registration_date": "29/06/2018",
+        "mileage": 38500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 27294,
+        "total_price": 27294,
+        "deposit": 2729.4,
+        "balance": 24564.6,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 37,
+        "regular_payment": 502.78,
+        "final_payment": 11858.51,
+        "total_amount_payable": 32687.99,
+        "total_charge_for_credit": 5393.99,
+        "amount_of_credit": 24564.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 30833,
+        "excess_mileage_rate": 8.56,
+        "residual": 11858.51,
+        "price_to_buy": 11858.51
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27294,
+        "total_price": 27294,
+        "deposit": 2729.4,
+        "balance": 24564.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 515.65,
+        "final_payment": 515.65,
+        "total_amount_payable": 33668.4,
+        "total_charge_for_credit": 6374.4,
+        "amount_of_credit": 24564.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

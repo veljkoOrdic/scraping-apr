@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:29:13.612Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aaperformance.co.uk/details/car-in-bolton/mercedes-benz/gclass/4.0-g63-v8-biturbo-amg-spds+9gt-4matic-euro-6-ss-5dr/1461546/",
+    "dealer_id": "2153",
+    "car_id": "28006098",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "J1VAM",
+        "registration_date": "22/09/2023",
+        "mileage": 12000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 150295,
+        "total_price": 150295,
+        "deposit": 15029.5,
+        "balance": 135265.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 2254.65,
+        "final_payment": 78319.96,
+        "total_amount_payable": 199318.01,
+        "total_charge_for_credit": 49023.01,
+        "amount_of_credit": 135265.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 41.07,
+        "residual": 78319.96,
+        "price_to_buy": 78319.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 150295,
+        "total_price": 150295,
+        "deposit": 15029.5,
+        "balance": 135265.5,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 3634.6,
+        "final_payment": 3634.6,
+        "total_amount_payable": 189490.3,
+        "total_charge_for_credit": 39195.3,
+        "amount_of_credit": 135265.5,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

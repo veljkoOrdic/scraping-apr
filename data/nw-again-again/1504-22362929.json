@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:50:07.178Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ovms.co.uk/used-car-details/used-volkswagen-caddy-20-tdi-c20-startline-panel-va-manual-/id-202311013527969/",
+    "dealer_id": "1504",
+    "car_id": "22362929",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EF18XSE",
+        "registration_date": "10/08/2018",
+        "mileage": 74696,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11580,
+        "total_price": 11580,
+        "deposit": 1000,
+        "balance": 10580,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 236.27,
+        "final_payment": 246.27,
+        "balloon": 0,
+        "total_amount_payable": 15186.2,
+        "total_charge_for_credit": 3606.2,
+        "amount_of_credit": 10580,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 246.27
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11580,
+        "total_price": 11580,
+        "deposit": 1000,
+        "balance": 10580,
+        "apr": 12.9,
+        "rate_of_interest": 12.17,
+        "term": 60,
+        "regular_payment": 236.39,
+        "final_payment": 236.39,
+        "total_amount_payable": 15183.4,
+        "total_charge_for_credit": 3603.4,
+        "amount_of_credit": 10580,
+        "lender": "Black Horse Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

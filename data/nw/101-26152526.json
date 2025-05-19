@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T16:44:17.140Z",
+    "timestamp": "2025-05-15T14:33:31.157Z",
     "source": "new_vehicle_finance",
     "url": "https://www.reynoldsmotorgroup.co.uk/used-porsche-cayenne-southend-on-sea-essex-6455240",
     "dealer_id": "101",
     "car_id": "26152526",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RF66KKB",
+        "registration_date": "13/12/2016",
+        "mileage": 68878,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 27700,
+        "total_price": 27700,
+        "deposit": 0,
+        "balance": 27700,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 581.44,
+        "final_payment": 582.44,
+        "total_amount_payable": 34887.4,
+        "total_charge_for_credit": 7187.4,
+        "amount_of_credit": 27700,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

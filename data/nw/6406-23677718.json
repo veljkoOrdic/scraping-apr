@@ -1,62 +1,26 @@
 [
   {
-    "timestamp": "2025-04-15T01:17:37.385Z",
+    "timestamp": "2025-05-15T18:09:17.971Z",
     "source": "new_vehicle_finance",
     "url": "https://www.yorkshirevehiclesolutions.co.uk/used/land-rover/defender-110/30-d300-mhev-x-dynamic-se-auto-4wd-euro-6-ss-5dr/york/north-yorkshire/21197199",
     "dealer_id": "6406",
     "car_id": "23677718",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "DK73WMJ",
-        "registration_date": "10/10/2023",
-        "mileage": 3000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 81995,
-        "total_price": 81995,
-        "deposit": 8199.5,
-        "balance": 73795.5,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 1853.16,
-        "final_payment": 1854.16,
-        "total_amount_payable": 97152.18,
-        "total_charge_for_credit": 15157.18,
-        "amount_of_credit": 73795.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 81995,
-        "total_price": 81995,
-        "deposit": 8199.5,
-        "balance": 73795.5,
-        "apr": 9.9,
-        "rate_of_interest": 4.88,
-        "term": 49,
-        "regular_payment": 1300.32,
-        "final_payment": 32369.2,
-        "total_amount_payable": 102984.06,
-        "total_charge_for_credit": 20989.06,
-        "amount_of_credit": 73795.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.28,
-        "residual": 32368.2,
-        "price_to_buy": 32369.2
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.yorkshirevehiclesolutions.&usePersistedOptions=false&quoteeUid=876a1d0c-6359-4ad6-9a50-f45faffd1550&class=car&condition=used&vrm=DK73WMJ&registrationDate=10/10/2023&capId=96693&cashPrice=81995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=3000&vehicleImageUrl=https://www.yorkshirevehiclesolutions.co.uk/media/images/194047681/land-rover-defender-110-diesel-four-wheel-drive.jpg&term=48&cashDeposit=8199.5&annualDistance=10000&random=zxg9c",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.yorkshirevehiclesolutions.&usePersistedOptions=false&quoteeUid=876a1d0c-6359-4ad6-9a50-f45faffd1550&class=car&condition=used&vrm=DK73WMJ&registrationDate=10%2F10%2F2023&capId=96693&cashPrice=81995&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=3000&vehicleImageUrl=https%3A%2F%2Fwww.yorkshirevehiclesolutions.co.uk%2Fmedia%2Fimages%2F194047681%2Fland-rover-defender-110-diesel-four-wheel-drive.jpg&term=48&cashDeposit=8199.5&annualDistance=10000&random=zxg9c&origin=https%3A%2F%2Fwww.yorkshirevehiclesolutions.co.uk%2Fused%2Fland-rover%2Fdefender-110%2F30-d300-mhev-x-dynamic-se-auto-4wd-euro-6-ss-5dr%2Fyork%2Fnorth-yorkshire%2F21197199&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

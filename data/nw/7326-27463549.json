@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:01.883Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.apexcarsdirect.co.uk/used-mercedes-benz-e-class-wiltshire-wiltshire-6769180",
+    "dealer_id": "7326",
+    "car_id": "27463549",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ17DTO",
+        "registration_date": "11/04/2017",
+        "mileage": 53000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 38999,
+        "total_price": 38999,
+        "deposit": 3899,
+        "balance": 35100,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 721.08,
+        "final_payment": 722.08,
+        "total_amount_payable": 47164.8,
+        "total_charge_for_credit": 8165.8,
+        "amount_of_credit": 35100,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

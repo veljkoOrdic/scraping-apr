@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:27:02.632Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tregoningsofcornwall.com/used-peugeot-108-wadebridge-cornwall-6686662",
+    "dealer_id": "5305",
+    "car_id": "27997754",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WK64YGO",
+        "registration_date": "30/10/2014",
+        "mileage": 40544,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499,
+        "balance": 4496,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 116.83,
+        "final_payment": 117.83,
+        "total_amount_payable": 6107.84,
+        "total_charge_for_credit": 1112.84,
+        "amount_of_credit": 4496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

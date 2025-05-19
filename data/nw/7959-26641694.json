@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:41:42.658Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.fgcars.uk/details/car-in-loughborough/audi/rsq8/4.0-tfsi-v8-vorsprung-tiptronic-quattro-euro-6-ss-5dr/1345593/",
+    "dealer_id": "7959",
+    "car_id": "26641694",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LP23AUL",
+        "registration_date": "14/06/2023",
+        "mileage": 26000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 99978,
+        "total_price": 99978,
+        "deposit": 0,
+        "balance": 75000,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1641.78,
+        "final_payment": 1642.78,
+        "total_amount_payable": 123485.8,
+        "total_charge_for_credit": 23507.8,
+        "amount_of_credit": 75000,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 99978,
+        "total_price": 99978,
+        "deposit": 0,
+        "balance": 99978,
+        "apr": 11.9,
+        "rate_of_interest": 5.85,
+        "term": 49,
+        "regular_payment": 1918.67,
+        "final_payment": 41392.9,
+        "total_amount_payable": 133489.06,
+        "total_charge_for_credit": 33511.06,
+        "amount_of_credit": 99978,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.4,
+        "residual": 41391.9,
+        "price_to_buy": 41392.9
+      }
+    ]
+  }
+]

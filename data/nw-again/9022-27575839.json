@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:17:27.563Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.burchautos.com/used-mercedes-benz-a-class-newtownards-county-down-6824787",
+    "dealer_id": "9022",
+    "car_id": "27575839",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PXZ8526",
+        "registration_date": "28/01/2022",
+        "mileage": 69700,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 347.23,
+        "final_payment": 348.23,
+        "total_amount_payable": 22633.8,
+        "total_charge_for_credit": 4638.8,
+        "amount_of_credit": 16196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 10.9,
+        "rate_of_interest": 5.35,
+        "term": 49,
+        "regular_payment": 288.92,
+        "final_payment": 7458.29,
+        "total_amount_payable": 23125.45,
+        "total_charge_for_credit": 5130.45,
+        "amount_of_credit": 16196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.14,
+        "residual": 7457.29,
+        "price_to_buy": 7458.29
+      }
+    ]
+  }
+]

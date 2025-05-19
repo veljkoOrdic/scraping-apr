@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-05-15T18:33:32.263Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.sheffieldcarcentre.com/used-ford-fiesta-sheffield-south-yorkshire-6935746",
+    "dealer_id": "8443",
+    "car_id": "28019114",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FIESTA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 EcoBoost 125 Titanium",
+        "registration_number": "MV64ENY",
+        "registration_date": "01/09/2014",
+        "mileage": 96689,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3695,
+        "total_price": 3695,
+        "deposit": 0,
+        "balance": 3695,
+        "apr": 17.8,
+        "rate_of_interest": 6.99,
+        "term": 60,
+        "regular_payment": 90.75,
+        "final_payment": 100.75,
+        "total_amount_payable": 5455,
+        "total_charge_for_credit": 1760,
+        "amount_of_credit": 3695,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:10:20.009Z",
+    "timestamp": "2025-05-15T18:14:30.680Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sjapprovedusedcars.co.uk/details/used-car-in-hinckley/mg/tf/1.8-le-500-2dr/496629/",
     "dealer_id": "8740",
@@ -12,6 +12,50 @@
         "registration_date": "23/10/2009",
         "mileage": 29516,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7990,
+        "total_price": 7990,
+        "deposit": 799,
+        "balance": 7191,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 163.82,
+        "final_payment": 173.82,
+        "balloon": 0,
+        "total_amount_payable": 10638.2,
+        "total_charge_for_credit": 2648.2,
+        "amount_of_credit": 7191,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 173.82
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7990,
+        "total_price": 7990,
+        "deposit": 799,
+        "balance": 7191,
+        "apr": 13.9,
+        "rate_of_interest": 7.34,
+        "term": 60,
+        "regular_payment": 163.82,
+        "final_payment": 173.82,
+        "total_amount_payable": 10638.2,
+        "total_charge_for_credit": 2648.2,
+        "amount_of_credit": 7191,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
       }
     ]
   }

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:36:08.981Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.autovillage.uk.com/used/jeep/wrangler/20-gme-rubicon-2dr-auto8-hard-top/cheltenham/gloucestershire/21512945",
+    "dealer_id": "6614",
+    "car_id": "26686938",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO20HJZ",
+        "registration_date": "25/06/2020",
+        "mileage": 23000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 3649,
+        "balance": 32841,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 674.66,
+        "final_payment": 675.66,
+        "total_amount_payable": 44129.6,
+        "total_charge_for_credit": 7639.6,
+        "amount_of_credit": 32841,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36490,
+        "total_price": 36490,
+        "deposit": 3649,
+        "balance": 32841,
+        "apr": 8.9,
+        "rate_of_interest": 4.38,
+        "term": 49,
+        "regular_payment": 535.18,
+        "final_payment": 15796,
+        "total_amount_payable": 45133.64,
+        "total_charge_for_credit": 8643.64,
+        "amount_of_credit": 32841,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "contract_mileage": 32667,
+        "excess_mileage_rate": 0.16,
+        "residual": 15795,
+        "price_to_buy": 15796
+      }
+    ]
+  }
+]

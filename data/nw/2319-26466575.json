@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:48:28.184Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.durnfordmotors.co.uk/cars/ford/ecosport/1.0-t-ecoboost-st-line/1331667/",
+    "dealer_id": "2319",
+    "car_id": "26466575",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EN68VVW",
+        "registration_date": "07/01/2019",
+        "mileage": 24890,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11495,
+        "total_price": 11495,
+        "deposit": 1149.5,
+        "balance": 10345.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 217.15,
+        "final_payment": 218.15,
+        "total_amount_payable": 14179.5,
+        "total_charge_for_credit": 2684.5,
+        "amount_of_credit": 10345.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

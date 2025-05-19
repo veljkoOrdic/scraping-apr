@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:47:38.328Z",
+    "timestamp": "2025-05-15T18:13:03.232Z",
     "source": "new_vehicle_finance",
     "url": "https://www.madeleyheathmotors.co.uk/car/8a4290ca8e7b394b018ea357d6cd71a6",
     "dealer_id": "4269",
@@ -12,6 +12,29 @@
         "registration_date": "29/06/2022",
         "mileage": 21522,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29982,
+        "total_price": 29982,
+        "deposit": 2998.2,
+        "balance": 26983.8,
+        "apr": 15.4,
+        "rate_of_interest": 8.17,
+        "term": 60,
+        "regular_payment": 633.49,
+        "final_payment": 643.49,
+        "balloon": 0,
+        "total_amount_payable": 41017.6,
+        "total_charge_for_credit": 11035.6,
+        "amount_of_credit": 26983.8,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 643.49
       },
       {
         "type": "finance_hp",
@@ -43,19 +66,19 @@
         "deposit": 2998.2,
         "balance": 26983.8,
         "apr": 9.9,
-        "rate_of_interest": 4.83,
+        "rate_of_interest": 4.84,
         "term": 49,
-        "regular_payment": 416.92,
-        "final_payment": 15263.94,
-        "total_amount_payable": 38274.3,
-        "total_charge_for_credit": 8292.3,
+        "regular_payment": 419.81,
+        "final_payment": 15094.79,
+        "total_amount_payable": 38243.87,
+        "total_charge_for_credit": 8261.87,
         "amount_of_credit": 26983.8,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.18,
-        "residual": 15262.94,
-        "price_to_buy": 15263.94
+        "residual": 15093.79,
+        "price_to_buy": 15094.79
       }
     ]
   }

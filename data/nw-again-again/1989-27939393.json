@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-16T13:52:37.138Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.crosspointmotorco.co.uk/cars/toyota/yaris/1.5-vvt-h-excel/1456154/",
+    "dealer_id": "1989",
+    "car_id": "27939393",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RX18YWL",
+        "registration_date": "26/03/2018",
+        "mileage": 46129,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11395,
+        "total_price": 11395,
+        "deposit": 1139.5,
+        "balance": 10255.5,
+        "apr": 18.7,
+        "rate_of_interest": 9,
+        "term": 60,
+        "regular_payment": 256.3,
+        "final_payment": 256.3,
+        "balloon": 0,
+        "total_amount_payable": 16517.5,
+        "total_charge_for_credit": 5122.5,
+        "amount_of_credit": 10255.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 256.3
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11395,
+        "total_price": 11395,
+        "deposit": 1139.5,
+        "balance": 10255.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 229.13,
+        "final_payment": 230.13,
+        "total_amount_payable": 14888.3,
+        "total_charge_for_credit": 3493.3,
+        "amount_of_credit": 10255.5,
+        "lender": "Blue Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:10:27.856Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarmove.com/used-audi-rs6-avant-chelmsford-essex-6761827",
+    "dealer_id": "6414",
+    "car_id": "27303476",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HJ14SXX",
+        "registration_date": "17/04/2014",
+        "mileage": 92964,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 12.9,
+        "rate_of_interest": 6.63,
+        "term": 35,
+        "regular_payment": 813.2,
+        "final_payment": 813.2,
+        "balloon": 0,
+        "total_amount_payable": 31112,
+        "total_charge_for_credit": 4612,
+        "amount_of_credit": 23850,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 813.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 16.9,
+        "rate_of_interest": 8.98,
+        "term": 59,
+        "regular_payment": 582.74,
+        "final_payment": 592.74,
+        "total_amount_payable": 37041.66,
+        "total_charge_for_credit": 10541.66,
+        "amount_of_credit": 23850,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

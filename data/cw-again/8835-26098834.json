@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:28:38.574Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.galgalcars.com/details/used-van-in-welwyn-garden-city/ford/transit/2.0-350-ecoblue-rwd-l3-h3-euro-6-5dr/1301063/",
+    "dealer_id": "8835",
+    "car_id": "26098834",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL RWD",
+        "derivative": "2.0 TDCi 130ps H3 Van",
+        "registration_number": "BN18YFD",
+        "registration_date": "20/03/2018",
+        "mileage": 22000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15600,
+        "total_price": 15600,
+        "deposit": 2600,
+        "balance": 13000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 22,
+        "regular_payment": 496.4,
+        "final_payment": 4238,
+        "total_amount_payable": 17262.4,
+        "total_charge_for_credit": 1662.4,
+        "amount_of_credit": 13000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 18333,
+        "excess_mileage_rate": 12,
+        "residual": 4238,
+        "price_to_buy": 4238
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15600,
+        "total_price": 15600,
+        "deposit": 2600,
+        "balance": 13000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 278.7,
+        "final_payment": 279.7,
+        "total_amount_payable": 19323,
+        "total_charge_for_credit": 3723,
+        "amount_of_credit": 13000,
+        "lender": "Jigsaw Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:20:27.220Z",
+    "timestamp": "2025-05-15T19:13:39.152Z",
     "source": "new_vehicle_finance",
     "url": "https://www.lutontradecentre.com/used-bmw-5-series-luton-bedfordshire-5414389",
     "dealer_id": "6846",
@@ -12,6 +12,29 @@
         "registration_date": "13/07/2017",
         "mileage": 59987,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 17475,
+        "total_price": 17475,
+        "deposit": 1747,
+        "balance": 15728,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 344.29,
+        "final_payment": 344.29,
+        "balloon": 0,
+        "total_amount_payable": 22404.4,
+        "total_charge_for_credit": 4929.4,
+        "amount_of_credit": 15728,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 344.29
       }
     ]
   }

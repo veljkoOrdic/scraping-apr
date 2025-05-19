@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:40:02.436Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.georgekingsley.co.uk/used/cars/bmw/x5/xdrive30d-m-sport-7-seater-full-bodykit-skylounge-comfort-tech-plus-2880",
+    "dealer_id": "5725",
+    "car_id": "27822079",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GD69ANF",
+        "registration_date": "20/12/2019",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 6749.25,
+        "balance": 38245.75,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 994,
+        "final_payment": 994,
+        "balloon": 0,
+        "total_amount_payable": 54461.25,
+        "total_charge_for_credit": 9466.25,
+        "amount_of_credit": 38245.75,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 994
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44995,
+        "total_price": 44995,
+        "deposit": 6749.25,
+        "balance": 38245.75,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 960.42,
+        "final_payment": 961.42,
+        "total_amount_payable": 52850.41,
+        "total_charge_for_credit": 7855.41,
+        "amount_of_credit": 38245.75,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

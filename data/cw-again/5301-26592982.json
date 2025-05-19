@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:14:18.125Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cartime.co.uk/used-audi-q7-bury-greater-manchester-6568417",
+    "dealer_id": "5301",
+    "car_id": "26592982",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "Q7",
+        "variant": "ESTATE",
+        "derivative": "55 TFSI Quattro Black Edition Tiptronic",
+        "registration_number": "GX71XEP",
+        "registration_date": "18/10/2021",
+        "mileage": 30813,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 41488,
+        "total_price": 41488,
+        "deposit": 4148,
+        "balance": 37340,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 606.04,
+        "final_payment": 19424,
+        "total_amount_payable": 52661.92,
+        "total_charge_for_credit": 11173.92,
+        "amount_of_credit": 37340,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 22,
+        "residual": 19414,
+        "price_to_buy": 19424
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41488,
+        "total_price": 41488,
+        "deposit": 4148,
+        "balance": 37340,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 783.52,
+        "final_payment": 793.52,
+        "total_amount_payable": 51169.2,
+        "total_charge_for_credit": 9681.2,
+        "amount_of_credit": 37340,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

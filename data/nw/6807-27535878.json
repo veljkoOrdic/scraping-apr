@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:25.896Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-volkswagen-id.4-ampthill-bedfordshire-6816897",
+    "dealer_id": "6807",
+    "car_id": "27535878",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WG21LFF",
+        "registration_date": "30/06/2021",
+        "mileage": 44741,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16789,
+        "total_price": 16789,
+        "deposit": 1678,
+        "balance": 15111,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 317.18,
+        "final_payment": 318.18,
+        "total_amount_payable": 20709.8,
+        "total_charge_for_credit": 3920.8,
+        "amount_of_credit": 15111,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 16789,
+        "total_price": 16789,
+        "deposit": 1678,
+        "balance": 15111,
+        "apr": 9.9,
+        "rate_of_interest": 4.84,
+        "term": 49,
+        "regular_payment": 240.62,
+        "final_payment": 8129.42,
+        "total_amount_payable": 21357.18,
+        "total_charge_for_credit": 4568.18,
+        "amount_of_credit": 15111,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 8128.42,
+        "price_to_buy": 8129.42
+      }
+    ]
+  }
+]

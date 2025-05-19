@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:13:58.285Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ewens.co.uk/used-cars/honda-zr-v-2-0-h-i-mmd-advance-ecvt-euro-6-s-s-5dr-wx24fbo",
+    "dealer_id": "4563",
+    "car_id": "27506272",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Honda",
+        "model": "ZR-V",
+        "variant": "ESTATE",
+        "derivative": "2.0 eHEV Advance CVT",
+        "registration_number": "WX24FBO",
+        "registration_date": "11/03/2024",
+        "mileage": 8150,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30975,
+        "total_price": 30975,
+        "deposit": 3097.5,
+        "balance": 27877.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 479.77,
+        "final_payment": 14253.29,
+        "total_amount_payable": 39899.98,
+        "total_charge_for_credit": 8924.98,
+        "amount_of_credit": 27877.5,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 6.98,
+        "residual": 14243.29,
+        "price_to_buy": 14253.29
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30975,
+        "total_price": 30975,
+        "deposit": 3097.5,
+        "balance": 27877.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 48,
+        "regular_payment": 712.04,
+        "final_payment": 722.04,
+        "total_amount_payable": 37285.42,
+        "total_charge_for_credit": 6310.42,
+        "amount_of_credit": 27877.5,
+        "lender": "Honda Finance Europe PLC",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

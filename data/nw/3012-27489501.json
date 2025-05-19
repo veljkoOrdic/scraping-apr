@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:10:40.327Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.banchorycarcentre.co.uk/used-renault-kadjar-banchory-aberdeenshire-6803424",
+    "dealer_id": "3012",
+    "car_id": "27489501",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN69EAG",
+        "registration_date": "26/09/2019",
+        "mileage": 56750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12695,
+        "total_price": 12695,
+        "deposit": 1269,
+        "balance": 11426,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 239.83,
+        "final_payment": 240.83,
+        "total_amount_payable": 15659.8,
+        "total_charge_for_credit": 2964.8,
+        "amount_of_credit": 11426,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12695,
+        "total_price": 12695,
+        "deposit": 1269,
+        "balance": 11426,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 49,
+        "regular_payment": 205.45,
+        "final_payment": 4770.5,
+        "total_amount_payable": 15901.1,
+        "total_charge_for_credit": 3206.1,
+        "amount_of_credit": 11426,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.03,
+        "residual": 4770.5,
+        "price_to_buy": 4770.5
+      }
+    ]
+  }
+]

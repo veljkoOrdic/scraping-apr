@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:07.315Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.reverieautos.co.uk/used-tesla-model-3-hatfield-hertfordshire-6694497",
+    "dealer_id": "4492",
+    "car_id": "27052061",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LB70ZFH",
+        "registration_date": "14/01/2021",
+        "mileage": 25150,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20250,
+        "total_price": 20250,
+        "deposit": 4050,
+        "balance": 16200,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 340.04,
+        "final_payment": 341.04,
+        "total_amount_payable": 24453.4,
+        "total_charge_for_credit": 4203.4,
+        "amount_of_credit": 16200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20250,
+        "total_price": 20250,
+        "deposit": 4050,
+        "balance": 16200,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 272.56,
+        "final_payment": 7860.6,
+        "total_amount_payable": 24993.48,
+        "total_charge_for_credit": 4743.48,
+        "amount_of_credit": 16200,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.1,
+        "residual": 7859.6,
+        "price_to_buy": 7860.6
+      }
+    ]
+  }
+]

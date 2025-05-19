@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:49:34.202Z",
+    "timestamp": "2025-05-15T17:15:17.820Z",
     "source": "new_vehicle_finance",
     "url": "https://www.directcommercials.co.uk/used-ford-transit-derby-derbyshire-5961283",
     "dealer_id": "8173",
@@ -12,6 +12,29 @@
         "registration_date": "31/01/2019",
         "mileage": 85000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11994,
+        "total_price": 11994,
+        "deposit": 1999,
+        "balance": 9995,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 268.41,
+        "final_payment": 278.41,
+        "balloon": 0,
+        "total_amount_payable": 14892.68,
+        "total_charge_for_credit": 2898.68,
+        "amount_of_credit": 9995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 278.41
       },
       {
         "type": "finance_hp",

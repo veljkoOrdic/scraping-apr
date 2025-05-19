@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:15:12.383Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.time-motors.co.uk/used-volkswagen-transporter-nottingham-nottinghamshire-6952595",
+    "dealer_id": "8172",
+    "car_id": "28077532",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PK71EWR",
+        "registration_date": "27/01/2022",
+        "mileage": 41312,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 47982,
+        "total_price": 47982,
+        "deposit": 0,
+        "balance": 39985,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 875.28,
+        "final_payment": 876.28,
+        "total_amount_payable": 60514.8,
+        "total_charge_for_credit": 12532.8,
+        "amount_of_credit": 39985,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:23:22.608Z",
+    "source": "new_vehicle_finance",
+    "url": "https://jpmotortrade.co.uk/vehicle/name/vauxhall-meriva-exclusiv-ac/",
+    "dealer_id": "4306",
+    "car_id": "27920267",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DY66JYR",
+        "registration_date": "19/09/2016",
+        "mileage": 60949,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 0,
+        "balance": 4995,
+        "apr": 12.9,
+        "rate_of_interest": 6.78,
+        "term": 60,
+        "regular_payment": 111.48,
+        "final_payment": 121.48,
+        "balloon": 0,
+        "total_amount_payable": 6698.8,
+        "total_charge_for_credit": 1703.8,
+        "amount_of_credit": 4995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 121.48
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 0,
+        "balance": 4995,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 102.62,
+        "final_payment": 103.62,
+        "total_amount_payable": 6158.2,
+        "total_charge_for_credit": 1163.2,
+        "amount_of_credit": 4995,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

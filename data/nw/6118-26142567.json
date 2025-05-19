@@ -1,12 +1,41 @@
 [
   {
-    "timestamp": "2025-04-15T00:08:36.641Z",
+    "timestamp": "2025-05-15T17:42:48.946Z",
     "source": "new_vehicle_finance",
     "url": "https://www.fleetwisevehiclesales.co.uk/used-land-rover-discovery-northern-island-northern-ireland-6461388",
     "dealer_id": "6118",
     "car_id": "26142567",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "XIB707",
+        "registration_date": "28/11/2018",
+        "mileage": 73300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 0,
+        "balance": 28995,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 753.41,
+        "final_payment": 763.41,
+        "balloon": 0,
+        "total_amount_payable": 36173.68,
+        "total_charge_for_credit": 7178.68,
+        "amount_of_credit": 28995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 763.41
+      }
+    ]
   }
 ]

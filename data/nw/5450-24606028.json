@@ -1,85 +1,26 @@
 [
   {
-    "timestamp": "2025-04-14T20:39:01.674Z",
+    "timestamp": "2025-05-15T15:48:13.493Z",
     "source": "new_vehicle_finance",
     "url": "https://www.seniorcars.co.uk/details/used-car-in-market-harborough/porsche/cayenne/4.0-v8-e-hybrid-17.9kwh-turbo-s-tiptronics-4wd-euro-6-ss-5dr/1184748/",
     "dealer_id": "5450",
     "car_id": "24606028",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "RE70NKS",
-        "registration_date": "31/10/2020",
-        "mileage": 32000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 71995,
-        "total_price": 71995,
-        "deposit": 7199.5,
-        "balance": 64795.5,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 1360.09,
-        "final_payment": 1361.09,
-        "total_amount_payable": 88805.9,
-        "total_charge_for_credit": 16810.9,
-        "amount_of_credit": 64795.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_lp",
-        "name": "LP",
-        "finance_type": "Lease Purchase",
-        "cash_price": 71995,
-        "total_price": 71995,
-        "deposit": 7199.5,
-        "balance": 64795.5,
-        "apr": 9.9,
-        "rate_of_interest": 4.82,
-        "term": 49,
-        "regular_payment": 959.25,
-        "final_payment": 39106,
-        "balloon": 39105,
-        "total_amount_payable": 92349.5,
-        "total_charge_for_credit": 20354.5,
-        "amount_of_credit": 64795.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 39105,
-        "price_to_buy": 39106
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 71995,
-        "total_price": 71995,
-        "deposit": 7199.5,
-        "balance": 64795.5,
-        "apr": 9.9,
-        "rate_of_interest": 4.82,
-        "term": 49,
-        "regular_payment": 959.86,
-        "final_payment": 39070.21,
-        "total_amount_payable": 92342.99,
-        "total_charge_for_credit": 20347.99,
-        "amount_of_credit": 64795.5,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.34,
-        "residual": 39069.21,
-        "price_to_buy": 39070.21
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.seniorcars.co.uk&quoteeUid=C69DCD23-7A8C-463D-BE77-B0BCF142EB6C&class=Car&condition=used&vrm=RE70NKS&registrationDate=31/10/2020&capCode=&capId=&cashPrice=71995&vatIncluded=true&vatQualifying=false&currentOdometerReading=32000&vehicleImageUrl=https://www.seniorcars.co.uk/assets/1184748/large/3ef84f141b16b00220212d923cc2216a_1184748.jpg&cashDepositType=Percentage&cashDeposit=7199.5&term=60&annualDistance=10000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.seniorcars.co.uk&quoteeUid=C69DCD23-7A8C-463D-BE77-B0BCF142EB6C&class=Car&condition=used&vrm=RE70NKS&registrationDate=31%2F10%2F2020&capCode=&capId=&cashPrice=71995&vatIncluded=true&vatQualifying=false&currentOdometerReading=32000&vehicleImageUrl=https%3A%2F%2Fwww.seniorcars.co.uk%2Fassets%2F1184748%2Flarge%2F3ef84f141b16b00220212d923cc2216a_1184748.jpg&cashDepositType=Percentage&cashDeposit=7199.5&term=60&annualDistance=10000&dateOnForecourt=&origin=https%3A%2F%2Fwww.seniorcars.co.uk%2Fdetails%2Fused-car-in-market-harborough%2Fporsche%2Fcayenne%2F4.0-v8-e-hybrid-17.9kwh-turbo-s-tiptronics-4wd-euro-6-ss-5dr%2F1184748%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/errors.json",
+        "https://newvehicle.com/dataplane/v1/track"
+      ]
+    }
   }
 ]

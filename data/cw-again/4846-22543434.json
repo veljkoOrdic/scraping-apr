@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T17:30:30.099Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.aandmcarsales.co.uk/vehicle-details/used-ford-transit-350-ecoblue-leader-for-sale-in-taunton-somerset-u15490494/",
+    "dealer_id": "4846",
+    "car_id": "22543434",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "TRANSIT",
+        "variant": "350 L3 DIESEL RWD",
+        "derivative": "2.0 EcoBlue 130ps Chassis Cab",
+        "registration_number": "WR21YXJ",
+        "registration_date": "20/07/2021",
+        "mileage": 35256,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 20398.8,
+        "total_price": 20398.8,
+        "deposit": 2039.88,
+        "balance": 18358.92,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 418.43,
+        "final_payment": 428.43,
+        "total_amount_payable": 27155.68,
+        "total_charge_for_credit": 6756.88,
+        "amount_of_credit": 18358.92,
+        "lender": "Close Motor Finance"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20398.8,
+        "total_price": 20398.8,
+        "deposit": 2039.88,
+        "balance": 18358.92,
+        "apr": 13.9,
+        "rate_of_interest": 7.23,
+        "term": 48,
+        "regular_payment": 446.59,
+        "final_payment": 3367.84,
+        "total_amount_payable": 26397.45,
+        "total_charge_for_credit": 5998.65,
+        "amount_of_credit": 18358.92,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 2911.25,
+        "price_to_buy": 3367.84
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:06:23.415Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.wingsskoda.co.uk/used-cars/skoda-fabia-1-0-tsi-monte-carlo-hatchback-5dr-petrol-manual-euro-6-s-s-110-ps-ks24deu",
+    "dealer_id": "7709",
+    "car_id": "27078221",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Skoda",
+        "model": "FABIA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 TSI 110 SE Comfort",
+        "registration_number": "YE23LKG",
+        "registration_date": "01/03/2023",
+        "mileage": 5336,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 1849,
+        "balance": 14141,
+        "apr": 11.3,
+        "rate_of_interest": 11.28,
+        "term": 48,
+        "regular_payment": 363.66,
+        "final_payment": 373.66,
+        "total_amount_payable": 19314.68,
+        "total_charge_for_credit": 3324.68,
+        "amount_of_credit": 14141,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 15990,
+        "total_price": 15990,
+        "deposit": 2349,
+        "balance": 13641,
+        "apr": 11.3,
+        "rate_of_interest": 11.32,
+        "term": 48,
+        "regular_payment": 223.17,
+        "final_payment": 7862.5,
+        "total_amount_payable": 20700.49,
+        "total_charge_for_credit": 4710.49,
+        "amount_of_credit": 13641,
+        "lender": "Volkswagen Financial Services (UK) Limited",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 3,
+        "residual": 7852.5,
+        "price_to_buy": 7862.5
+      }
+    ]
+  }
+]

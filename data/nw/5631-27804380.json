@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:15:42.738Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.targafloriocars.com/used/cars/porsche/718-cayman/gts-2-5t-pdk-3423",
+    "dealer_id": "5631",
+    "car_id": "27804380",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EG19NBA",
+        "registration_date": "06/07/2019",
+        "mileage": 31150,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 52990,
+        "total_price": 52990,
+        "deposit": 10,
+        "balance": 52980,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 1159.64,
+        "final_payment": 1169.64,
+        "balloon": 0,
+        "total_amount_payable": 69598.4,
+        "total_charge_for_credit": 16608.4,
+        "amount_of_credit": 52980,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1169.64
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52990,
+        "total_price": 52990,
+        "deposit": 10,
+        "balance": 52980,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1112.08,
+        "final_payment": 1113.08,
+        "total_amount_payable": 66735.8,
+        "total_charge_for_credit": 13745.8,
+        "amount_of_credit": 52980,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

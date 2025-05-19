@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:12.041Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pitstopmotorsni.co.uk/used-vauxhall-grandland-x-lisburn-northern-ireland-6916826",
+    "dealer_id": "5207",
+    "car_id": "27945666",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LXZ4636",
+        "registration_date": "15/01/2018",
+        "mileage": 75464,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9480,
+        "total_price": 9480,
+        "deposit": 948,
+        "balance": 8532,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 179.08,
+        "final_payment": 180.08,
+        "total_amount_payable": 11693.8,
+        "total_charge_for_credit": 2213.8,
+        "amount_of_credit": 8532,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,39 +1,22 @@
 [
   {
-    "timestamp": "2025-04-14T20:36:09.975Z",
+    "timestamp": "2025-05-15T16:15:22.140Z",
     "source": "new_vehicle_finance",
     "url": "https://www.aandaautosales.uk/details/used-car-in-peterborough/mercedes-benz/gleclass/5.5-gle63-v8-amg-s-premium-spds+7gt-4matic-euro-6-ss-5dr/1286412/",
     "dealer_id": "7763",
     "car_id": "25931497",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "WA17RYC",
-        "registration_date": "16/03/2017",
-        "mileage": 64431,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 30695,
-        "total_price": 30695,
-        "deposit": 10,
-        "balance": 30685,
-        "apr": 11.9,
-        "rate_of_interest": 6.27,
-        "term": 60,
-        "regular_payment": 671.7,
-        "final_payment": 672.7,
-        "total_amount_payable": 40313,
-        "total_charge_for_credit": 9618,
-        "amount_of_credit": 30685,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=aandaautosales.uk&quoteeUid=91C69DB3-72A5-43B6-B5E2-86D9C838AF7F&class=Car&condition=used&vrm=WA17RYC&registrationDate=16/03/2017&capCode=&capId=&cashPrice=28995&vatIncluded=true&vatQualifying=false&currentOdometerReading=64431&vehicleImageUrl=https://www.aandaautosales.uk/assets/1286412/large/c37199b38c1db43f47d83d343a1731a2_1286412.jpg&cashDepositType=Amount&cashDeposit=10&term=60&annualDistance=10000&dateOnForecourt=",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=aandaautosales.uk&quoteeUid=91C69DB3-72A5-43B6-B5E2-86D9C838AF7F&class=Car&condition=used&vrm=WA17RYC&registrationDate=16%2F03%2F2017&capCode=&capId=&cashPrice=28995&vatIncluded=true&vatQualifying=false&currentOdometerReading=64431&vehicleImageUrl=https%3A%2F%2Fwww.aandaautosales.uk%2Fassets%2F1286412%2Flarge%2Fc37199b38c1db43f47d83d343a1731a2_1286412.jpg&cashDepositType=Amount&cashDeposit=10&term=60&annualDistance=10000&dateOnForecourt=&origin=https%3A%2F%2Fwww.aandaautosales.uk%2Fdetails%2Fused-car-in-peterborough%2Fmercedes-benz%2Fgleclass%2F5.5-gle63-v8-amg-s-premium-spds%2B7gt-4matic-euro-6-ss-5dr%2F1286412%2F&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders"
+      ]
+    }
   }
 ]

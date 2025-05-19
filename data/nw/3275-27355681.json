@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:26:43.014Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hcl-ltd.com/details/used-car-in-ashford/landrover/rangeroverevoque/2.2-sd4-pure-auto-4wd-euro-5-5dr/1347118/",
+    "dealer_id": "3275",
+    "car_id": "27355681",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YD62KMO",
+        "registration_date": "28/09/2012",
+        "mileage": 112000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6990,
+        "total_price": 6990,
+        "deposit": 699,
+        "balance": 6291,
+        "apr": 8.9,
+        "rate_of_interest": 4.57,
+        "term": 28,
+        "regular_payment": 248.62,
+        "final_payment": 249.62,
+        "total_amount_payable": 7661.36,
+        "total_charge_for_credit": 671.36,
+        "amount_of_credit": 6291,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

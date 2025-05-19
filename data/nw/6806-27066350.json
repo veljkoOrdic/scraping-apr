@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:53.973Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.mcautosales.co.uk/used-audi-sq5-magherafelt-londonderry-6698233",
+    "dealer_id": "6806",
+    "car_id": "27066350",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AK69URE",
+        "registration_date": "17/01/2020",
+        "mileage": 63000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31495,
+        "total_price": 31495,
+        "deposit": 0,
+        "balance": 31495,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 50,
+        "regular_payment": 764.87,
+        "final_payment": 765.87,
+        "total_amount_payable": 38244.5,
+        "total_charge_for_credit": 6749.5,
+        "amount_of_credit": 31495,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

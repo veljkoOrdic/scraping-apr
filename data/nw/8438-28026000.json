@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:50:26.670Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blackburnsuk.co.uk/used-bmw-x4-darlington-county-durham-6941179",
+    "dealer_id": "8438",
+    "car_id": "28026000",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CF22LPX",
+        "registration_date": "24/06/2022",
+        "mileage": 41840,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35650,
+        "total_price": 35650,
+        "deposit": 3565,
+        "balance": 32085,
+        "apr": 10.6,
+        "rate_of_interest": 5.57,
+        "term": 60,
+        "regular_payment": 683.55,
+        "final_payment": 684.55,
+        "total_amount_payable": 44579,
+        "total_charge_for_credit": 8929,
+        "amount_of_credit": 32085,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T17:15:37.276Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.ravenswoodperformance.com/used/cars/hyundai/i30/2-0-i30-n-performance-tgdi-5dr-358",
+    "dealer_id": "7848",
+    "car_id": "27985679",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "I30",
+        "variant": "HATCHBACK",
+        "derivative": "2.0T GDI N Performance",
+        "registration_number": "BJ69OXV",
+        "registration_date": "30/12/2019",
+        "mileage": 55853,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.89,
+        "term": 55,
+        "regular_payment": 342.04,
+        "final_payment": 6020.92,
+        "total_amount_payable": 26590.58,
+        "total_charge_for_credit": 5595.58,
+        "amount_of_credit": 18895.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 45833,
+        "excess_mileage_rate": 6.08,
+        "residual": 6010.92,
+        "price_to_buy": 6020.92
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 20995,
+        "total_price": 20995,
+        "deposit": 2099.5,
+        "balance": 18895.5,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 396.5,
+        "final_payment": 406.5,
+        "total_amount_payable": 25899.5,
+        "total_charge_for_credit": 4904.5,
+        "amount_of_credit": 18895.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

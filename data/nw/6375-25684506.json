@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:04:36.470Z",
+    "timestamp": "2025-05-15T18:04:20.732Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kingsroadgarage.co.uk/vehicle-details/used-land-rover-defender-90-landmark-for-sale-in-hertfordshire-u5139/",
     "dealer_id": "6375",
@@ -12,6 +12,29 @@
         "registration_date": "14/08/2015",
         "mileage": 58000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699.5,
+        "balance": 33295.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 743.8,
+        "final_payment": 753.8,
+        "balloon": 0,
+        "total_amount_payable": 48337.5,
+        "total_charge_for_credit": 11342.5,
+        "amount_of_credit": 33295.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 753.8
       }
     ]
   }

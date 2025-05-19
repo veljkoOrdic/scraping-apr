@@ -1,18 +1,16 @@
 [
   {
-    "timestamp": "2025-04-14T20:36:16.223Z",
+    "timestamp": "2025-05-15T16:15:38.248Z",
     "source": "new_vehicle_finance",
     "url": "https://www.thedonaldsgroup.com/used-car-details/used-mazda-mazda2-15-75-se-l-5dr-manual-petrol/id-202502068831518/",
     "dealer_id": "7767",
     "car_id": "27042623",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "AV18BHU",
-        "registration_date": "20/03/2018",
-        "mileage": 45219,
-        "status": "Used"
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.thedonaldsgroup.com&quoteeUid=C2CB84F4-E6A2-4F34-A131-836C71C4AC86&class=car&condition=used&vrm=AV18BHU&registrationDate=20/03/2018&capCode=&capId=67241&cashPrice=8241&vatIncluded=&vatQualifying=&currentOdometerReading=45219&vehicleImageUrl=https://bluesky.cdn.imgeng.in/cogstock-images/cit-ec415a498cc21210009c9ad3ebbf87e09d493154.jpg?imgeng=/w_300/&term=60&cashDeposit=824&annualDistance=8000&dateOnForecourt=10/04/2025&usePersistedOptions=False",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json"
+      ]
+    }
   }
 ]

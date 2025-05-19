@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T20:52:53.991Z",
+    "timestamp": "2025-05-15T16:25:52.373Z",
     "source": "new_vehicle_finance",
     "url": "https://www.bmvehicles.co.uk/details/used-car-in-letchworth-garden-city/mercedes-benz/eclass/2.0-e220d-amg-line-night-edition-premium-plus-g-tronic+-euro-6-ss-4dr/1289041/",
     "dealer_id": "7854",
@@ -12,6 +12,29 @@
         "registration_date": "31/07/2020",
         "mileage": 34000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27495,
+        "total_price": 27495,
+        "deposit": 1000,
+        "balance": 26495,
+        "apr": 13.9,
+        "rate_of_interest": 7.25,
+        "term": 49,
+        "regular_payment": 700.7,
+        "final_payment": 710.7,
+        "balloon": 0,
+        "total_amount_payable": 35344.3,
+        "total_charge_for_credit": 7849.3,
+        "amount_of_credit": 26495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 710.7
       },
       {
         "type": "finance_hp",
@@ -42,20 +65,20 @@
         "total_price": 27495,
         "deposit": 1000,
         "balance": 26495,
-        "apr": 19.3,
-        "rate_of_interest": 9.9,
+        "apr": 10.9,
+        "rate_of_interest": 5.43,
         "term": 49,
-        "regular_payment": 597.72,
-        "final_payment": 12214,
-        "balloon": 12015,
-        "total_amount_payable": 42053.56,
-        "total_charge_for_credit": 14558.56,
+        "regular_payment": 470.53,
+        "final_payment": 12101.5,
+        "balloon": 11902.5,
+        "total_amount_payable": 35835.94,
+        "total_charge_for_credit": 8340.94,
         "amount_of_credit": 26495,
         "lender": "Paragon Car Finance",
         "annual_mileage": 6000,
         "excess_mileage_rate": 0,
-        "residual": 12015,
-        "price_to_buy": 12214
+        "residual": 11902.5,
+        "price_to_buy": 12101.5
       },
       {
         "type": "finance_pcp",
@@ -68,17 +91,17 @@
         "apr": 9.9,
         "rate_of_interest": 5.13,
         "term": 49,
-        "regular_payment": 457.27,
-        "final_payment": 12183,
-        "total_amount_payable": 35131.96,
-        "total_charge_for_credit": 7636.96,
+        "regular_payment": 458.81,
+        "final_payment": 12093,
+        "total_amount_payable": 35115.88,
+        "total_charge_for_credit": 7620.88,
         "amount_of_credit": 26495,
         "lender": "Connected Car Finance",
         "annual_mileage": 6000,
         "contract_mileage": 24500,
         "excess_mileage_rate": 0,
-        "residual": 12173,
-        "price_to_buy": 12183
+        "residual": 12083,
+        "price_to_buy": 12093
       }
     ]
   }

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:18:53.685Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.leedsmotorcompany.co.uk/used-hyundai-i10-leeds-west-yorkshire-6726761",
+    "dealer_id": "6818",
+    "car_id": "27231204",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK10FUG",
+        "registration_date": "24/03/2010",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 3795,
+        "total_price": 3795,
+        "deposit": 299,
+        "balance": 3496,
+        "apr": 13.9,
+        "rate_of_interest": 7.19,
+        "term": 48,
+        "regular_payment": 93.78,
+        "final_payment": 103.78,
+        "balloon": 0,
+        "total_amount_payable": 4810.44,
+        "total_charge_for_credit": 1015.44,
+        "amount_of_credit": 3496,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 103.78
+      }
+    ]
+  }
+]

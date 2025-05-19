@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T22:10:04.852Z",
+    "timestamp": "2025-05-15T16:44:28.980Z",
     "source": "new_vehicle_finance",
     "url": "https://www.sarahcoxcars.co.uk/used-vauxhall-nova-newark-nottinghamshire-6175428",
     "dealer_id": "2240",
@@ -12,6 +12,29 @@
         "registration_date": "10/08/1988",
         "mileage": 25000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8911,
+        "total_price": 8911,
+        "deposit": 445,
+        "balance": 8466,
+        "apr": 12.4,
+        "rate_of_interest": 6.52,
+        "term": 60,
+        "regular_payment": 187.12,
+        "final_payment": 197.12,
+        "balloon": 0,
+        "total_amount_payable": 11682.2,
+        "total_charge_for_credit": 2771.2,
+        "amount_of_credit": 8466,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 197.12
       }
     ]
   }

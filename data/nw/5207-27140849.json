@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T15:09:17.169Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pitstopmotorsni.co.uk/used-audi-a3-lisburn-northern-ireland-6719946",
+    "dealer_id": "5207",
+    "car_id": "27140849",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WF20JZP",
+        "registration_date": "09/07/2020",
+        "mileage": 74434,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 15480,
+        "total_price": 15480,
+        "deposit": 1548,
+        "balance": 13932,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 292.43,
+        "final_payment": 293.43,
+        "total_amount_payable": 19094.8,
+        "total_charge_for_credit": 3614.8,
+        "amount_of_credit": 13932,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

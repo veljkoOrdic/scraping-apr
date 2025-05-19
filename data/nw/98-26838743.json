@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:31:02.106Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.a1carriages.co.uk/used-cars/vauxhall/crossland/15-turbo-d-elite-nav-auto-euro-6-ss-5dr/gv71luo",
+    "dealer_id": "98",
+    "car_id": "26838743",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GV71LUO",
+        "registration_date": "30/12/2021",
+        "mileage": 33106,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11989,
+        "total_price": 11989,
+        "deposit": 0,
+        "balance": 11989,
+        "apr": 13.9,
+        "rate_of_interest": 7.24,
+        "term": 48,
+        "regular_payment": 322.13,
+        "final_payment": 323.13,
+        "total_amount_payable": 15463.24,
+        "total_charge_for_credit": 3474.24,
+        "amount_of_credit": 11989,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:24:19.769Z",
+    "timestamp": "2025-05-15T15:10:46.225Z",
     "source": "new_vehicle_finance",
     "url": "https://www.polesworth-garage.com/used-cars/suzuki/suzuki-sx4-s-cross-1-4-boosterjet-48v-hybrid-ultra-allgrip-5dr/",
     "dealer_id": "7286",
@@ -45,17 +45,40 @@
         "apr": 8.9,
         "rate_of_interest": 8.55,
         "term": 48,
-        "regular_payment": 609.4,
-        "final_payment": 10105,
-        "total_amount_payable": 38746.8,
-        "total_charge_for_credit": 7297.8,
+        "regular_payment": 611.58,
+        "final_payment": 9983,
+        "total_amount_payable": 38727.26,
+        "total_charge_for_credit": 7278.26,
         "amount_of_credit": 31449,
         "lender": "Suzuki Financial Services Limited",
         "annual_mileage": 8000,
         "contract_mileage": 32000,
         "excess_mileage_rate": 0.04,
-        "residual": 10095,
-        "price_to_buy": 10105
+        "residual": 9973,
+        "price_to_buy": 9983
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31449,
+        "total_price": 31449,
+        "deposit": 0,
+        "balance": 31449,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 789.59,
+        "final_payment": 799.59,
+        "balloon": 0,
+        "total_amount_payable": 37910.32,
+        "total_charge_for_credit": 6461.32,
+        "amount_of_credit": 31449,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 799.59
       }
     ]
   }

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:11:14.901Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.klassifiedcars.co.uk/details/used-car-in-rugby/ford/focus/2.3t-ecoboost-st-euro-6-ss-5dr/1401311/",
+    "dealer_id": "8655",
+    "car_id": "27298971",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "FOCUS",
+        "variant": "HATCHBACK",
+        "derivative": "2.3 EcoBoost ST",
+        "registration_number": "OW69EHY",
+        "registration_date": "29/01/2020",
+        "mileage": 33350,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19895,
+        "total_price": 19895,
+        "deposit": 1989.5,
+        "balance": 17905.5,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 45,
+        "regular_payment": 357.14,
+        "final_payment": 7560,
+        "total_amount_payable": 24906.52,
+        "total_charge_for_credit": 5011.52,
+        "amount_of_credit": 17905.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 37500,
+        "excess_mileage_rate": 15,
+        "residual": 7550,
+        "price_to_buy": 7560
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19895,
+        "total_price": 19895,
+        "deposit": 1989.5,
+        "balance": 17905.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 383.92,
+        "final_payment": 383.92,
+        "total_amount_payable": 25024.7,
+        "total_charge_for_credit": 5129.7,
+        "amount_of_credit": 17905.5,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

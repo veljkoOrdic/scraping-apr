@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:04:36.729Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pentagon-group.co.uk/used-vans/ford/ranger/ms-rt/20-ecoblue-ms-rt-pickup-double-cab-4dr-diesel-auto-4wd-euro-6-ss-213-ps/45538",
+    "dealer_id": "8107",
+    "car_id": "24846523",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MC24ZCL",
+        "registration_date": "28/06/2024",
+        "mileage": 9999,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44314.8,
+        "total_price": 44314.8,
+        "deposit": 0,
+        "balance": 36929,
+        "apr": 11.9,
+        "rate_of_interest": 6.19,
+        "term": 48,
+        "regular_payment": 959.76,
+        "final_payment": 960.76,
+        "total_amount_payable": 53455.28,
+        "total_charge_for_credit": 9140.48,
+        "amount_of_credit": 36929,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

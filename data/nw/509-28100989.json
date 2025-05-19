@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:25:43.771Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.castlemotors.net/vehicle-details/used-toyota-c-hr-vvt-h-icon-for-sale-in-hampshire-u6187/",
+    "dealer_id": "509",
+    "car_id": "28100989",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EO18XBU",
+        "registration_date": "30/03/2018",
+        "mileage": 48375,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13950,
+        "total_price": 13950,
+        "deposit": 2790,
+        "balance": 11160,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 229.25,
+        "final_payment": 230.25,
+        "total_amount_payable": 16546,
+        "total_charge_for_credit": 2596,
+        "amount_of_credit": 11160,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 13950,
+        "total_price": 13950,
+        "deposit": 2790,
+        "balance": 11160,
+        "apr": 8.9,
+        "rate_of_interest": 8.9,
+        "term": 34,
+        "regular_payment": 214.47,
+        "final_payment": 6205,
+        "total_amount_payable": 16072.51,
+        "total_charge_for_credit": 2122.51,
+        "amount_of_credit": 11160,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 12000,
+        "contract_mileage": 34000,
+        "excess_mileage_rate": 0.04,
+        "residual": 6204,
+        "price_to_buy": 6205
+      }
+    ]
+  }
+]

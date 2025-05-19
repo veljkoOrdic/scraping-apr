@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:53:59.596Z",
+    "timestamp": "2025-05-15T14:59:32.294Z",
     "source": "new_vehicle_finance",
     "url": "https://www.colinfranciscars.com/used-cars/seat-tarraco-xcellence-20tdi-4wd-s-auto/33686",
     "dealer_id": "7214",
@@ -12,6 +12,29 @@
         "registration_date": "28/06/2019",
         "mileage": 56000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21950,
+        "total_price": 21950,
+        "deposit": 2195,
+        "balance": 19755,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 414.54,
+        "final_payment": 424.54,
+        "balloon": 0,
+        "total_amount_payable": 27077.4,
+        "total_charge_for_credit": 5127.4,
+        "amount_of_credit": 19755,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 424.54
       },
       {
         "type": "finance_hp",

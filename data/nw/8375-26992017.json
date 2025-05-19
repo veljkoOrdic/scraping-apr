@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:36:27.842Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.platinumcarcentre.co.uk/used/cars/kia/sportage/crdi-3-sat-nav-652",
+    "dealer_id": "8375",
+    "car_id": "26992017",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GK12AXH",
+        "registration_date": "18/07/2012",
+        "mileage": 89318,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 5995,
+        "total_price": 5995,
+        "deposit": 599.5,
+        "balance": 5395.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 115.68,
+        "final_payment": 115.68,
+        "total_amount_payable": 7540.3,
+        "total_charge_for_credit": 1545.3,
+        "amount_of_credit": 5395.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

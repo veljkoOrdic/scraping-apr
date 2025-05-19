@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:30:02.184Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.heritagecarcompany.co.uk/details/used-car-in-coventry/volkswagen/polo/1.2-match-euro-5-3dr/1298649/",
+    "dealer_id": "3382",
+    "car_id": "26071132",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU13OUG",
+        "registration_date": "12/03/2013",
+        "mileage": 84852,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 2695,
+        "total_price": 2695,
+        "deposit": 269.5,
+        "balance": 2425.5,
+        "apr": 22.9,
+        "rate_of_interest": 12.33,
+        "term": 60,
+        "regular_payment": 65.34,
+        "final_payment": 65.34,
+        "total_amount_payable": 4189.9,
+        "total_charge_for_credit": 1494.9,
+        "amount_of_credit": 2425.5,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

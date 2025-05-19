@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:51:20.902Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.broadoakmotorgroup.co.uk/used-car-details/used-nissan-leaf-110kw-tekna-39kwh-hatchback-storm-white-automatic-electric/id-313071173875/",
+    "dealer_id": "6538",
+    "car_id": "26467771",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "LEAF",
+        "variant": "HATCHBACK",
+        "derivative": "110kW Tekna 39kWh",
+        "registration_number": "GK73HGE",
+        "registration_date": "30/10/2023",
+        "mileage": 11500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 14799,
+        "total_price": 14799,
+        "deposit": 3700,
+        "balance": 11099,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 48,
+        "regular_payment": 204.52,
+        "final_payment": 5934,
+        "total_amount_payable": 19450.96,
+        "total_charge_for_credit": 4651.96,
+        "amount_of_credit": 11099,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8,
+        "residual": 5934,
+        "price_to_buy": 5934
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 14799,
+        "total_price": 14799,
+        "deposit": 3700,
+        "balance": 11099,
+        "apr": 13.9,
+        "rate_of_interest": 13.9,
+        "term": 60,
+        "regular_payment": 253.02,
+        "final_payment": 253.02,
+        "total_amount_payable": 18881.2,
+        "total_charge_for_credit": 4082.2,
+        "amount_of_credit": 11099,
+        "lender": "Nissan Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

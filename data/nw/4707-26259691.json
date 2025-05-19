@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T19:08:09.508Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.oaktreemotorcompany.com/details/used-car-in-cwmbran/audi/a1/2.0-tdi-black-edition-euro-5-ss-3dr/1314918/",
+    "dealer_id": "4707",
+    "car_id": "26259691",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CX63HFY",
+        "registration_date": "20/09/2013",
+        "mileage": 84626,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 6750,
+        "total_price": 6750,
+        "deposit": 675,
+        "balance": 6075,
+        "apr": 9.9,
+        "rate_of_interest": 5.06,
+        "term": 40,
+        "regular_payment": 177.51,
+        "final_payment": 187.51,
+        "total_amount_payable": 7785.4,
+        "total_charge_for_credit": 1035.4,
+        "amount_of_credit": 6075,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

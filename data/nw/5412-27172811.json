@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T20:29:08.170Z",
+    "timestamp": "2025-05-15T15:38:26.901Z",
     "source": "new_vehicle_finance",
     "url": "https://www.trooncars.co.uk/used-mercedes-benz-g-class-leicester-leicestershire-6727975",
     "dealer_id": "5412",
     "car_id": "27172811",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "EF70SZV",
-        "registration_date": "11/01/2021",
-        "mileage": 29400,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 127500,
-        "total_price": 127500,
-        "deposit": 12750,
-        "balance": 75000,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 1574.29,
-        "final_payment": 1575.29,
-        "total_amount_payable": 146958.4,
-        "total_charge_for_credit": 19458.4,
-        "amount_of_credit": 75000,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

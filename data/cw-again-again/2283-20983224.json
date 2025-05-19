@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T13:40:47.488Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.electriccarsuk.com/used-nissan-townstar-preston-lancashire-5241562",
+    "dealer_id": "2283",
+    "car_id": "20983224",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "TOWNSTAR",
+        "variant": "L1 ELECTRIC",
+        "derivative": "90kW Tekna Van 45kWh",
+        "registration_number": "PJ23XYO",
+        "registration_date": "24/05/2023",
+        "mileage": 1000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 21588,
+        "total_price": 21588,
+        "deposit": 3598,
+        "balance": 17990,
+        "apr": 11.4,
+        "rate_of_interest": 10.84,
+        "term": 49,
+        "regular_payment": 384.31,
+        "final_payment": 4781.25,
+        "total_amount_payable": 26826.13,
+        "total_charge_for_credit": 5238.13,
+        "amount_of_credit": 17990,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 13,
+        "residual": 4781.25,
+        "price_to_buy": 4781.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21588,
+        "total_price": 21588,
+        "deposit": 3598,
+        "balance": 17990,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 377.62,
+        "final_payment": 377.62,
+        "total_amount_payable": 26255.2,
+        "total_charge_for_credit": 4667.2,
+        "amount_of_credit": 17990,
+        "lender": "Creditas Financial Solutions Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

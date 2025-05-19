@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:58:24.735Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/astonmartin/rapide/6.0-v12-t-troniciieveryday-practicality-combined-with-aston-martins-elegance-and-performance/1437227/",
+    "dealer_id": "6287",
+    "car_id": "27743243",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KX12BBF",
+        "registration_date": "01/03/2012",
+        "mileage": 37522,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 37970,
+        "total_price": 37970,
+        "deposit": 3797,
+        "balance": 34173,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 810.12,
+        "final_payment": 820.12,
+        "balloon": 0,
+        "total_amount_payable": 52414.2,
+        "total_charge_for_credit": 14444.2,
+        "amount_of_credit": 34173,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 820.12
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 37970,
+        "total_price": 37970,
+        "deposit": 3797,
+        "balance": 34173,
+        "apr": 10.9,
+        "rate_of_interest": 5.6,
+        "term": 21,
+        "regular_payment": 1786.69,
+        "final_payment": 1787.69,
+        "total_amount_payable": 41318.49,
+        "total_charge_for_credit": 3348.49,
+        "amount_of_credit": 34173,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

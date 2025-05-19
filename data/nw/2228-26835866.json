@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:42:07.350Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandles.co.uk/used-cars/land-rover/range-rover-sport/20-p400e-131kwh-hse-dynamic-auto-4wd-euro-6-ss-5dr/ay21ugt",
+    "dealer_id": "2228",
+    "car_id": "26835866",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AY21UGT",
+        "registration_date": "03/03/2021",
+        "mileage": 26100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39799,
+        "total_price": 39799,
+        "deposit": 3979.9,
+        "balance": 35819.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 800.18,
+        "final_payment": 810.18,
+        "total_amount_payable": 52000.7,
+        "total_charge_for_credit": 12201.7,
+        "amount_of_credit": 35819.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39799,
+        "total_price": 39799,
+        "deposit": 3979.9,
+        "balance": 35819.1,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 49,
+        "regular_payment": 688.5,
+        "final_payment": 16032.5,
+        "total_amount_payable": 53060.4,
+        "total_charge_for_credit": 13261.4,
+        "amount_of_credit": 35819.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 16022.5,
+        "price_to_buy": 16032.5
+      }
+    ]
+  }
+]

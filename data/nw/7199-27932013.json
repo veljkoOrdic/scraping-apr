@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:56:00.659Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.m4sales.co.uk/vehicle-details/used-peugeot-boxer-bluehdi-435-professional-premium-euro-6-for-sale-minibus-centre-u7251/",
+    "dealer_id": "7199",
+    "car_id": "27932013",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC24UBY",
+        "registration_date": "26/03/2024",
+        "mileage": 19483,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 50394,
+        "total_price": 50394,
+        "deposit": 8399,
+        "balance": 41995,
+        "apr": 13.1,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 942.18,
+        "final_payment": 942.18,
+        "balloon": 0,
+        "total_amount_payable": 64929.8,
+        "total_charge_for_credit": 14535.8,
+        "amount_of_credit": 41995,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 942.18
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 50394,
+        "total_price": 50394,
+        "deposit": 0,
+        "balance": 41995,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 957.35,
+        "final_payment": 958.35,
+        "total_amount_payable": 65841,
+        "total_charge_for_credit": 15447,
+        "amount_of_credit": 41995,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

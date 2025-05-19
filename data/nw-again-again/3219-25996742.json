@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T14:03:07.075Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.pwmillar.co.uk/details/used-nissan-nv250-panel-van-1.5-dci-acenta-l1-euro-6-(ss)-4dr-diesel-manual-white-Id=3478678",
+    "dealer_id": "3219",
+    "car_id": "25996742",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV21JYO",
+        "registration_date": "31/03/2021",
+        "mileage": 54577,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9588,
+        "total_price": 9588,
+        "deposit": 0,
+        "balance": 7990,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 204.13,
+        "final_payment": 205.13,
+        "total_amount_payable": 11397.24,
+        "total_charge_for_credit": 1809.24,
+        "amount_of_credit": 7990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 9000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

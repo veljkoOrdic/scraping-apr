@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:22:04.402Z",
+    "timestamp": "2025-05-15T18:33:11.899Z",
     "source": "new_vehicle_finance",
     "url": "https://www.macsonscars.co.uk/cars/chevrolet/corvette/6.2-v8-3lt/1438944/",
     "dealer_id": "4350",
@@ -12,6 +12,29 @@
         "registration_date": "01/09/2023",
         "mileage": 7700,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 89990,
+        "total_price": 89990,
+        "deposit": 8999,
+        "balance": 80991,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1700.06,
+        "final_payment": 1700.06,
+        "balloon": 0,
+        "total_amount_payable": 111002.6,
+        "total_charge_for_credit": 21012.6,
+        "amount_of_credit": 80991,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1700.06
       },
       {
         "type": "finance_hp",
@@ -45,17 +68,17 @@
         "apr": 9.9,
         "rate_of_interest": 5.14,
         "term": 49,
-        "regular_payment": 1334.8,
-        "final_payment": 40930,
-        "total_amount_payable": 113999.4,
-        "total_charge_for_credit": 24009.4,
+        "regular_payment": 1337.18,
+        "final_payment": 40790.5,
+        "total_amount_payable": 113974.14,
+        "total_charge_for_credit": 23984.14,
         "amount_of_credit": 80991,
         "lender": "Northridge Finance",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.22,
-        "residual": 40920,
-        "price_to_buy": 40930
+        "residual": 40780.5,
+        "price_to_buy": 40790.5
       }
     ]
   }

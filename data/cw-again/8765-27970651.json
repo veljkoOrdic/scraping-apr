@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:24:38.240Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.berrowmotors.co.uk/used/cars/mercedes-benz/c-class/4-0-amg-c-63-auto-2dr-347",
+    "dealer_id": "8765",
+    "car_id": "27970651",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "C Class AMG Coupe",
+        "derivative": "C63 AMG Cpe Auto F/L 2018",
+        "registration_number": "CC63JOB",
+        "registration_date": "18/05/2019",
+        "mileage": 22978,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40000,
+        "total_price": 40000,
+        "deposit": 4000,
+        "balance": 36000,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 683.97,
+        "final_payment": 14646.33,
+        "total_amount_payable": 50792.92,
+        "total_charge_for_credit": 10792.92,
+        "amount_of_credit": 36000,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 8.83,
+        "residual": 14646.33,
+        "price_to_buy": 14646.33
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40000,
+        "total_price": 40000,
+        "deposit": 4000,
+        "balance": 36000,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 771.9,
+        "final_payment": 771.9,
+        "total_amount_payable": 50314,
+        "total_charge_for_credit": 10314,
+        "amount_of_credit": 36000,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

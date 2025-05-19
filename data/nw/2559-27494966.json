@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T22:44:22.686Z",
+    "timestamp": "2025-05-15T16:56:11.742Z",
     "source": "new_vehicle_finance",
     "url": "https://www.hamptonautomotive.co.uk/used-skoda-superb-bridport-dorset-6804879",
     "dealer_id": "2559",
     "car_id": "27494966",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "AK71XDP",
-        "registration_date": "22/12/2021",
-        "mileage": 20817,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 19950,
-        "total_price": 19950,
-        "deposit": 1995,
-        "balance": 17955,
-        "apr": 10.9,
-        "rate_of_interest": 5.72,
-        "term": 60,
-        "regular_payment": 384.82,
-        "final_payment": 394.82,
-        "total_amount_payable": 25094.2,
-        "total_charge_for_credit": 5144.2,
-        "amount_of_credit": 17955,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 19950,
-        "total_price": 19950,
-        "deposit": 1995,
-        "balance": 17955,
-        "apr": 10.9,
-        "rate_of_interest": 5.66,
-        "term": 49,
-        "regular_payment": 364.01,
-        "final_payment": 5658,
-        "total_amount_payable": 25125.48,
-        "total_charge_for_credit": 5175.48,
-        "amount_of_credit": 17955,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0,
-        "residual": 5648,
-        "price_to_buy": 5658
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

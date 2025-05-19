@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T21:23:38.768Z",
+    "timestamp": "2025-05-15T16:15:00.534Z",
     "source": "new_vehicle_finance",
     "url": "https://www.targafloriocars.com/used/cars/jaguar/xjr/-6-4-0-supercharged-2408",
     "dealer_id": "5631",
@@ -12,6 +12,29 @@
         "registration_date": "01/08/1995",
         "mileage": 98700,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12990,
+        "total_price": 12990,
+        "deposit": 10,
+        "balance": 12980,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 284.02,
+        "final_payment": 294.02,
+        "balloon": 0,
+        "total_amount_payable": 17061.2,
+        "total_charge_for_credit": 4071.2,
+        "amount_of_credit": 12980,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 294.02
       }
     ]
   }

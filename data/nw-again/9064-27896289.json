@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:19:42.463Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lakesidecars.com/used-land-rover-defender-harlow-essex-6903858",
+    "dealer_id": "9064",
+    "car_id": "27896289",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YC21XOL",
+        "registration_date": "08/04/2021",
+        "mileage": 41834,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 51989,
+        "total_price": 51989,
+        "deposit": 5198,
+        "balance": 46791,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 961.25,
+        "final_payment": 962.25,
+        "total_amount_payable": 62874,
+        "total_charge_for_credit": 10885,
+        "amount_of_credit": 46791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 51989,
+        "total_price": 51989,
+        "deposit": 5198,
+        "balance": 46791,
+        "apr": 8.9,
+        "rate_of_interest": 4.4,
+        "term": 49,
+        "regular_payment": 797,
+        "final_payment": 20525.5,
+        "total_amount_payable": 63979.5,
+        "total_charge_for_credit": 11990.5,
+        "amount_of_credit": 46791,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 20524.5,
+        "price_to_buy": 20525.5
+      }
+    ]
+  }
+]

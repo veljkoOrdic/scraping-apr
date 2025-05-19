@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T19:01:28.005Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.orchardmillmotorcompany.co.uk/cars/hyundai/i10/1.2-premium-se/1376538/",
+    "dealer_id": "6791",
+    "car_id": "27018600",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RO67JZV",
+        "registration_date": "26/10/2017",
+        "mileage": 57000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 7695,
+        "total_price": 7695,
+        "deposit": 769.5,
+        "balance": 6925.5,
+        "apr": 12.9,
+        "rate_of_interest": 5.5,
+        "term": 60,
+        "regular_payment": 154.6,
+        "final_payment": 154.6,
+        "balloon": 0,
+        "total_amount_payable": 10045.5,
+        "total_charge_for_credit": 2350.5,
+        "amount_of_credit": 6925.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 154.6
+      }
+    ]
+  }
+]

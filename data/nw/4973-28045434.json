@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T14:48:25.595Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.batemanlynchcars.co.uk/used-mercedes-benz-c-class-liskeard-cornwall-6372799",
+    "dealer_id": "4973",
+    "car_id": "28045434",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY62YKT",
+        "registration_date": "03/09/2012",
+        "mileage": 154000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499,
+        "balance": 4496,
+        "apr": 11.9,
+        "rate_of_interest": 6.24,
+        "term": 60,
+        "regular_payment": 98.3,
+        "final_payment": 108.3,
+        "balloon": 0,
+        "total_amount_payable": 6407,
+        "total_charge_for_credit": 1412,
+        "amount_of_credit": 4496,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 108.3
+      }
+    ]
+  }
+]

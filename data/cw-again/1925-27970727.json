@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T15:20:39.728Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.cross-carsales.co.uk/details/used-car-in-chesterfield/mercedes-benz/cclass/2.0-c220dh-mhev-amg-line-premium-g-tronic+-euro-6-ss-4dr/1458618/",
+    "dealer_id": "1925",
+    "car_id": "27970727",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "C-Class",
+        "variant": "C-Class 206 Saloon",
+        "derivative": "C220d AMG Line Premium Sal Auto 2021",
+        "registration_number": "KR22NSZ",
+        "registration_date": "16/06/2022",
+        "mileage": 15000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 32795,
+        "total_price": 32795,
+        "deposit": 3279.5,
+        "balance": 29515.5,
+        "apr": 16.8,
+        "rate_of_interest": 8.5,
+        "term": 48,
+        "regular_payment": 624.75,
+        "final_payment": 14298.5,
+        "total_amount_payable": 46941.25,
+        "total_charge_for_credit": 14146.25,
+        "amount_of_credit": 29515.5,
+        "lender": "Close Motor Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 12,
+        "residual": 13663.75,
+        "price_to_buy": 14298.5
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 32795,
+        "total_price": 32795,
+        "deposit": 3279.5,
+        "balance": 29515.5,
+        "apr": 16.6,
+        "rate_of_interest": 8.5,
+        "term": 60,
+        "regular_payment": 709.31,
+        "final_payment": 709.31,
+        "total_amount_payable": 45838.1,
+        "total_charge_for_credit": 13043.1,
+        "amount_of_credit": 29515.5,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T16:56:47.247Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.radfordsgarage.co.uk/used-ford-kuga-mansfield-nottinghamshire-6742493",
+    "dealer_id": "2560",
+    "car_id": "27391954",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BL67FMG",
+        "registration_date": "30/11/2017",
+        "mileage": 44139,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12656,
+        "total_price": 12656,
+        "deposit": 1265,
+        "balance": 11391,
+        "apr": 14.4,
+        "rate_of_interest": 7.62,
+        "term": 60,
+        "regular_payment": 262.16,
+        "final_payment": 272.16,
+        "balloon": 0,
+        "total_amount_payable": 17004.6,
+        "total_charge_for_credit": 4348.6,
+        "amount_of_credit": 11391,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 272.16
+      }
+    ]
+  }
+]

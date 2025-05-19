@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-15T01:56:29.551Z",
+    "timestamp": "2025-05-15T18:20:46.780Z",
     "source": "new_vehicle_finance",
     "url": "https://www.tonesusedcars.com/used-citroen-c1-hartlepool-county-durham-6622438",
     "dealer_id": "4304",
     "car_id": "26780899",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "LR64XLY",
-        "registration_date": "26/09/2014",
-        "mileage": 45632,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4995,
-        "total_price": 4995,
-        "deposit": 0,
-        "balance": 4995,
-        "apr": 11.9,
-        "rate_of_interest": 6.22,
-        "term": 53,
-        "regular_payment": 120.12,
-        "final_payment": 121.12,
-        "total_amount_payable": 6367.36,
-        "total_charge_for_credit": 1372.36,
-        "amount_of_credit": 4995,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.tonesusedcars.com&quoteeUid=DD7C23DC85514D4190A20A383F37D382&class=car&condition=used&vrm=LR64XLY&registrationDate=26%2F09%2F2014&capCode=&capId=&cashPrice=4695&currentOdometerReading=45632&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6622%2F6622438%2Ffull%2F158214330.jpg&term=60&cashDeposit=0&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=16%2F01%2F2025&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.tonesusedcars.com&quoteeUid=DD7C23DC85514D4190A20A383F37D382&class=car&condition=used&vrm=LR64XLY&registrationDate=26%2F09%2F2014&capCode=&capId=&cashPrice=4695&currentOdometerReading=45632&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F6622%2F6622438%2Ffull%2F158214330.jpg&term=60&cashDeposit=0&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=16%2F01%2F2025&usePersistedOptions=false&origin=https%3A%2F%2Fwww.tonesusedcars.com%2Fused-citroen-c1-hartlepool-county-durham-6622438&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

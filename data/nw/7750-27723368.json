@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T16:12:41.850Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ashridgevehicles.co.uk/used-toyota-c-hr-little-gaddesden-hertfordshire-6859375",
+    "dealer_id": "7750",
+    "car_id": "27723368",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AU17LTA",
+        "registration_date": "07/03/2017",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 13999,
+        "total_price": 13999,
+        "deposit": 1399,
+        "balance": 12600,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 321.92,
+        "final_payment": 322.92,
+        "total_amount_payable": 16852.16,
+        "total_charge_for_credit": 2853.16,
+        "amount_of_credit": 12600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

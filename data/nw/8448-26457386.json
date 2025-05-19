@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:51:26.982Z",
+    "source": "new_vehicle_finance",
+    "url": "https://jmvcars.co.uk/vehicle/name/bmw-3-series-bmw-3-series-2-0-328i-m-sport-touring/",
+    "dealer_id": "8448",
+    "car_id": "26457386",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BP13PYJ",
+        "registration_date": "01/05/2013",
+        "mileage": 67000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11975,
+        "total_price": 11975,
+        "deposit": 2000,
+        "balance": 9975,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 222.75,
+        "final_payment": 232.75,
+        "balloon": 0,
+        "total_amount_payable": 15375,
+        "total_charge_for_credit": 3400,
+        "amount_of_credit": 9975,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 232.75
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11975,
+        "total_price": 11975,
+        "deposit": 2000,
+        "balance": 9975,
+        "apr": 12.9,
+        "rate_of_interest": 6.8,
+        "term": 60,
+        "regular_payment": 222.75,
+        "final_payment": 232.75,
+        "total_amount_payable": 15375,
+        "total_charge_for_credit": 3400,
+        "amount_of_credit": 9975,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

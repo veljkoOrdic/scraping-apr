@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:39:34.386Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carscierge.co.uk/used/cars/hyundai/ix20/1-6-ix20-se-nav-mpi-5dr-76",
+    "dealer_id": "9157",
+    "car_id": "27337671",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Hyundai",
+        "model": "IX20",
+        "variant": "HATCHBACK",
+        "derivative": "1.6 SE Nav",
+        "registration_number": "EP19JYT",
+        "registration_date": "27/07/2019",
+        "mileage": 12900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 9870,
+        "total_price": 9870,
+        "deposit": 987,
+        "balance": 8883,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 38,
+        "regular_payment": 179.5,
+        "final_payment": 4949,
+        "total_amount_payable": 12577.5,
+        "total_charge_for_credit": 2707.5,
+        "amount_of_credit": 8883,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 31666,
+        "excess_mileage_rate": 7,
+        "residual": 4949,
+        "price_to_buy": 4949
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9870,
+        "total_price": 9870,
+        "deposit": 987,
+        "balance": 8883,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 186.47,
+        "final_payment": 186.47,
+        "total_amount_payable": 12175.2,
+        "total_charge_for_credit": 2305.2,
+        "amount_of_credit": 8883,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

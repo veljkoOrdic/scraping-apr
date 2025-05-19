@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:13.150Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-bmw-ix-liverpool-merseyside-6870582",
+    "dealer_id": "4599",
+    "car_id": "27772504",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YN22VSF",
+        "registration_date": "16/03/2022",
+        "mileage": 36674,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30495,
+        "total_price": 30495,
+        "deposit": 1000,
+        "balance": 29495,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 618.99,
+        "final_payment": 628.99,
+        "total_amount_payable": 38149.4,
+        "total_charge_for_credit": 7654.4,
+        "amount_of_credit": 29495,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30495,
+        "total_price": 30495,
+        "deposit": 1000,
+        "balance": 29495,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 461.52,
+        "final_payment": 16345,
+        "total_amount_payable": 39497.96,
+        "total_charge_for_credit": 9002.96,
+        "amount_of_credit": 29495,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.22,
+        "residual": 16335,
+        "price_to_buy": 16345
+      }
+    ]
+  }
+]

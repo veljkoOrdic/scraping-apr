@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-16T11:58:29.727Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browns-autos.co.uk/details/used-car-in-portslade/kia/carens/1.7-crdi-3-euro-6-ss-5dr/1434351/",
+    "dealer_id": "393",
+    "car_id": "27715327",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LG67DJY",
+        "registration_date": "24/11/2017",
+        "mileage": 91000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7495,
+        "total_price": 7495,
+        "deposit": 749.5,
+        "balance": 6745.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 141.59,
+        "final_payment": 141.59,
+        "total_amount_payable": 9244.9,
+        "total_charge_for_credit": 1749.9,
+        "amount_of_credit": 6745.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

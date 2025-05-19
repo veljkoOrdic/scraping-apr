@@ -1,12 +1,39 @@
 [
   {
-    "timestamp": "2025-04-14T16:58:51.403Z",
+    "timestamp": "2025-05-15T18:53:02.066Z",
     "source": "new_vehicle_finance",
     "url": "https://www.suttonautomotive.co.uk/details/used-car-in-sutton-coldfield/volvo/xc60/2.4-d4-r-design-lux-nav-geartronic-awd-euro-5-5dr/1388980/",
     "dealer_id": "4555",
     "car_id": "27168630",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KV15EZU",
+        "registration_date": "10/03/2015",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11890,
+        "total_price": 11890,
+        "deposit": 1189,
+        "balance": 10701,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 224.62,
+        "final_payment": 225.62,
+        "total_amount_payable": 14667.2,
+        "total_charge_for_credit": 2777.2,
+        "amount_of_credit": 10701,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

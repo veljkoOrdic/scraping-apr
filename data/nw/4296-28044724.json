@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:20:29.673Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carbuyersdirectuk.co.uk/used-volvo-xc90-knaresborough-north-yorkshire-6942817",
+    "dealer_id": "4296",
+    "car_id": "28044724",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KM65YCS",
+        "registration_date": "07/12/2015",
+        "mileage": 89000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21995,
+        "total_price": 21995,
+        "deposit": 2199,
+        "balance": 19796,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 505.78,
+        "final_payment": 506.78,
+        "total_amount_payable": 26477.44,
+        "total_charge_for_credit": 4482.44,
+        "amount_of_credit": 19796,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

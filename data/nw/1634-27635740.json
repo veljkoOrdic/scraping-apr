@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:11:49.166Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkeeble.co.uk/used-audi-allroad-ipswich-suffolk-6659036",
+    "dealer_id": "1634",
+    "car_id": "27635740",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KY69DSU",
+        "registration_date": "02/09/2019",
+        "mileage": 83000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 11.7,
+        "rate_of_interest": 6.15,
+        "term": 60,
+        "regular_payment": 519.81,
+        "final_payment": 529.81,
+        "balloon": 0,
+        "total_amount_payable": 33848.6,
+        "total_charge_for_credit": 7348.6,
+        "amount_of_credit": 23850,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 529.81
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26500,
+        "total_price": 26500,
+        "deposit": 2650,
+        "balance": 23850,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 511.33,
+        "final_payment": 512.33,
+        "total_amount_payable": 33330.8,
+        "total_charge_for_credit": 6830.8,
+        "amount_of_credit": 23850,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T19:15:32.443Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.holdengroup.co.uk/used-car/nissan-micra-1l-ig-t/",
+    "dealer_id": "5997",
+    "car_id": "26954196",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Nissan",
+        "model": "MICRA",
+        "variant": "HATCHBACK",
+        "derivative": "1.0 IG-T 92 Tekna CVT",
+        "registration_number": "KM22EVC",
+        "registration_date": "28/07/2022",
+        "mileage": 32000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1249,
+        "balance": 11750,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 222.02,
+        "final_payment": 5497.49,
+        "total_amount_payable": 17403.45,
+        "total_charge_for_credit": 4404.45,
+        "amount_of_credit": 11750,
+        "lender": "Santander Consumer",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 14.9,
+        "residual": 5497.49,
+        "price_to_buy": 5497.49
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12999,
+        "total_price": 12999,
+        "deposit": 1249,
+        "balance": 11750,
+        "apr": 12.9,
+        "rate_of_interest": 6.72,
+        "term": 48,
+        "regular_payment": 310.55,
+        "final_payment": 310.55,
+        "total_amount_payable": 16155.4,
+        "total_charge_for_credit": 3156.4,
+        "amount_of_credit": 11750,
+        "lender": "Santander Consumer"
+      }
+    ]
+  }
+]

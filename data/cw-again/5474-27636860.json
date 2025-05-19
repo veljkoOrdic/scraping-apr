@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T18:26:53.002Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.horderns.co.uk/used-cars/used/suzuki-swift-1.2l-sz-l-dualjet-mhev-hatchback-5dr-hybrid-manual-euro-6-(82-bhp)-in-high-peak-derbyshire/70253",
+    "dealer_id": "5474",
+    "car_id": "27636860",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Suzuki",
+        "model": "SWIFT",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Dualjet 83 12V Hybrid SZ-L",
+        "registration_number": "YM72AUY",
+        "registration_date": "16/01/2023",
+        "mileage": 24720,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.52,
+        "term": 48,
+        "regular_payment": 277.48,
+        "final_payment": 277.48,
+        "total_amount_payable": 14568.54,
+        "total_charge_for_credit": 2073.54,
+        "amount_of_credit": 11245.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12495,
+        "total_price": 12495,
+        "deposit": 1249.5,
+        "balance": 11245.5,
+        "apr": 8.9,
+        "rate_of_interest": 8.53,
+        "term": 48,
+        "regular_payment": 210.51,
+        "final_payment": 4028,
+        "total_amount_payable": 15171.47,
+        "total_charge_for_credit": 2676.47,
+        "amount_of_credit": 11245.5,
+        "lender": "Black Horse",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 4.8,
+        "residual": 4018,
+        "price_to_buy": 4028
+      }
+    ]
+  }
+]

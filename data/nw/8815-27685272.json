@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-15T01:28:10.444Z",
+    "timestamp": "2025-05-15T18:30:50.358Z",
     "source": "new_vehicle_finance",
     "url": "https://www.westmotorcompanykingston.co.uk/used-land-rover-defender-new-malden-london-6849066",
     "dealer_id": "8815",
     "car_id": "27685272",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LR73EKH",
+        "registration_date": "28/09/2023",
+        "mileage": 17500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499,
+        "balance": 58496,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1227.86,
+        "final_payment": 1228.86,
+        "total_amount_payable": 80171.6,
+        "total_charge_for_credit": 15176.6,
+        "amount_of_credit": 58496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 64995,
+        "total_price": 64995,
+        "deposit": 6499,
+        "balance": 58496,
+        "apr": 9.9,
+        "rate_of_interest": 4.82,
+        "term": 49,
+        "regular_payment": 856.76,
+        "final_payment": 35844.4,
+        "total_amount_payable": 83467.88,
+        "total_charge_for_credit": 18472.88,
+        "amount_of_credit": 58496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.34,
+        "residual": 35843.4,
+        "price_to_buy": 35844.4
+      }
+    ]
   }
 ]

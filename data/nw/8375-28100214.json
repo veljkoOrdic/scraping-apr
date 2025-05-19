@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:36:39.257Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.platinumcarcentre.co.uk/used/cars/volkswagen/amarok/dc-tdi-ultimate-4motion-817",
+    "dealer_id": "8375",
+    "car_id": "28100214",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FG15OJN",
+        "registration_date": "17/04/2015",
+        "mileage": 75000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 2499.5,
+        "balance": 22495.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 482.3,
+        "final_payment": 482.3,
+        "total_amount_payable": 31437.5,
+        "total_charge_for_credit": 6442.5,
+        "amount_of_credit": 22495.5,
+        "lender": "Octane Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

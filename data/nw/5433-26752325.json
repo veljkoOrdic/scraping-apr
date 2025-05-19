@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:41:42.949Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcar.co.uk/used-cars/volvo/xc40-hybrid-electric-black-hatchback-KW72NTN",
+    "dealer_id": "5433",
+    "car_id": "26752325",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "KW72NTN",
+        "registration_date": "20/02/2023",
+        "mileage": 21659,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29499,
+        "total_price": 29499,
+        "deposit": 999,
+        "balance": 28500,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 740.54,
+        "final_payment": 750.54,
+        "total_amount_payable": 36554.92,
+        "total_charge_for_credit": 7055.92,
+        "amount_of_credit": 28500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29499,
+        "total_price": 29499,
+        "deposit": 999,
+        "balance": 28500,
+        "apr": 11.9,
+        "rate_of_interest": 11.9,
+        "term": 48,
+        "regular_payment": 502.05,
+        "final_payment": 14900,
+        "total_amount_payable": 39495.35,
+        "total_charge_for_credit": 9996.35,
+        "amount_of_credit": 28500,
+        "lender": "Evolution Funding",
+        "annual_mileage": 6000,
+        "contract_mileage": 24000,
+        "excess_mileage_rate": 0.07,
+        "residual": 14899,
+        "price_to_buy": 14900
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:30:29.608Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.thecarfinancehub.co.uk/used/cars/audi/e-tron/quattro-black-edition-404",
+    "dealer_id": "7359",
+    "car_id": "28028647",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "e-tron",
+        "variant": "ESTATE",
+        "derivative": "300kW 55 Quattro 95kWh Black Edition",
+        "registration_number": "HF71VPC",
+        "registration_date": "24/11/2021",
+        "mileage": 60791,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23999,
+        "total_price": 23999,
+        "deposit": 2399.9,
+        "balance": 21599.1,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 60,
+        "regular_payment": 425.16,
+        "final_payment": 9172.96,
+        "total_amount_payable": 36657.3,
+        "total_charge_for_credit": 12658.3,
+        "amount_of_credit": 21599.1,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 7.21,
+        "residual": 9172.96,
+        "price_to_buy": 9172.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23999,
+        "total_price": 23999,
+        "deposit": 2399.9,
+        "balance": 21599.1,
+        "apr": 16.9,
+        "rate_of_interest": 16.9,
+        "term": 60,
+        "regular_payment": 521.99,
+        "final_payment": 522.99,
+        "total_amount_payable": 33720.3,
+        "total_charge_for_credit": 9721.3,
+        "amount_of_credit": 21599.1,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

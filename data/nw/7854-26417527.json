@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:25:56.562Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bmvehicles.co.uk/details/used-car-in-letchworth-garden-city/mercedes-benz/eclass/2.0-e220d-amg-line-premium-plus-g-tronic+-euro-6-ss-2dr/1327941/",
+    "dealer_id": "7854",
+    "car_id": "26417527",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "PJ70MBO",
+        "registration_date": "14/01/2021",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 31850,
+        "total_price": 31850,
+        "deposit": 1000,
+        "balance": 30850,
+        "apr": 13.9,
+        "rate_of_interest": 7.25,
+        "term": 49,
+        "regular_payment": 815.9,
+        "final_payment": 825.9,
+        "balloon": 0,
+        "total_amount_payable": 40989.1,
+        "total_charge_for_credit": 9139.1,
+        "amount_of_credit": 30850,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 825.9
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 31850,
+        "total_price": 31850,
+        "deposit": 1000,
+        "balance": 30850,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 761.54,
+        "final_payment": 771.54,
+        "total_amount_payable": 38325.46,
+        "total_charge_for_credit": 6475.46,
+        "amount_of_credit": 30850,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

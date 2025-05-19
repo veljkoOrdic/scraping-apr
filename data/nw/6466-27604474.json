@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-15T01:28:14.635Z",
+    "timestamp": "2025-05-15T18:13:01.713Z",
     "source": "new_vehicle_finance",
     "url": "https://www.motorplanet.co.uk/used-aston-martin-vantage-greater-manchester-greater-manchester-6682974",
     "dealer_id": "6466",
     "car_id": "27604474",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "BX07MWU",
+        "registration_date": "28/04/2007",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28600,
+        "total_price": 28600,
+        "deposit": 2860,
+        "balance": 25740,
+        "apr": 11.9,
+        "rate_of_interest": 6.26,
+        "term": 60,
+        "regular_payment": 563.34,
+        "final_payment": 573.34,
+        "balloon": 0,
+        "total_amount_payable": 36670.4,
+        "total_charge_for_credit": 8070.4,
+        "amount_of_credit": 25740,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 573.34
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28600,
+        "total_price": 28600,
+        "deposit": 13600,
+        "balance": 15000,
+        "apr": 20.9,
+        "rate_of_interest": 11.21,
+        "term": 60,
+        "regular_payment": 390.18,
+        "final_payment": 390.18,
+        "total_amount_payable": 37010.8,
+        "total_charge_for_credit": 8410.8,
+        "amount_of_credit": 15000,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
   }
 ]

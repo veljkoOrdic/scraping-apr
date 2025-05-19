@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:14:26.284Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sjapprovedusedcars.co.uk/details/used-car-in-hinckley/fiat/panda/1.2-lounge-euro-5-5dr/1463054/",
+    "dealer_id": "8740",
+    "car_id": "28016644",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HF13OHJ",
+        "registration_date": "28/03/2013",
+        "mileage": 46466,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 449,
+        "balance": 4041,
+        "apr": 13.9,
+        "rate_of_interest": 7.32,
+        "term": 60,
+        "regular_payment": 92.01,
+        "final_payment": 102.01,
+        "balloon": 0,
+        "total_amount_payable": 5979.6,
+        "total_charge_for_credit": 1489.6,
+        "amount_of_credit": 4041,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 102.01
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4490,
+        "total_price": 4490,
+        "deposit": 449,
+        "balance": 4041,
+        "apr": 9.9,
+        "rate_of_interest": 5.08,
+        "term": 34,
+        "regular_payment": 135.96,
+        "final_payment": 136.96,
+        "total_amount_payable": 5072.64,
+        "total_charge_for_credit": 582.64,
+        "amount_of_credit": 4041,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

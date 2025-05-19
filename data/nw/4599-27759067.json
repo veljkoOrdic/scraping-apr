@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:02:03.479Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.solocars.co.uk/used-tesla-model-y-liverpool-merseyside-6856778",
+    "dealer_id": "4599",
+    "car_id": "27759067",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ71VBF",
+        "registration_date": "19/02/2022",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 1000,
+        "balance": 23995,
+        "apr": 9.9,
+        "rate_of_interest": 5.18,
+        "term": 60,
+        "regular_payment": 503.54,
+        "final_payment": 513.54,
+        "total_amount_payable": 31222.4,
+        "total_charge_for_credit": 6227.4,
+        "amount_of_credit": 23995,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24995,
+        "total_price": 24995,
+        "deposit": 1000,
+        "balance": 23995,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 49,
+        "regular_payment": 353.76,
+        "final_payment": 14567.5,
+        "total_amount_payable": 32547.98,
+        "total_charge_for_credit": 7552.98,
+        "amount_of_credit": 23995,
+        "lender": "Northridge Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.15,
+        "residual": 14557.5,
+        "price_to_buy": 14567.5
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T19:27:52.009Z",
+    "timestamp": "2025-05-15T15:39:33.419Z",
     "source": "new_vehicle_finance",
     "url": "https://www.braidwoodmotors.com/used-land-rover-defender-livingston-west-lothian-6478549",
     "dealer_id": "1142",
@@ -12,6 +12,27 @@
         "registration_date": "01/03/2024",
         "mileage": 9097,
         "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 71988,
+        "total_price": 71988,
+        "deposit": 0,
+        "balance": 71988,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1478.89,
+        "final_payment": 1479.89,
+        "total_amount_payable": 88734.4,
+        "total_charge_for_credit": 16746.4,
+        "amount_of_credit": 71988,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
       }
     ]
   }

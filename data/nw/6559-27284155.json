@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:23:32.840Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.imperials.co.uk/used-car-details/used-mini-countryman-16-john-cooper-works-auto-all-suv-absolute-black-automatic-petrol/id-202502289618959/",
+    "dealer_id": "6559",
+    "car_id": "27284155",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LC63SOU",
+        "registration_date": "20/01/2014",
+        "mileage": 44000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 12948,
+        "total_price": 12948,
+        "deposit": 4531,
+        "balance": 8417,
+        "apr": 9.9,
+        "rate_of_interest": 5.17,
+        "term": 60,
+        "regular_payment": 176.55,
+        "final_payment": 186.55,
+        "balloon": 0,
+        "total_amount_payable": 15134,
+        "total_charge_for_credit": 2186,
+        "amount_of_credit": 8417,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 186.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12948,
+        "total_price": 12948,
+        "deposit": 4531,
+        "balance": 8417,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 44,
+        "regular_payment": 227.18,
+        "final_payment": 228.18,
+        "total_amount_payable": 14527.92,
+        "total_charge_for_credit": 1579.92,
+        "amount_of_credit": 8417,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

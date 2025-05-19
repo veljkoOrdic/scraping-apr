@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:24:14.838Z",
+    "timestamp": "2025-05-15T14:44:07.536Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rdmdirect.co.uk/used-ford-roller-team-burton-on-trent-staffordshire-6095586",
     "dealer_id": "131",
@@ -12,6 +12,29 @@
         "registration_date": "16/06/2018",
         "mileage": 9096,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 47000,
+        "total_price": 47000,
+        "deposit": 300,
+        "balance": 46700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 1234.1,
+        "final_payment": 1244.1,
+        "balloon": 0,
+        "total_amount_payable": 59546.8,
+        "total_charge_for_credit": 12546.8,
+        "amount_of_credit": 46700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1244.1
       },
       {
         "type": "finance_hp",

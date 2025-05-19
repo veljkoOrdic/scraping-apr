@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:34:27.871Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.andmotorcompany.co.uk/used-hyundai-santa-fe-new-ollerton-nottinghamshire-6938273",
+    "dealer_id": "3564",
+    "car_id": "28017409",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NL66AZR",
+        "registration_date": "02/09/2016",
+        "mileage": 94125,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11990,
+        "total_price": 11990,
+        "deposit": 0,
+        "balance": 11990,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 267.88,
+        "final_payment": 268.88,
+        "total_amount_payable": 16073.8,
+        "total_charge_for_credit": 4083.8,
+        "amount_of_credit": 11990,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

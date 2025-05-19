@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:51:13.088Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.northernmotorhouse.co.uk/details/used-car-in-shipley/bmw/5series/2.0-525d-m-sport-touring-auto-euro-6-ss-5dr/1102378/",
+    "dealer_id": "6713",
+    "car_id": "25255901",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YH14DCX",
+        "registration_date": "27/03/2014",
+        "mileage": 149950,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 10.9,
+        "rate_of_interest": 5.64,
+        "term": 48,
+        "regular_payment": 206.56,
+        "final_payment": 216.56,
+        "balloon": 0,
+        "total_amount_payable": 10823.88,
+        "total_charge_for_credit": 1833.88,
+        "amount_of_credit": 8091,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 216.56
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8990,
+        "total_price": 8990,
+        "deposit": 899,
+        "balance": 8091,
+        "apr": 10.9,
+        "rate_of_interest": 5.65,
+        "term": 46,
+        "regular_payment": 213.97,
+        "final_payment": 214.97,
+        "total_amount_payable": 10742.62,
+        "total_charge_for_credit": 1752.62,
+        "amount_of_credit": 8091,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

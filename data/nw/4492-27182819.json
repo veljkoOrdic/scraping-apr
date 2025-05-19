@@ -1,62 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T02:52:40.222Z",
+    "timestamp": "2025-05-15T18:45:53.521Z",
     "source": "new_vehicle_finance",
     "url": "https://www.reverieautos.co.uk/used-kia-niro-hatfield-hertfordshire-6701203",
     "dealer_id": "4492",
     "car_id": "27182819",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "YP71ZHM",
-        "registration_date": "08/02/2022",
-        "mileage": 48074,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 14500,
-        "total_price": 14500,
-        "deposit": 2900,
-        "balance": 11600,
-        "apr": 9.9,
-        "rate_of_interest": 5.19,
-        "term": 60,
-        "regular_payment": 243.48,
-        "final_payment": 244.48,
-        "total_amount_payable": 17509.8,
-        "total_charge_for_credit": 3009.8,
-        "amount_of_credit": 11600,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 14500,
-        "total_price": 14500,
-        "deposit": 2900,
-        "balance": 11600,
-        "apr": 9.9,
-        "rate_of_interest": 4.85,
-        "term": 49,
-        "regular_payment": 187.22,
-        "final_payment": 6094,
-        "total_amount_payable": 17980.56,
-        "total_charge_for_credit": 3480.56,
-        "amount_of_credit": 11600,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.08,
-        "residual": 6093,
-        "price_to_buy": 6094
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

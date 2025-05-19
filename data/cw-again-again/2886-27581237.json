@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-16T14:01:50.510Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.fairviewautos.co.uk/details/used-car-in-orpington/audi/a3/1.4-tfsie-40-s-line-sportback-s-tronic-euro-6-ss-5dr-13kwh/1423538/",
+    "dealer_id": "2886",
+    "car_id": "27581237",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Audi",
+        "model": "A3",
+        "variant": "SPORTBACK",
+        "derivative": "40 TFSI e S Line S Tronic",
+        "registration_number": "LP21GMF",
+        "registration_date": "18/06/2021",
+        "mileage": 28000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 12.9,
+        "rate_of_interest": 12.2,
+        "term": 48,
+        "regular_payment": 312.1,
+        "final_payment": 10160,
+        "total_amount_payable": 27140.3,
+        "total_charge_for_credit": 7145.3,
+        "amount_of_credit": 17995.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 6.66,
+        "residual": 10160,
+        "price_to_buy": 10160
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999.5,
+        "balance": 17995.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 402.05,
+        "final_payment": 402.05,
+        "total_amount_payable": 26122.5,
+        "total_charge_for_credit": 6127.5,
+        "amount_of_credit": 17995.5,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

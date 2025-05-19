@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:22:02.173Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sourceanycar.com/used-mini-hatch-leeds-west-yorkshire-6863726",
+    "dealer_id": "6533",
+    "car_id": "27812744",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LB69HGK",
+        "registration_date": "02/12/2019",
+        "mileage": 44781,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11300,
+        "total_price": 11300,
+        "deposit": 1130,
+        "balance": 10170,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 213.46,
+        "final_payment": 214.46,
+        "total_amount_payable": 13938.6,
+        "total_charge_for_credit": 2638.6,
+        "amount_of_credit": 10170,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 11300,
+        "total_price": 11300,
+        "deposit": 1130,
+        "balance": 10170,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 54,
+        "regular_payment": 172.37,
+        "final_payment": 4173.66,
+        "total_amount_payable": 14439.27,
+        "total_charge_for_credit": 3139.27,
+        "amount_of_credit": 10170,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 8000,
+        "contract_mileage": 36000,
+        "excess_mileage_rate": 0.03,
+        "residual": 4172.66,
+        "price_to_buy": 4173.66
+      }
+    ]
+  }
+]

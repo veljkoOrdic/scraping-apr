@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:24:44.083Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.tgmcars.co.uk/used-peugeot-5008-darlington-county-durham-6888606",
+    "dealer_id": "8767",
+    "car_id": "27847281",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "5008",
+        "variant": "DIESEL ESTATE",
+        "derivative": "1.5 BlueHDi GT Premium EAT8",
+        "registration_number": "GD71CWM",
+        "registration_date": "19/02/2022",
+        "mileage": 13518,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649,
+        "balance": 23846,
+        "apr": 13.7,
+        "rate_of_interest": 13.7,
+        "term": 60,
+        "regular_payment": 449.96,
+        "final_payment": 8106.17,
+        "total_amount_payable": 37302.81,
+        "total_charge_for_credit": 10807.81,
+        "amount_of_credit": 23846,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 5.82,
+        "residual": 8106.17,
+        "price_to_buy": 8106.17
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26495,
+        "total_price": 26495,
+        "deposit": 2649,
+        "balance": 23846,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 522.03,
+        "final_payment": 522.03,
+        "total_amount_payable": 33970.8,
+        "total_charge_for_credit": 7475.8,
+        "amount_of_credit": 23846,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

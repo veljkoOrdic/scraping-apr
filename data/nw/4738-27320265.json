@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:44:34.876Z",
+    "timestamp": "2025-05-15T14:31:31.772Z",
     "source": "new_vehicle_finance",
     "url": "https://www.spirecarsltd.co.uk/details/used-car-in-middlesex/toyota/yaris/1.5-vvt-h-gr-sport-e-cvt-euro-6-ss-5dr/1402243/",
     "dealer_id": "4738",
@@ -12,6 +12,29 @@
         "registration_date": "23/07/2020",
         "mileage": 14531,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14490,
+        "total_price": 14490,
+        "deposit": 1449,
+        "balance": 13041,
+        "apr": 8.9,
+        "rate_of_interest": 4.64,
+        "term": 60,
+        "regular_payment": 267.78,
+        "final_payment": 277.78,
+        "balloon": 0,
+        "total_amount_payable": 17525.8,
+        "total_charge_for_credit": 3035.8,
+        "amount_of_credit": 13041,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 277.78
       },
       {
         "type": "finance_hp",
@@ -42,20 +65,20 @@
         "total_price": 14490,
         "deposit": 1449,
         "balance": 13041,
-        "apr": 9.9,
-        "rate_of_interest": 5.14,
-        "term": 49,
-        "regular_payment": 239.47,
-        "final_payment": 5153.5,
-        "balloon": 5152.5,
-        "total_amount_payable": 18097.06,
-        "total_charge_for_credit": 3607.06,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 236.409009877384,
+        "final_payment": 5112.66,
+        "balloon": 4866.25,
+        "total_amount_payable": 17672.88,
+        "total_charge_for_credit": 3182.88,
         "amount_of_credit": 13041,
-        "lender": "MI Vehicle Finance Limited",
+        "lender": "Close Brothers Motor Finance",
         "annual_mileage": 10000,
         "excess_mileage_rate": 0,
-        "residual": 5152.5,
-        "price_to_buy": 5153.5
+        "residual": 4866.25,
+        "price_to_buy": 5112.66
       },
       {
         "type": "finance_pcp",
@@ -68,17 +91,17 @@
         "apr": 8.9,
         "rate_of_interest": 4.41,
         "term": 49,
-        "regular_payment": 231.26,
-        "final_payment": 5196.46,
-        "total_amount_payable": 17745.94,
-        "total_charge_for_credit": 3255.94,
+        "regular_payment": 232.72,
+        "final_payment": 5112.6,
+        "total_amount_payable": 17732.16,
+        "total_charge_for_credit": 3242.16,
         "amount_of_credit": 13041,
         "lender": "Motonovo Finance Limited",
         "annual_mileage": 10000,
         "contract_mileage": 40833,
         "excess_mileage_rate": 0.06,
-        "residual": 5195.46,
-        "price_to_buy": 5196.46
+        "residual": 5111.6,
+        "price_to_buy": 5112.6
       }
     ]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:33:40.783Z",
+    "timestamp": "2025-05-15T19:15:41.956Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rosscars.co.uk/used-citroen-berlingo-swansea-glamorgan-5526770",
     "dealer_id": "6859",
@@ -12,6 +12,29 @@
         "registration_date": "05/06/2019",
         "mileage": 86653,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10194,
+        "total_price": 10194,
+        "deposit": 0,
+        "balance": 10194,
+        "apr": 11.9,
+        "rate_of_interest": 6.25,
+        "term": 60,
+        "regular_payment": 223.03,
+        "final_payment": 233.03,
+        "balloon": 0,
+        "total_amount_payable": 13391.8,
+        "total_charge_for_credit": 3197.8,
+        "amount_of_credit": 10194,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 233.03
       },
       {
         "type": "finance_hp",

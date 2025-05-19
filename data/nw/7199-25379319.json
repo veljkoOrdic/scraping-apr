@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:55:38.654Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.m4sales.co.uk/vehicle-details/used-ford-tourneo-custom-l2-320-ecoblue-titanium-9-seat-eb19evv-for-sale-minibus-centre-u6594/",
+    "dealer_id": "7199",
+    "car_id": "25379319",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "EB19EVV",
+        "registration_date": "27/08/2019",
+        "mileage": 80000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 21594,
+        "total_price": 21594,
+        "deposit": 0,
+        "balance": 21594,
+        "apr": 13.5,
+        "rate_of_interest": 6.7,
+        "term": 60,
+        "regular_payment": 488.25,
+        "final_payment": 488.25,
+        "balloon": 0,
+        "total_amount_payable": 29295,
+        "total_charge_for_credit": 7701,
+        "amount_of_credit": 21594,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 488.25
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 21594,
+        "total_price": 21594,
+        "deposit": 0,
+        "balance": 21594,
+        "apr": 13.9,
+        "rate_of_interest": 7.36,
+        "term": 60,
+        "regular_payment": 492.27,
+        "final_payment": 493.27,
+        "total_amount_payable": 29537.2,
+        "total_charge_for_credit": 7943.2,
+        "amount_of_credit": 21594,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

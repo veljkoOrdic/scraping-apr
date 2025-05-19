@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T18:52:00.660Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.slhsvansales.co.uk/used-ford-transit-connect-littlehampton-west-sussex-6341272",
+    "dealer_id": "8411",
+    "car_id": "25737143",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HS21BDV",
+        "registration_date": "27/05/2021",
+        "mileage": 95278,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 10434,
+        "total_price": 10434,
+        "deposit": 3478,
+        "balance": 6956,
+        "apr": 17.6,
+        "rate_of_interest": 8,
+        "term": 60,
+        "regular_payment": 170.47,
+        "final_payment": 170.47,
+        "balloon": 0,
+        "total_amount_payable": 13706.2,
+        "total_charge_for_credit": 3272.2,
+        "amount_of_credit": 6956,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 170.47
+      }
+    ]
+  }
+]

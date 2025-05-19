@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-14T18:12:52.748Z",
+    "timestamp": "2025-05-15T14:42:33.155Z",
     "source": "new_vehicle_finance",
     "url": "https://www.baskeyfields.co.uk/used-audi-rs3-stoke-on-trent-staffordshire-6775693",
     "dealer_id": "4828",
     "car_id": "27375475",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AK57ROM",
+        "registration_date": "17/02/2022",
+        "mileage": 8000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299,
+        "balance": 47696,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1022.58,
+        "final_payment": 1023.58,
+        "total_amount_payable": 66654.8,
+        "total_charge_for_credit": 13659.8,
+        "amount_of_credit": 47696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 52995,
+        "total_price": 52995,
+        "deposit": 5299,
+        "balance": 47696,
+        "apr": 10.9,
+        "rate_of_interest": 5.32,
+        "term": 49,
+        "regular_payment": 796.34,
+        "final_payment": 25218.21,
+        "total_amount_payable": 68741.53,
+        "total_charge_for_credit": 15746.53,
+        "amount_of_credit": 47696,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 25217.21,
+        "price_to_buy": 25218.21
+      }
+    ]
   }
 ]

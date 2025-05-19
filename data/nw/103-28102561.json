@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:34:30.569Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.ebbsfleetspecialistcars.co.uk/used-ford-mustang-gravesend-kent-6959970",
+    "dealer_id": "103",
+    "car_id": "28102561",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MO55TNG",
+        "registration_date": "31/01/2019",
+        "mileage": 1250,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46000,
+        "total_price": 46000,
+        "deposit": 4600,
+        "balance": 41400,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 924.99,
+        "final_payment": 925.99,
+        "total_amount_payable": 60100.4,
+        "total_charge_for_credit": 14100.4,
+        "amount_of_credit": 41400,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

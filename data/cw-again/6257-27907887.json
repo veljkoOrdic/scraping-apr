@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:57:25.109Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.monaghanbros.co.uk/used/ford/ranger/pick-up-double-cab-wildtrak-20-ecoblue-205-auto/enniskillen/county-fermanagh/246062",
+    "dealer_id": "6257",
+    "car_id": "27907887",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Ford",
+        "model": "RANGER",
+        "variant": "DIESEL",
+        "derivative": "Pick Up Double Cab Wildtrak 2.0 EcoBlue 205",
+        "registration_number": "XIG4822",
+        "registration_date": "30/01/2024",
+        "mileage": 24949,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43794,
+        "total_price": 43794,
+        "deposit": 10948.5,
+        "balance": 32845.5,
+        "apr": 11.9,
+        "rate_of_interest": 11.29,
+        "term": 48,
+        "regular_payment": 663.76,
+        "final_payment": 11565,
+        "total_amount_payable": 54373.98,
+        "total_charge_for_credit": 10579.98,
+        "amount_of_credit": 32845.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 11555,
+        "price_to_buy": 11565
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43794,
+        "total_price": 43794,
+        "deposit": 10948.5,
+        "balance": 32845.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.18,
+        "term": 48,
+        "regular_payment": 853.44,
+        "final_payment": 863.44,
+        "total_amount_payable": 51923.62,
+        "total_charge_for_credit": 8129.62,
+        "amount_of_credit": 32845.5,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

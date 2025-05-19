@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:38:56.408Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradecarsandcommercials.co.uk/used-mitsubishi-l200-prudhoe-northumberland-6707511",
+    "dealer_id": "6641",
+    "car_id": "27526120",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NC21BHN",
+        "registration_date": "30/06/2021",
+        "mileage": 41000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29700,
+        "total_price": 29700,
+        "deposit": 0,
+        "balance": 29700,
+        "apr": 12.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 663.6,
+        "final_payment": 663.6,
+        "balloon": 0,
+        "total_amount_payable": 39816,
+        "total_charge_for_credit": 10116,
+        "amount_of_credit": 29700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 663.6
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29700,
+        "total_price": 29700,
+        "deposit": 0,
+        "balance": 29700,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 623.41,
+        "final_payment": 624.41,
+        "total_amount_payable": 37405.6,
+        "total_charge_for_credit": 7705.6,
+        "amount_of_credit": 29700,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

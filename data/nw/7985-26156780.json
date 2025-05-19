@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:41:52.893Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.colinludwellcars.co.uk/used-car-details/used-ford-transit-connect-15-200-ecoblue-limited-panel-panel-van-white-manual-diesel/id-5991/",
+    "dealer_id": "7985",
+    "car_id": "26156780",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "HN71XSU",
+        "registration_date": "21/10/2021",
+        "mileage": 74500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11400,
+        "total_price": 11400,
+        "deposit": 3325,
+        "balance": 8075,
+        "apr": 15.9,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 191.32,
+        "final_payment": 191.32,
+        "balloon": 0,
+        "total_amount_payable": 14804.2,
+        "total_charge_for_credit": 3404.2,
+        "amount_of_credit": 8075,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 191.32
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11400,
+        "total_price": 11400,
+        "deposit": 1425,
+        "balance": 8075,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 169.49,
+        "final_payment": 170.49,
+        "total_amount_payable": 13495.4,
+        "total_charge_for_credit": 2095.4,
+        "amount_of_credit": 8075,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

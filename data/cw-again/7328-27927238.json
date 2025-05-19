@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:28:35.491Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.autoprestigecars.co.uk/used/rolls-royce/cullinan/black-badge-5dr-autodap-onyx-upgrades/bradford/west-yorkshire/21592095",
+    "dealer_id": "7328",
+    "car_id": "27927238",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Rolls-Royce",
+        "model": "CULLINAN",
+        "variant": "ESTATE",
+        "derivative": "Black Badge",
+        "registration_number": "RR04MAJ",
+        "registration_date": "29/06/2020",
+        "mileage": 33000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 295000,
+        "total_price": 295000,
+        "deposit": 29500,
+        "balance": 265500,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 4558.35,
+        "final_payment": 93277.01,
+        "total_amount_payable": 391719.66,
+        "total_charge_for_credit": 96719.66,
+        "amount_of_credit": 265500,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 52.89,
+        "residual": 93277.01,
+        "price_to_buy": 93277.01
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 295000,
+        "total_price": 295000,
+        "deposit": 195000,
+        "balance": 100000,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2099.17,
+        "final_payment": 2100.17,
+        "total_amount_payable": 320951.2,
+        "total_charge_for_credit": 25951.2,
+        "amount_of_credit": 100000,
+        "lender": "Prestige Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

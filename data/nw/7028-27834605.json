@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:47:25.537Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.carterandhaines.co.uk/used/cars/bmw/1-series/1-5-118i-m-sport-lcp-hatchback-5dr-petrol-dct-euro-6-s-s-136-ps-315",
+    "dealer_id": "7028",
+    "car_id": "27834605",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FH73UPW",
+        "registration_date": "29/02/2024",
+        "mileage": 18235,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 453.31,
+        "final_payment": 454.31,
+        "total_amount_payable": 29599.1,
+        "total_charge_for_credit": 5604.1,
+        "amount_of_credit": 21595.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23995,
+        "total_price": 23995,
+        "deposit": 2399.5,
+        "balance": 21595.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 338.59,
+        "final_payment": 12174,
+        "total_amount_payable": 30487.23,
+        "total_charge_for_credit": 6492.23,
+        "amount_of_credit": 21595.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 12173,
+        "price_to_buy": 12174
+      }
+    ]
+  }
+]

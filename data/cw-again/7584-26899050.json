@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T16:51:59.163Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.regal-motors.co.uk/used-car-details/used-peugeot-e-308-54kwh-first-edition-auto-5dr-hatchback-selenium-grey-automatic-electric/id-202501288479036/",
+    "dealer_id": "7584",
+    "car_id": "26899050",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Peugeot",
+        "model": "308",
+        "variant": "E- ELECTRIC HATCHBACK SPECIAL EDITION",
+        "derivative": "115kW First Edition 54kWh",
+        "registration_number": "BN73PTO",
+        "registration_date": "30/01/2024",
+        "mileage": 4500,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 5199,
+        "balance": 20796,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 350.35,
+        "final_payment": 12375,
+        "total_amount_payable": 34390.8,
+        "total_charge_for_credit": 8395.8,
+        "amount_of_credit": 20796,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 12.5,
+        "residual": 12375,
+        "price_to_buy": 12375
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Conditional Sale",
+        "cash_price": 25995,
+        "total_price": 25995,
+        "deposit": 5199,
+        "balance": 20796,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 60,
+        "regular_payment": 464.65,
+        "final_payment": 464.65,
+        "total_amount_payable": 33078,
+        "total_charge_for_credit": 7083,
+        "amount_of_credit": 20796,
+        "lender": "Stellantis Financial Services"
+      }
+    ]
+  }
+]

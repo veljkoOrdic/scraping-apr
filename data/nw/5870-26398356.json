@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T22:30:14.347Z",
+    "timestamp": "2025-05-15T16:49:21.876Z",
     "source": "new_vehicle_finance",
     "url": "https://www.newmacharmotors.co.uk/vehicle-details/used-volkswagen-passat-tdi-r-line-for-sale-in-newmachar-aberdeenshire-u1416/",
     "dealer_id": "5870",
     "car_id": "26398356",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "FY67DLX",
-        "registration_date": "14/09/2017",
-        "mileage": 82000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 11995,
-        "total_price": 11995,
-        "deposit": 99,
-        "balance": 11896,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 255.03,
-        "final_payment": 256.03,
-        "total_amount_payable": 15401.8,
-        "total_charge_for_credit": 3406.8,
-        "amount_of_credit": 11896,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 12000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

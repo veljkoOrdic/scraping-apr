@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-14T18:37:55.493Z",
+    "timestamp": "2025-05-15T14:50:38.523Z",
     "source": "new_vehicle_finance",
     "url": "http://www.mcmullinmotors.co.uk/used/ssangyong/korando/22-cse-van-5dr-4wd/plymouth/devon/21156407",
     "dealer_id": "4974",
     "car_id": "23134835",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "BV16VZS",
-        "registration_date": "28/06/2016",
-        "mileage": 35114,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 8495,
-        "total_price": 8495,
-        "deposit": 0,
-        "balance": 8495,
-        "apr": 21.9,
-        "rate_of_interest": 11.5,
-        "term": 48,
-        "regular_payment": 258.36,
-        "final_payment": 258.36,
-        "total_amount_payable": 12401.28,
-        "total_charge_for_credit": 3906.28,
-        "amount_of_credit": 8495,
-        "lender": "First Response Finance Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T18:23:58.464Z",
+    "timestamp": "2025-05-15T15:10:29.410Z",
     "source": "new_vehicle_finance",
     "url": "https://www.polesworth-garage.com/used-cars/mazda/mazda-6-2-0-sport-nav-4dr/",
     "dealer_id": "7286",
@@ -33,6 +33,29 @@
         "annual_mileage": 8000,
         "excess_mileage_rate": 0,
         "residual": 0
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 15495,
+        "total_price": 15495,
+        "deposit": 0,
+        "balance": 15495,
+        "apr": 9.9,
+        "rate_of_interest": 5.12,
+        "term": 48,
+        "regular_payment": 388.94,
+        "final_payment": 398.94,
+        "balloon": 0,
+        "total_amount_payable": 18679.12,
+        "total_charge_for_credit": 3184.12,
+        "amount_of_credit": 15495,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 398.94
       }
     ]
   }

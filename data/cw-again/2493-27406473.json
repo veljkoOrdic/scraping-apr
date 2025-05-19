@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:39:44.650Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.formbycarcentre.co.uk/details/used-car-in-liverpool/mini/electric/cooper-se-32.6kwh-level-3-auto-3dr/1408829/",
+    "dealer_id": "2493",
+    "car_id": "27406473",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "MINI",
+        "model": "HATCHBACK",
+        "variant": "ELECTRIC",
+        "derivative": "135kW Cooper S Level 3 33kWh",
+        "registration_number": "BD70WVO",
+        "registration_date": "04/12/2020",
+        "mileage": 28198,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 1200,
+        "balance": 10800,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 60,
+        "regular_payment": 162.9,
+        "final_payment": 5035.59,
+        "total_amount_payable": 15846.69,
+        "total_charge_for_credit": 3846.69,
+        "amount_of_credit": 10800,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 3.53,
+        "residual": 5035.59,
+        "price_to_buy": 5035.59
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12000,
+        "total_price": 12000,
+        "deposit": 1200,
+        "balance": 10800,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 226.71,
+        "final_payment": 226.71,
+        "total_amount_payable": 14802.6,
+        "total_charge_for_credit": 2802.6,
+        "amount_of_credit": 10800,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

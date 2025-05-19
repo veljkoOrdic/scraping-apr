@@ -1,62 +1,21 @@
 [
   {
-    "timestamp": "2025-04-14T22:43:39.785Z",
+    "timestamp": "2025-05-15T17:12:30.066Z",
     "source": "new_vehicle_finance",
     "url": "https://www.premiermotors.co.uk/ford/used/mg/mg-hs/15-t-gdi-phev-se-5dr-auto/newport/isle-of-wight/21526674",
     "dealer_id": "8165",
     "car_id": "25244307",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "HW24JUU",
-        "registration_date": "28/03/2024",
-        "mileage": 1000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 21690,
-        "total_price": 21690,
-        "deposit": 4338,
-        "balance": 17352,
-        "apr": 9.9,
-        "rate_of_interest": 5.13,
-        "term": 48,
-        "regular_payment": 435.73,
-        "final_payment": 436.73,
-        "total_amount_payable": 25254.04,
-        "total_charge_for_credit": 3564.04,
-        "amount_of_credit": 17352,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 6000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 21690,
-        "total_price": 21690,
-        "deposit": 4338,
-        "balance": 17352,
-        "apr": 9.9,
-        "rate_of_interest": 4.81,
-        "term": 49,
-        "regular_payment": 243.2,
-        "final_payment": 11273.5,
-        "total_amount_payable": 27285.1,
-        "total_charge_for_credit": 5595.1,
-        "amount_of_credit": 17352,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 6000,
-        "contract_mileage": 24500,
-        "excess_mileage_rate": 0.12,
-        "residual": 11272.5,
-        "price_to_buy": 11273.5
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.premierford.co.uk&usePersistedOptions=false&quoteeUid=566066b6-6a2b-4a0d-b025-7b36ec6dd183&class=car&condition=used&vrm=HW24JUU&registrationDate=28/03/2024&capId=103407&cashPrice=21290&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=3100&vehicleImageUrl=https://www.premiermotors.co.uk/media/images/191861570/mg-motor-uk-hs-hw24juu-0.jpg&term=48&cashDeposit=4258&annualDistance=6000&random=ju1xbr",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.premierford.co.uk&usePersistedOptions=false&quoteeUid=566066b6-6a2b-4a0d-b025-7b36ec6dd183&class=car&condition=used&vrm=HW24JUU&registrationDate=28%2F03%2F2024&capId=103407&cashPrice=21290&vatIncluded=true&vatQualifying=false&excludeVatAsDeposit=true&currentOdometerReading=3100&vehicleImageUrl=https%3A%2F%2Fwww.premiermotors.co.uk%2Fmedia%2Fimages%2F191861570%2Fmg-motor-uk-hs-hw24juu-0.jpg&term=48&cashDeposit=4258&annualDistance=6000&random=ju1xbr&origin=https%3A%2F%2Fwww.premiermotors.co.uk%2Fford%2Fused%2Fmg%2Fmg-hs%2F15-t-gdi-phev-se-5dr-auto%2Fnewport%2Fisle-of-wight%2F21526674&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7",
+        "https://newvehicle.com/public-platform/v1/funders"
+      ]
+    }
   }
 ]

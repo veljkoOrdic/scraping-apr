@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T18:39:00.540Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tradecarsandcommercials.co.uk/used-land-rover-defender-prudhoe-northumberland-4344709",
+    "dealer_id": "6641",
+    "car_id": "26310633",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD07HUA",
+        "registration_date": "19/06/2007",
+        "mileage": 30000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 28750,
+        "total_price": 28750,
+        "deposit": 1000,
+        "balance": 27750,
+        "apr": 12.9,
+        "rate_of_interest": 6.5,
+        "term": 60,
+        "regular_payment": 620.54,
+        "final_payment": 620.54,
+        "balloon": 0,
+        "total_amount_payable": 38232.4,
+        "total_charge_for_credit": 9482.4,
+        "amount_of_credit": 27750,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 620.54
+      }
+    ]
+  }
+]

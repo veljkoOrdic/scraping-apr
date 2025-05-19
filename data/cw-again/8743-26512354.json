@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:21:23.666Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.lakesideclassics.uk.com/cars/porsche/macan/2.0-t/1323713/",
+    "dealer_id": "8743",
+    "car_id": "26512354",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "MACAN",
+        "variant": "ESTATE",
+        "derivative": "5dr PDK",
+        "registration_number": "LV70XTW",
+        "registration_date": "28/11/2020",
+        "mileage": 14595,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 43491,
+        "total_price": 43491,
+        "deposit": 4349.1,
+        "balance": 39141.9,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 630.37,
+        "final_payment": 16968.77,
+        "total_amount_payable": 58509.7,
+        "total_charge_for_credit": 15018.7,
+        "amount_of_credit": 39141.9,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 6000,
+        "contract_mileage": 30000,
+        "excess_mileage_rate": 8.59,
+        "residual": 16967.77,
+        "price_to_buy": 16968.77
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 43491,
+        "total_price": 43491,
+        "deposit": 4349.1,
+        "balance": 39141.9,
+        "apr": 9.4,
+        "rate_of_interest": 9.02,
+        "term": 60,
+        "regular_payment": 812.86,
+        "final_payment": 812.86,
+        "total_amount_payable": 53120.7,
+        "total_charge_for_credit": 9629.7,
+        "amount_of_credit": 39141.9,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

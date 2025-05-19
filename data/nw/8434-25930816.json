@@ -1,12 +1,62 @@
 [
   {
-    "timestamp": "2025-04-15T00:05:04.669Z",
+    "timestamp": "2025-05-15T17:48:34.721Z",
     "source": "new_vehicle_finance",
     "url": "https://www.stonewallmotorsltd.co.uk/used-land-rover-range-rover-sport-newcastle-staffordshire-6270741",
     "dealer_id": "8434",
     "car_id": "25930816",
-    "data": {
-      "type": "not_found"
-    }
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WJ19CTK",
+        "registration_date": "30/05/2019",
+        "mileage": 74313,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899,
+        "balance": 26096,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 666.75,
+        "final_payment": 667.75,
+        "total_amount_payable": 34904,
+        "total_charge_for_credit": 5909,
+        "amount_of_credit": 26096,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 28995,
+        "total_price": 28995,
+        "deposit": 2899,
+        "balance": 26096,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 427.06,
+        "final_payment": 14618,
+        "total_amount_payable": 37588.82,
+        "total_charge_for_credit": 8593.82,
+        "amount_of_credit": 26096,
+        "lender": "Auto Union Finance Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.07,
+        "residual": 14617,
+        "price_to_buy": 14618
+      }
+    ]
   }
 ]

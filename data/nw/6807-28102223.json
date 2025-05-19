@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:03:54.029Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.powerlease.co.uk/used-audi-e-tron-gt-ampthill-bedfordshire-6959013",
+    "dealer_id": "6807",
+    "car_id": "28102223",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MT23LHP",
+        "registration_date": "13/04/2023",
+        "mileage": 40000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 40944,
+        "total_price": 40944,
+        "deposit": 4094,
+        "balance": 36850,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 773.5,
+        "final_payment": 774.5,
+        "total_amount_payable": 50505,
+        "total_charge_for_credit": 9561,
+        "amount_of_credit": 36850,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 40944,
+        "total_price": 40944,
+        "deposit": 4094,
+        "balance": 36850,
+        "apr": 9.9,
+        "rate_of_interest": 4.89,
+        "term": 49,
+        "regular_payment": 664.95,
+        "final_payment": 15248.5,
+        "total_amount_payable": 51260.1,
+        "total_charge_for_credit": 10316.1,
+        "amount_of_credit": 36850,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 15247.5,
+        "price_to_buy": 15248.5
+      }
+    ]
+  }
+]

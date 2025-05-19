@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:50:49.888Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.motormill.co.uk/used-ford-kuga-warrington-cheshire-6611908",
+    "dealer_id": "6691",
+    "car_id": "26742774",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DU69UKA",
+        "registration_date": "02/09/2019",
+        "mileage": 33024,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 12699,
+        "total_price": 12699,
+        "deposit": 1269,
+        "balance": 11430,
+        "apr": 10.9,
+        "rate_of_interest": 5.71,
+        "term": 60,
+        "regular_payment": 244.93,
+        "final_payment": 254.93,
+        "total_amount_payable": 15974.8,
+        "total_charge_for_credit": 3275.8,
+        "amount_of_credit": 11430,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

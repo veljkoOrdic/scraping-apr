@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:17:33.942Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thehertfordcarcompany.co.uk/used-porsche-cayenne-hertford-hertfordshire-6938936",
+    "dealer_id": "3137",
+    "car_id": "28027174",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AE22TFX",
+        "registration_date": "03/03/2022",
+        "mileage": 52082,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 53989,
+        "total_price": 53989,
+        "deposit": 5398,
+        "balance": 48591,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1019.95,
+        "final_payment": 1020.95,
+        "total_amount_payable": 66596,
+        "total_charge_for_credit": 12607,
+        "amount_of_credit": 48591,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 53989,
+        "total_price": 53989,
+        "deposit": 5398,
+        "balance": 48591,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 794.66,
+        "final_payment": 24916.97,
+        "total_amount_payable": 68458.65,
+        "total_charge_for_credit": 14469.65,
+        "amount_of_credit": 48591,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.26,
+        "residual": 24915.97,
+        "price_to_buy": 24916.97
+      }
+    ]
+  }
+]

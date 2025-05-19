@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-14T17:23:38.419Z",
+    "timestamp": "2025-05-15T14:44:02.755Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rdmdirect.co.uk/used-land-rover-defender-90-td-xs-burton-on-trent-staffordshire-5791986",
     "dealer_id": "131",
@@ -12,6 +12,29 @@
         "registration_date": "13/10/2015",
         "mileage": 50096,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 34000,
+        "total_price": 34000,
+        "deposit": 300,
+        "balance": 33700,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 890.52,
+        "final_payment": 900.52,
+        "balloon": 0,
+        "total_amount_payable": 43054.96,
+        "total_charge_for_credit": 9054.96,
+        "amount_of_credit": 33700,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 900.52
       },
       {
         "type": "finance_hp",

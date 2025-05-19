@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:32:47.778Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1337804/used-kia-sportage-1-6-3-phev-5dr-automatic-rochdale",
+    "dealer_id": "6611",
+    "car_id": "25215142",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MJ73WYB",
+        "registration_date": "29/09/2023",
+        "mileage": 5374,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30494,
+        "total_price": 30494,
+        "deposit": 10672.9,
+        "balance": 19821.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 497.75,
+        "final_payment": 497.75,
+        "total_amount_payable": 34564.9,
+        "total_charge_for_credit": 4070.9,
+        "amount_of_credit": 19821.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30494,
+        "total_price": 30494,
+        "deposit": 10672.9,
+        "balance": 19821.1,
+        "apr": 9.9,
+        "rate_of_interest": 5.14,
+        "term": 49,
+        "regular_payment": 229.65,
+        "final_payment": 15697.52,
+        "total_amount_payable": 37393.62,
+        "total_charge_for_credit": 6899.62,
+        "amount_of_credit": 19821.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 15697.52,
+        "price_to_buy": 15697.52
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:38:32.704Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.browncars.co.uk/used-volvo-xc60-newry-northern-ireland-6368047",
+    "dealer_id": "9001",
+    "car_id": "25783325",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "FV67LDZ",
+        "registration_date": "12/12/2017",
+        "mileage": 81000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 17995,
+        "total_price": 17995,
+        "deposit": 1799,
+        "balance": 16196,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 347.23,
+        "final_payment": 348.23,
+        "total_amount_payable": 22633.8,
+        "total_charge_for_credit": 4638.8,
+        "amount_of_credit": 16196,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

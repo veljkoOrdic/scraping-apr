@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:10:48.365Z",
+    "source": "new_vehicle_finance",
+    "url": "https://hothatches.co.uk/listings/cp72bzb/",
+    "dealer_id": "7738",
+    "car_id": "27844921",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CP72BZB",
+        "registration_date": "05/12/2022",
+        "mileage": 3194,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 666.11,
+        "final_payment": 667.11,
+        "total_amount_payable": 34973.78,
+        "total_charge_for_credit": 4978.78,
+        "amount_of_credit": 26995.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 480.32,
+        "final_payment": 11071,
+        "total_amount_payable": 36645.54,
+        "total_charge_for_credit": 6650.54,
+        "amount_of_credit": 26995.5,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 0.15,
+        "residual": 11070,
+        "price_to_buy": 11071
+      }
+    ]
+  }
+]

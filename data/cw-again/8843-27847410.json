@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:29:43.902Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.jamesnuttcars.co.uk/details/used-van-in-redditch/volkswagen/transporter/2.0-bitdi-t32-sportline-kombi-dsg-fwd-swb-euro-6-ss-5dr/1446669/",
+    "dealer_id": "8843",
+    "car_id": "27847410",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Volkswagen",
+        "model": "TRANSPORTER",
+        "variant": "T32 SWB DIESEL",
+        "derivative": "2.0 BiTDI 204 Sportline Kombi Van DSG",
+        "registration_number": "VO73OKK",
+        "registration_date": "20/09/2023",
+        "mileage": 7525,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 70194,
+        "total_price": 70194,
+        "deposit": 11699,
+        "balance": 58495,
+        "apr": 12.9,
+        "rate_of_interest": 12.9,
+        "term": 49,
+        "regular_payment": 1332.35,
+        "final_payment": 13267,
+        "total_amount_payable": 88918.8,
+        "total_charge_for_credit": 18724.8,
+        "amount_of_credit": 58495,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 118,
+        "residual": 13267,
+        "price_to_buy": 13267
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 70194,
+        "total_price": 70194,
+        "deposit": 11699,
+        "balance": 58495,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 1227.91,
+        "final_payment": 1227.91,
+        "total_amount_payable": 85373.6,
+        "total_charge_for_credit": 15179.6,
+        "amount_of_credit": 58495,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:31:56.168Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.cjscarsales.co.uk/used/audi/q7/50-tdi-quattro-vorsprung-5dr-tiptronic/askam-in-furness/cumbria/21587726",
+    "dealer_id": "8840",
+    "car_id": "27859796",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VA68HVL",
+        "registration_date": "24/01/2019",
+        "mileage": 63965,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 34995,
+        "total_price": 34995,
+        "deposit": 3499.5,
+        "balance": 31495.5,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 682.33,
+        "final_payment": 683.33,
+        "total_amount_payable": 44440.3,
+        "total_charge_for_credit": 9445.3,
+        "amount_of_credit": 31495.5,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

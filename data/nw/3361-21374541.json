@@ -1,39 +1,18 @@
 [
   {
-    "timestamp": "2025-04-14T23:59:06.743Z",
+    "timestamp": "2025-05-15T17:29:16.820Z",
     "source": "new_vehicle_finance",
     "url": "https://www.mvmprestige.co.uk/used-mitsubishi-l200-dunfermline-fife-5337425",
     "dealer_id": "3361",
     "car_id": "21374541",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "DL67FKH",
-        "registration_date": "31/12/2017",
-        "mileage": 81000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 12500,
-        "total_price": 12500,
-        "deposit": 1250,
-        "balance": 11250,
-        "apr": 10.9,
-        "rate_of_interest": 5.71,
-        "term": 60,
-        "regular_payment": 241.07,
-        "final_payment": 251.07,
-        "total_amount_payable": 15724.2,
-        "total_charge_for_credit": 3224.2,
-        "amount_of_credit": 11250,
-        "lender": "Connected Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.mvmprestige.co.uk&quoteeUid=53EFB161CFCB48A5B001A44665BAC252&class=car&condition=used&vrm=DL67FKH&registrationDate=31%2F12%2F2017&capCode=&capId=&cashPrice=12500&currentOdometerReading=81000&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F5337%2F5337425%2Ffull%2F123688872.jpg&term=60&cashDeposit=1250&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=27%2F07%2F2023&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.mvmprestige.co.uk&quoteeUid=53EFB161CFCB48A5B001A44665BAC252&class=car&condition=used&vrm=DL67FKH&registrationDate=31%2F12%2F2017&capCode=&capId=&cashPrice=12500&currentOdometerReading=81000&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F5337%2F5337425%2Ffull%2F123688872.jpg&term=60&cashDeposit=1250&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=27%2F07%2F2023&usePersistedOptions=false&origin=https%3A%2F%2Fwww.mvmprestige.co.uk%2Fused-mitsubishi-l200-dunfermline-fife-5337425&widgetId=iv-finance-widget",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df"
+      ]
+    }
   }
 ]

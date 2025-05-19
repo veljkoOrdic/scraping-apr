@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:57:13.607Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.tvscars.co.uk/details/used-car-in-bridgnorth/nissan/x-trail/1.6-dci-tekna-euro-6-ss-5dr/1377062/",
+    "dealer_id": "6783",
+    "car_id": "27035804",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NA67CXT",
+        "registration_date": "20/10/2017",
+        "mileage": 76376,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 11484,
+        "total_price": 11484,
+        "deposit": 1148.4,
+        "balance": 10335.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 259.55,
+        "final_payment": 259.55,
+        "balloon": 0,
+        "total_amount_payable": 13606.8,
+        "total_charge_for_credit": 2122.8,
+        "amount_of_credit": 10335.6,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 259.55
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11484,
+        "total_price": 11484,
+        "deposit": 1148.4,
+        "balance": 10335.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.13,
+        "term": 48,
+        "regular_payment": 259.53,
+        "final_payment": 260.53,
+        "total_amount_payable": 13606.84,
+        "total_charge_for_credit": 2122.84,
+        "amount_of_credit": 10335.6,
+        "lender": "MI Vehicle Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

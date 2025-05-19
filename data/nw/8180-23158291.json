@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:16:07.783Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.platinumcarsalesltd.co.uk/used-cars/merthyr-tydfil-nissan-x-trail-tekna-dci-2286/",
+    "dealer_id": "8180",
+    "car_id": "23158291",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SK60MPF",
+        "registration_date": "30/09/2010",
+        "mileage": 159000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 17.6,
+        "rate_of_interest": 6.75,
+        "term": 48,
+        "regular_payment": 128.2,
+        "final_payment": 128.2,
+        "balloon": 0,
+        "total_amount_payable": 6653.1,
+        "total_charge_for_credit": 1658.1,
+        "amount_of_credit": 4495.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 128.2
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499.5,
+        "balance": 4495.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.1,
+        "term": 40,
+        "regular_payment": 131.51,
+        "final_payment": 131.51,
+        "total_amount_payable": 5759.9,
+        "total_charge_for_credit": 764.9,
+        "amount_of_credit": 4495.5,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T02:55:03.835Z",
+    "timestamp": "2025-05-15T19:04:08.909Z",
     "source": "new_vehicle_finance",
     "url": "https://www.cars4youltd.co.uk/used-bmw-x5-broxburn-west-lothian-4130605",
     "dealer_id": "6813",
@@ -12,6 +12,29 @@
         "registration_date": "24/11/2010",
         "mileage": 95000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 999,
+        "balance": 8996,
+        "apr": 11.8,
+        "rate_of_interest": 5.25,
+        "term": 60,
+        "regular_payment": 196.66,
+        "final_payment": 196.66,
+        "balloon": 0,
+        "total_amount_payable": 12798.6,
+        "total_charge_for_credit": 2803.6,
+        "amount_of_credit": 8996,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 196.66
       }
     ]
   }

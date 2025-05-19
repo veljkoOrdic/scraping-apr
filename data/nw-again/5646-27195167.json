@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:04:50.543Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.jjmotors.co.uk/used/ford/kuga/25-fhev-st-line-5dr-cvt/llanelli/carmarthenshire/21548641",
+    "dealer_id": "5646",
+    "car_id": "27195167",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "YM24ODS",
+        "registration_date": "08/06/2024",
+        "mileage": 2850,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099.5,
+        "balance": 27895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.85,
+        "term": 61,
+        "regular_payment": 603.24,
+        "final_payment": 604.24,
+        "total_amount_payable": 39294.9,
+        "total_charge_for_credit": 8299.9,
+        "amount_of_credit": 27895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30995,
+        "total_price": 30995,
+        "deposit": 3099.5,
+        "balance": 27895.5,
+        "apr": 10.9,
+        "rate_of_interest": 5.38,
+        "term": 49,
+        "regular_payment": 522.03,
+        "final_payment": 11388.17,
+        "total_amount_payable": 39545.11,
+        "total_charge_for_credit": 8550.11,
+        "amount_of_credit": 27895.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 11387.17,
+        "price_to_buy": 11388.17
+      }
+    ]
+  }
+]

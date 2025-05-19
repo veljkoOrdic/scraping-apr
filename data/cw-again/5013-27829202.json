@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-15T17:37:23.551Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.magariautomotive.co.uk/showroom/listing/6247515/2022-porsche-cayenne-gts/",
+    "dealer_id": "5013",
+    "car_id": "27829202",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Porsche",
+        "model": "CAYENNE",
+        "variant": "ESTATE",
+        "derivative": "GTS Tiptronic S",
+        "registration_number": "BG72YYT",
+        "registration_date": "08/12/2022",
+        "mileage": 33900,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 75980,
+        "total_price": 75980,
+        "deposit": 7598,
+        "balance": 68382,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 60,
+        "regular_payment": 1187.57,
+        "final_payment": 22979.28,
+        "total_amount_payable": 100643.91,
+        "total_charge_for_credit": 24663.91,
+        "amount_of_credit": 68382,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 10000,
+        "contract_mileage": 50000,
+        "excess_mileage_rate": 14.16,
+        "residual": 22978.28,
+        "price_to_buy": 22979.28
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 75980,
+        "total_price": 75980,
+        "deposit": 7598,
+        "balance": 68382,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 1466.22,
+        "final_payment": 1476.22,
+        "total_amount_payable": 95581.2,
+        "total_charge_for_credit": 19601.2,
+        "amount_of_credit": 68382,
+        "lender": "Close Motor Finance"
+      }
+    ]
+  }
+]

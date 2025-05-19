@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:21:02.475Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hewaswatergarage.com/details/used-car-in-pl26-7jf/bmw/x3/2.0-30e-12kwh-m-sport-auto-xdrive-euro-6-ss-5dr/1453824/",
+    "dealer_id": "1780",
+    "car_id": "27922760",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WL24DZU",
+        "registration_date": "29/07/2024",
+        "mileage": 3000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 812.24,
+        "final_payment": 813.24,
+        "total_amount_payable": 53034.9,
+        "total_charge_for_credit": 10039.9,
+        "amount_of_credit": 38695.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 42995,
+        "total_price": 42995,
+        "deposit": 4299.5,
+        "balance": 38695.5,
+        "apr": 9.9,
+        "rate_of_interest": 4.85,
+        "term": 49,
+        "regular_payment": 633.26,
+        "final_payment": 19817.5,
+        "total_amount_payable": 54513.48,
+        "total_charge_for_credit": 11518.48,
+        "amount_of_credit": 38695.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.2,
+        "residual": 19816.5,
+        "price_to_buy": 19817.5
+      }
+    ]
+  }
+]

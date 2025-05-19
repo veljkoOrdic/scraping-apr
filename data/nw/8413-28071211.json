@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T17:44:02.854Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.vanza.co.uk/used-mercedes-benz-gle-cardiff-glamorgan-6397864",
+    "dealer_id": "8413",
+    "car_id": "28071211",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CK69XLX",
+        "registration_date": "27/01/2020",
+        "mileage": 61000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 41993,
+        "total_price": 41993,
+        "deposit": 4199,
+        "balance": 37794,
+        "apr": 10.9,
+        "rate_of_interest": 5.72,
+        "term": 60,
+        "regular_payment": 810.17,
+        "final_payment": 820.17,
+        "balloon": 0,
+        "total_amount_payable": 52819.2,
+        "total_charge_for_credit": 10826.2,
+        "amount_of_credit": 37794,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 820.17
+      }
+    ]
+  }
+]

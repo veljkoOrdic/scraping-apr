@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:11:43.769Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.westmotorcompanykingston.co.uk/used-land-rover-range-rover-sport-new-malden-london-6369965",
+    "dealer_id": "8815",
+    "car_id": "25791111",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ71LKF",
+        "registration_date": "18/02/2022",
+        "mileage": 27300,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699,
+        "balance": 33296,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 698.9,
+        "final_payment": 699.9,
+        "total_amount_payable": 45634,
+        "total_charge_for_credit": 8639,
+        "amount_of_credit": 33296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 36995,
+        "total_price": 36995,
+        "deposit": 3699,
+        "balance": 33296,
+        "apr": 9.9,
+        "rate_of_interest": 4.86,
+        "term": 49,
+        "regular_payment": 563.15,
+        "final_payment": 15983.15,
+        "total_amount_payable": 46713.35,
+        "total_charge_for_credit": 9718.35,
+        "amount_of_credit": 33296,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.14,
+        "residual": 15982.15,
+        "price_to_buy": 15983.15
+      }
+    ]
+  }
+]

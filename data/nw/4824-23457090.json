@@ -1,39 +1,23 @@
 [
   {
-    "timestamp": "2025-04-14T18:00:26.831Z",
+    "timestamp": "2025-05-15T14:38:21.081Z",
     "source": "new_vehicle_finance",
     "url": "https://www.johnkilkennycars.co.uk/used-ford-focus-edinburgh-scotland-4507377",
     "dealer_id": "4824",
     "car_id": "23457090",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "EK59PFY",
-        "registration_date": "30/09/2009",
-        "mileage": 69000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 4495,
-        "total_price": 4495,
-        "deposit": 0,
-        "balance": 4495,
-        "apr": 21.9,
-        "rate_of_interest": 11.77,
-        "term": 60,
-        "regular_payment": 119.01,
-        "final_payment": 119.01,
-        "total_amount_payable": 7140.6,
-        "total_charge_for_credit": 2645.6,
-        "amount_of_credit": 4495,
-        "lender": "First Response Finance Ltd",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.johnkilkennycars.co.uk&quoteeUid=FDEC5678A55C4342B72E145831E17525&class=car&condition=used&vrm=EK59PFY&registrationDate=30%2F09%2F2009&capCode=&capId=&cashPrice=4495&currentOdometerReading=69000&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F4507%2F4507377%2Ffull%2F136589128.jpg&term=60&cashDeposit=0&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=23%2F07%2F2022&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.johnkilkennycars.co.uk&quoteeUid=FDEC5678A55C4342B72E145831E17525&class=car&condition=used&vrm=EK59PFY&registrationDate=30%2F09%2F2009&capCode=&capId=&cashPrice=4495&currentOdometerReading=69000&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F4507%2F4507377%2Ffull%2F136589128.jpg&term=60&cashDeposit=0&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=23%2F07%2F2022&usePersistedOptions=false&origin=https%3A%2F%2Fwww.johnkilkennycars.co.uk%2Fused-ford-focus-edinburgh-scotland-4507377&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df",
+        "https://newvehicle.com/uilog/logs/5a3f001f-de96-4e50-800f-192744a797a7"
+      ]
+    }
   }
 ]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:06:23.165Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.carcogroup.co.uk/used-car-details/used-alpine-a110-18l-turbo-300-gt-2dr-dct-automatic-petrol/id-210151033/",
+    "dealer_id": "7075",
+    "car_id": "27768934",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Alpine",
+        "model": "A110",
+        "variant": "COUPE",
+        "derivative": "1.8L Turbo 300 GT DCT",
+        "registration_number": "PL22XEE",
+        "registration_date": "20/06/2022",
+        "mileage": 12843,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 46750,
+        "total_price": 46750,
+        "deposit": 9350,
+        "balance": 37400,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 509.27,
+        "final_payment": 22356,
+        "total_amount_payable": 56150.96,
+        "total_charge_for_credit": 9400.96,
+        "amount_of_credit": 37400,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 8,
+        "residual": 22356,
+        "price_to_buy": 22356
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 46750,
+        "total_price": 46750,
+        "deposit": 9350,
+        "balance": 37400,
+        "apr": 7.9,
+        "rate_of_interest": 7.9,
+        "term": 48,
+        "regular_payment": 906.52,
+        "final_payment": 906.52,
+        "total_amount_payable": 52862.96,
+        "total_charge_for_credit": 6112.96,
+        "amount_of_credit": 37400,
+        "lender": "Mobilize Financial Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

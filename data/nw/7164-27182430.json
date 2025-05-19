@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:24.654Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-tucson-ultimate-hybrid-auto-5-door-black/ds71lnu",
+    "dealer_id": "7164",
+    "car_id": "27182430",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DS71LNU",
+        "registration_date": "31/01/2022",
+        "mileage": 11010,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 26921,
+        "total_price": 26921,
+        "deposit": 0,
+        "balance": 26921,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 601.5,
+        "final_payment": 601.5,
+        "total_amount_payable": 36090,
+        "total_charge_for_credit": 9169,
+        "amount_of_credit": 26921,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 26921,
+        "total_price": 26921,
+        "deposit": 0,
+        "balance": 26921,
+        "apr": 12.9,
+        "rate_of_interest": 6.68,
+        "term": 43,
+        "regular_payment": 575,
+        "final_payment": 11342.65,
+        "total_amount_payable": 35492.65,
+        "total_charge_for_credit": 8571.65,
+        "amount_of_credit": 26921,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 28667,
+        "excess_mileage_rate": 0.149,
+        "residual": 11342.65,
+        "price_to_buy": 11342.65
+      }
+    ]
+  }
+]

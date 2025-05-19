@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T01:04:10.341Z",
+    "timestamp": "2025-05-15T18:04:13.623Z",
     "source": "new_vehicle_finance",
     "url": "https://www.kingsroadgarage.co.uk/vehicle-details/used-land-rover-range-rover-velar-si6-v6-r-dynamic-hse-for-sale-in-hertfordshire-u5197/",
     "dealer_id": "6375",
@@ -12,6 +12,29 @@
         "registration_date": "04/09/2017",
         "mileage": 28040,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 29995,
+        "total_price": 29995,
+        "deposit": 2999.5,
+        "balance": 26995.5,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 603.04,
+        "final_payment": 613.04,
+        "balloon": 0,
+        "total_amount_payable": 39191.9,
+        "total_charge_for_credit": 9196.9,
+        "amount_of_credit": 26995.5,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 613.04
       }
     ]
   }

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:11:38.578Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.johnkeeble.co.uk/used-audi-a3-ipswich-suffolk-6340743",
+    "dealer_id": "1634",
+    "car_id": "25706490",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AX18HVO",
+        "registration_date": "22/07/2018",
+        "mileage": 22810,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 16799,
+        "total_price": 16799,
+        "deposit": 1679,
+        "balance": 15120,
+        "apr": 11.7,
+        "rate_of_interest": 6.15,
+        "term": 60,
+        "regular_payment": 329.5,
+        "final_payment": 339.5,
+        "balloon": 0,
+        "total_amount_payable": 21459,
+        "total_charge_for_credit": 4660,
+        "amount_of_credit": 15120,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 339.5
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 16799,
+        "total_price": 16799,
+        "deposit": 1679,
+        "balance": 15120,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 324.16,
+        "final_payment": 325.16,
+        "total_amount_payable": 21129.6,
+        "total_charge_for_credit": 4330.6,
+        "amount_of_credit": 15120,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

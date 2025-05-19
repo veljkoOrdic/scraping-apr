@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:42:17.380Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sandles.co.uk/used-cars/porsche/taycan/performance-plus-934kwh-turbo-auto-4wd-4dr/lx70oal",
+    "dealer_id": "2228",
+    "car_id": "26615767",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX70OAL",
+        "registration_date": "29/10/2020",
+        "mileage": 44000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 924.31,
+        "final_payment": 934.31,
+        "total_amount_payable": 60468.5,
+        "total_charge_for_credit": 10469.5,
+        "amount_of_credit": 44999.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49999,
+        "total_price": 49999,
+        "deposit": 4999.9,
+        "balance": 44999.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 754.28,
+        "final_payment": 20440,
+        "total_amount_payable": 61645.34,
+        "total_charge_for_credit": 11646.34,
+        "amount_of_credit": 44999.1,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.22,
+        "residual": 20430,
+        "price_to_buy": 20440
+      }
+    ]
+  }
+]

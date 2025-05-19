@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T16:10:01.761Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.newmacharmotors.co.uk/vehicle-details/used-audi-tts-tfsi-black-edition-for-sale-in-newmachar-aberdeenshire-u1465/",
+    "dealer_id": "5870",
+    "car_id": "27419396",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "SW67TSX",
+        "registration_date": "31/10/2017",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 99,
+        "balance": 22896,
+        "apr": 11.4,
+        "rate_of_interest": 5.99,
+        "term": 60,
+        "regular_payment": 495.91,
+        "final_payment": 505.91,
+        "balloon": 0,
+        "total_amount_payable": 29863.6,
+        "total_charge_for_credit": 6868.6,
+        "amount_of_credit": 22896,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 505.91
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22995,
+        "total_price": 22995,
+        "deposit": 99,
+        "balance": 22896,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 490.87,
+        "final_payment": 491.87,
+        "total_amount_payable": 29552.2,
+        "total_charge_for_credit": 6557.2,
+        "amount_of_credit": 22896,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 12000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

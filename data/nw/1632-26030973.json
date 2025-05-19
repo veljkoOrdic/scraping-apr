@@ -1,8 +1,8 @@
 [
   {
-    "timestamp": "2025-04-14T20:50:41.974Z",
+    "timestamp": "2025-05-15T16:11:19.302Z",
     "source": "new_vehicle_finance",
-    "url": "https://northparkcarsales.co.uk/vehicle/name/jaguar-xe-r-dynamic-s-balance-after-1000-minimum-px-allowance-14990-tc-apply/",
+    "url": "https://northparkcarsales.co.uk/vehicle/name/jaguar-xe-r-dynamic-s-diesel-automatic-apple-play-full-leather-sat-nav-balance-after-1000-minimum-px-allowance-14990-tc-apply/",
     "dealer_id": "1632",
     "car_id": "26030973",
     "data": [
@@ -12,6 +12,29 @@
         "registration_date": "30/09/2019",
         "mileage": 60000,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 14990,
+        "total_price": 14990,
+        "deposit": 0,
+        "balance": 14990,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 328.14,
+        "final_payment": 328.14,
+        "balloon": 0,
+        "total_amount_payable": 19688.4,
+        "total_charge_for_credit": 4698.4,
+        "amount_of_credit": 14990,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 328.14
       },
       {
         "type": "finance_hp",

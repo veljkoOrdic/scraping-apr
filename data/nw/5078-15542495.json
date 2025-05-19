@@ -1,62 +1,22 @@
 [
   {
-    "timestamp": "2025-04-14T18:45:50.072Z",
+    "timestamp": "2025-05-15T14:54:30.557Z",
     "source": "new_vehicle_finance",
     "url": "https://www.heartysofpeterborough.co.uk/used-audi-a4-peterborough-cambridgeshire-3914200",
     "dealer_id": "5078",
     "car_id": "15542495",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "BN70UZH",
-        "registration_date": "28/09/2020",
-        "mileage": 18816,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 25990,
-        "total_price": 25990,
-        "deposit": 2599,
-        "balance": 23391,
-        "apr": 11.9,
-        "rate_of_interest": 6.19,
-        "term": 48,
-        "regular_payment": 607.91,
-        "final_payment": 608.91,
-        "total_amount_payable": 31779.68,
-        "total_charge_for_credit": 5789.68,
-        "amount_of_credit": 23391,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      },
-      {
-        "type": "finance_pcp",
-        "name": "PCP",
-        "finance_type": "PCP",
-        "cash_price": 25990,
-        "total_price": 25990,
-        "deposit": 2599,
-        "balance": 23391,
-        "apr": 11.9,
-        "rate_of_interest": 5.83,
-        "term": 49,
-        "regular_payment": 432.82,
-        "final_payment": 10663.14,
-        "total_amount_payable": 34037.5,
-        "total_charge_for_credit": 8047.5,
-        "amount_of_credit": 23391,
-        "lender": "Motonovo Finance Limited",
-        "annual_mileage": 10000,
-        "contract_mileage": 40833,
-        "excess_mileage_rate": 0.12,
-        "residual": 10662.14,
-        "price_to_buy": 10663.14
-      }
-    ]
+    "data": {
+      "type": "candidates",
+      "urls": [
+        "https://newvehicle.com/widgets/lib/finance-comparator/loader.js?username=www.heartysofpeterborough&quoteeUid=71E663719EEB47F999D7D1B8881241D3&class=car&condition=used&vrm=BN70UZH&registrationDate=28%2F09%2F2020&capCode=&capId=&cashPrice=25990&currentOdometerReading=18816&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F3914%2F3914200%2Ffull%2F85012740.jpg&term=48&cashDeposit=2599&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=22%2F10%2F2021&usePersistedOptions=false",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/env.json",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/?username=www.heartysofpeterborough&quoteeUid=71E663719EEB47F999D7D1B8881241D3&class=car&condition=used&vrm=BN70UZH&registrationDate=28%2F09%2F2020&capCode=&capId=&cashPrice=25990&currentOdometerReading=18816&vehicleImageUrl=https%3A%2F%2Fimages.clickdealer.co.uk%2Fvehicles%2F3914%2F3914200%2Ffull%2F85012740.jpg&term=48&cashDeposit=2599&cashDepositType=flatRate&vatIncluded=&vatQualifying=&annualDistance=10000&dateOnForecourt=22%2F10%2F2021&usePersistedOptions=false&origin=https%3A%2F%2Fwww.heartysofpeterborough.co.uk%2Fused-audi-a4-peterborough-cambridgeshire-3914200&widgetId=iv-finance-widget",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/css/main.1e7e0bf2.chunk.css",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/main.fe8220d3.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/static/js/2.df4f6e0e.chunk.js",
+        "https://newvehicle.com/widgets/lib/finance-comparator-convert/locales/en/translation.json",
+        "https://newvehicle.com/dataplane/sourceConfig/?p=npm&v=2.42.4&writeKey=1z8OfRgRfwPvpJ8cGoNxu82b6df"
+      ]
+    }
   }
 ]

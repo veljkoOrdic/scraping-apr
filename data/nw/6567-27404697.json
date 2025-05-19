@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:26:42.688Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.victoriamotorsltd.co.uk/used-hyundai-i30-nr-gillingham-dorset-6775126",
+    "dealer_id": "6567",
+    "car_id": "27404697",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "WO18OCS",
+        "registration_date": "20/06/2018",
+        "mileage": 64177,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9995,
+        "total_price": 9995,
+        "deposit": 499,
+        "balance": 9496,
+        "apr": 11.4,
+        "rate_of_interest": 5.98,
+        "term": 60,
+        "regular_payment": 205.6,
+        "final_payment": 215.6,
+        "total_amount_payable": 12845,
+        "total_charge_for_credit": 2850,
+        "amount_of_credit": 9496,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

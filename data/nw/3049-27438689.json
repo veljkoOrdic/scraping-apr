@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:10:59.529Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.xclusivexportsltd.co.uk/used-nissan-juke-bayford-hertfordshire-6772502",
+    "dealer_id": "3049",
+    "car_id": "27438689",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VA66VXB",
+        "registration_date": "20/01/2017",
+        "mileage": 45500,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 9950,
+        "total_price": 9950,
+        "deposit": 995,
+        "balance": 8955,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 183.96,
+        "final_payment": 184.96,
+        "total_amount_payable": 12033.6,
+        "total_charge_for_credit": 2083.6,
+        "amount_of_credit": 8955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

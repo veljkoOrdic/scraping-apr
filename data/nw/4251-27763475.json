@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:10:32.954Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.beckevans.co.uk/used-land-rover-range-rover-sport-sidcup-kent-6868872",
+    "dealer_id": "4251",
+    "car_id": "27763475",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NC23WCJ",
+        "registration_date": "19/07/2023",
+        "mileage": 10750,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 75996,
+        "total_price": 75996,
+        "deposit": 15996,
+        "balance": 60000,
+        "apr": 8.9,
+        "rate_of_interest": 4.65,
+        "term": 60,
+        "regular_payment": 1232.62,
+        "final_payment": 1233.62,
+        "total_amount_payable": 89954.2,
+        "total_charge_for_credit": 13958.2,
+        "amount_of_credit": 60000,
+        "lender": "Admiral Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 75996,
+        "total_price": 75996,
+        "deposit": 15199,
+        "balance": 60797,
+        "apr": 8.9,
+        "rate_of_interest": 4.36,
+        "term": 49,
+        "regular_payment": 908.38,
+        "final_payment": 33970.6,
+        "total_amount_payable": 92771.84,
+        "total_charge_for_credit": 16775.84,
+        "amount_of_credit": 60797,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.3,
+        "residual": 33969.6,
+        "price_to_buy": 33970.6
+      }
+    ]
+  }
+]

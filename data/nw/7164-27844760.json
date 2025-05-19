@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:05.808Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/toyota-yaris-icon-d-4d-5-door-blue/cu64mov",
+    "dealer_id": "7164",
+    "car_id": "27844760",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CU64MOV",
+        "registration_date": "29/09/2014",
+        "mileage": 19677,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 7625,
+        "total_price": 7625,
+        "deposit": 0,
+        "balance": 7625,
+        "apr": 12.9,
+        "rate_of_interest": 6.79,
+        "term": 60,
+        "regular_payment": 170.24,
+        "final_payment": 180.24,
+        "total_amount_payable": 10224.4,
+        "total_charge_for_credit": 2599.4,
+        "amount_of_credit": 7625,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

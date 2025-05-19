@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:42:22.588Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.baskeyfields.co.uk/used-volkswagen-golf-stoke-on-trent-staffordshire-6683410",
+    "dealer_id": "4828",
+    "car_id": "27109688",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DF67MYS",
+        "registration_date": "14/02/2018",
+        "mileage": 57841,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19995,
+        "total_price": 19995,
+        "deposit": 1999,
+        "balance": 17996,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 385.82,
+        "final_payment": 386.82,
+        "total_amount_payable": 25149.2,
+        "total_charge_for_credit": 5154.2,
+        "amount_of_credit": 17996,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

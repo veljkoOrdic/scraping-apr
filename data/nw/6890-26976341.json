@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:32:33.424Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.atmotorsessex.co.uk/cars/ford/c-max/1.6-tdci-zetec-euro-5-5dr/1372931/",
+    "dealer_id": "6890",
+    "car_id": "26976341",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LM61YYC",
+        "registration_date": "23/11/2011",
+        "mileage": 159000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 1799,
+        "total_price": 1799,
+        "deposit": 0,
+        "balance": 1799,
+        "apr": 22.9,
+        "rate_of_interest": 12.33,
+        "term": 60,
+        "regular_payment": 48.47,
+        "final_payment": 48.47,
+        "total_amount_payable": 2908.2,
+        "total_charge_for_credit": 1109.2,
+        "amount_of_credit": 1799,
+        "lender": "First Response Finance Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T18:32:56.219Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.premier-car.co.uk/detail/1352609/used-kia-sorento-1-6-4-5dr-automatic-dukinfield",
+    "dealer_id": "6611",
+    "car_id": "27241685",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MD24JXF",
+        "registration_date": "24/07/2024",
+        "mileage": 8612,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 44694,
+        "total_price": 44694,
+        "deposit": 15642.9,
+        "balance": 29051.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 48,
+        "regular_payment": 716.83,
+        "final_payment": 716.83,
+        "total_amount_payable": 50050.74,
+        "total_charge_for_credit": 5356.74,
+        "amount_of_credit": 29051.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 44694,
+        "total_price": 44694,
+        "deposit": 15642.9,
+        "balance": 29051.1,
+        "apr": 8.9,
+        "rate_of_interest": 4.61,
+        "term": 49,
+        "regular_payment": 367.09,
+        "final_payment": 20076.64,
+        "total_amount_payable": 53339.86,
+        "total_charge_for_credit": 8645.86,
+        "amount_of_credit": 29051.1,
+        "lender": "Kia Finance",
+        "annual_mileage": 6000,
+        "contract_mileage": 24500,
+        "excess_mileage_rate": 0.149,
+        "residual": 20076.64,
+        "price_to_buy": 20076.64
+      }
+    ]
+  }
+]

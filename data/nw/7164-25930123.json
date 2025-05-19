@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:54:19.728Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hutchings.co.uk/used-cars/hyundai-tucson-t-gdi-ultimate-dct-5-door-suv-grey/vu71fnm",
+    "dealer_id": "7164",
+    "car_id": "25930123",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "VU71FNM",
+        "registration_date": "28/10/2021",
+        "mileage": 14251,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24383,
+        "total_price": 24383,
+        "deposit": 0,
+        "balance": 24383,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 544.67,
+        "final_payment": 554.67,
+        "total_amount_payable": 32690.2,
+        "total_charge_for_credit": 8307.2,
+        "amount_of_credit": 24383,
+        "lender": "Evolution Funding",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 24383,
+        "total_price": 24383,
+        "deposit": 0,
+        "balance": 24383,
+        "apr": 12.9,
+        "rate_of_interest": 6.68,
+        "term": 43,
+        "regular_payment": 505.43,
+        "final_payment": 11081,
+        "total_amount_payable": 32309.06,
+        "total_charge_for_credit": 7926.06,
+        "amount_of_credit": 24383,
+        "lender": "Hyundai Finance",
+        "annual_mileage": 8000,
+        "contract_mileage": 28667,
+        "excess_mileage_rate": 0.149,
+        "residual": 11081,
+        "price_to_buy": 11081
+      }
+    ]
+  }
+]

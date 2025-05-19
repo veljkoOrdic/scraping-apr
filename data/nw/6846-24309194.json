@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2025-04-15T03:23:19.171Z",
+    "timestamp": "2025-05-15T19:14:03.478Z",
     "source": "new_vehicle_finance",
     "url": "https://www.lutontradecentre.com/used-porsche-911-luton-bedfordshire-4767009",
     "dealer_id": "6846",
@@ -12,6 +12,29 @@
         "registration_date": "29/09/2010",
         "mileage": 43761,
         "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 72995,
+        "total_price": 72995,
+        "deposit": 7299,
+        "balance": 65696,
+        "apr": 12.2,
+        "rate_of_interest": 6.43,
+        "term": 60,
+        "regular_payment": 1446.9,
+        "final_payment": 1456.9,
+        "balloon": 0,
+        "total_amount_payable": 94123,
+        "total_charge_for_credit": 21128,
+        "amount_of_credit": 65696,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 1456.9
       }
     ]
   }

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:49:00.338Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.thurlownunn.co.uk/used-cars/skoda-citigo-1-0-mpi-monte-carlo-hatchback-3dr-petrol-manual-euro-6-60-ps-3-door-hatchback-black/af65fsl",
+    "dealer_id": "5356",
+    "car_id": "27425325",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AF65FSL",
+        "registration_date": "10/09/2015",
+        "mileage": 53674,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 500,
+        "balance": 4499,
+        "apr": 13.9,
+        "rate_of_interest": 7.1,
+        "term": 27,
+        "regular_payment": 193.26,
+        "final_payment": 193.26,
+        "balloon": 0,
+        "total_amount_payable": 5718.02,
+        "total_charge_for_credit": 719.02,
+        "amount_of_credit": 4499,
+        "lender": "Stellantis Financial Services",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 193.26
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4999,
+        "total_price": 4999,
+        "deposit": 500,
+        "balance": 4499,
+        "apr": 13.9,
+        "rate_of_interest": 7.2,
+        "term": 48,
+        "regular_payment": 120.73,
+        "final_payment": 130.73,
+        "total_amount_payable": 6305.04,
+        "total_charge_for_credit": 1306.04,
+        "amount_of_credit": 4499,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

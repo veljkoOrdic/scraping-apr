@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:50:06.413Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.blackburnsuk.co.uk/used-audi-a6-darlington-county-durham-6104323",
+    "dealer_id": "8438",
+    "car_id": "24898906",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MV69RRZ",
+        "registration_date": "25/09/2019",
+        "mileage": 35000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 24450,
+        "total_price": 24450,
+        "deposit": 2445,
+        "balance": 22005,
+        "apr": 10.6,
+        "rate_of_interest": 5.57,
+        "term": 60,
+        "regular_payment": 468.8,
+        "final_payment": 469.8,
+        "total_amount_payable": 30574,
+        "total_charge_for_credit": 6124,
+        "amount_of_credit": 22005,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

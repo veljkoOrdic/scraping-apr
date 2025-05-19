@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:58:29.169Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.priddysmotorcompany.co.uk/cars/bmw/x5/3.0-x5-m50d360-camheads-up-displayambient-lightingelectric-boot/1466623/",
+    "dealer_id": "6287",
+    "car_id": "28067428",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "DN20LXJ",
+        "registration_date": "25/06/2020",
+        "mileage": 41933,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 41970,
+        "total_price": 41970,
+        "deposit": 4197,
+        "balance": 37773,
+        "apr": 15.9,
+        "rate_of_interest": 8.45,
+        "term": 60,
+        "regular_payment": 895.47,
+        "final_payment": 905.47,
+        "balloon": 0,
+        "total_amount_payable": 57935.2,
+        "total_charge_for_credit": 15965.2,
+        "amount_of_credit": 37773,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 905.47
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 41970,
+        "total_price": 41970,
+        "deposit": 4197,
+        "balance": 37773,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 809.83,
+        "final_payment": 810.83,
+        "total_amount_payable": 52787.8,
+        "total_charge_for_credit": 10817.8,
+        "amount_of_credit": 37773,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

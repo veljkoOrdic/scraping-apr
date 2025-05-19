@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T14:58:51.296Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.leicestervancentre.com/used-mercedes-benz-sprinter-leicester-leicestershire-6926533",
+    "dealer_id": "7211",
+    "car_id": "27974102",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "CA24ZGZ",
+        "registration_date": "17/07/2024",
+        "mileage": 14989,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39348,
+        "total_price": 39348,
+        "deposit": 13116,
+        "balance": 26232,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 562.41,
+        "final_payment": 562.41,
+        "total_amount_payable": 46860.6,
+        "total_charge_for_credit": 7512.6,
+        "amount_of_credit": 26232,
+        "lender": "Motion Finance (2017) Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

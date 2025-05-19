@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T19:19:00.653Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.safwatcars.co.uk/used-aston-martin-dbx-southend-on-sea-essex-6717164",
+    "dealer_id": "8738",
+    "car_id": "27130974",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Aston Martin",
+        "model": "DBX",
+        "variant": "ESTATE",
+        "derivative": "V8 550 Touchtronic",
+        "registration_number": "KX71YSU",
+        "registration_date": "01/10/2021",
+        "mileage": 15872,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 93990,
+        "total_price": 93990,
+        "deposit": 18798,
+        "balance": 75192,
+        "apr": 9.9,
+        "rate_of_interest": 9.47,
+        "term": 48,
+        "regular_payment": 1045.55,
+        "final_payment": 49323,
+        "total_amount_payable": 118307.4,
+        "total_charge_for_credit": 24317.4,
+        "amount_of_credit": 75192,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "contract_mileage": 32000,
+        "excess_mileage_rate": 22,
+        "residual": 49313,
+        "price_to_buy": 49323
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 93990,
+        "total_price": 93990,
+        "deposit": 18798,
+        "balance": 75192,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 48,
+        "regular_payment": 1888.23,
+        "final_payment": 1889.23,
+        "total_amount_payable": 109434.04,
+        "total_charge_for_credit": 15444.04,
+        "amount_of_credit": 75192,
+        "lender": "DSG Finance Services",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:06:19.381Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.shadow-automotive.co.uk/used-skoda-citigo-stamford-rutland-6946356",
+    "dealer_id": "8665",
+    "car_id": "28057516",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AJ15ESF",
+        "registration_date": "13/06/2015",
+        "mileage": 44432,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 4995,
+        "total_price": 4995,
+        "deposit": 499,
+        "balance": 4496,
+        "apr": 10.9,
+        "rate_of_interest": 5.66,
+        "term": 48,
+        "regular_payment": 114.86,
+        "final_payment": 115.86,
+        "total_amount_payable": 6013.28,
+        "total_charge_for_credit": 1018.28,
+        "amount_of_credit": 4496,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

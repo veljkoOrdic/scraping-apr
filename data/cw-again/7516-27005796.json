@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T16:44:52.454Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.silsoeprestigemotors.co.uk/used/cars/mercedes-benz/g-series/4-0-amg-g-63-4matic-auto-4wd-5dr-369",
+    "dealer_id": "7516",
+    "car_id": "27005796",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Mercedes-Benz",
+        "model": "G-Class",
+        "variant": "AMG STATION WAGON",
+        "derivative": "G63 9G-Tronic",
+        "registration_number": "YK20KNR",
+        "registration_date": "24/03/2020",
+        "mileage": 47000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 140294,
+        "total_price": 140294,
+        "deposit": 14029.4,
+        "balance": 126264.6,
+        "apr": 9.9,
+        "rate_of_interest": 9.9,
+        "term": 58,
+        "regular_payment": 2123.06,
+        "final_payment": 45966.44,
+        "total_amount_payable": 181010.26,
+        "total_charge_for_credit": 40716.26,
+        "amount_of_credit": 126264.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "contract_mileage": 48333,
+        "excess_mileage_rate": 28.53,
+        "residual": 45966.44,
+        "price_to_buy": 45966.44
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 140294,
+        "total_price": 140294,
+        "deposit": 14029.4,
+        "balance": 126264.6,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 2650.5,
+        "final_payment": 2650.5,
+        "total_amount_payable": 173059.4,
+        "total_charge_for_credit": 32765.4,
+        "amount_of_credit": 126264.6,
+        "lender": "Octane Ltd",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

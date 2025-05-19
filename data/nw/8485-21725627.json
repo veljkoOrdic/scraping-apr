@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:55:44.102Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.rightcarsayrshirescotland.co.uk/used/kia/ceed/10t-gdi-isg-2-5dr/saltcoats/ayrshire/20833834",
+    "dealer_id": "8485",
+    "car_id": "21725627",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LD19KTL",
+        "registration_date": "19/03/2019",
+        "mileage": 37000,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 11995,
+        "total_price": 11995,
+        "deposit": 1199.5,
+        "balance": 10795.5,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 236.31,
+        "final_payment": 237.31,
+        "total_amount_payable": 15379.1,
+        "total_charge_for_credit": 3384.1,
+        "amount_of_credit": 10795.5,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 8000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

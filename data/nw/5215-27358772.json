@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T15:11:19.410Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.sidegatemotorpark.com/details/used-car-in-great-yarmouth/peugeot/408/1.2-puretech-gt-fastback-eat-euro-6-ss-5dr/1012291/",
+    "dealer_id": "5215",
+    "car_id": "27358772",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "NG23MZL",
+        "registration_date": "03/07/2023",
+        "mileage": 7051,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 23600,
+        "total_price": 23600,
+        "deposit": 0,
+        "balance": 23600,
+        "apr": 12.9,
+        "rate_of_interest": 6.81,
+        "term": 60,
+        "regular_payment": 527.28,
+        "final_payment": 528.28,
+        "total_amount_payable": 31637.8,
+        "total_charge_for_credit": 8037.8,
+        "amount_of_credit": 23600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 23600,
+        "total_price": 23600,
+        "deposit": 0,
+        "balance": 23600,
+        "apr": 12.9,
+        "rate_of_interest": 6.33,
+        "term": 49,
+        "regular_payment": 464.85,
+        "final_payment": 9866.8,
+        "total_amount_payable": 32179.6,
+        "total_charge_for_credit": 8579.6,
+        "amount_of_credit": 23600,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.12,
+        "residual": 9865.8,
+        "price_to_buy": 9866.8
+      }
+    ]
+  }
+]

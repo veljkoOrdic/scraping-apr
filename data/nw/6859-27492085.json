@@ -1,39 +1,12 @@
 [
   {
-    "timestamp": "2025-04-15T03:33:06.335Z",
+    "timestamp": "2025-05-15T19:15:37.285Z",
     "source": "new_vehicle_finance",
     "url": "https://www.rosscars.co.uk/used-ford-b-max-swansea-glamorgan-6803673",
     "dealer_id": "6859",
     "car_id": "27492085",
-    "data": [
-      {
-        "type": "vehicle",
-        "registration_number": "CK64TBU",
-        "registration_date": "02/12/2014",
-        "mileage": 100000,
-        "status": "Used"
-      },
-      {
-        "type": "finance_hp",
-        "name": "HP",
-        "finance_type": "Hire Purchase",
-        "cash_price": 3995,
-        "total_price": 3995,
-        "deposit": 399,
-        "balance": 3596,
-        "apr": 10.9,
-        "rate_of_interest": 5.73,
-        "term": 60,
-        "regular_payment": 77.1,
-        "final_payment": 78.1,
-        "total_amount_payable": 5026,
-        "total_charge_for_credit": 1031,
-        "amount_of_credit": 3596,
-        "lender": "Admiral Car Finance",
-        "annual_mileage": 10000,
-        "excess_mileage_rate": 0,
-        "residual": 0
-      }
-    ]
+    "data": {
+      "type": "not_found"
+    }
   }
 ]

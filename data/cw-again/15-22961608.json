@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:09:50.437Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.perrys.co.uk/used/vauxhall/corsa/12-turbo-100-ultimate-5dr/huddersfield/west-yorkshire/21136695",
+    "dealer_id": "15",
+    "car_id": "22961608",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Vauxhall",
+        "model": "CORSA",
+        "variant": "HATCHBACK",
+        "derivative": "1.2 Turbo 130 Ultimate",
+        "registration_number": "NE74RE4",
+        "registration_date": "08/01/2024",
+        "mileage": 0,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 22400,
+        "total_price": 22400,
+        "deposit": 2240,
+        "balance": 20160,
+        "apr": 13.9,
+        "rate_of_interest": 7.35,
+        "term": 60,
+        "regular_payment": 459.48,
+        "final_payment": 469.48,
+        "total_amount_payable": 29818.8,
+        "total_charge_for_credit": 7418.8,
+        "amount_of_credit": 20160,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 22400,
+        "total_price": 22400,
+        "deposit": 2240,
+        "balance": 20160,
+        "apr": 13.9,
+        "rate_of_interest": 13.07,
+        "term": 48,
+        "regular_payment": 394.21,
+        "final_payment": 9333,
+        "total_amount_payable": 30495.08,
+        "total_charge_for_credit": 8095.08,
+        "amount_of_credit": 20160,
+        "lender": "Northridge Finance",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 15,
+        "residual": 9323,
+        "price_to_buy": 9333
+      }
+    ]
+  }
+]

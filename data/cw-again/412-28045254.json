@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T14:37:01.366Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.bvscars.co.uk/used-toyota-hi-lux-brandon-suffolk-6943227",
+    "dealer_id": "412",
+    "car_id": "28045254",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Toyota",
+        "model": "HILUX",
+        "variant": "DIESEL",
+        "derivative": "Invincible X D/Cab Pick Up 2.8 D-4D",
+        "registration_number": "AK22OOF",
+        "registration_date": "18/05/2022",
+        "mileage": 38000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 39000,
+        "total_price": 39000,
+        "deposit": 6500,
+        "balance": 32500,
+        "apr": 12.9,
+        "rate_of_interest": 12.19,
+        "term": 48,
+        "regular_payment": 700.03,
+        "final_payment": 9868,
+        "total_amount_payable": 49969.44,
+        "total_charge_for_credit": 10969.44,
+        "amount_of_credit": 32500,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40000,
+        "excess_mileage_rate": 22,
+        "residual": 9858,
+        "price_to_buy": 9868
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 39000,
+        "total_price": 39000,
+        "deposit": 6500,
+        "balance": 32500,
+        "apr": 12.9,
+        "rate_of_interest": 6.71,
+        "term": 48,
+        "regular_payment": 858.81,
+        "final_payment": 868.81,
+        "total_amount_payable": 47732.88,
+        "total_charge_for_credit": 8732.88,
+        "amount_of_credit": 32500,
+        "lender": "Finset Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

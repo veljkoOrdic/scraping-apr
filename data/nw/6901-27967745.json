@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T14:32:48.709Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.bcperformance.co.uk/cars/ford/fiesta/1.6-t-ecoboost-st-3/1458522/",
+    "dealer_id": "6901",
+    "car_id": "27967745",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "RJ17KDU",
+        "registration_date": "22/05/2017",
+        "mileage": 82274,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 8250,
+        "total_price": 8250,
+        "deposit": 825,
+        "balance": 7425,
+        "apr": 16.1,
+        "rate_of_interest": 7.25,
+        "term": 60,
+        "regular_payment": 176.56,
+        "final_payment": 176.56,
+        "balloon": 0,
+        "total_amount_payable": 11418.6,
+        "total_charge_for_credit": 3168.6,
+        "amount_of_credit": 7425,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 176.56
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 8250,
+        "total_price": 8250,
+        "deposit": 825,
+        "balance": 7425,
+        "apr": 10.9,
+        "rate_of_interest": 5.73,
+        "term": 60,
+        "regular_payment": 159.18,
+        "final_payment": 160.18,
+        "total_amount_payable": 10376.8,
+        "total_charge_for_credit": 2126.8,
+        "amount_of_credit": 7425,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-05-15T19:13:48.166Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.lutontradecentre.com/used-mercedes-benz-s-class-luton-bedfordshire-6783594",
+    "dealer_id": "6846",
+    "car_id": "27404030",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "MX18WCJ",
+        "registration_date": "16/03/2018",
+        "mileage": 72342,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 27995,
+        "total_price": 27995,
+        "deposit": 2799,
+        "balance": 25196,
+        "apr": 11.9,
+        "rate_of_interest": 6.27,
+        "term": 60,
+        "regular_payment": 551.55,
+        "final_payment": 551.55,
+        "balloon": 0,
+        "total_amount_payable": 35892,
+        "total_charge_for_credit": 7897,
+        "amount_of_credit": 25196,
+        "lender": "Santander Consumer Finance",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 551.55
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-05-15T15:23:05.283Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.amverselect.co.uk/used-land-rover-range-rover-sport-airdrie-lanarkshire-6868624",
+    "dealer_id": "2001",
+    "car_id": "27766046",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Land Rover",
+        "model": "RANGE ROVER SPORT",
+        "variant": "ESTATE",
+        "derivative": "2.0 Si4 HSE",
+        "registration_number": "GU20PXZ",
+        "registration_date": "19/03/2020",
+        "mileage": 59000,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 30490,
+        "total_price": 30490,
+        "deposit": 0,
+        "balance": 30490,
+        "apr": 11.4,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 660.62,
+        "final_payment": 660.62,
+        "total_amount_payable": 39637.2,
+        "total_charge_for_credit": 9147.2,
+        "amount_of_credit": 30490,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 30490,
+        "total_price": 30490,
+        "deposit": 0,
+        "balance": 30490,
+        "apr": 13.1,
+        "rate_of_interest": 13.1,
+        "term": 58,
+        "regular_payment": 607.57,
+        "final_payment": 7981.21,
+        "total_amount_payable": 42612.7,
+        "total_charge_for_credit": 12122.7,
+        "amount_of_credit": 30490,
+        "lender": "Connected Car",
+        "annual_mileage": 10000,
+        "contract_mileage": 48333,
+        "excess_mileage_rate": 5.8,
+        "residual": 7981.21,
+        "price_to_buy": 7981.21
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "timestamp": "2025-05-15T18:35:43.612Z",
+    "source": "codeweavers_calculator",
+    "url": "https://www.rivieraautomotive.co.uk/vehicle-details/used-lamborghini-urus-v8-biturbo-performante-for-sale-in-cleckheaton-west-yorkshire-u1398/",
+    "dealer_id": "5575",
+    "car_id": "26841476",
+    "data": [
+      {
+        "type": "vehicle",
+        "manufacturer": "Lamborghini",
+        "model": "URUS",
+        "variant": "ESTATE",
+        "derivative": "4.0T FSI V8 Performante",
+        "registration_number": "LJ24YBS",
+        "registration_date": "21/03/2024",
+        "mileage": 2651,
+        "status": "PreOwned"
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "Lease Purchase",
+        "cash_price": 254995,
+        "total_price": 254995,
+        "deposit": 25499.5,
+        "balance": 229495.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 48,
+        "regular_payment": 3876.89,
+        "final_payment": 125625,
+        "total_amount_payable": 333338.33,
+        "total_charge_for_credit": 78343.33,
+        "amount_of_credit": 229495.5,
+        "lender": "Evolution Funding"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 254995,
+        "total_price": 254995,
+        "deposit": 25499.5,
+        "balance": 229495.5,
+        "apr": 11.4,
+        "rate_of_interest": 11.4,
+        "term": 60,
+        "regular_payment": 4972,
+        "final_payment": 4972,
+        "total_amount_payable": 323819.5,
+        "total_charge_for_credit": 68824.5,
+        "amount_of_credit": 229495.5,
+        "lender": "Evolution Funding",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

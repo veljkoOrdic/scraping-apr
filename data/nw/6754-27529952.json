@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T18:55:25.855Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.wjfcarsales.co.uk/details/car-in-louth/bmw/m4/3.0-biturbo-competition-dct-euro-6-ss-2dr/1419969/",
+    "dealer_id": "6754",
+    "car_id": "27529952",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LL19OBB",
+        "registration_date": "27/03/2019",
+        "mileage": 17100,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 35999,
+        "total_price": 35999,
+        "deposit": 1799.95,
+        "balance": 34199.05,
+        "apr": 15.9,
+        "rate_of_interest": 8.3,
+        "term": 48,
+        "regular_payment": 949.12,
+        "final_payment": 950.12,
+        "total_amount_payable": 47358.71,
+        "total_charge_for_credit": 11359.71,
+        "amount_of_credit": 34199.05,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 6000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

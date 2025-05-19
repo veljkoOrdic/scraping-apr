@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T17:14:56.748Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aphynes.com/details/used-car-in-altrincham/jaguar/e-pace/2.0-p200-r-dynamic-s-auto-awd-euro-6-ss-5dr/1413686/",
+    "dealer_id": "3054",
+    "car_id": "27464578",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "GJ68CHF",
+        "registration_date": "27/10/2018",
+        "mileage": 17953,
+        "status": "Used"
+      },
+      {
+        "type": "finance_cs",
+        "name": "CS",
+        "finance_type": "Conditional Sale",
+        "cash_price": 19900,
+        "total_price": 19900,
+        "deposit": 4975,
+        "balance": 14925,
+        "apr": 12.5,
+        "rate_of_interest": 6,
+        "term": 60,
+        "regular_payment": 330.96,
+        "final_payment": 330.96,
+        "balloon": 0,
+        "total_amount_payable": 24832.6,
+        "total_charge_for_credit": 4932.6,
+        "amount_of_credit": 14925,
+        "lender": "Close Brothers Motor Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0,
+        "price_to_buy": 330.96
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 19900,
+        "total_price": 19900,
+        "deposit": 4975,
+        "balance": 14925,
+        "apr": 10.6,
+        "rate_of_interest": 5.56,
+        "term": 60,
+        "regular_payment": 317.85,
+        "final_payment": 327.85,
+        "total_amount_payable": 24056,
+        "total_charge_for_credit": 4156,
+        "amount_of_credit": 14925,
+        "lender": "Connected Car Finance",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

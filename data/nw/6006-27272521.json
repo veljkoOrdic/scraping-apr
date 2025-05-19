@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-05-15T17:07:11.077Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.hrowen.co.uk/used-car/lotus-eletre-r-5doors-estate-automatic-electric?id=1408702",
+    "dealer_id": "6006",
+    "car_id": "27272521",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "AO73VJD",
+        "registration_date": "30/09/2023",
+        "mileage": 10,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 108950,
+        "total_price": 108950,
+        "deposit": 0,
+        "balance": 108950,
+        "apr": 10.9,
+        "rate_of_interest": 10.9,
+        "term": 48,
+        "regular_payment": 2783.72,
+        "final_payment": 2784.72,
+        "total_amount_payable": 133619.56,
+        "total_charge_for_credit": 24669.56,
+        "amount_of_credit": 108950,
+        "lender": "Alphera Financial Services",
+        "annual_mileage": 0,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      }
+    ]
+  }
+]

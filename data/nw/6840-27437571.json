@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2025-05-15T19:12:42.007Z",
+    "source": "new_vehicle_finance",
+    "url": "https://www.aspirecarsipswichltd.co.uk/cars/porsche/panamera/2.9-v6-e-hybrid-14kwh-4-10-years-edition/1411336/",
+    "dealer_id": "6840",
+    "car_id": "27437571",
+    "data": [
+      {
+        "type": "vehicle",
+        "registration_number": "LX70OET",
+        "registration_date": "07/09/2020",
+        "mileage": 44360,
+        "status": "Used"
+      },
+      {
+        "type": "finance_hp",
+        "name": "HP",
+        "finance_type": "Hire Purchase",
+        "cash_price": 49950,
+        "total_price": 49950,
+        "deposit": 4995,
+        "balance": 44955,
+        "apr": 9.9,
+        "rate_of_interest": 5.19,
+        "term": 60,
+        "regular_payment": 943.63,
+        "final_payment": 944.63,
+        "total_amount_payable": 61613.8,
+        "total_charge_for_credit": 11663.8,
+        "amount_of_credit": 44955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "excess_mileage_rate": 0,
+        "residual": 0
+      },
+      {
+        "type": "finance_pcp",
+        "name": "PCP",
+        "finance_type": "PCP",
+        "cash_price": 49950,
+        "total_price": 49950,
+        "deposit": 4995,
+        "balance": 44955,
+        "apr": 9.9,
+        "rate_of_interest": 4.88,
+        "term": 49,
+        "regular_payment": 782.36,
+        "final_payment": 20291.1,
+        "total_amount_payable": 62839.38,
+        "total_charge_for_credit": 12889.38,
+        "amount_of_credit": 44955,
+        "lender": "Motonovo Finance Limited",
+        "annual_mileage": 10000,
+        "contract_mileage": 40833,
+        "excess_mileage_rate": 0.26,
+        "residual": 20290.1,
+        "price_to_buy": 20291.1
+      }
+    ]
+  }
+]
