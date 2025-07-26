@@ -29,7 +29,7 @@ const plugins = {
 // Define listeners configuration
 const listeners = {
     ConsoleLog: {},
-    FileStorage: {logDir: 'data/cw-again', filenameFormat: '{hash}.json'}
+    FileStorage: {logDir: 'data/cw-again-again', filenameFormat: '{hash}.json'}
 };
 
 // Create Scraper instance
