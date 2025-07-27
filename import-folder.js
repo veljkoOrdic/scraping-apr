@@ -4,10 +4,6 @@ const mysql = require('mysql2');
 
 // MySQL connection
 const connection = mysql.createConnection({
-    host: '136.243.15.44',
-    user: 'guilhermeCS',
-    password: 'xFdt77&1',
-    database: 'db_internal',
     charset: 'utf8',
     namedPlaceholders: true // Enable named placeholders
 });
