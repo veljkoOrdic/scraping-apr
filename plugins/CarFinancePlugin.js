@@ -67,9 +67,7 @@ class CarFinancePlugin extends IPlugin {
                     }
                 } catch (error) {
                     app.error(this.name, `Error processing main page: ${error.message}`, {url: response.url()});
-                    if (error.message.includes('redirect')) {
-                        this.handleResultFound(`Redirected !!! ${error.message}`, this.getPageUrl());
-                    }
+                    // if (error.message.includes('redirect')) this.handleResultFound(`Redirected !!! ${error.message}`, this.getPageUrl());
                 }
                 this.initialResponseProcessed = true;
             }
