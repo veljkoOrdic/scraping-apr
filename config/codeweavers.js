@@ -6,7 +6,7 @@ module.exports = {
     blockPatterns: [
         // '\\/api\\/',
         // '\\/Dealer\\/',
-        // '\\/\\/plugins\.',
+        '\\/\\/plugins\.',
         '\\/\\/test\.',
     ],
 };
